@@ -44,7 +44,7 @@
     {
       "id": 174,
       "nombre": "Spiderman",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 205,
@@ -439,6 +439,16 @@
     {
       "id": 406,
       "nombre": "turcos",
+      "cantidad": 1
+    },
+    {
+      "id": 465,
+      "nombre": "air",
+      "cantidad": 1
+    },
+    {
+      "id": 462,
+      "nombre": "sakura",
       "cantidad": 1
     }
   ]
