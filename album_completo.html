@@ -283,48 +283,48 @@
         cursor: pointer;
         font-weight: bold;
     }
-
-    /* NUEVOS ESTILOS PARA LA TABLA RESUMEN */
-    .summary-list-container {
+    
+    /* ESTILOS DE LA CUADRÍCULA DE SERIES */
+    .summary-grid-container {
         margin-top: 20px;
         margin-bottom: 30px;
     }
-    
-    .summary-list {
-        column-count: 2; /* Crea dos columnas para la lista */
-        column-gap: 20px;
-        list-style: none;
-        padding: 0;
-        margin: 0;
+
+    .summary-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+        gap: 15px;
+        justify-content: center;
     }
-    
-    .summary-list li {
-        margin-bottom: 10px;
+
+    .summary-button {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        aspect-ratio: 1 / 1; /* Mantiene el botón cuadrado */
         padding: 10px;
         background-color: #2a2a2a;
         border: 1px solid #444;
-        border-radius: 5px;
+        border-radius: 10px;
         transition: background-color 0.2s;
-        break-inside: avoid; /* Evita que los items se rompan entre columnas */
-    }
-    
-    .summary-list li:hover {
-        background-color: #383838;
+        text-align: center;
         cursor: pointer;
     }
-    
-    .summary-link {
-        display: flex;
-        justify-content: space-between;
-        text-decoration: none;
-        color: #f4f4f4;
+
+    .summary-button:hover {
+        background-color: #383838;
     }
-    
-    .summary-link-title {
+
+    .summary-button-title {
         font-weight: bold;
+        color: #f4f4f4;
+        font-size: 0.9em;
+        margin-bottom: 5px;
     }
-    
-    .summary-link-counter {
+
+    .summary-button-counter {
+        font-size: 0.8em;
         color: #ff9900;
     }
 </style>
@@ -373,196 +373,196 @@
             
             <div class="details">
                 <div class="info">
-                    <div class="summary-list-container">
+                    <div class="summary-grid-container">
                         <h2>Resumen por Serie</h2>
-                        <ul class="summary-list">
+                        <div class="summary-grid">
                             
-                                <li onclick="mostrarCartas('BraveStarr')">
-                                    <span class="summary-link-title">BraveStarr</span>
-                                    <span class="summary-link-counter">4 / 4</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('BraveStarr')">
+                                    <span class="summary-button-title">BraveStarr</span>
+                                    <span class="summary-button-counter">4 / 4</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('Caballeros del Zodiaco')">
-                                    <span class="summary-link-title">Caballeros del Zodiaco</span>
-                                    <span class="summary-link-counter">10 / 10</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('Caballeros del Zodiaco')">
+                                    <span class="summary-button-title">Caballeros del Zodiaco</span>
+                                    <span class="summary-button-counter">10 / 10</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('Conan El Bárbaro')">
-                                    <span class="summary-link-title">Conan El Bárbaro</span>
-                                    <span class="summary-link-counter">13 / 13</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('Conan El Bárbaro')">
+                                    <span class="summary-button-title">Conan El Bárbaro</span>
+                                    <span class="summary-button-counter">13 / 13</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('D&D')">
-                                    <span class="summary-link-title">D&D</span>
-                                    <span class="summary-link-counter">10 / 10</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('D&D')">
+                                    <span class="summary-button-title">D&D</span>
+                                    <span class="summary-button-counter">10 / 10</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('Dragon Quest')">
-                                    <span class="summary-link-title">Dragon Quest</span>
-                                    <span class="summary-link-counter">56 / 56</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('Dragon Quest')">
+                                    <span class="summary-button-title">Dragon Quest</span>
+                                    <span class="summary-button-counter">56 / 56</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('Galaxy Rangers')">
-                                    <span class="summary-link-title">Galaxy Rangers</span>
-                                    <span class="summary-link-counter">4 / 4</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('Galaxy Rangers')">
+                                    <span class="summary-button-title">Galaxy Rangers</span>
+                                    <span class="summary-button-counter">4 / 4</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('Gargoyles')">
-                                    <span class="summary-link-title">Gargoyles</span>
-                                    <span class="summary-link-counter">12 / 12</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('Gargoyles')">
+                                    <span class="summary-button-title">Gargoyles</span>
+                                    <span class="summary-button-counter">12 / 12</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('Gijoe')">
-                                    <span class="summary-link-title">Gijoe</span>
-                                    <span class="summary-link-counter">16 / 16</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('Gijoe')">
+                                    <span class="summary-button-title">Gijoe</span>
+                                    <span class="summary-button-counter">16 / 16</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('Heman')">
-                                    <span class="summary-link-title">Heman</span>
-                                    <span class="summary-link-counter">19 / 19</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('Heman')">
+                                    <span class="summary-button-title">Heman</span>
+                                    <span class="summary-button-counter">19 / 19</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('Mazinger')">
-                                    <span class="summary-link-title">Mazinger</span>
-                                    <span class="summary-link-counter">6 / 6</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('Mazinger')">
+                                    <span class="summary-button-title">Mazinger</span>
+                                    <span class="summary-button-counter">6 / 6</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('Mighty Ducks')">
-                                    <span class="summary-link-title">Mighty Ducks</span>
-                                    <span class="summary-link-counter">8 / 8</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('Mighty Ducks')">
+                                    <span class="summary-button-title">Mighty Ducks</span>
+                                    <span class="summary-button-counter">8 / 8</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('Motorratones')">
-                                    <span class="summary-link-title">Motorratones</span>
-                                    <span class="summary-link-counter">10 / 10</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('Motorratones')">
+                                    <span class="summary-button-title">Motorratones</span>
+                                    <span class="summary-button-counter">10 / 10</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('Silverhawks')">
-                                    <span class="summary-link-title">Silverhawks</span>
-                                    <span class="summary-link-counter">7 / 7</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('Silverhawks')">
+                                    <span class="summary-button-title">Silverhawks</span>
+                                    <span class="summary-button-counter">7 / 7</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('Spiderman')">
-                                    <span class="summary-link-title">Spiderman</span>
-                                    <span class="summary-link-counter">30 / 30</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('Spiderman')">
+                                    <span class="summary-button-title">Spiderman</span>
+                                    <span class="summary-button-counter">30 / 30</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('Varios')">
-                                    <span class="summary-link-title">Varios</span>
-                                    <span class="summary-link-counter">6 / 6</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('Varios')">
+                                    <span class="summary-button-title">Varios</span>
+                                    <span class="summary-button-counter">6 / 6</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('Street Sharks')">
-                                    <span class="summary-link-title">Street Sharks</span>
-                                    <span class="summary-link-counter">17 / 17</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('Street Sharks')">
+                                    <span class="summary-button-title">Street Sharks</span>
+                                    <span class="summary-button-counter">17 / 17</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('Terrenos&Objetos')">
-                                    <span class="summary-link-title">Terrenos&Objetos</span>
-                                    <span class="summary-link-counter">42 / 42</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('Terrenos&Objetos')">
+                                    <span class="summary-button-title">Terrenos&Objetos</span>
+                                    <span class="summary-button-counter">42 / 42</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('ThunderCats')">
-                                    <span class="summary-link-title">ThunderCats</span>
-                                    <span class="summary-link-counter">21 / 21</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('ThunderCats')">
+                                    <span class="summary-button-title">ThunderCats</span>
+                                    <span class="summary-button-counter">21 / 21</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('Tortugas Ninja')">
-                                    <span class="summary-link-title">Tortugas Ninja</span>
-                                    <span class="summary-link-counter">30 / 30</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('Tortugas Ninja')">
+                                    <span class="summary-button-title">Tortugas Ninja</span>
+                                    <span class="summary-button-counter">30 / 30</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('Transformers')">
-                                    <span class="summary-link-title">Transformers</span>
-                                    <span class="summary-link-counter">18 / 18</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('Transformers')">
+                                    <span class="summary-button-title">Transformers</span>
+                                    <span class="summary-button-counter">18 / 18</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('X-Men')">
-                                    <span class="summary-link-title">X-Men</span>
-                                    <span class="summary-link-counter">30 / 30</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('X-Men')">
+                                    <span class="summary-button-title">X-Men</span>
+                                    <span class="summary-button-counter">30 / 30</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('Alundra')">
-                                    <span class="summary-link-title">Alundra</span>
-                                    <span class="summary-link-counter">9 / 9</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('Alundra')">
+                                    <span class="summary-button-title">Alundra</span>
+                                    <span class="summary-button-counter">9 / 9</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('Bloody Roar')">
-                                    <span class="summary-link-title">Bloody Roar</span>
-                                    <span class="summary-link-counter">9 / 9</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('Bloody Roar')">
+                                    <span class="summary-button-title">Bloody Roar</span>
+                                    <span class="summary-button-counter">9 / 9</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('Castlevania')">
-                                    <span class="summary-link-title">Castlevania</span>
-                                    <span class="summary-link-counter">10 / 10</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('Castlevania')">
+                                    <span class="summary-button-title">Castlevania</span>
+                                    <span class="summary-button-counter">10 / 10</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('Chrono Cross')">
-                                    <span class="summary-link-title">Chrono Cross</span>
-                                    <span class="summary-link-counter">9 / 9</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('Chrono Cross')">
+                                    <span class="summary-button-title">Chrono Cross</span>
+                                    <span class="summary-button-counter">9 / 9</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('Crash Bandicoot')">
-                                    <span class="summary-link-title">Crash Bandicoot</span>
-                                    <span class="summary-link-counter">11 / 11</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('Crash Bandicoot')">
+                                    <span class="summary-button-title">Crash Bandicoot</span>
+                                    <span class="summary-button-counter">11 / 11</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('DRAGONQUEST')">
-                                    <span class="summary-link-title">DRAGONQUEST</span>
-                                    <span class="summary-link-counter">1 / 1</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('DRAGONQUEST')">
+                                    <span class="summary-button-title">DRAGONQUEST</span>
+                                    <span class="summary-button-counter">1 / 1</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('FFVII')">
-                                    <span class="summary-link-title">FFVII</span>
-                                    <span class="summary-link-counter">12 / 12</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('FFVII')">
+                                    <span class="summary-button-title">FFVII</span>
+                                    <span class="summary-button-counter">12 / 12</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('Metal Gear Solid')">
-                                    <span class="summary-link-title">Metal Gear Solid</span>
-                                    <span class="summary-link-counter">25 / 25</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('Metal Gear Solid')">
+                                    <span class="summary-button-title">Metal Gear Solid</span>
+                                    <span class="summary-button-counter">25 / 25</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('Oddworld Abe's Oddysee')">
-                                    <span class="summary-link-title">Oddworld Abe's Oddysee</span>
-                                    <span class="summary-link-counter">7 / 7</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('Oddworld Abe's Oddysee')">
+                                    <span class="summary-button-title">Oddworld Abe's Oddysee</span>
+                                    <span class="summary-button-counter">7 / 7</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('Resident Evil')">
-                                    <span class="summary-link-title">Resident Evil</span>
-                                    <span class="summary-link-counter">12 / 12</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('Resident Evil')">
+                                    <span class="summary-button-title">Resident Evil</span>
+                                    <span class="summary-button-counter">12 / 12</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('Rival School')">
-                                    <span class="summary-link-title">Rival School</span>
-                                    <span class="summary-link-counter">9 / 9</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('Rival School')">
+                                    <span class="summary-button-title">Rival School</span>
+                                    <span class="summary-button-counter">9 / 9</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('Silent Hill')">
-                                    <span class="summary-link-title">Silent Hill</span>
-                                    <span class="summary-link-counter">16 / 16</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('Silent Hill')">
+                                    <span class="summary-button-title">Silent Hill</span>
+                                    <span class="summary-button-counter">16 / 16</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('Spyro The Dragon')">
-                                    <span class="summary-link-title">Spyro The Dragon</span>
-                                    <span class="summary-link-counter">9 / 9</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('Spyro The Dragon')">
+                                    <span class="summary-button-title">Spyro The Dragon</span>
+                                    <span class="summary-button-counter">9 / 9</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('Suikoden II')">
-                                    <span class="summary-link-title">Suikoden II</span>
-                                    <span class="summary-link-counter">10 / 10</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('Suikoden II')">
+                                    <span class="summary-button-title">Suikoden II</span>
+                                    <span class="summary-button-counter">10 / 10</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('Tekken3')">
-                                    <span class="summary-link-title">Tekken3</span>
-                                    <span class="summary-link-counter">9 / 9</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('Tekken3')">
+                                    <span class="summary-button-title">Tekken3</span>
+                                    <span class="summary-button-counter">9 / 9</span>
+                                </div>
                             
-                                <li onclick="mostrarCartas('Tomb Raider')">
-                                    <span class="summary-link-title">Tomb Raider</span>
-                                    <span class="summary-link-counter">2 / 2</span>
-                                </li>
+                                <div class="summary-button" onclick="mostrarCartas('Tomb Raider')">
+                                    <span class="summary-button-title">Tomb Raider</span>
+                                    <span class="summary-button-counter">2 / 2</span>
+                                </div>
                             
-                        </ul>
+                        </div>
                     </div>
                     
                     <div id="cards-container">
