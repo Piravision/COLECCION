@@ -89,7 +89,7 @@
     {
       "id": 101,
       "nombre": "Duke",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 320,
@@ -474,6 +474,16 @@
     {
       "id": 340,
       "nombre": "Poseidón",
+      "cantidad": 1
+    },
+    {
+      "id": 434,
+      "nombre": "vulcan",
+      "cantidad": 1
+    },
+    {
+      "id": 335,
+      "nombre": "Toad",
       "cantidad": 1
     }
   ]
