@@ -1,14 +1,3 @@
-Me parece una idea excelente y mucho más visual. Con una tabla resumen en la parte superior se reduce la cantidad de scroll necesario y se le da al usuario un control mucho más claro sobre qué serie quiere explorar. Es una solución más eficiente que el sistema de acordeón, especialmente con muchas series.
-
-Para conseguirlo, debemos modificar la plantilla `coleccion.html` para reemplazar el sistema de acordeón por una tabla de resumen interactiva. Cuando el usuario haga clic en una serie de la tabla, se mostrarán las cartas de esa serie justo debajo.
-
-A continuación, te adjunto el código HTML completo y corregido. Solo tienes que reemplazar el contenido de tu archivo `coleccion.html` con este nuevo código.
-
------
-
-### Código `coleccion.html` completo y corregido
-
-```html
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -296,41 +285,47 @@ A continuación, te adjunto el código HTML completo y corregido. Solo tienes qu
     }
 
     /* NUEVOS ESTILOS PARA LA TABLA RESUMEN */
-    .summary-table-container {
+    .summary-list-container {
         margin-top: 20px;
         margin-bottom: 30px;
     }
     
-    .summary-table {
-        width: 100%;
-        border-collapse: collapse;
+    .summary-list {
+        column-count: 2; /* Crea dos columnas para la lista */
+        column-gap: 20px;
+        list-style: none;
+        padding: 0;
+        margin: 0;
     }
     
-    .summary-table th, .summary-table td {
-        padding: 12px;
-        text-align: left;
-        border-bottom: 1px solid #444;
-    }
-    
-    .summary-table th {
-        background-color: #1f1f1f;
-        color: #ff9900;
-        font-size: 1.1rem;
-    }
-    
-    .summary-table td {
+    .summary-list li {
+        margin-bottom: 10px;
+        padding: 10px;
         background-color: #2a2a2a;
+        border: 1px solid #444;
+        border-radius: 5px;
         transition: background-color 0.2s;
+        break-inside: avoid; /* Evita que los items se rompan entre columnas */
+    }
+    
+    .summary-list li:hover {
+        background-color: #383838;
         cursor: pointer;
     }
     
-    .summary-table td:hover {
-        background-color: #383838;
+    .summary-link {
+        display: flex;
+        justify-content: space-between;
+        text-decoration: none;
+        color: #f4f4f4;
     }
     
-    .summary-table .series-counter {
-        text-align: right;
+    .summary-link-title {
         font-weight: bold;
+    }
+    
+    .summary-link-counter {
+        color: #ff9900;
     }
 </style>
 </head>
@@ -378,204 +373,196 @@ A continuación, te adjunto el código HTML completo y corregido. Solo tienes qu
             
             <div class="details">
                 <div class="info">
-                    <div class="summary-table-container">
+                    <div class="summary-list-container">
                         <h2>Resumen por Serie</h2>
-                        <table class="summary-table">
-                            <thead>
-                                <tr>
-                                    <th>Serie</th>
-                                    <th class="series-counter">Cartas Obtenidas</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                
-                                    <tr onclick="mostrarCartas('BraveStarr')">
-                                        <td>BraveStarr</td>
-                                        <td class="series-counter">4 / 4</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('Caballeros del Zodiaco')">
-                                        <td>Caballeros del Zodiaco</td>
-                                        <td class="series-counter">10 / 10</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('Conan El Bárbaro')">
-                                        <td>Conan El Bárbaro</td>
-                                        <td class="series-counter">13 / 13</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('D&D')">
-                                        <td>D&D</td>
-                                        <td class="series-counter">10 / 10</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('Dragon Quest')">
-                                        <td>Dragon Quest</td>
-                                        <td class="series-counter">56 / 56</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('Galaxy Rangers')">
-                                        <td>Galaxy Rangers</td>
-                                        <td class="series-counter">4 / 4</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('Gargoyles')">
-                                        <td>Gargoyles</td>
-                                        <td class="series-counter">12 / 12</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('Gijoe')">
-                                        <td>Gijoe</td>
-                                        <td class="series-counter">16 / 16</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('Heman')">
-                                        <td>Heman</td>
-                                        <td class="series-counter">19 / 19</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('Mazinger')">
-                                        <td>Mazinger</td>
-                                        <td class="series-counter">6 / 6</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('Mighty Ducks')">
-                                        <td>Mighty Ducks</td>
-                                        <td class="series-counter">8 / 8</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('Motorratones')">
-                                        <td>Motorratones</td>
-                                        <td class="series-counter">10 / 10</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('Silverhawks')">
-                                        <td>Silverhawks</td>
-                                        <td class="series-counter">7 / 7</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('Spiderman')">
-                                        <td>Spiderman</td>
-                                        <td class="series-counter">30 / 30</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('Varios')">
-                                        <td>Varios</td>
-                                        <td class="series-counter">6 / 6</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('Street Sharks')">
-                                        <td>Street Sharks</td>
-                                        <td class="series-counter">17 / 17</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('Terrenos&Objetos')">
-                                        <td>Terrenos&Objetos</td>
-                                        <td class="series-counter">42 / 42</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('ThunderCats')">
-                                        <td>ThunderCats</td>
-                                        <td class="series-counter">21 / 21</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('Tortugas Ninja')">
-                                        <td>Tortugas Ninja</td>
-                                        <td class="series-counter">30 / 30</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('Transformers')">
-                                        <td>Transformers</td>
-                                        <td class="series-counter">18 / 18</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('X-Men')">
-                                        <td>X-Men</td>
-                                        <td class="series-counter">30 / 30</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('Alundra')">
-                                        <td>Alundra</td>
-                                        <td class="series-counter">9 / 9</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('Bloody Roar')">
-                                        <td>Bloody Roar</td>
-                                        <td class="series-counter">9 / 9</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('Castlevania')">
-                                        <td>Castlevania</td>
-                                        <td class="series-counter">10 / 10</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('Chrono Cross')">
-                                        <td>Chrono Cross</td>
-                                        <td class="series-counter">9 / 9</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('Crash Bandicoot')">
-                                        <td>Crash Bandicoot</td>
-                                        <td class="series-counter">11 / 11</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('DRAGONQUEST')">
-                                        <td>DRAGONQUEST</td>
-                                        <td class="series-counter">1 / 1</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('FFVII')">
-                                        <td>FFVII</td>
-                                        <td class="series-counter">12 / 12</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('Metal Gear Solid')">
-                                        <td>Metal Gear Solid</td>
-                                        <td class="series-counter">25 / 25</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('Oddworld Abe's Oddysee')">
-                                        <td>Oddworld Abe's Oddysee</td>
-                                        <td class="series-counter">7 / 7</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('Resident Evil')">
-                                        <td>Resident Evil</td>
-                                        <td class="series-counter">12 / 12</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('Rival School')">
-                                        <td>Rival School</td>
-                                        <td class="series-counter">9 / 9</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('Silent Hill')">
-                                        <td>Silent Hill</td>
-                                        <td class="series-counter">16 / 16</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('Spyro The Dragon')">
-                                        <td>Spyro The Dragon</td>
-                                        <td class="series-counter">9 / 9</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('Suikoden II')">
-                                        <td>Suikoden II</td>
-                                        <td class="series-counter">10 / 10</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('Tekken3')">
-                                        <td>Tekken3</td>
-                                        <td class="series-counter">9 / 9</td>
-                                    </tr>
-                                
-                                    <tr onclick="mostrarCartas('Tomb Raider')">
-                                        <td>Tomb Raider</td>
-                                        <td class="series-counter">2 / 2</td>
-                                    </tr>
-                                
-                            </tbody>
-                        </table>
+                        <ul class="summary-list">
+                            
+                                <li onclick="mostrarCartas('BraveStarr')">
+                                    <span class="summary-link-title">BraveStarr</span>
+                                    <span class="summary-link-counter">4 / 4</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('Caballeros del Zodiaco')">
+                                    <span class="summary-link-title">Caballeros del Zodiaco</span>
+                                    <span class="summary-link-counter">10 / 10</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('Conan El Bárbaro')">
+                                    <span class="summary-link-title">Conan El Bárbaro</span>
+                                    <span class="summary-link-counter">13 / 13</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('D&D')">
+                                    <span class="summary-link-title">D&D</span>
+                                    <span class="summary-link-counter">10 / 10</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('Dragon Quest')">
+                                    <span class="summary-link-title">Dragon Quest</span>
+                                    <span class="summary-link-counter">56 / 56</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('Galaxy Rangers')">
+                                    <span class="summary-link-title">Galaxy Rangers</span>
+                                    <span class="summary-link-counter">4 / 4</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('Gargoyles')">
+                                    <span class="summary-link-title">Gargoyles</span>
+                                    <span class="summary-link-counter">12 / 12</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('Gijoe')">
+                                    <span class="summary-link-title">Gijoe</span>
+                                    <span class="summary-link-counter">16 / 16</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('Heman')">
+                                    <span class="summary-link-title">Heman</span>
+                                    <span class="summary-link-counter">19 / 19</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('Mazinger')">
+                                    <span class="summary-link-title">Mazinger</span>
+                                    <span class="summary-link-counter">6 / 6</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('Mighty Ducks')">
+                                    <span class="summary-link-title">Mighty Ducks</span>
+                                    <span class="summary-link-counter">8 / 8</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('Motorratones')">
+                                    <span class="summary-link-title">Motorratones</span>
+                                    <span class="summary-link-counter">10 / 10</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('Silverhawks')">
+                                    <span class="summary-link-title">Silverhawks</span>
+                                    <span class="summary-link-counter">7 / 7</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('Spiderman')">
+                                    <span class="summary-link-title">Spiderman</span>
+                                    <span class="summary-link-counter">30 / 30</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('Varios')">
+                                    <span class="summary-link-title">Varios</span>
+                                    <span class="summary-link-counter">6 / 6</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('Street Sharks')">
+                                    <span class="summary-link-title">Street Sharks</span>
+                                    <span class="summary-link-counter">17 / 17</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('Terrenos&Objetos')">
+                                    <span class="summary-link-title">Terrenos&Objetos</span>
+                                    <span class="summary-link-counter">42 / 42</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('ThunderCats')">
+                                    <span class="summary-link-title">ThunderCats</span>
+                                    <span class="summary-link-counter">21 / 21</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('Tortugas Ninja')">
+                                    <span class="summary-link-title">Tortugas Ninja</span>
+                                    <span class="summary-link-counter">30 / 30</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('Transformers')">
+                                    <span class="summary-link-title">Transformers</span>
+                                    <span class="summary-link-counter">18 / 18</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('X-Men')">
+                                    <span class="summary-link-title">X-Men</span>
+                                    <span class="summary-link-counter">30 / 30</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('Alundra')">
+                                    <span class="summary-link-title">Alundra</span>
+                                    <span class="summary-link-counter">9 / 9</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('Bloody Roar')">
+                                    <span class="summary-link-title">Bloody Roar</span>
+                                    <span class="summary-link-counter">9 / 9</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('Castlevania')">
+                                    <span class="summary-link-title">Castlevania</span>
+                                    <span class="summary-link-counter">10 / 10</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('Chrono Cross')">
+                                    <span class="summary-link-title">Chrono Cross</span>
+                                    <span class="summary-link-counter">9 / 9</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('Crash Bandicoot')">
+                                    <span class="summary-link-title">Crash Bandicoot</span>
+                                    <span class="summary-link-counter">11 / 11</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('DRAGONQUEST')">
+                                    <span class="summary-link-title">DRAGONQUEST</span>
+                                    <span class="summary-link-counter">1 / 1</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('FFVII')">
+                                    <span class="summary-link-title">FFVII</span>
+                                    <span class="summary-link-counter">12 / 12</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('Metal Gear Solid')">
+                                    <span class="summary-link-title">Metal Gear Solid</span>
+                                    <span class="summary-link-counter">25 / 25</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('Oddworld Abe's Oddysee')">
+                                    <span class="summary-link-title">Oddworld Abe's Oddysee</span>
+                                    <span class="summary-link-counter">7 / 7</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('Resident Evil')">
+                                    <span class="summary-link-title">Resident Evil</span>
+                                    <span class="summary-link-counter">12 / 12</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('Rival School')">
+                                    <span class="summary-link-title">Rival School</span>
+                                    <span class="summary-link-counter">9 / 9</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('Silent Hill')">
+                                    <span class="summary-link-title">Silent Hill</span>
+                                    <span class="summary-link-counter">16 / 16</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('Spyro The Dragon')">
+                                    <span class="summary-link-title">Spyro The Dragon</span>
+                                    <span class="summary-link-counter">9 / 9</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('Suikoden II')">
+                                    <span class="summary-link-title">Suikoden II</span>
+                                    <span class="summary-link-counter">10 / 10</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('Tekken3')">
+                                    <span class="summary-link-title">Tekken3</span>
+                                    <span class="summary-link-counter">9 / 9</span>
+                                </li>
+                            
+                                <li onclick="mostrarCartas('Tomb Raider')">
+                                    <span class="summary-link-title">Tomb Raider</span>
+                                    <span class="summary-link-counter">2 / 2</span>
+                                </li>
+                            
+                        </ul>
                     </div>
                     
                     <div id="cards-container">
@@ -988,7 +975,7 @@ A continuación, te adjunto el código HTML completo y corregido. Solo tienes qu
                                 </div>
                             </div>
                         
-                            <div class="series-cards" id="series-D&D" style="display: none;">
+                            <div class="series-cards" id="series-DandD" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>D&D</h2>
                                     <span>Cartas obtenidas: 10 / 10</span>
@@ -3932,7 +3919,7 @@ A continuación, te adjunto el código HTML completo y corregido. Solo tienes qu
                                 </div>
                             </div>
                         
-                            <div class="series-cards" id="series-Terrenos&Objetos" style="display: none;">
+                            <div class="series-cards" id="series-TerrenosandObjetos" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Terrenos&Objetos</h2>
                                     <span>Cartas obtenidas: 42 / 42</span>
@@ -7240,7 +7227,7 @@ A continuación, te adjunto el código HTML completo y corregido. Solo tienes qu
                                 </div>
                             </div>
                         
-                            <div class="series-cards" id="series-Oddworld-Abe's-Oddysee" style="display: none;">
+                            <div class="series-cards" id="series-Oddworld-Abes-Oddysee" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Oddworld Abe's Oddysee</h2>
                                     <span>Cartas obtenidas: 7 / 7</span>
@@ -8411,14 +8398,14 @@ A continuación, te adjunto el código HTML completo y corregido. Solo tienes qu
             }
         });
 
-        // NUEVA FUNCIÓN PARA MOSTRAR LAS CARTAS DE UNA SERIE
         function mostrarCartas(serie) {
             // Oculta todas las series
             const todasLasSeries = document.querySelectorAll('.series-cards');
             todasLasSeries.forEach(s => s.style.display = 'none');
             
             // Muestra solo la serie seleccionada
-            const serieSeleccionada = document.getElementById(`series-${serie.replace(' ', '-')}`);
+            const serieId = `series-${serie.replace(/ /g, '-').replace(/&/g, 'and').replace(/'/g, '')}`;
+            const serieSeleccionada = document.getElementById(serieId);
             if (serieSeleccionada) {
                 serieSeleccionada.style.display = 'block';
             }
@@ -8426,4 +8413,3 @@ A continuación, te adjunto el código HTML completo y corregido. Solo tienes qu
     </script>
 </body>
 </html>
-```
