@@ -59,7 +59,7 @@
     {
       "id": 480,
       "nombre": "Twinfeeler",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 221,
@@ -179,6 +179,16 @@
     {
       "id": 179,
       "nombre": "Duende Verde",
+      "cantidad": 1
+    },
+    {
+      "id": 275,
+      "nombre": "Usagi Yojimbo",
+      "cantidad": 1
+    },
+    {
+      "id": 303,
+      "nombre": "Megatron",
       "cantidad": 1
     }
   ]

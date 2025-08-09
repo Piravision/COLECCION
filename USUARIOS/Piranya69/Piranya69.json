@@ -174,7 +174,7 @@
     {
       "id": 147,
       "nombre": "Carbine",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 94,
@@ -599,6 +599,31 @@
     {
       "id": 520,
       "nombre": "BenGalí",
+      "cantidad": 1
+    },
+    {
+      "id": 124,
+      "nombre": "Stratos",
+      "cantidad": 1
+    },
+    {
+      "id": 372,
+      "nombre": "RENARD",
+      "cantidad": 1
+    },
+    {
+      "id": 113,
+      "nombre": "Serpentor",
+      "cantidad": 1
+    },
+    {
+      "id": 406,
+      "nombre": "turcos",
+      "cantidad": 1
+    },
+    {
+      "id": 255,
+      "nombre": "Ma Mutt",
       "cantidad": 1
     }
   ]
