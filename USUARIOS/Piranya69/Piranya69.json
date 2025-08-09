@@ -29,7 +29,7 @@
     {
       "id": 117,
       "nombre": "He man",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 8,
@@ -39,7 +39,7 @@
     {
       "id": 256,
       "nombre": "Mandrilo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 47,
@@ -354,7 +354,7 @@
     {
       "id": 179,
       "nombre": "Duende Verde",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 35,
@@ -584,6 +584,21 @@
     {
       "id": 62,
       "nombre": "derolin",
+      "cantidad": 1
+    },
+    {
+      "id": 433,
+      "nombre": "vincent",
+      "cantidad": 1
+    },
+    {
+      "id": 349,
+      "nombre": "melzas",
+      "cantidad": 1
+    },
+    {
+      "id": 520,
+      "nombre": "BenGalí",
       "cantidad": 1
     }
   ]
