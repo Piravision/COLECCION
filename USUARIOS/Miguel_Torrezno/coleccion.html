@@ -384,7 +384,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de Miguel_Torrezno</h2>
-                <span>Cartas obtenidas: 64 / 529</span>
+                <span>Cartas obtenidas: 67 / 529</span>
             </div>
             
             <div class="details">
@@ -392,6 +392,11 @@
                     <div class="summary-grid-container">
                         <h2>Resumen por Serie</h2>
                         <div class="summary-grid">
+                            
+                                <div class="summary-button" onclick="mostrarCartas('Alundra')">
+                                    <span class="summary-button-title">Alundra</span>
+                                    <span class="summary-button-counter">1 / 9</span>
+                                </div>
                             
                                 <div class="summary-button" onclick="mostrarCartas('Caballeros del Zodiaco')">
                                     <span class="summary-button-title">Caballeros del Zodiaco</span>
@@ -415,7 +420,7 @@
                             
                                 <div class="summary-button" onclick="mostrarCartas('Dragon Quest')">
                                     <span class="summary-button-title">Dragon Quest</span>
-                                    <span class="summary-button-counter">4 / 56</span>
+                                    <span class="summary-button-counter">5 / 56</span>
                                 </div>
                             
                                 <div class="summary-button" onclick="mostrarCartas('FFVII')">
@@ -505,7 +510,7 @@
                             
                                 <div class="summary-button" onclick="mostrarCartas('Transformers')">
                                     <span class="summary-button-title">Transformers</span>
-                                    <span class="summary-button-counter">5 / 18</span>
+                                    <span class="summary-button-counter">6 / 18</span>
                                 </div>
                             
                                 <div class="summary-button" onclick="mostrarCartas('Varios')">
@@ -522,6 +527,30 @@
                     </div>
                     
                     <div id="cards-container">
+                        
+                            <div class="series-cards" id="series-Alundra" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Alundra</h2>
+                                    <span>Cartas obtenidas: 1 / 9</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 350</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '350', 'Murgg'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Alundra/PERSONAJE/Murgg.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Alundra/PERSONAJE/Murgg.png" alt="Murgg">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Murgg (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
                         
                             <div class="series-cards" id="series-Caballeros-del-Zodiaco" style="display: none;">
                                 <div class="section-title-2">
@@ -650,7 +679,7 @@
                             <div class="series-cards" id="series-Dragon-Quest" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Dragon Quest</h2>
-                                    <span>Cartas obtenidas: 4 / 56</span>
+                                    <span>Cartas obtenidas: 5 / 56</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -692,6 +721,20 @@
                                             </a>
                                             <div class="cromo-details">
                                                 <h3>mam (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 79</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '79', 'pororo'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/VILLANO/pororo(25-3-2024-16_28).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/VILLANO/pororo(25-3-2024-16_28).png" alt="pororo">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>pororo (x1)</h3>
                                                 <p>Rareza: Raro</p>
                                             </div>
                                         </div>
@@ -1502,7 +1545,7 @@
                             <div class="series-cards" id="series-Transformers" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Transformers</h2>
-                                    <span>Cartas obtenidas: 5 / 18</span>
+                                    <span>Cartas obtenidas: 6 / 18</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -1531,6 +1574,20 @@
                                             <div class="cromo-details">
                                                 <h3>Jazz (x1)</h3>
                                                 <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 297</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '297', 'Optimus Prime'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Transformers/HERO/Optimus-Prime(5-12-2023-1_15).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Transformers/HERO/Optimus-Prime(5-12-2023-1_15).png" alt="Optimus Prime">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Optimus Prime (x1)</h3>
+                                                <p>Rareza: Legendario</p>
                                             </div>
                                         </div>
                                     
