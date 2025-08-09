@@ -44,7 +44,7 @@
     {
       "id": 8,
       "nombre": "Hades",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 191,
@@ -294,7 +294,7 @@
     {
       "id": 114,
       "nombre": "Storm Shadow",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 63,
@@ -499,6 +499,11 @@
     {
       "id": 267,
       "nombre": "Metalhead",
+      "cantidad": 1
+    },
+    {
+      "id": 151,
+      "nombre": "Vinnie Cooper",
       "cantidad": 1
     }
   ]
