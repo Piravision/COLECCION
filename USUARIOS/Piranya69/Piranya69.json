@@ -24,7 +24,7 @@
     {
       "id": 174,
       "nombre": "Spiderman",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 117,
@@ -544,6 +544,16 @@
     {
       "id": 272,
       "nombre": "Panda Khan",
+      "cantidad": 1
+    },
+    {
+      "id": 110,
+      "nombre": "Destro",
+      "cantidad": 1
+    },
+    {
+      "id": 90,
+      "nombre": "Broadway",
       "cantidad": 1
     }
   ]
