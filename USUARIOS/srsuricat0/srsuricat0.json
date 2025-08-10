@@ -24,7 +24,7 @@
     {
       "id": 270,
       "nombre": "Napoleon Bonafrog",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 86,
@@ -119,6 +119,16 @@
     {
       "id": 297,
       "nombre": "Optimus Prime",
+      "cantidad": 1
+    },
+    {
+      "id": 484,
+      "nombre": "Blowhard",
+      "cantidad": 1
+    },
+    {
+      "id": 507,
+      "nombre": "KING",
       "cantidad": 1
     }
   ]
