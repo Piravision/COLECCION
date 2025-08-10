@@ -308,12 +308,11 @@
 	}
 
 	.summary-button {
-		/* Propiedades clave para el nuevo diseño */
 		position: relative;
 		overflow: hidden;
 		display: flex;
-		flex-direction: column; /* Organiza los elementos en columna */
-		justify-content: space-between; /* Distribuye el espacio entre los elementos */
+		justify-content: flex-end; /* Alinea los elementos al final del contenedor */
+		align-items: flex-end; /* Alinea los elementos a la derecha del contenedor */
 		aspect-ratio: 1 / 1;
 		padding: 10px;
 		border: 1px solid #444;
@@ -340,28 +339,14 @@
 		border-radius: 10px;
 	}
 
-	/* Estilos para el texto */
-	.summary-button-title, .summary-button-counter {
-		position: relative;
-		z-index: 1;
+	/* Estilos para el texto del contador */
+	.summary-button-counter {
+		position: relative; /* Lo eleva por encima de la imagen */
+		z-index: 1; /* Valor mayor que el de la imagen */
 		background-color: rgba(0, 0, 0, 0.6);
 		padding: 3px 8px;
 		border-radius: 5px;
 		margin: 2px;
-	}
-
-	.summary-button-title {
-		font-weight: bold;
-		color: #f4f4f4;
-		font-size: 0.9em;
-		/* No se necesita más estilo, flexbox lo coloca al final */
-	}
-
-	/* Nuevo estilo para el contador, lo colocamos en la esquina inferior derecha */
-	.summary-button-counter {
-		position: absolute;
-		bottom: 5px;
-		right: 5px;
 		font-size: 0.8em;
 		color: #ff9900;
 	}
@@ -423,217 +408,181 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('BraveStarr')">
 								<img src="/COLECCION/botones/bravestarr.png" alt="BraveStarr" class="summary-button-image">
-								<span class="summary-button-title">BraveStarr</span>
 								<span class="summary-button-counter">4 / 4</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Caballeros del Zodiaco')">
 								<img src="/COLECCION/botones/caballeros-del-zodiaco.png" alt="Caballeros del Zodiaco" class="summary-button-image">
-								<span class="summary-button-title">Caballeros del Zodiaco</span>
 								<span class="summary-button-counter">10 / 10</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Conan El Bárbaro')">
 								<img src="/COLECCION/botones/conan-el-bárbaro.png" alt="Conan El Bárbaro" class="summary-button-image">
-								<span class="summary-button-title">Conan El Bárbaro</span>
 								<span class="summary-button-counter">13 / 13</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('D&D')">
 								<img src="/COLECCION/botones/d&d.png" alt="D&D" class="summary-button-image">
-								<span class="summary-button-title">D&D</span>
 								<span class="summary-button-counter">10 / 10</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Dragon Quest')">
 								<img src="/COLECCION/botones/dragon-quest.png" alt="Dragon Quest" class="summary-button-image">
-								<span class="summary-button-title">Dragon Quest</span>
 								<span class="summary-button-counter">57 / 57</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Galaxy Rangers')">
 								<img src="/COLECCION/botones/galaxy-rangers.png" alt="Galaxy Rangers" class="summary-button-image">
-								<span class="summary-button-title">Galaxy Rangers</span>
 								<span class="summary-button-counter">4 / 4</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Gargoyles')">
 								<img src="/COLECCION/botones/gargoyles.png" alt="Gargoyles" class="summary-button-image">
-								<span class="summary-button-title">Gargoyles</span>
 								<span class="summary-button-counter">12 / 12</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Gijoe')">
 								<img src="/COLECCION/botones/gijoe.png" alt="Gijoe" class="summary-button-image">
-								<span class="summary-button-title">Gijoe</span>
 								<span class="summary-button-counter">16 / 16</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Heman')">
 								<img src="/COLECCION/botones/heman.png" alt="Heman" class="summary-button-image">
-								<span class="summary-button-title">Heman</span>
 								<span class="summary-button-counter">19 / 19</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Mazinger')">
 								<img src="/COLECCION/botones/mazinger.png" alt="Mazinger" class="summary-button-image">
-								<span class="summary-button-title">Mazinger</span>
 								<span class="summary-button-counter">6 / 6</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Mighty Ducks')">
 								<img src="/COLECCION/botones/mighty-ducks.png" alt="Mighty Ducks" class="summary-button-image">
-								<span class="summary-button-title">Mighty Ducks</span>
 								<span class="summary-button-counter">8 / 8</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Motorratones')">
 								<img src="/COLECCION/botones/motorratones.png" alt="Motorratones" class="summary-button-image">
-								<span class="summary-button-title">Motorratones</span>
 								<span class="summary-button-counter">10 / 10</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Silverhawks')">
 								<img src="/COLECCION/botones/silverhawks.png" alt="Silverhawks" class="summary-button-image">
-								<span class="summary-button-title">Silverhawks</span>
 								<span class="summary-button-counter">7 / 7</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Spiderman')">
 								<img src="/COLECCION/botones/spiderman.png" alt="Spiderman" class="summary-button-image">
-								<span class="summary-button-title">Spiderman</span>
 								<span class="summary-button-counter">30 / 30</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Varios')">
 								<img src="/COLECCION/botones/varios.png" alt="Varios" class="summary-button-image">
-								<span class="summary-button-title">Varios</span>
 								<span class="summary-button-counter">6 / 6</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Street Sharks')">
 								<img src="/COLECCION/botones/street-sharks.png" alt="Street Sharks" class="summary-button-image">
-								<span class="summary-button-title">Street Sharks</span>
 								<span class="summary-button-counter">17 / 17</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Terrenos&Objetos')">
 								<img src="/COLECCION/botones/terrenos&objetos.png" alt="Terrenos&Objetos" class="summary-button-image">
-								<span class="summary-button-title">Terrenos&Objetos</span>
 								<span class="summary-button-counter">42 / 42</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('ThunderCats')">
 								<img src="/COLECCION/botones/thundercats.png" alt="ThunderCats" class="summary-button-image">
-								<span class="summary-button-title">ThunderCats</span>
 								<span class="summary-button-counter">21 / 21</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Tortugas Ninja')">
 								<img src="/COLECCION/botones/tortugas-ninja.png" alt="Tortugas Ninja" class="summary-button-image">
-								<span class="summary-button-title">Tortugas Ninja</span>
 								<span class="summary-button-counter">30 / 30</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Transformers')">
 								<img src="/COLECCION/botones/transformers.png" alt="Transformers" class="summary-button-image">
-								<span class="summary-button-title">Transformers</span>
 								<span class="summary-button-counter">18 / 18</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('X-Men')">
 								<img src="/COLECCION/botones/x-men.png" alt="X-Men" class="summary-button-image">
-								<span class="summary-button-title">X-Men</span>
 								<span class="summary-button-counter">30 / 30</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Alundra')">
 								<img src="/COLECCION/botones/alundra.png" alt="Alundra" class="summary-button-image">
-								<span class="summary-button-title">Alundra</span>
 								<span class="summary-button-counter">9 / 9</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Bloody Roar')">
 								<img src="/COLECCION/botones/bloody-roar.png" alt="Bloody Roar" class="summary-button-image">
-								<span class="summary-button-title">Bloody Roar</span>
 								<span class="summary-button-counter">9 / 9</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Castlevania')">
 								<img src="/COLECCION/botones/castlevania.png" alt="Castlevania" class="summary-button-image">
-								<span class="summary-button-title">Castlevania</span>
 								<span class="summary-button-counter">10 / 10</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Chrono Cross')">
 								<img src="/COLECCION/botones/chrono-cross.png" alt="Chrono Cross" class="summary-button-image">
-								<span class="summary-button-title">Chrono Cross</span>
 								<span class="summary-button-counter">9 / 9</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Crash Bandicoot')">
 								<img src="/COLECCION/botones/crash-bandicoot.png" alt="Crash Bandicoot" class="summary-button-image">
-								<span class="summary-button-title">Crash Bandicoot</span>
 								<span class="summary-button-counter">11 / 11</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('FFVII')">
 								<img src="/COLECCION/botones/ffvii.png" alt="FFVII" class="summary-button-image">
-								<span class="summary-button-title">FFVII</span>
 								<span class="summary-button-counter">13 / 13</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Metal Gear Solid')">
 								<img src="/COLECCION/botones/metal-gear-solid.png" alt="Metal Gear Solid" class="summary-button-image">
-								<span class="summary-button-title">Metal Gear Solid</span>
 								<span class="summary-button-counter">24 / 24</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Oddworld Abe Oddysee')">
 								<img src="/COLECCION/botones/oddworld-abe-oddysee.png" alt="Oddworld Abe Oddysee" class="summary-button-image">
-								<span class="summary-button-title">Oddworld Abe Oddysee</span>
 								<span class="summary-button-counter">7 / 7</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Resident Evil')">
 								<img src="/COLECCION/botones/resident-evil.png" alt="Resident Evil" class="summary-button-image">
-								<span class="summary-button-title">Resident Evil</span>
 								<span class="summary-button-counter">12 / 12</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Rival School')">
 								<img src="/COLECCION/botones/rival-school.png" alt="Rival School" class="summary-button-image">
-								<span class="summary-button-title">Rival School</span>
 								<span class="summary-button-counter">9 / 9</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Silent Hill')">
 								<img src="/COLECCION/botones/silent-hill.png" alt="Silent Hill" class="summary-button-image">
-								<span class="summary-button-title">Silent Hill</span>
 								<span class="summary-button-counter">16 / 16</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Spyro The Dragon')">
 								<img src="/COLECCION/botones/spyro-the-dragon.png" alt="Spyro The Dragon" class="summary-button-image">
-								<span class="summary-button-title">Spyro The Dragon</span>
 								<span class="summary-button-counter">9 / 9</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Suikoden II')">
 								<img src="/COLECCION/botones/suikoden-ii.png" alt="Suikoden II" class="summary-button-image">
-								<span class="summary-button-title">Suikoden II</span>
 								<span class="summary-button-counter">10 / 10</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Tekken3')">
 								<img src="/COLECCION/botones/tekken3.png" alt="Tekken3" class="summary-button-image">
-								<span class="summary-button-title">Tekken3</span>
 								<span class="summary-button-counter">9 / 9</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Tomb Raider')">
 								<img src="/COLECCION/botones/tomb-raider.png" alt="Tomb Raider" class="summary-button-image">
-								<span class="summary-button-title">Tomb Raider</span>
 								<span class="summary-button-counter">2 / 2</span>
 							</div>
 						
