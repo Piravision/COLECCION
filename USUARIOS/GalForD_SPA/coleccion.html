@@ -295,48 +295,61 @@
 	
 	
     /* ESTILOS DE LA CUADRÍCULA DE SERIES */
-    .summary-grid-container {
-        margin-top: 20px;
-        margin-bottom: 30px;
-    }
+	.summary-grid-container {
+		margin-top: 20px;
+		margin-bottom: 30px;
+	}
 
-    .summary-grid {
-        display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
-        gap: 15px;
-        justify-content: center;
-    }
+	.summary-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+		gap: 15px;
+		justify-content: center;
+	}
 
-    .summary-button {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        aspect-ratio: 1 / 1; /* Mantiene el botón cuadrado */
-        padding: 10px;
-        background-color: #2a2a2a;
-        border: 1px solid #444;
-        border-radius: 10px;
-        transition: background-color 0.2s;
-        text-align: center;
-        cursor: pointer;
-    }
+	.summary-button {
+		position: relative;
+		overflow: hidden;
+		display: flex;
+		justify-content: flex-end; /* Alinea los elementos al final del contenedor */
+		align-items: flex-end; /* Alinea los elementos a la derecha del contenedor */
+		aspect-ratio: 1 / 1;
+		padding: 10px;
+		border: 1px solid #444;
+		border-radius: 10px;
+		transition: transform 0.2s;
+		text-align: center;
+		cursor: pointer;
+		background-color: transparent;
+	}
 
-    .summary-button:hover {
-        background-color: #383838;
-    }
+	.summary-button:hover {
+		transform: scale(1.05);
+	}
 
-    .summary-button-title {
-        font-weight: bold;
-        color: #f4f4f4;
-        font-size: 0.9em;
-        margin-bottom: 5px;
-    }
+	/* Estilos de la imagen como fondo */
+	.summary-button-image {
+		width: 100%;
+		height: 100%;
+		object-fit: contain;
+		position: absolute;
+		top: 0;
+		left: 0;
+		z-index: 0;
+		border-radius: 10px;
+	}
 
-    .summary-button-counter {
-        font-size: 0.8em;
-        color: #ff9900;
-    }
+	/* Estilos para el texto del contador */
+	.summary-button-counter {
+		position: relative; /* Lo eleva por encima de la imagen */
+		z-index: 1; /* Valor mayor que el de la imagen */
+		background-color: rgba(0, 0, 0, 0.6);
+		padding: 3px 8px;
+		border-radius: 5px;
+		margin: 2px;
+		font-size: 0.8em;
+		color: #ff9900;
+	}
 </style>
 </head>
 <body>
@@ -384,47 +397,62 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de GalForD_SPA</h2>
-                <span>Cartas obtenidas: 9 / 529</span>
+                <span>Cartas obtenidas: 12 / 529</span>
             </div>
             
             <div class="details">
                 <div class="info">
                     <div class="summary-grid-container">
-                        <h2>Resumen por Serie</h2>
-                        <div class="summary-grid">
-                            
-                                <div class="summary-button" onclick="mostrarCartas('Castlevania')">
-                                    <span class="summary-button-title">Castlevania</span>
-                                    <span class="summary-button-counter">1 / 10</span>
-                                </div>
-                            
-                                <div class="summary-button" onclick="mostrarCartas('Dragon Quest')">
-                                    <span class="summary-button-title">Dragon Quest</span>
-                                    <span class="summary-button-counter">1 / 56</span>
-                                </div>
-                            
-                                <div class="summary-button" onclick="mostrarCartas('Gijoe')">
-                                    <span class="summary-button-title">Gijoe</span>
-                                    <span class="summary-button-counter">1 / 16</span>
-                                </div>
-                            
-                                <div class="summary-button" onclick="mostrarCartas('Heman')">
-                                    <span class="summary-button-title">Heman</span>
-                                    <span class="summary-button-counter">1 / 19</span>
-                                </div>
-                            
-                                <div class="summary-button" onclick="mostrarCartas('Motorratones')">
-                                    <span class="summary-button-title">Motorratones</span>
-                                    <span class="summary-button-counter">3 / 10</span>
-                                </div>
-                            
-                                <div class="summary-button" onclick="mostrarCartas('Spiderman')">
-                                    <span class="summary-button-title">Spiderman</span>
-                                    <span class="summary-button-counter">2 / 30</span>
-                                </div>
-                            
-                        </div>
-                    </div>
+    <h2>Resumen por Serie</h2>
+					<div class="summary-grid">
+						
+							<div class="summary-button" onclick="mostrarCartas('Castlevania')">
+								<img src="/COLECCION/botones/castlevania.png" alt="Castlevania" class="summary-button-image">
+								<span class="summary-button-counter">1 / 10</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Dragon Quest')">
+								<img src="/COLECCION/botones/dragon-quest.png" alt="Dragon Quest" class="summary-button-image">
+								<span class="summary-button-counter">1 / 57</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Gijoe')">
+								<img src="/COLECCION/botones/gijoe.png" alt="Gijoe" class="summary-button-image">
+								<span class="summary-button-counter">1 / 16</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Heman')">
+								<img src="/COLECCION/botones/heman.png" alt="Heman" class="summary-button-image">
+								<span class="summary-button-counter">1 / 19</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Motorratones')">
+								<img src="/COLECCION/botones/motorratones.png" alt="Motorratones" class="summary-button-image">
+								<span class="summary-button-counter">3 / 10</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Silent Hill')">
+								<img src="/COLECCION/botones/silent-hill.png" alt="Silent Hill" class="summary-button-image">
+								<span class="summary-button-counter">1 / 16</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Spiderman')">
+								<img src="/COLECCION/botones/spiderman.png" alt="Spiderman" class="summary-button-image">
+								<span class="summary-button-counter">2 / 30</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Street Sharks')">
+								<img src="/COLECCION/botones/street-sharks.png" alt="Street Sharks" class="summary-button-image">
+								<span class="summary-button-counter">1 / 17</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('ThunderCats')">
+								<img src="/COLECCION/botones/thundercats.png" alt="ThunderCats" class="summary-button-image">
+								<span class="summary-button-counter">1 / 21</span>
+							</div>
+						
+					</div>
+				</div>
                     
                     <div id="cards-container">
                         
@@ -455,7 +483,7 @@
                             <div class="series-cards" id="series-Dragon-Quest" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Dragon Quest</h2>
-                                    <span>Cartas obtenidas: 1 / 56</span>
+                                    <span>Cartas obtenidas: 1 / 57</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -576,6 +604,30 @@
                                 </div>
                             </div>
                         
+                            <div class="series-cards" id="series-Silent-Hill" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Silent Hill</h2>
+                                    <span>Cartas obtenidas: 1 / 16</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 477</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '477', 'mumb'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Silent Hill/PERSONAJE/mumb.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Silent Hill/PERSONAJE/mumb.png" alt="mumb">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>mumb (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
                             <div class="series-cards" id="series-Spiderman" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Spiderman</h2>
@@ -607,6 +659,54 @@
                                             </a>
                                             <div class="cromo-details">
                                                 <h3>Mysterio (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Street-Sharks" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Street Sharks</h2>
+                                    <span>Cartas obtenidas: 1 / 17</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 201</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '201', 'Dr. paradigma'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Street Sharks/VILLANO/Dr.-paradigma-(7-12-2023-23_33).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Street Sharks/VILLANO/Dr.-paradigma-(7-12-2023-23_33).png" alt="Dr. paradigma">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Dr. paradigma (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-ThunderCats" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>ThunderCats</h2>
+                                    <span>Cartas obtenidas: 1 / 21</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 261</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '261', 'Reptilio'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/ThunderCats/VILLANO/Reptilio(4-12-2023-2_25).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/ThunderCats/VILLANO/Reptilio(4-12-2023-2_25).png" alt="Reptilio">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Reptilio (x1)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
