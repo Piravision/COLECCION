@@ -310,11 +310,10 @@
 	.summary-button {
 		/* Propiedades clave para el nuevo diseño */
 		position: relative;
-		overflow: hidden; /* Oculta partes de la imagen al hacer zoom */
+		overflow: hidden;
 		display: flex;
-		flex-direction: column;
-		align-items: center;
-		justify-content: center;
+		flex-direction: column; /* Organiza los elementos en columna */
+		justify-content: space-between; /* Distribuye el espacio entre los elementos */
 		aspect-ratio: 1 / 1;
 		padding: 10px;
 		border: 1px solid #444;
@@ -322,14 +321,14 @@
 		transition: transform 0.2s;
 		text-align: center;
 		cursor: pointer;
-		background-color: transparent; /* El fondo será la imagen, no el color */
+		background-color: transparent;
 	}
 
 	.summary-button:hover {
-		transform: scale(1.05); /* Efecto de zoom en el botón completo */
+		transform: scale(1.05);
 	}
 
-	/* Nuevos estilos para la imagen */
+	/* Estilos de la imagen como fondo */
 	.summary-button-image {
 		width: 100%;
 		height: 100%;
@@ -337,15 +336,15 @@
 		position: absolute;
 		top: 0;
 		left: 0;
-		z-index: 0; /* Asegura que la imagen esté detrás del texto */
+		z-index: 0;
 		border-radius: 10px;
 	}
 
-	/* Estilos para el texto, para que esté siempre encima de la imagen */
+	/* Estilos para el texto */
 	.summary-button-title, .summary-button-counter {
-		position: relative; /* Lo eleva por encima de la imagen */
-		z-index: 1; /* Valor mayor que el de la imagen */
-		background-color: rgba(0, 0, 0, 0.6); /* Fondo semi-transparente para la legibilidad */
+		position: relative;
+		z-index: 1;
+		background-color: rgba(0, 0, 0, 0.6);
 		padding: 3px 8px;
 		border-radius: 5px;
 		margin: 2px;
@@ -355,9 +354,14 @@
 		font-weight: bold;
 		color: #f4f4f4;
 		font-size: 0.9em;
+		/* No se necesita más estilo, flexbox lo coloca al final */
 	}
 
+	/* Nuevo estilo para el contador, lo colocamos en la esquina inferior derecha */
 	.summary-button-counter {
+		position: absolute;
+		bottom: 5px;
+		right: 5px;
 		font-size: 0.8em;
 		color: #ff9900;
 	}
