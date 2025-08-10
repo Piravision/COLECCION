@@ -1,20 +1,35 @@
 {
-    "usuario": "TEST",
-    "cromos": [
-        {
-            "id": 79,
-            "nombre": "pororo",
-            "cantidad": 1
-        },
-        {
-            "id": 6,
-            "nombre": "El Patriarca",
-            "cantidad": 1
-        },
-        {
-            "id": 226,
-            "nombre": "Guerreros de Piedra",
-            "cantidad": 1
-        }
-    ]
+  "usuario": "TEST",
+  "cromos": [
+    {
+      "id": 79,
+      "nombre": "pororo",
+      "cantidad": 1
+    },
+    {
+      "id": 6,
+      "nombre": "El Patriarca",
+      "cantidad": 1
+    },
+    {
+      "id": 226,
+      "nombre": "Guerreros de Piedra",
+      "cantidad": 1
+    },
+    {
+      "id": 374,
+      "nombre": "Succubus",
+      "cantidad": 1
+    },
+    {
+      "id": 83,
+      "nombre": "zamza",
+      "cantidad": 1
+    },
+    {
+      "id": 179,
+      "nombre": "Duende Verde",
+      "cantidad": 1
+    }
+  ]
 }
