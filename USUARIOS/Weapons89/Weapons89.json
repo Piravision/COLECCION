@@ -179,7 +179,7 @@
     {
       "id": 179,
       "nombre": "Duende Verde",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 275,
@@ -189,6 +189,21 @@
     {
       "id": 303,
       "nombre": "Megatron",
+      "cantidad": 2
+    },
+    {
+      "id": 172,
+      "nombre": "May Parker",
+      "cantidad": 1
+    },
+    {
+      "id": 80,
+      "nombre": "robot",
+      "cantidad": 2
+    },
+    {
+      "id": 258,
+      "nombre": "Mumm Ra",
       "cantidad": 1
     }
   ]

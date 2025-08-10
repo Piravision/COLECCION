@@ -1,20 +1,20 @@
 {
-  "usuario": "TEST",
-  "cromos": [
-    {
-      "id": 11,
-      "nombre": "Greywolf",
-      "cantidad": 1
-    },
-    {
-      "id": 79,
-      "nombre": "pororo",
-      "cantidad": 1
-    },
-    {
-      "id": 6,
-      "nombre": "El Patriarca",
-      "cantidad": 1
-    }
-  ]
+    "usuario": "TEST",
+    "cromos": [
+        {
+            "id": 79,
+            "nombre": "pororo",
+            "cantidad": 1
+        },
+        {
+            "id": 6,
+            "nombre": "El Patriarca",
+            "cantidad": 1
+        },
+        {
+            "id": 226,
+            "nombre": "Guerreros de Piedra",
+            "cantidad": 1
+        }
+    ]
 }
