@@ -239,7 +239,7 @@
     {
       "id": 193,
       "nombre": "Jab",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 303,
@@ -639,6 +639,16 @@
     {
       "id": 60,
       "nombre": "baran",
+      "cantidad": 1
+    },
+    {
+      "id": 233,
+      "nombre": "Mutant Tank",
+      "cantidad": 1
+    },
+    {
+      "id": 222,
+      "nombre": "Espada de Metal Estrella",
       "cantidad": 1
     }
   ]
