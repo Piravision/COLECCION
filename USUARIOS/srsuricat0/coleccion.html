@@ -310,11 +310,10 @@
 	.summary-button {
 		/* Propiedades clave para el nuevo diseño */
 		position: relative;
-		overflow: hidden; /* Oculta partes de la imagen al hacer zoom */
+		overflow: hidden;
 		display: flex;
-		flex-direction: column;
-		align-items: center;
-		justify-content: center;
+		flex-direction: column; /* Organiza los elementos en columna */
+		justify-content: space-between; /* Distribuye el espacio entre los elementos */
 		aspect-ratio: 1 / 1;
 		padding: 10px;
 		border: 1px solid #444;
@@ -322,30 +321,30 @@
 		transition: transform 0.2s;
 		text-align: center;
 		cursor: pointer;
-		background-color: transparent; /* El fondo será la imagen, no el color */
+		background-color: transparent;
 	}
 
 	.summary-button:hover {
-		transform: scale(1.05); /* Efecto de zoom en el botón completo */
+		transform: scale(1.05);
 	}
 
-	/* Nuevos estilos para la imagen */
+	/* Estilos de la imagen como fondo */
 	.summary-button-image {
 		width: 100%;
 		height: 100%;
-		object-fit: cover;
+		object-fit: contain;
 		position: absolute;
 		top: 0;
 		left: 0;
-		z-index: 0; /* Asegura que la imagen esté detrás del texto */
+		z-index: 0;
 		border-radius: 10px;
 	}
 
-	/* Estilos para el texto, para que esté siempre encima de la imagen */
+	/* Estilos para el texto */
 	.summary-button-title, .summary-button-counter {
-		position: relative; /* Lo eleva por encima de la imagen */
-		z-index: 1; /* Valor mayor que el de la imagen */
-		background-color: rgba(0, 0, 0, 0.6); /* Fondo semi-transparente para la legibilidad */
+		position: relative;
+		z-index: 1;
+		background-color: rgba(0, 0, 0, 0.6);
 		padding: 3px 8px;
 		border-radius: 5px;
 		margin: 2px;
@@ -355,9 +354,14 @@
 		font-weight: bold;
 		color: #f4f4f4;
 		font-size: 0.9em;
+		/* No se necesita más estilo, flexbox lo coloca al final */
 	}
 
+	/* Nuevo estilo para el contador, lo colocamos en la esquina inferior derecha */
 	.summary-button-counter {
+		position: absolute;
+		bottom: 5px;
+		right: 5px;
 		font-size: 0.8em;
 		color: #ff9900;
 	}
@@ -408,153 +412,125 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de srsuricat0</h2>
-                <span>Cartas obtenidas: 24 / 529</span>
+                <span>Cartas obtenidas: 26 / 529</span>
             </div>
             
             <div class="details">
                 <div class="info">
                     <div class="summary-grid-container">
-                        <h2>Resumen por Serie</h2>
-                        <div class="summary-grid">
-                            
-                                <div class="summary-button" onclick="mostrarCartas('Bloody Roar')">
-							<img src="../../botones/bloody-roar.png" alt="Bloody Roar" class="summary-button-image">
-							<span class="summary-button-title">Bloody Roar</span>
-							<span class="summary-button-counter">1 / 9</span>
-						</div>
-                            
-							
-							
-                                <div class="summary-button" onclick="mostrarCartas('BraveStarr')">
-							<img src="../../botones/bravestarr.png" alt="BraveStarr" class="summary-button-image">
-							<span class="summary-button-title">BraveStarr</span>
-							<span class="summary-button-counter">1 / 4</span>
-						</div>
-                            
-							
-							
-                                <div class="summary-button" onclick="mostrarCartas('Caballeros del Zodiaco')">
-							<img src="../../botones/caballeros-del-zodiaco.png" alt="Caballeros del Zodiaco" class="summary-button-image">
-							<span class="summary-button-title">Caballeros del Zodiaco</span>
-							<span class="summary-button-counter">1 / 10</span>
-						</div>
-                            
-							
-							
-                                <div class="summary-button" onclick="mostrarCartas('Castlevania')">
-							<img src="../../botones/castlevania.png" alt="Castlevania" class="summary-button-image">
-							<span class="summary-button-title">Castlevania</span>
-							<span class="summary-button-counter">2 / 10</span>
-						</div>
-                            
-							
-							
-                                <div class="summary-button" onclick="mostrarCartas('D&D')">
-							<img src="../../botones/d&d.png" alt="D&D" class="summary-button-image">
-							<span class="summary-button-title">D&D</span>
-							<span class="summary-button-counter">1 / 10</span>
-						</div>
-                            
-							
-							
-                                <div class="summary-button" onclick="mostrarCartas('Dragon Quest')">
-							<img src="../../botones/dragon-quest.png" alt="Dragon Quest" class="summary-button-image">
-							<span class="summary-button-title">Dragon Quest</span>
-							<span class="summary-button-counter">1 / 57</span>
-						</div>
-                            
-							
-							
-                                <div class="summary-button" onclick="mostrarCartas('FFVII')">
-							<img src="../../botones/ffvii.png" alt="FFVII" class="summary-button-image">
-							<span class="summary-button-title">FFVII</span>
-							<span class="summary-button-counter">3 / 13</span>
-						</div>
-                            
-							
-							
-                                <div class="summary-button" onclick="mostrarCartas('Galaxy Rangers')">
-							<img src="../../botones/galaxy-rangers.png" alt="Galaxy Rangers" class="summary-button-image">
-							<span class="summary-button-title">Galaxy Rangers</span>
-							<span class="summary-button-counter">1 / 4</span>
-						</div>
-                            
-							
-							
-                                <div class="summary-button" onclick="mostrarCartas('Gargoyles')">
-							<img src="../../botones/gargoyles.png" alt="Gargoyles" class="summary-button-image">
-							<span class="summary-button-title">Gargoyles</span>
-							<span class="summary-button-counter">1 / 12</span>
-						</div>
-                            
-							
-							
-                                <div class="summary-button" onclick="mostrarCartas('Gijoe')">
-							<img src="../../botones/gijoe.png" alt="Gijoe" class="summary-button-image">
-							<span class="summary-button-title">Gijoe</span>
-							<span class="summary-button-counter">1 / 16</span>
-						</div>
-                            
-							
-							
-                                <div class="summary-button" onclick="mostrarCartas('Heman')">
-							<img src="../../botones/heman.png" alt="Heman" class="summary-button-image">
-							<span class="summary-button-title">Heman</span>
-							<span class="summary-button-counter">1 / 19</span>
-						</div>
-                            
-							
-							
-                                <div class="summary-button" onclick="mostrarCartas('Spiderman')">
-							<img src="../../botones/spiderman.png" alt="Spiderman" class="summary-button-image">
-							<span class="summary-button-title">Spiderman</span>
-							<span class="summary-button-counter">1 / 30</span>
-						</div>
-                            
-							
-							
-                                <div class="summary-button" onclick="mostrarCartas('Spyro The Dragon')">
-							<img src="../../botones/spyro-the-dragon.png" alt="Spyro The Dragon" class="summary-button-image">
-							<span class="summary-button-title">Spyro The Dragon</span>
-							<span class="summary-button-counter">1 / 9</span>
-						</div>
-                            
-							
-							
-                                <div class="summary-button" onclick="mostrarCartas('Terrenos&Objetos')">
-							<img src="../../botones/terrenos&objetos.png" alt="Terrenos&Objetos" class="summary-button-image">
-							<span class="summary-button-title">Terrenos&Objetos</span>
-							<span class="summary-button-counter">1 / 42</span>
-						</div>
-                            
-							
-							
-                                <div class="summary-button" onclick="mostrarCartas('Tortugas Ninja')">
-							<img src="../../botones/tortugas-ninja.png" alt="Tortugas Ninja" class="summary-button-image">
-							<span class="summary-button-title">Tortugas Ninja</span>
-							<span class="summary-button-counter">2 / 30</span>
-						</div>
-                            
-							
-							
-                                <div class="summary-button" onclick="mostrarCartas('Transformers')">
-							<img src="../../botones/transformers.png" alt="Transformers" class="summary-button-image">
-							<span class="summary-button-title">Transformers</span>
-							<span class="summary-button-counter">4 / 18</span>
-						</div>
-                            
-							
-							
-                                <div class="summary-button" onclick="mostrarCartas('Varios')">
-							<img src="../../botones/varios.png" alt="Varios" class="summary-button-image">
-							<span class="summary-button-title">Varios</span>
-							<span class="summary-button-counter">1 / 6</span>
-						</div>
-                            
-							
-							
-                        </div>
-                    </div>
+    <h2>Resumen por Serie</h2>
+					<div class="summary-grid">
+						
+							<div class="summary-button" onclick="mostrarCartas('Bloody Roar')">
+								<img src="/COLECCION/botones/bloody-roar.png" alt="Bloody Roar" class="summary-button-image">
+								<span class="summary-button-title">Bloody Roar</span>
+								<span class="summary-button-counter">1 / 9</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('BraveStarr')">
+								<img src="/COLECCION/botones/bravestarr.png" alt="BraveStarr" class="summary-button-image">
+								<span class="summary-button-title">BraveStarr</span>
+								<span class="summary-button-counter">1 / 4</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Caballeros del Zodiaco')">
+								<img src="/COLECCION/botones/caballeros-del-zodiaco.png" alt="Caballeros del Zodiaco" class="summary-button-image">
+								<span class="summary-button-title">Caballeros del Zodiaco</span>
+								<span class="summary-button-counter">1 / 10</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Castlevania')">
+								<img src="/COLECCION/botones/castlevania.png" alt="Castlevania" class="summary-button-image">
+								<span class="summary-button-title">Castlevania</span>
+								<span class="summary-button-counter">2 / 10</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('D&D')">
+								<img src="/COLECCION/botones/d&d.png" alt="D&D" class="summary-button-image">
+								<span class="summary-button-title">D&D</span>
+								<span class="summary-button-counter">1 / 10</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Dragon Quest')">
+								<img src="/COLECCION/botones/dragon-quest.png" alt="Dragon Quest" class="summary-button-image">
+								<span class="summary-button-title">Dragon Quest</span>
+								<span class="summary-button-counter">1 / 57</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('FFVII')">
+								<img src="/COLECCION/botones/ffvii.png" alt="FFVII" class="summary-button-image">
+								<span class="summary-button-title">FFVII</span>
+								<span class="summary-button-counter">3 / 13</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Galaxy Rangers')">
+								<img src="/COLECCION/botones/galaxy-rangers.png" alt="Galaxy Rangers" class="summary-button-image">
+								<span class="summary-button-title">Galaxy Rangers</span>
+								<span class="summary-button-counter">1 / 4</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Gargoyles')">
+								<img src="/COLECCION/botones/gargoyles.png" alt="Gargoyles" class="summary-button-image">
+								<span class="summary-button-title">Gargoyles</span>
+								<span class="summary-button-counter">1 / 12</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Gijoe')">
+								<img src="/COLECCION/botones/gijoe.png" alt="Gijoe" class="summary-button-image">
+								<span class="summary-button-title">Gijoe</span>
+								<span class="summary-button-counter">1 / 16</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Heman')">
+								<img src="/COLECCION/botones/heman.png" alt="Heman" class="summary-button-image">
+								<span class="summary-button-title">Heman</span>
+								<span class="summary-button-counter">1 / 19</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Spiderman')">
+								<img src="/COLECCION/botones/spiderman.png" alt="Spiderman" class="summary-button-image">
+								<span class="summary-button-title">Spiderman</span>
+								<span class="summary-button-counter">1 / 30</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Spyro The Dragon')">
+								<img src="/COLECCION/botones/spyro-the-dragon.png" alt="Spyro The Dragon" class="summary-button-image">
+								<span class="summary-button-title">Spyro The Dragon</span>
+								<span class="summary-button-counter">2 / 9</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Tekken3')">
+								<img src="/COLECCION/botones/tekken3.png" alt="Tekken3" class="summary-button-image">
+								<span class="summary-button-title">Tekken3</span>
+								<span class="summary-button-counter">1 / 9</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Terrenos&Objetos')">
+								<img src="/COLECCION/botones/terrenos&objetos.png" alt="Terrenos&Objetos" class="summary-button-image">
+								<span class="summary-button-title">Terrenos&Objetos</span>
+								<span class="summary-button-counter">1 / 42</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Tortugas Ninja')">
+								<img src="/COLECCION/botones/tortugas-ninja.png" alt="Tortugas Ninja" class="summary-button-image">
+								<span class="summary-button-title">Tortugas Ninja</span>
+								<span class="summary-button-counter">2 / 30</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Transformers')">
+								<img src="/COLECCION/botones/transformers.png" alt="Transformers" class="summary-button-image">
+								<span class="summary-button-title">Transformers</span>
+								<span class="summary-button-counter">4 / 18</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Varios')">
+								<img src="/COLECCION/botones/varios.png" alt="Varios" class="summary-button-image">
+								<span class="summary-button-title">Varios</span>
+								<span class="summary-button-counter">1 / 6</span>
+							</div>
+						
+					</div>
+				</div>
                     
                     <div id="cards-container">
                         
@@ -891,9 +867,23 @@
                             <div class="series-cards" id="series-Spyro-The-Dragon" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Spyro The Dragon</h2>
-                                    <span>Cartas obtenidas: 1 / 9</span>
+                                    <span>Cartas obtenidas: 2 / 9</span>
                                 </div>
                                 <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 484</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '484', 'Blowhard'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Spyro The Dragon/PERSONAJE/Blowhard.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Spyro The Dragon/PERSONAJE/Blowhard.png" alt="Blowhard">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Blowhard (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
                                     
                                         <div class="cromo-card">
                                             <span class="cromo-numero">Nº: 487</span>
@@ -905,6 +895,30 @@
                                             </a>
                                             <div class="cromo-details">
                                                 <h3>Jacques (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Tekken3" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Tekken3</h2>
+                                    <span>Cartas obtenidas: 1 / 9</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 507</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '507', 'KING'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Tekken3/PERSONAJE/KING.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Tekken3/PERSONAJE/KING.png" alt="KING">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>KING (x1)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -952,7 +966,7 @@
                                                 </div>
                                             </a>
                                             <div class="cromo-details">
-                                                <h3>Napoleon Bonafrog (x1)</h3>
+                                                <h3>Napoleon Bonafrog (x2)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
