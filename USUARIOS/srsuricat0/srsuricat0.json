@@ -34,7 +34,7 @@
     {
       "id": 303,
       "nombre": "Megatron",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 299,
@@ -74,7 +74,7 @@
     {
       "id": 354,
       "nombre": "alice",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 180,
@@ -129,6 +129,11 @@
     {
       "id": 507,
       "nombre": "KING",
+      "cantidad": 1
+    },
+    {
+      "id": 122,
+      "nombre": "She ra",
       "cantidad": 1
     }
   ]
