@@ -295,48 +295,61 @@
 	
 	
     /* ESTILOS DE LA CUADRÍCULA DE SERIES */
-    .summary-grid-container {
-        margin-top: 20px;
-        margin-bottom: 30px;
-    }
+	.summary-grid-container {
+		margin-top: 20px;
+		margin-bottom: 30px;
+	}
 
-    .summary-grid {
-        display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
-        gap: 15px;
-        justify-content: center;
-    }
+	.summary-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+		gap: 15px;
+		justify-content: center;
+	}
 
-    .summary-button {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        aspect-ratio: 1 / 1; /* Mantiene el botón cuadrado */
-        padding: 10px;
-        background-color: #2a2a2a;
-        border: 1px solid #444;
-        border-radius: 10px;
-        transition: background-color 0.2s;
-        text-align: center;
-        cursor: pointer;
-    }
+	.summary-button {
+		position: relative;
+		overflow: hidden;
+		display: flex;
+		justify-content: flex-end; /* Alinea los elementos al final del contenedor */
+		align-items: flex-end; /* Alinea los elementos a la derecha del contenedor */
+		aspect-ratio: 1 / 1;
+		padding: 10px;
+		border: 1px solid #444;
+		border-radius: 10px;
+		transition: transform 0.2s;
+		text-align: center;
+		cursor: pointer;
+		background-color: transparent;
+	}
 
-    .summary-button:hover {
-        background-color: #383838;
-    }
+	.summary-button:hover {
+		transform: scale(1.05);
+	}
 
-    .summary-button-title {
-        font-weight: bold;
-        color: #f4f4f4;
-        font-size: 0.9em;
-        margin-bottom: 5px;
-    }
+	/* Estilos de la imagen como fondo */
+	.summary-button-image {
+		width: 100%;
+		height: 100%;
+		object-fit: contain;
+		position: absolute;
+		top: 0;
+		left: 0;
+		z-index: 0;
+		border-radius: 10px;
+	}
 
-    .summary-button-counter {
-        font-size: 0.8em;
-        color: #ff9900;
-    }
+	/* Estilos para el texto del contador */
+	.summary-button-counter {
+		position: relative; /* Lo eleva por encima de la imagen */
+		z-index: 1; /* Valor mayor que el de la imagen */
+		background-color: rgba(0, 0, 0, 0.6);
+		padding: 3px 8px;
+		border-radius: 5px;
+		margin: 2px;
+		font-size: 0.8em;
+		color: #ff9900;
+	}
 </style>
 </head>
 <body>
@@ -384,122 +397,122 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de Weapons89</h2>
-                <span>Cartas obtenidas: 38 / 529</span>
+                <span>Cartas obtenidas: 40 / 529</span>
             </div>
             
             <div class="details">
                 <div class="info">
                     <div class="summary-grid-container">
-                        <h2>Resumen por Serie</h2>
-                        <div class="summary-grid">
-                            
-                                <div class="summary-button" onclick="mostrarCartas('Alundra')">
-                                    <span class="summary-button-title">Alundra</span>
-                                    <span class="summary-button-counter">3 / 9</span>
-                                </div>
-                            
-                                <div class="summary-button" onclick="mostrarCartas('Caballeros del Zodiaco')">
-                                    <span class="summary-button-title">Caballeros del Zodiaco</span>
-                                    <span class="summary-button-counter">1 / 10</span>
-                                </div>
-                            
-                                <div class="summary-button" onclick="mostrarCartas('Crash Bandicoot')">
-                                    <span class="summary-button-title">Crash Bandicoot</span>
-                                    <span class="summary-button-counter">1 / 11</span>
-                                </div>
-                            
-                                <div class="summary-button" onclick="mostrarCartas('Dragon Quest')">
-                                    <span class="summary-button-title">Dragon Quest</span>
-                                    <span class="summary-button-counter">5 / 57</span>
-                                </div>
-                            
-                                <div class="summary-button" onclick="mostrarCartas('Gargoyles')">
-                                    <span class="summary-button-title">Gargoyles</span>
-                                    <span class="summary-button-counter">2 / 12</span>
-                                </div>
-                            
-                                <div class="summary-button" onclick="mostrarCartas('Gijoe')">
-                                    <span class="summary-button-title">Gijoe</span>
-                                    <span class="summary-button-counter">3 / 16</span>
-                                </div>
-                            
-                                <div class="summary-button" onclick="mostrarCartas('Heman')">
-                                    <span class="summary-button-title">Heman</span>
-                                    <span class="summary-button-counter">1 / 19</span>
-                                </div>
-                            
-                                <div class="summary-button" onclick="mostrarCartas('Mazinger')">
-                                    <span class="summary-button-title">Mazinger</span>
-                                    <span class="summary-button-counter">1 / 6</span>
-                                </div>
-                            
-                                <div class="summary-button" onclick="mostrarCartas('Metal Gear Solid')">
-                                    <span class="summary-button-title">Metal Gear Solid</span>
-                                    <span class="summary-button-counter">2 / 24</span>
-                                </div>
-                            
-                                <div class="summary-button" onclick="mostrarCartas('Motorratones')">
-                                    <span class="summary-button-title">Motorratones</span>
-                                    <span class="summary-button-counter">1 / 10</span>
-                                </div>
-                            
-                                <div class="summary-button" onclick="mostrarCartas('Silent Hill')">
-                                    <span class="summary-button-title">Silent Hill</span>
-                                    <span class="summary-button-counter">2 / 16</span>
-                                </div>
-                            
-                                <div class="summary-button" onclick="mostrarCartas('Silverhawks')">
-                                    <span class="summary-button-title">Silverhawks</span>
-                                    <span class="summary-button-counter">1 / 7</span>
-                                </div>
-                            
-                                <div class="summary-button" onclick="mostrarCartas('Spiderman')">
-                                    <span class="summary-button-title">Spiderman</span>
-                                    <span class="summary-button-counter">2 / 30</span>
-                                </div>
-                            
-                                <div class="summary-button" onclick="mostrarCartas('Street Sharks')">
-                                    <span class="summary-button-title">Street Sharks</span>
-                                    <span class="summary-button-counter">1 / 17</span>
-                                </div>
-                            
-                                <div class="summary-button" onclick="mostrarCartas('Tekken3')">
-                                    <span class="summary-button-title">Tekken3</span>
-                                    <span class="summary-button-counter">1 / 9</span>
-                                </div>
-                            
-                                <div class="summary-button" onclick="mostrarCartas('Terrenos&Objetos')">
-                                    <span class="summary-button-title">Terrenos&Objetos</span>
-                                    <span class="summary-button-counter">2 / 42</span>
-                                </div>
-                            
-                                <div class="summary-button" onclick="mostrarCartas('ThunderCats')">
-                                    <span class="summary-button-title">ThunderCats</span>
-                                    <span class="summary-button-counter">1 / 21</span>
-                                </div>
-                            
-                                <div class="summary-button" onclick="mostrarCartas('Tortugas Ninja')">
-                                    <span class="summary-button-title">Tortugas Ninja</span>
-                                    <span class="summary-button-counter">2 / 30</span>
-                                </div>
-                            
-                                <div class="summary-button" onclick="mostrarCartas('Transformers')">
-                                    <span class="summary-button-title">Transformers</span>
-                                    <span class="summary-button-counter">3 / 18</span>
-                                </div>
-                            
-                                <div class="summary-button" onclick="mostrarCartas('Varios')">
-                                    <span class="summary-button-title">Varios</span>
-                                    <span class="summary-button-counter">1 / 6</span>
-                                </div>
-                            
-                                <div class="summary-button" onclick="mostrarCartas('X-Men')">
-                                    <span class="summary-button-title">X-Men</span>
-                                    <span class="summary-button-counter">2 / 30</span>
-                                </div>
-                            
-                        </div>
-                    </div>
+    <h2>Resumen por Serie</h2>
+					<div class="summary-grid">
+						
+							<div class="summary-button" onclick="mostrarCartas('Alundra')">
+								<img src="/COLECCION/botones/alundra.png" alt="Alundra" class="summary-button-image">
+								<span class="summary-button-counter">3 / 9</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Caballeros del Zodiaco')">
+								<img src="/COLECCION/botones/caballeros-del-zodiaco.png" alt="Caballeros del Zodiaco" class="summary-button-image">
+								<span class="summary-button-counter">1 / 10</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Crash Bandicoot')">
+								<img src="/COLECCION/botones/crash-bandicoot.png" alt="Crash Bandicoot" class="summary-button-image">
+								<span class="summary-button-counter">1 / 11</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Dragon Quest')">
+								<img src="/COLECCION/botones/dragon-quest.png" alt="Dragon Quest" class="summary-button-image">
+								<span class="summary-button-counter">6 / 57</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Gargoyles')">
+								<img src="/COLECCION/botones/gargoyles.png" alt="Gargoyles" class="summary-button-image">
+								<span class="summary-button-counter">2 / 12</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Gijoe')">
+								<img src="/COLECCION/botones/gijoe.png" alt="Gijoe" class="summary-button-image">
+								<span class="summary-button-counter">3 / 16</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Heman')">
+								<img src="/COLECCION/botones/heman.png" alt="Heman" class="summary-button-image">
+								<span class="summary-button-counter">1 / 19</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Mazinger')">
+								<img src="/COLECCION/botones/mazinger.png" alt="Mazinger" class="summary-button-image">
+								<span class="summary-button-counter">1 / 6</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Metal Gear Solid')">
+								<img src="/COLECCION/botones/metal-gear-solid.png" alt="Metal Gear Solid" class="summary-button-image">
+								<span class="summary-button-counter">2 / 24</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Motorratones')">
+								<img src="/COLECCION/botones/motorratones.png" alt="Motorratones" class="summary-button-image">
+								<span class="summary-button-counter">1 / 10</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Silent Hill')">
+								<img src="/COLECCION/botones/silent-hill.png" alt="Silent Hill" class="summary-button-image">
+								<span class="summary-button-counter">2 / 16</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Silverhawks')">
+								<img src="/COLECCION/botones/silverhawks.png" alt="Silverhawks" class="summary-button-image">
+								<span class="summary-button-counter">1 / 7</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Spiderman')">
+								<img src="/COLECCION/botones/spiderman.png" alt="Spiderman" class="summary-button-image">
+								<span class="summary-button-counter">3 / 30</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Street Sharks')">
+								<img src="/COLECCION/botones/street-sharks.png" alt="Street Sharks" class="summary-button-image">
+								<span class="summary-button-counter">1 / 17</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Tekken3')">
+								<img src="/COLECCION/botones/tekken3.png" alt="Tekken3" class="summary-button-image">
+								<span class="summary-button-counter">1 / 9</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Terrenos&Objetos')">
+								<img src="/COLECCION/botones/terrenos&objetos.png" alt="Terrenos&Objetos" class="summary-button-image">
+								<span class="summary-button-counter">2 / 42</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('ThunderCats')">
+								<img src="/COLECCION/botones/thundercats.png" alt="ThunderCats" class="summary-button-image">
+								<span class="summary-button-counter">1 / 21</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Tortugas Ninja')">
+								<img src="/COLECCION/botones/tortugas-ninja.png" alt="Tortugas Ninja" class="summary-button-image">
+								<span class="summary-button-counter">2 / 30</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Transformers')">
+								<img src="/COLECCION/botones/transformers.png" alt="Transformers" class="summary-button-image">
+								<span class="summary-button-counter">3 / 18</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Varios')">
+								<img src="/COLECCION/botones/varios.png" alt="Varios" class="summary-button-image">
+								<span class="summary-button-counter">1 / 6</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('X-Men')">
+								<img src="/COLECCION/botones/x-men.png" alt="X-Men" class="summary-button-image">
+								<span class="summary-button-counter">2 / 30</span>
+							</div>
+						
+					</div>
+				</div>
                     
                     <div id="cards-container">
                         
@@ -606,7 +619,7 @@
                             <div class="series-cards" id="series-Dragon-Quest" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Dragon Quest</h2>
-                                    <span>Cartas obtenidas: 5 / 57</span>
+                                    <span>Cartas obtenidas: 6 / 57</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -648,6 +661,20 @@
                                             </a>
                                             <div class="cromo-details">
                                                 <h3>mac (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 80</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '80', 'robot'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/VILLANO/robot(24-3-2024-21_28).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/VILLANO/robot(24-3-2024-21_28).png" alt="robot">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>robot (x2)</h3>
                                                 <p>Rareza: Raro</p>
                                             </div>
                                         </div>
@@ -948,7 +975,7 @@
                             <div class="series-cards" id="series-Spiderman" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Spiderman</h2>
-                                    <span>Cartas obtenidas: 2 / 30</span>
+                                    <span>Cartas obtenidas: 3 / 30</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -962,6 +989,20 @@
                                             </a>
                                             <div class="cromo-details">
                                                 <h3>Gwen Stacy (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 172</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '172', 'May Parker'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Spiderman/HERO/May-Parker(17-12-2023-19_27).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Spiderman/HERO/May-Parker(17-12-2023-19_27).png" alt="May Parker">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>May Parker (x1)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
