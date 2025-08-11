@@ -19,7 +19,7 @@
         {
             "id": 301,
             "nombre": "Astrotrain",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 107,
@@ -649,6 +649,11 @@
         {
             "id": 106,
             "nombre": "Scarlett",
+            "cantidad": 1
+        },
+        {
+            "id": 309,
+            "nombre": "Thundercracker",
             "cantidad": 1
         }
     ]
