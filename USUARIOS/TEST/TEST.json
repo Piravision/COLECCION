@@ -12,11 +12,6 @@
             "cantidad": 1
         },
         {
-            "id": 179,
-            "nombre": "Duende Verde",
-            "cantidad": 1
-        },
-        {
             "id": 226,
             "nombre": "Guerreros de Piedra",
             "cantidad": 1
@@ -44,6 +39,11 @@
         {
             "id": 526,
             "nombre": "Júbilo",
+            "cantidad": 1
+        },
+        {
+            "id": 6,
+            "nombre": "El Patriarca",
             "cantidad": 1
         }
     ]
