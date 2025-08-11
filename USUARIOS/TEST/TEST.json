@@ -22,11 +22,6 @@
             "cantidad": 1
         },
         {
-            "id": 303,
-            "nombre": "Megatron",
-            "cantidad": 1
-        },
-        {
             "id": 331,
             "nombre": "Mente Maestra",
             "cantidad": 1
@@ -44,6 +39,11 @@
         {
             "id": 6,
             "nombre": "El Patriarca",
+            "cantidad": 1
+        },
+        {
+            "id": 179,
+            "nombre": "Duende Verde",
             "cantidad": 1
         }
     ]
