@@ -39,7 +39,7 @@
         {
             "id": 26,
             "nombre": "Eric",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 8,
@@ -619,6 +619,11 @@
         {
             "id": 314,
             "nombre": "Coloso",
+            "cantidad": 1
+        },
+        {
+            "id": 297,
+            "nombre": "Optimus Prime",
             "cantidad": 1
         }
     ]

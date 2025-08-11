@@ -364,7 +364,7 @@
         {
             "id": 297,
             "nombre": "Optimus Prime",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 305,
@@ -834,6 +834,11 @@
         {
             "id": 316,
             "nombre": "Gambito",
+            "cantidad": 1
+        },
+        {
+            "id": 26,
+            "nombre": "Eric",
             "cantidad": 1
         }
     ]
