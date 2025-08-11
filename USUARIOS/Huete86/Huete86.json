@@ -189,7 +189,7 @@
     {
       "id": 8,
       "nombre": "Hades",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 27,
@@ -554,6 +554,16 @@
     {
       "id": 397,
       "nombre": "avalanche",
+      "cantidad": 1
+    },
+    {
+      "id": 414,
+      "nombre": "campb2",
+      "cantidad": 1
+    },
+    {
+      "id": 387,
+      "nombre": "Koala",
       "cantidad": 1
     }
   ]

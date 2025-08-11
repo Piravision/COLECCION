@@ -14,7 +14,7 @@
     {
       "id": 487,
       "nombre": "Jacques",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 298,
@@ -59,7 +59,7 @@
     {
       "id": 109,
       "nombre": "Cobra Commander",
-      "cantidad": 1
+      "cantidad": 4
     },
     {
       "id": 399,
@@ -94,7 +94,7 @@
     {
       "id": 6,
       "nombre": "El Patriarca",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1,
@@ -104,7 +104,7 @@
     {
       "id": 94,
       "nombre": "Goliath",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 234,
@@ -149,6 +149,306 @@
     {
       "id": 32,
       "nombre": "Venger",
+      "cantidad": 1
+    },
+    {
+      "id": 89,
+      "nombre": "Angela",
+      "cantidad": 1
+    },
+    {
+      "id": 340,
+      "nombre": "Poseidón",
+      "cantidad": 1
+    },
+    {
+      "id": 105,
+      "nombre": "Sargento Slaughter",
+      "cantidad": 1
+    },
+    {
+      "id": 337,
+      "nombre": "Ikki de Fénix",
+      "cantidad": 1
+    },
+    {
+      "id": 77,
+      "nombre": "Maximum",
+      "cantidad": 1
+    },
+    {
+      "id": 192,
+      "nombre": "Bends",
+      "cantidad": 1
+    },
+    {
+      "id": 463,
+      "nombre": "shoma",
+      "cantidad": 1
+    },
+    {
+      "id": 149,
+      "nombre": "Modo",
+      "cantidad": 1
+    },
+    {
+      "id": 239,
+      "nombre": "Stridor",
+      "cantidad": 1
+    },
+    {
+      "id": 364,
+      "nombre": "HulkHogan",
+      "cantidad": 1
+    },
+    {
+      "id": 146,
+      "nombre": "Siege",
+      "cantidad": 1
+    },
+    {
+      "id": 321,
+      "nombre": "Quicksilver",
+      "cantidad": 1
+    },
+    {
+      "id": 98,
+      "nombre": "David Xanatos",
+      "cantidad": 2
+    },
+    {
+      "id": 138,
+      "nombre": "Dr. Hell",
+      "cantidad": 2
+    },
+    {
+      "id": 421,
+      "nombre": "mei2",
+      "cantidad": 1
+    },
+    {
+      "id": 113,
+      "nombre": "Serpentor",
+      "cantidad": 1
+    },
+    {
+      "id": 332,
+      "nombre": "Mojo",
+      "cantidad": 1
+    },
+    {
+      "id": 492,
+      "nombre": "toasty",
+      "cantidad": 1
+    },
+    {
+      "id": 465,
+      "nombre": "air",
+      "cantidad": 1
+    },
+    {
+      "id": 436,
+      "nombre": "abe",
+      "cantidad": 1
+    },
+    {
+      "id": 300,
+      "nombre": "Wheeljack",
+      "cantidad": 1
+    },
+    {
+      "id": 163,
+      "nombre": "Ben Parker",
+      "cantidad": 1
+    },
+    {
+      "id": 263,
+      "nombre": "Casey Jones",
+      "cantidad": 1
+    },
+    {
+      "id": 155,
+      "nombre": "Lawrence Limburger_",
+      "cantidad": 1
+    },
+    {
+      "id": 26,
+      "nombre": "Eric",
+      "cantidad": 1
+    },
+    {
+      "id": 95,
+      "nombre": "Hudson",
+      "cantidad": 1
+    },
+    {
+      "id": 472,
+      "nombre": "grey",
+      "cantidad": 1
+    },
+    {
+      "id": 176,
+      "nombre": "Camaleon",
+      "cantidad": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Bravestarr",
+      "cantidad": 1
+    },
+    {
+      "id": 407,
+      "nombre": "yuffie",
+      "cantidad": 1
+    },
+    {
+      "id": 415,
+      "nombre": "emme",
+      "cantidad": 1
+    },
+    {
+      "id": 71,
+      "nombre": "herhero",
+      "cantidad": 1
+    },
+    {
+      "id": 169,
+      "nombre": "Hombre de Hielo",
+      "cantidad": 1
+    },
+    {
+      "id": 200,
+      "nombre": "Swordo",
+      "cantidad": 1
+    },
+    {
+      "id": 206,
+      "nombre": "Slash",
+      "cantidad": 1
+    },
+    {
+      "id": 259,
+      "nombre": "Ojo Rojo",
+      "cantidad": 1
+    },
+    {
+      "id": 384,
+      "nombre": "aku aku",
+      "cantidad": 1
+    },
+    {
+      "id": 135,
+      "nombre": "Afrodita A",
+      "cantidad": 1
+    },
+    {
+      "id": 24,
+      "nombre": "Bobby",
+      "cantidad": 1
+    },
+    {
+      "id": 126,
+      "nombre": "Beastman",
+      "cantidad": 1
+    },
+    {
+      "id": 91,
+      "nombre": "Bronx",
+      "cantidad": 1
+    },
+    {
+      "id": 302,
+      "nombre": "Blitzwing",
+      "cantidad": 1
+    },
+    {
+      "id": 310,
+      "nombre": "Dan",
+      "cantidad": 1
+    },
+    {
+      "id": 311,
+      "nombre": "Arcangel",
+      "cantidad": 1
+    },
+    {
+      "id": 20,
+      "nombre": "Skulkur",
+      "cantidad": 1
+    },
+    {
+      "id": 398,
+      "nombre": "barret",
+      "cantidad": 1
+    },
+    {
+      "id": 41,
+      "nombre": "crocodine bueno",
+      "cantidad": 1
+    },
+    {
+      "id": 191,
+      "nombre": "Venom",
+      "cantidad": 1
+    },
+    {
+      "id": 189,
+      "nombre": "Shocker",
+      "cantidad": 1
+    },
+    {
+      "id": 179,
+      "nombre": "Duende Verde",
+      "cantidad": 1
+    },
+    {
+      "id": 343,
+      "nombre": "Flazzard 2",
+      "cantidad": 1
+    },
+    {
+      "id": 325,
+      "nombre": "Apocalipsis",
+      "cantidad": 1
+    },
+    {
+      "id": 268,
+      "nombre": "Michelangelo",
+      "cantidad": 1
+    },
+    {
+      "id": 291,
+      "nombre": "Zorax",
+      "cantidad": 1
+    },
+    {
+      "id": 72,
+      "nombre": "hynkel malo",
+      "cantidad": 1
+    },
+    {
+      "id": 133,
+      "nombre": "Trap Jaw",
+      "cantidad": 1
+    },
+    {
+      "id": 52,
+      "nombre": "marin",
+      "cantidad": 1
+    },
+    {
+      "id": 295,
+      "nombre": "Ironhide",
+      "cantidad": 1
+    },
+    {
+      "id": 404,
+      "nombre": "sefirot",
+      "cantidad": 1
+    },
+    {
+      "id": 498,
+      "nombre": "riou",
       "cantidad": 1
     }
   ]
