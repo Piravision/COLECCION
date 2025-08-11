@@ -9,12 +9,12 @@
         {
             "id": 211,
             "nombre": "Anillo Serpiente",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 179,
             "nombre": "Duende Verde",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 301,
@@ -229,7 +229,7 @@
         {
             "id": 310,
             "nombre": "Dan",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 217,
@@ -274,7 +274,7 @@
         {
             "id": 117,
             "nombre": "He man",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 224,
@@ -629,6 +629,11 @@
         {
             "id": 427,
             "nombre": "psyco",
+            "cantidad": 1
+        },
+        {
+            "id": 169,
+            "nombre": "Hombre de Hielo",
             "cantidad": 1
         }
     ]
