@@ -59,7 +59,7 @@
         {
             "id": 94,
             "nombre": "Goliath",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 183,
@@ -549,6 +549,11 @@
         {
             "id": 164,
             "nombre": "Black Cat",
+            "cantidad": 1
+        },
+        {
+            "id": 185,
+            "nombre": "Morbius",
             "cantidad": 1
         }
     ]
