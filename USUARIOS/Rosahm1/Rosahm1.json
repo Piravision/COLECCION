@@ -249,7 +249,7 @@
         {
             "id": 163,
             "nombre": "Ben Parker",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 5,
@@ -644,6 +644,11 @@
         {
             "id": 94,
             "nombre": "Goliath",
+            "cantidad": 1
+        },
+        {
+            "id": 106,
+            "nombre": "Scarlett",
             "cantidad": 1
         }
     ]
