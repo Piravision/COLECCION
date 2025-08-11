@@ -389,7 +389,7 @@
         {
             "id": 427,
             "nombre": "psyco",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 379,
@@ -839,6 +839,11 @@
         {
             "id": 26,
             "nombre": "Eric",
+            "cantidad": 1
+        },
+        {
+            "id": 434,
+            "nombre": "vulcan",
             "cantidad": 1
         }
     ]

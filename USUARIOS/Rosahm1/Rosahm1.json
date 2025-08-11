@@ -374,7 +374,7 @@
         {
             "id": 434,
             "nombre": "vulcan",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 431,
@@ -624,6 +624,11 @@
         {
             "id": 297,
             "nombre": "Optimus Prime",
+            "cantidad": 1
+        },
+        {
+            "id": 427,
+            "nombre": "psyco",
             "cantidad": 1
         }
     ]
