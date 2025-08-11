@@ -214,7 +214,7 @@
         {
             "id": 164,
             "nombre": "Black Cat",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 154,
@@ -634,6 +634,11 @@
         {
             "id": 169,
             "nombre": "Hombre de Hielo",
+            "cantidad": 1
+        },
+        {
+            "id": 173,
+            "nombre": "Punisher",
             "cantidad": 1
         }
     ]
