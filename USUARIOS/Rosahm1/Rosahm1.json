@@ -294,7 +294,7 @@
         {
             "id": 114,
             "nombre": "Storm Shadow",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 63,
@@ -654,6 +654,11 @@
         {
             "id": 309,
             "nombre": "Thundercracker",
+            "cantidad": 1
+        },
+        {
+            "id": 101,
+            "nombre": "Duke",
             "cantidad": 1
         }
     ]
