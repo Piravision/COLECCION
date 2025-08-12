@@ -397,7 +397,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de Piravision</h2>
-                <span>Cartas obtenidas: 9 / 529</span>
+                <span>Cartas obtenidas: 12 / 529</span>
             </div>
             
             <div class="details">
@@ -406,6 +406,11 @@
     <h2>Resumen por Serie</h2>
 					<div class="summary-grid">
 						
+							<div class="summary-button" onclick="mostrarCartas('Castlevania')">
+								<img src="/COLECCION/botones/castlevania.png" alt="Castlevania" class="summary-button-image">
+								<span class="summary-button-counter">1 / 10</span>
+							</div>
+						
 							<div class="summary-button" onclick="mostrarCartas('Conan El Bárbaro')">
 								<img src="/COLECCION/botones/conan-el-bárbaro.png" alt="Conan El Bárbaro" class="summary-button-image">
 								<span class="summary-button-counter">2 / 13</span>
@@ -413,12 +418,17 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('Dragon Quest')">
 								<img src="/COLECCION/botones/dragon-quest.png" alt="Dragon Quest" class="summary-button-image">
-								<span class="summary-button-counter">1 / 57</span>
+								<span class="summary-button-counter">2 / 57</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Gijoe')">
 								<img src="/COLECCION/botones/gijoe.png" alt="Gijoe" class="summary-button-image">
 								<span class="summary-button-counter">2 / 16</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Heman')">
+								<img src="/COLECCION/botones/heman.png" alt="Heman" class="summary-button-image">
+								<span class="summary-button-counter">1 / 19</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Spiderman')">
@@ -445,6 +455,30 @@
 				</div>
                     
                     <div id="cards-container">
+                        
+                            <div class="series-cards" id="series-Castlevania" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Castlevania</h2>
+                                    <span>Cartas obtenidas: 1 / 10</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 365</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '365', 'alucard 1'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Castlevania/PERSONAJE/alucard 1.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Castlevania/PERSONAJE/alucard 1.png" alt="alucard 1">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>alucard 1 (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
                         
                             <div class="series-cards" id="series-Conan-El-Bárbaro" style="display: none;">
                                 <div class="section-title-2">
@@ -487,9 +521,23 @@
                             <div class="series-cards" id="series-Dragon-Quest" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Dragon Quest</h2>
-                                    <span>Cartas obtenidas: 1 / 57</span>
+                                    <span>Cartas obtenidas: 2 / 57</span>
                                 </div>
                                 <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 68</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '68', 'galdandy'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/VILLANO/galdandy(25-3-2024-23_1).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/VILLANO/galdandy(25-3-2024-23_1).png" alt="galdandy">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>galdandy (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
                                     
                                         <div class="cromo-card">
                                             <span class="cromo-numero">Nº: 70</span>
@@ -540,6 +588,30 @@
                                             <div class="cromo-details">
                                                 <h3>Serpentor (x1)</h3>
                                                 <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Heman" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Heman</h2>
+                                    <span>Cartas obtenidas: 1 / 19</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 133</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '133', 'Trap Jaw'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Heman/VILLANO/Trap-Jaw.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Heman/VILLANO/Trap-Jaw.png" alt="Trap Jaw">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Trap Jaw (x1)</h3>
+                                                <p>Rareza: Común</p>
                                             </div>
                                         </div>
                                     
