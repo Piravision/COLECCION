@@ -109,7 +109,7 @@
     {
       "id": 425,
       "nombre": "ocelot",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 83,
@@ -204,6 +204,31 @@
     {
       "id": 258,
       "nombre": "Mumm Ra",
+      "cantidad": 1
+    },
+    {
+      "id": 531,
+      "nombre": "McClane-Jail",
+      "cantidad": 1
+    },
+    {
+      "id": 132,
+      "nombre": "Skeletor",
+      "cantidad": 1
+    },
+    {
+      "id": 532,
+      "nombre": "Sarah-Connor-Jail",
+      "cantidad": 1
+    },
+    {
+      "id": 512,
+      "nombre": "Dimensión-X",
+      "cantidad": 1
+    },
+    {
+      "id": 263,
+      "nombre": "Casey Jones",
       "cantidad": 1
     }
   ]
