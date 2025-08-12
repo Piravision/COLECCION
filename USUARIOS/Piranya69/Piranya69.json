@@ -124,7 +124,7 @@
     {
       "id": 7,
       "nombre": "El Patriarca",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 128,
@@ -264,7 +264,7 @@
     {
       "id": 46,
       "nombre": "gome",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 502,
@@ -829,7 +829,7 @@
     {
       "id": 87,
       "nombre": "Walter _Doc_ Hartford",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 316,
@@ -854,6 +854,36 @@
     {
       "id": 266,
       "nombre": "Leonardo",
+      "cantidad": 1
+    },
+    {
+      "id": 200,
+      "nombre": "Swordo",
+      "cantidad": 1
+    },
+    {
+      "id": 296,
+      "nombre": "Jazz",
+      "cantidad": 1
+    },
+    {
+      "id": 447,
+      "nombre": "hunk",
+      "cantidad": 1
+    },
+    {
+      "id": 499,
+      "nombre": "seed",
+      "cantidad": 1
+    },
+    {
+      "id": 411,
+      "nombre": "big",
+      "cantidad": 1
+    },
+    {
+      "id": 129,
+      "nombre": "Hordak",
       "cantidad": 1
     }
   ]
