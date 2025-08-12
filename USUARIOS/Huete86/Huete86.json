@@ -189,7 +189,7 @@
     {
       "id": 8,
       "nombre": "Hades",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 27,
@@ -594,6 +594,16 @@
     {
       "id": 169,
       "nombre": "Hombre de Hielo",
+      "cantidad": 1
+    },
+    {
+      "id": 333,
+      "nombre": "Omega Rojo",
+      "cantidad": 1
+    },
+    {
+      "id": 524,
+      "nombre": "Capitán-Planeta",
       "cantidad": 1
     }
   ]

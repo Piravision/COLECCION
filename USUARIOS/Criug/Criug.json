@@ -1,330 +1,335 @@
 {
-    "usuario": "Criug",
-    "cromos": [
-        {
-            "id": 125,
-            "nombre": "Teela",
-            "cantidad": 2
-        },
-        {
-            "id": 8,
-            "nombre": "Hades",
-            "cantidad": 1
-        },
-        {
-            "id": 94,
-            "nombre": "Goliath",
-            "cantidad": 2
-        },
-        {
-            "id": 91,
-            "nombre": "Bronx",
-            "cantidad": 1
-        },
-        {
-            "id": 246,
-            "nombre": "Jaga",
-            "cantidad": 1
-        },
-        {
-            "id": 330,
-            "nombre": "Magneto",
-            "cantidad": 1
-        },
-        {
-            "id": 306,
-            "nombre": "Shockwave",
-            "cantidad": 1
-        },
-        {
-            "id": 290,
-            "nombre": "Tokka",
-            "cantidad": 1
-        },
-        {
-            "id": 109,
-            "nombre": "Cobra Commander",
-            "cantidad": 1
-        },
-        {
-            "id": 280,
-            "nombre": "General Traag",
-            "cantidad": 1
-        },
-        {
-            "id": 293,
-            "nombre": "Hot Rod",
-            "cantidad": 1
-        },
-        {
-            "id": 140,
-            "nombre": "Mallory McMallard",
-            "cantidad": 1
-        },
-        {
-            "id": 300,
-            "nombre": "Wheeljack",
-            "cantidad": 1
-        },
-        {
-            "id": 93,
-            "nombre": "Elisa Maza",
-            "cantidad": 1
-        },
-        {
-            "id": 181,
-            "nombre": "Hydro man",
-            "cantidad": 1
-        },
-        {
-            "id": 308,
-            "nombre": "Starscream",
-            "cantidad": 1
-        },
-        {
-            "id": 309,
-            "nombre": "Thundercracker",
-            "cantidad": 1
-        },
-        {
-            "id": 107,
-            "nombre": "Snake Eyes",
-            "cantidad": 1
-        },
-        {
-            "id": 223,
-            "nombre": "G.I. JOE Headquarters",
-            "cantidad": 1
-        },
-        {
-            "id": 38,
-            "nombre": "brokeena",
-            "cantidad": 1
-        },
-        {
-            "id": 244,
-            "nombre": "Felina",
-            "cantidad": 1
-        },
-        {
-            "id": 18,
-            "nombre": "Mesmira",
-            "cantidad": 1
-        },
-        {
-            "id": 167,
-            "nombre": "Gwen Stacy",
-            "cantidad": 1
-        },
-        {
-            "id": 9,
-            "nombre": "Rhadamanthys",
-            "cantidad": 2
-        },
-        {
-            "id": 225,
-            "nombre": "Guarida Felina",
-            "cantidad": 1
-        },
-        {
-            "id": 174,
-            "nombre": "Spiderman",
-            "cantidad": 3
-        },
-        {
-            "id": 73,
-            "nombre": "killvearn",
-            "cantidad": 1
-        },
-        {
-            "id": 301,
-            "nombre": "Astrotrain",
-            "cantidad": 2
-        },
-        {
-            "id": 179,
-            "nombre": "Duende Verde",
-            "cantidad": 2
-        },
-        {
-            "id": 511,
-            "nombre": "YOSHI",
-            "cantidad": 1
-        },
-        {
-            "id": 451,
-            "nombre": "perros",
-            "cantidad": 1
-        },
-        {
-            "id": 375,
-            "nombre": "Grobyc",
-            "cantidad": 1
-        },
-        {
-            "id": 41,
-            "nombre": "crocodine bueno",
-            "cantidad": 1
-        },
-        {
-            "id": 192,
-            "nombre": "Bends",
-            "cantidad": 1
-        },
-        {
-            "id": 136,
-            "nombre": "Mazinger Z",
-            "cantidad": 1
-        },
-        {
-            "id": 334,
-            "nombre": "Siniestro",
-            "cantidad": 1
-        },
-        {
-            "id": 224,
-            "nombre": "Guarida Tortuga",
-            "cantidad": 1
-        },
-        {
-            "id": 265,
-            "nombre": "Leatherhead",
-            "cantidad": 1
-        },
-        {
-            "id": 310,
-            "nombre": "Dan",
-            "cantidad": 1
-        },
-        {
-            "id": 384,
-            "nombre": "aku aku",
-            "cantidad": 1
-        },
-        {
-            "id": 102,
-            "nombre": "General Hawk",
-            "cantidad": 1
-        },
-        {
-            "id": 521,
-            "nombre": "León-O",
-            "cantidad": 1
-        },
-        {
-            "id": 25,
-            "nombre": "Diana",
-            "cantidad": 1
-        },
-        {
-            "id": 398,
-            "nombre": "barret",
-            "cantidad": 1
-        },
-        {
-            "id": 80,
-            "nombre": "robot",
-            "cantidad": 1
-        },
-        {
-            "id": 218,
-            "nombre": "Cybertron",
-            "cantidad": 1
-        },
-        {
-            "id": 20,
-            "nombre": "Skulkur",
-            "cantidad": 1
-        },
-        {
-            "id": 62,
-            "nombre": "derolin",
-            "cantidad": 1
-        },
-        {
-            "id": 305,
-            "nombre": "Runamuck",
-            "cantidad": 1
-        },
-        {
-            "id": 53,
-            "nombre": "marirov",
-            "cantidad": 1
-        },
-        {
-            "id": 74,
-            "nombre": "larhart",
-            "cantidad": 1
-        },
-        {
-            "id": 226,
-            "nombre": "Guerreros de Piedra",
-            "cantidad": 1
-        },
-        {
-            "id": 40,
-            "nombre": "chiu",
-            "cantidad": 1
-        },
-        {
-            "id": 135,
-            "nombre": "Afrodita A",
-            "cantidad": 1
-        },
-        {
-            "id": 465,
-            "nombre": "air",
-            "cantidad": 1
-        },
-        {
-            "id": 195,
-            "nombre": "Moby Lick",
-            "cantidad": 1
-        },
-        {
-            "id": 169,
-            "nombre": "Hombre de Hielo",
-            "cantidad": 1
-        },
-        {
-            "id": 273,
-            "nombre": "Raphael",
-            "cantidad": 1
-        },
-        {
-            "id": 303,
-            "nombre": "Megatron",
-            "cantidad": 1
-        },
-        {
-            "id": 117,
-            "nombre": "He man",
-            "cantidad": 1
-        },
-        {
-            "id": 296,
-            "nombre": "Jazz",
-            "cantidad": 1
-        },
-        {
-            "id": 52,
-            "nombre": "marin",
-            "cantidad": 1
-        },
-        {
-            "id": 178,
-            "nombre": "Dr. Octopus",
-            "cantidad": 1
-        },
-        {
-            "id": 253,
-            "nombre": "Buitro",
-            "cantidad": 1
-        },
-        {
-            "id": 524,
-            "nombre": "Capitán-Planeta",
-            "cantidad": 1
-        }
-    ]
+  "usuario": "Criug",
+  "cromos": [
+    {
+      "id": 125,
+      "nombre": "Teela",
+      "cantidad": 2
+    },
+    {
+      "id": 8,
+      "nombre": "Hades",
+      "cantidad": 1
+    },
+    {
+      "id": 94,
+      "nombre": "Goliath",
+      "cantidad": 2
+    },
+    {
+      "id": 91,
+      "nombre": "Bronx",
+      "cantidad": 1
+    },
+    {
+      "id": 246,
+      "nombre": "Jaga",
+      "cantidad": 1
+    },
+    {
+      "id": 330,
+      "nombre": "Magneto",
+      "cantidad": 1
+    },
+    {
+      "id": 306,
+      "nombre": "Shockwave",
+      "cantidad": 1
+    },
+    {
+      "id": 290,
+      "nombre": "Tokka",
+      "cantidad": 1
+    },
+    {
+      "id": 109,
+      "nombre": "Cobra Commander",
+      "cantidad": 1
+    },
+    {
+      "id": 280,
+      "nombre": "General Traag",
+      "cantidad": 1
+    },
+    {
+      "id": 293,
+      "nombre": "Hot Rod",
+      "cantidad": 1
+    },
+    {
+      "id": 140,
+      "nombre": "Mallory McMallard",
+      "cantidad": 1
+    },
+    {
+      "id": 300,
+      "nombre": "Wheeljack",
+      "cantidad": 1
+    },
+    {
+      "id": 93,
+      "nombre": "Elisa Maza",
+      "cantidad": 1
+    },
+    {
+      "id": 181,
+      "nombre": "Hydro man",
+      "cantidad": 1
+    },
+    {
+      "id": 308,
+      "nombre": "Starscream",
+      "cantidad": 1
+    },
+    {
+      "id": 309,
+      "nombre": "Thundercracker",
+      "cantidad": 1
+    },
+    {
+      "id": 107,
+      "nombre": "Snake Eyes",
+      "cantidad": 1
+    },
+    {
+      "id": 223,
+      "nombre": "G.I. JOE Headquarters",
+      "cantidad": 1
+    },
+    {
+      "id": 38,
+      "nombre": "brokeena",
+      "cantidad": 1
+    },
+    {
+      "id": 244,
+      "nombre": "Felina",
+      "cantidad": 1
+    },
+    {
+      "id": 18,
+      "nombre": "Mesmira",
+      "cantidad": 1
+    },
+    {
+      "id": 167,
+      "nombre": "Gwen Stacy",
+      "cantidad": 1
+    },
+    {
+      "id": 9,
+      "nombre": "Rhadamanthys",
+      "cantidad": 2
+    },
+    {
+      "id": 225,
+      "nombre": "Guarida Felina",
+      "cantidad": 1
+    },
+    {
+      "id": 174,
+      "nombre": "Spiderman",
+      "cantidad": 3
+    },
+    {
+      "id": 73,
+      "nombre": "killvearn",
+      "cantidad": 1
+    },
+    {
+      "id": 301,
+      "nombre": "Astrotrain",
+      "cantidad": 2
+    },
+    {
+      "id": 179,
+      "nombre": "Duende Verde",
+      "cantidad": 2
+    },
+    {
+      "id": 511,
+      "nombre": "YOSHI",
+      "cantidad": 1
+    },
+    {
+      "id": 451,
+      "nombre": "perros",
+      "cantidad": 1
+    },
+    {
+      "id": 375,
+      "nombre": "Grobyc",
+      "cantidad": 2
+    },
+    {
+      "id": 41,
+      "nombre": "crocodine bueno",
+      "cantidad": 1
+    },
+    {
+      "id": 192,
+      "nombre": "Bends",
+      "cantidad": 1
+    },
+    {
+      "id": 136,
+      "nombre": "Mazinger Z",
+      "cantidad": 1
+    },
+    {
+      "id": 334,
+      "nombre": "Siniestro",
+      "cantidad": 1
+    },
+    {
+      "id": 224,
+      "nombre": "Guarida Tortuga",
+      "cantidad": 1
+    },
+    {
+      "id": 265,
+      "nombre": "Leatherhead",
+      "cantidad": 1
+    },
+    {
+      "id": 310,
+      "nombre": "Dan",
+      "cantidad": 1
+    },
+    {
+      "id": 384,
+      "nombre": "aku aku",
+      "cantidad": 1
+    },
+    {
+      "id": 102,
+      "nombre": "General Hawk",
+      "cantidad": 1
+    },
+    {
+      "id": 521,
+      "nombre": "León-O",
+      "cantidad": 2
+    },
+    {
+      "id": 25,
+      "nombre": "Diana",
+      "cantidad": 1
+    },
+    {
+      "id": 398,
+      "nombre": "barret",
+      "cantidad": 1
+    },
+    {
+      "id": 80,
+      "nombre": "robot",
+      "cantidad": 1
+    },
+    {
+      "id": 218,
+      "nombre": "Cybertron",
+      "cantidad": 1
+    },
+    {
+      "id": 20,
+      "nombre": "Skulkur",
+      "cantidad": 1
+    },
+    {
+      "id": 62,
+      "nombre": "derolin",
+      "cantidad": 1
+    },
+    {
+      "id": 305,
+      "nombre": "Runamuck",
+      "cantidad": 1
+    },
+    {
+      "id": 53,
+      "nombre": "marirov",
+      "cantidad": 1
+    },
+    {
+      "id": 74,
+      "nombre": "larhart",
+      "cantidad": 1
+    },
+    {
+      "id": 226,
+      "nombre": "Guerreros de Piedra",
+      "cantidad": 1
+    },
+    {
+      "id": 40,
+      "nombre": "chiu",
+      "cantidad": 1
+    },
+    {
+      "id": 135,
+      "nombre": "Afrodita A",
+      "cantidad": 1
+    },
+    {
+      "id": 465,
+      "nombre": "air",
+      "cantidad": 1
+    },
+    {
+      "id": 195,
+      "nombre": "Moby Lick",
+      "cantidad": 1
+    },
+    {
+      "id": 169,
+      "nombre": "Hombre de Hielo",
+      "cantidad": 1
+    },
+    {
+      "id": 273,
+      "nombre": "Raphael",
+      "cantidad": 1
+    },
+    {
+      "id": 303,
+      "nombre": "Megatron",
+      "cantidad": 1
+    },
+    {
+      "id": 117,
+      "nombre": "He man",
+      "cantidad": 1
+    },
+    {
+      "id": 296,
+      "nombre": "Jazz",
+      "cantidad": 1
+    },
+    {
+      "id": 52,
+      "nombre": "marin",
+      "cantidad": 1
+    },
+    {
+      "id": 178,
+      "nombre": "Dr. Octopus",
+      "cantidad": 1
+    },
+    {
+      "id": 253,
+      "nombre": "Buitro",
+      "cantidad": 1
+    },
+    {
+      "id": 524,
+      "nombre": "Capitán-Planeta",
+      "cantidad": 1
+    },
+    {
+      "id": 5,
+      "nombre": "Seiya de Pegaso",
+      "cantidad": 1
+    }
+  ]
 }
