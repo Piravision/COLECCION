@@ -54,7 +54,7 @@
     {
       "id": 314,
       "nombre": "Coloso",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 64,
@@ -144,7 +144,7 @@
     {
       "id": 132,
       "nombre": "Skeletor",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 99,
@@ -309,7 +309,7 @@
     {
       "id": 278,
       "nombre": "Bebop",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 456,
@@ -344,7 +344,7 @@
     {
       "id": 431,
       "nombre": "solid",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 134,
@@ -864,7 +864,7 @@
     {
       "id": 296,
       "nombre": "Jazz",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 447,
@@ -904,7 +904,7 @@
     {
       "id": 201,
       "nombre": "Dr. paradigma",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 263,
@@ -999,6 +999,21 @@
     {
       "id": 163,
       "nombre": "Ben Parker",
+      "cantidad": 1
+    },
+    {
+      "id": 71,
+      "nombre": "herhero",
+      "cantidad": 1
+    },
+    {
+      "id": 535,
+      "nombre": "Venkman-Jail",
+      "cantidad": 1
+    },
+    {
+      "id": 361,
+      "nombre": "uriko",
       "cantidad": 1
     }
   ]
