@@ -397,7 +397,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de Alvaropt11</h2>
-                <span>Cartas obtenidas: 12 / 529</span>
+                <span>Cartas obtenidas: 18 / 536</span>
             </div>
             
             <div class="details">
@@ -405,6 +405,11 @@
                     <div class="summary-grid-container">
     <h2>Resumen por Serie</h2>
 					<div class="summary-grid">
+						
+							<div class="summary-button" onclick="mostrarCartas('Castlevania')">
+								<img src="/COLECCION/botones/castlevania.png" alt="Castlevania" class="summary-button-image">
+								<span class="summary-button-counter">1 / 10</span>
+							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('D&D')">
 								<img src="/COLECCION/botones/d&d.png" alt="D&D" class="summary-button-image">
@@ -416,9 +421,14 @@
 								<span class="summary-button-counter">4 / 57</span>
 							</div>
 						
+							<div class="summary-button" onclick="mostrarCartas('FFVII')">
+								<img src="/COLECCION/botones/ffvii.png" alt="FFVII" class="summary-button-image">
+								<span class="summary-button-counter">1 / 13</span>
+							</div>
+						
 							<div class="summary-button" onclick="mostrarCartas('Metal Gear Solid')">
 								<img src="/COLECCION/botones/metal-gear-solid.png" alt="Metal Gear Solid" class="summary-button-image">
-								<span class="summary-button-counter">1 / 24</span>
+								<span class="summary-button-counter">2 / 24</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Oddworld Abe Oddysee')">
@@ -436,20 +446,54 @@
 								<span class="summary-button-counter">2 / 30</span>
 							</div>
 						
+							<div class="summary-button" onclick="mostrarCartas('Terrenos&Objetos')">
+								<img src="/COLECCION/botones/terrenos&objetos.png" alt="Terrenos&Objetos" class="summary-button-image">
+								<span class="summary-button-counter">1 / 42</span>
+							</div>
+						
 							<div class="summary-button" onclick="mostrarCartas('Tortugas Ninja')">
 								<img src="/COLECCION/botones/tortugas-ninja.png" alt="Tortugas Ninja" class="summary-button-image">
 								<span class="summary-button-counter">1 / 30</span>
 							</div>
 						
+							<div class="summary-button" onclick="mostrarCartas('Varios')">
+								<img src="/COLECCION/botones/varios.png" alt="Varios" class="summary-button-image">
+								<span class="summary-button-counter">1 / 13</span>
+							</div>
+						
 							<div class="summary-button" onclick="mostrarCartas('X-Men')">
 								<img src="/COLECCION/botones/x-men.png" alt="X-Men" class="summary-button-image">
-								<span class="summary-button-counter">1 / 30</span>
+								<span class="summary-button-counter">2 / 30</span>
 							</div>
 						
 					</div>
 				</div>
                     
                     <div id="cards-container">
+                        
+                            <div class="series-cards" id="series-Castlevania" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Castlevania</h2>
+                                    <span>Cartas obtenidas: 1 / 10</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 365</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '365', 'alucard 1'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Castlevania/PERSONAJE/alucard 1.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Castlevania/PERSONAJE/alucard 1.png" alt="alucard 1">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>alucard 1 (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
                         
                             <div class="series-cards" id="series-DandD" style="display: none;">
                                 <div class="section-title-2">
@@ -541,10 +585,34 @@
                                 </div>
                             </div>
                         
+                            <div class="series-cards" id="series-FFVII" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>FFVII</h2>
+                                    <span>Cartas obtenidas: 1 / 13</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 403</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '403', 'red'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/FFVII/PERSONAJE/red.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/FFVII/PERSONAJE/red.png" alt="red">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>red (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
                             <div class="series-cards" id="series-Metal-Gear-Solid" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Metal Gear Solid</h2>
-                                    <span>Cartas obtenidas: 1 / 24</span>
+                                    <span>Cartas obtenidas: 2 / 24</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -558,6 +626,20 @@
                                             </a>
                                             <div class="cromo-details">
                                                 <h3>campb (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 418</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '418', 'grayfox2'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Metal Gear Solid/PERSONAJE/grayfox2.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Metal Gear Solid/PERSONAJE/grayfox2.png" alt="grayfox2">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>grayfox2 (x1)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -651,6 +733,30 @@
                                 </div>
                             </div>
                         
+                            <div class="series-cards" id="series-TerrenosandObjetos" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Terrenos&Objetos</h2>
+                                    <span>Cartas obtenidas: 1 / 42</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 232</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '232', 'Mousers'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Terreno y objetos/Mousers(12-12-2023-22_26).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Terreno y objetos/Mousers(12-12-2023-22_26).png" alt="Mousers">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Mousers (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
                             <div class="series-cards" id="series-Tortugas-Ninja" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Tortugas Ninja</h2>
@@ -675,12 +781,50 @@
                                 </div>
                             </div>
                         
+                            <div class="series-cards" id="series-Varios" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Varios</h2>
+                                    <span>Cartas obtenidas: 1 / 13</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 536</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '536', 'Xena-Jail'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/VARIOS/Xena(12-8-2025-15_21).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/VARIOS/Xena(12-8-2025-15_21).png" alt="Xena-Jail">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Xena-Jail (x1)</h3>
+                                                <p>Rareza: Legendario</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
                             <div class="series-cards" id="series-X-Men" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>X-Men</h2>
-                                    <span>Cartas obtenidas: 1 / 30</span>
+                                    <span>Cartas obtenidas: 2 / 30</span>
                                 </div>
                                 <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 313</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '313', 'Cable'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/X-MEN/HERO/Cable(23-12-2023-3_3).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/X-MEN/HERO/Cable(23-12-2023-3_3).png" alt="Cable">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Cable (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
                                     
                                         <div class="cromo-card">
                                             <span class="cromo-numero">Nº: 335</span>
