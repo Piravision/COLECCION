@@ -289,7 +289,7 @@
     {
       "id": 145,
       "nombre": "Lord Dragaunus",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 114,
@@ -719,6 +719,31 @@
     {
       "id": 246,
       "nombre": "Jaga",
+      "cantidad": 1
+    },
+    {
+      "id": 396,
+      "nombre": "aeris",
+      "cantidad": 1
+    },
+    {
+      "id": 400,
+      "nombre": "cid",
+      "cantidad": 1
+    },
+    {
+      "id": 547,
+      "nombre": "Snake-Plissken",
+      "cantidad": 1
+    },
+    {
+      "id": 531,
+      "nombre": "McClane-Jail",
+      "cantidad": 1
+    },
+    {
+      "id": 303,
+      "nombre": "Megatron",
       "cantidad": 1
     }
   ]

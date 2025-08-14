@@ -29,7 +29,7 @@
     {
       "id": 86,
       "nombre": "Shane Gooseman",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 11,
@@ -74,7 +74,7 @@
     {
       "id": 303,
       "nombre": "Megatron",
-      "cantidad": 4
+      "cantidad": 6
     },
     {
       "id": 29,
@@ -114,7 +114,7 @@
     {
       "id": 173,
       "nombre": "Punisher",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 274,
@@ -269,12 +269,12 @@
     {
       "id": 238,
       "nombre": "Snake Mountain",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 212,
       "nombre": "Asteroide M",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 203,
@@ -544,7 +544,7 @@
     {
       "id": 179,
       "nombre": "Duende Verde",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 164,
@@ -619,7 +619,7 @@
     {
       "id": 232,
       "nombre": "Mousers",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 430,
@@ -709,6 +709,66 @@
     {
       "id": 110,
       "nombre": "Destro",
+      "cantidad": 1
+    },
+    {
+      "id": 21,
+      "nombre": "Windfang",
+      "cantidad": 1
+    },
+    {
+      "id": 292,
+      "nombre": "Bumblebee",
+      "cantidad": 1
+    },
+    {
+      "id": 159,
+      "nombre": "Quicksilver",
+      "cantidad": 1
+    },
+    {
+      "id": 187,
+      "nombre": "Rhyno",
+      "cantidad": 1
+    },
+    {
+      "id": 299,
+      "nombre": "Sunstreaker",
+      "cantidad": 1
+    },
+    {
+      "id": 25,
+      "nombre": "Diana",
+      "cantidad": 1
+    },
+    {
+      "id": 322,
+      "nombre": "Rondador Nocturno",
+      "cantidad": 1
+    },
+    {
+      "id": 18,
+      "nombre": "Mesmira",
+      "cantidad": 1
+    },
+    {
+      "id": 370,
+      "nombre": "muerte",
+      "cantidad": 1
+    },
+    {
+      "id": 491,
+      "nombre": "spyro2",
+      "cantidad": 1
+    },
+    {
+      "id": 168,
+      "nombre": "Hobgoblin",
+      "cantidad": 1
+    },
+    {
+      "id": 496,
+      "nombre": "LUCA",
       "cantidad": 1
     }
   ]

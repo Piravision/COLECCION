@@ -119,7 +119,7 @@
     {
       "id": 271,
       "nombre": "Neutrinos",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 202,
@@ -134,7 +134,7 @@
     {
       "id": 210,
       "nombre": "AEROWING",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 167,
@@ -144,7 +144,7 @@
     {
       "id": 136,
       "nombre": "Mazinger Z",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 293,
@@ -189,7 +189,7 @@
     {
       "id": 148,
       "nombre": "Charlene _Charley_ Davidson",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 85,
@@ -314,12 +314,12 @@
     {
       "id": 132,
       "nombre": "Skeletor",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 30,
       "nombre": "Uni",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 350,
@@ -339,7 +339,7 @@
     {
       "id": 340,
       "nombre": "Poseidón",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 163,
@@ -479,7 +479,7 @@
     {
       "id": 334,
       "nombre": "Siniestro",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 363,
@@ -514,7 +514,7 @@
     {
       "id": 173,
       "nombre": "Punisher",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 486,
@@ -579,6 +579,106 @@
     {
       "id": 280,
       "nombre": "General Traag",
+      "cantidad": 1
+    },
+    {
+      "id": 453,
+      "nombre": "tyrant",
+      "cantidad": 1
+    },
+    {
+      "id": 140,
+      "nombre": "Mallory McMallard",
+      "cantidad": 1
+    },
+    {
+      "id": 463,
+      "nombre": "shoma",
+      "cantidad": 1
+    },
+    {
+      "id": 532,
+      "nombre": "Sarah-Connor-Jail",
+      "cantidad": 1
+    },
+    {
+      "id": 9,
+      "nombre": "Rhadamanthys",
+      "cantidad": 3
+    },
+    {
+      "id": 154,
+      "nombre": "Grease Pit",
+      "cantidad": 1
+    },
+    {
+      "id": 102,
+      "nombre": "General Hawk",
+      "cantidad": 1
+    },
+    {
+      "id": 534,
+      "nombre": "T800-Jail",
+      "cantidad": 2
+    },
+    {
+      "id": 199,
+      "nombre": "Streex",
+      "cantidad": 1
+    },
+    {
+      "id": 156,
+      "nombre": "Lord Camembert",
+      "cantidad": 1
+    },
+    {
+      "id": 101,
+      "nombre": "Duke",
+      "cantidad": 1
+    },
+    {
+      "id": 512,
+      "nombre": "Dimensión-X",
+      "cantidad": 1
+    },
+    {
+      "id": 523,
+      "nombre": "lara2",
+      "cantidad": 1
+    },
+    {
+      "id": 178,
+      "nombre": "Dr. Octopus",
+      "cantidad": 1
+    },
+    {
+      "id": 355,
+      "nombre": "bayur",
+      "cantidad": 1
+    },
+    {
+      "id": 126,
+      "nombre": "Beastman",
+      "cantidad": 1
+    },
+    {
+      "id": 143,
+      "nombre": "Wildwing Flashblade",
+      "cantidad": 1
+    },
+    {
+      "id": 308,
+      "nombre": "Starscream",
+      "cantidad": 1
+    },
+    {
+      "id": 256,
+      "nombre": "Mandrilo",
+      "cantidad": 1
+    },
+    {
+      "id": 128,
+      "nombre": "Faker",
       "cantidad": 1
     }
   ]
