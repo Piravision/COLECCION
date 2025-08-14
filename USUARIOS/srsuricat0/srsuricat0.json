@@ -239,7 +239,7 @@
     {
       "id": 492,
       "nombre": "toasty",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 465,
@@ -584,7 +584,7 @@
     {
       "id": 217,
       "nombre": "Cobra   H.I.S.S.",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 393,
@@ -649,6 +649,21 @@
     {
       "id": 236,
       "nombre": "Shark Tank",
+      "cantidad": 1
+    },
+    {
+      "id": 546,
+      "nombre": "MARTY-MCFLY",
+      "cantidad": 1
+    },
+    {
+      "id": 262,
+      "nombre": "April O'Neil",
+      "cantidad": 2
+    },
+    {
+      "id": 314,
+      "nombre": "Coloso",
       "cantidad": 1
     }
   ]
