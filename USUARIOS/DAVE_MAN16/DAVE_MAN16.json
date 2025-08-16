@@ -129,7 +129,7 @@
     {
       "id": 179,
       "nombre": "Duende Verde",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 257,
@@ -364,6 +364,31 @@
     {
       "id": 169,
       "nombre": "Hombre de Hielo",
+      "cantidad": 1
+    },
+    {
+      "id": 180,
+      "nombre": "Electro",
+      "cantidad": 1
+    },
+    {
+      "id": 135,
+      "nombre": "Afrodita A",
+      "cantidad": 1
+    },
+    {
+      "id": 330,
+      "nombre": "Magneto",
+      "cantidad": 1
+    },
+    {
+      "id": 526,
+      "nombre": "Júbilo",
+      "cantidad": 1
+    },
+    {
+      "id": 33,
+      "nombre": "Apollo",
       "cantidad": 1
     }
   ]

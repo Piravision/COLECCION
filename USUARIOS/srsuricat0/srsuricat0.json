@@ -84,7 +84,7 @@
     {
       "id": 396,
       "nombre": "aeris",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 276,
@@ -94,7 +94,7 @@
     {
       "id": 6,
       "nombre": "El Patriarca",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1,
@@ -129,7 +129,7 @@
     {
       "id": 507,
       "nombre": "KING",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 122,
@@ -174,7 +174,7 @@
     {
       "id": 77,
       "nombre": "Maximum",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 192,
@@ -249,7 +249,7 @@
     {
       "id": 436,
       "nombre": "abe",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 300,
@@ -269,7 +269,7 @@
     {
       "id": 155,
       "nombre": "Lawrence Limburger_",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 26,
@@ -289,7 +289,7 @@
     {
       "id": 176,
       "nombre": "Camaleon",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 2,
@@ -314,7 +314,7 @@
     {
       "id": 169,
       "nombre": "Hombre de Hielo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 200,
@@ -429,7 +429,7 @@
     {
       "id": 133,
       "nombre": "Trap Jaw",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 52,
@@ -464,7 +464,7 @@
     {
       "id": 461,
       "nombre": "Stalone-RamboIII",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 137,
@@ -514,7 +514,7 @@
     {
       "id": 13,
       "nombre": "Needle",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 40,
@@ -534,7 +534,7 @@
     {
       "id": 228,
       "nombre": "Isla Dermline",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 9,
@@ -549,7 +549,7 @@
     {
       "id": 211,
       "nombre": "Anillo Serpiente",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 357,
@@ -654,7 +654,7 @@
     {
       "id": 546,
       "nombre": "MARTY-MCFLY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 262,
@@ -699,7 +699,7 @@
     {
       "id": 456,
       "nombre": "boman",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 373,
@@ -729,12 +729,12 @@
     {
       "id": 161,
       "nombre": "Steelwill",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 231,
       "nombre": "Manual de Avan",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 187,
@@ -759,7 +759,7 @@
     {
       "id": 226,
       "nombre": "Guerreros de Piedra",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 253,
@@ -789,17 +789,17 @@
     {
       "id": 264,
       "nombre": "Donatello",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 479,
       "nombre": "Split Head",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 248,
       "nombre": "Panthro",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 381,
@@ -809,6 +809,196 @@
     {
       "id": 11,
       "nombre": "Greywolf",
+      "cantidad": 2
+    },
+    {
+      "id": 439,
+      "nombre": "mudokons",
+      "cantidad": 1
+    },
+    {
+      "id": 412,
+      "nombre": "big2",
+      "cantidad": 1
+    },
+    {
+      "id": 29,
+      "nombre": "Sheila",
+      "cantidad": 1
+    },
+    {
+      "id": 154,
+      "nombre": "Grease Pit",
+      "cantidad": 1
+    },
+    {
+      "id": 427,
+      "nombre": "psyco",
+      "cantidad": 1
+    },
+    {
+      "id": 265,
+      "nombre": "Leatherhead",
+      "cantidad": 1
+    },
+    {
+      "id": 48,
+      "nombre": "Hyunckel",
+      "cantidad": 1
+    },
+    {
+      "id": 124,
+      "nombre": "Stratos",
+      "cantidad": 2
+    },
+    {
+      "id": 386,
+      "nombre": "CROMO PERSONAJE",
+      "cantidad": 1
+    },
+    {
+      "id": 308,
+      "nombre": "Starscream",
+      "cantidad": 1
+    },
+    {
+      "id": 535,
+      "nombre": "Venkman-Jail",
+      "cantidad": 1
+    },
+    {
+      "id": 418,
+      "nombre": "grayfox2",
+      "cantidad": 1
+    },
+    {
+      "id": 301,
+      "nombre": "Astrotrain",
+      "cantidad": 1
+    },
+    {
+      "id": 324,
+      "nombre": "Wolverine",
+      "cantidad": 1
+    },
+    {
+      "id": 221,
+      "nombre": "Espada Atlantean",
+      "cantidad": 1
+    },
+    {
+      "id": 283,
+      "nombre": "Lord Dregg",
+      "cantidad": 1
+    },
+    {
+      "id": 195,
+      "nombre": "Moby Lick",
+      "cantidad": 1
+    },
+    {
+      "id": 196,
+      "nombre": "Ripster",
+      "cantidad": 1
+    },
+    {
+      "id": 90,
+      "nombre": "Broadway",
+      "cantidad": 1
+    },
+    {
+      "id": 419,
+      "nombre": "lquid",
+      "cantidad": 1
+    },
+    {
+      "id": 480,
+      "nombre": "Twinfeeler",
+      "cantidad": 1
+    },
+    {
+      "id": 39,
+      "nombre": "captain",
+      "cantidad": 1
+    },
+    {
+      "id": 201,
+      "nombre": "Dr. paradigma",
+      "cantidad": 1
+    },
+    {
+      "id": 473,
+      "nombre": "harry",
+      "cantidad": 1
+    },
+    {
+      "id": 317,
+      "nombre": "Jean Grey",
+      "cantidad": 3
+    },
+    {
+      "id": 467,
+      "nombre": "Cheryl",
+      "cantidad": 1
+    },
+    {
+      "id": 271,
+      "nombre": "Neutrinos",
+      "cantidad": 1
+    },
+    {
+      "id": 47,
+      "nombre": "hynkel2bueno",
+      "cantidad": 1
+    },
+    {
+      "id": 145,
+      "nombre": "Lord Dragaunus",
+      "cantidad": 1
+    },
+    {
+      "id": 65,
+      "nombre": "flazzard",
+      "cantidad": 1
+    },
+    {
+      "id": 494,
+      "nombre": "jillia",
+      "cantidad": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Juez J. Bella",
+      "cantidad": 1
+    },
+    {
+      "id": 213,
+      "nombre": "Blackbird",
+      "cantidad": 1
+    },
+    {
+      "id": 194,
+      "nombre": "Mantaman",
+      "cantidad": 1
+    },
+    {
+      "id": 320,
+      "nombre": "Psylocke",
+      "cantidad": 1
+    },
+    {
+      "id": 100,
+      "nombre": "Flint",
+      "cantidad": 1
+    },
+    {
+      "id": 280,
+      "nombre": "General Traag",
+      "cantidad": 1
+    },
+    {
+      "id": 34,
+      "nombre": "Avan",
       "cantidad": 1
     }
   ]

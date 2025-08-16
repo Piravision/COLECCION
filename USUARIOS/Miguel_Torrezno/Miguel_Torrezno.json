@@ -4,7 +4,7 @@
     {
       "id": 91,
       "nombre": "Bronx",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 108,
@@ -159,7 +159,7 @@
     {
       "id": 327,
       "nombre": "Dientes de Sable",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 81,
@@ -424,7 +424,7 @@
     {
       "id": 390,
       "nombre": "papu",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 10,
@@ -684,7 +684,7 @@
     {
       "id": 376,
       "nombre": "guile",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 388,
@@ -739,6 +739,41 @@
     {
       "id": 547,
       "nombre": "Snake-Plissken",
+      "cantidad": 2
+    },
+    {
+      "id": 238,
+      "nombre": "Snake Mountain",
+      "cantidad": 1
+    },
+    {
+      "id": 549,
+      "nombre": "T-1000",
+      "cantidad": 1
+    },
+    {
+      "id": 273,
+      "nombre": "Raphael",
+      "cantidad": 1
+    },
+    {
+      "id": 491,
+      "nombre": "spyro2",
+      "cantidad": 1
+    },
+    {
+      "id": 123,
+      "nombre": "Sorceress",
+      "cantidad": 1
+    },
+    {
+      "id": 519,
+      "nombre": "Tortugamóvil",
+      "cantidad": 1
+    },
+    {
+      "id": 146,
+      "nombre": "Siege",
       "cantidad": 1
     }
   ]
