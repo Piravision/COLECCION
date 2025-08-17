@@ -1079,7 +1079,7 @@
     {
       "id": 400,
       "nombre": "cid",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 413,
@@ -1389,7 +1389,7 @@
     {
       "id": 540,
       "nombre": "CHUCK-NORRIS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 538,
@@ -1499,6 +1499,26 @@
     {
       "id": 162,
       "nombre": "Mon Star",
+      "cantidad": 1
+    },
+    {
+      "id": 70,
+      "nombre": "hadlar",
+      "cantidad": 1
+    },
+    {
+      "id": 44,
+      "nombre": "Fly",
+      "cantidad": 1
+    },
+    {
+      "id": 158,
+      "nombre": "Copper Kid",
+      "cantidad": 1
+    },
+    {
+      "id": 509,
+      "nombre": "NINA",
       "cantidad": 1
     }
   ]

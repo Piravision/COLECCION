@@ -584,7 +584,7 @@
     {
       "id": 321,
       "nombre": "Quicksilver",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 530,
@@ -614,6 +614,16 @@
     {
       "id": 193,
       "nombre": "Jab",
+      "cantidad": 1
+    },
+    {
+      "id": 454,
+      "nombre": "zombi",
+      "cantidad": 1
+    },
+    {
+      "id": 500,
+      "nombre": "shu",
       "cantidad": 1
     }
   ]
