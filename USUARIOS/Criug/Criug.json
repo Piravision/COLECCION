@@ -29,7 +29,7 @@
     {
       "id": 330,
       "nombre": "Magneto",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 306,
@@ -64,7 +64,7 @@
     {
       "id": 300,
       "nombre": "Wheeljack",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 93,
@@ -274,7 +274,7 @@
     {
       "id": 465,
       "nombre": "air",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 195,
@@ -314,7 +314,7 @@
     {
       "id": 178,
       "nombre": "Dr. Octopus",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 253,
@@ -344,7 +344,7 @@
     {
       "id": 420,
       "nombre": "mei",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 450,
@@ -484,7 +484,7 @@
     {
       "id": 340,
       "nombre": "Poseidón",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 104,
@@ -494,7 +494,7 @@
     {
       "id": 342,
       "nombre": "Flazzard",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 427,
@@ -509,6 +509,111 @@
     {
       "id": 545,
       "nombre": "IVAN-DRAGO",
+      "cantidad": 1
+    },
+    {
+      "id": 373,
+      "nombre": "SHAFT",
+      "cantidad": 1
+    },
+    {
+      "id": 189,
+      "nombre": "Shocker",
+      "cantidad": 1
+    },
+    {
+      "id": 21,
+      "nombre": "Windfang",
+      "cantidad": 1
+    },
+    {
+      "id": 328,
+      "nombre": "Juggernaut",
+      "cantidad": 1
+    },
+    {
+      "id": 404,
+      "nombre": "sefirot",
+      "cantidad": 1
+    },
+    {
+      "id": 536,
+      "nombre": "Xena-Jail",
+      "cantidad": 1
+    },
+    {
+      "id": 314,
+      "nombre": "Coloso",
+      "cantidad": 1
+    },
+    {
+      "id": 132,
+      "nombre": "Skeletor",
+      "cantidad": 1
+    },
+    {
+      "id": 259,
+      "nombre": "Ojo Rojo",
+      "cantidad": 1
+    },
+    {
+      "id": 287,
+      "nombre": "Soldado del Pie",
+      "cantidad": 2
+    },
+    {
+      "id": 86,
+      "nombre": "Shane Gooseman",
+      "cantidad": 1
+    },
+    {
+      "id": 101,
+      "nombre": "Duke",
+      "cantidad": 1
+    },
+    {
+      "id": 88,
+      "nombre": "Zackary Foxx",
+      "cantidad": 1
+    },
+    {
+      "id": 395,
+      "nombre": "DISCÍPULOS-DE-AVAN",
+      "cantidad": 1
+    },
+    {
+      "id": 321,
+      "nombre": "Quicksilver",
+      "cantidad": 1
+    },
+    {
+      "id": 530,
+      "nombre": "Axel-Foley-Jail",
+      "cantidad": 1
+    },
+    {
+      "id": 408,
+      "nombre": "Elisa--Gárgola",
+      "cantidad": 1
+    },
+    {
+      "id": 128,
+      "nombre": "Faker",
+      "cantidad": 1
+    },
+    {
+      "id": 415,
+      "nombre": "emme",
+      "cantidad": 1
+    },
+    {
+      "id": 211,
+      "nombre": "Anillo Serpiente",
+      "cantidad": 1
+    },
+    {
+      "id": 193,
+      "nombre": "Jab",
       "cantidad": 1
     }
   ]

@@ -74,7 +74,7 @@
     {
       "id": 123,
       "nombre": "Sorceress",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 258,
@@ -144,7 +144,7 @@
     {
       "id": 39,
       "nombre": "captain",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 167,
@@ -364,7 +364,7 @@
     {
       "id": 506,
       "nombre": "jin",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 135,
@@ -654,7 +654,7 @@
     {
       "id": 309,
       "nombre": "Thundercracker",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 101,
@@ -679,7 +679,7 @@
     {
       "id": 308,
       "nombre": "Starscream",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 408,
@@ -794,6 +794,101 @@
     {
       "id": 53,
       "nombre": "marirov",
+      "cantidad": 1
+    },
+    {
+      "id": 57,
+      "nombre": "pop",
+      "cantidad": 1
+    },
+    {
+      "id": 549,
+      "nombre": "T-1000",
+      "cantidad": 1
+    },
+    {
+      "id": 476,
+      "nombre": "Kaufman",
+      "cantidad": 1
+    },
+    {
+      "id": 380,
+      "nombre": "marcy",
+      "cantidad": 1
+    },
+    {
+      "id": 55,
+      "nombre": "mina",
+      "cantidad": 1
+    },
+    {
+      "id": 272,
+      "nombre": "Panda Khan",
+      "cantidad": 1
+    },
+    {
+      "id": 198,
+      "nombre": "Slammu",
+      "cantidad": 1
+    },
+    {
+      "id": 178,
+      "nombre": "Dr. Octopus",
+      "cantidad": 1
+    },
+    {
+      "id": 182,
+      "nombre": "Kingpin",
+      "cantidad": 1
+    },
+    {
+      "id": 150,
+      "nombre": "Throttle",
+      "cantidad": 1
+    },
+    {
+      "id": 405,
+      "nombre": "tifa",
+      "cantidad": 1
+    },
+    {
+      "id": 99,
+      "nombre": "Demona",
+      "cantidad": 1
+    },
+    {
+      "id": 329,
+      "nombre": "Lady Deadstrike",
+      "cantidad": 1
+    },
+    {
+      "id": 28,
+      "nombre": "Presto",
+      "cantidad": 1
+    },
+    {
+      "id": 251,
+      "nombre": "Tigro",
+      "cantidad": 1
+    },
+    {
+      "id": 277,
+      "nombre": "Baxter",
+      "cantidad": 1
+    },
+    {
+      "id": 471,
+      "nombre": "Garland",
+      "cantidad": 1
+    },
+    {
+      "id": 337,
+      "nombre": "Ikki de Fénix",
+      "cantidad": 1
+    },
+    {
+      "id": 422,
+      "nombre": "meryl",
       "cantidad": 1
     }
   ]

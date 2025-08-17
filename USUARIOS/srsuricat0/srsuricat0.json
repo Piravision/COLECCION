@@ -34,7 +34,7 @@
     {
       "id": 303,
       "nombre": "Megatron",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 299,
@@ -44,7 +44,7 @@
     {
       "id": 190,
       "nombre": "Spider Woman",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 134,
@@ -119,7 +119,7 @@
     {
       "id": 297,
       "nombre": "Optimus Prime",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 484,
@@ -194,7 +194,7 @@
     {
       "id": 239,
       "nombre": "Stridor",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 364,
@@ -354,7 +354,7 @@
     {
       "id": 91,
       "nombre": "Bronx",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 302,
@@ -364,7 +364,7 @@
     {
       "id": 310,
       "nombre": "Dan",
-      "cantidad": 1
+      "cantidad": 4
     },
     {
       "id": 311,
@@ -389,7 +389,7 @@
     {
       "id": 191,
       "nombre": "Venom",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 189,
@@ -404,7 +404,7 @@
     {
       "id": 343,
       "nombre": "Flazzard 2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 325,
@@ -544,7 +544,7 @@
     {
       "id": 141,
       "nombre": "Nosedive Flashblade",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 211,
@@ -584,7 +584,7 @@
     {
       "id": 217,
       "nombre": "Cobra   H.I.S.S.",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 393,
@@ -619,7 +619,7 @@
     {
       "id": 449,
       "nombre": "leon2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 251,
@@ -654,12 +654,12 @@
     {
       "id": 546,
       "nombre": "MARTY-MCFLY",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 262,
       "nombre": "April O'Neil",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 314,
@@ -689,7 +689,7 @@
     {
       "id": 425,
       "nombre": "ocelot",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 517,
@@ -824,7 +824,7 @@
     {
       "id": 29,
       "nombre": "Sheila",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 154,
@@ -844,7 +844,7 @@
     {
       "id": 48,
       "nombre": "Hyunckel",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 124,
@@ -934,7 +934,7 @@
     {
       "id": 317,
       "nombre": "Jean Grey",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 467,
@@ -959,7 +959,7 @@
     {
       "id": 65,
       "nombre": "flazzard",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 494,
@@ -999,6 +999,146 @@
     {
       "id": 34,
       "nombre": "Avan",
+      "cantidad": 1
+    },
+    {
+      "id": 203,
+      "nombre": "Repteel",
+      "cantidad": 1
+    },
+    {
+      "id": 150,
+      "nombre": "Throttle",
+      "cantidad": 1
+    },
+    {
+      "id": 292,
+      "nombre": "Bumblebee",
+      "cantidad": 1
+    },
+    {
+      "id": 540,
+      "nombre": "CHUCK-NORRIS",
+      "cantidad": 1
+    },
+    {
+      "id": 504,
+      "nombre": "HEICHAI",
+      "cantidad": 1
+    },
+    {
+      "id": 423,
+      "nombre": "meryl2",
+      "cantidad": 1
+    },
+    {
+      "id": 316,
+      "nombre": "Gambito",
+      "cantidad": 1
+    },
+    {
+      "id": 497,
+      "nombre": "nanami",
+      "cantidad": 1
+    },
+    {
+      "id": 532,
+      "nombre": "Sarah-Connor-Jail",
+      "cantidad": 1
+    },
+    {
+      "id": 296,
+      "nombre": "Jazz",
+      "cantidad": 1
+    },
+    {
+      "id": 51,
+      "nombre": "mam",
+      "cantidad": 1
+    },
+    {
+      "id": 359,
+      "nombre": "long",
+      "cantidad": 1
+    },
+    {
+      "id": 358,
+      "nombre": "jenny",
+      "cantidad": 1
+    },
+    {
+      "id": 172,
+      "nombre": "May Parker",
+      "cantidad": 1
+    },
+    {
+      "id": 371,
+      "nombre": "muerte2",
+      "cantidad": 1
+    },
+    {
+      "id": 80,
+      "nombre": "robot",
+      "cantidad": 1
+    },
+    {
+      "id": 177,
+      "nombre": "Carnage",
+      "cantidad": 1
+    },
+    {
+      "id": 470,
+      "nombre": "Floatstinger",
+      "cantidad": 1
+    },
+    {
+      "id": 410,
+      "nombre": "Barón-Ashura",
+      "cantidad": 1
+    },
+    {
+      "id": 7,
+      "nombre": "El Patriarca",
+      "cantidad": 1
+    },
+    {
+      "id": 5,
+      "nombre": "Seiya de Pegaso",
+      "cantidad": 1
+    },
+    {
+      "id": 216,
+      "nombre": "Centinela",
+      "cantidad": 1
+    },
+    {
+      "id": 361,
+      "nombre": "uriko",
+      "cantidad": 1
+    },
+    {
+      "id": 378,
+      "nombre": "kid",
+      "cantidad": 1
+    },
+    {
+      "id": 548,
+      "nombre": "Snake-Plissken",
+      "cantidad": 1
+    },
+    {
+      "id": 237,
+      "nombre": "Sky Shadow",
+      "cantidad": 1
+    },
+    {
+      "id": 57,
+      "nombre": "pop",
+      "cantidad": 1
+    },
+    {
+      "id": 547,
+      "nombre": "ROCKY",
       "cantidad": 1
     }
   ]

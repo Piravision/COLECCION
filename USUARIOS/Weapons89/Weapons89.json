@@ -74,7 +74,7 @@
     {
       "id": 90,
       "nombre": "Broadway",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 159,
@@ -179,7 +179,7 @@
     {
       "id": 179,
       "nombre": "Duende Verde",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 275,
@@ -189,7 +189,7 @@
     {
       "id": 303,
       "nombre": "Megatron",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 172,
@@ -209,7 +209,7 @@
     {
       "id": 531,
       "nombre": "McClane-Jail",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 132,
@@ -309,7 +309,7 @@
     {
       "id": 163,
       "nombre": "Ben Parker",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 331,
@@ -319,7 +319,7 @@
     {
       "id": 211,
       "nombre": "Anillo Serpiente",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 157,
@@ -389,7 +389,7 @@
     {
       "id": 10,
       "nombre": "Conan",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 494,
@@ -424,7 +424,7 @@
     {
       "id": 444,
       "nombre": "birki",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 534,
@@ -434,6 +434,126 @@
     {
       "id": 4,
       "nombre": "Tex Hex",
+      "cantidad": 1
+    },
+    {
+      "id": 209,
+      "nombre": "Sovereign Rock Castle",
+      "cantidad": 1
+    },
+    {
+      "id": 236,
+      "nombre": "Shark Tank",
+      "cantidad": 1
+    },
+    {
+      "id": 126,
+      "nombre": "Beastman",
+      "cantidad": 1
+    },
+    {
+      "id": 330,
+      "nombre": "Magneto",
+      "cantidad": 1
+    },
+    {
+      "id": 88,
+      "nombre": "Zackary Foxx",
+      "cantidad": 1
+    },
+    {
+      "id": 411,
+      "nombre": "big",
+      "cantidad": 1
+    },
+    {
+      "id": 523,
+      "nombre": "lara2",
+      "cantidad": 1
+    },
+    {
+      "id": 328,
+      "nombre": "Juggernaut",
+      "cantidad": 1
+    },
+    {
+      "id": 287,
+      "nombre": "Soldado del Pie",
+      "cantidad": 2
+    },
+    {
+      "id": 396,
+      "nombre": "aeris",
+      "cantidad": 1
+    },
+    {
+      "id": 484,
+      "nombre": "Blowhard",
+      "cantidad": 1
+    },
+    {
+      "id": 123,
+      "nombre": "Sorceress",
+      "cantidad": 1
+    },
+    {
+      "id": 169,
+      "nombre": "Hombre de Hielo",
+      "cantidad": 1
+    },
+    {
+      "id": 546,
+      "nombre": "MARTY-MCFLY",
+      "cantidad": 1
+    },
+    {
+      "id": 353,
+      "nombre": "zorgia",
+      "cantidad": 1
+    },
+    {
+      "id": 35,
+      "nombre": "AVAN DRAGON",
+      "cantidad": 1
+    },
+    {
+      "id": 497,
+      "nombre": "nanami",
+      "cantidad": 1
+    },
+    {
+      "id": 320,
+      "nombre": "Psylocke",
+      "cantidad": 1
+    },
+    {
+      "id": 324,
+      "nombre": "Wolverine",
+      "cantidad": 1
+    },
+    {
+      "id": 530,
+      "nombre": "Axel-Foley-Jail",
+      "cantidad": 1
+    },
+    {
+      "id": 539,
+      "nombre": "BRUCE-LEE2",
+      "cantidad": 1
+    },
+    {
+      "id": 450,
+      "nombre": "licker",
+      "cantidad": 1
+    },
+    {
+      "id": 8,
+      "nombre": "Hades",
+      "cantidad": 1
+    },
+    {
+      "id": 280,
+      "nombre": "General Traag",
       "cantidad": 1
     }
   ]
