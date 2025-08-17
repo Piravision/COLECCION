@@ -199,7 +199,7 @@
     {
       "id": 281,
       "nombre": "Granitor",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 147,
@@ -309,7 +309,7 @@
     {
       "id": 465,
       "nombre": "air",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 420,
@@ -439,6 +439,26 @@
     {
       "id": 196,
       "nombre": "Ripster",
+      "cantidad": 1
+    },
+    {
+      "id": 245,
+      "nombre": "Felino",
+      "cantidad": 1
+    },
+    {
+      "id": 538,
+      "nombre": "BRUCE-LEE",
+      "cantidad": 1
+    },
+    {
+      "id": 207,
+      "nombre": "Slobster",
+      "cantidad": 1
+    },
+    {
+      "id": 370,
+      "nombre": "muerte",
       "cantidad": 1
     }
   ]
