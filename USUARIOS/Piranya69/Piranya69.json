@@ -14,7 +14,7 @@
     {
       "id": 183,
       "nombre": "Kraven",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 175,
@@ -74,7 +74,7 @@
     {
       "id": 182,
       "nombre": "Kingpin",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 118,
@@ -89,7 +89,7 @@
     {
       "id": 9,
       "nombre": "Rhadamanthys",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 226,
@@ -174,7 +174,7 @@
     {
       "id": 147,
       "nombre": "Carbine",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 94,
@@ -754,7 +754,7 @@
     {
       "id": 10,
       "nombre": "Conan",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 235,
@@ -874,7 +874,7 @@
     {
       "id": 499,
       "nombre": "seed",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 411,
@@ -1299,7 +1299,7 @@
     {
       "id": 155,
       "nombre": "Lawrence Limburger_",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 214,
@@ -1519,7 +1519,7 @@
     {
       "id": 509,
       "nombre": "NINA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 549,
@@ -1584,6 +1584,41 @@
     {
       "id": 133,
       "nombre": "Trap Jaw",
+      "cantidad": 1
+    },
+    {
+      "id": 524,
+      "nombre": "Capitán-Planeta",
+      "cantidad": 1
+    },
+    {
+      "id": 409,
+      "nombre": "Kōji-Kabuto",
+      "cantidad": 1
+    },
+    {
+      "id": 528,
+      "nombre": "Fénix-Oscura",
+      "cantidad": 1
+    },
+    {
+      "id": 213,
+      "nombre": "Blackbird",
+      "cantidad": 1
+    },
+    {
+      "id": 561,
+      "nombre": "MARIO-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 537,
+      "nombre": "BOLO-YEUNG",
+      "cantidad": 1
+    },
+    {
+      "id": 339,
+      "nombre": "Shun de Andrómeda",
       "cantidad": 1
     }
   ]
