@@ -397,7 +397,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de lordzanu</h2>
-                <span>Cartas obtenidas: 12 / 574</span>
+                <span>Cartas obtenidas: 15 / 574</span>
             </div>
             
             <div class="details">
@@ -405,6 +405,11 @@
                     <div class="summary-grid-container">
     <h2>Resumen por Serie</h2>
 					<div class="summary-grid">
+						
+							<div class="summary-button" onclick="mostrarCartas('Chrono Cross')">
+								<img src="/COLECCION/botones/chrono-cross.png" alt="Chrono Cross" class="summary-button-image">
+								<span class="summary-button-counter">1 / 9</span>
+							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('D&D')">
 								<img src="/COLECCION/botones/d&d.png" alt="D&D" class="summary-button-image">
@@ -418,7 +423,7 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('FFVII')">
 								<img src="/COLECCION/botones/ffvii.png" alt="FFVII" class="summary-button-image">
-								<span class="summary-button-counter">1 / 13</span>
+								<span class="summary-button-counter">2 / 13</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Metal Gear Solid')">
@@ -436,6 +441,11 @@
 								<span class="summary-button-counter">1 / 42</span>
 							</div>
 						
+							<div class="summary-button" onclick="mostrarCartas('Transformers')">
+								<img src="/COLECCION/botones/transformers.png" alt="Transformers" class="summary-button-image">
+								<span class="summary-button-counter">1 / 18</span>
+							</div>
+						
 							<div class="summary-button" onclick="mostrarCartas('Varios')">
 								<img src="/COLECCION/botones/varios.png" alt="Varios" class="summary-button-image">
 								<span class="summary-button-counter">2 / 51</span>
@@ -450,6 +460,30 @@
 				</div>
                     
                     <div id="cards-container">
+                        
+                            <div class="series-cards" id="series-Chrono-Cross" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Chrono Cross</h2>
+                                    <span>Cartas obtenidas: 1 / 9</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 375</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '375', 'Grobyc'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Chrono Cross/PERSONAJE/Grobyc.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Chrono Cross/PERSONAJE/Grobyc.png" alt="Grobyc">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Grobyc (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
                         
                             <div class="series-cards" id="series-DandD" style="display: none;">
                                 <div class="section-title-2">
@@ -516,9 +550,23 @@
                             <div class="series-cards" id="series-FFVII" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>FFVII</h2>
-                                    <span>Cartas obtenidas: 1 / 13</span>
+                                    <span>Cartas obtenidas: 2 / 13</span>
                                 </div>
                                 <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 399</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '399', 'cait'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/FFVII/PERSONAJE/cait.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/FFVII/PERSONAJE/cait.png" alt="cait">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>cait (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
                                     
                                         <div class="cromo-card">
                                             <span class="cromo-numero">Nº: 401</span>
@@ -630,6 +678,30 @@
                                             </a>
                                             <div class="cromo-details">
                                                 <h3>Centinela (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Transformers" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Transformers</h2>
+                                    <span>Cartas obtenidas: 1 / 18</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 299</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '299', 'Sunstreaker'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Transformers/HERO/Sunstreaker(5-12-2023-1_28).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Transformers/HERO/Sunstreaker(5-12-2023-1_28).png" alt="Sunstreaker">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Sunstreaker (x1)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
