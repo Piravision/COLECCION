@@ -397,7 +397,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de El_Retro_Visor_k</h2>
-                <span>Cartas obtenidas: 40 / 564</span>
+                <span>Cartas obtenidas: 43 / 564</span>
             </div>
             
             <div class="details">
@@ -405,6 +405,11 @@
                     <div class="summary-grid-container">
     <h2>Resumen por Serie</h2>
 					<div class="summary-grid">
+						
+							<div class="summary-button" onclick="mostrarCartas('Alundra')">
+								<img src="/COLECCION/botones/alundra.png" alt="Alundra" class="summary-button-image">
+								<span class="summary-button-counter">1 / 9</span>
+							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Bloody Roar')">
 								<img src="/COLECCION/botones/bloody-roar.png" alt="Bloody Roar" class="summary-button-image">
@@ -414,6 +419,11 @@
 							<div class="summary-button" onclick="mostrarCartas('BraveStarr')">
 								<img src="/COLECCION/botones/bravestarr.png" alt="BraveStarr" class="summary-button-image">
 								<span class="summary-button-counter">2 / 4</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Caballeros del Zodiaco')">
+								<img src="/COLECCION/botones/caballeros-del-zodiaco.png" alt="Caballeros del Zodiaco" class="summary-button-image">
+								<span class="summary-button-counter">1 / 10</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Castlevania')">
@@ -513,13 +523,37 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('X-Men')">
 								<img src="/COLECCION/botones/x-men.png" alt="X-Men" class="summary-button-image">
-								<span class="summary-button-counter">3 / 30</span>
+								<span class="summary-button-counter">4 / 30</span>
 							</div>
 						
 					</div>
 				</div>
                     
                     <div id="cards-container">
+                        
+                            <div class="series-cards" id="series-Alundra" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Alundra</h2>
+                                    <span>Cartas obtenidas: 1 / 9</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 347</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '347', 'Lizard'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Alundra/PERSONAJE/Lizard.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Alundra/PERSONAJE/Lizard.png" alt="Lizard">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Lizard (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
                         
                             <div class="series-cards" id="series-Bloody-Roar" style="display: none;">
                                 <div class="section-title-2">
@@ -577,6 +611,30 @@
                                             <div class="cromo-details">
                                                 <h3>Tex Hex (x1)</h3>
                                                 <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Caballeros-del-Zodiaco" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Caballeros del Zodiaco</h2>
+                                    <span>Cartas obtenidas: 1 / 10</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 338</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '338', 'Shiryū de Dragón'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Caballeros Zodiaco/HERO/Shiryū de Dragón.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Caballeros Zodiaco/HERO/Shiryū de Dragón.png" alt="Shiryū de Dragón">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Shiryū de Dragón (x1)</h3>
+                                                <p>Rareza: Común</p>
                                             </div>
                                         </div>
                                     
@@ -1252,7 +1310,7 @@
                             <div class="series-cards" id="series-X-Men" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>X-Men</h2>
-                                    <span>Cartas obtenidas: 3 / 30</span>
+                                    <span>Cartas obtenidas: 4 / 30</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -1281,6 +1339,20 @@
                                             <div class="cromo-details">
                                                 <h3>Emma Frost (x1)</h3>
                                                 <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 325</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '325', 'Apocalipsis'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/X-MEN/VILLANO/Apocalipsis(23-12-2023-3_42).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/X-MEN/VILLANO/Apocalipsis(23-12-2023-3_42).png" alt="Apocalipsis">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Apocalipsis (x1)</h3>
+                                                <p>Rareza: Raro</p>
                                             </div>
                                         </div>
                                     
