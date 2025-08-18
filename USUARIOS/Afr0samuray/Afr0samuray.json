@@ -379,7 +379,7 @@
     {
       "id": 39,
       "nombre": "captain",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 527,
@@ -399,7 +399,7 @@
     {
       "id": 300,
       "nombre": "Wheeljack",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 153,
@@ -1139,6 +1139,11 @@
     {
       "id": 360,
       "nombre": "stung",
+      "cantidad": 1
+    },
+    {
+      "id": 421,
+      "nombre": "mei2",
       "cantidad": 1
     }
   ]

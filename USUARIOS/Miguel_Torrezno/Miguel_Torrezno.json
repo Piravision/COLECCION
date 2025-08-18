@@ -79,7 +79,7 @@
     {
       "id": 166,
       "nombre": "Estrella de Fuego",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 283,
@@ -774,6 +774,31 @@
     {
       "id": 146,
       "nombre": "Siege",
+      "cantidad": 1
+    },
+    {
+      "id": 367,
+      "nombre": "BEMONT",
+      "cantidad": 1
+    },
+    {
+      "id": 7,
+      "nombre": "El Patriarca",
+      "cantidad": 1
+    },
+    {
+      "id": 542,
+      "nombre": "DIE-HARD",
+      "cantidad": 1
+    },
+    {
+      "id": 192,
+      "nombre": "Bends",
+      "cantidad": 1
+    },
+    {
+      "id": 434,
+      "nombre": "vulcan",
       "cantidad": 1
     }
   ]
