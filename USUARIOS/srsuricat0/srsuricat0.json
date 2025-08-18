@@ -254,7 +254,7 @@
     {
       "id": 300,
       "nombre": "Wheeljack",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 163,
@@ -834,7 +834,7 @@
     {
       "id": 427,
       "nombre": "psyco",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 265,
@@ -1034,7 +1034,7 @@
     {
       "id": 316,
       "nombre": "Gambito",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 497,
@@ -1139,6 +1139,36 @@
     {
       "id": 547,
       "nombre": "ROCKY",
+      "cantidad": 1
+    },
+    {
+      "id": 175,
+      "nombre": "Buitre",
+      "cantidad": 1
+    },
+    {
+      "id": 503,
+      "nombre": "gon",
+      "cantidad": 1
+    },
+    {
+      "id": 383,
+      "nombre": "viper",
+      "cantidad": 1
+    },
+    {
+      "id": 469,
+      "nombre": "Dahlia Gillespie",
+      "cantidad": 1
+    },
+    {
+      "id": 526,
+      "nombre": "Júbilo",
+      "cantidad": 1
+    },
+    {
+      "id": 143,
+      "nombre": "Wildwing Flashblade",
       "cantidad": 1
     }
   ]

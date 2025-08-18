@@ -9,7 +9,7 @@
     {
       "id": 214,
       "nombre": "Brimstar",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 37,
@@ -39,7 +39,7 @@
     {
       "id": 235,
       "nombre": "Punk Frogs",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 174,
@@ -234,7 +234,7 @@
     {
       "id": 276,
       "nombre": "Baxter",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 260,
@@ -589,7 +589,7 @@
     {
       "id": 376,
       "nombre": "guile",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 169,
@@ -699,7 +699,7 @@
     {
       "id": 62,
       "nombre": "derolin",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 458,
@@ -764,7 +764,7 @@
     {
       "id": 291,
       "nombre": "Zorax",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 541,
@@ -779,7 +779,7 @@
     {
       "id": 377,
       "nombre": "harle",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 33,
@@ -824,7 +824,7 @@
     {
       "id": 139,
       "nombre": "Duke L'Orange",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 306,
@@ -874,7 +874,7 @@
     {
       "id": 163,
       "nombre": "Ben Parker",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 17,
@@ -979,7 +979,7 @@
     {
       "id": 322,
       "nombre": "Rondador Nocturno",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 337,
@@ -1184,6 +1184,101 @@
     {
       "id": 147,
       "nombre": "Carbine",
+      "cantidad": 1
+    },
+    {
+      "id": 559,
+      "nombre": "MABARRACUS-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 548,
+      "nombre": "Snake-Plissken",
+      "cantidad": 1
+    },
+    {
+      "id": 564,
+      "nombre": "SLIMER",
+      "cantidad": 1
+    },
+    {
+      "id": 455,
+      "nombre": "batsu",
+      "cantidad": 1
+    },
+    {
+      "id": 126,
+      "nombre": "Beastman",
+      "cantidad": 1
+    },
+    {
+      "id": 237,
+      "nombre": "Sky Shadow",
+      "cantidad": 1
+    },
+    {
+      "id": 487,
+      "nombre": "Jacques",
+      "cantidad": 1
+    },
+    {
+      "id": 534,
+      "nombre": "T800-Jail",
+      "cantidad": 1
+    },
+    {
+      "id": 401,
+      "nombre": "cloud",
+      "cantidad": 1
+    },
+    {
+      "id": 305,
+      "nombre": "Runamuck",
+      "cantidad": 1
+    },
+    {
+      "id": 490,
+      "nombre": "spyro1",
+      "cantidad": 1
+    },
+    {
+      "id": 321,
+      "nombre": "Quicksilver",
+      "cantidad": 1
+    },
+    {
+      "id": 448,
+      "nombre": "leon1",
+      "cantidad": 1
+    },
+    {
+      "id": 159,
+      "nombre": "Quicksilver",
+      "cantidad": 1
+    },
+    {
+      "id": 383,
+      "nombre": "viper",
+      "cantidad": 1
+    },
+    {
+      "id": 299,
+      "nombre": "Sunstreaker",
+      "cantidad": 1
+    },
+    {
+      "id": 359,
+      "nombre": "long",
+      "cantidad": 1
+    },
+    {
+      "id": 372,
+      "nombre": "RENARD",
+      "cantidad": 1
+    },
+    {
+      "id": 370,
+      "nombre": "muerte",
       "cantidad": 1
     }
   ]

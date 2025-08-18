@@ -34,7 +34,7 @@
     {
       "id": 11,
       "nombre": "Greywolf",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 320,
@@ -89,7 +89,7 @@
     {
       "id": 305,
       "nombre": "Runamuck",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 126,
@@ -994,7 +994,7 @@
     {
       "id": 75,
       "nombre": "mac",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 348,
@@ -1079,7 +1079,7 @@
     {
       "id": 63,
       "nombre": "drabaran",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 152,
@@ -1144,6 +1144,16 @@
     {
       "id": 421,
       "nombre": "mei2",
+      "cantidad": 1
+    },
+    {
+      "id": 446,
+      "nombre": "CUERVOS",
+      "cantidad": 1
+    },
+    {
+      "id": 32,
+      "nombre": "Venger",
       "cantidad": 1
     }
   ]

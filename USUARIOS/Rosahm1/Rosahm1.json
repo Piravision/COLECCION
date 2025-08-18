@@ -4,7 +4,7 @@
     {
       "id": 25,
       "nombre": "Diana",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 211,
@@ -14,7 +14,7 @@
     {
       "id": 179,
       "nombre": "Duende Verde",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 301,
@@ -99,7 +99,7 @@
     {
       "id": 80,
       "nombre": "robot",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 10,
@@ -274,7 +274,7 @@
     {
       "id": 117,
       "nombre": "He man",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 224,
@@ -559,7 +559,7 @@
     {
       "id": 235,
       "nombre": "Punk Frogs",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 128,
@@ -594,7 +594,7 @@
     {
       "id": 469,
       "nombre": "Dahlia Gillespie",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 76,
@@ -679,7 +679,7 @@
     {
       "id": 308,
       "nombre": "Starscream",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 408,
@@ -804,7 +804,7 @@
     {
       "id": 549,
       "nombre": "T-1000",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 476,
@@ -854,7 +854,7 @@
     {
       "id": 99,
       "nombre": "Demona",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 329,
@@ -919,6 +919,61 @@
     {
       "id": 37,
       "nombre": "brass",
+      "cantidad": 1
+    },
+    {
+      "id": 225,
+      "nombre": "Guarida Felina",
+      "cantidad": 1
+    },
+    {
+      "id": 325,
+      "nombre": "Apocalipsis",
+      "cantidad": 1
+    },
+    {
+      "id": 265,
+      "nombre": "Leatherhead",
+      "cantidad": 1
+    },
+    {
+      "id": 72,
+      "nombre": "hynkel malo",
+      "cantidad": 1
+    },
+    {
+      "id": 377,
+      "nombre": "harle",
+      "cantidad": 1
+    },
+    {
+      "id": 331,
+      "nombre": "Mente Maestra",
+      "cantidad": 2
+    },
+    {
+      "id": 556,
+      "nombre": "LEIA-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 4,
+      "nombre": "Tex Hex",
+      "cantidad": 1
+    },
+    {
+      "id": 36,
+      "nombre": "baduck",
+      "cantidad": 1
+    },
+    {
+      "id": 498,
+      "nombre": "riou",
+      "cantidad": 1
+    },
+    {
+      "id": 562,
+      "nombre": "PETER-GRIFFIN-JAIL",
       "cantidad": 1
     }
   ]
