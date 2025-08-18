@@ -397,7 +397,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de lordzanu</h2>
-                <span>Cartas obtenidas: 30 / 574</span>
+                <span>Cartas obtenidas: 33 / 574</span>
             </div>
             
             <div class="details">
@@ -405,6 +405,11 @@
                     <div class="summary-grid-container">
     <h2>Resumen por Serie</h2>
 					<div class="summary-grid">
+						
+							<div class="summary-button" onclick="mostrarCartas('Bloody Roar')">
+								<img src="/COLECCION/botones/bloody-roar.png" alt="Bloody Roar" class="summary-button-image">
+								<span class="summary-button-counter">1 / 9</span>
+							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Caballeros del Zodiaco')">
 								<img src="/COLECCION/botones/caballeros-del-zodiaco.png" alt="Caballeros del Zodiaco" class="summary-button-image">
@@ -453,7 +458,12 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('Silent Hill')">
 								<img src="/COLECCION/botones/silent-hill.png" alt="Silent Hill" class="summary-button-image">
-								<span class="summary-button-counter">1 / 16</span>
+								<span class="summary-button-counter">2 / 16</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Spiderman')">
+								<img src="/COLECCION/botones/spiderman.png" alt="Spiderman" class="summary-button-image">
+								<span class="summary-button-counter">1 / 30</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Street Sharks')">
@@ -490,6 +500,30 @@
 				</div>
                     
                     <div id="cards-container">
+                        
+                            <div class="series-cards" id="series-Bloody-Roar" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Bloody Roar</h2>
+                                    <span>Cartas obtenidas: 1 / 9</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 358</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '358', 'jenny'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Bloody Roar/PERSONAJE/jenny.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Bloody Roar/PERSONAJE/jenny.png" alt="jenny">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>jenny (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
                         
                             <div class="series-cards" id="series-Caballeros-del-Zodiaco" style="display: none;">
                                 <div class="section-title-2">
@@ -822,7 +856,7 @@
                             <div class="series-cards" id="series-Silent-Hill" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Silent Hill</h2>
-                                    <span>Cartas obtenidas: 1 / 16</span>
+                                    <span>Cartas obtenidas: 2 / 16</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -836,6 +870,44 @@
                                             </a>
                                             <div class="cromo-details">
                                                 <h3>grey (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 473</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '473', 'harry'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Silent Hill/PERSONAJE/harry.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Silent Hill/PERSONAJE/harry.png" alt="harry">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>harry (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Spiderman" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Spiderman</h2>
+                                    <span>Cartas obtenidas: 1 / 30</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 175</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '175', 'Buitre'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Spiderman/VILLANO/Buitre(17-12-2023-17_17).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Spiderman/VILLANO/Buitre(17-12-2023-17_17).png" alt="Buitre">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Buitre (x1)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
