@@ -1,185 +1,200 @@
 {
-    "usuario": "lordzanu",
-    "cromos": [
-        {
-            "id": 28,
-            "nombre": "Presto",
-            "cantidad": 1
-        },
-        {
-            "id": 344,
-            "nombre": "Flazzard 3",
-            "cantidad": 1
-        },
-        {
-            "id": 572,
-            "nombre": "Sgt.-SLAUGTHER",
-            "cantidad": 1
-        },
-        {
-            "id": 54,
-            "nombre": "merle",
-            "cantidad": 1
-        },
-        {
-            "id": 429,
-            "nombre": "sniper",
-            "cantidad": 1
-        },
-        {
-            "id": 562,
-            "nombre": "PETER-GRIFFIN-JAIL",
-            "cantidad": 1
-        },
-        {
-            "id": 216,
-            "nombre": "Centinela",
-            "cantidad": 1
-        },
-        {
-            "id": 445,
-            "nombre": "claire",
-            "cantidad": 1
-        },
-        {
-            "id": 427,
-            "nombre": "psyco",
-            "cantidad": 1
-        },
-        {
-            "id": 401,
-            "nombre": "cloud",
-            "cantidad": 1
-        },
-        {
-            "id": 419,
-            "nombre": "lquid",
-            "cantidad": 1
-        },
-        {
-            "id": 529,
-            "nombre": "Mística",
-            "cantidad": 1
-        },
-        {
-            "id": 399,
-            "nombre": "cait",
-            "cantidad": 1
-        },
-        {
-            "id": 375,
-            "nombre": "Grobyc",
-            "cantidad": 1
-        },
-        {
-            "id": 299,
-            "nombre": "Sunstreaker",
-            "cantidad": 1
-        },
-        {
-            "id": 472,
-            "nombre": "grey",
-            "cantidad": 1
-        },
-        {
-            "id": 92,
-            "nombre": "Brooklyn",
-            "cantidad": 1
-        },
-        {
-            "id": 567,
-            "nombre": "JAKE-ROBERTS",
-            "cantidad": 1
-        },
-        {
-            "id": 525,
-            "nombre": "Cíclope",
-            "cantidad": 1
-        },
-        {
-            "id": 200,
-            "nombre": "Swordo",
-            "cantidad": 1
-        },
-        {
-            "id": 7,
-            "nombre": "El Patriarca",
-            "cantidad": 1
-        },
-        {
-            "id": 190,
-            "nombre": "Vandame-Bloodsport",
-            "cantidad": 1
-        },
-        {
-            "id": 283,
-            "nombre": "Lord Dregg",
-            "cantidad": 1
-        },
-        {
-            "id": 238,
-            "nombre": "Snake Mountain",
-            "cantidad": 1
-        },
-        {
-            "id": 265,
-            "nombre": "Leatherhead",
-            "cantidad": 1
-        },
-        {
-            "id": 442,
-            "nombre": "slig2",
-            "cantidad": 1
-        },
-        {
-            "id": 80,
-            "nombre": "robot",
-            "cantidad": 1
-        },
-        {
-            "id": 423,
-            "nombre": "meryl2",
-            "cantidad": 1
-        },
-        {
-            "id": 39,
-            "nombre": "captain",
-            "cantidad": 1
-        },
-        {
-            "id": 413,
-            "nombre": "campb",
-            "cantidad": 1
-        },
-        {
-            "id": 358,
-            "nombre": "jenny",
-            "cantidad": 1
-        },
-        {
-            "id": 473,
-            "nombre": "harry",
-            "cantidad": 1
-        },
-        {
-            "id": 175,
-            "nombre": "Buitre",
-            "cantidad": 1
-        },
-        {
-            "id": 367,
-            "nombre": "BEMONT",
-            "cantidad": 1
-        },
-        {
-            "id": 325,
-            "nombre": "Apocalipsis",
-            "cantidad": 1
-        },
-        {
-            "id": 9,
-            "nombre": "Rhadamanthys",
-            "cantidad": 1
-        }
-    ]
+  "usuario": "lordzanu",
+  "cromos": [
+    {
+      "id": 28,
+      "nombre": "Presto",
+      "cantidad": 1
+    },
+    {
+      "id": 344,
+      "nombre": "Flazzard 3",
+      "cantidad": 1
+    },
+    {
+      "id": 572,
+      "nombre": "Sgt.-SLAUGTHER",
+      "cantidad": 1
+    },
+    {
+      "id": 54,
+      "nombre": "merle",
+      "cantidad": 1
+    },
+    {
+      "id": 429,
+      "nombre": "sniper",
+      "cantidad": 1
+    },
+    {
+      "id": 562,
+      "nombre": "PETER-GRIFFIN-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 216,
+      "nombre": "Centinela",
+      "cantidad": 1
+    },
+    {
+      "id": 445,
+      "nombre": "claire",
+      "cantidad": 1
+    },
+    {
+      "id": 427,
+      "nombre": "psyco",
+      "cantidad": 1
+    },
+    {
+      "id": 401,
+      "nombre": "cloud",
+      "cantidad": 1
+    },
+    {
+      "id": 419,
+      "nombre": "lquid",
+      "cantidad": 1
+    },
+    {
+      "id": 529,
+      "nombre": "Mística",
+      "cantidad": 1
+    },
+    {
+      "id": 399,
+      "nombre": "cait",
+      "cantidad": 1
+    },
+    {
+      "id": 375,
+      "nombre": "Grobyc",
+      "cantidad": 1
+    },
+    {
+      "id": 299,
+      "nombre": "Sunstreaker",
+      "cantidad": 1
+    },
+    {
+      "id": 472,
+      "nombre": "grey",
+      "cantidad": 1
+    },
+    {
+      "id": 92,
+      "nombre": "Brooklyn",
+      "cantidad": 1
+    },
+    {
+      "id": 567,
+      "nombre": "JAKE-ROBERTS",
+      "cantidad": 1
+    },
+    {
+      "id": 525,
+      "nombre": "Cíclope",
+      "cantidad": 1
+    },
+    {
+      "id": 200,
+      "nombre": "Swordo",
+      "cantidad": 1
+    },
+    {
+      "id": 7,
+      "nombre": "El Patriarca",
+      "cantidad": 1
+    },
+    {
+      "id": 190,
+      "nombre": "Vandame-Bloodsport",
+      "cantidad": 1
+    },
+    {
+      "id": 283,
+      "nombre": "Lord Dregg",
+      "cantidad": 1
+    },
+    {
+      "id": 238,
+      "nombre": "Snake Mountain",
+      "cantidad": 1
+    },
+    {
+      "id": 265,
+      "nombre": "Leatherhead",
+      "cantidad": 1
+    },
+    {
+      "id": 442,
+      "nombre": "slig2",
+      "cantidad": 1
+    },
+    {
+      "id": 80,
+      "nombre": "robot",
+      "cantidad": 1
+    },
+    {
+      "id": 423,
+      "nombre": "meryl2",
+      "cantidad": 1
+    },
+    {
+      "id": 39,
+      "nombre": "captain",
+      "cantidad": 1
+    },
+    {
+      "id": 413,
+      "nombre": "campb",
+      "cantidad": 1
+    },
+    {
+      "id": 358,
+      "nombre": "jenny",
+      "cantidad": 1
+    },
+    {
+      "id": 473,
+      "nombre": "harry",
+      "cantidad": 1
+    },
+    {
+      "id": 175,
+      "nombre": "Buitre",
+      "cantidad": 1
+    },
+    {
+      "id": 367,
+      "nombre": "BEMONT",
+      "cantidad": 1
+    },
+    {
+      "id": 325,
+      "nombre": "Apocalipsis",
+      "cantidad": 1
+    },
+    {
+      "id": 9,
+      "nombre": "Rhadamanthys",
+      "cantidad": 1
+    },
+    {
+      "id": 197,
+      "nombre": "Rox",
+      "cantidad": 1
+    },
+    {
+      "id": 290,
+      "nombre": "Tokka",
+      "cantidad": 1
+    },
+    {
+      "id": 488,
+      "nombre": "metalhead",
+      "cantidad": 1
+    }
+  ]
 }
