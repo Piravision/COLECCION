@@ -359,7 +359,7 @@
     {
       "id": 549,
       "nombre": "T-1000",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 120,
@@ -494,6 +494,31 @@
     {
       "id": 21,
       "nombre": "Windfang",
+      "cantidad": 1
+    },
+    {
+      "id": 335,
+      "nombre": "Toad",
+      "cantidad": 1
+    },
+    {
+      "id": 452,
+      "nombre": "sherry",
+      "cantidad": 1
+    },
+    {
+      "id": 509,
+      "nombre": "NINA",
+      "cantidad": 1
+    },
+    {
+      "id": 74,
+      "nombre": "larhart",
+      "cantidad": 1
+    },
+    {
+      "id": 244,
+      "nombre": "Felina",
       "cantidad": 1
     }
   ]
