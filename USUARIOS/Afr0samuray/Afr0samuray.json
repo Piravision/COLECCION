@@ -344,7 +344,7 @@
         {
             "id": 7,
             "nombre": "El Patriarca",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 288,
@@ -1369,6 +1369,11 @@
         {
             "id": 331,
             "nombre": "Mente Maestra",
+            "cantidad": 1
+        },
+        {
+            "id": 450,
+            "nombre": "licker",
             "cantidad": 1
         }
     ]
