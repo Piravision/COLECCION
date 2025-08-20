@@ -304,7 +304,7 @@
     {
       "id": 29,
       "nombre": "Sheila",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 15,
@@ -609,7 +609,7 @@
     {
       "id": 166,
       "nombre": "Estrella de Fuego",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 518,
@@ -619,7 +619,7 @@
     {
       "id": 314,
       "nombre": "Coloso",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 297,
@@ -1114,6 +1114,36 @@
     {
       "id": 345,
       "nombre": "alundra",
+      "cantidad": 1
+    },
+    {
+      "id": 195,
+      "nombre": "Moby Lick",
+      "cantidad": 1
+    },
+    {
+      "id": 212,
+      "nombre": "Asteroide M",
+      "cantidad": 1
+    },
+    {
+      "id": 389,
+      "nombre": "neo cortex",
+      "cantidad": 1
+    },
+    {
+      "id": 574,
+      "nombre": "UNDERTAKER",
+      "cantidad": 1
+    },
+    {
+      "id": 70,
+      "nombre": "hadlar",
+      "cantidad": 1
+    },
+    {
+      "id": 204,
+      "nombre": "SharkBot",
       "cantidad": 1
     }
   ]
