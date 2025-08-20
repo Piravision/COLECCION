@@ -397,7 +397,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de JoseloR</h2>
-                <span>Cartas obtenidas: 11 / 574</span>
+                <span>Cartas obtenidas: 14 / 574</span>
             </div>
             
             <div class="details">
@@ -405,6 +405,11 @@
                     <div class="summary-grid-container">
     <h2>Resumen por Serie</h2>
 					<div class="summary-grid">
+						
+							<div class="summary-button" onclick="mostrarCartas('Castlevania')">
+								<img src="/COLECCION/botones/castlevania.png" alt="Castlevania" class="summary-button-image">
+								<span class="summary-button-counter">1 / 10</span>
+							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Dragon Quest')">
 								<img src="/COLECCION/botones/dragon-quest.png" alt="Dragon Quest" class="summary-button-image">
@@ -418,12 +423,17 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('Gijoe')">
 								<img src="/COLECCION/botones/gijoe.png" alt="Gijoe" class="summary-button-image">
-								<span class="summary-button-counter">1 / 16</span>
+								<span class="summary-button-counter">2 / 16</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Metal Gear Solid')">
 								<img src="/COLECCION/botones/metal-gear-solid.png" alt="Metal Gear Solid" class="summary-button-image">
 								<span class="summary-button-counter">1 / 24</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Motorratones')">
+								<img src="/COLECCION/botones/motorratones.png" alt="Motorratones" class="summary-button-image">
+								<span class="summary-button-counter">1 / 10</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Tekken3')">
@@ -455,6 +465,30 @@
 				</div>
                     
                     <div id="cards-container">
+                        
+                            <div class="series-cards" id="series-Castlevania" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Castlevania</h2>
+                                    <span>Cartas obtenidas: 1 / 10</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 372</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '372', 'RENARD'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Castlevania/PERSONAJE/RENARD.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Castlevania/PERSONAJE/RENARD.png" alt="RENARD">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>RENARD (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
                         
                             <div class="series-cards" id="series-Dragon-Quest" style="display: none;">
                                 <div class="section-title-2">
@@ -521,9 +555,23 @@
                             <div class="series-cards" id="series-Gijoe" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Gijoe</h2>
-                                    <span>Cartas obtenidas: 1 / 16</span>
+                                    <span>Cartas obtenidas: 2 / 16</span>
                                 </div>
                                 <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 101</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '101', 'Duke'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Gijoe/HERO/Duke(4-12-2023-23_6).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Gijoe/HERO/Duke(4-12-2023-23_6).png" alt="Duke">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Duke (x1)</h3>
+                                                <p>Rareza: Legendario</p>
+                                            </div>
+                                        </div>
                                     
                                         <div class="cromo-card">
                                             <span class="cromo-numero">Nº: 112</span>
@@ -559,6 +607,30 @@
                                             </a>
                                             <div class="cromo-details">
                                                 <h3>meryl3 (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Motorratones" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Motorratones</h2>
+                                    <span>Cartas obtenidas: 1 / 10</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 148</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '148', 'Charlene _Charley_ Davidson'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Motorratones/HERO/Charlene-_Charley_-Davidson(8-12-2023-0_37).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Motorratones/HERO/Charlene-_Charley_-Davidson(8-12-2023-0_37).png" alt="Charlene _Charley_ Davidson">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Charlene _Charley_ Davidson (x1)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
