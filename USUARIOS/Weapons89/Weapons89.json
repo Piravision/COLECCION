@@ -44,7 +44,7 @@
     {
       "id": 109,
       "nombre": "Cobra Commander",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 349,
@@ -374,7 +374,7 @@
     {
       "id": 50,
       "nombre": "Lonberuk",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 363,
@@ -984,6 +984,56 @@
     {
       "id": 561,
       "nombre": "MARIO-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 268,
+      "nombre": "Michelangelo",
+      "cantidad": 1
+    },
+    {
+      "id": 197,
+      "nombre": "Rox",
+      "cantidad": 1
+    },
+    {
+      "id": 36,
+      "nombre": "baduck",
+      "cantidad": 1
+    },
+    {
+      "id": 462,
+      "nombre": "sakura",
+      "cantidad": 1
+    },
+    {
+      "id": 264,
+      "nombre": "Donatello",
+      "cantidad": 1
+    },
+    {
+      "id": 125,
+      "nombre": "Teela",
+      "cantidad": 1
+    },
+    {
+      "id": 407,
+      "nombre": "yuffie",
+      "cantidad": 1
+    },
+    {
+      "id": 326,
+      "nombre": "Blob",
+      "cantidad": 1
+    },
+    {
+      "id": 212,
+      "nombre": "Asteroide M",
+      "cantidad": 1
+    },
+    {
+      "id": 550,
+      "nombre": "AceVentura-JAIL",
       "cantidad": 1
     }
   ]
