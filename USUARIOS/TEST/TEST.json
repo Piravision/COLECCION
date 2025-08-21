@@ -2,11 +2,6 @@
     "usuario": "TEST",
     "cromos": [
         {
-            "id": 374,
-            "nombre": "Succubus",
-            "cantidad": 1
-        },
-        {
             "id": 83,
             "nombre": "zamza",
             "cantidad": 1
@@ -44,6 +39,11 @@
         {
             "id": 179,
             "nombre": "Duende Verde",
+            "cantidad": 1
+        },
+        {
+            "id": 310,
+            "nombre": "Dan",
             "cantidad": 1
         }
     ]

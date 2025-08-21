@@ -2,11 +2,6 @@
     "usuario": "TEST2",
     "cromos": [
         {
-            "id": 310,
-            "nombre": "Dan",
-            "cantidad": 1
-        },
-        {
             "id": 79,
             "nombre": "pororo",
             "cantidad": 1
@@ -44,6 +39,11 @@
         {
             "id": 303,
             "nombre": "Megatron",
+            "cantidad": 1
+        },
+        {
+            "id": 374,
+            "nombre": "Succubus",
             "cantidad": 1
         }
     ]
