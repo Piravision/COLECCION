@@ -169,7 +169,7 @@
     {
       "id": 210,
       "nombre": "AEROWING",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 40,
@@ -189,7 +189,7 @@
     {
       "id": 569,
       "nombre": "MACHO-MAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 473,
@@ -239,6 +239,56 @@
     {
       "id": 545,
       "nombre": "IVAN-DRAGO",
+      "cantidad": 1
+    },
+    {
+      "id": 411,
+      "nombre": "big",
+      "cantidad": 1
+    },
+    {
+      "id": 312,
+      "nombre": "Bestia",
+      "cantidad": 1
+    },
+    {
+      "id": 446,
+      "nombre": "CUERVOS",
+      "cantidad": 1
+    },
+    {
+      "id": 101,
+      "nombre": "Duke",
+      "cantidad": 1
+    },
+    {
+      "id": 302,
+      "nombre": "Blitzwing",
+      "cantidad": 1
+    },
+    {
+      "id": 293,
+      "nombre": "Hot Rod",
+      "cantidad": 1
+    },
+    {
+      "id": 488,
+      "nombre": "metalhead",
+      "cantidad": 1
+    },
+    {
+      "id": 308,
+      "nombre": "Starscream",
+      "cantidad": 1
+    },
+    {
+      "id": 109,
+      "nombre": "Cobra Commander",
+      "cantidad": 1
+    },
+    {
+      "id": 296,
+      "nombre": "Jazz",
       "cantidad": 1
     }
   ]

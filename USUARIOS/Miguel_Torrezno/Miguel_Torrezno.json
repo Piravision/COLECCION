@@ -689,7 +689,7 @@
     {
       "id": 388,
       "nombre": "koala2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 516,
@@ -774,7 +774,7 @@
     {
       "id": 146,
       "nombre": "Siege",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 367,
@@ -874,7 +874,7 @@
     {
       "id": 424,
       "nombre": "meryl3",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 353,
@@ -984,6 +984,21 @@
     {
       "id": 530,
       "nombre": "Axel-Foley-Jail",
+      "cantidad": 1
+    },
+    {
+      "id": 574,
+      "nombre": "UNDERTAKER",
+      "cantidad": 1
+    },
+    {
+      "id": 212,
+      "nombre": "Asteroide M",
+      "cantidad": 1
+    },
+    {
+      "id": 65,
+      "nombre": "flazzard",
       "cantidad": 1
     }
   ]

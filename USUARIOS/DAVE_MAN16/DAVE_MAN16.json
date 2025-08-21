@@ -74,7 +74,7 @@
     {
       "id": 246,
       "nombre": "Jaga",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 21,
@@ -229,7 +229,7 @@
     {
       "id": 172,
       "nombre": "May Parker",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 248,
@@ -529,6 +529,51 @@
     {
       "id": 94,
       "nombre": "Goliath",
+      "cantidad": 1
+    },
+    {
+      "id": 403,
+      "nombre": "red",
+      "cantidad": 1
+    },
+    {
+      "id": 161,
+      "nombre": "Steelwill",
+      "cantidad": 2
+    },
+    {
+      "id": 361,
+      "nombre": "uriko",
+      "cantidad": 1
+    },
+    {
+      "id": 555,
+      "nombre": "INDIANA-JONES-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 205,
+      "nombre": "Shrimp Louie",
+      "cantidad": 1
+    },
+    {
+      "id": 305,
+      "nombre": "Runamuck",
+      "cantidad": 1
+    },
+    {
+      "id": 536,
+      "nombre": "Xena-Jail",
+      "cantidad": 1
+    },
+    {
+      "id": 491,
+      "nombre": "spyro2",
+      "cantidad": 1
+    },
+    {
+      "id": 35,
+      "nombre": "AVAN DRAGON",
       "cantidad": 1
     }
   ]
