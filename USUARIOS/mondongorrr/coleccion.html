@@ -397,7 +397,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de mondongorrr</h2>
-                <span>Cartas obtenidas: 9 / 574</span>
+                <span>Cartas obtenidas: 12 / 574</span>
             </div>
             
             <div class="details">
@@ -405,6 +405,11 @@
                     <div class="summary-grid-container">
     <h2>Resumen por Serie</h2>
 					<div class="summary-grid">
+						
+							<div class="summary-button" onclick="mostrarCartas('Alundra')">
+								<img src="/COLECCION/botones/alundra.png" alt="Alundra" class="summary-button-image">
+								<span class="summary-button-counter">1 / 9</span>
+							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('BraveStarr')">
 								<img src="/COLECCION/botones/bravestarr.png" alt="BraveStarr" class="summary-button-image">
@@ -431,9 +436,19 @@
 								<span class="summary-button-counter">1 / 10</span>
 							</div>
 						
+							<div class="summary-button" onclick="mostrarCartas('Terrenos&Objetos')">
+								<img src="/COLECCION/botones/terrenos&objetos.png" alt="Terrenos&Objetos" class="summary-button-image">
+								<span class="summary-button-counter">1 / 42</span>
+							</div>
+						
 							<div class="summary-button" onclick="mostrarCartas('ThunderCats')">
 								<img src="/COLECCION/botones/thundercats.png" alt="ThunderCats" class="summary-button-image">
 								<span class="summary-button-counter">2 / 21</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Transformers')">
+								<img src="/COLECCION/botones/transformers.png" alt="Transformers" class="summary-button-image">
+								<span class="summary-button-counter">1 / 18</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Varios')">
@@ -445,6 +460,30 @@
 				</div>
                     
                     <div id="cards-container">
+                        
+                            <div class="series-cards" id="series-Alundra" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Alundra</h2>
+                                    <span>Cartas obtenidas: 1 / 9</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 346</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '346', 'jess'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Alundra/PERSONAJE/jess.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Alundra/PERSONAJE/jess.png" alt="jess">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>jess (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
                         
                             <div class="series-cards" id="series-BraveStarr" style="display: none;">
                                 <div class="section-title-2">
@@ -580,6 +619,30 @@
                                 </div>
                             </div>
                         
+                            <div class="series-cards" id="series-TerrenosandObjetos" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Terrenos&Objetos</h2>
+                                    <span>Cartas obtenidas: 1 / 42</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 241</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '241', 'Thunder Tank'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Terreno y objetos/Thunder-Tank(12-12-2023-22_35).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Terreno y objetos/Thunder-Tank(12-12-2023-22_35).png" alt="Thunder Tank">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Thunder Tank (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
                             <div class="series-cards" id="series-ThunderCats" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>ThunderCats</h2>
@@ -612,6 +675,30 @@
                                             <div class="cromo-details">
                                                 <h3>Princesa Luna (x1)</h3>
                                                 <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Transformers" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Transformers</h2>
+                                    <span>Cartas obtenidas: 1 / 18</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 297</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '297', 'Optimus Prime'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Transformers/HERO/Optimus-Prime(5-12-2023-1_15).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Transformers/HERO/Optimus-Prime(5-12-2023-1_15).png" alt="Optimus Prime">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Optimus Prime (x1)</h3>
+                                                <p>Rareza: Legendario</p>
                                             </div>
                                         </div>
                                     
