@@ -249,7 +249,7 @@
     {
       "id": 53,
       "nombre": "marirov",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 74,
@@ -639,7 +639,7 @@
     {
       "id": 65,
       "nombre": "flazzard",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 176,
@@ -659,7 +659,7 @@
     {
       "id": 522,
       "nombre": "lara",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 424,
@@ -1334,7 +1334,7 @@
     {
       "id": 401,
       "nombre": "cloud",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 680,
@@ -1599,6 +1599,16 @@
     {
       "id": 49,
       "nombre": "leona",
+      "cantidad": 1
+    },
+    {
+      "id": 95,
+      "nombre": "Hudson",
+      "cantidad": 1
+    },
+    {
+      "id": 230,
+      "nombre": "Mansion X",
       "cantidad": 1
     }
   ]
