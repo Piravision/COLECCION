@@ -574,7 +574,7 @@
     {
       "id": 117,
       "nombre": "He man",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 168,
@@ -1194,7 +1194,7 @@
     {
       "id": 46,
       "nombre": "gome",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 496,
@@ -1274,7 +1274,7 @@
     {
       "id": 568,
       "nombre": "LOS-SACAMANTECAS",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 59,
@@ -1694,7 +1694,7 @@
     {
       "id": 408,
       "nombre": "Elisa--Gárgola",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 207,
@@ -2064,7 +2064,7 @@
     {
       "id": 96,
       "nombre": "Lexington",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 247,
@@ -2544,6 +2544,11 @@
     {
       "id": 545,
       "nombre": "IVAN-DRAGO",
+      "cantidad": 1
+    },
+    {
+      "id": 682,
+      "nombre": "DB-070",
       "cantidad": 1
     }
   ]
