@@ -789,7 +789,7 @@
         {
             "id": 311,
             "nombre": "Arcangel",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 17,
@@ -1464,6 +1464,11 @@
         {
             "id": 319,
             "nombre": "Profesor Xavier",
+            "cantidad": 1
+        },
+        {
+            "id": 332,
+            "nombre": "Mojo",
             "cantidad": 1
         }
     ]

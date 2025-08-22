@@ -1309,7 +1309,7 @@
         {
             "id": 332,
             "nombre": "Mojo",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 30,
@@ -1709,6 +1709,11 @@
         {
             "id": 338,
             "nombre": "Shiryū de Dragón",
+            "cantidad": 1
+        },
+        {
+            "id": 311,
+            "nombre": "Arcangel",
             "cantidad": 1
         }
     ]
