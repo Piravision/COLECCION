@@ -1244,7 +1244,7 @@
     {
       "id": 342,
       "nombre": "Flazzard",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 306,
@@ -1339,7 +1339,7 @@
     {
       "id": 573,
       "nombre": "ULTIMATE-WARRIOR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 186,
@@ -2169,7 +2169,7 @@
     {
       "id": 511,
       "nombre": "YOSHI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 250,
@@ -2579,6 +2579,21 @@
     {
       "id": 593,
       "nombre": "JOHNNY-MASON",
+      "cantidad": 1
+    },
+    {
+      "id": 720,
+      "nombre": "DB-108",
+      "cantidad": 1
+    },
+    {
+      "id": 664,
+      "nombre": "DB-052",
+      "cantidad": 1
+    },
+    {
+      "id": 651,
+      "nombre": "DB-039",
       "cantidad": 1
     }
   ]
