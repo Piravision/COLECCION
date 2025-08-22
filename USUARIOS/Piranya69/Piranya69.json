@@ -254,7 +254,7 @@
     {
       "id": 52,
       "nombre": "marin",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 466,
@@ -789,7 +789,7 @@
     {
       "id": 312,
       "nombre": "Bestia",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 191,
@@ -1549,7 +1549,7 @@
     {
       "id": 421,
       "nombre": "mei2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 365,
@@ -1669,7 +1669,7 @@
     {
       "id": 495,
       "nombre": "jowy",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 96,
@@ -1684,7 +1684,7 @@
     {
       "id": 326,
       "nombre": "Blob",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 350,
@@ -1849,7 +1849,7 @@
     {
       "id": 359,
       "nombre": "long",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 486,
@@ -1899,7 +1899,7 @@
     {
       "id": 53,
       "nombre": "marirov",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 568,
@@ -2079,6 +2079,46 @@
     {
       "id": 49,
       "nombre": "leona",
+      "cantidad": 1
+    },
+    {
+      "id": 391,
+      "nombre": "piretripe",
+      "cantidad": 1
+    },
+    {
+      "id": 127,
+      "nombre": "Evil Lyn",
+      "cantidad": 1
+    },
+    {
+      "id": 462,
+      "nombre": "sakura",
+      "cantidad": 1
+    },
+    {
+      "id": 717,
+      "nombre": "DB-105",
+      "cantidad": 1
+    },
+    {
+      "id": 464,
+      "nombre": "yamada",
+      "cantidad": 1
+    },
+    {
+      "id": 582,
+      "nombre": "CONTI",
+      "cantidad": 1
+    },
+    {
+      "id": 143,
+      "nombre": "Wildwing Flashblade",
+      "cantidad": 1
+    },
+    {
+      "id": 672,
+      "nombre": "DB-060",
       "cantidad": 1
     }
   ]

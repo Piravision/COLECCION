@@ -4,7 +4,7 @@
     {
       "id": 241,
       "nombre": "Thunder Tank",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 214,
@@ -274,7 +274,7 @@
     {
       "id": 34,
       "nombre": "Avan",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 138,
@@ -419,7 +419,7 @@
     {
       "id": 162,
       "nombre": "Mon Star",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 366,
@@ -1164,7 +1164,7 @@
     {
       "id": 319,
       "nombre": "Profesor Xavier",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 539,
@@ -1584,6 +1584,46 @@
     {
       "id": 388,
       "nombre": "koala2",
+      "cantidad": 1
+    },
+    {
+      "id": 52,
+      "nombre": "marin",
+      "cantidad": 1
+    },
+    {
+      "id": 563,
+      "nombre": "VADER-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 623,
+      "nombre": "DB-011",
+      "cantidad": 1
+    },
+    {
+      "id": 354,
+      "nombre": "alice",
+      "cantidad": 1
+    },
+    {
+      "id": 334,
+      "nombre": "Siniestro",
+      "cantidad": 1
+    },
+    {
+      "id": 680,
+      "nombre": "DB-068",
+      "cantidad": 1
+    },
+    {
+      "id": 527,
+      "nombre": "Pícara",
+      "cantidad": 1
+    },
+    {
+      "id": 532,
+      "nombre": "Sarah-Connor-Jail",
       "cantidad": 1
     }
   ]
