@@ -384,7 +384,7 @@
         {
             "id": 209,
             "nombre": "Sovereign Rock Castle",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 557,
@@ -864,6 +864,11 @@
         {
             "id": 314,
             "nombre": "Coloso",
+            "cantidad": 1
+        },
+        {
+            "id": 211,
+            "nombre": "Anillo Serpiente",
             "cantidad": 1
         }
     ]
