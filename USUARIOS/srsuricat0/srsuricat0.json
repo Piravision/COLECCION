@@ -1294,7 +1294,7 @@
     {
       "id": 147,
       "nombre": "Carbine",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 400,
@@ -1684,7 +1684,7 @@
     {
       "id": 395,
       "nombre": "DISCÍPULOS-DE-AVAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 525,
@@ -2324,7 +2324,7 @@
     {
       "id": 542,
       "nombre": "DIE-HARD",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 185,
@@ -2459,7 +2459,7 @@
     {
       "id": 108,
       "nombre": "Baronesa",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 531,
@@ -2549,6 +2549,16 @@
     {
       "id": 682,
       "nombre": "DB-070",
+      "cantidad": 1
+    },
+    {
+      "id": 620,
+      "nombre": "DB-008",
+      "cantidad": 1
+    },
+    {
+      "id": 655,
+      "nombre": "DB-043",
       "cantidad": 1
     }
   ]

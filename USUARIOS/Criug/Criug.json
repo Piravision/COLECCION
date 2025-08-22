@@ -4,7 +4,7 @@
         {
             "id": 125,
             "nombre": "Teela",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 8,
@@ -149,7 +149,7 @@
         {
             "id": 511,
             "nombre": "YOSHI",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 451,
@@ -209,7 +209,7 @@
         {
             "id": 521,
             "nombre": "León-O",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 25,
@@ -384,7 +384,7 @@
         {
             "id": 319,
             "nombre": "Profesor Xavier",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 194,
@@ -484,7 +484,7 @@
         {
             "id": 340,
             "nombre": "Poseidón",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 104,
@@ -579,7 +579,7 @@
         {
             "id": 395,
             "nombre": "DISCÍPULOS-DE-AVAN",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 321,
@@ -694,7 +694,7 @@
         {
             "id": 34,
             "nombre": "Avan",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 266,
@@ -834,7 +834,7 @@
         {
             "id": 554,
             "nombre": "HANSOLO-JAIL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 413,
@@ -844,7 +844,7 @@
         {
             "id": 3,
             "nombre": "Juez J. Bella",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 357,
@@ -869,7 +869,7 @@
         {
             "id": 209,
             "nombre": "Sovereign Rock Castle",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 376,
@@ -1099,7 +1099,7 @@
         {
             "id": 537,
             "nombre": "BOLO-YEUNG",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 292,
@@ -1284,7 +1284,7 @@
         {
             "id": 341,
             "nombre": "Crocodine Malvado",
-            "cantidad": 1
+            "cantidad": 3
         },
         {
             "id": 84,
@@ -1369,6 +1369,126 @@
         {
             "id": 565,
             "nombre": "ANDRÉ-THE-GIANT",
+            "cantidad": 1
+        },
+        {
+            "id": 574,
+            "nombre": "UNDERTAKER",
+            "cantidad": 1
+        },
+        {
+            "id": 557,
+            "nombre": "LUFFY-JAIL",
+            "cantidad": 2
+        },
+        {
+            "id": 733,
+            "nombre": "DB-121",
+            "cantidad": 1
+        },
+        {
+            "id": 276,
+            "nombre": "Baxter",
+            "cantidad": 1
+        },
+        {
+            "id": 240,
+            "nombre": "Terror Drome",
+            "cantidad": 1
+        },
+        {
+            "id": 354,
+            "nombre": "alice",
+            "cantidad": 1
+        },
+        {
+            "id": 696,
+            "nombre": "DB-084",
+            "cantidad": 1
+        },
+        {
+            "id": 444,
+            "nombre": "birki",
+            "cantidad": 1
+        },
+        {
+            "id": 359,
+            "nombre": "long",
+            "cantidad": 1
+        },
+        {
+            "id": 622,
+            "nombre": "DB-010",
+            "cantidad": 1
+        },
+        {
+            "id": 501,
+            "nombre": "SOLON",
+            "cantidad": 1
+        },
+        {
+            "id": 215,
+            "nombre": "Castillo Grayskull",
+            "cantidad": 1
+        },
+        {
+            "id": 710,
+            "nombre": "DB-098",
+            "cantidad": 1
+        },
+        {
+            "id": 543,
+            "nombre": "DIE-HARD-III",
+            "cantidad": 1
+        },
+        {
+            "id": 461,
+            "nombre": "Stalone-RamboIII",
+            "cantidad": 1
+        },
+        {
+            "id": 672,
+            "nombre": "DB-060",
+            "cantidad": 1
+        },
+        {
+            "id": 455,
+            "nombre": "batsu",
+            "cantidad": 1
+        },
+        {
+            "id": 31,
+            "nombre": "Tiamat",
+            "cantidad": 1
+        },
+        {
+            "id": 520,
+            "nombre": "BenGalí",
+            "cantidad": 1
+        },
+        {
+            "id": 402,
+            "nombre": "hojo",
+            "cantidad": 1
+        },
+        {
+            "id": 649,
+            "nombre": "DB-037",
+            "cantidad": 1
+        },
+        {
+            "id": 582,
+            "nombre": "CONTI",
+            "cantidad": 1
+        },
+        {
+            "id": 729,
+            "nombre": "DB-117",
+            "cantidad": 1
+        },
+        {
+            "id": 23,
+            "nombre": "Amo del Calabozo",
             "cantidad": 1
         }
     ]
