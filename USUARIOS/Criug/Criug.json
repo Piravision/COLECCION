@@ -139,7 +139,7 @@
     {
       "id": 301,
       "nombre": "Astrotrain",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 179,
@@ -1344,7 +1344,7 @@
     {
       "id": 146,
       "nombre": "Siege",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 648,
@@ -1594,6 +1594,11 @@
     {
       "id": 127,
       "nombre": "Evil Lyn",
+      "cantidad": 1
+    },
+    {
+      "id": 49,
+      "nombre": "leona",
       "cantidad": 1
     }
   ]
