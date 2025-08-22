@@ -34,7 +34,7 @@
         {
             "id": 92,
             "nombre": "Brooklyn",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 26,
@@ -69,7 +69,7 @@
         {
             "id": 54,
             "nombre": "merle",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 123,
@@ -219,7 +219,7 @@
         {
             "id": 154,
             "nombre": "Grease Pit",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 321,
@@ -274,7 +274,7 @@
         {
             "id": 117,
             "nombre": "He man",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 224,
@@ -374,7 +374,7 @@
         {
             "id": 434,
             "nombre": "vulcan",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 431,
@@ -729,7 +729,7 @@
         {
             "id": 400,
             "nombre": "cid",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 547,
@@ -1154,7 +1154,7 @@
         {
             "id": 165,
             "nombre": "Daredevil",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 522,
@@ -1184,7 +1184,7 @@
         {
             "id": 156,
             "nombre": "Lord Camembert",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 210,
@@ -1364,6 +1364,26 @@
         {
             "id": 88,
             "nombre": "Zackary Foxx",
+            "cantidad": 1
+        },
+        {
+            "id": 215,
+            "nombre": "Castillo Grayskull",
+            "cantidad": 1
+        },
+        {
+            "id": 499,
+            "nombre": "seed",
+            "cantidad": 1
+        },
+        {
+            "id": 548,
+            "nombre": "Snake-Plissken",
+            "cantidad": 1
+        },
+        {
+            "id": 482,
+            "nombre": "Escorpión",
             "cantidad": 1
         }
     ]
