@@ -854,7 +854,7 @@
         {
             "id": 99,
             "nombre": "Demona",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 329,
@@ -1359,6 +1359,11 @@
         {
             "id": 542,
             "nombre": "DIE-HARD",
+            "cantidad": 1
+        },
+        {
+            "id": 88,
+            "nombre": "Zackary Foxx",
             "cantidad": 1
         }
     ]
