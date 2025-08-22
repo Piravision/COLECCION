@@ -819,7 +819,7 @@
         {
             "id": 55,
             "nombre": "mina",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 272,
@@ -1414,6 +1414,11 @@
         {
             "id": 40,
             "nombre": "chiu",
+            "cantidad": 1
+        },
+        {
+            "id": 65,
+            "nombre": "flazzard",
             "cantidad": 1
         }
     ]

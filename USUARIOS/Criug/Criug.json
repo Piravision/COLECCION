@@ -639,7 +639,7 @@
         {
             "id": 65,
             "nombre": "flazzard",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 176,
@@ -1144,6 +1144,41 @@
         {
             "id": 48,
             "nombre": "Hyunckel",
+            "cantidad": 1
+        },
+        {
+            "id": 434,
+            "nombre": "vulcan",
+            "cantidad": 1
+        },
+        {
+            "id": 205,
+            "nombre": "Shrimp Louie",
+            "cantidad": 1
+        },
+        {
+            "id": 96,
+            "nombre": "Lexington",
+            "cantidad": 1
+        },
+        {
+            "id": 152,
+            "nombre": "Dr. Karbunkle",
+            "cantidad": 1
+        },
+        {
+            "id": 456,
+            "nombre": "boman",
+            "cantidad": 1
+        },
+        {
+            "id": 141,
+            "nombre": "Nosedive Flashblade",
+            "cantidad": 1
+        },
+        {
+            "id": 55,
+            "nombre": "mina",
             "cantidad": 1
         }
     ]
