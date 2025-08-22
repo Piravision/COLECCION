@@ -54,7 +54,7 @@
     {
       "id": 241,
       "nombre": "Thunder Tank",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 316,
@@ -179,7 +179,7 @@
     {
       "id": 213,
       "nombre": "Blackbird",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 31,
@@ -574,6 +574,26 @@
     {
       "id": 35,
       "nombre": "AVAN DRAGON",
+      "cantidad": 1
+    },
+    {
+      "id": 378,
+      "nombre": "kid",
+      "cantidad": 1
+    },
+    {
+      "id": 300,
+      "nombre": "Wheeljack",
+      "cantidad": 1
+    },
+    {
+      "id": 335,
+      "nombre": "Toad",
+      "cantidad": 1
+    },
+    {
+      "id": 386,
+      "nombre": "CROMO PERSONAJE",
       "cantidad": 1
     }
   ]

@@ -1219,7 +1219,7 @@
         {
             "id": 540,
             "nombre": "CHUCK-NORRIS",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 257,
@@ -1394,6 +1394,11 @@
         {
             "id": 527,
             "nombre": "Pícara",
+            "cantidad": 1
+        },
+        {
+            "id": 552,
+            "nombre": "CHEWBACCA-JAIL",
             "cantidad": 1
         }
     ]
