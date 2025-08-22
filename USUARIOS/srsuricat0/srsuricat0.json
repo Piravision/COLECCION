@@ -704,7 +704,7 @@
     {
       "id": 373,
       "nombre": "SHAFT",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 515,
@@ -714,7 +714,7 @@
     {
       "id": 438,
       "nombre": "molluck",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 510,
@@ -1109,7 +1109,7 @@
     {
       "id": 216,
       "nombre": "Centinela",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 361,
@@ -1974,7 +1974,7 @@
     {
       "id": 572,
       "nombre": "Sgt.-SLAUGTHER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 543,
@@ -2509,6 +2509,16 @@
     {
       "id": 451,
       "nombre": "perros",
+      "cantidad": 1
+    },
+    {
+      "id": 521,
+      "nombre": "León-O",
+      "cantidad": 1
+    },
+    {
+      "id": 458,
+      "nombre": "hinata",
       "cantidad": 1
     }
   ]

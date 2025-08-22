@@ -224,7 +224,7 @@
     {
       "id": 276,
       "nombre": "Baxter",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 252,
@@ -689,7 +689,7 @@
     {
       "id": 85,
       "nombre": "Niko",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 476,
@@ -1284,7 +1284,7 @@
     {
       "id": 527,
       "nombre": "Pícara",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 536,
@@ -1464,7 +1464,7 @@
     {
       "id": 105,
       "nombre": "Sargento Slaughter",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 120,
@@ -1789,7 +1789,7 @@
     {
       "id": 570,
       "nombre": "MILLION-DOLLAR-MAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 429,
@@ -2024,6 +2024,11 @@
     {
       "id": 473,
       "nombre": "harry",
+      "cantidad": 1
+    },
+    {
+      "id": 283,
+      "nombre": "Lord Dregg",
       "cantidad": 1
     }
   ]
