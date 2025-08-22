@@ -589,7 +589,7 @@
     {
       "id": 376,
       "nombre": "guile",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 169,
@@ -794,7 +794,7 @@
     {
       "id": 368,
       "nombre": "DRACULA1",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 543,
@@ -1474,6 +1474,26 @@
     {
       "id": 417,
       "nombre": "grayfox",
+      "cantidad": 1
+    },
+    {
+      "id": 263,
+      "nombre": "Casey Jones",
+      "cantidad": 1
+    },
+    {
+      "id": 619,
+      "nombre": "DB-007",
+      "cantidad": 1
+    },
+    {
+      "id": 712,
+      "nombre": "DB-100",
+      "cantidad": 1
+    },
+    {
+      "id": 216,
+      "nombre": "Centinela",
       "cantidad": 1
     }
   ]

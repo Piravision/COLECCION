@@ -14,7 +14,7 @@
     {
       "id": 8,
       "nombre": "Hades",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 260,
@@ -229,7 +229,7 @@
     {
       "id": 172,
       "nombre": "May Parker",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 248,
@@ -239,7 +239,7 @@
     {
       "id": 185,
       "nombre": "Morbius",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 126,
@@ -654,6 +654,51 @@
     {
       "id": 435,
       "nombre": "vulkan2",
+      "cantidad": 1
+    },
+    {
+      "id": 549,
+      "nombre": "T-1000",
+      "cantidad": 1
+    },
+    {
+      "id": 270,
+      "nombre": "Napoleon Bonafrog",
+      "cantidad": 1
+    },
+    {
+      "id": 564,
+      "nombre": "SLIMER",
+      "cantidad": 1
+    },
+    {
+      "id": 307,
+      "nombre": "Skywarp",
+      "cantidad": 1
+    },
+    {
+      "id": 175,
+      "nombre": "Buitre",
+      "cantidad": 1
+    },
+    {
+      "id": 369,
+      "nombre": "DRACULA2",
+      "cantidad": 1
+    },
+    {
+      "id": 568,
+      "nombre": "LOS-SACAMANTECAS",
+      "cantidad": 1
+    },
+    {
+      "id": 689,
+      "nombre": "DB-077",
+      "cantidad": 1
+    },
+    {
+      "id": 545,
+      "nombre": "IVAN-DRAGO",
       "cantidad": 1
     }
   ]
