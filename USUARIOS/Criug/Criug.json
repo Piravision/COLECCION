@@ -524,7 +524,7 @@
         {
             "id": 21,
             "nombre": "Windfang",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 328,
@@ -1539,6 +1539,11 @@
         {
             "id": 546,
             "nombre": "MARTY-MCFLY",
+            "cantidad": 1
+        },
+        {
+            "id": 10,
+            "nombre": "Conan",
             "cantidad": 1
         }
     ]
