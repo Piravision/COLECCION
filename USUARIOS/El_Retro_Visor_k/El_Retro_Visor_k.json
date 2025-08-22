@@ -294,7 +294,7 @@
         {
             "id": 79,
             "nombre": "pororo",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 567,
@@ -849,6 +849,11 @@
         {
             "id": 25,
             "nombre": "Diana",
+            "cantidad": 1
+        },
+        {
+            "id": 28,
+            "nombre": "Presto",
             "cantidad": 1
         }
     ]

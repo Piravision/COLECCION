@@ -224,7 +224,7 @@
         {
             "id": 321,
             "nombre": "Quicksilver",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 310,
@@ -864,7 +864,7 @@
         {
             "id": 28,
             "nombre": "Presto",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 251,
@@ -1134,7 +1134,7 @@
         {
             "id": 574,
             "nombre": "UNDERTAKER",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 70,
@@ -1249,7 +1249,7 @@
         {
             "id": 108,
             "nombre": "Baronesa",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 134,
@@ -1319,6 +1319,26 @@
         {
             "id": 30,
             "nombre": "Uni",
+            "cantidad": 1
+        },
+        {
+            "id": 352,
+            "nombre": "septimus",
+            "cantidad": 1
+        },
+        {
+            "id": 322,
+            "nombre": "Rondador Nocturno",
+            "cantidad": 1
+        },
+        {
+            "id": 489,
+            "nombre": "sparx",
+            "cantidad": 1
+        },
+        {
+            "id": 79,
+            "nombre": "pororo",
             "cantidad": 1
         }
     ]
