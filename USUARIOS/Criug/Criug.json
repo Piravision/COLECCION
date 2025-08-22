@@ -834,7 +834,7 @@
         {
             "id": 554,
             "nombre": "HANSOLO-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 413,
@@ -949,7 +949,7 @@
         {
             "id": 216,
             "nombre": "Centinela",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 204,
@@ -1524,6 +1524,21 @@
         {
             "id": 563,
             "nombre": "VADER-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 556,
+            "nombre": "LEIA-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 85,
+            "nombre": "Niko",
+            "cantidad": 1
+        },
+        {
+            "id": 546,
+            "nombre": "MARTY-MCFLY",
             "cantidad": 1
         }
     ]
