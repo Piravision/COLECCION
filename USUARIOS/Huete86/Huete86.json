@@ -309,7 +309,7 @@
     {
       "id": 437,
       "nombre": "ellum",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 105,
@@ -324,7 +324,7 @@
     {
       "id": 310,
       "nombre": "Dan",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 74,
@@ -454,7 +454,7 @@
     {
       "id": 272,
       "nombre": "Panda Khan",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 484,
@@ -1594,7 +1594,7 @@
     {
       "id": 563,
       "nombre": "VADER-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 623,
@@ -1624,6 +1624,16 @@
     {
       "id": 532,
       "nombre": "Sarah-Connor-Jail",
+      "cantidad": 1
+    },
+    {
+      "id": 207,
+      "nombre": "Slobster",
+      "cantidad": 1
+    },
+    {
+      "id": 631,
+      "nombre": "DB-019",
       "cantidad": 1
     }
   ]
