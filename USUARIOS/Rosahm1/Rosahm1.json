@@ -144,7 +144,7 @@
         {
             "id": 39,
             "nombre": "captain",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 167,
@@ -1404,6 +1404,11 @@
         {
             "id": 19,
             "nombre": "Set",
+            "cantidad": 1
+        },
+        {
+            "id": 34,
+            "nombre": "Avan",
             "cantidad": 1
         }
     ]

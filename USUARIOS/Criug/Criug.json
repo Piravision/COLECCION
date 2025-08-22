@@ -129,7 +129,7 @@
         {
             "id": 174,
             "nombre": "Spiderman",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 73,
@@ -434,7 +434,7 @@
         {
             "id": 76,
             "nombre": "masopho",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 495,
@@ -694,7 +694,7 @@
         {
             "id": 34,
             "nombre": "Avan",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 266,
@@ -864,7 +864,7 @@
         {
             "id": 100,
             "nombre": "Flint",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 209,
@@ -984,7 +984,7 @@
         {
             "id": 441,
             "nombre": "slig",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 68,
@@ -1029,7 +1029,7 @@
         {
             "id": 219,
             "nombre": "Dirigible Tortuga",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 422,
@@ -1129,6 +1129,16 @@
         {
             "id": 13,
             "nombre": "Needle",
+            "cantidad": 1
+        },
+        {
+            "id": 151,
+            "nombre": "Vinnie Cooper",
+            "cantidad": 1
+        },
+        {
+            "id": 39,
+            "nombre": "captain",
             "cantidad": 1
         }
     ]
