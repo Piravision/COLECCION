@@ -144,7 +144,7 @@
     {
       "id": 13,
       "nombre": "Needle",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 263,
@@ -344,7 +344,7 @@
     {
       "id": 296,
       "nombre": "Jazz",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 181,
@@ -484,7 +484,7 @@
     {
       "id": 230,
       "nombre": "Mansion X",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 425,
@@ -494,7 +494,7 @@
     {
       "id": 543,
       "nombre": "DIE-HARD-III",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 244,
@@ -564,7 +564,7 @@
     {
       "id": 536,
       "nombre": "Xena-Jail",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 491,
@@ -584,7 +584,7 @@
     {
       "id": 300,
       "nombre": "Wheeljack",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 335,
@@ -594,6 +594,66 @@
     {
       "id": 386,
       "nombre": "CROMO PERSONAJE",
+      "cantidad": 1
+    },
+    {
+      "id": 486,
+      "nombre": "gnasty-gnorc",
+      "cantidad": 1
+    },
+    {
+      "id": 155,
+      "nombre": "Lawrence Limburger_",
+      "cantidad": 1
+    },
+    {
+      "id": 267,
+      "nombre": "Metalhead",
+      "cantidad": 1
+    },
+    {
+      "id": 500,
+      "nombre": "shu",
+      "cantidad": 1
+    },
+    {
+      "id": 477,
+      "nombre": "mumb",
+      "cantidad": 1
+    },
+    {
+      "id": 84,
+      "nombre": "zurbon",
+      "cantidad": 1
+    },
+    {
+      "id": 314,
+      "nombre": "Coloso",
+      "cantidad": 1
+    },
+    {
+      "id": 81,
+      "nombre": "vearn",
+      "cantidad": 1
+    },
+    {
+      "id": 362,
+      "nombre": "yugo",
+      "cantidad": 1
+    },
+    {
+      "id": 69,
+      "nombre": "gargola",
+      "cantidad": 1
+    },
+    {
+      "id": 371,
+      "nombre": "muerte2",
+      "cantidad": 1
+    },
+    {
+      "id": 435,
+      "nombre": "vulkan2",
       "cantidad": 1
     }
   ]

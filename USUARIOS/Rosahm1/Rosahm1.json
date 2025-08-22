@@ -549,7 +549,7 @@
         {
             "id": 264,
             "nombre": "Donatello",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 461,
@@ -1419,6 +1419,11 @@
         {
             "id": 65,
             "nombre": "flazzard",
+            "cantidad": 1
+        },
+        {
+            "id": 288,
+            "nombre": "Splinter",
             "cantidad": 1
         }
     ]
