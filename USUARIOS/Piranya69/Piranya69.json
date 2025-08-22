@@ -339,7 +339,7 @@
     {
       "id": 340,
       "nombre": "Poseidón",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 431,
@@ -1814,7 +1814,7 @@
     {
       "id": 555,
       "nombre": "INDIANA-JONES-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 436,
@@ -2014,7 +2014,7 @@
     {
       "id": 19,
       "nombre": "Set",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 202,
@@ -2194,6 +2194,21 @@
     {
       "id": 631,
       "nombre": "DB-019",
+      "cantidad": 1
+    },
+    {
+      "id": 670,
+      "nombre": "DB-058",
+      "cantidad": 1
+    },
+    {
+      "id": 574,
+      "nombre": "UNDERTAKER",
+      "cantidad": 1
+    },
+    {
+      "id": 564,
+      "nombre": "SLIMER",
       "cantidad": 1
     }
   ]

@@ -1129,7 +1129,7 @@
         {
             "id": 574,
             "nombre": "UNDERTAKER",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 70,
@@ -1719,6 +1719,11 @@
         {
             "id": 320,
             "nombre": "Psylocke",
+            "cantidad": 1
+        },
+        {
+            "id": 544,
+            "nombre": "DOC-BROWN",
             "cantidad": 1
         }
     ]
