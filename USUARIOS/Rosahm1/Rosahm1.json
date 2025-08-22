@@ -1134,7 +1134,7 @@
         {
             "id": 574,
             "nombre": "UNDERTAKER",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 70,
@@ -1339,6 +1339,11 @@
         {
             "id": 79,
             "nombre": "pororo",
+            "cantidad": 1
+        },
+        {
+            "id": 570,
+            "nombre": "MILLION-DOLLAR-MAN",
             "cantidad": 1
         }
     ]
