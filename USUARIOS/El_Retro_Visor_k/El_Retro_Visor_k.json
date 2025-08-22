@@ -484,7 +484,7 @@
         {
             "id": 542,
             "nombre": "DIE-HARD",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 31,
@@ -869,6 +869,11 @@
         {
             "id": 211,
             "nombre": "Anillo Serpiente",
+            "cantidad": 1
+        },
+        {
+            "id": 549,
+            "nombre": "T-1000",
             "cantidad": 1
         }
     ]
