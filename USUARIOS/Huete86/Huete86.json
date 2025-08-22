@@ -94,7 +94,7 @@
         {
             "id": 320,
             "nombre": "Psylocke",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 152,
@@ -1649,6 +1649,11 @@
         {
             "id": 125,
             "nombre": "Teela",
+            "cantidad": 1
+        },
+        {
+            "id": 314,
+            "nombre": "Coloso",
             "cantidad": 1
         }
     ]

@@ -614,7 +614,7 @@
         {
             "id": 314,
             "nombre": "Coloso",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 297,
@@ -1714,6 +1714,11 @@
         {
             "id": 311,
             "nombre": "Arcangel",
+            "cantidad": 1
+        },
+        {
+            "id": 320,
+            "nombre": "Psylocke",
             "cantidad": 1
         }
     ]
