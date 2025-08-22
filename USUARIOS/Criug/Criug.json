@@ -1379,7 +1379,7 @@
         {
             "id": 557,
             "nombre": "LUFFY-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 733,
@@ -1519,6 +1519,11 @@
         {
             "id": 544,
             "nombre": "DOC-BROWN",
+            "cantidad": 1
+        },
+        {
+            "id": 563,
+            "nombre": "VADER-JAIL",
             "cantidad": 1
         }
     ]
