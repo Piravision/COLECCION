@@ -129,7 +129,7 @@
         {
             "id": 174,
             "nombre": "Spiderman",
-            "cantidad": 6
+            "cantidad": 5
         },
         {
             "id": 73,
@@ -1569,6 +1569,11 @@
         {
             "id": 46,
             "nombre": "gome",
+            "cantidad": 1
+        },
+        {
+            "id": 172,
+            "nombre": "May Parker",
             "cantidad": 1
         }
     ]
