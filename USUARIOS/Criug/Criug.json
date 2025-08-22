@@ -309,7 +309,7 @@
         {
             "id": 52,
             "nombre": "marin",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 178,
@@ -1564,6 +1564,11 @@
         {
             "id": 30,
             "nombre": "Uni",
+            "cantidad": 1
+        },
+        {
+            "id": 46,
+            "nombre": "gome",
             "cantidad": 1
         }
     ]
