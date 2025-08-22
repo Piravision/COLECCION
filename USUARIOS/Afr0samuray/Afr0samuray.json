@@ -99,7 +99,7 @@
     {
       "id": 55,
       "nombre": "mina",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 174,
@@ -219,7 +219,7 @@
     {
       "id": 113,
       "nombre": "Serpentor",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1,
@@ -1139,7 +1139,7 @@
     {
       "id": 360,
       "nombre": "stung",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 421,
@@ -1399,6 +1399,21 @@
     {
       "id": 242,
       "nombre": "Tiger Force",
+      "cantidad": 1
+    },
+    {
+      "id": 250,
+      "nombre": "Snarf",
+      "cantidad": 1
+    },
+    {
+      "id": 206,
+      "nombre": "Slash",
+      "cantidad": 1
+    },
+    {
+      "id": 378,
+      "nombre": "kid",
       "cantidad": 1
     }
   ]

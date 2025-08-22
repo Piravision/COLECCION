@@ -39,7 +39,7 @@
     {
       "id": 372,
       "nombre": "RENARD",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 104,
@@ -54,7 +54,7 @@
     {
       "id": 516,
       "nombre": "LEGIÓN-DEL-DRAGÓN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 73,
@@ -129,7 +129,7 @@
     {
       "id": 539,
       "nombre": "BRUCE-LEE2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 92,
@@ -204,7 +204,7 @@
     {
       "id": 537,
       "nombre": "BOLO-YEUNG",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 413,
@@ -289,6 +289,46 @@
     {
       "id": 296,
       "nombre": "Jazz",
+      "cantidad": 1
+    },
+    {
+      "id": 557,
+      "nombre": "LUFFY-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 369,
+      "nombre": "DRACULA2",
+      "cantidad": 1
+    },
+    {
+      "id": 59,
+      "nombre": "balios",
+      "cantidad": 1
+    },
+    {
+      "id": 378,
+      "nombre": "kid",
+      "cantidad": 1
+    },
+    {
+      "id": 26,
+      "nombre": "Eric",
+      "cantidad": 1
+    },
+    {
+      "id": 247,
+      "nombre": "Linx O",
+      "cantidad": 1
+    },
+    {
+      "id": 528,
+      "nombre": "Fénix-Oscura",
+      "cantidad": 1
+    },
+    {
+      "id": 301,
+      "nombre": "Astrotrain",
       "cantidad": 1
     }
   ]
