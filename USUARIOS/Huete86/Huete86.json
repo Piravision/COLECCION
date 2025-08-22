@@ -359,7 +359,7 @@
         {
             "id": 122,
             "nombre": "She ra",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 157,
@@ -614,7 +614,7 @@
         {
             "id": 230,
             "nombre": "Mansion X",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 338,
@@ -1194,7 +1194,7 @@
         {
             "id": 548,
             "nombre": "Snake-Plissken",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 564,
@@ -1469,7 +1469,7 @@
         {
             "id": 472,
             "nombre": "grey",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 417,
@@ -1539,6 +1539,26 @@
         {
             "id": 540,
             "nombre": "CHUCK-NORRIS",
+            "cantidad": 1
+        },
+        {
+            "id": 720,
+            "nombre": "DB-108",
+            "cantidad": 1
+        },
+        {
+            "id": 83,
+            "nombre": "zamza",
+            "cantidad": 1
+        },
+        {
+            "id": 186,
+            "nombre": "Mysterio",
+            "cantidad": 1
+        },
+        {
+            "id": 531,
+            "nombre": "McClane-Jail",
             "cantidad": 1
         }
     ]
