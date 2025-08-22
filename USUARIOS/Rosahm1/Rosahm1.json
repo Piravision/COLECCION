@@ -394,7 +394,7 @@
         {
             "id": 13,
             "nombre": "Needle",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 463,
@@ -1399,6 +1399,11 @@
         {
             "id": 552,
             "nombre": "CHEWBACCA-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 19,
+            "nombre": "Set",
             "cantidad": 1
         }
     ]

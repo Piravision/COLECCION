@@ -404,7 +404,7 @@
         {
             "id": 19,
             "nombre": "Set",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 532,
@@ -1124,6 +1124,11 @@
         {
             "id": 540,
             "nombre": "CHUCK-NORRIS",
+            "cantidad": 1
+        },
+        {
+            "id": 13,
+            "nombre": "Needle",
             "cantidad": 1
         }
     ]
