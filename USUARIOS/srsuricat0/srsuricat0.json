@@ -4,7 +4,7 @@
     {
       "id": 28,
       "nombre": "Presto",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 366,
@@ -559,7 +559,7 @@
     {
       "id": 102,
       "nombre": "General Hawk",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 335,
@@ -619,7 +619,7 @@
     {
       "id": 449,
       "nombre": "leon2",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 251,
@@ -1124,7 +1124,7 @@
     {
       "id": 548,
       "nombre": "Snake-Plissken",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 237,
@@ -1194,7 +1194,7 @@
     {
       "id": 46,
       "nombre": "gome",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 496,
@@ -1274,7 +1274,7 @@
     {
       "id": 568,
       "nombre": "LOS-SACAMANTECAS",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 59,
@@ -2034,7 +2034,7 @@
     {
       "id": 529,
       "nombre": "Mística",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 352,
@@ -2174,7 +2174,7 @@
     {
       "id": 250,
       "nombre": "Snarf",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 289,
@@ -2599,6 +2599,21 @@
     {
       "id": 16,
       "nombre": "Dregs",
+      "cantidad": 1
+    },
+    {
+      "id": 579,
+      "nombre": "BOB-DENVER",
+      "cantidad": 1
+    },
+    {
+      "id": 721,
+      "nombre": "DB-109",
+      "cantidad": 2
+    },
+    {
+      "id": 432,
+      "nombre": "solid2",
       "cantidad": 1
     }
   ]

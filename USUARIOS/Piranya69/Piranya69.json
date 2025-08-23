@@ -179,7 +179,7 @@
     {
       "id": 94,
       "nombre": "Goliath",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 168,
@@ -464,7 +464,7 @@
     {
       "id": 420,
       "nombre": "mei",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 302,
@@ -1004,7 +1004,7 @@
     {
       "id": 71,
       "nombre": "herhero",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 535,
@@ -1244,7 +1244,7 @@
     {
       "id": 530,
       "nombre": "Axel-Foley-Jail",
-      "cantidad": 3
+      "cantidad": 5
     },
     {
       "id": 121,
@@ -1309,7 +1309,7 @@
     {
       "id": 545,
       "nombre": "IVAN-DRAGO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 236,
@@ -1339,7 +1339,7 @@
     {
       "id": 542,
       "nombre": "DIE-HARD",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 321,
@@ -1734,7 +1734,7 @@
     {
       "id": 539,
       "nombre": "BRUCE-LEE2",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 458,
@@ -1989,7 +1989,7 @@
     {
       "id": 111,
       "nombre": "Dr. Mindbender",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 469,
@@ -2019,7 +2019,7 @@
     {
       "id": 202,
       "nombre": "Killamari",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 473,
@@ -2254,6 +2254,31 @@
     {
       "id": 493,
       "nombre": "flik",
+      "cantidad": 1
+    },
+    {
+      "id": 695,
+      "nombre": "DB-083",
+      "cantidad": 1
+    },
+    {
+      "id": 665,
+      "nombre": "DB-053",
+      "cantidad": 1
+    },
+    {
+      "id": 455,
+      "nombre": "batsu",
+      "cantidad": 1
+    },
+    {
+      "id": 693,
+      "nombre": "DB-081",
+      "cantidad": 1
+    },
+    {
+      "id": 676,
+      "nombre": "DB-064",
       "cantidad": 1
     }
   ]
