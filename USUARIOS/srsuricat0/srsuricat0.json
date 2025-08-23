@@ -44,7 +44,7 @@
         {
             "id": 190,
             "nombre": "Spider Woman",
-            "cantidad": 6
+            "cantidad": 5
         },
         {
             "id": 134,
@@ -2654,6 +2654,11 @@
         {
             "id": 349,
             "nombre": "melzas",
+            "cantidad": 1
+        },
+        {
+            "id": 434,
+            "nombre": "vulcan",
             "cantidad": 1
         }
     ]
