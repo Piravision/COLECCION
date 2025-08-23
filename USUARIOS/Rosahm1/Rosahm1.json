@@ -1339,7 +1339,7 @@
         {
             "id": 312,
             "nombre": "Bestia",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 209,
@@ -1779,6 +1779,11 @@
         {
             "id": 348,
             "nombre": "Meia",
+            "cantidad": 1
+        },
+        {
+            "id": 328,
+            "nombre": "Juggernaut",
             "cantidad": 1
         }
     ]

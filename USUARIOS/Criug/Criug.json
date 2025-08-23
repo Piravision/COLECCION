@@ -529,7 +529,7 @@
         {
             "id": 328,
             "nombre": "Juggernaut",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 404,
@@ -1744,6 +1744,11 @@
         {
             "id": 534,
             "nombre": "T800-Jail",
+            "cantidad": 1
+        },
+        {
+            "id": 312,
+            "nombre": "Bestia",
             "cantidad": 1
         }
     ]
