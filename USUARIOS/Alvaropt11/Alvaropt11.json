@@ -184,7 +184,7 @@
         {
             "id": 401,
             "nombre": "cloud",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 225,
@@ -764,6 +764,11 @@
         {
             "id": 330,
             "nombre": "Magneto",
+            "cantidad": 1
+        },
+        {
+            "id": 461,
+            "nombre": "Stalone-RamboIII",
             "cantidad": 1
         }
     ]
