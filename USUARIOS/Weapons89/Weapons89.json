@@ -524,7 +524,7 @@
         {
             "id": 320,
             "nombre": "Psylocke",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 324,
@@ -1269,6 +1269,11 @@
         {
             "id": 548,
             "nombre": "Snake-Plissken",
+            "cantidad": 1
+        },
+        {
+            "id": 563,
+            "nombre": "VADER-JAIL",
             "cantidad": 1
         }
     ]
