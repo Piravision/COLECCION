@@ -29,7 +29,7 @@
         {
             "id": 330,
             "nombre": "Magneto",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 306,
@@ -1749,6 +1749,11 @@
         {
             "id": 312,
             "nombre": "Bestia",
+            "cantidad": 1
+        },
+        {
+            "id": 166,
+            "nombre": "Estrella de Fuego",
             "cantidad": 1
         }
     ]
