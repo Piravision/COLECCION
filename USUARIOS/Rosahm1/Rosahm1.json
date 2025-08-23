@@ -114,7 +114,7 @@
     {
       "id": 184,
       "nombre": "Lizard",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 6,
@@ -249,7 +249,7 @@
     {
       "id": 163,
       "nombre": "Ben Parker",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 5,
@@ -699,7 +699,7 @@
     {
       "id": 250,
       "nombre": "Snarf",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 453,
@@ -1679,7 +1679,7 @@
     {
       "id": 356,
       "nombre": "busuzima",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 538,
@@ -1744,11 +1744,16 @@
     {
       "id": 669,
       "nombre": "DB-057",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 493,
       "nombre": "flik",
+      "cantidad": 1
+    },
+    {
+      "id": 728,
+      "nombre": "DB-116",
       "cantidad": 1
     }
   ]

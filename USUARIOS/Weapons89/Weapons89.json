@@ -289,7 +289,7 @@
         {
             "id": 190,
             "nombre": "Vandame-Bloodsport",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 433,
@@ -1274,6 +1274,11 @@
         {
             "id": 563,
             "nombre": "VADER-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 191,
+            "nombre": "Venom",
             "cantidad": 1
         }
     ]

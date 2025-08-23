@@ -14,7 +14,7 @@
         {
             "id": 191,
             "nombre": "Venom",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 159,
@@ -839,6 +839,11 @@
         {
             "id": 544,
             "nombre": "DOC-BROWN",
+            "cantidad": 1
+        },
+        {
+            "id": 190,
+            "nombre": "Vandame-Bloodsport",
             "cantidad": 1
         }
     ]
