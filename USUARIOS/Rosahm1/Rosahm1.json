@@ -749,7 +749,7 @@
         {
             "id": 365,
             "nombre": "alucard 1",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 512,
@@ -1789,6 +1789,11 @@
         {
             "id": 330,
             "nombre": "Magneto",
+            "cantidad": 1
+        },
+        {
+            "id": 368,
+            "nombre": "DRACULA1",
             "cantidad": 1
         }
     ]

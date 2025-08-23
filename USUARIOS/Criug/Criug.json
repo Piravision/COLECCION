@@ -1044,7 +1044,7 @@
         {
             "id": 368,
             "nombre": "DRACULA1",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 516,
@@ -1754,6 +1754,11 @@
         {
             "id": 166,
             "nombre": "Estrella de Fuego",
+            "cantidad": 1
+        },
+        {
+            "id": 365,
+            "nombre": "alucard 1",
             "cantidad": 1
         }
     ]
