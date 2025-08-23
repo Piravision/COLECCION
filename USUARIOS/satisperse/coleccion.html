@@ -397,7 +397,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de satisperse</h2>
-                <span>Cartas obtenidas: 9 / 733</span>
+                <span>Cartas obtenidas: 12 / 733</span>
             </div>
             
             <div class="details">
@@ -405,6 +405,26 @@
                     <div class="summary-grid-container">
     <h2>Resumen por Serie</h2>
 					<div class="summary-grid">
+						
+							<div class="summary-button" onclick="mostrarCartas('Crash Bandicoot')">
+								<img src="/COLECCION/botones/crash-bandicoot.png" alt="Crash Bandicoot" class="summary-button-image">
+								<span class="summary-button-counter">1 / 11</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Dragon Quest')">
+								<img src="/COLECCION/botones/dragon-quest.png" alt="Dragon Quest" class="summary-button-image">
+								<span class="summary-button-counter">1 / 57</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('DragonBall CombatCards 92')">
+								<img src="/COLECCION/botones/dragonball-combatcards-92.png" alt="DragonBall CombatCards 92" class="summary-button-image">
+								<span class="summary-button-counter">1 / 121</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('JAIL-Edition')">
+								<img src="/COLECCION/botones/jail-edition.png" alt="JAIL-Edition" class="summary-button-image">
+								<span class="summary-button-counter">1 / 21</span>
+							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Oddworld Abe Oddysee')">
 								<img src="/COLECCION/botones/oddworld-abe-oddysee.png" alt="Oddworld Abe Oddysee" class="summary-button-image">
@@ -428,13 +448,109 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('Varios')">
 								<img src="/COLECCION/botones/varios.png" alt="Varios" class="summary-button-image">
-								<span class="summary-button-counter">4 / 51</span>
+								<span class="summary-button-counter">3 / 19</span>
 							</div>
 						
 					</div>
 				</div>
                     
                     <div id="cards-container">
+                        
+                            <div class="series-cards" id="series-Crash-Bandicoot" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Crash Bandicoot</h2>
+                                    <span>Cartas obtenidas: 1 / 11</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 390</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '390', 'papu'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Crash Bandicoot/PERSONAJE/papu.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Crash Bandicoot/PERSONAJE/papu.png" alt="papu">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>papu (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Dragon-Quest" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Dragon Quest</h2>
+                                    <span>Cartas obtenidas: 1 / 57</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 83</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '83', 'zamza'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/VILLANO/zamza(25-3-2024-23_5).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/VILLANO/zamza(25-3-2024-23_5).png" alt="zamza">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>zamza (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-DragonBall-CombatCards-92" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>DragonBall CombatCards 92</h2>
+                                    <span>Cartas obtenidas: 1 / 121</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 638</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '638', 'DB-026'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DragonBall CombatCards 92/DB-026.jpg">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DragonBall CombatCards 92/DB-026.jpg" alt="DB-026">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>DB-026 (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-JAIL-Edition" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>JAIL-Edition</h2>
+                                    <span>Cartas obtenidas: 1 / 21</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 534</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '534', 'T800-Jail'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/JAIL-Edition/T800(12-8-2025-15_23).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/JAIL-Edition/T800(12-8-2025-15_23).png" alt="T800-Jail">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>T800-Jail (x1)</h3>
+                                                <p>Rareza: Legendario</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
                         
                             <div class="series-cards" id="series-Oddworld-Abe-Oddysee" style="display: none;">
                                 <div class="section-title-2">
@@ -549,7 +665,7 @@
                             <div class="series-cards" id="series-Varios" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Varios</h2>
-                                    <span>Cartas obtenidas: 4 / 51</span>
+                                    <span>Cartas obtenidas: 3 / 19</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -577,20 +693,6 @@
                                             </a>
                                             <div class="cromo-details">
                                                 <h3>Stalone-RamboIII (x1)</h3>
-                                                <p>Rareza: Legendario</p>
-                                            </div>
-                                        </div>
-                                    
-                                        <div class="cromo-card">
-                                            <span class="cromo-numero">Nº: 534</span>
-                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '534', 'T800-Jail'); return false;"
-                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/VARIOS/T800(12-8-2025-15_23).png">
-                                                <div class="cromo-img-container">
-                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/VARIOS/T800(12-8-2025-15_23).png" alt="T800-Jail">
-                                                </div>
-                                            </a>
-                                            <div class="cromo-details">
-                                                <h3>T800-Jail (x1)</h3>
                                                 <p>Rareza: Legendario</p>
                                             </div>
                                         </div>
