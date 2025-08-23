@@ -39,7 +39,7 @@
     {
       "id": 290,
       "nombre": "Tokka",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 109,
@@ -204,7 +204,7 @@
     {
       "id": 102,
       "nombre": "General Hawk",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 521,
@@ -484,7 +484,7 @@
     {
       "id": 340,
       "nombre": "Poseidón",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 104,
@@ -784,7 +784,7 @@
     {
       "id": 54,
       "nombre": "merle",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 552,
@@ -994,7 +994,7 @@
     {
       "id": 559,
       "nombre": "MABARRACUS-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 397,
@@ -1079,7 +1079,7 @@
     {
       "id": 369,
       "nombre": "DRACULA2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 568,
@@ -1229,7 +1229,7 @@
     {
       "id": 227,
       "nombre": "Hawks Haven",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 214,
@@ -1274,7 +1274,7 @@
     {
       "id": 440,
       "nombre": "scrabs",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 477,
@@ -1609,6 +1609,71 @@
     {
       "id": 230,
       "nombre": "Mansion X",
+      "cantidad": 1
+    },
+    {
+      "id": 203,
+      "nombre": "Repteel",
+      "cantidad": 1
+    },
+    {
+      "id": 196,
+      "nombre": "Ripster",
+      "cantidad": 1
+    },
+    {
+      "id": 670,
+      "nombre": "DB-058",
+      "cantidad": 1
+    },
+    {
+      "id": 417,
+      "nombre": "grayfox",
+      "cantidad": 1
+    },
+    {
+      "id": 628,
+      "nombre": "DB-016",
+      "cantidad": 1
+    },
+    {
+      "id": 644,
+      "nombre": "DB-032",
+      "cantidad": 1
+    },
+    {
+      "id": 592,
+      "nombre": "JASON-DERRICK",
+      "cantidad": 1
+    },
+    {
+      "id": 624,
+      "nombre": "DB-012",
+      "cantidad": 1
+    },
+    {
+      "id": 602,
+      "nombre": "PAUL-DIAMOND",
+      "cantidad": 1
+    },
+    {
+      "id": 728,
+      "nombre": "DB-116",
+      "cantidad": 1
+    },
+    {
+      "id": 263,
+      "nombre": "Casey Jones",
+      "cantidad": 1
+    },
+    {
+      "id": 627,
+      "nombre": "DB-015",
+      "cantidad": 1
+    },
+    {
+      "id": 418,
+      "nombre": "grayfox2",
       "cantidad": 1
     }
   ]

@@ -64,7 +64,7 @@
     {
       "id": 140,
       "nombre": "Mallory McMallard",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 150,
@@ -354,7 +354,7 @@
     {
       "id": 179,
       "nombre": "Duende Verde",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 35,
@@ -404,7 +404,7 @@
     {
       "id": 444,
       "nombre": "birki",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 88,
@@ -454,7 +454,7 @@
     {
       "id": 227,
       "nombre": "Hawks Haven",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 59,
@@ -849,7 +849,7 @@
     {
       "id": 32,
       "nombre": "Venger",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 266,
@@ -1149,7 +1149,7 @@
     {
       "id": 417,
       "nombre": "grayfox",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 262,
@@ -1169,7 +1169,7 @@
     {
       "id": 138,
       "nombre": "Dr. Hell",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 144,
@@ -1219,7 +1219,7 @@
     {
       "id": 107,
       "nombre": "Snake Eyes",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 325,
@@ -1239,7 +1239,7 @@
     {
       "id": 331,
       "nombre": "Mente Maestra",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 530,
@@ -1259,7 +1259,7 @@
     {
       "id": 208,
       "nombre": "Tentakill",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 414,
@@ -1434,7 +1434,7 @@
     {
       "id": 432,
       "nombre": "solid2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 203,
@@ -1499,7 +1499,7 @@
     {
       "id": 162,
       "nombre": "Mon Star",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 70,
@@ -1609,7 +1609,7 @@
     {
       "id": 561,
       "nombre": "MARIO-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 537,
@@ -1634,7 +1634,7 @@
     {
       "id": 177,
       "nombre": "Carnage",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 548,
@@ -1694,7 +1694,7 @@
     {
       "id": 565,
       "nombre": "ANDRÉ-THE-GIANT",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 215,
@@ -1879,7 +1879,7 @@
     {
       "id": 569,
       "nombre": "MACHO-MAN",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 313,
@@ -1919,7 +1919,7 @@
     {
       "id": 552,
       "nombre": "CHEWBACCA-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 454,
@@ -2049,7 +2049,7 @@
     {
       "id": 629,
       "nombre": "DB-017",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 43,
@@ -2164,7 +2164,7 @@
     {
       "id": 689,
       "nombre": "DB-077",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 148,
@@ -2184,7 +2184,7 @@
     {
       "id": 560,
       "nombre": "MACGYVER-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 204,
@@ -2279,6 +2279,41 @@
     {
       "id": 676,
       "nombre": "DB-064",
+      "cantidad": 1
+    },
+    {
+      "id": 173,
+      "nombre": "Punisher",
+      "cantidad": 1
+    },
+    {
+      "id": 160,
+      "nombre": "Steelheart",
+      "cantidad": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Juez J. Bella",
+      "cantidad": 1
+    },
+    {
+      "id": 378,
+      "nombre": "kid",
+      "cantidad": 1
+    },
+    {
+      "id": 641,
+      "nombre": "DB-029",
+      "cantidad": 1
+    },
+    {
+      "id": 410,
+      "nombre": "Barón-Ashura",
+      "cantidad": 1
+    },
+    {
+      "id": 667,
+      "nombre": "DB-055",
       "cantidad": 1
     }
   ]

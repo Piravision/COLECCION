@@ -4,7 +4,7 @@
     {
       "id": 241,
       "nombre": "Thunder Tank",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 214,
@@ -214,7 +214,7 @@
     {
       "id": 123,
       "nombre": "Sorceress",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 309,
@@ -474,7 +474,7 @@
     {
       "id": 340,
       "nombre": "Poseidón",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 434,
@@ -829,7 +829,7 @@
     {
       "id": 306,
       "nombre": "Shockwave",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 375,
@@ -1159,7 +1159,7 @@
     {
       "id": 477,
       "nombre": "mumb",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 319,
@@ -1174,7 +1174,7 @@
     {
       "id": 28,
       "nombre": "Presto",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 185,
@@ -1184,7 +1184,7 @@
     {
       "id": 147,
       "nombre": "Carbine",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 559,
@@ -1279,7 +1279,7 @@
     {
       "id": 370,
       "nombre": "muerte",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 560,
@@ -1524,7 +1524,7 @@
     {
       "id": 429,
       "nombre": "sniper",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 149,
@@ -1559,7 +1559,7 @@
     {
       "id": 531,
       "nombre": "McClane-Jail",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 251,
@@ -1669,6 +1669,61 @@
     {
       "id": 571,
       "nombre": "RODY-PIPPER",
+      "cantidad": 1
+    },
+    {
+      "id": 634,
+      "nombre": "DB-022",
+      "cantidad": 1
+    },
+    {
+      "id": 723,
+      "nombre": "DB-111",
+      "cantidad": 1
+    },
+    {
+      "id": 636,
+      "nombre": "DB-024",
+      "cantidad": 1
+    },
+    {
+      "id": 224,
+      "nombre": "Guarida Tortuga",
+      "cantidad": 1
+    },
+    {
+      "id": 639,
+      "nombre": "DB-027",
+      "cantidad": 1
+    },
+    {
+      "id": 507,
+      "nombre": "KING",
+      "cantidad": 1
+    },
+    {
+      "id": 644,
+      "nombre": "DB-032",
+      "cantidad": 1
+    },
+    {
+      "id": 696,
+      "nombre": "DB-084",
+      "cantidad": 1
+    },
+    {
+      "id": 584,
+      "nombre": "DEUTER-MULLER",
+      "cantidad": 1
+    },
+    {
+      "id": 618,
+      "nombre": "DB-006",
+      "cantidad": 1
+    },
+    {
+      "id": 562,
+      "nombre": "PETER-GRIFFIN-JAIL",
       "cantidad": 1
     }
   ]
