@@ -29,7 +29,7 @@
         {
             "id": 330,
             "nombre": "Magneto",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 306,
@@ -1679,6 +1679,11 @@
         {
             "id": 338,
             "nombre": "Shiryū de Dragón",
+            "cantidad": 1
+        },
+        {
+            "id": 324,
+            "nombre": "Wolverine",
             "cantidad": 1
         }
     ]
