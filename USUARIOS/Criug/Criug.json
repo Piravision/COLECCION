@@ -764,7 +764,7 @@
     {
       "id": 143,
       "nombre": "Wildwing Flashblade",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 150,
@@ -894,7 +894,7 @@
     {
       "id": 163,
       "nombre": "Ben Parker",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 197,
@@ -994,7 +994,7 @@
     {
       "id": 559,
       "nombre": "MABARRACUS-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 397,
@@ -1169,7 +1169,7 @@
     {
       "id": 456,
       "nombre": "boman",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 141,
@@ -1399,7 +1399,7 @@
     {
       "id": 354,
       "nombre": "alice",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 696,
@@ -1604,7 +1604,7 @@
     {
       "id": 95,
       "nombre": "Hudson",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 230,
@@ -1699,6 +1699,21 @@
     {
       "id": 90,
       "nombre": "Broadway",
+      "cantidad": 1
+    },
+    {
+      "id": 564,
+      "nombre": "SLIMER",
+      "cantidad": 1
+    },
+    {
+      "id": 683,
+      "nombre": "DB-071",
+      "cantidad": 1
+    },
+    {
+      "id": 588,
+      "nombre": "FRANZ-SCHESTER",
       "cantidad": 1
     }
   ]

@@ -269,7 +269,7 @@
     {
       "id": 261,
       "nombre": "Reptilio",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 117,
@@ -719,7 +719,7 @@
     {
       "id": 396,
       "nombre": "aeris",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 400,
@@ -1229,7 +1229,7 @@
     {
       "id": 138,
       "nombre": "Dr. Hell",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 533,
@@ -1319,7 +1319,7 @@
     {
       "id": 352,
       "nombre": "septimus",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 322,
@@ -1739,6 +1739,16 @@
     {
       "id": 628,
       "nombre": "DB-016",
+      "cantidad": 1
+    },
+    {
+      "id": 669,
+      "nombre": "DB-057",
+      "cantidad": 1
+    },
+    {
+      "id": 493,
+      "nombre": "flik",
       "cantidad": 1
     }
   ]

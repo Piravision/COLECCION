@@ -1154,7 +1154,7 @@
     {
       "id": 262,
       "nombre": "April O'Neil",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 165,
@@ -1229,7 +1229,7 @@
     {
       "id": 221,
       "nombre": "Espada Atlantean",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 534,
@@ -1519,7 +1519,7 @@
     {
       "id": 509,
       "nombre": "NINA",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 549,
@@ -2319,6 +2319,36 @@
     {
       "id": 584,
       "nombre": "DEUTER-MULLER",
+      "cantidad": 1
+    },
+    {
+      "id": 500,
+      "nombre": "shu",
+      "cantidad": 1
+    },
+    {
+      "id": 712,
+      "nombre": "DB-100",
+      "cantidad": 1
+    },
+    {
+      "id": 551,
+      "nombre": "BARRACUS-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 653,
+      "nombre": "DB-041",
+      "cantidad": 1
+    },
+    {
+      "id": 579,
+      "nombre": "BOB-DENVER",
+      "cantidad": 1
+    },
+    {
+      "id": 547,
+      "nombre": "ROCKY",
       "cantidad": 1
     }
   ]

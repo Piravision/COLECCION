@@ -169,7 +169,7 @@
     {
       "id": 111,
       "nombre": "Dr. Mindbender",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 87,
@@ -404,7 +404,7 @@
     {
       "id": 150,
       "nombre": "Throttle",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 50,
@@ -464,7 +464,7 @@
     {
       "id": 43,
       "nombre": "eimi",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 444,
@@ -934,7 +934,7 @@
     {
       "id": 317,
       "nombre": "Jean Grey",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 420,
@@ -1134,7 +1134,7 @@
     {
       "id": 485,
       "nombre": "Dr_Shemp",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 267,
@@ -1539,7 +1539,7 @@
     {
       "id": 540,
       "nombre": "CHUCK-NORRIS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 720,
@@ -1574,7 +1574,7 @@
     {
       "id": 407,
       "nombre": "yuffie",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 410,
@@ -1644,7 +1644,7 @@
     {
       "id": 569,
       "nombre": "MACHO-MAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 125,
@@ -1689,7 +1689,7 @@
     {
       "id": 224,
       "nombre": "Guarida Tortuga",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 639,
@@ -1759,6 +1759,36 @@
     {
       "id": 656,
       "nombre": "DB-044",
+      "cantidad": 1
+    },
+    {
+      "id": 302,
+      "nombre": "Blitzwing",
+      "cantidad": 1
+    },
+    {
+      "id": 702,
+      "nombre": "DB-090",
+      "cantidad": 1
+    },
+    {
+      "id": 628,
+      "nombre": "DB-016",
+      "cantidad": 1
+    },
+    {
+      "id": 151,
+      "nombre": "Vinnie Cooper",
+      "cantidad": 1
+    },
+    {
+      "id": 664,
+      "nombre": "DB-052",
+      "cantidad": 1
+    },
+    {
+      "id": 544,
+      "nombre": "DOC-BROWN",
       "cantidad": 1
     }
   ]
