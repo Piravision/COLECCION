@@ -579,7 +579,7 @@
     {
       "id": 491,
       "nombre": "spyro2",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 219,
@@ -1174,7 +1174,7 @@
     {
       "id": 156,
       "nombre": "Lord Camembert",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 210,
@@ -1874,6 +1874,11 @@
     {
       "id": 559,
       "nombre": "MABARRACUS-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 49,
+      "nombre": "leona",
       "cantidad": 1
     }
   ]

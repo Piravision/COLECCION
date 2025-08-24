@@ -254,7 +254,7 @@
     {
       "id": 52,
       "nombre": "marin",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 466,
@@ -749,7 +749,7 @@
     {
       "id": 369,
       "nombre": "DRACULA2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 10,
@@ -1139,7 +1139,7 @@
     {
       "id": 385,
       "nombre": "brio",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 269,
@@ -1364,7 +1364,7 @@
     {
       "id": 452,
       "nombre": "sherry",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 207,
@@ -1689,7 +1689,7 @@
     {
       "id": 350,
       "nombre": "Murgg",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 565,
@@ -2419,6 +2419,26 @@
     {
       "id": 636,
       "nombre": "DB-024",
+      "cantidad": 1
+    },
+    {
+      "id": 292,
+      "nombre": "Bumblebee",
+      "cantidad": 1
+    },
+    {
+      "id": 237,
+      "nombre": "Sky Shadow",
+      "cantidad": 1
+    },
+    {
+      "id": 729,
+      "nombre": "DB-117",
+      "cantidad": 1
+    },
+    {
+      "id": 652,
+      "nombre": "DB-040",
       "cantidad": 1
     }
   ]
