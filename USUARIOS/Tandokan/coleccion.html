@@ -397,7 +397,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de Tandokan</h2>
-                <span>Cartas obtenidas: 6 / 733</span>
+                <span>Cartas obtenidas: 9 / 777</span>
             </div>
             
             <div class="details">
@@ -421,6 +421,11 @@
 								<span class="summary-button-counter">1 / 38</span>
 							</div>
 						
+							<div class="summary-button" onclick="mostrarCartas('Gijoe')">
+								<img src="/COLECCION/botones/gijoe.png" alt="Gijoe" class="summary-button-image">
+								<span class="summary-button-counter">1 / 16</span>
+							</div>
+						
 							<div class="summary-button" onclick="mostrarCartas('Silent Hill')">
 								<img src="/COLECCION/botones/silent-hill.png" alt="Silent Hill" class="summary-button-image">
 								<span class="summary-button-counter">1 / 16</span>
@@ -429,6 +434,16 @@
 							<div class="summary-button" onclick="mostrarCartas('Silverhawks')">
 								<img src="/COLECCION/botones/silverhawks.png" alt="Silverhawks" class="summary-button-image">
 								<span class="summary-button-counter">1 / 7</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Terrenos&Objetos')">
+								<img src="/COLECCION/botones/terrenos&objetos.png" alt="Terrenos&Objetos" class="summary-button-image">
+								<span class="summary-button-counter">1 / 42</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('ThunderCats')">
+								<img src="/COLECCION/botones/thundercats.png" alt="ThunderCats" class="summary-button-image">
+								<span class="summary-button-counter">1 / 21</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Transformers')">
@@ -513,6 +528,30 @@
                                 </div>
                             </div>
                         
+                            <div class="series-cards" id="series-Gijoe" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Gijoe</h2>
+                                    <span>Cartas obtenidas: 1 / 16</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 109</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '109', 'Cobra Commander'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Gijoe/VILLANO/Cobra-Commander(4-12-2023-23_1).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Gijoe/VILLANO/Cobra-Commander(4-12-2023-23_1).png" alt="Cobra Commander">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Cobra Commander (x1)</h3>
+                                                <p>Rareza: Legendario</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
                             <div class="series-cards" id="series-Silent-Hill" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Silent Hill</h2>
@@ -555,6 +594,54 @@
                                             <div class="cromo-details">
                                                 <h3>Bluegrass (x1)</h3>
                                                 <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-TerrenosandObjetos" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Terrenos&Objetos</h2>
+                                    <span>Cartas obtenidas: 1 / 42</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 239</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '239', 'Stridor'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Terreno y objetos/Stridor(12-12-2023-21_28).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Terreno y objetos/Stridor(12-12-2023-21_28).png" alt="Stridor">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Stridor (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-ThunderCats" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>ThunderCats</h2>
+                                    <span>Cartas obtenidas: 1 / 21</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 243</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '243', 'Cheetara'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/ThunderCats/HERO/Cheetara(4-12-2023-1_35).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/ThunderCats/HERO/Cheetara(4-12-2023-1_35).png" alt="Cheetara">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Cheetara (x1)</h3>
+                                                <p>Rareza: Común</p>
                                             </div>
                                         </div>
                                     
