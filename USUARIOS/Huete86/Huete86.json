@@ -4,7 +4,7 @@
     {
       "id": 241,
       "nombre": "Thunder Tank",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 214,
@@ -159,7 +159,7 @@
     {
       "id": 142,
       "nombre": "Tanya Vanderflock",
-      "cantidad": 2
+      "cantidad": 4
     },
     {
       "id": 303,
@@ -244,7 +244,7 @@
     {
       "id": 109,
       "nombre": "Cobra Commander",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 229,
@@ -619,7 +619,7 @@
     {
       "id": 338,
       "nombre": "Shiryū de Dragón",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 67,
@@ -834,7 +834,7 @@
     {
       "id": 375,
       "nombre": "Grobyc",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 460,
@@ -889,12 +889,12 @@
     {
       "id": 2,
       "nombre": "Bravestarr",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 269,
       "nombre": "Mona Lisa",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 358,
@@ -914,7 +914,7 @@
     {
       "id": 24,
       "nombre": "Bobby",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 379,
@@ -944,7 +944,7 @@
     {
       "id": 545,
       "nombre": "IVAN-DRAGO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 232,
@@ -1169,7 +1169,7 @@
     {
       "id": 539,
       "nombre": "BRUCE-LEE2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 28,
@@ -1249,7 +1249,7 @@
     {
       "id": 448,
       "nombre": "leon1",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 159,
@@ -1434,7 +1434,7 @@
     {
       "id": 555,
       "nombre": "INDIANA-JONES-JAIL",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 145,
@@ -1454,7 +1454,7 @@
     {
       "id": 556,
       "nombre": "LEIA-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 41,
@@ -1464,7 +1464,7 @@
     {
       "id": 530,
       "nombre": "Axel-Foley-Jail",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 472,
@@ -1514,7 +1514,7 @@
     {
       "id": 21,
       "nombre": "Windfang",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 355,
@@ -1559,7 +1559,7 @@
     {
       "id": 531,
       "nombre": "McClane-Jail",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 251,
@@ -1664,7 +1664,7 @@
     {
       "id": 221,
       "nombre": "Espada Atlantean",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 571,
@@ -1764,7 +1764,7 @@
     {
       "id": 302,
       "nombre": "Blitzwing",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 702,
@@ -1864,6 +1864,116 @@
     {
       "id": 538,
       "nombre": "BRUCE-LEE",
+      "cantidad": 1
+    },
+    {
+      "id": 23,
+      "nombre": "Amo del Calabozo",
+      "cantidad": 1
+    },
+    {
+      "id": 394,
+      "nombre": "vsneo",
+      "cantidad": 1
+    },
+    {
+      "id": 275,
+      "nombre": "Usagi Yojimbo",
+      "cantidad": 1
+    },
+    {
+      "id": 413,
+      "nombre": "campb",
+      "cantidad": 1
+    },
+    {
+      "id": 181,
+      "nombre": "Hydro man",
+      "cantidad": 1
+    },
+    {
+      "id": 480,
+      "nombre": "Twinfeeler",
+      "cantidad": 1
+    },
+    {
+      "id": 456,
+      "nombre": "boman",
+      "cantidad": 1
+    },
+    {
+      "id": 763,
+      "nombre": "black",
+      "cantidad": 1
+    },
+    {
+      "id": 298,
+      "nombre": "Prowl",
+      "cantidad": 1
+    },
+    {
+      "id": 594,
+      "nombre": "JUAN-DIAZ",
+      "cantidad": 1
+    },
+    {
+      "id": 396,
+      "nombre": "aeris",
+      "cantidad": 1
+    },
+    {
+      "id": 511,
+      "nombre": "YOSHI",
+      "cantidad": 1
+    },
+    {
+      "id": 677,
+      "nombre": "DB-065",
+      "cantidad": 1
+    },
+    {
+      "id": 492,
+      "nombre": "toasty",
+      "cantidad": 1
+    },
+    {
+      "id": 144,
+      "nombre": "Grin-Hardwing",
+      "cantidad": 1
+    },
+    {
+      "id": 761,
+      "nombre": "alpha5",
+      "cantidad": 1
+    },
+    {
+      "id": 452,
+      "nombre": "sherry",
+      "cantidad": 1
+    },
+    {
+      "id": 200,
+      "nombre": "Swordo",
+      "cantidad": 1
+    },
+    {
+      "id": 19,
+      "nombre": "Set",
+      "cantidad": 1
+    },
+    {
+      "id": 760,
+      "nombre": "Shura-de-Capricornio",
+      "cantidad": 1
+    },
+    {
+      "id": 643,
+      "nombre": "DB-031",
+      "cantidad": 1
+    },
+    {
+      "id": 776,
+      "nombre": "zedd",
       "cantidad": 1
     }
   ]

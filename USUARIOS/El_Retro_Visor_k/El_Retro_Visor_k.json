@@ -264,7 +264,7 @@
     {
       "id": 290,
       "nombre": "Tokka",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 408,
@@ -559,7 +559,7 @@
     {
       "id": 223,
       "nombre": "G.I. JOE Headquarters",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 210,
@@ -999,6 +999,26 @@
     {
       "id": 386,
       "nombre": "CROMO PERSONAJE",
+      "cantidad": 1
+    },
+    {
+      "id": 434,
+      "nombre": "vulcan",
+      "cantidad": 1
+    },
+    {
+      "id": 563,
+      "nombre": "VADER-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 365,
+      "nombre": "alucard 1",
+      "cantidad": 1
+    },
+    {
+      "id": 44,
+      "nombre": "Fly",
       "cantidad": 1
     }
   ]

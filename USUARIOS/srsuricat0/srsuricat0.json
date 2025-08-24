@@ -89,7 +89,7 @@
     {
       "id": 276,
       "nombre": "Baxter",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 6,
@@ -344,7 +344,7 @@
     {
       "id": 24,
       "nombre": "Bobby",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 126,
@@ -559,7 +559,7 @@
     {
       "id": 102,
       "nombre": "General Hawk",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 335,
@@ -784,7 +784,7 @@
     {
       "id": 513,
       "nombre": "DISCÍPULOS-DE-AVAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 264,
@@ -864,7 +864,7 @@
     {
       "id": 535,
       "nombre": "Venkman-Jail",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 418,
@@ -949,7 +949,7 @@
     {
       "id": 47,
       "nombre": "hynkel2bueno",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 145,
@@ -1114,7 +1114,7 @@
     {
       "id": 361,
       "nombre": "uriko",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 378,
@@ -1124,7 +1124,7 @@
     {
       "id": 548,
       "nombre": "Snake-Plissken",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 237,
@@ -1159,7 +1159,7 @@
     {
       "id": 469,
       "nombre": "Dahlia Gillespie",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 526,
@@ -1239,7 +1239,7 @@
     {
       "id": 242,
       "nombre": "Tiger Force",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 342,
@@ -1289,7 +1289,7 @@
     {
       "id": 87,
       "nombre": "Walter _Doc_ Hartford",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 147,
@@ -1874,7 +1874,7 @@
     {
       "id": 538,
       "nombre": "BRUCE-LEE",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 571,
@@ -1969,7 +1969,7 @@
     {
       "id": 572,
       "nombre": "Sgt.-SLAUGTHER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 543,
@@ -2009,7 +2009,7 @@
     {
       "id": 193,
       "nombre": "Jab",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 389,
@@ -2114,7 +2114,7 @@
     {
       "id": 241,
       "nombre": "Thunder Tank",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 277,
@@ -2274,7 +2274,7 @@
     {
       "id": 61,
       "nombre": "Borahorn",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 377,
@@ -2414,7 +2414,7 @@
     {
       "id": 569,
       "nombre": "MACHO-MAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 536,
@@ -2594,7 +2594,7 @@
     {
       "id": 16,
       "nombre": "Dregs",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 579,
@@ -2669,11 +2669,46 @@
     {
       "id": 585,
       "nombre": "DINO-HERNANDEZ",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 683,
       "nombre": "DB-071",
+      "cantidad": 1
+    },
+    {
+      "id": 650,
+      "nombre": "DB-038",
+      "cantidad": 1
+    },
+    {
+      "id": 426,
+      "nombre": "ocelot2",
+      "cantidad": 1
+    },
+    {
+      "id": 674,
+      "nombre": "DB-062",
+      "cantidad": 1
+    },
+    {
+      "id": 575,
+      "nombre": "A.GALVAN",
+      "cantidad": 1
+    },
+    {
+      "id": 629,
+      "nombre": "DB-017",
+      "cantidad": 1
+    },
+    {
+      "id": 587,
+      "nombre": "EDDY-BRIGHT",
+      "cantidad": 1
+    },
+    {
+      "id": 166,
+      "nombre": "Estrella de Fuego",
       "cantidad": 1
     }
   ]
