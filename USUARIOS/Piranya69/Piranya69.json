@@ -1734,7 +1734,7 @@
     {
       "id": 539,
       "nombre": "BRUCE-LEE2",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 458,
@@ -2409,6 +2409,16 @@
     {
       "id": 407,
       "nombre": "yuffie",
+      "cantidad": 1
+    },
+    {
+      "id": 673,
+      "nombre": "DB-061",
+      "cantidad": 1
+    },
+    {
+      "id": 636,
+      "nombre": "DB-024",
       "cantidad": 1
     }
   ]

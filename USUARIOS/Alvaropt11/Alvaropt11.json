@@ -474,7 +474,7 @@
     {
       "id": 450,
       "nombre": "licker",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 372,
@@ -934,6 +934,16 @@
     {
       "id": 524,
       "nombre": "Capitán-Planeta",
+      "cantidad": 1
+    },
+    {
+      "id": 262,
+      "nombre": "April O'Neil",
+      "cantidad": 1
+    },
+    {
+      "id": 186,
+      "nombre": "Mysterio",
       "cantidad": 1
     }
   ]
