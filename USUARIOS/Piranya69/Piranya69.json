@@ -69,7 +69,7 @@
     {
       "id": 150,
       "nombre": "Throttle",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 182,
@@ -129,12 +129,12 @@
     {
       "id": 128,
       "nombre": "Faker",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 89,
       "nombre": "Angela",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 5,
@@ -299,7 +299,7 @@
     {
       "id": 101,
       "nombre": "Duke",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 334,
@@ -324,7 +324,7 @@
     {
       "id": 157,
       "nombre": "Bluegrass",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 381,
@@ -409,7 +409,7 @@
     {
       "id": 88,
       "nombre": "Zackary Foxx",
-      "cantidad": 3
+      "cantidad": 5
     },
     {
       "id": 518,
@@ -449,7 +449,7 @@
     {
       "id": 167,
       "nombre": "Gwen Stacy",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 227,
@@ -589,7 +589,7 @@
     {
       "id": 433,
       "nombre": "vincent",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 349,
@@ -669,7 +669,7 @@
     {
       "id": 275,
       "nombre": "Usagi Yojimbo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 93,
@@ -714,7 +714,7 @@
     {
       "id": 323,
       "nombre": "Tormenta",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 108,
@@ -814,7 +814,7 @@
     {
       "id": 11,
       "nombre": "Greywolf",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 523,
@@ -989,7 +989,7 @@
     {
       "id": 318,
       "nombre": "Morpho",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 243,
@@ -1144,7 +1144,7 @@
     {
       "id": 269,
       "nombre": "Mona Lisa",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 417,
@@ -1199,7 +1199,7 @@
     {
       "id": 380,
       "nombre": "marcy",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 389,
@@ -1214,7 +1214,7 @@
     {
       "id": 145,
       "nombre": "Lord Dragaunus",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 107,
@@ -1469,7 +1469,7 @@
     {
       "id": 120,
       "nombre": "Principe Adam",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 219,
@@ -1504,7 +1504,7 @@
     {
       "id": 70,
       "nombre": "hadlar",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 44,
@@ -1574,7 +1574,7 @@
     {
       "id": 550,
       "nombre": "AceVentura-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 12,
@@ -2104,7 +2104,7 @@
     {
       "id": 464,
       "nombre": "yamada",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 582,
@@ -2149,7 +2149,7 @@
     {
       "id": 558,
       "nombre": "LUKE-SKYWALKER-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 151,
@@ -2169,7 +2169,7 @@
     {
       "id": 148,
       "nombre": "Charlene _Charley_ Davidson",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 267,
@@ -2329,7 +2329,7 @@
     {
       "id": 712,
       "nombre": "DB-100",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 551,
@@ -2349,6 +2349,66 @@
     {
       "id": 547,
       "nombre": "ROCKY",
+      "cantidad": 1
+    },
+    {
+      "id": 242,
+      "nombre": "Tiger Force",
+      "cantidad": 1
+    },
+    {
+      "id": 684,
+      "nombre": "DB-072",
+      "cantidad": 1
+    },
+    {
+      "id": 733,
+      "nombre": "DB-121",
+      "cantidad": 1
+    },
+    {
+      "id": 498,
+      "nombre": "riou",
+      "cantidad": 1
+    },
+    {
+      "id": 605,
+      "nombre": "ROBERTO-SEDINHO",
+      "cantidad": 1
+    },
+    {
+      "id": 680,
+      "nombre": "DB-068",
+      "cantidad": 1
+    },
+    {
+      "id": 123,
+      "nombre": "Sorceress",
+      "cantidad": 1
+    },
+    {
+      "id": 608,
+      "nombre": "SHUN-NITTA",
+      "cantidad": 1
+    },
+    {
+      "id": 333,
+      "nombre": "Omega Rojo",
+      "cantidad": 1
+    },
+    {
+      "id": 251,
+      "nombre": "Tigro",
+      "cantidad": 1
+    },
+    {
+      "id": 56,
+      "nombre": "nova",
+      "cantidad": 1
+    },
+    {
+      "id": 407,
+      "nombre": "yuffie",
       "cantidad": 1
     }
   ]

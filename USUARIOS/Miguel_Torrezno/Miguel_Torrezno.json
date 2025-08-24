@@ -9,7 +9,7 @@
     {
       "id": 108,
       "nombre": "Baronesa",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 307,
@@ -149,7 +149,7 @@
     {
       "id": 293,
       "nombre": "Hot Rod",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 51,
@@ -969,7 +969,7 @@
     {
       "id": 569,
       "nombre": "MACHO-MAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 344,
@@ -989,7 +989,7 @@
     {
       "id": 574,
       "nombre": "UNDERTAKER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 212,
@@ -1029,7 +1029,7 @@
     {
       "id": 349,
       "nombre": "melzas",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 203,
@@ -1274,6 +1274,41 @@
     {
       "id": 323,
       "nombre": "Tormenta",
+      "cantidad": 1
+    },
+    {
+      "id": 311,
+      "nombre": "Arcangel",
+      "cantidad": 1
+    },
+    {
+      "id": 694,
+      "nombre": "DB-082",
+      "cantidad": 1
+    },
+    {
+      "id": 320,
+      "nombre": "Psylocke",
+      "cantidad": 1
+    },
+    {
+      "id": 48,
+      "nombre": "Hyunckel",
+      "cantidad": 1
+    },
+    {
+      "id": 436,
+      "nombre": "abe",
+      "cantidad": 1
+    },
+    {
+      "id": 23,
+      "nombre": "Amo del Calabozo",
+      "cantidad": 1
+    },
+    {
+      "id": 261,
+      "nombre": "Reptilio",
       "cantidad": 1
     }
   ]

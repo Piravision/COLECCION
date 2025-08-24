@@ -19,7 +19,7 @@
     {
       "id": 301,
       "nombre": "Astrotrain",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 107,
@@ -169,7 +169,7 @@
     {
       "id": 153,
       "nombre": "Fred _El Mutante_",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 174,
@@ -214,7 +214,7 @@
     {
       "id": 164,
       "nombre": "Black Cat",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 154,
@@ -239,7 +239,7 @@
     {
       "id": 291,
       "nombre": "Zorax",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 188,
@@ -409,7 +409,7 @@
     {
       "id": 172,
       "nombre": "May Parker",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 131,
@@ -474,7 +474,7 @@
     {
       "id": 60,
       "nombre": "baran",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 509,
@@ -584,7 +584,7 @@
     {
       "id": 219,
       "nombre": "Dirigible Tortuga",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 469,
@@ -594,7 +594,7 @@
     {
       "id": 76,
       "nombre": "masopho",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 364,
@@ -614,7 +614,7 @@
     {
       "id": 314,
       "nombre": "Coloso",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 297,
@@ -709,7 +709,7 @@
     {
       "id": 451,
       "nombre": "perros",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 246,
@@ -759,7 +759,7 @@
     {
       "id": 160,
       "nombre": "Steelheart",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 270,
@@ -939,7 +939,7 @@
     {
       "id": 331,
       "nombre": "Mente Maestra",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 556,
@@ -1379,7 +1379,7 @@
     {
       "id": 186,
       "nombre": "Mysterio",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 527,
@@ -1409,7 +1409,7 @@
     {
       "id": 65,
       "nombre": "flazzard",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 288,
@@ -1449,7 +1449,7 @@
     {
       "id": 196,
       "nombre": "Ripster",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 357,
@@ -1684,7 +1684,7 @@
     {
       "id": 85,
       "nombre": "Niko",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 613,
@@ -1694,7 +1694,7 @@
     {
       "id": 621,
       "nombre": "DB-009",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 659,
@@ -1804,6 +1804,66 @@
     {
       "id": 579,
       "nombre": "BOB-DENVER",
+      "cantidad": 1
+    },
+    {
+      "id": 617,
+      "nombre": "DB-005",
+      "cantidad": 1
+    },
+    {
+      "id": 234,
+      "nombre": "Nueva Texas",
+      "cantidad": 1
+    },
+    {
+      "id": 676,
+      "nombre": "DB-064",
+      "cantidad": 1
+    },
+    {
+      "id": 589,
+      "nombre": "GENTILE-SALVATORE",
+      "cantidad": 1
+    },
+    {
+      "id": 472,
+      "nombre": "grey",
+      "cantidad": 1
+    },
+    {
+      "id": 582,
+      "nombre": "CONTI",
+      "cantidad": 1
+    },
+    {
+      "id": 115,
+      "nombre": "Zartan",
+      "cantidad": 1
+    },
+    {
+      "id": 214,
+      "nombre": "Brimstar",
+      "cantidad": 1
+    },
+    {
+      "id": 566,
+      "nombre": "BIG-BOSSMAN",
+      "cantidad": 2
+    },
+    {
+      "id": 477,
+      "nombre": "mumb",
+      "cantidad": 1
+    },
+    {
+      "id": 62,
+      "nombre": "derolin",
+      "cantidad": 1
+    },
+    {
+      "id": 334,
+      "nombre": "Siniestro",
       "cantidad": 1
     }
   ]
