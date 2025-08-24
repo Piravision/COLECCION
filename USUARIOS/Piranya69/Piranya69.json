@@ -339,7 +339,7 @@
     {
       "id": 340,
       "nombre": "Poseidón",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 431,
@@ -734,7 +734,7 @@
     {
       "id": 130,
       "nombre": "Mer Man(",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 376,
@@ -749,7 +749,7 @@
     {
       "id": 369,
       "nombre": "DRACULA2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 10,
@@ -934,7 +934,7 @@
     {
       "id": 115,
       "nombre": "Zartan",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 483,
@@ -1009,7 +1009,7 @@
     {
       "id": 535,
       "nombre": "Venkman-Jail",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 361,
@@ -1504,7 +1504,7 @@
     {
       "id": 70,
       "nombre": "hadlar",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 44,
@@ -1789,7 +1789,7 @@
     {
       "id": 570,
       "nombre": "MILLION-DOLLAR-MAN",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 429,
@@ -2004,7 +2004,7 @@
     {
       "id": 516,
       "nombre": "LEGIÓN-DEL-DRAGÓN",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 554,
@@ -2584,6 +2584,26 @@
     {
       "id": 598,
       "nombre": "MARGUS-MANFRED",
+      "cantidad": 1
+    },
+    {
+      "id": 681,
+      "nombre": "DB-069",
+      "cantidad": 1
+    },
+    {
+      "id": 571,
+      "nombre": "RODY-PIPPER",
+      "cantidad": 1
+    },
+    {
+      "id": 246,
+      "nombre": "Jaga",
+      "cantidad": 1
+    },
+    {
+      "id": 86,
+      "nombre": "Shane Gooseman",
       "cantidad": 1
     }
   ]

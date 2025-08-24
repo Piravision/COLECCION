@@ -34,7 +34,7 @@
     {
       "id": 296,
       "nombre": "Jazz",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 303,
@@ -79,12 +79,12 @@
     {
       "id": 166,
       "nombre": "Estrella de Fuego",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 283,
       "nombre": "Lord Dregg",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 277,
@@ -219,7 +219,7 @@
     {
       "id": 445,
       "nombre": "claire",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 465,
@@ -279,7 +279,7 @@
     {
       "id": 263,
       "nombre": "Casey Jones",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 213,
@@ -394,7 +394,7 @@
     {
       "id": 112,
       "nombre": "Mayor Bludd",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 107,
@@ -454,7 +454,7 @@
     {
       "id": 456,
       "nombre": "boman",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 326,
@@ -509,7 +509,7 @@
     {
       "id": 317,
       "nombre": "Jean Grey",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 173,
@@ -529,7 +529,7 @@
     {
       "id": 73,
       "nombre": "killvearn",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 423,
@@ -624,7 +624,7 @@
     {
       "id": 199,
       "nombre": "Streex",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 156,
@@ -674,7 +674,7 @@
     {
       "id": 256,
       "nombre": "Mandrilo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 128,
@@ -789,7 +789,7 @@
     {
       "id": 542,
       "nombre": "DIE-HARD",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 192,
@@ -809,12 +809,12 @@
     {
       "id": 198,
       "nombre": "Slammu",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 497,
       "nombre": "nanami",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 405,
@@ -829,7 +829,7 @@
     {
       "id": 204,
       "nombre": "SharkBot",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 485,
@@ -1079,7 +1079,7 @@
     {
       "id": 235,
       "nombre": "Punk Frogs",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 467,
@@ -1324,7 +1324,7 @@
     {
       "id": 678,
       "nombre": "DB-066",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 241,
@@ -1344,6 +1344,116 @@
     {
       "id": 535,
       "nombre": "Venkman-Jail",
+      "cantidad": 1
+    },
+    {
+      "id": 758,
+      "nombre": "Shaka-de-Virgo",
+      "cantidad": 1
+    },
+    {
+      "id": 577,
+      "nombre": "ALAN-PASCAL",
+      "cantidad": 1
+    },
+    {
+      "id": 155,
+      "nombre": "Lawrence Limburger_",
+      "cantidad": 1
+    },
+    {
+      "id": 253,
+      "nombre": "Buitro",
+      "cantidad": 1
+    },
+    {
+      "id": 87,
+      "nombre": "Walter _Doc_ Hartford",
+      "cantidad": 1
+    },
+    {
+      "id": 67,
+      "nombre": "flazzard3",
+      "cantidad": 1
+    },
+    {
+      "id": 61,
+      "nombre": "Borahorn",
+      "cantidad": 1
+    },
+    {
+      "id": 494,
+      "nombre": "jillia",
+      "cantidad": 1
+    },
+    {
+      "id": 302,
+      "nombre": "Blitzwing",
+      "cantidad": 1
+    },
+    {
+      "id": 267,
+      "nombre": "Metalhead",
+      "cantidad": 1
+    },
+    {
+      "id": 657,
+      "nombre": "DB-045",
+      "cantidad": 1
+    },
+    {
+      "id": 524,
+      "nombre": "Capitán-Planeta",
+      "cantidad": 1
+    },
+    {
+      "id": 96,
+      "nombre": "Lexington",
+      "cantidad": 1
+    },
+    {
+      "id": 480,
+      "nombre": "Twinfeeler",
+      "cantidad": 1
+    },
+    {
+      "id": 682,
+      "nombre": "DB-070",
+      "cantidad": 1
+    },
+    {
+      "id": 771,
+      "nombre": "rita",
+      "cantidad": 1
+    },
+    {
+      "id": 673,
+      "nombre": "DB-061",
+      "cantidad": 1
+    },
+    {
+      "id": 291,
+      "nombre": "Zorax",
+      "cantidad": 1
+    },
+    {
+      "id": 550,
+      "nombre": "AceVentura-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 649,
+      "nombre": "DB-037",
+      "cantidad": 1
+    },
+    {
+      "id": 172,
+      "nombre": "May Parker",
+      "cantidad": 1
+    },
+    {
+      "id": 95,
+      "nombre": "Hudson",
       "cantidad": 1
     }
   ]
