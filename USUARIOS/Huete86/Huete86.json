@@ -9,7 +9,7 @@
     {
       "id": 214,
       "nombre": "Brimstar",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 37,
@@ -84,7 +84,7 @@
     {
       "id": 318,
       "nombre": "Morpho",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 101,
@@ -114,12 +114,12 @@
     {
       "id": 78,
       "nombre": "myse",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 244,
       "nombre": "Felina",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 143,
@@ -159,7 +159,7 @@
     {
       "id": 142,
       "nombre": "Tanya Vanderflock",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 303,
@@ -194,7 +194,7 @@
     {
       "id": 27,
       "nombre": "Hank",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 175,
@@ -249,7 +249,7 @@
     {
       "id": 229,
       "nombre": "Last Chance Garage",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 127,
@@ -394,7 +394,7 @@
     {
       "id": 478,
       "nombre": "nurse",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 197,
@@ -404,7 +404,7 @@
     {
       "id": 150,
       "nombre": "Throttle",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 50,
@@ -639,7 +639,7 @@
     {
       "id": 536,
       "nombre": "Xena-Jail",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 421,
@@ -724,7 +724,7 @@
     {
       "id": 91,
       "nombre": "Bronx",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 311,
@@ -814,7 +814,7 @@
     {
       "id": 249,
       "nombre": "Pomara",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 180,
@@ -824,7 +824,7 @@
     {
       "id": 139,
       "nombre": "Duke L'Orange",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 306,
@@ -914,7 +914,7 @@
     {
       "id": 24,
       "nombre": "Bobby",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 379,
@@ -1169,7 +1169,7 @@
     {
       "id": 539,
       "nombre": "BRUCE-LEE2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 28,
@@ -1189,7 +1189,7 @@
     {
       "id": 559,
       "nombre": "MABARRACUS-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 548,
@@ -1219,7 +1219,7 @@
     {
       "id": 487,
       "nombre": "Jacques",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 534,
@@ -1404,7 +1404,7 @@
     {
       "id": 537,
       "nombre": "BOLO-YEUNG",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 339,
@@ -1699,7 +1699,7 @@
     {
       "id": 507,
       "nombre": "KING",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 644,
@@ -1724,7 +1724,7 @@
     {
       "id": 562,
       "nombre": "PETER-GRIFFIN-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 347,
@@ -1824,7 +1824,7 @@
     {
       "id": 535,
       "nombre": "Venkman-Jail",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 503,
@@ -1974,6 +1974,81 @@
     {
       "id": 776,
       "nombre": "zedd",
+      "cantidad": 1
+    },
+    {
+      "id": 453,
+      "nombre": "tyrant",
+      "cantidad": 1
+    },
+    {
+      "id": 442,
+      "nombre": "slig2",
+      "cantidad": 1
+    },
+    {
+      "id": 313,
+      "nombre": "Cable",
+      "cantidad": 1
+    },
+    {
+      "id": 647,
+      "nombre": "DB-035",
+      "cantidad": 1
+    },
+    {
+      "id": 722,
+      "nombre": "DB-110",
+      "cantidad": 1
+    },
+    {
+      "id": 10,
+      "nombre": "Conan",
+      "cantidad": 1
+    },
+    {
+      "id": 64,
+      "nombre": "evil crocodine",
+      "cantidad": 1
+    },
+    {
+      "id": 661,
+      "nombre": "DB-049",
+      "cantidad": 1
+    },
+    {
+      "id": 734,
+      "nombre": "Afrodita-de-Piscis",
+      "cantidad": 1
+    },
+    {
+      "id": 278,
+      "nombre": "Bebop",
+      "cantidad": 1
+    },
+    {
+      "id": 573,
+      "nombre": "ULTIMATE-WARRIOR",
+      "cantidad": 1
+    },
+    {
+      "id": 646,
+      "nombre": "DB-034",
+      "cantidad": 1
+    },
+    {
+      "id": 493,
+      "nombre": "flik",
+      "cantidad": 1
+    },
+    {
+      "id": 641,
+      "nombre": "DB-029",
+      "cantidad": 1
+    },
+    {
+      "id": 110,
+      "nombre": "Destro",
       "cantidad": 1
     }
   ]

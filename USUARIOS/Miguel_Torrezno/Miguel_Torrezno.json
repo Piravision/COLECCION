@@ -199,7 +199,7 @@
     {
       "id": 19,
       "nombre": "Set",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 521,
@@ -354,7 +354,7 @@
     {
       "id": 227,
       "nombre": "Hawks Haven",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 190,
@@ -619,7 +619,7 @@
     {
       "id": 534,
       "nombre": "T800-Jail",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 199,
@@ -1249,7 +1249,7 @@
     {
       "id": 561,
       "nombre": "MARIO-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 640,
@@ -1269,7 +1269,7 @@
     {
       "id": 706,
       "nombre": "DB-094",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 323,
@@ -1309,6 +1309,41 @@
     {
       "id": 261,
       "nombre": "Reptilio",
+      "cantidad": 1
+    },
+    {
+      "id": 545,
+      "nombre": "IVAN-DRAGO",
+      "cantidad": 1
+    },
+    {
+      "id": 739,
+      "nombre": "Athenea",
+      "cantidad": 1
+    },
+    {
+      "id": 678,
+      "nombre": "DB-066",
+      "cantidad": 1
+    },
+    {
+      "id": 241,
+      "nombre": "Thunder Tank",
+      "cantidad": 1
+    },
+    {
+      "id": 41,
+      "nombre": "crocodine bueno",
+      "cantidad": 1
+    },
+    {
+      "id": 324,
+      "nombre": "Wolverine",
+      "cantidad": 1
+    },
+    {
+      "id": 535,
+      "nombre": "Venkman-Jail",
       "cantidad": 1
     }
   ]

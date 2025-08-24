@@ -189,7 +189,7 @@
     {
       "id": 149,
       "nombre": "Modo",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 239,
@@ -389,7 +389,7 @@
     {
       "id": 191,
       "nombre": "Venom",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 189,
@@ -399,7 +399,7 @@
     {
       "id": 179,
       "nombre": "Duende Verde",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 343,
@@ -554,7 +554,7 @@
     {
       "id": 357,
       "nombre": "china",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 102,
@@ -674,7 +674,7 @@
     {
       "id": 78,
       "nombre": "myse",
-      "cantidad": 2
+      "cantidad": 4
     },
     {
       "id": 128,
@@ -729,7 +729,7 @@
     {
       "id": 161,
       "nombre": "Steelwill",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 231,
@@ -864,7 +864,7 @@
     {
       "id": 535,
       "nombre": "Venkman-Jail",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 418,
@@ -954,7 +954,7 @@
     {
       "id": 145,
       "nombre": "Lord Dragaunus",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 65,
@@ -1164,7 +1164,7 @@
     {
       "id": 526,
       "nombre": "Júbilo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 143,
@@ -1324,7 +1324,7 @@
     {
       "id": 474,
       "nombre": "harry2",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 519,
@@ -1394,7 +1394,7 @@
     {
       "id": 565,
       "nombre": "ANDRÉ-THE-GIANT",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 397,
@@ -1439,7 +1439,7 @@
     {
       "id": 391,
       "nombre": "piretripe",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 528,
@@ -1569,7 +1569,7 @@
     {
       "id": 493,
       "nombre": "flik",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 329,
@@ -1649,12 +1649,12 @@
     {
       "id": 406,
       "nombre": "turcos",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 198,
       "nombre": "Slammu",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 327,
@@ -1869,7 +1869,7 @@
     {
       "id": 97,
       "nombre": "Armadura Xanatos",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 538,
@@ -1904,7 +1904,7 @@
     {
       "id": 544,
       "nombre": "DOC-BROWN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 8,
@@ -2014,7 +2014,7 @@
     {
       "id": 389,
       "nombre": "neo cortex",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 116,
@@ -2049,12 +2049,12 @@
     {
       "id": 561,
       "nombre": "MARIO-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 566,
       "nombre": "BIG-BOSSMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 96,
@@ -2079,7 +2079,7 @@
     {
       "id": 273,
       "nombre": "Raphael",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 374,
@@ -2094,7 +2094,7 @@
     {
       "id": 520,
       "nombre": "BenGalí",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 245,
@@ -2124,7 +2124,7 @@
     {
       "id": 243,
       "nombre": "Cheetara",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 130,
@@ -2239,7 +2239,7 @@
     {
       "id": 485,
       "nombre": "Dr_Shemp",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 428,
@@ -2414,7 +2414,7 @@
     {
       "id": 569,
       "nombre": "MACHO-MAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 536,
@@ -2444,7 +2444,7 @@
     {
       "id": 334,
       "nombre": "Siniestro",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 54,
@@ -2599,7 +2599,7 @@
     {
       "id": 579,
       "nombre": "BOB-DENVER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 721,
@@ -2629,7 +2629,7 @@
     {
       "id": 623,
       "nombre": "DB-011",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 375,
@@ -2710,6 +2710,71 @@
       "id": 166,
       "nombre": "Estrella de Fuego",
       "cantidad": 1
+    },
+    {
+      "id": 695,
+      "nombre": "DB-083",
+      "cantidad": 1
+    },
+    {
+      "id": 771,
+      "nombre": "rita",
+      "cantidad": 1
+    },
+    {
+      "id": 714,
+      "nombre": "DB-102",
+      "cantidad": 1
+    },
+    {
+      "id": 767,
+      "nombre": "green",
+      "cantidad": 1
+    },
+    {
+      "id": 660,
+      "nombre": "DB-048",
+      "cantidad": 1
+    },
+    {
+      "id": 670,
+      "nombre": "DB-058",
+      "cantidad": 1
+    },
+    {
+      "id": 652,
+      "nombre": "DB-040",
+      "cantidad": 1
+    },
+    {
+      "id": 476,
+      "nombre": "Kaufman",
+      "cantidad": 1
+    },
+    {
+      "id": 502,
+      "nombre": "viktor",
+      "cantidad": 1
+    },
+    {
+      "id": 676,
+      "nombre": "DB-064",
+      "cantidad": 1
+    },
+    {
+      "id": 88,
+      "nombre": "Zackary Foxx",
+      "cantidad": 1
+    },
+    {
+      "id": 700,
+      "nombre": "DB-088",
+      "cantidad": 1
+    },
+    {
+      "id": 648,
+      "nombre": "DB-036",
+      "cantidad": 2
     }
   ]
 }
