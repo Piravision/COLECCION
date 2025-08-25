@@ -129,7 +129,7 @@
     {
       "id": 9,
       "nombre": "Rhadamanthys",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 90,
@@ -159,7 +159,7 @@
     {
       "id": 302,
       "nombre": "Blitzwing",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 132,
@@ -454,7 +454,7 @@
     {
       "id": 310,
       "nombre": "Dan",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 507,
@@ -784,7 +784,7 @@
     {
       "id": 207,
       "nombre": "Slobster",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 311,
@@ -1199,7 +1199,7 @@
     {
       "id": 31,
       "nombre": "Tiamat",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 293,
@@ -1479,7 +1479,7 @@
     {
       "id": 609,
       "nombre": "STEFAN-LEVI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 221,
@@ -1589,6 +1589,51 @@
     {
       "id": 632,
       "nombre": "DB-020",
+      "cantidad": 1
+    },
+    {
+      "id": 682,
+      "nombre": "DB-070",
+      "cantidad": 1
+    },
+    {
+      "id": 255,
+      "nombre": "Ma Mutt",
+      "cantidad": 1
+    },
+    {
+      "id": 566,
+      "nombre": "BIG-BOSSMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 375,
+      "nombre": "Grobyc",
+      "cantidad": 1
+    },
+    {
+      "id": 744,
+      "nombre": "Dark-Deathmask-de-Cancer",
+      "cantidad": 1
+    },
+    {
+      "id": 254,
+      "nombre": "Chacalo",
+      "cantidad": 1
+    },
+    {
+      "id": 649,
+      "nombre": "DB-037",
+      "cantidad": 1
+    },
+    {
+      "id": 747,
+      "nombre": "Dohko-de-Libra",
+      "cantidad": 1
+    },
+    {
+      "id": 612,
+      "nombre": "TOM-BAKER",
       "cantidad": 1
     }
   ]

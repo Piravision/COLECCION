@@ -229,7 +229,7 @@
     {
       "id": 94,
       "nombre": "Goliath",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 202,
@@ -384,7 +384,7 @@
     {
       "id": 209,
       "nombre": "Sovereign Rock Castle",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 557,
@@ -754,7 +754,7 @@
     {
       "id": 440,
       "nombre": "scrabs",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 353,
@@ -834,7 +834,7 @@
     {
       "id": 170,
       "nombre": "J. Jonah Jameson",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 551,
@@ -1024,7 +1024,7 @@
     {
       "id": 56,
       "nombre": "nova",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 259,
@@ -1109,6 +1109,41 @@
     {
       "id": 197,
       "nombre": "Rox",
+      "cantidad": 1
+    },
+    {
+      "id": 392,
+      "nombre": "roover",
+      "cantidad": 1
+    },
+    {
+      "id": 128,
+      "nombre": "Faker",
+      "cantidad": 1
+    },
+    {
+      "id": 236,
+      "nombre": "Shark Tank",
+      "cantidad": 1
+    },
+    {
+      "id": 60,
+      "nombre": "baran",
+      "cantidad": 1
+    },
+    {
+      "id": 287,
+      "nombre": "Soldado del Pie",
+      "cantidad": 1
+    },
+    {
+      "id": 759,
+      "nombre": "Shion",
+      "cantidad": 1
+    },
+    {
+      "id": 190,
+      "nombre": "Vandame-Bloodsport",
       "cantidad": 1
     }
   ]

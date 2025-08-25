@@ -594,7 +594,7 @@
     {
       "id": 169,
       "nombre": "Hombre de Hielo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 333,
@@ -799,7 +799,7 @@
     {
       "id": 543,
       "nombre": "DIE-HARD-III",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 385,
@@ -1434,7 +1434,7 @@
     {
       "id": 555,
       "nombre": "INDIANA-JONES-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 145,
@@ -1564,7 +1564,7 @@
     {
       "id": 251,
       "nombre": "Tigro",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 454,
@@ -1769,7 +1769,7 @@
     {
       "id": 702,
       "nombre": "DB-090",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 628,
@@ -1804,7 +1804,7 @@
     {
       "id": 568,
       "nombre": "LOS-SACAMANTECAS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 632,
@@ -2144,6 +2144,51 @@
     {
       "id": 308,
       "nombre": "Starscream",
+      "cantidad": 1
+    },
+    {
+      "id": 710,
+      "nombre": "DB-098",
+      "cantidad": 1
+    },
+    {
+      "id": 683,
+      "nombre": "DB-071",
+      "cantidad": 1
+    },
+    {
+      "id": 68,
+      "nombre": "galdandy",
+      "cantidad": 1
+    },
+    {
+      "id": 668,
+      "nombre": "DB-056",
+      "cantidad": 1
+    },
+    {
+      "id": 212,
+      "nombre": "Asteroide M",
+      "cantidad": 1
+    },
+    {
+      "id": 463,
+      "nombre": "shoma",
+      "cantidad": 1
+    },
+    {
+      "id": 688,
+      "nombre": "DB-076",
+      "cantidad": 1
+    },
+    {
+      "id": 172,
+      "nombre": "May Parker",
+      "cantidad": 1
+    },
+    {
+      "id": 708,
+      "nombre": "DB-096",
       "cantidad": 1
     }
   ]
