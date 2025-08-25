@@ -89,7 +89,7 @@
     {
       "id": 101,
       "nombre": "Duke",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 320,
@@ -299,7 +299,7 @@
     {
       "id": 327,
       "nombre": "Dientes de Sable",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 72,
@@ -369,7 +369,7 @@
     {
       "id": 426,
       "nombre": "ocelot2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 239,
@@ -419,7 +419,7 @@
     {
       "id": 162,
       "nombre": "Mon Star",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 366,
@@ -494,7 +494,7 @@
     {
       "id": 341,
       "nombre": "Crocodine Malvado",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 350,
@@ -644,7 +644,7 @@
     {
       "id": 421,
       "nombre": "mei2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 98,
@@ -684,7 +684,7 @@
     {
       "id": 391,
       "nombre": "piretripe",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 288,
@@ -754,7 +754,7 @@
     {
       "id": 129,
       "nombre": "Hordak",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 510,
@@ -834,7 +834,7 @@
     {
       "id": 375,
       "nombre": "Grobyc",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 460,
@@ -864,7 +864,7 @@
     {
       "id": 76,
       "nombre": "masopho",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 75,
@@ -1154,7 +1154,7 @@
     {
       "id": 46,
       "nombre": "gome",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 477,
@@ -1454,7 +1454,7 @@
     {
       "id": 556,
       "nombre": "LEIA-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 41,
@@ -1504,7 +1504,7 @@
     {
       "id": 608,
       "nombre": "SHUN-NITTA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 3,
@@ -1649,7 +1649,7 @@
     {
       "id": 125,
       "nombre": "Teela",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 314,
@@ -1679,7 +1679,7 @@
     {
       "id": 723,
       "nombre": "DB-111",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 636,
@@ -1754,7 +1754,7 @@
     {
       "id": 648,
       "nombre": "DB-036",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 656,
@@ -1894,7 +1894,7 @@
     {
       "id": 480,
       "nombre": "Twinfeeler",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 456,
@@ -2069,6 +2069,81 @@
     {
       "id": 771,
       "nombre": "rita",
+      "cantidad": 1
+    },
+    {
+      "id": 133,
+      "nombre": "Trap Jaw",
+      "cantidad": 1
+    },
+    {
+      "id": 716,
+      "nombre": "DB-104",
+      "cantidad": 2
+    },
+    {
+      "id": 399,
+      "nombre": "cait",
+      "cantidad": 1
+    },
+    {
+      "id": 742,
+      "nombre": "Dark Saga",
+      "cantidad": 1
+    },
+    {
+      "id": 494,
+      "nombre": "jillia",
+      "cantidad": 1
+    },
+    {
+      "id": 522,
+      "nombre": "lara",
+      "cantidad": 1
+    },
+    {
+      "id": 717,
+      "nombre": "DB-105",
+      "cantidad": 1
+    },
+    {
+      "id": 590,
+      "nombre": "HERMANN-KALTZ",
+      "cantidad": 1
+    },
+    {
+      "id": 685,
+      "nombre": "DB-073",
+      "cantidad": 1
+    },
+    {
+      "id": 589,
+      "nombre": "GENTILE-SALVATORE",
+      "cantidad": 1
+    },
+    {
+      "id": 665,
+      "nombre": "DB-053",
+      "cantidad": 1
+    },
+    {
+      "id": 140,
+      "nombre": "Mallory McMallard",
+      "cantidad": 1
+    },
+    {
+      "id": 616,
+      "nombre": "DB-004",
+      "cantidad": 1
+    },
+    {
+      "id": 752,
+      "nombre": "Mu-de-Aries",
+      "cantidad": 1
+    },
+    {
+      "id": 308,
+      "nombre": "Starscream",
       "cantidad": 1
     }
   ]

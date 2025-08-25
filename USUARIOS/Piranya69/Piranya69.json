@@ -29,7 +29,7 @@
     {
       "id": 117,
       "nombre": "He man",
-      "cantidad": 9
+      "cantidad": 10
     },
     {
       "id": 8,
@@ -344,7 +344,7 @@
     {
       "id": 431,
       "nombre": "solid",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 134,
@@ -509,7 +509,7 @@
     {
       "id": 511,
       "nombre": "YOSHI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 300,
@@ -974,7 +974,7 @@
     {
       "id": 205,
       "nombre": "Shrimp Louie",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 84,
@@ -1034,7 +1034,7 @@
     {
       "id": 190,
       "nombre": "Vandame-Bloodsport",
-      "cantidad": 2
+      "cantidad": 4
     },
     {
       "id": 338,
@@ -1364,7 +1364,7 @@
     {
       "id": 452,
       "nombre": "sherry",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 207,
@@ -1519,7 +1519,7 @@
     {
       "id": 509,
       "nombre": "NINA",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 549,
@@ -1794,7 +1794,7 @@
     {
       "id": 429,
       "nombre": "sniper",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 343,
@@ -1889,7 +1889,7 @@
     {
       "id": 482,
       "nombre": "Escorpión",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 484,
@@ -2049,7 +2049,7 @@
     {
       "id": 629,
       "nombre": "DB-017",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 43,
@@ -2074,7 +2074,7 @@
     {
       "id": 578,
       "nombre": "BENJI-PRICE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 49,
@@ -2344,7 +2344,7 @@
     {
       "id": 579,
       "nombre": "BOB-DENVER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 547,
@@ -2509,7 +2509,7 @@
     {
       "id": 642,
       "nombre": "DB-030",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 619,
@@ -2604,6 +2604,26 @@
     {
       "id": 86,
       "nombre": "Shane Gooseman",
+      "cantidad": 1
+    },
+    {
+      "id": 4,
+      "nombre": "Tex Hex",
+      "cantidad": 1
+    },
+    {
+      "id": 176,
+      "nombre": "Camaleon",
+      "cantidad": 1
+    },
+    {
+      "id": 562,
+      "nombre": "PETER-GRIFFIN-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 617,
+      "nombre": "DB-005",
       "cantidad": 1
     }
   ]

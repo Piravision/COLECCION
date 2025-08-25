@@ -194,7 +194,7 @@
     {
       "id": 255,
       "nombre": "Ma Mutt",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 216,
@@ -314,7 +314,7 @@
     {
       "id": 484,
       "nombre": "Blowhard",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 401,
@@ -369,7 +369,7 @@
     {
       "id": 135,
       "nombre": "Afrodita A",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 434,
@@ -424,7 +424,7 @@
     {
       "id": 459,
       "nombre": "Kyosuke",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 292,
@@ -474,7 +474,7 @@
     {
       "id": 60,
       "nombre": "baran",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 509,
@@ -534,7 +534,7 @@
     {
       "id": 363,
       "nombre": "Chuache-DesafioTotal",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 480,
@@ -674,7 +674,7 @@
     {
       "id": 308,
       "nombre": "Starscream",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 408,
@@ -1034,12 +1034,12 @@
     {
       "id": 262,
       "nombre": "April O'Neil",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 419,
       "nombre": "lquid",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 290,
@@ -1099,7 +1099,7 @@
     {
       "id": 326,
       "nombre": "Blob",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 345,
@@ -1204,12 +1204,12 @@
     {
       "id": 545,
       "nombre": "IVAN-DRAGO",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 540,
       "nombre": "CHUCK-NORRIS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 257,
@@ -1349,7 +1349,7 @@
     {
       "id": 542,
       "nombre": "DIE-HARD",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 88,
@@ -1359,7 +1359,7 @@
     {
       "id": 215,
       "nombre": "Castillo Grayskull",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 499,
@@ -1464,7 +1464,7 @@
     {
       "id": 253,
       "nombre": "Buitro",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 671,
@@ -1524,7 +1524,7 @@
     {
       "id": 183,
       "nombre": "Kraven",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 590,
@@ -1689,7 +1689,7 @@
     {
       "id": 613,
       "nombre": "DB-001",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 621,
@@ -1774,7 +1774,7 @@
     {
       "id": 534,
       "nombre": "T800-Jail",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 348,
@@ -2004,12 +2004,12 @@
     {
       "id": 22,
       "nombre": "Wrath Amon",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 719,
       "nombre": "DB-107",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 752,
@@ -2134,7 +2134,7 @@
     {
       "id": 102,
       "nombre": "General Hawk",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 362,
@@ -2169,6 +2169,51 @@
     {
       "id": 751,
       "nombre": "Minos",
+      "cantidad": 1
+    },
+    {
+      "id": 516,
+      "nombre": "LEGIÓN-DEL-DRAGÓN",
+      "cantidad": 1
+    },
+    {
+      "id": 563,
+      "nombre": "VADER-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 443,
+      "nombre": "ada",
+      "cantidad": 1
+    },
+    {
+      "id": 619,
+      "nombre": "DB-007",
+      "cantidad": 1
+    },
+    {
+      "id": 697,
+      "nombre": "DB-085",
+      "cantidad": 1
+    },
+    {
+      "id": 748,
+      "nombre": "HAdes2",
+      "cantidad": 1
+    },
+    {
+      "id": 127,
+      "nombre": "Evil Lyn",
+      "cantidad": 1
+    },
+    {
+      "id": 465,
+      "nombre": "air",
+      "cantidad": 1
+    },
+    {
+      "id": 755,
+      "nombre": "Poseidon2",
       "cantidad": 1
     }
   ]
