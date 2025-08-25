@@ -349,7 +349,7 @@
     {
       "id": 132,
       "nombre": "Skeletor",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 469,
@@ -669,7 +669,7 @@
     {
       "id": 382,
       "nombre": "serge",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 257,
@@ -849,7 +849,7 @@
     {
       "id": 326,
       "nombre": "Blob",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 261,
@@ -2229,6 +2229,31 @@
     {
       "id": 638,
       "nombre": "DB-026",
+      "cantidad": 1
+    },
+    {
+      "id": 398,
+      "nombre": "barret",
+      "cantidad": 1
+    },
+    {
+      "id": 672,
+      "nombre": "DB-060",
+      "cantidad": 2
+    },
+    {
+      "id": 378,
+      "nombre": "kid",
+      "cantidad": 1
+    },
+    {
+      "id": 356,
+      "nombre": "busuzima",
+      "cantidad": 1
+    },
+    {
+      "id": 550,
+      "nombre": "AceVentura-JAIL",
       "cantidad": 1
     }
   ]

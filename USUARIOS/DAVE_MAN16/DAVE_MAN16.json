@@ -224,7 +224,7 @@
     {
       "id": 310,
       "nombre": "Dan",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 172,
@@ -834,6 +834,16 @@
     {
       "id": 255,
       "nombre": "Ma Mutt",
+      "cantidad": 1
+    },
+    {
+      "id": 512,
+      "nombre": "Dimensión-X",
+      "cantidad": 1
+    },
+    {
+      "id": 733,
+      "nombre": "DB-121",
       "cantidad": 1
     }
   ]
