@@ -39,7 +39,7 @@
     {
       "id": 235,
       "nombre": "Punk Frogs",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 174,
@@ -199,7 +199,7 @@
     {
       "id": 175,
       "nombre": "Buitre",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 194,
@@ -284,7 +284,7 @@
     {
       "id": 218,
       "nombre": "Cybertron",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 209,
@@ -319,7 +319,7 @@
     {
       "id": 204,
       "nombre": "SharkBot",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 310,
@@ -579,7 +579,7 @@
     {
       "id": 179,
       "nombre": "Duende Verde",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 428,
@@ -814,7 +814,7 @@
     {
       "id": 249,
       "nombre": "Pomara",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 180,
@@ -1024,7 +1024,7 @@
     {
       "id": 6,
       "nombre": "El Patriarca",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 29,
@@ -1034,7 +1034,7 @@
     {
       "id": 160,
       "nombre": "Steelheart",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 177,
@@ -1629,7 +1629,7 @@
     {
       "id": 207,
       "nombre": "Slobster",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 631,
@@ -1789,7 +1789,7 @@
     {
       "id": 544,
       "nombre": "DOC-BROWN",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 574,
@@ -2189,6 +2189,41 @@
     {
       "id": 708,
       "nombre": "DB-096",
+      "cantidad": 1
+    },
+    {
+      "id": 270,
+      "nombre": "Napoleon Bonafrog",
+      "cantidad": 1
+    },
+    {
+      "id": 431,
+      "nombre": "solid",
+      "cantidad": 1
+    },
+    {
+      "id": 756,
+      "nombre": "Rhadamantis2",
+      "cantidad": 1
+    },
+    {
+      "id": 629,
+      "nombre": "DB-017",
+      "cantidad": 1
+    },
+    {
+      "id": 262,
+      "nombre": "April O'Neil",
+      "cantidad": 1
+    },
+    {
+      "id": 196,
+      "nombre": "Ripster",
+      "cantidad": 1
+    },
+    {
+      "id": 687,
+      "nombre": "DB-075",
       "cantidad": 1
     }
   ]

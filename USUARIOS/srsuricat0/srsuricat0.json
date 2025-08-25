@@ -609,7 +609,7 @@
     {
       "id": 486,
       "nombre": "gnasty-gnorc",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 74,
@@ -944,7 +944,7 @@
     {
       "id": 271,
       "nombre": "Neutrinos",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 47,
@@ -1544,7 +1544,7 @@
     {
       "id": 549,
       "nombre": "T-1000",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 570,
@@ -1774,7 +1774,7 @@
     {
       "id": 363,
       "nombre": "Chuache-DesafioTotal",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 164,
@@ -1839,7 +1839,7 @@
     {
       "id": 563,
       "nombre": "VADER-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 491,
@@ -2794,6 +2794,11 @@
     {
       "id": 603,
       "nombre": "PHILLIP-CALLAHAN",
+      "cantidad": 1
+    },
+    {
+      "id": 659,
+      "nombre": "DB-047",
       "cantidad": 1
     }
   ]

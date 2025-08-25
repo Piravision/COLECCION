@@ -129,7 +129,7 @@
     {
       "id": 378,
       "nombre": "kid",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 175,
@@ -459,7 +459,7 @@
     {
       "id": 548,
       "nombre": "Snake-Plissken",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 124,
@@ -574,7 +574,7 @@
     {
       "id": 543,
       "nombre": "DIE-HARD-III",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 171,
@@ -704,7 +704,7 @@
     {
       "id": 212,
       "nombre": "Asteroide M",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 191,
@@ -1034,7 +1034,7 @@
     {
       "id": 732,
       "nombre": "DB-120",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 621,
@@ -1144,6 +1144,41 @@
     {
       "id": 190,
       "nombre": "Vandame-Bloodsport",
+      "cantidad": 1
+    },
+    {
+      "id": 159,
+      "nombre": "Quicksilver",
+      "cantidad": 1
+    },
+    {
+      "id": 10,
+      "nombre": "Conan",
+      "cantidad": 1
+    },
+    {
+      "id": 183,
+      "nombre": "Kraven",
+      "cantidad": 1
+    },
+    {
+      "id": 712,
+      "nombre": "DB-100",
+      "cantidad": 1
+    },
+    {
+      "id": 299,
+      "nombre": "Sunstreaker",
+      "cantidad": 1
+    },
+    {
+      "id": 489,
+      "nombre": "sparx",
+      "cantidad": 1
+    },
+    {
+      "id": 460,
+      "nombre": "miura",
       "cantidad": 1
     }
   ]

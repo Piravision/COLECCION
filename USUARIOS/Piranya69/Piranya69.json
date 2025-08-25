@@ -509,7 +509,7 @@
     {
       "id": 511,
       "nombre": "YOSHI",
-      "cantidad": 2
+      "cantidad": 4
     },
     {
       "id": 300,
@@ -729,7 +729,7 @@
     {
       "id": 363,
       "nombre": "Chuache-DesafioTotal",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 130,
@@ -979,7 +979,7 @@
     {
       "id": 84,
       "nombre": "zurbon",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 375,
@@ -1589,7 +1589,7 @@
     {
       "id": 524,
       "nombre": "Capitán-Planeta",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 409,
@@ -2479,7 +2479,7 @@
     {
       "id": 645,
       "nombre": "DB-033",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 752,
@@ -2624,6 +2624,21 @@
     {
       "id": 617,
       "nombre": "DB-005",
+      "cantidad": 1
+    },
+    {
+      "id": 719,
+      "nombre": "DB-107",
+      "cantidad": 1
+    },
+    {
+      "id": 615,
+      "nombre": "DB-003",
+      "cantidad": 1
+    },
+    {
+      "id": 149,
+      "nombre": "Modo",
       "cantidad": 1
     }
   ]

@@ -664,7 +664,7 @@
     {
       "id": 244,
       "nombre": "Felina",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 133,
@@ -729,7 +729,7 @@
     {
       "id": 547,
       "nombre": "Snake-Plissken",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 531,
@@ -919,7 +919,7 @@
     {
       "id": 325,
       "nombre": "Apocalipsis",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 265,
@@ -1684,7 +1684,7 @@
     {
       "id": 85,
       "nombre": "Niko",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 613,
@@ -1909,7 +1909,7 @@
     {
       "id": 454,
       "nombre": "zombi",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 501,
@@ -2214,6 +2214,41 @@
     {
       "id": 755,
       "nombre": "Poseidon2",
+      "cantidad": 1
+    },
+    {
+      "id": 722,
+      "nombre": "DB-110",
+      "cantidad": 1
+    },
+    {
+      "id": 528,
+      "nombre": "Fénix-Oscura",
+      "cantidad": 1
+    },
+    {
+      "id": 118,
+      "nombre": "Man at Arms",
+      "cantidad": 1
+    },
+    {
+      "id": 666,
+      "nombre": "DB-054",
+      "cantidad": 1
+    },
+    {
+      "id": 296,
+      "nombre": "Jazz",
+      "cantidad": 1
+    },
+    {
+      "id": 601,
+      "nombre": "OLIVER-ATOM",
+      "cantidad": 1
+    },
+    {
+      "id": 388,
+      "nombre": "koala2",
       "cantidad": 1
     }
   ]
