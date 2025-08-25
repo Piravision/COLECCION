@@ -514,7 +514,7 @@
     {
       "id": 5,
       "nombre": "Seiya de Pegaso",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 53,
@@ -754,7 +754,7 @@
     {
       "id": 129,
       "nombre": "Hordak",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 510,
@@ -894,7 +894,7 @@
     {
       "id": 269,
       "nombre": "Mona Lisa",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 358,
@@ -989,7 +989,7 @@
     {
       "id": 500,
       "nombre": "shu",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 146,
@@ -1499,7 +1499,7 @@
     {
       "id": 691,
       "nombre": "DB-079",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 608,
@@ -2224,6 +2224,11 @@
     {
       "id": 687,
       "nombre": "DB-075",
+      "cantidad": 1
+    },
+    {
+      "id": 638,
+      "nombre": "DB-026",
       "cantidad": 1
     }
   ]
