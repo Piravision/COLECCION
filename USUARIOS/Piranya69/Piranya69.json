@@ -389,7 +389,7 @@
     {
       "id": 427,
       "nombre": "psyco",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 379,
@@ -679,7 +679,7 @@
     {
       "id": 344,
       "nombre": "Flazzard 3",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 475,
@@ -2639,6 +2639,11 @@
     {
       "id": 149,
       "nombre": "Modo",
+      "cantidad": 1
+    },
+    {
+      "id": 317,
+      "nombre": "Jean Grey",
       "cantidad": 1
     }
   ]
