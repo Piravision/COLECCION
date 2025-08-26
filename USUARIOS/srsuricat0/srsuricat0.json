@@ -304,7 +304,7 @@
     {
       "id": 415,
       "nombre": "emme",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 71,
@@ -324,7 +324,7 @@
     {
       "id": 206,
       "nombre": "Slash",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 259,
@@ -384,7 +384,7 @@
     {
       "id": 41,
       "nombre": "crocodine bueno",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 191,
@@ -419,7 +419,7 @@
     {
       "id": 291,
       "nombre": "Zorax",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 72,
@@ -509,7 +509,7 @@
     {
       "id": 238,
       "nombre": "Snake Mountain",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 13,
@@ -674,7 +674,7 @@
     {
       "id": 78,
       "nombre": "myse",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 128,
@@ -884,7 +884,7 @@
     {
       "id": 221,
       "nombre": "Espada Atlantean",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 283,
@@ -1549,7 +1549,7 @@
     {
       "id": 570,
       "nombre": "MILLION-DOLLAR-MAN",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 93,
@@ -1764,7 +1764,7 @@
     {
       "id": 445,
       "nombre": "claire",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 554,
@@ -1919,7 +1919,7 @@
     {
       "id": 63,
       "nombre": "drabaran",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 534,
@@ -2124,12 +2124,12 @@
     {
       "id": 243,
       "nombre": "Cheetara",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 130,
       "nombre": "Mer Man(",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 84,
@@ -2474,7 +2474,7 @@
     {
       "id": 414,
       "nombre": "campb2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 83,
@@ -2509,7 +2509,7 @@
     {
       "id": 521,
       "nombre": "León-O",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 458,
@@ -2684,7 +2684,7 @@
     {
       "id": 426,
       "nombre": "ocelot2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 674,
@@ -2859,6 +2859,11 @@
     {
       "id": 590,
       "nombre": "HERMANN-KALTZ",
+      "cantidad": 1
+    },
+    {
+      "id": 632,
+      "nombre": "DB-020",
       "cantidad": 1
     }
   ]

@@ -4,7 +4,7 @@
         {
             "id": 189,
             "nombre": "Shocker",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 171,
@@ -124,12 +124,12 @@
         {
             "id": 7,
             "nombre": "El Patriarca",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 128,
             "nombre": "Faker",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 89,
@@ -534,7 +534,7 @@
         {
             "id": 61,
             "nombre": "Borahorn",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 169,
@@ -649,7 +649,7 @@
         {
             "id": 222,
             "nombre": "Espada de Metal Estrella",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 25,
@@ -714,7 +714,7 @@
         {
             "id": 323,
             "nombre": "Tormenta",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 108,
@@ -789,7 +789,7 @@
         {
             "id": 312,
             "nombre": "Bestia",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 191,
@@ -1314,7 +1314,7 @@
         {
             "id": 236,
             "nombre": "Shark Tank",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 541,
@@ -1434,7 +1434,7 @@
         {
             "id": 432,
             "nombre": "solid2",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 203,
@@ -1644,7 +1644,7 @@
         {
             "id": 240,
             "nombre": "Terror Drome",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 386,
@@ -1674,7 +1674,7 @@
         {
             "id": 96,
             "nombre": "Lexington",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 78,
@@ -1744,7 +1744,7 @@
         {
             "id": 254,
             "nombre": "Chacalo",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 223,
@@ -1809,7 +1809,7 @@
         {
             "id": 364,
             "nombre": "HulkHogan",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 555,
@@ -1859,7 +1859,7 @@
         {
             "id": 573,
             "nombre": "ULTIMATE-WARRIOR",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 287,
@@ -2074,7 +2074,7 @@
         {
             "id": 578,
             "nombre": "BENJI-PRICE",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 49,
@@ -2149,7 +2149,7 @@
         {
             "id": 558,
             "nombre": "LUKE-SKYWALKER-JAIL",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 151,
@@ -2659,6 +2659,26 @@
         {
             "id": 28,
             "nombre": "Presto",
+            "cantidad": 1
+        },
+        {
+            "id": 677,
+            "nombre": "DB-065",
+            "cantidad": 1
+        },
+        {
+            "id": 675,
+            "nombre": "DB-063",
+            "cantidad": 1
+        },
+        {
+            "id": 332,
+            "nombre": "Mojo",
+            "cantidad": 1
+        },
+        {
+            "id": 14,
+            "nombre": "Snagg",
             "cantidad": 1
         }
     ]

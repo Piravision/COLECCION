@@ -99,7 +99,7 @@
     {
       "id": 152,
       "nombre": "Dr. Karbunkle",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 40,
@@ -269,7 +269,7 @@
     {
       "id": 36,
       "nombre": "baduck",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 34,
@@ -354,7 +354,7 @@
     {
       "id": 469,
       "nombre": "Dahlia Gillespie",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 122,
@@ -544,7 +544,7 @@
     {
       "id": 348,
       "nombre": "Meia",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 99,
@@ -639,7 +639,7 @@
     {
       "id": 536,
       "nombre": "Xena-Jail",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 421,
@@ -669,7 +669,7 @@
     {
       "id": 382,
       "nombre": "serge",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 257,
@@ -1069,7 +1069,7 @@
     {
       "id": 254,
       "nombre": "Chacalo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 473,
@@ -1104,7 +1104,7 @@
     {
       "id": 165,
       "nombre": "Daredevil",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 357,
@@ -1224,7 +1224,7 @@
     {
       "id": 534,
       "nombre": "T800-Jail",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 401,
@@ -1349,7 +1349,7 @@
     {
       "id": 135,
       "nombre": "Afrodita A",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 154,
@@ -1359,7 +1359,7 @@
     {
       "id": 256,
       "nombre": "Mandrilo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 404,
@@ -1379,7 +1379,7 @@
     {
       "id": 461,
       "nombre": "Stalone-RamboIII",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 373,
@@ -1829,7 +1829,7 @@
     {
       "id": 503,
       "nombre": "gon",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 670,
@@ -2254,6 +2254,31 @@
     {
       "id": 550,
       "nombre": "AceVentura-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 184,
+      "nombre": "Lizard",
+      "cantidad": 1
+    },
+    {
+      "id": 491,
+      "nombre": "spyro2",
+      "cantidad": 1
+    },
+    {
+      "id": 676,
+      "nombre": "DB-064",
+      "cantidad": 1
+    },
+    {
+      "id": 689,
+      "nombre": "DB-077",
+      "cantidad": 1
+    },
+    {
+      "id": 772,
+      "nombre": "Rita-Repulsa",
       "cantidad": 1
     }
   ]

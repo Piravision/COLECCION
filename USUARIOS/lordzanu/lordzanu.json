@@ -29,12 +29,12 @@
     {
       "id": 562,
       "nombre": "PETER-GRIFFIN-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 216,
       "nombre": "Centinela",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 445,
@@ -504,7 +504,7 @@
     {
       "id": 452,
       "nombre": "sherry",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 509,
@@ -579,7 +579,7 @@
     {
       "id": 539,
       "nombre": "BRUCE-LEE2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 600,
@@ -679,6 +679,56 @@
     {
       "id": 672,
       "nombre": "DB-060",
+      "cantidad": 1
+    },
+    {
+      "id": 312,
+      "nombre": "Bestia",
+      "cantidad": 1
+    },
+    {
+      "id": 683,
+      "nombre": "DB-071",
+      "cantidad": 1
+    },
+    {
+      "id": 318,
+      "nombre": "Morpho",
+      "cantidad": 2
+    },
+    {
+      "id": 712,
+      "nombre": "DB-100",
+      "cantidad": 1
+    },
+    {
+      "id": 198,
+      "nombre": "Slammu",
+      "cantidad": 1
+    },
+    {
+      "id": 61,
+      "nombre": "Borahorn",
+      "cantidad": 1
+    },
+    {
+      "id": 19,
+      "nombre": "Set",
+      "cantidad": 1
+    },
+    {
+      "id": 6,
+      "nombre": "El Patriarca",
+      "cantidad": 1
+    },
+    {
+      "id": 664,
+      "nombre": "DB-052",
+      "cantidad": 1
+    },
+    {
+      "id": 357,
+      "nombre": "china",
       "cantidad": 1
     }
   ]
