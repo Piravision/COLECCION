@@ -84,7 +84,7 @@
     {
       "id": 396,
       "nombre": "aeris",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 276,
@@ -154,7 +154,7 @@
     {
       "id": 89,
       "nombre": "Angela",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 340,
@@ -439,7 +439,7 @@
     {
       "id": 295,
       "nombre": "Ironhide",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 404,
@@ -909,7 +909,7 @@
     {
       "id": 419,
       "nombre": "lquid",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 480,
@@ -924,7 +924,7 @@
     {
       "id": 201,
       "nombre": "Dr. paradigma",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 473,
@@ -1219,7 +1219,7 @@
     {
       "id": 550,
       "nombre": "AceVentura-JAIL",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 69,
@@ -1309,7 +1309,7 @@
     {
       "id": 505,
       "nombre": "Hwoarang",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 151,
@@ -1924,7 +1924,7 @@
     {
       "id": 534,
       "nombre": "T800-Jail",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 23,
@@ -1954,7 +1954,7 @@
     {
       "id": 144,
       "nombre": "Grin-Hardwing",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 229,
@@ -2339,7 +2339,7 @@
     {
       "id": 156,
       "nombre": "Lord Camembert",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 174,
@@ -2599,7 +2599,7 @@
     {
       "id": 579,
       "nombre": "BOB-DENVER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 721,
@@ -3099,7 +3099,7 @@
     {
       "id": 556,
       "nombre": "LEIA-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 666,
@@ -3144,6 +3144,21 @@
     {
       "id": 390,
       "nombre": "papu",
+      "cantidad": 1
+    },
+    {
+      "id": 703,
+      "nombre": "DB-091",
+      "cantidad": 1
+    },
+    {
+      "id": 621,
+      "nombre": "DB-009",
+      "cantidad": 1
+    },
+    {
+      "id": 669,
+      "nombre": "DB-057",
       "cantidad": 1
     }
   ]

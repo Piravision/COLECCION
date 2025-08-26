@@ -319,7 +319,7 @@
     {
       "id": 401,
       "nombre": "cloud",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 130,
@@ -2014,7 +2014,7 @@
     {
       "id": 611,
       "nombre": "TERRY-DENTON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 620,
@@ -2369,6 +2369,11 @@
     {
       "id": 231,
       "nombre": "Manual de Avan",
+      "cantidad": 1
+    },
+    {
+      "id": 81,
+      "nombre": "vearn",
       "cantidad": 1
     }
   ]
