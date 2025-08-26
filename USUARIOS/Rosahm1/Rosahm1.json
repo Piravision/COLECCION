@@ -1034,7 +1034,7 @@
         {
             "id": 419,
             "nombre": "lquid",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 290,
@@ -2359,6 +2359,11 @@
         {
             "id": 670,
             "nombre": "DB-058",
+            "cantidad": 1
+        },
+        {
+            "id": 430,
+            "nombre": "sniper2",
             "cantidad": 1
         }
     ]
