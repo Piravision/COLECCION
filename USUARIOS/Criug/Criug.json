@@ -404,7 +404,7 @@
         {
             "id": 532,
             "nombre": "Sarah-Connor-Jail",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 339,
@@ -829,7 +829,7 @@
         {
             "id": 554,
             "nombre": "HANSOLO-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 413,
@@ -2144,6 +2144,21 @@
         {
             "id": 33,
             "nombre": "Apollo",
+            "cantidad": 1
+        },
+        {
+            "id": 283,
+            "nombre": "Lord Dregg",
+            "cantidad": 1
+        },
+        {
+            "id": 134,
+            "nombre": "Tri Klops",
+            "cantidad": 1
+        },
+        {
+            "id": 553,
+            "nombre": "GOKU-JAIL",
             "cantidad": 1
         }
     ]
