@@ -29,7 +29,7 @@
     {
       "id": 330,
       "nombre": "Magneto",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 306,
@@ -539,7 +539,7 @@
     {
       "id": 314,
       "nombre": "Coloso",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 132,
@@ -744,7 +744,7 @@
     {
       "id": 185,
       "nombre": "Morbius",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 558,
@@ -1614,7 +1614,7 @@
     {
       "id": 670,
       "nombre": "DB-058",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 417,
@@ -2254,6 +2254,16 @@
     {
       "id": 694,
       "nombre": "DB-082",
+      "cantidad": 1
+    },
+    {
+      "id": 377,
+      "nombre": "harle",
+      "cantidad": 1
+    },
+    {
+      "id": 549,
+      "nombre": "T-1000",
       "cantidad": 1
     }
   ]

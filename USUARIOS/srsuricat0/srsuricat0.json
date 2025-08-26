@@ -34,7 +34,7 @@
         {
             "id": 303,
             "nombre": "Megatron",
-            "cantidad": 6
+            "cantidad": 7
         },
         {
             "id": 299,
@@ -99,7 +99,7 @@
         {
             "id": 1,
             "nombre": "30 30",
-            "cantidad": 7
+            "cantidad": 6
         },
         {
             "id": 94,
@@ -159,7 +159,7 @@
         {
             "id": 340,
             "nombre": "Poseidón",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 105,
@@ -1104,7 +1104,7 @@
         {
             "id": 5,
             "nombre": "Seiya de Pegaso",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 216,
@@ -1769,7 +1769,7 @@
         {
             "id": 554,
             "nombre": "HANSOLO-JAIL",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 363,
@@ -2034,7 +2034,7 @@
         {
             "id": 352,
             "nombre": "septimus",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 552,
@@ -2074,7 +2074,7 @@
         {
             "id": 537,
             "nombre": "BOLO-YEUNG",
-            "cantidad": 7
+            "cantidad": 8
         },
         {
             "id": 273,
@@ -3214,6 +3214,11 @@
         {
             "id": 30,
             "nombre": "Uni",
+            "cantidad": 1
+        },
+        {
+            "id": 524,
+            "nombre": "Capitán-Planeta",
             "cantidad": 1
         }
     ]

@@ -109,7 +109,7 @@
     {
       "id": 425,
       "nombre": "ocelot",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 83,
@@ -704,7 +704,7 @@
     {
       "id": 565,
       "nombre": "ANDRÉ-THE-GIANT",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 443,
@@ -1214,7 +1214,7 @@
     {
       "id": 181,
       "nombre": "Hydro man",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 574,
@@ -1244,7 +1244,7 @@
     {
       "id": 637,
       "nombre": "DB-025",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 389,
@@ -1439,6 +1439,16 @@
     {
       "id": 699,
       "nombre": "DB-087",
+      "cantidad": 1
+    },
+    {
+      "id": 721,
+      "nombre": "DB-109",
+      "cantidad": 1
+    },
+    {
+      "id": 260,
+      "nombre": "Princesa Luna",
       "cantidad": 1
     }
   ]

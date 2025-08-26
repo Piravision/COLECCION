@@ -1824,7 +1824,7 @@
     {
       "id": 472,
       "nombre": "grey",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 582,
@@ -2049,7 +2049,7 @@
     {
       "id": 560,
       "nombre": "MACGYVER-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 646,
@@ -2374,6 +2374,11 @@
     {
       "id": 81,
       "nombre": "vearn",
+      "cantidad": 1
+    },
+    {
+      "id": 324,
+      "nombre": "Wolverine",
       "cantidad": 1
     }
   ]
