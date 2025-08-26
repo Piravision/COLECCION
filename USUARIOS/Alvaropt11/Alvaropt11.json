@@ -729,7 +729,7 @@
         {
             "id": 588,
             "nombre": "FRANZ-SCHESTER",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 354,
@@ -1669,6 +1669,11 @@
         {
             "id": 554,
             "nombre": "HANSOLO-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 608,
+            "nombre": "SHUN-NITTA",
             "cantidad": 1
         }
     ]
