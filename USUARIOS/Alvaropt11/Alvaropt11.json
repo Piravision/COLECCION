@@ -684,7 +684,7 @@
         {
             "id": 566,
             "nombre": "BIG-BOSSMAN",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 543,
@@ -1799,6 +1799,11 @@
         {
             "id": 419,
             "nombre": "lquid",
+            "cantidad": 1
+        },
+        {
+            "id": 567,
+            "nombre": "JAKE-ROBERTS",
             "cantidad": 1
         }
     ]

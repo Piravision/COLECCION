@@ -2224,7 +2224,7 @@
         {
             "id": 567,
             "nombre": "JAKE-ROBERTS",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 671,
@@ -2834,6 +2834,11 @@
         {
             "id": 742,
             "nombre": "Dark Saga",
+            "cantidad": 1
+        },
+        {
+            "id": 566,
+            "nombre": "BIG-BOSSMAN",
             "cantidad": 1
         }
     ]
