@@ -89,7 +89,7 @@
     {
       "id": 9,
       "nombre": "Rhadamanthys",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 226,
@@ -824,7 +824,7 @@
     {
       "id": 418,
       "nombre": "grayfox2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 87,
@@ -2869,6 +2869,11 @@
     {
       "id": 504,
       "nombre": "HEICHAI",
+      "cantidad": 1
+    },
+    {
+      "id": 775,
+      "nombre": "yellow",
       "cantidad": 1
     }
   ]

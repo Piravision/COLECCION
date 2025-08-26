@@ -514,7 +514,7 @@
     {
       "id": 35,
       "nombre": "AVAN DRAGON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 497,
@@ -1289,7 +1289,7 @@
     {
       "id": 39,
       "nombre": "captain",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 533,
@@ -1394,6 +1394,11 @@
     {
       "id": 535,
       "nombre": "Venkman-Jail",
+      "cantidad": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Juez J. Bella",
       "cantidad": 1
     }
   ]
