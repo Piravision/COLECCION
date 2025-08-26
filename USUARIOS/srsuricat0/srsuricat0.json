@@ -1214,7 +1214,7 @@
     {
       "id": 148,
       "nombre": "Charlene _Charley_ Davidson",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 550,
@@ -1534,7 +1534,7 @@
     {
       "id": 558,
       "nombre": "LUKE-SKYWALKER-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 387,
@@ -2259,7 +2259,7 @@
     {
       "id": 500,
       "nombre": "shu",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 227,
@@ -3124,6 +3124,21 @@
     {
       "id": 730,
       "nombre": "DB-118",
+      "cantidad": 1
+    },
+    {
+      "id": 21,
+      "nombre": "Windfang",
+      "cantidad": 1
+    },
+    {
+      "id": 269,
+      "nombre": "Mona Lisa",
+      "cantidad": 1
+    },
+    {
+      "id": 627,
+      "nombre": "DB-015",
       "cantidad": 1
     }
   ]
