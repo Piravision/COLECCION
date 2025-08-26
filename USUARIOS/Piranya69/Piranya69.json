@@ -124,7 +124,7 @@
     {
       "id": 7,
       "nombre": "El Patriarca",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 128,
@@ -144,7 +144,7 @@
     {
       "id": 132,
       "nombre": "Skeletor",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 99,
@@ -329,7 +329,7 @@
     {
       "id": 381,
       "nombre": "pj Chrono cross",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 479,
@@ -364,7 +364,7 @@
     {
       "id": 297,
       "nombre": "Optimus Prime",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 305,
@@ -644,7 +644,7 @@
     {
       "id": 233,
       "nombre": "Mutant Tank",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 222,
@@ -754,7 +754,7 @@
     {
       "id": 10,
       "nombre": "Conan",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 235,
@@ -969,7 +969,7 @@
     {
       "id": 449,
       "nombre": "leon2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 205,
@@ -1479,7 +1479,7 @@
     {
       "id": 501,
       "nombre": "SOLON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 184,
@@ -1574,7 +1574,7 @@
     {
       "id": 550,
       "nombre": "AceVentura-JAIL",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 12,
@@ -1639,7 +1639,7 @@
     {
       "id": 548,
       "nombre": "Snake-Plissken",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 240,
@@ -2034,7 +2034,7 @@
     {
       "id": 634,
       "nombre": "DB-022",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 637,
@@ -2304,7 +2304,7 @@
     {
       "id": 641,
       "nombre": "DB-029",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 410,
@@ -2389,7 +2389,7 @@
     {
       "id": 608,
       "nombre": "SHUN-NITTA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 333,
@@ -2634,7 +2634,7 @@
     {
       "id": 615,
       "nombre": "DB-003",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 149,
@@ -2719,7 +2719,7 @@
     {
       "id": 57,
       "nombre": "pop",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 721,
@@ -2779,7 +2779,7 @@
     {
       "id": 746,
       "nombre": "Deathmask-de-Cancer",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 594,
@@ -2859,6 +2859,16 @@
     {
       "id": 635,
       "nombre": "DB-023",
+      "cantidad": 1
+    },
+    {
+      "id": 703,
+      "nombre": "DB-091",
+      "cantidad": 1
+    },
+    {
+      "id": 504,
+      "nombre": "HEICHAI",
       "cantidad": 1
     }
   ]

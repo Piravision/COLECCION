@@ -419,7 +419,7 @@
     {
       "id": 368,
       "nombre": "DRACULA1",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 441,
@@ -474,6 +474,16 @@
     {
       "id": 591,
       "nombre": "JAMES-DERRICK",
+      "cantidad": 1
+    },
+    {
+      "id": 641,
+      "nombre": "DB-029",
+      "cantidad": 1
+    },
+    {
+      "id": 673,
+      "nombre": "DB-061",
       "cantidad": 1
     }
   ]
