@@ -397,7 +397,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de Archah</h2>
-                <span>Cartas obtenidas: 113 / 777</span>
+                <span>Cartas obtenidas: 115 / 777</span>
             </div>
             
             <div class="details">
@@ -405,6 +405,11 @@
                     <div class="summary-grid-container">
     <h2>Resumen por Serie</h2>
 					<div class="summary-grid">
+						
+							<div class="summary-button" onclick="mostrarCartas('BraveStarr')">
+								<img src="/COLECCION/botones/bravestarr.png" alt="BraveStarr" class="summary-button-image">
+								<span class="summary-button-counter">1 / 4</span>
+							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Caballeros del Zodiaco')">
 								<img src="/COLECCION/botones/caballeros-del-zodiaco.png" alt="Caballeros del Zodiaco" class="summary-button-image">
@@ -468,7 +473,7 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('JAIL-Edition')">
 								<img src="/COLECCION/botones/jail-edition.png" alt="JAIL-Edition" class="summary-button-image">
-								<span class="summary-button-counter">5 / 21</span>
+								<span class="summary-button-counter">6 / 21</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Metal Gear Solid')">
@@ -575,6 +580,30 @@
 				</div>
                     
                     <div id="cards-container">
+                        
+                            <div class="series-cards" id="series-BraveStarr" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>BraveStarr</h2>
+                                    <span>Cartas obtenidas: 1 / 4</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 2</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '2', 'Bravestarr'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/BraveStarr/HERO/Bravestarr(5-12-2023-20_0).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/BraveStarr/HERO/Bravestarr(5-12-2023-20_0).png" alt="Bravestarr">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Bravestarr (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
                         
                             <div class="series-cards" id="series-Caballeros-del-Zodiaco" style="display: none;">
                                 <div class="section-title-2">
@@ -1301,9 +1330,23 @@
                             <div class="series-cards" id="series-JAIL-Edition" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>JAIL-Edition</h2>
-                                    <span>Cartas obtenidas: 5 / 21</span>
+                                    <span>Cartas obtenidas: 6 / 21</span>
                                 </div>
                                 <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 533</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '533', 'Tony-Montana-Jail'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/JAIL-Edition/Scarface(12-8-2025-15_19).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/JAIL-Edition/Scarface(12-8-2025-15_19).png" alt="Tony-Montana-Jail">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Tony-Montana-Jail (x1)</h3>
+                                                <p>Rareza: Legendario</p>
+                                            </div>
+                                        </div>
                                     
                                         <div class="cromo-card">
                                             <span class="cromo-numero">Nº: 534</span>
@@ -1408,7 +1451,7 @@
                                                 </div>
                                             </a>
                                             <div class="cromo-details">
-                                                <h3>campb (x1)</h3>
+                                                <h3>campb (x2)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
