@@ -1,415 +1,430 @@
 {
-    "usuario": "Tandokan",
-    "cromos": [
-        {
-            "id": 295,
-            "nombre": "Ironhide",
-            "cantidad": 1
-        },
-        {
-            "id": 157,
-            "nombre": "Bluegrass",
-            "cantidad": 1
-        },
-        {
-            "id": 610,
-            "nombre": "TED-CARTER",
-            "cantidad": 1
-        },
-        {
-            "id": 476,
-            "nombre": "Kaufman",
-            "cantidad": 1
-        },
-        {
-            "id": 355,
-            "nombre": "bayur",
-            "cantidad": 1
-        },
-        {
-            "id": 337,
-            "nombre": "Ikki de Fénix",
-            "cantidad": 1
-        },
-        {
-            "id": 239,
-            "nombre": "Stridor",
-            "cantidad": 1
-        },
-        {
-            "id": 243,
-            "nombre": "Cheetara",
-            "cantidad": 1
-        },
-        {
-            "id": 109,
-            "nombre": "Cobra Commander",
-            "cantidad": 1
-        },
-        {
-            "id": 697,
-            "nombre": "DB-085",
-            "cantidad": 1
-        },
-        {
-            "id": 690,
-            "nombre": "DB-078",
-            "cantidad": 1
-        },
-        {
-            "id": 603,
-            "nombre": "PHILLIP-CALLAHAN",
-            "cantidad": 1
-        },
-        {
-            "id": 472,
-            "nombre": "grey",
-            "cantidad": 1
-        },
-        {
-            "id": 373,
-            "nombre": "SHAFT",
-            "cantidad": 1
-        },
-        {
-            "id": 26,
-            "nombre": "Eric",
-            "cantidad": 1
-        },
-        {
-            "id": 374,
-            "nombre": "Succubus",
-            "cantidad": 1
-        },
-        {
-            "id": 113,
-            "nombre": "Serpentor",
-            "cantidad": 1
-        },
-        {
-            "id": 369,
-            "nombre": "DRACULA2",
-            "cantidad": 1
-        },
-        {
-            "id": 321,
-            "nombre": "Quicksilver",
-            "cantidad": 1
-        },
-        {
-            "id": 425,
-            "nombre": "ocelot",
-            "cantidad": 1
-        },
-        {
-            "id": 591,
-            "nombre": "JAMES-DERRICK",
-            "cantidad": 1
-        },
-        {
-            "id": 508,
-            "nombre": "law",
-            "cantidad": 1
-        },
-        {
-            "id": 290,
-            "nombre": "Tokka",
-            "cantidad": 1
-        },
-        {
-            "id": 549,
-            "nombre": "T-1000",
-            "cantidad": 1
-        },
-        {
-            "id": 289,
-            "nombre": "Tokka",
-            "cantidad": 1
-        },
-        {
-            "id": 87,
-            "nombre": "Walter _Doc_ Hartford",
-            "cantidad": 1
-        },
-        {
-            "id": 235,
-            "nombre": "Punk Frogs",
-            "cantidad": 1
-        },
-        {
-            "id": 313,
-            "nombre": "Cable",
-            "cantidad": 1
-        },
-        {
-            "id": 281,
-            "nombre": "Granitor",
-            "cantidad": 1
-        },
-        {
-            "id": 211,
-            "nombre": "Anillo Serpiente",
-            "cantidad": 1
-        },
-        {
-            "id": 725,
-            "nombre": "DB-113",
-            "cantidad": 1
-        },
-        {
-            "id": 538,
-            "nombre": "BRUCE-LEE",
-            "cantidad": 1
-        },
-        {
-            "id": 187,
-            "nombre": "Rhyno",
-            "cantidad": 1
-        },
-        {
-            "id": 771,
-            "nombre": "rita",
-            "cantidad": 1
-        },
-        {
-            "id": 190,
-            "nombre": "Vandame-Bloodsport",
-            "cantidad": 1
-        },
-        {
-            "id": 99,
-            "nombre": "Demona",
-            "cantidad": 1
-        },
-        {
-            "id": 22,
-            "nombre": "Wrath Amon",
-            "cantidad": 1
-        },
-        {
-            "id": 773,
-            "nombre": "Squatt",
-            "cantidad": 1
-        },
-        {
-            "id": 772,
-            "nombre": "Rita-Repulsa",
-            "cantidad": 1
-        },
-        {
-            "id": 388,
-            "nombre": "koala2",
-            "cantidad": 1
-        },
-        {
-            "id": 552,
-            "nombre": "CHEWBACCA-JAIL",
-            "cantidad": 1
-        },
-        {
-            "id": 429,
-            "nombre": "sniper",
-            "cantidad": 1
-        },
-        {
-            "id": 303,
-            "nombre": "Megatron",
-            "cantidad": 1
-        },
-        {
-            "id": 123,
-            "nombre": "Sorceress",
-            "cantidad": 1
-        },
-        {
-            "id": 543,
-            "nombre": "DIE-HARD-III",
-            "cantidad": 1
-        },
-        {
-            "id": 768,
-            "nombre": "megazord",
-            "cantidad": 1
-        },
-        {
-            "id": 741,
-            "nombre": "Camus-de-Acuario",
-            "cantidad": 1
-        },
-        {
-            "id": 120,
-            "nombre": "Principe Adam",
-            "cantidad": 1
-        },
-        {
-            "id": 700,
-            "nombre": "DB-088",
-            "cantidad": 1
-        },
-        {
-            "id": 696,
-            "nombre": "DB-084",
-            "cantidad": 1
-        },
-        {
-            "id": 273,
-            "nombre": "Raphael",
-            "cantidad": 1
-        },
-        {
-            "id": 110,
-            "nombre": "Destro",
-            "cantidad": 2
-        },
-        {
-            "id": 600,
-            "nombre": "NATUREZA",
-            "cantidad": 1
-        },
-        {
-            "id": 718,
-            "nombre": "DB-106",
-            "cantidad": 1
-        },
-        {
-            "id": 351,
-            "nombre": "reaper",
-            "cantidad": 1
-        },
-        {
-            "id": 40,
-            "nombre": "chiu",
-            "cantidad": 1
-        },
-        {
-            "id": 140,
-            "nombre": "Mallory McMallard",
-            "cantidad": 1
-        },
-        {
-            "id": 241,
-            "nombre": "Thunder Tank",
-            "cantidad": 1
-        },
-        {
-            "id": 548,
-            "nombre": "Snake-Plissken",
-            "cantidad": 1
-        },
-        {
-            "id": 539,
-            "nombre": "BRUCE-LEE2",
-            "cantidad": 1
-        },
-        {
-            "id": 275,
-            "nombre": "Usagi Yojimbo",
-            "cantidad": 1
-        },
-        {
-            "id": 240,
-            "nombre": "Terror Drome",
-            "cantidad": 1
-        },
-        {
-            "id": 460,
-            "nombre": "miura",
-            "cantidad": 1
-        },
-        {
-            "id": 311,
-            "nombre": "Arcangel",
-            "cantidad": 1
-        },
-        {
-            "id": 535,
-            "nombre": "Venkman-Jail",
-            "cantidad": 1
-        },
-        {
-            "id": 95,
-            "nombre": "Hudson",
-            "cantidad": 1
-        },
-        {
-            "id": 753,
-            "nombre": "pandora",
-            "cantidad": 1
-        },
-        {
-            "id": 758,
-            "nombre": "Shaka-de-Virgo",
-            "cantidad": 1
-        },
-        {
-            "id": 632,
-            "nombre": "DB-020",
-            "cantidad": 1
-        },
-        {
-            "id": 398,
-            "nombre": "barret",
-            "cantidad": 1
-        },
-        {
-            "id": 640,
-            "nombre": "DB-028",
-            "cantidad": 1
-        },
-        {
-            "id": 304,
-            "nombre": "Runabout",
-            "cantidad": 1
-        },
-        {
-            "id": 545,
-            "nombre": "IVAN-DRAGO",
-            "cantidad": 1
-        },
-        {
-            "id": 542,
-            "nombre": "DIE-HARD",
-            "cantidad": 1
-        },
-        {
-            "id": 310,
-            "nombre": "Dan",
-            "cantidad": 1
-        },
-        {
-            "id": 114,
-            "nombre": "Storm Shadow",
-            "cantidad": 2
-        },
-        {
-            "id": 318,
-            "nombre": "Morpho",
-            "cantidad": 1
-        },
-        {
-            "id": 253,
-            "nombre": "Buitro",
-            "cantidad": 1
-        },
-        {
-            "id": 348,
-            "nombre": "Meia",
-            "cantidad": 1
-        },
-        {
-            "id": 209,
-            "nombre": "Sovereign Rock Castle",
-            "cantidad": 1
-        },
-        {
-            "id": 506,
-            "nombre": "jin",
-            "cantidad": 1
-        },
-        {
-            "id": 589,
-            "nombre": "GENTILE-SALVATORE",
-            "cantidad": 1
-        }
-    ]
+  "usuario": "Tandokan",
+  "cromos": [
+    {
+      "id": 295,
+      "nombre": "Ironhide",
+      "cantidad": 1
+    },
+    {
+      "id": 157,
+      "nombre": "Bluegrass",
+      "cantidad": 1
+    },
+    {
+      "id": 610,
+      "nombre": "TED-CARTER",
+      "cantidad": 1
+    },
+    {
+      "id": 476,
+      "nombre": "Kaufman",
+      "cantidad": 1
+    },
+    {
+      "id": 355,
+      "nombre": "bayur",
+      "cantidad": 1
+    },
+    {
+      "id": 337,
+      "nombre": "Ikki de Fénix",
+      "cantidad": 1
+    },
+    {
+      "id": 239,
+      "nombre": "Stridor",
+      "cantidad": 1
+    },
+    {
+      "id": 243,
+      "nombre": "Cheetara",
+      "cantidad": 1
+    },
+    {
+      "id": 109,
+      "nombre": "Cobra Commander",
+      "cantidad": 1
+    },
+    {
+      "id": 697,
+      "nombre": "DB-085",
+      "cantidad": 1
+    },
+    {
+      "id": 690,
+      "nombre": "DB-078",
+      "cantidad": 1
+    },
+    {
+      "id": 603,
+      "nombre": "PHILLIP-CALLAHAN",
+      "cantidad": 1
+    },
+    {
+      "id": 472,
+      "nombre": "grey",
+      "cantidad": 1
+    },
+    {
+      "id": 373,
+      "nombre": "SHAFT",
+      "cantidad": 1
+    },
+    {
+      "id": 26,
+      "nombre": "Eric",
+      "cantidad": 1
+    },
+    {
+      "id": 374,
+      "nombre": "Succubus",
+      "cantidad": 1
+    },
+    {
+      "id": 113,
+      "nombre": "Serpentor",
+      "cantidad": 1
+    },
+    {
+      "id": 369,
+      "nombre": "DRACULA2",
+      "cantidad": 1
+    },
+    {
+      "id": 321,
+      "nombre": "Quicksilver",
+      "cantidad": 1
+    },
+    {
+      "id": 425,
+      "nombre": "ocelot",
+      "cantidad": 1
+    },
+    {
+      "id": 591,
+      "nombre": "JAMES-DERRICK",
+      "cantidad": 1
+    },
+    {
+      "id": 508,
+      "nombre": "law",
+      "cantidad": 1
+    },
+    {
+      "id": 290,
+      "nombre": "Tokka",
+      "cantidad": 1
+    },
+    {
+      "id": 549,
+      "nombre": "T-1000",
+      "cantidad": 1
+    },
+    {
+      "id": 289,
+      "nombre": "Tokka",
+      "cantidad": 1
+    },
+    {
+      "id": 87,
+      "nombre": "Walter _Doc_ Hartford",
+      "cantidad": 1
+    },
+    {
+      "id": 235,
+      "nombre": "Punk Frogs",
+      "cantidad": 1
+    },
+    {
+      "id": 313,
+      "nombre": "Cable",
+      "cantidad": 1
+    },
+    {
+      "id": 281,
+      "nombre": "Granitor",
+      "cantidad": 1
+    },
+    {
+      "id": 211,
+      "nombre": "Anillo Serpiente",
+      "cantidad": 1
+    },
+    {
+      "id": 725,
+      "nombre": "DB-113",
+      "cantidad": 1
+    },
+    {
+      "id": 538,
+      "nombre": "BRUCE-LEE",
+      "cantidad": 1
+    },
+    {
+      "id": 187,
+      "nombre": "Rhyno",
+      "cantidad": 1
+    },
+    {
+      "id": 771,
+      "nombre": "rita",
+      "cantidad": 1
+    },
+    {
+      "id": 190,
+      "nombre": "Vandame-Bloodsport",
+      "cantidad": 1
+    },
+    {
+      "id": 99,
+      "nombre": "Demona",
+      "cantidad": 1
+    },
+    {
+      "id": 22,
+      "nombre": "Wrath Amon",
+      "cantidad": 1
+    },
+    {
+      "id": 773,
+      "nombre": "Squatt",
+      "cantidad": 1
+    },
+    {
+      "id": 772,
+      "nombre": "Rita-Repulsa",
+      "cantidad": 1
+    },
+    {
+      "id": 388,
+      "nombre": "koala2",
+      "cantidad": 1
+    },
+    {
+      "id": 552,
+      "nombre": "CHEWBACCA-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 429,
+      "nombre": "sniper",
+      "cantidad": 1
+    },
+    {
+      "id": 303,
+      "nombre": "Megatron",
+      "cantidad": 1
+    },
+    {
+      "id": 123,
+      "nombre": "Sorceress",
+      "cantidad": 1
+    },
+    {
+      "id": 543,
+      "nombre": "DIE-HARD-III",
+      "cantidad": 1
+    },
+    {
+      "id": 768,
+      "nombre": "megazord",
+      "cantidad": 1
+    },
+    {
+      "id": 741,
+      "nombre": "Camus-de-Acuario",
+      "cantidad": 1
+    },
+    {
+      "id": 120,
+      "nombre": "Principe Adam",
+      "cantidad": 1
+    },
+    {
+      "id": 700,
+      "nombre": "DB-088",
+      "cantidad": 1
+    },
+    {
+      "id": 696,
+      "nombre": "DB-084",
+      "cantidad": 1
+    },
+    {
+      "id": 273,
+      "nombre": "Raphael",
+      "cantidad": 1
+    },
+    {
+      "id": 110,
+      "nombre": "Destro",
+      "cantidad": 2
+    },
+    {
+      "id": 600,
+      "nombre": "NATUREZA",
+      "cantidad": 1
+    },
+    {
+      "id": 718,
+      "nombre": "DB-106",
+      "cantidad": 1
+    },
+    {
+      "id": 351,
+      "nombre": "reaper",
+      "cantidad": 1
+    },
+    {
+      "id": 40,
+      "nombre": "chiu",
+      "cantidad": 1
+    },
+    {
+      "id": 140,
+      "nombre": "Mallory McMallard",
+      "cantidad": 1
+    },
+    {
+      "id": 241,
+      "nombre": "Thunder Tank",
+      "cantidad": 1
+    },
+    {
+      "id": 548,
+      "nombre": "Snake-Plissken",
+      "cantidad": 1
+    },
+    {
+      "id": 539,
+      "nombre": "BRUCE-LEE2",
+      "cantidad": 1
+    },
+    {
+      "id": 275,
+      "nombre": "Usagi Yojimbo",
+      "cantidad": 1
+    },
+    {
+      "id": 240,
+      "nombre": "Terror Drome",
+      "cantidad": 1
+    },
+    {
+      "id": 460,
+      "nombre": "miura",
+      "cantidad": 1
+    },
+    {
+      "id": 311,
+      "nombre": "Arcangel",
+      "cantidad": 1
+    },
+    {
+      "id": 535,
+      "nombre": "Venkman-Jail",
+      "cantidad": 1
+    },
+    {
+      "id": 95,
+      "nombre": "Hudson",
+      "cantidad": 1
+    },
+    {
+      "id": 753,
+      "nombre": "pandora",
+      "cantidad": 1
+    },
+    {
+      "id": 758,
+      "nombre": "Shaka-de-Virgo",
+      "cantidad": 1
+    },
+    {
+      "id": 632,
+      "nombre": "DB-020",
+      "cantidad": 1
+    },
+    {
+      "id": 398,
+      "nombre": "barret",
+      "cantidad": 1
+    },
+    {
+      "id": 640,
+      "nombre": "DB-028",
+      "cantidad": 1
+    },
+    {
+      "id": 304,
+      "nombre": "Runabout",
+      "cantidad": 1
+    },
+    {
+      "id": 545,
+      "nombre": "IVAN-DRAGO",
+      "cantidad": 1
+    },
+    {
+      "id": 542,
+      "nombre": "DIE-HARD",
+      "cantidad": 1
+    },
+    {
+      "id": 310,
+      "nombre": "Dan",
+      "cantidad": 1
+    },
+    {
+      "id": 114,
+      "nombre": "Storm Shadow",
+      "cantidad": 2
+    },
+    {
+      "id": 318,
+      "nombre": "Morpho",
+      "cantidad": 1
+    },
+    {
+      "id": 253,
+      "nombre": "Buitro",
+      "cantidad": 1
+    },
+    {
+      "id": 348,
+      "nombre": "Meia",
+      "cantidad": 1
+    },
+    {
+      "id": 209,
+      "nombre": "Sovereign Rock Castle",
+      "cantidad": 1
+    },
+    {
+      "id": 506,
+      "nombre": "jin",
+      "cantidad": 1
+    },
+    {
+      "id": 589,
+      "nombre": "GENTILE-SALVATORE",
+      "cantidad": 1
+    },
+    {
+      "id": 197,
+      "nombre": "Rox",
+      "cantidad": 1
+    },
+    {
+      "id": 79,
+      "nombre": "pororo",
+      "cantidad": 1
+    },
+    {
+      "id": 664,
+      "nombre": "DB-052",
+      "cantidad": 1
+    }
+  ]
 }

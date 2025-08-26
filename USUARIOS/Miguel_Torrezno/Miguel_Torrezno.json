@@ -159,7 +159,7 @@
     {
       "id": 327,
       "nombre": "Dientes de Sable",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 81,
@@ -274,7 +274,7 @@
     {
       "id": 36,
       "nombre": "baduck",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 263,
@@ -459,7 +459,7 @@
     {
       "id": 326,
       "nombre": "Blob",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 84,
@@ -979,7 +979,7 @@
     {
       "id": 301,
       "nombre": "Astrotrain",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 530,
@@ -1014,7 +1014,7 @@
     {
       "id": 185,
       "nombre": "Morbius",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 476,
@@ -1149,12 +1149,12 @@
     {
       "id": 630,
       "nombre": "DB-018",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 368,
       "nombre": "DRACULA1",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 507,
@@ -1169,7 +1169,7 @@
     {
       "id": 556,
       "nombre": "LEIA-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 695,
@@ -1379,7 +1379,7 @@
     {
       "id": 61,
       "nombre": "Borahorn",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 494,
@@ -1539,6 +1539,31 @@
     {
       "id": 386,
       "nombre": "CROMO PERSONAJE",
+      "cantidad": 1
+    },
+    {
+      "id": 76,
+      "nombre": "masopho",
+      "cantidad": 2
+    },
+    {
+      "id": 115,
+      "nombre": "Zartan",
+      "cantidad": 1
+    },
+    {
+      "id": 541,
+      "nombre": "COBRA-1986",
+      "cantidad": 1
+    },
+    {
+      "id": 207,
+      "nombre": "Slobster",
+      "cantidad": 1
+    },
+    {
+      "id": 264,
+      "nombre": "Donatello",
       "cantidad": 1
     }
   ]

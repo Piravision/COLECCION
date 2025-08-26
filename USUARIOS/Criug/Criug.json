@@ -654,7 +654,7 @@
         {
             "id": 522,
             "nombre": "lara",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 424,
@@ -1274,7 +1274,7 @@
         {
             "id": 477,
             "nombre": "mumb",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 341,
@@ -1804,7 +1804,7 @@
         {
             "id": 646,
             "nombre": "DB-034",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 346,
@@ -2129,7 +2129,7 @@
         {
             "id": 677,
             "nombre": "DB-065",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 742,
@@ -2224,6 +2224,26 @@
         {
             "id": 27,
             "nombre": "Hank",
+            "cantidad": 1
+        },
+        {
+            "id": 423,
+            "nombre": "meryl2",
+            "cantidad": 1
+        },
+        {
+            "id": 367,
+            "nombre": "BEMONT",
+            "cantidad": 1
+        },
+        {
+            "id": 541,
+            "nombre": "COBRA-1986",
+            "cantidad": 1
+        },
+        {
+            "id": 528,
+            "nombre": "Fénix-Oscura",
             "cantidad": 1
         }
     ]
