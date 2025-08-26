@@ -309,7 +309,7 @@
     {
       "id": 110,
       "nombre": "Destro",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 288,
@@ -469,7 +469,7 @@
     {
       "id": 114,
       "nombre": "Storm Shadow",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 450,
@@ -1789,6 +1789,11 @@
     {
       "id": 229,
       "nombre": "Last Chance Garage",
+      "cantidad": 1
+    },
+    {
+      "id": 157,
+      "nombre": "Bluegrass",
       "cantidad": 1
     }
   ]
