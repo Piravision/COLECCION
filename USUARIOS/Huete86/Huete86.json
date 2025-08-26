@@ -324,7 +324,7 @@
     {
       "id": 310,
       "nombre": "Dan",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 74,
@@ -2419,6 +2419,16 @@
     {
       "id": 14,
       "nombre": "Snagg",
+      "cantidad": 1
+    },
+    {
+      "id": 202,
+      "nombre": "Killamari",
+      "cantidad": 1
+    },
+    {
+      "id": 630,
+      "nombre": "DB-018",
       "cantidad": 1
     }
   ]

@@ -1254,7 +1254,7 @@
     {
       "id": 132,
       "nombre": "Skeletor",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 319,
@@ -2144,7 +2144,7 @@
     {
       "id": 360,
       "nombre": "stung",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 454,
@@ -2404,7 +2404,7 @@
     {
       "id": 446,
       "nombre": "CUERVOS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 444,
@@ -2654,7 +2654,7 @@
     {
       "id": 434,
       "nombre": "vulcan",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 691,
@@ -3199,6 +3199,16 @@
     {
       "id": 677,
       "nombre": "DB-065",
+      "cantidad": 1
+    },
+    {
+      "id": 723,
+      "nombre": "DB-111",
+      "cantidad": 1
+    },
+    {
+      "id": 631,
+      "nombre": "DB-019",
       "cantidad": 1
     }
   ]

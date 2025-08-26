@@ -1549,7 +1549,7 @@
         {
             "id": 763,
             "nombre": "black",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 539,
@@ -1824,6 +1824,16 @@
         {
             "id": 549,
             "nombre": "T-1000",
+            "cantidad": 1
+        },
+        {
+            "id": 703,
+            "nombre": "DB-091",
+            "cantidad": 1
+        },
+        {
+            "id": 10,
+            "nombre": "Conan",
             "cantidad": 1
         }
     ]
