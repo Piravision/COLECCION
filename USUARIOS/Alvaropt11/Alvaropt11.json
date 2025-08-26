@@ -1549,7 +1549,7 @@
         {
             "id": 763,
             "nombre": "black",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 539,
@@ -1834,6 +1834,11 @@
         {
             "id": 10,
             "nombre": "Conan",
+            "cantidad": 1
+        },
+        {
+            "id": 574,
+            "nombre": "UNDERTAKER",
             "cantidad": 1
         }
     ]
