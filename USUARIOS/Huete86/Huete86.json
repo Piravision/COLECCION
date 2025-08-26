@@ -479,7 +479,7 @@
     {
       "id": 434,
       "nombre": "vulcan",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 335,
@@ -1149,7 +1149,7 @@
     {
       "id": 247,
       "nombre": "Linx O",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 46,
@@ -1379,7 +1379,7 @@
     {
       "id": 461,
       "nombre": "Stalone-RamboIII",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 373,
@@ -1709,7 +1709,7 @@
     {
       "id": 696,
       "nombre": "DB-084",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 584,
@@ -2309,6 +2309,16 @@
     {
       "id": 45,
       "nombre": "garuda",
+      "cantidad": 1
+    },
+    {
+      "id": 400,
+      "nombre": "cid",
+      "cantidad": 1
+    },
+    {
+      "id": 750,
+      "nombre": "Milo-de-Escorpio",
       "cantidad": 1
     }
   ]

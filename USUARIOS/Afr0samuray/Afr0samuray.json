@@ -49,7 +49,7 @@
     {
       "id": 147,
       "nombre": "Carbine",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 71,
@@ -244,7 +244,7 @@
     {
       "id": 315,
       "nombre": "Emma Frost",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 92,
@@ -814,7 +814,7 @@
     {
       "id": 487,
       "nombre": "Jacques",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 144,
@@ -1604,7 +1604,7 @@
     {
       "id": 566,
       "nombre": "BIG-BOSSMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 375,
@@ -1654,7 +1654,7 @@
     {
       "id": 390,
       "nombre": "papu",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 266,
@@ -1779,6 +1779,26 @@
     {
       "id": 542,
       "nombre": "DIE-HARD",
+      "cantidad": 1
+    },
+    {
+      "id": 10,
+      "nombre": "Conan",
+      "cantidad": 1
+    },
+    {
+      "id": 262,
+      "nombre": "April O'Neil",
+      "cantidad": 1
+    },
+    {
+      "id": 318,
+      "nombre": "Morpho",
+      "cantidad": 1
+    },
+    {
+      "id": 626,
+      "nombre": "DB-014",
       "cantidad": 1
     }
   ]

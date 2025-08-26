@@ -614,7 +614,7 @@
     {
       "id": 113,
       "nombre": "Serpentor",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 406,
@@ -694,7 +694,7 @@
     {
       "id": 476,
       "nombre": "Kaufman",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 366,
@@ -854,12 +854,12 @@
     {
       "id": 266,
       "nombre": "Leonardo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 200,
       "nombre": "Swordo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 296,
@@ -1449,7 +1449,7 @@
     {
       "id": 404,
       "nombre": "sefirot",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 98,
@@ -2089,7 +2089,7 @@
     {
       "id": 127,
       "nombre": "Evil Lyn",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 462,
@@ -2199,7 +2199,7 @@
     {
       "id": 670,
       "nombre": "DB-058",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 574,
@@ -2774,6 +2774,16 @@
     {
       "id": 36,
       "nombre": "baduck",
+      "cantidad": 1
+    },
+    {
+      "id": 746,
+      "nombre": "Deathmask-de-Cancer",
+      "cantidad": 1
+    },
+    {
+      "id": 594,
+      "nombre": "JUAN-DIAZ",
       "cantidad": 1
     }
   ]
