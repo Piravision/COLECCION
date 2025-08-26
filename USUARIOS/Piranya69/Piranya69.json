@@ -154,7 +154,7 @@
     {
       "id": 54,
       "nombre": "merle",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 405,
@@ -394,7 +394,7 @@
     {
       "id": 379,
       "nombre": "lynx",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 301,
@@ -464,7 +464,7 @@
     {
       "id": 420,
       "nombre": "mei",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 302,
@@ -1059,7 +1059,7 @@
     {
       "id": 311,
       "nombre": "Arcangel",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 92,
@@ -1104,7 +1104,7 @@
     {
       "id": 106,
       "nombre": "Scarlett",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 522,
@@ -1119,7 +1119,7 @@
     {
       "id": 533,
       "nombre": "Tony-Montana-Jail",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 135,
@@ -1234,7 +1234,7 @@
     {
       "id": 534,
       "nombre": "T800-Jail",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 331,
@@ -1259,7 +1259,7 @@
     {
       "id": 208,
       "nombre": "Tentakill",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 414,
@@ -1269,7 +1269,7 @@
     {
       "id": 513,
       "nombre": "DISCÍPULOS-DE-AVAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 194,
@@ -1369,7 +1369,7 @@
     {
       "id": 207,
       "nombre": "Slobster",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 284,
@@ -1609,12 +1609,12 @@
     {
       "id": 561,
       "nombre": "MARIO-JAIL",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 537,
       "nombre": "BOLO-YEUNG",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 339,
@@ -1659,7 +1659,7 @@
     {
       "id": 440,
       "nombre": "scrabs",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 377,
@@ -1919,7 +1919,7 @@
     {
       "id": 552,
       "nombre": "CHEWBACCA-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 454,
@@ -1959,7 +1959,7 @@
     {
       "id": 2,
       "nombre": "Bravestarr",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 341,
@@ -2119,7 +2119,7 @@
     {
       "id": 672,
       "nombre": "DB-060",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 392,
@@ -2169,7 +2169,7 @@
     {
       "id": 148,
       "nombre": "Charlene _Charley_ Davidson",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 267,
@@ -2244,7 +2244,7 @@
     {
       "id": 616,
       "nombre": "DB-004",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 408,
@@ -2489,7 +2489,7 @@
     {
       "id": 650,
       "nombre": "DB-038",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 757,
@@ -2539,7 +2539,7 @@
     {
       "id": 624,
       "nombre": "DB-012",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 206,
@@ -2784,6 +2784,41 @@
     {
       "id": 594,
       "nombre": "JUAN-DIAZ",
+      "cantidad": 1
+    },
+    {
+      "id": 586,
+      "nombre": "ED-WARNER",
+      "cantidad": 1
+    },
+    {
+      "id": 234,
+      "nombre": "Nueva Texas",
+      "cantidad": 1
+    },
+    {
+      "id": 274,
+      "nombre": "Ray Fillet",
+      "cantidad": 1
+    },
+    {
+      "id": 428,
+      "nombre": "psyco2",
+      "cantidad": 1
+    },
+    {
+      "id": 271,
+      "nombre": "Neutrinos",
+      "cantidad": 1
+    },
+    {
+      "id": 726,
+      "nombre": "DB-114",
+      "cantidad": 1
+    },
+    {
+      "id": 103,
+      "nombre": "Gung Ho",
       "cantidad": 1
     }
   ]

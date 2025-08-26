@@ -484,7 +484,7 @@
     {
       "id": 109,
       "nombre": "Cobra Commander",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 263,
@@ -669,7 +669,7 @@
     {
       "id": 297,
       "nombre": "Optimus Prime",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 354,
@@ -714,7 +714,7 @@
     {
       "id": 21,
       "nombre": "Windfang",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 292,
@@ -749,7 +749,7 @@
     {
       "id": 18,
       "nombre": "Mesmira",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 370,
@@ -804,7 +804,7 @@
     {
       "id": 134,
       "nombre": "Tri Klops",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 247,
@@ -949,7 +949,7 @@
     {
       "id": 235,
       "nombre": "Punk Frogs",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 363,
@@ -974,7 +974,7 @@
     {
       "id": 509,
       "nombre": "NINA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 52,
@@ -1029,7 +1029,7 @@
     {
       "id": 540,
       "nombre": "CHUCK-NORRIS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 428,
@@ -1154,7 +1154,7 @@
     {
       "id": 32,
       "nombre": "Venger",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 271,
@@ -1234,7 +1234,7 @@
     {
       "id": 387,
       "nombre": "Koala",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 83,
@@ -1404,7 +1404,7 @@
     {
       "id": 250,
       "nombre": "Snarf",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 206,
@@ -1499,7 +1499,7 @@
     {
       "id": 102,
       "nombre": "General Hawk",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 536,
@@ -1579,7 +1579,7 @@
     {
       "id": 241,
       "nombre": "Thunder Tank",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 666,
@@ -1799,6 +1799,106 @@
     {
       "id": 626,
       "nombre": "DB-014",
+      "cantidad": 1
+    },
+    {
+      "id": 522,
+      "nombre": "lara",
+      "cantidad": 1
+    },
+    {
+      "id": 667,
+      "nombre": "DB-055",
+      "cantidad": 1
+    },
+    {
+      "id": 534,
+      "nombre": "T800-Jail",
+      "cantidad": 1
+    },
+    {
+      "id": 761,
+      "nombre": "alpha5",
+      "cantidad": 1
+    },
+    {
+      "id": 440,
+      "nombre": "scrabs",
+      "cantidad": 1
+    },
+    {
+      "id": 661,
+      "nombre": "DB-049",
+      "cantidad": 1
+    },
+    {
+      "id": 401,
+      "nombre": "cloud",
+      "cantidad": 1
+    },
+    {
+      "id": 443,
+      "nombre": "ada",
+      "cantidad": 1
+    },
+    {
+      "id": 585,
+      "nombre": "DINO-HERNANDEZ",
+      "cantidad": 1
+    },
+    {
+      "id": 386,
+      "nombre": "CROMO PERSONAJE",
+      "cantidad": 1
+    },
+    {
+      "id": 107,
+      "nombre": "Snake Eyes",
+      "cantidad": 1
+    },
+    {
+      "id": 634,
+      "nombre": "DB-022",
+      "cantidad": 1
+    },
+    {
+      "id": 475,
+      "nombre": "Incubus",
+      "cantidad": 1
+    },
+    {
+      "id": 230,
+      "nombre": "Mansion X",
+      "cantidad": 1
+    },
+    {
+      "id": 565,
+      "nombre": "ANDRÉ-THE-GIANT",
+      "cantidad": 1
+    },
+    {
+      "id": 67,
+      "nombre": "flazzard3",
+      "cantidad": 1
+    },
+    {
+      "id": 131,
+      "nombre": "Scare Glow(",
+      "cantidad": 1
+    },
+    {
+      "id": 732,
+      "nombre": "DB-120",
+      "cantidad": 1
+    },
+    {
+      "id": 717,
+      "nombre": "DB-105",
+      "cantidad": 1
+    },
+    {
+      "id": 571,
+      "nombre": "RODY-PIPPER",
       "cantidad": 1
     }
   ]

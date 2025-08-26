@@ -9,7 +9,7 @@
     {
       "id": 366,
       "nombre": "alucard 2",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 487,
@@ -29,7 +29,7 @@
     {
       "id": 86,
       "nombre": "Shane Gooseman",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 303,
@@ -99,12 +99,12 @@
     {
       "id": 1,
       "nombre": "30 30",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 94,
       "nombre": "Goliath",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 234,
@@ -124,7 +124,7 @@
     {
       "id": 484,
       "nombre": "Blowhard",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 507,
@@ -364,7 +364,7 @@
     {
       "id": 310,
       "nombre": "Dan",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 311,
@@ -444,7 +444,7 @@
     {
       "id": 404,
       "nombre": "sefirot",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 498,
@@ -654,7 +654,7 @@
     {
       "id": 546,
       "nombre": "MARTY-MCFLY",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 262,
@@ -1044,7 +1044,7 @@
     {
       "id": 532,
       "nombre": "Sarah-Connor-Jail",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 296,
@@ -1069,7 +1069,7 @@
     {
       "id": 172,
       "nombre": "May Parker",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 371,
@@ -1124,7 +1124,7 @@
     {
       "id": 548,
       "nombre": "Snake-Plissken",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 237,
@@ -1179,7 +1179,7 @@
     {
       "id": 136,
       "nombre": "Mazinger Z",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 31,
@@ -1304,7 +1304,7 @@
     {
       "id": 274,
       "nombre": "Ray Fillet",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 505,
@@ -1454,7 +1454,7 @@
     {
       "id": 120,
       "nombre": "Principe Adam",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 92,
@@ -1484,7 +1484,7 @@
     {
       "id": 326,
       "nombre": "Blob",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 539,
@@ -1804,7 +1804,7 @@
     {
       "id": 281,
       "nombre": "Granitor",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 140,
@@ -2074,7 +2074,7 @@
     {
       "id": 537,
       "nombre": "BOLO-YEUNG",
-      "cantidad": 5
+      "cantidad": 7
     },
     {
       "id": 273,
@@ -2129,7 +2129,7 @@
     {
       "id": 130,
       "nombre": "Mer Man(",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 84,
@@ -2184,7 +2184,7 @@
     {
       "id": 347,
       "nombre": "Lizard",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 240,
@@ -2264,7 +2264,7 @@
     {
       "id": 227,
       "nombre": "Hawks Haven",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 58,
@@ -2424,7 +2424,7 @@
     {
       "id": 165,
       "nombre": "Daredevil",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 197,
@@ -2504,7 +2504,7 @@
     {
       "id": 451,
       "nombre": "perros",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 521,
@@ -2624,7 +2624,7 @@
     {
       "id": 589,
       "nombre": "GENTILE-SALVATORE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 623,
@@ -2699,7 +2699,7 @@
     {
       "id": 629,
       "nombre": "DB-017",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 587,
@@ -2804,7 +2804,7 @@
     {
       "id": 323,
       "nombre": "Tormenta",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 740,
@@ -2829,7 +2829,7 @@
     {
       "id": 678,
       "nombre": "DB-066",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 709,
@@ -3094,6 +3094,36 @@
     {
       "id": 645,
       "nombre": "DB-033",
+      "cantidad": 1
+    },
+    {
+      "id": 556,
+      "nombre": "LEIA-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 666,
+      "nombre": "DB-054",
+      "cantidad": 1
+    },
+    {
+      "id": 601,
+      "nombre": "OLIVER-ATOM",
+      "cantidad": 1
+    },
+    {
+      "id": 453,
+      "nombre": "tyrant",
+      "cantidad": 1
+    },
+    {
+      "id": 770,
+      "nombre": "red",
+      "cantidad": 1
+    },
+    {
+      "id": 730,
+      "nombre": "DB-118",
       "cantidad": 1
     }
   ]

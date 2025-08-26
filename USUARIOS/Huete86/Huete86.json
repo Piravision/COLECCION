@@ -64,7 +64,7 @@
     {
       "id": 7,
       "nombre": "El Patriarca",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 211,
@@ -149,7 +149,7 @@
     {
       "id": 9,
       "nombre": "Rhadamanthys",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 61,
@@ -374,7 +374,7 @@
     {
       "id": 239,
       "nombre": "Stridor",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 416,
@@ -399,7 +399,7 @@
     {
       "id": 197,
       "nombre": "Rox",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 150,
@@ -444,7 +444,7 @@
     {
       "id": 465,
       "nombre": "air",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 462,
@@ -569,7 +569,7 @@
     {
       "id": 114,
       "nombre": "Storm Shadow",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 77,
@@ -694,7 +694,7 @@
     {
       "id": 54,
       "nombre": "merle",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 62,
@@ -879,7 +879,7 @@
     {
       "id": 17,
       "nombre": "Guerrero Serpiente",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 361,
@@ -949,7 +949,7 @@
     {
       "id": 232,
       "nombre": "Mousers",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 219,
@@ -1024,7 +1024,7 @@
     {
       "id": 6,
       "nombre": "El Patriarca",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 29,
@@ -1194,7 +1194,7 @@
     {
       "id": 548,
       "nombre": "Snake-Plissken",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 564,
@@ -1224,7 +1224,7 @@
     {
       "id": 534,
       "nombre": "T800-Jail",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 401,
@@ -1334,7 +1334,7 @@
     {
       "id": 561,
       "nombre": "MARIO-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 155,
@@ -1449,7 +1449,7 @@
     {
       "id": 554,
       "nombre": "HANSOLO-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 556,
@@ -1539,7 +1539,7 @@
     {
       "id": 540,
       "nombre": "CHUCK-NORRIS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 720,
@@ -1564,7 +1564,7 @@
     {
       "id": 251,
       "nombre": "Tigro",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 454,
@@ -1594,7 +1594,7 @@
     {
       "id": 563,
       "nombre": "VADER-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 623,
@@ -1669,7 +1669,7 @@
     {
       "id": 571,
       "nombre": "RODY-PIPPER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 634,
@@ -1774,7 +1774,7 @@
     {
       "id": 628,
       "nombre": "DB-016",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 151,
@@ -1789,7 +1789,7 @@
     {
       "id": 544,
       "nombre": "DOC-BROWN",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 574,
@@ -1904,7 +1904,7 @@
     {
       "id": 763,
       "nombre": "black",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 298,
@@ -1949,12 +1949,12 @@
     {
       "id": 452,
       "nombre": "sherry",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 200,
       "nombre": "Swordo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 19,
@@ -1974,7 +1974,7 @@
     {
       "id": 776,
       "nombre": "zedd",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 453,
@@ -2159,12 +2159,12 @@
     {
       "id": 68,
       "nombre": "galdandy",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 668,
       "nombre": "DB-056",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 212,
@@ -2214,7 +2214,7 @@
     {
       "id": 262,
       "nombre": "April O'Neil",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 196,
@@ -2319,6 +2319,51 @@
     {
       "id": 750,
       "nombre": "Milo-de-Escorpio",
+      "cantidad": 1
+    },
+    {
+      "id": 669,
+      "nombre": "DB-057",
+      "cantidad": 1
+    },
+    {
+      "id": 622,
+      "nombre": "DB-010",
+      "cantidad": 1
+    },
+    {
+      "id": 44,
+      "nombre": "Fly",
+      "cantidad": 1
+    },
+    {
+      "id": 242,
+      "nombre": "Tiger Force",
+      "cantidad": 1
+    },
+    {
+      "id": 724,
+      "nombre": "DB-112",
+      "cantidad": 1
+    },
+    {
+      "id": 718,
+      "nombre": "DB-106",
+      "cantidad": 1
+    },
+    {
+      "id": 551,
+      "nombre": "BARRACUS-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 627,
+      "nombre": "DB-015",
+      "cantidad": 1
+    },
+    {
+      "id": 447,
+      "nombre": "hunk",
       "cantidad": 1
     }
   ]
