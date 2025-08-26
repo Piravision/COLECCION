@@ -1814,7 +1814,7 @@
         {
             "id": 555,
             "nombre": "INDIANA-JONES-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 436,
@@ -2679,6 +2679,11 @@
         {
             "id": 14,
             "nombre": "Snagg",
+            "cantidad": 1
+        },
+        {
+            "id": 556,
+            "nombre": "LEIA-JAIL",
             "cantidad": 1
         }
     ]

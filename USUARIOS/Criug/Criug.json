@@ -1524,7 +1524,7 @@
         {
             "id": 556,
             "nombre": "LEIA-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 85,
@@ -2064,6 +2064,11 @@
         {
             "id": 573,
             "nombre": "ULTIMATE-WARRIOR",
+            "cantidad": 1
+        },
+        {
+            "id": 555,
+            "nombre": "INDIANA-JONES-JAIL",
             "cantidad": 1
         }
     ]
