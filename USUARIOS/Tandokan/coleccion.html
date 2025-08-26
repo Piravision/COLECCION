@@ -397,7 +397,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de Tandokan</h2>
-                <span>Cartas obtenidas: 54 / 777</span>
+                <span>Cartas obtenidas: 57 / 777</span>
             </div>
             
             <div class="details">
@@ -405,6 +405,11 @@
                     <div class="summary-grid-container">
     <h2>Resumen por Serie</h2>
 					<div class="summary-grid">
+						
+							<div class="summary-button" onclick="mostrarCartas('Alundra')">
+								<img src="/COLECCION/botones/alundra.png" alt="Alundra" class="summary-button-image">
+								<span class="summary-button-counter">1 / 9</span>
+							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Bloody Roar')">
 								<img src="/COLECCION/botones/bloody-roar.png" alt="Bloody Roar" class="summary-button-image">
@@ -446,6 +451,11 @@
 								<span class="summary-button-counter">1 / 10</span>
 							</div>
 						
+							<div class="summary-button" onclick="mostrarCartas('Dragon Quest')">
+								<img src="/COLECCION/botones/dragon-quest.png" alt="Dragon Quest" class="summary-button-image">
+								<span class="summary-button-counter">1 / 57</span>
+							</div>
+						
 							<div class="summary-button" onclick="mostrarCartas('DragonBall CombatCards 92')">
 								<img src="/COLECCION/botones/dragonball-combatcards-92.png" alt="DragonBall CombatCards 92" class="summary-button-image">
 								<span class="summary-button-counter">6 / 121</span>
@@ -479,6 +489,11 @@
 							<div class="summary-button" onclick="mostrarCartas('Metal Gear Solid')">
 								<img src="/COLECCION/botones/metal-gear-solid.png" alt="Metal Gear Solid" class="summary-button-image">
 								<span class="summary-button-counter">2 / 24</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Mighty Ducks')">
+								<img src="/COLECCION/botones/mighty-ducks.png" alt="Mighty Ducks" class="summary-button-image">
+								<span class="summary-button-counter">1 / 8</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Power Rangers')">
@@ -540,6 +555,30 @@
 				</div>
                     
                     <div id="cards-container">
+                        
+                            <div class="series-cards" id="series-Alundra" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Alundra</h2>
+                                    <span>Cartas obtenidas: 1 / 9</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 351</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '351', 'reaper'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Alundra/PERSONAJE/reaper.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Alundra/PERSONAJE/reaper.png" alt="reaper">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>reaper (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
                         
                             <div class="series-cards" id="series-Bloody-Roar" style="display: none;">
                                 <div class="section-title-2">
@@ -797,6 +836,30 @@
                                             <div class="cromo-details">
                                                 <h3>Eric (x1)</h3>
                                                 <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Dragon-Quest" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Dragon Quest</h2>
+                                    <span>Cartas obtenidas: 1 / 57</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 40</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '40', 'chiu'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/HERO/chiu(25-3-2024-16_34).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/HERO/chiu(25-3-2024-16_34).png" alt="chiu">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>chiu (x1)</h3>
+                                                <p>Rareza: Raro</p>
                                             </div>
                                         </div>
                                     
@@ -1091,6 +1154,30 @@
                                             <div class="cromo-details">
                                                 <h3>sniper (x1)</h3>
                                                 <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Mighty-Ducks" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Mighty Ducks</h2>
+                                    <span>Cartas obtenidas: 1 / 8</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 140</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '140', 'Mallory McMallard'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Mighty Ducks/HERO/Mallory-McMallard(10-12-2023-23_12).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Mighty Ducks/HERO/Mallory-McMallard(10-12-2023-23_12).png" alt="Mallory McMallard">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Mallory McMallard (x1)</h3>
+                                                <p>Rareza: Raro</p>
                                             </div>
                                         </div>
                                     
