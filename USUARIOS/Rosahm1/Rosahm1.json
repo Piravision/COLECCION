@@ -74,7 +74,7 @@
     {
       "id": 123,
       "nombre": "Sorceress",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 258,
@@ -2294,6 +2294,11 @@
     {
       "id": 703,
       "nombre": "DB-091",
+      "cantidad": 2
+    },
+    {
+      "id": 772,
+      "nombre": "Rita-Repulsa",
       "cantidad": 1
     }
   ]
