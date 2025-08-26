@@ -194,7 +194,7 @@
         {
             "id": 27,
             "nombre": "Hank",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 175,
@@ -2409,6 +2409,11 @@
         {
             "id": 31,
             "nombre": "Tiamat",
+            "cantidad": 1
+        },
+        {
+            "id": 32,
+            "nombre": "Venger",
             "cantidad": 1
         }
     ]
