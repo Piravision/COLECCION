@@ -724,7 +724,7 @@
     {
       "id": 594,
       "nombre": "JUAN-DIAZ",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 375,
@@ -764,7 +764,7 @@
     {
       "id": 609,
       "nombre": "STEFAN-LEVI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 681,
@@ -859,6 +859,11 @@
     {
       "id": 469,
       "nombre": "Dahlia Gillespie",
+      "cantidad": 1
+    },
+    {
+      "id": 388,
+      "nombre": "koala2",
       "cantidad": 1
     }
   ]

@@ -149,7 +149,7 @@
     {
       "id": 9,
       "nombre": "Rhadamanthys",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 61,
@@ -229,7 +229,7 @@
     {
       "id": 331,
       "nombre": "Mente Maestra",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 276,
@@ -299,7 +299,7 @@
     {
       "id": 327,
       "nombre": "Dientes de Sable",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 72,
@@ -544,7 +544,7 @@
     {
       "id": 348,
       "nombre": "Meia",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 99,
@@ -2259,7 +2259,7 @@
     {
       "id": 184,
       "nombre": "Lizard",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 491,
@@ -2279,6 +2279,26 @@
     {
       "id": 772,
       "nombre": "Rita-Repulsa",
+      "cantidad": 1
+    },
+    {
+      "id": 681,
+      "nombre": "DB-069",
+      "cantidad": 1
+    },
+    {
+      "id": 265,
+      "nombre": "Leatherhead",
+      "cantidad": 1
+    },
+    {
+      "id": 525,
+      "nombre": "Cíclope",
+      "cantidad": 1
+    },
+    {
+      "id": 552,
+      "nombre": "CHEWBACCA-JAIL",
       "cantidad": 1
     }
   ]

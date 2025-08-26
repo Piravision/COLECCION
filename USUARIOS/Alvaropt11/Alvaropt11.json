@@ -74,7 +74,7 @@
     {
       "id": 536,
       "nombre": "Xena-Jail",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 365,
@@ -409,7 +409,7 @@
     {
       "id": 540,
       "nombre": "CHUCK-NORRIS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 12,
@@ -639,7 +639,7 @@
     {
       "id": 618,
       "nombre": "DB-006",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 542,
@@ -654,7 +654,7 @@
     {
       "id": 308,
       "nombre": "Starscream",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 438,
@@ -679,7 +679,7 @@
     {
       "id": 596,
       "nombre": "K.HEINZ-SCHENEIDER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 566,
@@ -829,7 +829,7 @@
     {
       "id": 260,
       "nombre": "Princesa Luna",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 544,
@@ -884,7 +884,7 @@
     {
       "id": 236,
       "nombre": "Shark Tank",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 493,
@@ -1189,7 +1189,7 @@
     {
       "id": 518,
       "nombre": "Tecmódromo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 163,
@@ -1404,7 +1404,7 @@
     {
       "id": 442,
       "nombre": "slig2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 103,
@@ -1439,7 +1439,7 @@
     {
       "id": 674,
       "nombre": "DB-062",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 84,
@@ -1479,7 +1479,7 @@
     {
       "id": 478,
       "nombre": "nurse",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 351,
@@ -1564,7 +1564,7 @@
     {
       "id": 77,
       "nombre": "Maximum",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 463,
@@ -1599,6 +1599,66 @@
     {
       "id": 512,
       "nombre": "Dimensión-X",
+      "cantidad": 1
+    },
+    {
+      "id": 376,
+      "nombre": "guile",
+      "cantidad": 1
+    },
+    {
+      "id": 546,
+      "nombre": "MARTY-MCFLY",
+      "cantidad": 1
+    },
+    {
+      "id": 654,
+      "nombre": "DB-042",
+      "cantidad": 1
+    },
+    {
+      "id": 525,
+      "nombre": "Cíclope",
+      "cantidad": 1
+    },
+    {
+      "id": 681,
+      "nombre": "DB-069",
+      "cantidad": 1
+    },
+    {
+      "id": 776,
+      "nombre": "zedd",
+      "cantidad": 1
+    },
+    {
+      "id": 251,
+      "nombre": "Tigro",
+      "cantidad": 1
+    },
+    {
+      "id": 472,
+      "nombre": "grey",
+      "cantidad": 1
+    },
+    {
+      "id": 753,
+      "nombre": "pandora",
+      "cantidad": 1
+    },
+    {
+      "id": 739,
+      "nombre": "Athenea",
+      "cantidad": 1
+    },
+    {
+      "id": 652,
+      "nombre": "DB-040",
+      "cantidad": 1
+    },
+    {
+      "id": 499,
+      "nombre": "seed",
       "cantidad": 1
     }
   ]

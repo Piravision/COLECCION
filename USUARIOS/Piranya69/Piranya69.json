@@ -24,7 +24,7 @@
     {
       "id": 174,
       "nombre": "Spiderman",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 117,
@@ -179,7 +179,7 @@
     {
       "id": 94,
       "nombre": "Goliath",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 168,
@@ -384,7 +384,7 @@
     {
       "id": 172,
       "nombre": "May Parker",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 427,
@@ -479,7 +479,7 @@
     {
       "id": 40,
       "nombre": "chiu",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 442,
@@ -489,7 +489,7 @@
     {
       "id": 393,
       "nombre": "Tawna",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 488,
@@ -674,7 +674,7 @@
     {
       "id": 93,
       "nombre": "Elisa Maza",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 344,
@@ -784,7 +784,7 @@
     {
       "id": 529,
       "nombre": "Mística",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 312,
@@ -959,7 +959,7 @@
     {
       "id": 532,
       "nombre": "Sarah-Connor-Jail",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 295,
@@ -1084,7 +1084,7 @@
     {
       "id": 413,
       "nombre": "campb",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 125,
@@ -1149,7 +1149,7 @@
     {
       "id": 417,
       "nombre": "grayfox",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 262,
@@ -1204,7 +1204,7 @@
     {
       "id": 389,
       "nombre": "neo cortex",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 515,
@@ -1329,7 +1329,7 @@
     {
       "id": 324,
       "nombre": "Wolverine",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 153,
@@ -1439,7 +1439,7 @@
     {
       "id": 203,
       "nombre": "Repteel",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 474,
@@ -1539,7 +1539,7 @@
     {
       "id": 131,
       "nombre": "Scare Glow(",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 329,
@@ -1569,12 +1569,12 @@
     {
       "id": 97,
       "nombre": "Armadura Xanatos",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 550,
       "nombre": "AceVentura-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 12,
@@ -1584,7 +1584,7 @@
     {
       "id": 133,
       "nombre": "Trap Jaw",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 524,
@@ -1679,7 +1679,7 @@
     {
       "id": 78,
       "nombre": "myse",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 326,
@@ -1764,7 +1764,7 @@
     {
       "id": 280,
       "nombre": "General Traag",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 34,
@@ -1814,7 +1814,7 @@
     {
       "id": 555,
       "nombre": "INDIANA-JONES-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 436,
@@ -2024,7 +2024,7 @@
     {
       "id": 473,
       "nombre": "harry",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 283,
@@ -2279,7 +2279,7 @@
     {
       "id": 676,
       "nombre": "DB-064",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 173,
@@ -2454,7 +2454,7 @@
     {
       "id": 48,
       "nombre": "Hyunckel",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 720,
@@ -2464,7 +2464,7 @@
     {
       "id": 563,
       "nombre": "VADER-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 416,
@@ -2509,7 +2509,7 @@
     {
       "id": 642,
       "nombre": "DB-030",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 619,
@@ -2699,6 +2699,61 @@
     {
       "id": 660,
       "nombre": "DB-048",
+      "cantidad": 1
+    },
+    {
+      "id": 348,
+      "nombre": "Meia",
+      "cantidad": 1
+    },
+    {
+      "id": 591,
+      "nombre": "JAMES-DERRICK",
+      "cantidad": 1
+    },
+    {
+      "id": 37,
+      "nombre": "brass",
+      "cantidad": 1
+    },
+    {
+      "id": 57,
+      "nombre": "pop",
+      "cantidad": 1
+    },
+    {
+      "id": 721,
+      "nombre": "DB-109",
+      "cantidad": 1
+    },
+    {
+      "id": 352,
+      "nombre": "septimus",
+      "cantidad": 1
+    },
+    {
+      "id": 18,
+      "nombre": "Mesmira",
+      "cantidad": 1
+    },
+    {
+      "id": 751,
+      "nombre": "Minos",
+      "cantidad": 1
+    },
+    {
+      "id": 669,
+      "nombre": "DB-057",
+      "cantidad": 1
+    },
+    {
+      "id": 290,
+      "nombre": "Tokka",
+      "cantidad": 1
+    },
+    {
+      "id": 593,
+      "nombre": "JOHNNY-MASON",
       "cantidad": 1
     }
   ]
