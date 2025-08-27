@@ -144,12 +144,12 @@
     {
       "id": 78,
       "nombre": "myse",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 530,
       "nombre": "Axel-Foley-Jail",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 545,
@@ -284,7 +284,7 @@
     {
       "id": 405,
       "nombre": "tifa",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 129,
@@ -409,7 +409,7 @@
     {
       "id": 540,
       "nombre": "CHUCK-NORRIS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 12,
@@ -799,7 +799,7 @@
     {
       "id": 571,
       "nombre": "RODY-PIPPER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 96,
@@ -974,7 +974,7 @@
     {
       "id": 647,
       "nombre": "DB-035",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 699,
@@ -1044,7 +1044,7 @@
     {
       "id": 773,
       "nombre": "Squatt",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 664,
@@ -1099,12 +1099,12 @@
     {
       "id": 532,
       "nombre": "Sarah-Connor-Jail",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 496,
       "nombre": "LUCA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 214,
@@ -1434,7 +1434,7 @@
     {
       "id": 602,
       "nombre": "PAUL-DIAMOND",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 674,
@@ -1519,7 +1519,7 @@
     {
       "id": 576,
       "nombre": "ALAN-CROCKET",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 625,
@@ -1609,7 +1609,7 @@
     {
       "id": 546,
       "nombre": "MARTY-MCFLY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 654,
@@ -1859,7 +1859,7 @@
     {
       "id": 270,
       "nombre": "Napoleon Bonafrog",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 59,
@@ -1874,7 +1874,7 @@
     {
       "id": 359,
       "nombre": "long",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 364,
@@ -1914,6 +1914,66 @@
     {
       "id": 33,
       "nombre": "Apollo",
+      "cantidad": 1
+    },
+    {
+      "id": 124,
+      "nombre": "Stratos",
+      "cantidad": 1
+    },
+    {
+      "id": 48,
+      "nombre": "Hyunckel",
+      "cantidad": 1
+    },
+    {
+      "id": 208,
+      "nombre": "Tentakill",
+      "cantidad": 1
+    },
+    {
+      "id": 727,
+      "nombre": "DB-115",
+      "cantidad": 1
+    },
+    {
+      "id": 629,
+      "nombre": "DB-017",
+      "cantidad": 1
+    },
+    {
+      "id": 356,
+      "nombre": "busuzima",
+      "cantidad": 1
+    },
+    {
+      "id": 458,
+      "nombre": "hinata",
+      "cantidad": 1
+    },
+    {
+      "id": 383,
+      "nombre": "viper",
+      "cantidad": 1
+    },
+    {
+      "id": 637,
+      "nombre": "DB-025",
+      "cantidad": 1
+    },
+    {
+      "id": 160,
+      "nombre": "Steelheart",
+      "cantidad": 1
+    },
+    {
+      "id": 332,
+      "nombre": "Mojo",
+      "cantidad": 1
+    },
+    {
+      "id": 271,
+      "nombre": "Neutrinos",
       "cantidad": 1
     }
   ]
