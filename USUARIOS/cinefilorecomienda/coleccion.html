@@ -397,7 +397,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de cinefilorecomienda</h2>
-                <span>Cartas obtenidas: 15 / 854</span>
+                <span>Cartas obtenidas: 17 / 854</span>
             </div>
             
             <div class="details">
@@ -421,6 +421,11 @@
 								<span class="summary-button-counter">1 / 11</span>
 							</div>
 						
+							<div class="summary-button" onclick="mostrarCartas('D&D')">
+								<img src="/COLECCION/botones/d&d.png" alt="D&D" class="summary-button-image">
+								<span class="summary-button-counter">1 / 10</span>
+							</div>
+						
 							<div class="summary-button" onclick="mostrarCartas('Dragon Quest')">
 								<img src="/COLECCION/botones/dragon-quest.png" alt="Dragon Quest" class="summary-button-image">
 								<span class="summary-button-counter">1 / 57</span>
@@ -434,6 +439,16 @@
 							<div class="summary-button" onclick="mostrarCartas('Heman')">
 								<img src="/COLECCION/botones/heman.png" alt="Heman" class="summary-button-image">
 								<span class="summary-button-counter">1 / 19</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Mortal Kombat')">
+								<img src="/COLECCION/botones/mortal-kombat.png" alt="Mortal Kombat" class="summary-button-image">
+								<span class="summary-button-counter">1 / 25</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Oddworld Abe Oddysee')">
+								<img src="/COLECCION/botones/oddworld-abe-oddysee.png" alt="Oddworld Abe Oddysee" class="summary-button-image">
+								<span class="summary-button-counter">1 / 7</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Spiderman')">
@@ -552,6 +567,30 @@
                                 </div>
                             </div>
                         
+                            <div class="series-cards" id="series-DandD" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>D&D</h2>
+                                    <span>Cartas obtenidas: 1 / 10</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 25</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '25', 'Diana'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/D&D/HERO/Diana(9-12-2023-3_31).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/D&D/HERO/Diana(9-12-2023-3_31).png" alt="Diana">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Diana (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
                             <div class="series-cards" id="series-Dragon-Quest" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Dragon Quest</h2>
@@ -645,6 +684,54 @@
                                             </a>
                                             <div class="cromo-details">
                                                 <h3>Faker (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Mortal-Kombat" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Mortal Kombat</h2>
+                                    <span>Cartas obtenidas: 1 / 25</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 827</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '827', 'STRYKER'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Mortal Kombat/STRYKER(27-8-2025-3_37).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Mortal Kombat/STRYKER(27-8-2025-3_37).png" alt="STRYKER">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>STRYKER (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Oddworld-Abe-Oddysee" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Oddworld Abe Oddysee</h2>
+                                    <span>Cartas obtenidas: 1 / 7</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 439</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '439', 'mudokons'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Oddworld Abes Oddysee/PERSONAJE/mudokons.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Oddworld Abes Oddysee/PERSONAJE/mudokons.png" alt="mudokons">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>mudokons (x1)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
