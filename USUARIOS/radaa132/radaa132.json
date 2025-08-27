@@ -9,7 +9,7 @@
     {
       "id": 401,
       "nombre": "cloud",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 189,
@@ -109,7 +109,7 @@
     {
       "id": 402,
       "nombre": "hojo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 265,
@@ -319,6 +319,101 @@
     {
       "id": 695,
       "nombre": "DB-083",
+      "cantidad": 1
+    },
+    {
+      "id": 319,
+      "nombre": "Profesor Xavier",
+      "cantidad": 1
+    },
+    {
+      "id": 600,
+      "nombre": "NATUREZA",
+      "cantidad": 1
+    },
+    {
+      "id": 337,
+      "nombre": "Ikki de Fénix",
+      "cantidad": 1
+    },
+    {
+      "id": 593,
+      "nombre": "JOHNNY-MASON",
+      "cantidad": 1
+    },
+    {
+      "id": 740,
+      "nombre": "Athenea2",
+      "cantidad": 1
+    },
+    {
+      "id": 686,
+      "nombre": "DB-074",
+      "cantidad": 1
+    },
+    {
+      "id": 343,
+      "nombre": "Flazzard 2",
+      "cantidad": 1
+    },
+    {
+      "id": 1,
+      "nombre": "30 30",
+      "cantidad": 1
+    },
+    {
+      "id": 237,
+      "nombre": "Sky Shadow",
+      "cantidad": 1
+    },
+    {
+      "id": 222,
+      "nombre": "Espada de Metal Estrella",
+      "cantidad": 1
+    },
+    {
+      "id": 491,
+      "nombre": "spyro2",
+      "cantidad": 1
+    },
+    {
+      "id": 386,
+      "nombre": "CROMO PERSONAJE",
+      "cantidad": 1
+    },
+    {
+      "id": 71,
+      "nombre": "herhero",
+      "cantidad": 1
+    },
+    {
+      "id": 123,
+      "nombre": "Sorceress",
+      "cantidad": 1
+    },
+    {
+      "id": 480,
+      "nombre": "Twinfeeler",
+      "cantidad": 1
+    },
+    {
+      "id": 116,
+      "nombre": "Cringer",
+      "cantidad": 1
+    },
+    {
+      "id": 404,
+      "nombre": "sefirot",
+      "cantidad": 1
+    },
+    {
+      "id": 239,
+      "nombre": "Stridor",
+      "cantidad": 1
+    },
+    {
+      "id": 340,
+      "nombre": "Poseidón",
       "cantidad": 1
     }
   ]

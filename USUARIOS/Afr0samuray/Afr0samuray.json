@@ -1334,7 +1334,7 @@
     {
       "id": 233,
       "nombre": "Mutant Tank",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 264,
@@ -1429,7 +1429,7 @@
     {
       "id": 321,
       "nombre": "Quicksilver",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 136,
@@ -1899,6 +1899,11 @@
     {
       "id": 571,
       "nombre": "RODY-PIPPER",
+      "cantidad": 1
+    },
+    {
+      "id": 361,
+      "nombre": "uriko",
       "cantidad": 1
     }
   ]

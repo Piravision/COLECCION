@@ -19,7 +19,7 @@
     {
       "id": 260,
       "nombre": "Princesa Luna",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 124,
@@ -34,7 +34,7 @@
     {
       "id": 229,
       "nombre": "Last Chance Garage",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 107,
@@ -409,7 +409,7 @@
     {
       "id": 542,
       "nombre": "DIE-HARD",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 140,
@@ -699,7 +699,7 @@
     {
       "id": 545,
       "nombre": "IVAN-DRAGO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 538,
@@ -734,7 +734,7 @@
     {
       "id": 125,
       "nombre": "Teela",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 251,
@@ -909,6 +909,41 @@
     {
       "id": 560,
       "nombre": "MACGYVER-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 692,
+      "nombre": "DB-080",
+      "cantidad": 1
+    },
+    {
+      "id": 291,
+      "nombre": "Zorax",
+      "cantidad": 1
+    },
+    {
+      "id": 120,
+      "nombre": "Principe Adam",
+      "cantidad": 1
+    },
+    {
+      "id": 345,
+      "nombre": "alundra",
+      "cantidad": 1
+    },
+    {
+      "id": 559,
+      "nombre": "MABARRACUS-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 616,
+      "nombre": "DB-004",
+      "cantidad": 1
+    },
+    {
+      "id": 601,
+      "nombre": "OLIVER-ATOM",
       "cantidad": 1
     }
   ]

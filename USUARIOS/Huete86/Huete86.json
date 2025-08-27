@@ -64,7 +64,7 @@
     {
       "id": 7,
       "nombre": "El Patriarca",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 211,
@@ -94,7 +94,7 @@
     {
       "id": 320,
       "nombre": "Psylocke",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 152,
@@ -124,7 +124,7 @@
     {
       "id": 143,
       "nombre": "Wildwing Flashblade",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 203,
@@ -664,7 +664,7 @@
     {
       "id": 245,
       "nombre": "Felino",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 382,
@@ -679,7 +679,7 @@
     {
       "id": 281,
       "nombre": "Granitor",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 391,
@@ -714,7 +714,7 @@
     {
       "id": 364,
       "nombre": "HulkHogan",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 505,
@@ -874,7 +874,7 @@
     {
       "id": 163,
       "nombre": "Ben Parker",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 17,
@@ -1049,7 +1049,7 @@
     {
       "id": 542,
       "nombre": "DIE-HARD",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 96,
@@ -1379,7 +1379,7 @@
     {
       "id": 461,
       "nombre": "Stalone-RamboIII",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 373,
@@ -1444,7 +1444,7 @@
     {
       "id": 367,
       "nombre": "BEMONT",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 554,
@@ -1529,7 +1529,7 @@
     {
       "id": 149,
       "nombre": "Modo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 137,
@@ -1559,7 +1559,7 @@
     {
       "id": 531,
       "nombre": "McClane-Jail",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 251,
@@ -1699,7 +1699,7 @@
     {
       "id": 507,
       "nombre": "KING",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 644,
@@ -1739,7 +1739,7 @@
     {
       "id": 395,
       "nombre": "DISCÍPULOS-DE-AVAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 422,
@@ -1814,7 +1814,7 @@
     {
       "id": 645,
       "nombre": "DB-033",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 605,
@@ -2429,6 +2429,36 @@
     {
       "id": 630,
       "nombre": "DB-018",
+      "cantidad": 1
+    },
+    {
+      "id": 652,
+      "nombre": "DB-040",
+      "cantidad": 1
+    },
+    {
+      "id": 526,
+      "nombre": "Júbilo",
+      "cantidad": 1
+    },
+    {
+      "id": 553,
+      "nombre": "GOKU-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 521,
+      "nombre": "León-O",
+      "cantidad": 1
+    },
+    {
+      "id": 60,
+      "nombre": "baran",
+      "cantidad": 1
+    },
+    {
+      "id": 758,
+      "nombre": "Shaka-de-Virgo",
       "cantidad": 1
     }
   ]
