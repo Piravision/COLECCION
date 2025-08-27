@@ -464,7 +464,7 @@
     {
       "id": 175,
       "nombre": "Buitre",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 173,
@@ -1909,7 +1909,7 @@
     {
       "id": 484,
       "nombre": "Blowhard",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 297,
@@ -2264,6 +2264,11 @@
     {
       "id": 549,
       "nombre": "T-1000",
+      "cantidad": 1
+    },
+    {
+      "id": 499,
+      "nombre": "seed",
       "cantidad": 1
     }
   ]

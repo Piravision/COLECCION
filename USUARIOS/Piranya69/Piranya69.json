@@ -34,7 +34,7 @@
     {
       "id": 8,
       "nombre": "Hades",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 256,
@@ -64,7 +64,7 @@
     {
       "id": 140,
       "nombre": "Mallory McMallard",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 150,
@@ -434,7 +434,7 @@
     {
       "id": 244,
       "nombre": "Felina",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 496,
@@ -1029,7 +1029,7 @@
     {
       "id": 80,
       "nombre": "robot",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 190,
@@ -1084,7 +1084,7 @@
     {
       "id": 413,
       "nombre": "campb",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 125,
@@ -1754,7 +1754,7 @@
     {
       "id": 572,
       "nombre": "Sgt.-SLAUGTHER",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 159,
@@ -2419,7 +2419,7 @@
     {
       "id": 636,
       "nombre": "DB-024",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 292,
@@ -2429,7 +2429,7 @@
     {
       "id": 237,
       "nombre": "Sky Shadow",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 729,
@@ -2679,7 +2679,7 @@
     {
       "id": 14,
       "nombre": "Snagg",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 556,
@@ -2854,7 +2854,7 @@
     {
       "id": 384,
       "nombre": "aku aku",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 635,
@@ -2894,6 +2894,16 @@
     {
       "id": 250,
       "nombre": "Snarf",
+      "cantidad": 1
+    },
+    {
+      "id": 104,
+      "nombre": "Lady Jaye",
+      "cantidad": 1
+    },
+    {
+      "id": 260,
+      "nombre": "Princesa Luna",
       "cantidad": 1
     }
   ]
