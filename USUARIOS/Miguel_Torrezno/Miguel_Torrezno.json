@@ -39,7 +39,7 @@
     {
       "id": 303,
       "nombre": "Megatron",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 316,
@@ -319,7 +319,7 @@
     {
       "id": 30,
       "nombre": "Uni",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 350,
@@ -414,7 +414,7 @@
     {
       "id": 254,
       "nombre": "Chacalo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 55,
@@ -959,7 +959,7 @@
     {
       "id": 206,
       "nombre": "Slash",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 481,
@@ -1689,6 +1689,16 @@
     {
       "id": 631,
       "nombre": "DB-019",
+      "cantidad": 1
+    },
+    {
+      "id": 854,
+      "nombre": "RIC-FLAIR",
+      "cantidad": 1
+    },
+    {
+      "id": 45,
+      "nombre": "garuda",
       "cantidad": 1
     }
   ]

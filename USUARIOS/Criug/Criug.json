@@ -719,7 +719,7 @@
     {
       "id": 251,
       "nombre": "Tigro",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 236,
@@ -1294,7 +1294,7 @@
     {
       "id": 538,
       "nombre": "BRUCE-LEE",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 249,
@@ -2639,6 +2639,11 @@
     {
       "id": 620,
       "nombre": "DB-008",
+      "cantidad": 1
+    },
+    {
+      "id": 220,
+      "nombre": "DRAGON QUEST",
       "cantidad": 1
     }
   ]
