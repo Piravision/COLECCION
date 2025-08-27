@@ -49,7 +49,7 @@
     {
       "id": 268,
       "nombre": "Michelangelo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 101,
@@ -239,7 +239,7 @@
     {
       "id": 538,
       "nombre": "BRUCE-LEE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 242,
@@ -299,7 +299,7 @@
     {
       "id": 567,
       "nombre": "JAKE-ROBERTS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 153,
@@ -534,7 +534,7 @@
     {
       "id": 504,
       "nombre": "HEICHAI",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 275,
@@ -1029,12 +1029,12 @@
     {
       "id": 259,
       "nombre": "Ojo Rojo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 732,
       "nombre": "DB-120",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 621,
@@ -1344,7 +1344,7 @@
     {
       "id": 581,
       "nombre": "CLIFFORD-YUMA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 748,
@@ -1359,6 +1359,61 @@
     {
       "id": 729,
       "nombre": "DB-117",
+      "cantidad": 1
+    },
+    {
+      "id": 718,
+      "nombre": "DB-106",
+      "cantidad": 1
+    },
+    {
+      "id": 383,
+      "nombre": "viper",
+      "cantidad": 1
+    },
+    {
+      "id": 33,
+      "nombre": "Apollo",
+      "cantidad": 1
+    },
+    {
+      "id": 198,
+      "nombre": "Slammu",
+      "cantidad": 1
+    },
+    {
+      "id": 623,
+      "nombre": "DB-011",
+      "cantidad": 1
+    },
+    {
+      "id": 189,
+      "nombre": "Shocker",
+      "cantidad": 1
+    },
+    {
+      "id": 322,
+      "nombre": "Rondador Nocturno",
+      "cantidad": 1
+    },
+    {
+      "id": 14,
+      "nombre": "Snagg",
+      "cantidad": 1
+    },
+    {
+      "id": 486,
+      "nombre": "gnasty-gnorc",
+      "cantidad": 1
+    },
+    {
+      "id": 246,
+      "nombre": "Jaga",
+      "cantidad": 1
+    },
+    {
+      "id": 376,
+      "nombre": "guile",
       "cantidad": 1
     }
   ]

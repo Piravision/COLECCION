@@ -14,7 +14,7 @@
     {
       "id": 191,
       "nombre": "Venom",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 159,
@@ -419,7 +419,7 @@
     {
       "id": 266,
       "nombre": "Leonardo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 66,
@@ -554,7 +554,7 @@
     {
       "id": 389,
       "nombre": "neo cortex",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 227,
@@ -594,7 +594,7 @@
     {
       "id": 246,
       "nombre": "Jaga",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 565,
@@ -1089,7 +1089,7 @@
     {
       "id": 570,
       "nombre": "MILLION-DOLLAR-MAN",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 758,
@@ -1634,7 +1634,7 @@
     {
       "id": 251,
       "nombre": "Tigro",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 472,
@@ -1819,7 +1819,7 @@
     {
       "id": 197,
       "nombre": "Rox",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 549,
@@ -2084,6 +2084,31 @@
     {
       "id": 508,
       "nombre": "law",
+      "cantidad": 1
+    },
+    {
+      "id": 823,
+      "nombre": "SHEEVA",
+      "cantidad": 1
+    },
+    {
+      "id": 785,
+      "nombre": "CATWOMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 135,
+      "nombre": "Afrodita A",
+      "cantidad": 1
+    },
+    {
+      "id": 367,
+      "nombre": "BEMONT",
+      "cantidad": 1
+    },
+    {
+      "id": 798,
+      "nombre": "PINGUINO",
       "cantidad": 1
     }
   ]

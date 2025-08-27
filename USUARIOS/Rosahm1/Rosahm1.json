@@ -204,7 +204,7 @@
     {
       "id": 104,
       "nombre": "Lady Jaye",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 228,
@@ -514,7 +514,7 @@
     {
       "id": 116,
       "nombre": "Cringer",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 350,
@@ -969,7 +969,7 @@
     {
       "id": 84,
       "nombre": "zurbon",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 360,
@@ -1479,7 +1479,7 @@
     {
       "id": 654,
       "nombre": "DB-042",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 289,
@@ -2419,6 +2419,31 @@
     {
       "id": 623,
       "nombre": "DB-011",
+      "cantidad": 1
+    },
+    {
+      "id": 564,
+      "nombre": "SLIMER",
+      "cantidad": 1
+    },
+    {
+      "id": 693,
+      "nombre": "DB-081",
+      "cantidad": 1
+    },
+    {
+      "id": 754,
+      "nombre": "Pandora",
+      "cantidad": 1
+    },
+    {
+      "id": 410,
+      "nombre": "Barón-Ashura",
+      "cantidad": 1
+    },
+    {
+      "id": 274,
+      "nombre": "Ray Fillet",
       "cantidad": 1
     }
   ]
