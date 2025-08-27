@@ -29,7 +29,7 @@
         {
             "id": 330,
             "nombre": "Magneto",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 306,
@@ -224,7 +224,7 @@
         {
             "id": 218,
             "nombre": "Cybertron",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 20,
@@ -429,7 +429,7 @@
         {
             "id": 76,
             "nombre": "masopho",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 495,
@@ -674,7 +674,7 @@
         {
             "id": 113,
             "nombre": "Serpentor",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 317,
@@ -1279,7 +1279,7 @@
         {
             "id": 341,
             "nombre": "Crocodine Malvado",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 84,
@@ -1744,7 +1744,7 @@
         {
             "id": 365,
             "nombre": "alucard 1",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 642,
@@ -2064,7 +2064,7 @@
         {
             "id": 573,
             "nombre": "ULTIMATE-WARRIOR",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 555,
@@ -2239,12 +2239,12 @@
         {
             "id": 541,
             "nombre": "COBRA-1986",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 528,
             "nombre": "Fénix-Oscura",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 64,
@@ -2599,6 +2599,26 @@
         {
             "id": 362,
             "nombre": "yugo",
+            "cantidad": 2
+        },
+        {
+            "id": 687,
+            "nombre": "DB-075",
+            "cantidad": 1
+        },
+        {
+            "id": 352,
+            "nombre": "septimus",
+            "cantidad": 1
+        },
+        {
+            "id": 759,
+            "nombre": "Shion",
+            "cantidad": 1
+        },
+        {
+            "id": 2,
+            "nombre": "Bravestarr",
             "cantidad": 1
         }
     ]

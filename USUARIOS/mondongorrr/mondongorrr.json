@@ -769,7 +769,7 @@
         {
             "id": 17,
             "nombre": "Guerrero Serpiente",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 222,
@@ -859,6 +859,41 @@
         {
             "id": 357,
             "nombre": "china",
+            "cantidad": 1
+        },
+        {
+            "id": 294,
+            "nombre": "Hound",
+            "cantidad": 2
+        },
+        {
+            "id": 654,
+            "nombre": "DB-042",
+            "cantidad": 1
+        },
+        {
+            "id": 338,
+            "nombre": "Shiryū de Dragón",
+            "cantidad": 1
+        },
+        {
+            "id": 844,
+            "nombre": "HONDA2",
+            "cantidad": 1
+        },
+        {
+            "id": 441,
+            "nombre": "slig",
+            "cantidad": 1
+        },
+        {
+            "id": 831,
+            "nombre": "BISON",
+            "cantidad": 1
+        },
+        {
+            "id": 330,
+            "nombre": "Magneto",
             "cantidad": 1
         }
     ]
