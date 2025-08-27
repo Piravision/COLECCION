@@ -164,7 +164,7 @@
     {
       "id": 23,
       "nombre": "Amo del Calabozo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 172,
@@ -564,7 +564,7 @@
     {
       "id": 41,
       "nombre": "crocodine bueno",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 730,
@@ -804,7 +804,7 @@
     {
       "id": 96,
       "nombre": "Lexington",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 107,
@@ -1014,7 +1014,7 @@
     {
       "id": 430,
       "nombre": "sniper2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 628,
@@ -1609,7 +1609,7 @@
     {
       "id": 546,
       "nombre": "MARTY-MCFLY",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 654,
@@ -2109,7 +2109,7 @@
     {
       "id": 798,
       "nombre": "PINGUINO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 688,
@@ -2119,6 +2119,36 @@
     {
       "id": 663,
       "nombre": "DB-051",
+      "cantidad": 1
+    },
+    {
+      "id": 690,
+      "nombre": "DB-078",
+      "cantidad": 1
+    },
+    {
+      "id": 733,
+      "nombre": "DB-121",
+      "cantidad": 1
+    },
+    {
+      "id": 551,
+      "nombre": "BARRACUS-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 736,
+      "nombre": "Aioria-de-Leo",
+      "cantidad": 1
+    },
+    {
+      "id": 834,
+      "nombre": "CAMMY",
+      "cantidad": 1
+    },
+    {
+      "id": 44,
+      "nombre": "Fly",
       "cantidad": 1
     }
   ]

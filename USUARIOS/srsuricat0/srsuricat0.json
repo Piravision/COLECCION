@@ -34,7 +34,7 @@
     {
       "id": 303,
       "nombre": "Megatron",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 299,
@@ -159,7 +159,7 @@
     {
       "id": 340,
       "nombre": "Poseidón",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 105,
@@ -344,7 +344,7 @@
     {
       "id": 24,
       "nombre": "Bobby",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 126,
@@ -389,7 +389,7 @@
     {
       "id": 191,
       "nombre": "Venom",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 189,
@@ -854,7 +854,7 @@
     {
       "id": 386,
       "nombre": "CROMO PERSONAJE",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 308,
@@ -924,7 +924,7 @@
     {
       "id": 201,
       "nombre": "Dr. paradigma",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 473,
@@ -1059,7 +1059,7 @@
     {
       "id": 359,
       "nombre": "long",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 358,
@@ -1159,7 +1159,7 @@
     {
       "id": 469,
       "nombre": "Dahlia Gillespie",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 526,
@@ -1269,7 +1269,7 @@
     {
       "id": 159,
       "nombre": "Quicksilver",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 568,
@@ -1279,7 +1279,7 @@
     {
       "id": 59,
       "nombre": "balios",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 328,
@@ -1354,7 +1354,7 @@
     {
       "id": 346,
       "nombre": "jess",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 341,
@@ -1474,7 +1474,7 @@
     {
       "id": 380,
       "nombre": "marcy",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 409,
@@ -1514,7 +1514,7 @@
     {
       "id": 516,
       "nombre": "LEGIÓN-DEL-DRAGÓN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 210,
@@ -1649,7 +1649,7 @@
     {
       "id": 406,
       "nombre": "turcos",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 198,
@@ -1784,7 +1784,7 @@
     {
       "id": 162,
       "nombre": "Mon Star",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 385,
@@ -1904,12 +1904,12 @@
     {
       "id": 544,
       "nombre": "DOC-BROWN",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 8,
       "nombre": "Hades",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 509,
@@ -2069,7 +2069,7 @@
     {
       "id": 555,
       "nombre": "INDIANA-JONES-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 537,
@@ -2289,7 +2289,7 @@
     {
       "id": 66,
       "nombre": "flazzard2",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 153,
@@ -2329,7 +2329,7 @@
     {
       "id": 184,
       "nombre": "Lizard",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 224,
@@ -2349,7 +2349,7 @@
     {
       "id": 353,
       "nombre": "zorgia",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 266,
@@ -2369,7 +2369,7 @@
     {
       "id": 429,
       "nombre": "sniper",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 110,
@@ -2379,7 +2379,7 @@
     {
       "id": 350,
       "nombre": "Murgg",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 437,
@@ -2399,7 +2399,7 @@
     {
       "id": 278,
       "nombre": "Bebop",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 446,
@@ -2414,7 +2414,7 @@
     {
       "id": 569,
       "nombre": "MACHO-MAN",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 536,
@@ -2684,7 +2684,7 @@
     {
       "id": 426,
       "nombre": "ocelot2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 674,
@@ -2974,7 +2974,7 @@
     {
       "id": 754,
       "nombre": "Pandora",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 743,
@@ -3159,7 +3159,7 @@
     {
       "id": 669,
       "nombre": "DB-057",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 447,
@@ -3234,6 +3234,31 @@
     {
       "id": 686,
       "nombre": "DB-074",
+      "cantidad": 1
+    },
+    {
+      "id": 822,
+      "nombre": "SHAO-KAHN",
+      "cantidad": 1
+    },
+    {
+      "id": 755,
+      "nombre": "Poseidon2",
+      "cantidad": 1
+    },
+    {
+      "id": 844,
+      "nombre": "HONDA2",
+      "cantidad": 1
+    },
+    {
+      "id": 254,
+      "nombre": "Chacalo",
+      "cantidad": 1
+    },
+    {
+      "id": 786,
+      "nombre": "DICK-GRAYSON",
       "cantidad": 1
     }
   ]
