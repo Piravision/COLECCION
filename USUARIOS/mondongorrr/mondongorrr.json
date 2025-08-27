@@ -539,7 +539,7 @@
         {
             "id": 32,
             "nombre": "Venger",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 101,
@@ -889,11 +889,71 @@
         {
             "id": 831,
             "nombre": "BISON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 330,
             "nombre": "Magneto",
+            "cantidad": 1
+        },
+        {
+            "id": 150,
+            "nombre": "Throttle",
+            "cantidad": 1
+        },
+        {
+            "id": 543,
+            "nombre": "DIE-HARD-III",
+            "cantidad": 1
+        },
+        {
+            "id": 816,
+            "nombre": "QUAN-CHI",
+            "cantidad": 1
+        },
+        {
+            "id": 464,
+            "nombre": "yamada",
+            "cantidad": 1
+        },
+        {
+            "id": 620,
+            "nombre": "DB-008",
+            "cantidad": 1
+        },
+        {
+            "id": 802,
+            "nombre": "ROBIN",
+            "cantidad": 1
+        },
+        {
+            "id": 335,
+            "nombre": "Toad",
+            "cantidad": 1
+        },
+        {
+            "id": 304,
+            "nombre": "Runabout",
+            "cantidad": 1
+        },
+        {
+            "id": 784,
+            "nombre": "BULLOCK",
+            "cantidad": 1
+        },
+        {
+            "id": 92,
+            "nombre": "Brooklyn",
+            "cantidad": 1
+        },
+        {
+            "id": 405,
+            "nombre": "tifa",
+            "cantidad": 1
+        },
+        {
+            "id": 29,
+            "nombre": "Sheila",
             "cantidad": 1
         }
     ]

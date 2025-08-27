@@ -744,7 +744,7 @@
     {
       "id": 538,
       "nombre": "BRUCE-LEE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 158,
@@ -1089,7 +1089,7 @@
     {
       "id": 148,
       "nombre": "Charlene _Charley_ Davidson",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 14,
@@ -1484,6 +1484,11 @@
     {
       "id": 184,
       "nombre": "Lizard",
+      "cantidad": 1
+    },
+    {
+      "id": 391,
+      "nombre": "piretripe",
       "cantidad": 1
     }
   ]
