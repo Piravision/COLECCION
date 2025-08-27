@@ -1044,7 +1044,7 @@
         {
             "id": 773,
             "nombre": "Squatt",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 664,
@@ -2079,6 +2079,11 @@
         {
             "id": 321,
             "nombre": "Quicksilver",
+            "cantidad": 1
+        },
+        {
+            "id": 508,
+            "nombre": "law",
             "cantidad": 1
         }
     ]
