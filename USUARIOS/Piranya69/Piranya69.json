@@ -1834,7 +1834,7 @@
     {
       "id": 546,
       "nombre": "MARTY-MCFLY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 441,
@@ -2294,7 +2294,7 @@
     {
       "id": 3,
       "nombre": "Juez J. Bella",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 378,
@@ -2964,6 +2964,11 @@
     {
       "id": 768,
       "nombre": "megazord",
+      "cantidad": 1
+    },
+    {
+      "id": 609,
+      "nombre": "STEFAN-LEVI",
       "cantidad": 1
     }
   ]
