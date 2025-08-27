@@ -319,7 +319,7 @@
         {
             "id": 106,
             "nombre": "Scarlett",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 758,
@@ -694,6 +694,11 @@
         {
             "id": 105,
             "nombre": "Sargento Slaughter",
+            "cantidad": 1
+        },
+        {
+            "id": 104,
+            "nombre": "Lady Jaye",
             "cantidad": 1
         }
     ]
