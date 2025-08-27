@@ -1234,7 +1234,7 @@
     {
       "id": 524,
       "nombre": "Capitán-Planeta",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 478,
@@ -1519,6 +1519,16 @@
     {
       "id": 217,
       "nombre": "Cobra   H.I.S.S.",
+      "cantidad": 1
+    },
+    {
+      "id": 16,
+      "nombre": "Dregs",
+      "cantidad": 1
+    },
+    {
+      "id": 472,
+      "nombre": "grey",
       "cantidad": 1
     }
   ]
