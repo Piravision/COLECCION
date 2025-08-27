@@ -469,7 +469,7 @@
     {
       "id": 302,
       "nombre": "Blitzwing",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 402,
@@ -844,12 +844,12 @@
     {
       "id": 434,
       "nombre": "vulcan",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 32,
       "nombre": "Venger",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 266,
@@ -1014,7 +1014,7 @@
     {
       "id": 361,
       "nombre": "uriko",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 42,
@@ -1089,7 +1089,7 @@
     {
       "id": 125,
       "nombre": "Teela",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 422,
@@ -1099,7 +1099,7 @@
     {
       "id": 196,
       "nombre": "Ripster",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 106,
@@ -1339,7 +1339,7 @@
     {
       "id": 542,
       "nombre": "DIE-HARD",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 321,
@@ -2974,6 +2974,11 @@
     {
       "id": 846,
       "nombre": "ken2",
+      "cantidad": 2
+    },
+    {
+      "id": 740,
+      "nombre": "Athenea2",
       "cantidad": 1
     }
   ]

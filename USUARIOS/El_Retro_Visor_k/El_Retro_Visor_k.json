@@ -59,7 +59,7 @@
         {
             "id": 160,
             "nombre": "Steelheart",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 315,
@@ -639,7 +639,7 @@
         {
             "id": 321,
             "nombre": "Quicksilver",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 92,
@@ -779,7 +779,7 @@
         {
             "id": 29,
             "nombre": "Sheila",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 480,
@@ -1069,7 +1069,7 @@
         {
             "id": 751,
             "nombre": "Minos",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 138,
@@ -1294,6 +1294,41 @@
         {
             "id": 545,
             "nombre": "IVAN-DRAGO",
+            "cantidad": 1
+        },
+        {
+            "id": 444,
+            "nombre": "birki",
+            "cantidad": 1
+        },
+        {
+            "id": 380,
+            "nombre": "marcy",
+            "cantidad": 1
+        },
+        {
+            "id": 199,
+            "nombre": "Streex",
+            "cantidad": 1
+        },
+        {
+            "id": 845,
+            "nombre": "KEN",
+            "cantidad": 1
+        },
+        {
+            "id": 833,
+            "nombre": "blanka2",
+            "cantidad": 1
+        },
+        {
+            "id": 840,
+            "nombre": "FEI-LONG",
+            "cantidad": 1
+        },
+        {
+            "id": 530,
+            "nombre": "Axel-Foley-Jail",
             "cantidad": 1
         }
     ]
