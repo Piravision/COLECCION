@@ -124,7 +124,7 @@
     {
       "id": 11,
       "nombre": "Greywolf",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 132,
@@ -1749,7 +1749,7 @@
     {
       "id": 575,
       "nombre": "A.GALVAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 41,
@@ -2454,6 +2454,11 @@
     {
       "id": 223,
       "nombre": "G.I. JOE Headquarters",
+      "cantidad": 1
+    },
+    {
+      "id": 603,
+      "nombre": "PHILLIP-CALLAHAN",
       "cantidad": 1
     }
   ]

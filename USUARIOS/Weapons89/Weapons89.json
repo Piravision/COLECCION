@@ -4,7 +4,7 @@
     {
       "id": 321,
       "nombre": "Quicksilver",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 323,
@@ -629,7 +629,7 @@
     {
       "id": 29,
       "nombre": "Sheila",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 301,
@@ -714,7 +714,7 @@
     {
       "id": 555,
       "nombre": "INDIANA-JONES-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 567,
@@ -824,7 +824,7 @@
     {
       "id": 554,
       "nombre": "HANSOLO-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 246,
@@ -1409,7 +1409,7 @@
     {
       "id": 607,
       "nombre": "SANDY-WINTERS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 751,
@@ -1489,6 +1489,41 @@
     {
       "id": 391,
       "nombre": "piretripe",
+      "cantidad": 1
+    },
+    {
+      "id": 844,
+      "nombre": "HONDA2",
+      "cantidad": 1
+    },
+    {
+      "id": 382,
+      "nombre": "serge",
+      "cantidad": 1
+    },
+    {
+      "id": 790,
+      "nombre": "ESPANTAPAJAROS",
+      "cantidad": 1
+    },
+    {
+      "id": 722,
+      "nombre": "DB-110",
+      "cantidad": 1
+    },
+    {
+      "id": 288,
+      "nombre": "Splinter",
+      "cantidad": 1
+    },
+    {
+      "id": 460,
+      "nombre": "miura",
+      "cantidad": 1
+    },
+    {
+      "id": 735,
+      "nombre": "Aiacos",
       "cantidad": 1
     }
   ]

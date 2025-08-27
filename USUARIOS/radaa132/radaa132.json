@@ -9,7 +9,7 @@
     {
       "id": 401,
       "nombre": "cloud",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 189,
@@ -494,6 +494,16 @@
     {
       "id": 836,
       "nombre": "Chunli2",
+      "cantidad": 1
+    },
+    {
+      "id": 28,
+      "nombre": "Presto",
+      "cantidad": 1
+    },
+    {
+      "id": 685,
+      "nombre": "DB-073",
       "cantidad": 1
     }
   ]

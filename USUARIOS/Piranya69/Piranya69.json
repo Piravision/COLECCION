@@ -294,7 +294,7 @@
     {
       "id": 461,
       "nombre": "rs1",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 101,
@@ -3099,6 +3099,16 @@
     {
       "id": 710,
       "nombre": "DB-098",
+      "cantidad": 1
+    },
+    {
+      "id": 683,
+      "nombre": "DB-071",
+      "cantidad": 1
+    },
+    {
+      "id": 837,
+      "nombre": "DALSHIM",
       "cantidad": 1
     }
   ]
