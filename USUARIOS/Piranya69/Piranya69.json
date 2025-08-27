@@ -1934,7 +1934,7 @@
     {
       "id": 270,
       "nombre": "Napoleon Bonafrog",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 328,
@@ -2109,7 +2109,7 @@
     {
       "id": 582,
       "nombre": "CONTI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 143,
@@ -2334,7 +2334,7 @@
     {
       "id": 551,
       "nombre": "BARRACUS-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 653,
@@ -2929,6 +2929,21 @@
     {
       "id": 304,
       "nombre": "Runabout",
+      "cantidad": 1
+    },
+    {
+      "id": 216,
+      "nombre": "Centinela",
+      "cantidad": 1
+    },
+    {
+      "id": 704,
+      "nombre": "DB-092",
+      "cantidad": 1
+    },
+    {
+      "id": 628,
+      "nombre": "DB-016",
       "cantidad": 1
     }
   ]
