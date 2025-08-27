@@ -349,7 +349,7 @@
     {
       "id": 435,
       "nombre": "vulkan2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 188,
@@ -769,7 +769,7 @@
     {
       "id": 461,
       "nombre": "Stalone-RamboIII",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 460,
@@ -789,7 +789,7 @@
     {
       "id": 559,
       "nombre": "MABARRACUS-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 729,
@@ -1589,7 +1589,7 @@
     {
       "id": 623,
       "nombre": "DB-011",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 768,
@@ -2109,6 +2109,16 @@
     {
       "id": 798,
       "nombre": "PINGUINO",
+      "cantidad": 1
+    },
+    {
+      "id": 688,
+      "nombre": "DB-076",
+      "cantidad": 1
+    },
+    {
+      "id": 663,
+      "nombre": "DB-051",
       "cantidad": 1
     }
   ]

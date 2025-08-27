@@ -1134,7 +1134,7 @@
     {
       "id": 287,
       "nombre": "Soldado del Pie",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 759,
@@ -1304,7 +1304,7 @@
     {
       "id": 380,
       "nombre": "marcy",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 199,
@@ -1414,6 +1414,11 @@
     {
       "id": 376,
       "nombre": "guile",
+      "cantidad": 1
+    },
+    {
+      "id": 509,
+      "nombre": "NINA",
       "cantidad": 1
     }
   ]

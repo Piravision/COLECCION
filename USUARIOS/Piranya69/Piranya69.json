@@ -14,7 +14,7 @@
     {
       "id": 183,
       "nombre": "Kraven",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 175,
@@ -169,7 +169,7 @@
     {
       "id": 259,
       "nombre": "Ojo Rojo",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 147,
@@ -224,7 +224,7 @@
     {
       "id": 276,
       "nombre": "Baxter",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 252,
@@ -429,7 +429,7 @@
     {
       "id": 192,
       "nombre": "Bends",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 244,
@@ -714,7 +714,7 @@
     {
       "id": 323,
       "nombre": "Tormenta",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 108,
@@ -729,7 +729,7 @@
     {
       "id": 363,
       "nombre": "Chuache-DesafioTotal",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 130,
@@ -799,7 +799,7 @@
     {
       "id": 75,
       "nombre": "mac",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 347,
@@ -1039,7 +1039,7 @@
     {
       "id": 338,
       "nombre": "Shiryū de Dragón",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 66,
@@ -1089,7 +1089,7 @@
     {
       "id": 125,
       "nombre": "Teela",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 422,
@@ -1159,7 +1159,7 @@
     {
       "id": 165,
       "nombre": "Daredevil",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 368,
@@ -1339,7 +1339,7 @@
     {
       "id": 542,
       "nombre": "DIE-HARD",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 321,
@@ -1374,7 +1374,7 @@
     {
       "id": 284,
       "nombre": "Roadkill",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 166,
@@ -1519,7 +1519,7 @@
     {
       "id": 509,
       "nombre": "NINA",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 549,
@@ -1619,7 +1619,7 @@
     {
       "id": 339,
       "nombre": "Shun de Andrómeda",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 39,
@@ -2144,7 +2144,7 @@
     {
       "id": 553,
       "nombre": "GOKU-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 558,
@@ -2184,7 +2184,7 @@
     {
       "id": 560,
       "nombre": "MACGYVER-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 204,
@@ -2309,7 +2309,7 @@
     {
       "id": 410,
       "nombre": "Barón-Ashura",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 667,
@@ -2514,7 +2514,7 @@
     {
       "id": 619,
       "nombre": "DB-007",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 467,
@@ -2534,7 +2534,7 @@
     {
       "id": 656,
       "nombre": "DB-044",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 624,
@@ -2574,7 +2574,7 @@
     {
       "id": 702,
       "nombre": "DB-090",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 718,
@@ -2974,7 +2974,7 @@
     {
       "id": 846,
       "nombre": "ken2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 740,
@@ -3054,6 +3054,51 @@
     {
       "id": 803,
       "nombre": "SELINA-KYLE",
+      "cantidad": 1
+    },
+    {
+      "id": 212,
+      "nombre": "Asteroide M",
+      "cantidad": 1
+    },
+    {
+      "id": 599,
+      "nombre": "MARK-LENDERS",
+      "cantidad": 1
+    },
+    {
+      "id": 697,
+      "nombre": "DB-085",
+      "cantidad": 1
+    },
+    {
+      "id": 759,
+      "nombre": "Shion",
+      "cantidad": 1
+    },
+    {
+      "id": 810,
+      "nombre": "KANO",
+      "cantidad": 1
+    },
+    {
+      "id": 494,
+      "nombre": "jillia",
+      "cantidad": 1
+    },
+    {
+      "id": 507,
+      "nombre": "KING",
+      "cantidad": 1
+    },
+    {
+      "id": 851,
+      "nombre": "VEGA",
+      "cantidad": 1
+    },
+    {
+      "id": 710,
+      "nombre": "DB-098",
       "cantidad": 1
     }
   ]
