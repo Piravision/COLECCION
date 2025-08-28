@@ -614,7 +614,7 @@
         {
             "id": 750,
             "nombre": "Milo-de-Escorpio",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 356,
@@ -1309,6 +1309,11 @@
         {
             "id": 549,
             "nombre": "T-1000",
+            "cantidad": 1
+        },
+        {
+            "id": 8,
+            "nombre": "Hades",
             "cantidad": 1
         }
     ]
