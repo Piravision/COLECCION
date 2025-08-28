@@ -2289,7 +2289,7 @@
         {
             "id": 712,
             "nombre": "DB-100",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 703,
@@ -2589,6 +2589,11 @@
         {
             "id": 366,
             "nombre": "alucard 2",
+            "cantidad": 1
+        },
+        {
+            "id": 373,
+            "nombre": "SHAFT",
             "cantidad": 1
         }
     ]

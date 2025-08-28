@@ -824,7 +824,7 @@
     {
       "id": 573,
       "nombre": "ULTIMATE-WARRIOR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 680,
@@ -1144,7 +1144,7 @@
     {
       "id": 848,
       "nombre": "RYU2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 655,
@@ -1254,6 +1254,11 @@
     {
       "id": 333,
       "nombre": "Omega Rojo",
+      "cantidad": 1
+    },
+    {
+      "id": 910,
+      "nombre": "LOIS-LANE",
       "cantidad": 1
     }
   ]
