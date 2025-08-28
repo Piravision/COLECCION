@@ -794,7 +794,7 @@
     {
       "id": 191,
       "nombre": "Venom",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 75,
@@ -1039,12 +1039,12 @@
     {
       "id": 338,
       "nombre": "Shiryū de Dragón",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 66,
       "nombre": "flazzard2",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 492,
@@ -1164,7 +1164,7 @@
     {
       "id": 368,
       "nombre": "DRACULA1",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 138,
@@ -1329,7 +1329,7 @@
     {
       "id": 324,
       "nombre": "Wolverine",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 153,
@@ -1734,7 +1734,7 @@
     {
       "id": 539,
       "nombre": "BRUCE-LEE2",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 458,
@@ -2364,7 +2364,7 @@
     {
       "id": 733,
       "nombre": "DB-121",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 498,
@@ -2774,7 +2774,7 @@
     {
       "id": 746,
       "nombre": "Deathmask-de-Cancer",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 594,
@@ -3464,6 +3464,11 @@
     {
       "id": 468,
       "nombre": "CybilBennett",
+      "cantidad": 1
+    },
+    {
+      "id": 826,
+      "nombre": "SONYA-BLADE",
       "cantidad": 1
     }
   ]

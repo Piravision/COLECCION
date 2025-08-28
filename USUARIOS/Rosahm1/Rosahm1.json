@@ -884,7 +884,7 @@
     {
       "id": 494,
       "nombre": "jillia",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 485,
@@ -1119,7 +1119,7 @@
     {
       "id": 574,
       "nombre": "UNDERTAKER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 70,
@@ -1279,7 +1279,7 @@
     {
       "id": 343,
       "nombre": "Flazzard 2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 537,
@@ -2669,7 +2669,7 @@
     {
       "id": 778,
       "nombre": "ALFRED",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 859,
@@ -2689,6 +2689,46 @@
     {
       "id": 857,
       "nombre": "DOC-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 592,
+      "nombre": "JASON-DERRICK",
+      "cantidad": 1
+    },
+    {
+      "id": 831,
+      "nombre": "BISON",
+      "cantidad": 1
+    },
+    {
+      "id": 797,
+      "nombre": "MR-FREEZE",
+      "cantidad": 1
+    },
+    {
+      "id": 737,
+      "nombre": "Aioros-de-Sagitario",
+      "cantidad": 1
+    },
+    {
+      "id": 870,
+      "nombre": "BARON-ZEMO",
+      "cantidad": 1
+    },
+    {
+      "id": 853,
+      "nombre": "Zangief2",
+      "cantidad": 1
+    },
+    {
+      "id": 638,
+      "nombre": "DB-026",
+      "cantidad": 1
+    },
+    {
+      "id": 851,
+      "nombre": "VEGA",
       "cantidad": 1
     }
   ]

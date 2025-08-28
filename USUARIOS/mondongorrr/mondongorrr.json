@@ -229,7 +229,7 @@
         {
             "id": 581,
             "nombre": "CLIFFORD-YUMA",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 79,
@@ -854,7 +854,7 @@
         {
             "id": 461,
             "nombre": "Stalone-RamboIII",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 357,
@@ -1444,6 +1444,36 @@
         {
             "id": 211,
             "nombre": "Anillo Serpiente",
+            "cantidad": 1
+        },
+        {
+            "id": 185,
+            "nombre": "Morbius",
+            "cantidad": 1
+        },
+        {
+            "id": 635,
+            "nombre": "DB-023",
+            "cantidad": 1
+        },
+        {
+            "id": 783,
+            "nombre": "BRUCE-WAYNE",
+            "cantidad": 1
+        },
+        {
+            "id": 84,
+            "nombre": "zurbon",
+            "cantidad": 1
+        },
+        {
+            "id": 854,
+            "nombre": "RIC-FLAIR",
+            "cantidad": 1
+        },
+        {
+            "id": 181,
+            "nombre": "Hydro man",
             "cantidad": 1
         }
     ]
