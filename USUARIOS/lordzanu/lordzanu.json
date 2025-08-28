@@ -29,7 +29,7 @@
     {
       "id": 562,
       "nombre": "PETER-GRIFFIN-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 216,
@@ -189,7 +189,7 @@
     {
       "id": 290,
       "nombre": "Tokka",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 488,
@@ -774,6 +774,41 @@
     {
       "id": 145,
       "nombre": "Lord Dragaunus",
+      "cantidad": 1
+    },
+    {
+      "id": 311,
+      "nombre": "Arcangel",
+      "cantidad": 1
+    },
+    {
+      "id": 788,
+      "nombre": "EL-FANTASMA",
+      "cantidad": 1
+    },
+    {
+      "id": 795,
+      "nombre": "JOKER",
+      "cantidad": 1
+    },
+    {
+      "id": 791,
+      "nombre": "GORDON",
+      "cantidad": 1
+    },
+    {
+      "id": 778,
+      "nombre": "ALFRED",
+      "cantidad": 1
+    },
+    {
+      "id": 782,
+      "nombre": "BATMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 797,
+      "nombre": "MR-FREEZE",
       "cantidad": 1
     }
   ]

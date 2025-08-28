@@ -2569,7 +2569,7 @@
     {
       "id": 789,
       "nombre": "ENIGMA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 69,
@@ -2839,6 +2839,26 @@
     {
       "id": 822,
       "nombre": "SHAO-KAHN",
+      "cantidad": 1
+    },
+    {
+      "id": 785,
+      "nombre": "CATWOMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 780,
+      "nombre": "BARBARA-GORDON",
+      "cantidad": 1
+    },
+    {
+      "id": 782,
+      "nombre": "BATMAN",
+      "cantidad": 2
+    },
+    {
+      "id": 799,
+      "nombre": "POISON-IVY",
       "cantidad": 1
     }
   ]

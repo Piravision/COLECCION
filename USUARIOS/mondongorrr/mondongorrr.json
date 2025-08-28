@@ -1144,7 +1144,7 @@
         {
             "id": 848,
             "nombre": "RYU2",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 655,
@@ -1314,7 +1314,7 @@
         {
             "id": 8,
             "nombre": "Hades",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 272,
@@ -1404,6 +1404,36 @@
         {
             "id": 246,
             "nombre": "Jaga",
+            "cantidad": 1
+        },
+        {
+            "id": 786,
+            "nombre": "DICK-GRAYSON",
+            "cantidad": 1
+        },
+        {
+            "id": 795,
+            "nombre": "JOKER",
+            "cantidad": 1
+        },
+        {
+            "id": 778,
+            "nombre": "ALFRED",
+            "cantidad": 1
+        },
+        {
+            "id": 798,
+            "nombre": "PINGUINO",
+            "cantidad": 1
+        },
+        {
+            "id": 787,
+            "nombre": "DOS-CARAS",
+            "cantidad": 1
+        },
+        {
+            "id": 782,
+            "nombre": "BATMAN",
             "cantidad": 1
         }
     ]

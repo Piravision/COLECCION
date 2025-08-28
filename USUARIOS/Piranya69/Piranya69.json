@@ -3369,7 +3369,7 @@
     {
       "id": 783,
       "nombre": "BRUCE-WAYNE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 809,
@@ -3419,12 +3419,12 @@
     {
       "id": 795,
       "nombre": "JOKER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 780,
       "nombre": "BARBARA-GORDON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 790,
@@ -3434,6 +3434,21 @@
     {
       "id": 867,
       "nombre": "SONNY-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 798,
+      "nombre": "PINGUINO",
+      "cantidad": 1
+    },
+    {
+      "id": 788,
+      "nombre": "EL-FANTASMA",
+      "cantidad": 1
+    },
+    {
+      "id": 786,
+      "nombre": "DICK-GRAYSON",
       "cantidad": 1
     }
   ]

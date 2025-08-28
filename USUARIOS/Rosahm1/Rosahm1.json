@@ -2624,7 +2624,7 @@
     {
       "id": 795,
       "nombre": "JOKER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 450,
@@ -2649,6 +2649,26 @@
     {
       "id": 858,
       "nombre": "FREDDY-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 781,
+      "nombre": "BATGIRL",
+      "cantidad": 1
+    },
+    {
+      "id": 803,
+      "nombre": "SELINA-KYLE",
+      "cantidad": 1
+    },
+    {
+      "id": 787,
+      "nombre": "DOS-CARAS",
+      "cantidad": 2
+    },
+    {
+      "id": 778,
+      "nombre": "ALFRED",
       "cantidad": 1
     }
   ]
