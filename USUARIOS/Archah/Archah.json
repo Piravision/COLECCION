@@ -49,7 +49,7 @@
     {
       "id": 180,
       "nombre": "Electro",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 516,
@@ -89,7 +89,7 @@
     {
       "id": 534,
       "nombre": "T800-Jail",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 391,
@@ -414,7 +414,7 @@
     {
       "id": 11,
       "nombre": "Greywolf",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 603,
@@ -684,6 +684,36 @@
     {
       "id": 630,
       "nombre": "DB-018",
+      "cantidad": 1
+    },
+    {
+      "id": 370,
+      "nombre": "muerte",
+      "cantidad": 1
+    },
+    {
+      "id": 520,
+      "nombre": "BenGalí",
+      "cantidad": 1
+    },
+    {
+      "id": 434,
+      "nombre": "vulcan",
+      "cantidad": 1
+    },
+    {
+      "id": 110,
+      "nombre": "Destro",
+      "cantidad": 1
+    },
+    {
+      "id": 289,
+      "nombre": "Tokka",
+      "cantidad": 1
+    },
+    {
+      "id": 458,
+      "nombre": "hinata",
       "cantidad": 1
     }
   ]

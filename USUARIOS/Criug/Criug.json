@@ -94,7 +94,7 @@
     {
       "id": 223,
       "nombre": "G.I. JOE Headquarters",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 38,
@@ -219,7 +219,7 @@
     {
       "id": 80,
       "nombre": "robot",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 218,
@@ -364,7 +364,7 @@
     {
       "id": 252,
       "nombre": "Alluro",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 531,
@@ -464,7 +464,7 @@
     {
       "id": 175,
       "nombre": "Buitre",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 173,
@@ -784,12 +784,12 @@
     {
       "id": 552,
       "nombre": "CHEWBACCA-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 448,
       "nombre": "leon1",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 313,
@@ -854,7 +854,7 @@
     {
       "id": 561,
       "nombre": "MARIO-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 100,
@@ -1019,7 +1019,7 @@
     {
       "id": 445,
       "nombre": "claire",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 219,
@@ -1029,7 +1029,7 @@
     {
       "id": 422,
       "nombre": "meryl",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 497,
@@ -1424,7 +1424,7 @@
     {
       "id": 215,
       "nombre": "Castillo Grayskull",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 710,
@@ -1719,7 +1719,7 @@
     {
       "id": 673,
       "nombre": "DB-061",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 12,
@@ -2654,6 +2654,41 @@
     {
       "id": 235,
       "nombre": "Punk Frogs",
+      "cantidad": 1
+    },
+    {
+      "id": 510,
+      "nombre": "PAUL",
+      "cantidad": 1
+    },
+    {
+      "id": 593,
+      "nombre": "JOHNNY-MASON",
+      "cantidad": 1
+    },
+    {
+      "id": 410,
+      "nombre": "Barón-Ashura",
+      "cantidad": 1
+    },
+    {
+      "id": 842,
+      "nombre": "GUILE2",
+      "cantidad": 1
+    },
+    {
+      "id": 722,
+      "nombre": "DB-110",
+      "cantidad": 1
+    },
+    {
+      "id": 248,
+      "nombre": "Panthro",
+      "cantidad": 1
+    },
+    {
+      "id": 509,
+      "nombre": "NINA",
       "cantidad": 1
     }
   ]

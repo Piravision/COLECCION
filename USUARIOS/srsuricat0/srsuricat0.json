@@ -354,7 +354,7 @@
     {
       "id": 91,
       "nombre": "Bronx",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 302,
@@ -1014,7 +1014,7 @@
     {
       "id": 292,
       "nombre": "Bumblebee",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 540,
@@ -2394,7 +2394,7 @@
     {
       "id": 35,
       "nombre": "AVAN DRAGON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 278,
@@ -2909,7 +2909,7 @@
     {
       "id": 592,
       "nombre": "JASON-DERRICK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 698,
@@ -3174,7 +3174,7 @@
     {
       "id": 640,
       "nombre": "DB-028",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 178,
@@ -3259,6 +3259,11 @@
     {
       "id": 786,
       "nombre": "DICK-GRAYSON",
+      "cantidad": 1
+    },
+    {
+      "id": 764,
+      "nombre": "Dragonzord",
       "cantidad": 1
     }
   ]
