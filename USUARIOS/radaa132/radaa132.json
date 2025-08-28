@@ -169,7 +169,7 @@
     {
       "id": 188,
       "nombre": "Sandman",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 104,
@@ -694,6 +694,16 @@
     {
       "id": 560,
       "nombre": "MACGYVER-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 827,
+      "nombre": "STRYKER",
+      "cantidad": 1
+    },
+    {
+      "id": 56,
+      "nombre": "nova",
       "cantidad": 1
     }
   ]

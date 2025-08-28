@@ -529,7 +529,7 @@
         {
             "id": 548,
             "nombre": "Snake-Plissken",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 410,
@@ -1859,7 +1859,7 @@
         {
             "id": 270,
             "nombre": "Napoleon Bonafrog",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 59,
@@ -2459,7 +2459,7 @@
         {
             "id": 802,
             "nombre": "ROBIN",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 563,
@@ -2619,6 +2619,16 @@
         {
             "id": 760,
             "nombre": "Shura-de-Capricornio",
+            "cantidad": 1
+        },
+        {
+            "id": 721,
+            "nombre": "DB-109",
+            "cantidad": 1
+        },
+        {
+            "id": 269,
+            "nombre": "Mona Lisa",
             "cantidad": 1
         }
     ]

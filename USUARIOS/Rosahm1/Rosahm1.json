@@ -1079,7 +1079,7 @@
     {
       "id": 541,
       "nombre": "COBRA-1986",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 470,
@@ -1164,7 +1164,7 @@
     {
       "id": 157,
       "nombre": "Bluegrass",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 156,
@@ -2644,6 +2644,11 @@
     {
       "id": 878,
       "nombre": "FALCON",
+      "cantidad": 1
+    },
+    {
+      "id": 858,
+      "nombre": "FREDDY-JAIL",
       "cantidad": 1
     }
   ]

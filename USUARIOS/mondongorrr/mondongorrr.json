@@ -274,7 +274,7 @@
         {
             "id": 567,
             "nombre": "JAKE-ROBERTS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 69,
@@ -684,7 +684,7 @@
         {
             "id": 269,
             "nombre": "Mona Lisa",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 156,
@@ -1314,6 +1314,36 @@
         {
             "id": 8,
             "nombre": "Hades",
+            "cantidad": 1
+        },
+        {
+            "id": 272,
+            "nombre": "Panda Khan",
+            "cantidad": 1
+        },
+        {
+            "id": 741,
+            "nombre": "Camus-de-Acuario",
+            "cantidad": 1
+        },
+        {
+            "id": 21,
+            "nombre": "Windfang",
+            "cantidad": 1
+        },
+        {
+            "id": 44,
+            "nombre": "Fly",
+            "cantidad": 1
+        },
+        {
+            "id": 64,
+            "nombre": "evil crocodine",
+            "cantidad": 1
+        },
+        {
+            "id": 270,
+            "nombre": "Napoleon Bonafrog",
             "cantidad": 1
         }
     ]
