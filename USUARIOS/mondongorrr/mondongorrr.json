@@ -514,7 +514,7 @@
         {
             "id": 225,
             "nombre": "Guarida Felina",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 191,
@@ -1434,6 +1434,11 @@
         {
             "id": 782,
             "nombre": "BATMAN",
+            "cantidad": 1
+        },
+        {
+            "id": 237,
+            "nombre": "Sky Shadow",
             "cantidad": 1
         }
     ]
