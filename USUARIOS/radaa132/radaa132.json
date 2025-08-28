@@ -34,7 +34,7 @@
     {
       "id": 496,
       "nombre": "LUCA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 422,
@@ -704,6 +704,16 @@
     {
       "id": 56,
       "nombre": "nova",
+      "cantidad": 1
+    },
+    {
+      "id": 45,
+      "nombre": "garuda",
+      "cantidad": 1
+    },
+    {
+      "id": 102,
+      "nombre": "General Hawk",
       "cantidad": 1
     }
   ]
