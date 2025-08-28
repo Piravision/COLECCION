@@ -219,7 +219,7 @@
     {
       "id": 523,
       "nombre": "lara2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 554,
@@ -889,7 +889,7 @@
     {
       "id": 831,
       "nombre": "BISON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 330,
@@ -1279,6 +1279,26 @@
     {
       "id": 328,
       "nombre": "Juggernaut",
+      "cantidad": 1
+    },
+    {
+      "id": 259,
+      "nombre": "Ojo Rojo",
+      "cantidad": 1
+    },
+    {
+      "id": 240,
+      "nombre": "Terror Drome",
+      "cantidad": 1
+    },
+    {
+      "id": 873,
+      "nombre": "BLACK-WIDOW",
+      "cantidad": 1
+    },
+    {
+      "id": 649,
+      "nombre": "DB-037",
       "cantidad": 1
     }
   ]

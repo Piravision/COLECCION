@@ -814,7 +814,7 @@
     {
       "id": 118,
       "nombre": "Man at Arms",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 77,
@@ -1139,6 +1139,16 @@
     {
       "id": 597,
       "nombre": "LOUIS-NAPOLEON",
+      "cantidad": 1
+    },
+    {
+      "id": 799,
+      "nombre": "POISON-IVY",
+      "cantidad": 1
+    },
+    {
+      "id": 833,
+      "nombre": "blanka2",
       "cantidad": 1
     }
   ]
