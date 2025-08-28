@@ -889,7 +889,7 @@
         {
             "id": 831,
             "nombre": "BISON",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 330,
@@ -1304,6 +1304,11 @@
         {
             "id": 566,
             "nombre": "BIG-BOSSMAN",
+            "cantidad": 1
+        },
+        {
+            "id": 549,
+            "nombre": "T-1000",
             "cantidad": 1
         }
     ]
