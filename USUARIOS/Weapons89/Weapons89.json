@@ -1524,7 +1524,7 @@
         {
             "id": 735,
             "nombre": "Aiacos",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 398,
@@ -1619,6 +1619,11 @@
         {
             "id": 217,
             "nombre": "Cobra   H.I.S.S.",
+            "cantidad": 1
+        },
+        {
+            "id": 547,
+            "nombre": "Snake-Plissken",
             "cantidad": 1
         }
     ]
