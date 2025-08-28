@@ -874,7 +874,7 @@
     {
       "id": 499,
       "nombre": "seed",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 411,
@@ -1794,7 +1794,7 @@
     {
       "id": 429,
       "nombre": "sniper",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 343,
@@ -3334,6 +3334,11 @@
     {
       "id": 894,
       "nombre": "RED-SKULL",
+      "cantidad": 1
+    },
+    {
+      "id": 787,
+      "nombre": "DOS-CARAS",
       "cantidad": 1
     }
   ]
