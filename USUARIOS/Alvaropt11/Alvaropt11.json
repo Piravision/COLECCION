@@ -19,7 +19,7 @@
         {
             "id": 159,
             "nombre": "Quicksilver",
-            "cantidad": 6
+            "cantidad": 5
         },
         {
             "id": 50,
@@ -2499,6 +2499,11 @@
         {
             "id": 94,
             "nombre": "Goliath",
+            "cantidad": 1
+        },
+        {
+            "id": 158,
+            "nombre": "Copper Kid",
             "cantidad": 1
         }
     ]
