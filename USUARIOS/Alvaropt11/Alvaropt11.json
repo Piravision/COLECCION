@@ -594,7 +594,7 @@
         {
             "id": 246,
             "nombre": "Jaga",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 565,
@@ -2674,6 +2674,11 @@
         {
             "id": 149,
             "nombre": "Modo",
+            "cantidad": 1
+        },
+        {
+            "id": 250,
+            "nombre": "Snarf",
             "cantidad": 1
         }
     ]

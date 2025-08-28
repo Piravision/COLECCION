@@ -104,7 +104,7 @@
     {
       "id": 221,
       "nombre": "Espada Atlantean",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 244,
@@ -769,7 +769,7 @@
     {
       "id": 519,
       "nombre": "Tortugamóvil",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 146,
@@ -1744,6 +1744,11 @@
     {
       "id": 625,
       "nombre": "DB-013",
+      "cantidad": 1
+    },
+    {
+      "id": 659,
+      "nombre": "DB-047",
       "cantidad": 1
     }
   ]
