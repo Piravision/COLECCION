@@ -2259,7 +2259,7 @@
         {
             "id": 95,
             "nombre": "Hudson",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 398,
@@ -2594,6 +2594,11 @@
         {
             "id": 373,
             "nombre": "SHAFT",
+            "cantidad": 1
+        },
+        {
+            "id": 441,
+            "nombre": "slig",
             "cantidad": 1
         }
     ]
