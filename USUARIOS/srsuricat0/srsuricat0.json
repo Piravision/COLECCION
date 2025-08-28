@@ -114,7 +114,7 @@
         {
             "id": 367,
             "nombre": "BEMONT",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 297,
@@ -3344,6 +3344,11 @@
         {
             "id": 114,
             "nombre": "Storm Shadow",
+            "cantidad": 1
+        },
+        {
+            "id": 368,
+            "nombre": "DRACULA1",
             "cantidad": 1
         }
     ]

@@ -489,7 +489,7 @@
     {
       "id": 700,
       "nombre": "DB-088",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 368,
@@ -819,7 +819,7 @@
     {
       "id": 838,
       "nombre": "dhalsim2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 573,
@@ -1234,6 +1234,26 @@
     {
       "id": 915,
       "nombre": "WONDER-WOMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 168,
+      "nombre": "Hobgoblin",
+      "cantidad": 1
+    },
+    {
+      "id": 878,
+      "nombre": "FALCON",
+      "cantidad": 1
+    },
+    {
+      "id": 865,
+      "nombre": "ROBOCOP-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 333,
+      "nombre": "Omega Rojo",
       "cantidad": 1
     }
   ]

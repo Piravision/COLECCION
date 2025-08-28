@@ -1789,7 +1789,7 @@
         {
             "id": 368,
             "nombre": "DRACULA1",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 588,
@@ -2574,6 +2574,11 @@
         {
             "id": 2,
             "nombre": "Bravestarr",
+            "cantidad": 1
+        },
+        {
+            "id": 367,
+            "nombre": "BEMONT",
             "cantidad": 1
         }
     ]
