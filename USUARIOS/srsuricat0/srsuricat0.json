@@ -1154,7 +1154,7 @@
         {
             "id": 383,
             "nombre": "viper",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 469,
@@ -3429,6 +3429,11 @@
         {
             "id": 36,
             "nombre": "baduck",
+            "cantidad": 1
+        },
+        {
+            "id": 118,
+            "nombre": "Man at Arms",
             "cantidad": 1
         }
     ]

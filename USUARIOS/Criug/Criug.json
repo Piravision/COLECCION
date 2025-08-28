@@ -194,7 +194,7 @@
     {
       "id": 384,
       "nombre": "aku aku",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 102,
@@ -664,7 +664,7 @@
     {
       "id": 7,
       "nombre": "El Patriarca",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 256,
@@ -1059,7 +1059,7 @@
     {
       "id": 560,
       "nombre": "MACGYVER-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 567,
@@ -1894,7 +1894,7 @@
     {
       "id": 412,
       "nombre": "big2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 699,
@@ -2059,7 +2059,7 @@
     {
       "id": 771,
       "nombre": "rita",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 573,
@@ -2709,6 +2709,11 @@
     {
       "id": 805,
       "nombre": "GORO",
+      "cantidad": 1
+    },
+    {
+      "id": 791,
+      "nombre": "GORDON",
       "cantidad": 1
     }
   ]

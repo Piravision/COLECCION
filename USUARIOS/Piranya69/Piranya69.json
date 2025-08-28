@@ -79,7 +79,7 @@
         {
             "id": 118,
             "nombre": "Man at Arms",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 230,
@@ -409,7 +409,7 @@
         {
             "id": 88,
             "nombre": "Zackary Foxx",
-            "cantidad": 6
+            "cantidad": 7
         },
         {
             "id": 518,
@@ -1004,7 +1004,7 @@
         {
             "id": 71,
             "nombre": "herhero",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 535,
@@ -2304,7 +2304,7 @@
         {
             "id": 641,
             "nombre": "DB-029",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 410,
@@ -3354,6 +3354,46 @@
         {
             "id": 36,
             "nombre": "baduck",
+            "cantidad": 1
+        },
+        {
+            "id": 705,
+            "nombre": "DB-093",
+            "cantidad": 1
+        },
+        {
+            "id": 748,
+            "nombre": "HAdes2",
+            "cantidad": 1
+        },
+        {
+            "id": 783,
+            "nombre": "BRUCE-WAYNE",
+            "cantidad": 1
+        },
+        {
+            "id": 809,
+            "nombre": "KABAL",
+            "cantidad": 1
+        },
+        {
+            "id": 801,
+            "nombre": "RED-CLAW",
+            "cantidad": 1
+        },
+        {
+            "id": 906,
+            "nombre": "DR-FATE",
+            "cantidad": 1
+        },
+        {
+            "id": 91,
+            "nombre": "Bronx",
+            "cantidad": 1
+        },
+        {
+            "id": 383,
+            "nombre": "viper",
             "cantidad": 1
         }
     ]
