@@ -397,7 +397,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de Chechyan</h2>
-                <span>Cartas obtenidas: 3 / 536</span>
+                <span>Cartas obtenidas: 6 / 854</span>
             </div>
             
             <div class="details">
@@ -406,8 +406,18 @@
     <h2>Resumen por Serie</h2>
 					<div class="summary-grid">
 						
+							<div class="summary-button" onclick="mostrarCartas('Batman')">
+								<img src="/COLECCION/botones/batman.png" alt="Batman" class="summary-button-image">
+								<span class="summary-button-counter">1 / 26</span>
+							</div>
+						
 							<div class="summary-button" onclick="mostrarCartas('Gargoyles')">
 								<img src="/COLECCION/botones/gargoyles.png" alt="Gargoyles" class="summary-button-image">
+								<span class="summary-button-counter">1 / 12</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Resident Evil')">
+								<img src="/COLECCION/botones/resident-evil.png" alt="Resident Evil" class="summary-button-image">
 								<span class="summary-button-counter">1 / 12</span>
 							</div>
 						
@@ -421,10 +431,39 @@
 								<span class="summary-button-counter">1 / 18</span>
 							</div>
 						
+							<div class="summary-button" onclick="mostrarCartas('Varios')">
+								<img src="/COLECCION/botones/varios.png" alt="Varios" class="summary-button-image">
+								<span class="summary-button-counter">1 / 19</span>
+							</div>
+						
 					</div>
 				</div>
                     
                     <div id="cards-container">
+                        
+                            <div class="series-cards" id="series-Batman" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Batman</h2>
+                                    <span>Cartas obtenidas: 1 / 26</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 792</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '792', 'HARLEY-QUEEN'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Batman/HARLEY-QUEEN(27-8-2025-4_29).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Batman/HARLEY-QUEEN(27-8-2025-4_29).png" alt="HARLEY-QUEEN">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>HARLEY-QUEEN (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
                         
                             <div class="series-cards" id="series-Gargoyles" style="display: none;">
                                 <div class="section-title-2">
@@ -444,6 +483,30 @@
                                             <div class="cromo-details">
                                                 <h3>Goliath (x1)</h3>
                                                 <p>Rareza: Legendario</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Resident-Evil" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Resident Evil</h2>
+                                    <span>Cartas obtenidas: 1 / 12</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 447</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '447', 'hunk'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Resident Evil/PERSONAJE/hunk.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Resident Evil/PERSONAJE/hunk.png" alt="hunk">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>hunk (x1)</h3>
+                                                <p>Rareza: Común</p>
                                             </div>
                                         </div>
                                     
@@ -492,6 +555,30 @@
                                             <div class="cromo-details">
                                                 <h3>Thundercracker (x1)</h3>
                                                 <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Varios" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Varios</h2>
+                                    <span>Cartas obtenidas: 1 / 19</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 540</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '540', 'CHUCK-NORRIS'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/VARIOS/CHUCK-NORRIS(12-8-2025-17_57).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/VARIOS/CHUCK-NORRIS(12-8-2025-17_57).png" alt="CHUCK-NORRIS">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>CHUCK-NORRIS (x1)</h3>
+                                                <p>Rareza: Legendario</p>
                                             </div>
                                         </div>
                                     
