@@ -479,7 +479,7 @@
         {
             "id": 509,
             "nombre": "NINA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 143,
@@ -2524,6 +2524,11 @@
         {
             "id": 159,
             "nombre": "Quicksilver",
+            "cantidad": 1
+        },
+        {
+            "id": 442,
+            "nombre": "slig2",
             "cantidad": 1
         }
     ]
