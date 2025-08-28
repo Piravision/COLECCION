@@ -189,7 +189,7 @@
     {
       "id": 8,
       "nombre": "Hades",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 27,
@@ -314,7 +314,7 @@
     {
       "id": 105,
       "nombre": "Sargento Slaughter",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 204,
@@ -324,7 +324,7 @@
     {
       "id": 310,
       "nombre": "Dan",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 74,
@@ -369,7 +369,7 @@
     {
       "id": 426,
       "nombre": "ocelot2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 239,
@@ -639,7 +639,7 @@
     {
       "id": 536,
       "nombre": "Xena-Jail",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 421,
@@ -789,7 +789,7 @@
     {
       "id": 482,
       "nombre": "Escorpión",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 368,
@@ -1024,7 +1024,7 @@
     {
       "id": 6,
       "nombre": "El Patriarca",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 29,
@@ -1149,7 +1149,7 @@
     {
       "id": 247,
       "nombre": "Linx O",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 46,
@@ -1169,7 +1169,7 @@
     {
       "id": 539,
       "nombre": "BRUCE-LEE2",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 28,
@@ -1409,7 +1409,7 @@
     {
       "id": 339,
       "nombre": "Shun de Andrómeda",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 243,
@@ -1514,7 +1514,7 @@
     {
       "id": 21,
       "nombre": "Windfang",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 355,
@@ -1679,12 +1679,12 @@
     {
       "id": 723,
       "nombre": "DB-111",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 636,
       "nombre": "DB-024",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 224,
@@ -1889,7 +1889,7 @@
     {
       "id": 181,
       "nombre": "Hydro man",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 480,
@@ -1989,7 +1989,7 @@
     {
       "id": 313,
       "nombre": "Cable",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 647,
@@ -2219,12 +2219,12 @@
     {
       "id": 196,
       "nombre": "Ripster",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 687,
       "nombre": "DB-075",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 638,
@@ -2329,7 +2329,7 @@
     {
       "id": 622,
       "nombre": "DB-010",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 44,
@@ -2544,7 +2544,7 @@
     {
       "id": 703,
       "nombre": "DB-091",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 730,
@@ -2669,6 +2669,61 @@
     {
       "id": 900,
       "nombre": "THOR",
+      "cantidad": 1
+    },
+    {
+      "id": 853,
+      "nombre": "Zangief2",
+      "cantidad": 1
+    },
+    {
+      "id": 739,
+      "nombre": "Athenea",
+      "cantidad": 1
+    },
+    {
+      "id": 759,
+      "nombre": "Shion",
+      "cantidad": 1
+    },
+    {
+      "id": 604,
+      "nombre": "RALF-PETERSON",
+      "cantidad": 1
+    },
+    {
+      "id": 595,
+      "nombre": "JULIAN-ROSS",
+      "cantidad": 1
+    },
+    {
+      "id": 136,
+      "nombre": "Mazinger Z",
+      "cantidad": 1
+    },
+    {
+      "id": 692,
+      "nombre": "DB-080",
+      "cantidad": 1
+    },
+    {
+      "id": 598,
+      "nombre": "MARGUS-MANFRED",
+      "cantidad": 1
+    },
+    {
+      "id": 580,
+      "nombre": "BRUCE-HARPER",
+      "cantidad": 1
+    },
+    {
+      "id": 836,
+      "nombre": "Chunli2",
+      "cantidad": 1
+    },
+    {
+      "id": 774,
+      "nombre": "white",
       "cantidad": 1
     }
   ]

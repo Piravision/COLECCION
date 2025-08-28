@@ -479,7 +479,7 @@
     {
       "id": 101,
       "nombre": "Duke",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 307,
@@ -1404,7 +1404,7 @@
     {
       "id": 344,
       "nombre": "Flazzard 3",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 37,
@@ -3314,6 +3314,11 @@
     {
       "id": 886,
       "nombre": "KARNAK",
+      "cantidad": 1
+    },
+    {
+      "id": 866,
+      "nombre": "SNAKE-JAIL",
       "cantidad": 1
     }
   ]

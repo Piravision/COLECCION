@@ -4,7 +4,7 @@
     {
       "id": 250,
       "nombre": "Snarf",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 472,
@@ -449,7 +449,7 @@
     {
       "id": 389,
       "nombre": "neo cortex",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 415,
@@ -1069,6 +1069,26 @@
     {
       "id": 688,
       "nombre": "DB-076",
+      "cantidad": 1
+    },
+    {
+      "id": 24,
+      "nombre": "Bobby",
+      "cantidad": 1
+    },
+    {
+      "id": 618,
+      "nombre": "DB-006",
+      "cantidad": 1
+    },
+    {
+      "id": 487,
+      "nombre": "Jacques",
+      "cantidad": 1
+    },
+    {
+      "id": 867,
+      "nombre": "SONNY-JAIL",
       "cantidad": 1
     }
   ]
