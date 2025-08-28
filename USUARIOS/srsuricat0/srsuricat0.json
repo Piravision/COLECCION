@@ -49,7 +49,7 @@
     {
       "id": 134,
       "nombre": "Tri Klops",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 403,
@@ -2534,7 +2534,7 @@
     {
       "id": 545,
       "nombre": "IVAN-DRAGO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 682,
@@ -3384,7 +3384,7 @@
     {
       "id": 817,
       "nombre": "RAIDEN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 874,
@@ -3484,6 +3484,21 @@
     {
       "id": 829,
       "nombre": "AKUMA",
+      "cantidad": 1
+    },
+    {
+      "id": 514,
+      "nombre": "Hálcon-Vigía",
+      "cantidad": 1
+    },
+    {
+      "id": 784,
+      "nombre": "BULLOCK",
+      "cantidad": 1
+    },
+    {
+      "id": 707,
+      "nombre": "DB-095",
       "cantidad": 1
     }
   ]
