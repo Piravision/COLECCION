@@ -1184,7 +1184,7 @@
         {
             "id": 31,
             "nombre": "Tiamat",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 333,
@@ -3364,6 +3364,11 @@
         {
             "id": 712,
             "nombre": "DB-100",
+            "cantidad": 1
+        },
+        {
+            "id": 606,
+            "nombre": "SANDY-WINTERS",
             "cantidad": 1
         }
     ]
