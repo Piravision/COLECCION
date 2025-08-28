@@ -1587,11 +1587,6 @@
             "cantidad": 1
         },
         {
-            "id": 368,
-            "nombre": "DRACULA1",
-            "cantidad": 1
-        },
-        {
             "id": 562,
             "nombre": "PETER-GRIFFIN-JAIL",
             "cantidad": 3
@@ -3334,6 +3329,11 @@
         {
             "id": 338,
             "nombre": "Shiryū de Dragón",
+            "cantidad": 1
+        },
+        {
+            "id": 372,
+            "nombre": "RENARD",
             "cantidad": 1
         }
     ]
