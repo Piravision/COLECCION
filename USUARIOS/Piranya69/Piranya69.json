@@ -499,7 +499,7 @@
     {
       "id": 24,
       "nombre": "Bobby",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 277,
@@ -1229,7 +1229,7 @@
     {
       "id": 221,
       "nombre": "Espada Atlantean",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 534,
@@ -1799,7 +1799,7 @@
     {
       "id": 343,
       "nombre": "Flazzard 2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 362,
@@ -2149,7 +2149,7 @@
     {
       "id": 558,
       "nombre": "LUKE-SKYWALKER-JAIL",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 151,
@@ -2239,7 +2239,7 @@
     {
       "id": 632,
       "nombre": "DB-020",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 616,
@@ -3469,6 +3469,11 @@
     {
       "id": 826,
       "nombre": "SONYA-BLADE",
+      "cantidad": 1
+    },
+    {
+      "id": 659,
+      "nombre": "DB-047",
       "cantidad": 1
     }
   ]
