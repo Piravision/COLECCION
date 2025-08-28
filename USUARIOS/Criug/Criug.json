@@ -1169,7 +1169,7 @@
         {
             "id": 141,
             "nombre": "Nosedive Flashblade",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 55,
@@ -1179,7 +1179,7 @@
         {
             "id": 144,
             "nombre": "Grin-Hardwing",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 11,
@@ -1459,7 +1459,7 @@
         {
             "id": 520,
             "nombre": "BenGalí",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 402,
@@ -2894,6 +2894,16 @@
         {
             "id": 200,
             "nombre": "Swordo",
+            "cantidad": 1
+        },
+        {
+            "id": 304,
+            "nombre": "Runabout",
+            "cantidad": 1
+        },
+        {
+            "id": 142,
+            "nombre": "Tanya Vanderflock",
             "cantidad": 1
         }
     ]
