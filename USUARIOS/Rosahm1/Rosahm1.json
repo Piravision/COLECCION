@@ -589,7 +589,7 @@
         {
             "id": 469,
             "nombre": "Dahlia Gillespie",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 76,
@@ -2534,6 +2534,11 @@
         {
             "id": 147,
             "nombre": "Carbine",
+            "cantidad": 1
+        },
+        {
+            "id": 478,
+            "nombre": "nurse",
             "cantidad": 1
         }
     ]

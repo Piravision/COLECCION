@@ -1479,7 +1479,7 @@
         {
             "id": 478,
             "nombre": "nurse",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 351,
@@ -2514,6 +2514,11 @@
         {
             "id": 92,
             "nombre": "Brooklyn",
+            "cantidad": 1
+        },
+        {
+            "id": 469,
+            "nombre": "Dahlia Gillespie",
             "cantidad": 1
         }
     ]
