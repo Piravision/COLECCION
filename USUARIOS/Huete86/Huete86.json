@@ -1669,7 +1669,7 @@
     {
       "id": 571,
       "nombre": "RODY-PIPPER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 634,
@@ -2499,7 +2499,7 @@
     {
       "id": 838,
       "nombre": "dhalsim2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 802,
@@ -2824,6 +2824,11 @@
     {
       "id": 883,
       "nombre": "HULK",
+      "cantidad": 1
+    },
+    {
+      "id": 615,
+      "nombre": "DB-003",
       "cantidad": 1
     }
   ]

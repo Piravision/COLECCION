@@ -1187,11 +1187,6 @@
             "cantidad": 1
         },
         {
-            "id": 518,
-            "nombre": "Tecmódromo",
-            "cantidad": 1
-        },
-        {
             "id": 163,
             "nombre": "Ben Parker",
             "cantidad": 2
@@ -1834,7 +1829,7 @@
         {
             "id": 10,
             "nombre": "Conan",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 574,
@@ -2444,7 +2439,7 @@
         {
             "id": 607,
             "nombre": "SANDY-WINTERS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 621,
@@ -2639,6 +2634,16 @@
         {
             "id": 510,
             "nombre": "PAUL",
+            "cantidad": 1
+        },
+        {
+            "id": 289,
+            "nombre": "Tokka",
+            "cantidad": 1
+        },
+        {
+            "id": 505,
+            "nombre": "Hwoarang",
             "cantidad": 1
         }
     ]
