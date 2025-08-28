@@ -469,7 +469,7 @@
     {
       "id": 42,
       "nombre": "dai 2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 161,
@@ -1174,6 +1174,16 @@
     {
       "id": 808,
       "nombre": "JOHNNY-CAGE",
+      "cantidad": 1
+    },
+    {
+      "id": 266,
+      "nombre": "Leonardo",
+      "cantidad": 1
+    },
+    {
+      "id": 551,
+      "nombre": "BARRACUS-JAIL",
       "cantidad": 1
     }
   ]

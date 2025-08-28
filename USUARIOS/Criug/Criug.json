@@ -34,7 +34,7 @@
     {
       "id": 306,
       "nombre": "Shockwave",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 290,
@@ -104,7 +104,7 @@
     {
       "id": 244,
       "nombre": "Felina",
-      "cantidad": 4
+      "cantidad": 6
     },
     {
       "id": 18,
@@ -119,7 +119,7 @@
     {
       "id": 9,
       "nombre": "Rhadamanthys",
-      "cantidad": 3
+      "cantidad": 5
     },
     {
       "id": 225,
@@ -144,7 +144,7 @@
     {
       "id": 179,
       "nombre": "Duende Verde",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 511,
@@ -249,7 +249,7 @@
     {
       "id": 74,
       "nombre": "larhart",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 226,
@@ -374,7 +374,7 @@
     {
       "id": 81,
       "nombre": "vearn",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 319,
@@ -529,7 +529,7 @@
     {
       "id": 404,
       "nombre": "sefirot",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 536,
@@ -594,7 +594,7 @@
     {
       "id": 128,
       "nombre": "Faker",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 415,
@@ -634,7 +634,7 @@
     {
       "id": 65,
       "nombre": "flazzard",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 176,
@@ -674,7 +674,7 @@
     {
       "id": 113,
       "nombre": "Serpentor",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 317,
@@ -764,7 +764,7 @@
     {
       "id": 150,
       "nombre": "Throttle",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 72,
@@ -814,7 +814,7 @@
     {
       "id": 372,
       "nombre": "RENARD",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 458,
@@ -1534,7 +1534,7 @@
     {
       "id": 546,
       "nombre": "MARTY-MCFLY",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 10,
@@ -1619,7 +1619,7 @@
     {
       "id": 417,
       "nombre": "grayfox",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 628,
@@ -1629,7 +1629,7 @@
     {
       "id": 644,
       "nombre": "DB-032",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 592,
@@ -1654,7 +1654,7 @@
     {
       "id": 263,
       "nombre": "Casey Jones",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 627,
@@ -1789,7 +1789,7 @@
     {
       "id": 723,
       "nombre": "DB-111",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 199,
@@ -1964,7 +1964,7 @@
     {
       "id": 364,
       "nombre": "HulkHogan",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 674,
@@ -2064,7 +2064,7 @@
     {
       "id": 573,
       "nombre": "ULTIMATE-WARRIOR",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 555,
@@ -2279,7 +2279,7 @@
     {
       "id": 387,
       "nombre": "Koala",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 621,
@@ -2364,7 +2364,7 @@
     {
       "id": 471,
       "nombre": "Garland",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 651,
@@ -2474,7 +2474,7 @@
     {
       "id": 483,
       "nombre": "Spider-Woman",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 797,
@@ -2504,7 +2504,7 @@
     {
       "id": 108,
       "nombre": "Baronesa",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 103,
@@ -2714,6 +2714,91 @@
     {
       "id": 791,
       "nombre": "GORDON",
+      "cantidad": 1
+    },
+    {
+      "id": 891,
+      "nombre": "MODOK",
+      "cantidad": 1
+    },
+    {
+      "id": 793,
+      "nombre": "HIEDRA-",
+      "cantidad": 1
+    },
+    {
+      "id": 854,
+      "nombre": "RIC-FLAIR",
+      "cantidad": 1
+    },
+    {
+      "id": 258,
+      "nombre": "Mumm Ra",
+      "cantidad": 1
+    },
+    {
+      "id": 675,
+      "nombre": "DB-063",
+      "cantidad": 1
+    },
+    {
+      "id": 829,
+      "nombre": "AKUMA",
+      "cantidad": 1
+    },
+    {
+      "id": 250,
+      "nombre": "Snarf",
+      "cantidad": 1
+    },
+    {
+      "id": 735,
+      "nombre": "Aiacos",
+      "cantidad": 1
+    },
+    {
+      "id": 690,
+      "nombre": "DB-078",
+      "cantidad": 1
+    },
+    {
+      "id": 902,
+      "nombre": "AQUAMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 36,
+      "nombre": "baduck",
+      "cantidad": 1
+    },
+    {
+      "id": 467,
+      "nombre": "Cheryl",
+      "cantidad": 1
+    },
+    {
+      "id": 780,
+      "nombre": "BARBARA-GORDON",
+      "cantidad": 1
+    },
+    {
+      "id": 439,
+      "nombre": "mudokons",
+      "cantidad": 1
+    },
+    {
+      "id": 799,
+      "nombre": "POISON-IVY",
+      "cantidad": 1
+    },
+    {
+      "id": 655,
+      "nombre": "DB-043",
+      "cantidad": 1
+    },
+    {
+      "id": 756,
+      "nombre": "Rhadamantis2",
       "cantidad": 1
     }
   ]
