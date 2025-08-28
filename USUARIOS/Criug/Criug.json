@@ -1054,7 +1054,7 @@
         {
             "id": 449,
             "nombre": "leon2",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 560,
@@ -2829,6 +2829,11 @@
         {
             "id": 26,
             "nombre": "Eric",
+            "cantidad": 1
+        },
+        {
+            "id": 443,
+            "nombre": "ada",
             "cantidad": 1
         }
     ]
