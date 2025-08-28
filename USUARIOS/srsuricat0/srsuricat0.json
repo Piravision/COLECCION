@@ -74,7 +74,7 @@
         {
             "id": 354,
             "nombre": "alice",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 180,
@@ -1079,7 +1079,7 @@
         {
             "id": 80,
             "nombre": "robot",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 177,
@@ -1584,7 +1584,7 @@
         {
             "id": 468,
             "nombre": "CybilBennett",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 562,
@@ -1724,7 +1724,7 @@
         {
             "id": 199,
             "nombre": "Streex",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 457,
@@ -1889,7 +1889,7 @@
         {
             "id": 212,
             "nombre": "Asteroide M",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 564,
@@ -2254,7 +2254,7 @@
         {
             "id": 500,
             "nombre": "shu",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 227,
@@ -2279,7 +2279,7 @@
         {
             "id": 356,
             "nombre": "busuzima",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 66,
@@ -2564,7 +2564,7 @@
         {
             "id": 158,
             "nombre": "Copper Kid",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 593,
@@ -2724,7 +2724,7 @@
         {
             "id": 767,
             "nombre": "green",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 660,
@@ -3184,7 +3184,7 @@
         {
             "id": 559,
             "nombre": "MABARRACUS-JAIL",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 522,
@@ -3244,7 +3244,7 @@
         {
             "id": 844,
             "nombre": "HONDA2",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 254,
@@ -3394,6 +3394,21 @@
         {
             "id": 355,
             "nombre": "bayur",
+            "cantidad": 1
+        },
+        {
+            "id": 832,
+            "nombre": "BLANKA",
+            "cantidad": 1
+        },
+        {
+            "id": 644,
+            "nombre": "DB-032",
+            "cantidad": 1
+        },
+        {
+            "id": 67,
+            "nombre": "flazzard3",
             "cantidad": 1
         }
     ]
