@@ -3399,7 +3399,7 @@
     {
       "id": 832,
       "nombre": "BLANKA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 644,
@@ -3464,7 +3464,7 @@
     {
       "id": 802,
       "nombre": "ROBIN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 488,
@@ -3509,6 +3509,11 @@
     {
       "id": 914,
       "nombre": "SUPERMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 824,
+      "nombre": "SINDEL",
       "cantidad": 1
     }
   ]

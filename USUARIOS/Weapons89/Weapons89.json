@@ -189,7 +189,7 @@
         {
             "id": 303,
             "nombre": "Megatron",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 172,
@@ -1649,6 +1649,11 @@
         {
             "id": 581,
             "nombre": "CLIFFORD-YUMA",
+            "cantidad": 1
+        },
+        {
+            "id": 593,
+            "nombre": "JOHNNY-MASON",
             "cantidad": 1
         }
     ]

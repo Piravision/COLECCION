@@ -644,7 +644,7 @@
     {
       "id": 106,
       "nombre": "Scarlett",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 309,
@@ -1554,7 +1554,7 @@
     {
       "id": 294,
       "nombre": "Hound",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 602,
@@ -2034,7 +2034,7 @@
     {
       "id": 631,
       "nombre": "DB-019",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 650,
@@ -2174,7 +2174,7 @@
     {
       "id": 563,
       "nombre": "VADER-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 443,
@@ -2729,6 +2729,16 @@
     {
       "id": 851,
       "nombre": "VEGA",
+      "cantidad": 1
+    },
+    {
+      "id": 640,
+      "nombre": "DB-028",
+      "cantidad": 1
+    },
+    {
+      "id": 844,
+      "nombre": "HONDA2",
       "cantidad": 1
     }
   ]
