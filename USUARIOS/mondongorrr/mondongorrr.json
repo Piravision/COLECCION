@@ -274,7 +274,7 @@
         {
             "id": 567,
             "nombre": "JAKE-ROBERTS",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 69,
@@ -1344,6 +1344,11 @@
         {
             "id": 270,
             "nombre": "Napoleon Bonafrog",
+            "cantidad": 1
+        },
+        {
+            "id": 564,
+            "nombre": "SLIMER",
             "cantidad": 1
         }
     ]
