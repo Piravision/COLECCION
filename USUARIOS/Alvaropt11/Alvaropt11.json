@@ -19,12 +19,12 @@
     {
       "id": 159,
       "nombre": "Quicksilver",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 50,
       "nombre": "Lonberuk",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 436,
@@ -279,7 +279,7 @@
     {
       "id": 221,
       "nombre": "Espada Atlantean",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 405,
@@ -649,7 +649,7 @@
     {
       "id": 347,
       "nombre": "Lizard",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 308,
@@ -744,7 +744,7 @@
     {
       "id": 7,
       "nombre": "El Patriarca",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 395,
@@ -914,7 +914,7 @@
     {
       "id": 640,
       "nombre": "DB-028",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 598,
@@ -1609,7 +1609,7 @@
     {
       "id": 546,
       "nombre": "MARTY-MCFLY",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 654,
@@ -2049,7 +2049,7 @@
     {
       "id": 808,
       "nombre": "JOHNNY-CAGE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 392,
@@ -2334,6 +2334,26 @@
     {
       "id": 217,
       "nombre": "Cobra   H.I.S.S.",
+      "cantidad": 1
+    },
+    {
+      "id": 844,
+      "nombre": "HONDA2",
+      "cantidad": 1
+    },
+    {
+      "id": 770,
+      "nombre": "red",
+      "cantidad": 1
+    },
+    {
+      "id": 164,
+      "nombre": "Black Cat",
+      "cantidad": 1
+    },
+    {
+      "id": 409,
+      "nombre": "Kōji-Kabuto",
       "cantidad": 1
     }
   ]

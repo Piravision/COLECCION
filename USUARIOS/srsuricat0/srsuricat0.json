@@ -304,7 +304,7 @@
     {
       "id": 415,
       "nombre": "emme",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 71,
@@ -494,7 +494,7 @@
     {
       "id": 60,
       "nombre": "baran",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 44,
@@ -524,7 +524,7 @@
     {
       "id": 76,
       "nombre": "masopho",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 256,
@@ -994,7 +994,7 @@
     {
       "id": 280,
       "nombre": "General Traag",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 34,
@@ -1139,12 +1139,12 @@
     {
       "id": 547,
       "nombre": "ROCKY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 175,
       "nombre": "Buitre",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 503,
@@ -1439,7 +1439,7 @@
     {
       "id": 391,
       "nombre": "piretripe",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 528,
@@ -1579,7 +1579,7 @@
     {
       "id": 106,
       "nombre": "Scarlett",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 468,
@@ -1659,7 +1659,7 @@
     {
       "id": 327,
       "nombre": "Dientes de Sable",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 18,
@@ -1834,12 +1834,12 @@
     {
       "id": 481,
       "nombre": "Capitán-Stargazer",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 563,
       "nombre": "VADER-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 491,
@@ -1859,7 +1859,7 @@
     {
       "id": 475,
       "nombre": "Incubus",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 235,
@@ -1929,7 +1929,7 @@
     {
       "id": 23,
       "nombre": "Amo del Calabozo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 413,
@@ -2234,7 +2234,7 @@
     {
       "id": 455,
       "nombre": "batsu",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 485,
@@ -2284,7 +2284,7 @@
     {
       "id": 356,
       "nombre": "busuzima",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 66,
@@ -2719,7 +2719,7 @@
     {
       "id": 771,
       "nombre": "rita",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 714,
@@ -3229,7 +3229,7 @@
     {
       "id": 657,
       "nombre": "DB-045",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 686,
@@ -3264,6 +3264,56 @@
     {
       "id": 764,
       "nombre": "Dragonzord",
+      "cantidad": 1
+    },
+    {
+      "id": 897,
+      "nombre": "SPIDER-MAN",
+      "cantidad": 1
+    },
+    {
+      "id": 746,
+      "nombre": "Deathmask-de-Cancer",
+      "cantidad": 1
+    },
+    {
+      "id": 862,
+      "nombre": "NEO-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 692,
+      "nombre": "DB-080",
+      "cantidad": 1
+    },
+    {
+      "id": 662,
+      "nombre": "DB-050",
+      "cantidad": 1
+    },
+    {
+      "id": 580,
+      "nombre": "BRUCE-HARPER",
+      "cantidad": 1
+    },
+    {
+      "id": 747,
+      "nombre": "Dohko-de-Libra",
+      "cantidad": 1
+    },
+    {
+      "id": 611,
+      "nombre": "TERRY-DENTON",
+      "cantidad": 1
+    },
+    {
+      "id": 750,
+      "nombre": "Milo-de-Escorpio",
+      "cantidad": 1
+    },
+    {
+      "id": 886,
+      "nombre": "KARNAK",
       "cantidad": 1
     }
   ]

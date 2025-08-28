@@ -194,7 +194,7 @@
     {
       "id": 255,
       "nombre": "Ma Mutt",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 216,
@@ -964,7 +964,7 @@
     {
       "id": 573,
       "nombre": "RODY-PIPPER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 84,
@@ -1284,7 +1284,7 @@
     {
       "id": 537,
       "nombre": "BOLO-YEUNG",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 339,
@@ -2109,7 +2109,7 @@
     {
       "id": 680,
       "nombre": "DB-068",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 536,
@@ -2174,7 +2174,7 @@
     {
       "id": 563,
       "nombre": "VADER-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 443,
@@ -2474,6 +2474,41 @@
     {
       "id": 535,
       "nombre": "Venkman-Jail",
+      "cantidad": 1
+    },
+    {
+      "id": 682,
+      "nombre": "DB-070",
+      "cantidad": 1
+    },
+    {
+      "id": 304,
+      "nombre": "Runabout",
+      "cantidad": 1
+    },
+    {
+      "id": 141,
+      "nombre": "Nosedive Flashblade",
+      "cantidad": 1
+    },
+    {
+      "id": 789,
+      "nombre": "ENIGMA",
+      "cantidad": 1
+    },
+    {
+      "id": 827,
+      "nombre": "STRYKER",
+      "cantidad": 1
+    },
+    {
+      "id": 885,
+      "nombre": "IRON-MAN",
+      "cantidad": 1
+    },
+    {
+      "id": 521,
+      "nombre": "León-O",
       "cantidad": 1
     }
   ]

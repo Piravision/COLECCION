@@ -589,7 +589,7 @@
     {
       "id": 433,
       "nombre": "vincent",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 349,
@@ -799,7 +799,7 @@
     {
       "id": 75,
       "nombre": "mac",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 347,
@@ -809,7 +809,7 @@
     {
       "id": 310,
       "nombre": "Dan",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 11,
@@ -909,7 +909,7 @@
     {
       "id": 263,
       "nombre": "Casey Jones",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 367,
@@ -1209,7 +1209,7 @@
     {
       "id": 515,
       "nombre": "Invasión-Saurians",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 145,
@@ -1699,7 +1699,7 @@
     {
       "id": 215,
       "nombre": "Castillo Grayskull",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 387,
@@ -2004,7 +2004,7 @@
     {
       "id": 516,
       "nombre": "LEGIÓN-DEL-DRAGÓN",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 554,
@@ -2584,7 +2584,7 @@
     {
       "id": 598,
       "nombre": "MARGUS-MANFRED",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 681,
@@ -2899,7 +2899,7 @@
     {
       "id": 104,
       "nombre": "Lady Jaye",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 260,
@@ -2924,7 +2924,7 @@
     {
       "id": 220,
       "nombre": "DRAGON QUEST",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 304,
@@ -3144,6 +3144,41 @@
     {
       "id": 838,
       "nombre": "dhalsim2",
+      "cantidad": 1
+    },
+    {
+      "id": 901,
+      "nombre": "ULTRON",
+      "cantidad": 1
+    },
+    {
+      "id": 794,
+      "nombre": "HUGO-STRANGE",
+      "cantidad": 1
+    },
+    {
+      "id": 604,
+      "nombre": "RALF-PETERSON",
+      "cantidad": 1
+    },
+    {
+      "id": 773,
+      "nombre": "Squatt",
+      "cantidad": 1
+    },
+    {
+      "id": 832,
+      "nombre": "BLANKA",
+      "cantidad": 1
+    },
+    {
+      "id": 909,
+      "nombre": "LOBO",
+      "cantidad": 1
+    },
+    {
+      "id": 770,
+      "nombre": "red",
       "cantidad": 1
     }
   ]
