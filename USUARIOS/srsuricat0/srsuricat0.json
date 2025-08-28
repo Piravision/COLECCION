@@ -219,7 +219,7 @@
         {
             "id": 138,
             "nombre": "Dr. Hell",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 421,
@@ -3454,6 +3454,11 @@
         {
             "id": 518,
             "nombre": "Tecmódromo",
+            "cantidad": 1
+        },
+        {
+            "id": 12,
+            "nombre": "Jezmine",
             "cantidad": 1
         }
     ]
