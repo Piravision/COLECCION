@@ -1674,7 +1674,7 @@
     {
       "id": 398,
       "nombre": "barret",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 749,
@@ -1734,6 +1734,31 @@
     {
       "id": 556,
       "nombre": "LEIA-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 123,
+      "nombre": "Sorceress",
+      "cantidad": 1
+    },
+    {
+      "id": 854,
+      "nombre": "RIC-FLAIR",
+      "cantidad": 1
+    },
+    {
+      "id": 675,
+      "nombre": "DB-063",
+      "cantidad": 1
+    },
+    {
+      "id": 503,
+      "nombre": "gon",
+      "cantidad": 1
+    },
+    {
+      "id": 19,
+      "nombre": "Set",
       "cantidad": 1
     }
   ]

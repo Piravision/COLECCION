@@ -44,7 +44,7 @@
     {
       "id": 109,
       "nombre": "Cobra Commander",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 697,
@@ -819,7 +819,7 @@
     {
       "id": 77,
       "nombre": "Maximum",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 845,
@@ -1119,6 +1119,26 @@
     {
       "id": 220,
       "nombre": "DRAGON QUEST",
+      "cantidad": 1
+    },
+    {
+      "id": 800,
+      "nombre": "RAS-AL-GHUL",
+      "cantidad": 1
+    },
+    {
+      "id": 515,
+      "nombre": "Invasión-Saurians",
+      "cantidad": 1
+    },
+    {
+      "id": 458,
+      "nombre": "hinata",
+      "cantidad": 1
+    },
+    {
+      "id": 597,
+      "nombre": "LOUIS-NAPOLEON",
       "cantidad": 1
     }
   ]
