@@ -34,7 +34,7 @@
         {
             "id": 92,
             "nombre": "Brooklyn",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 26,
@@ -2529,6 +2529,11 @@
         {
             "id": 442,
             "nombre": "slig2",
+            "cantidad": 1
+        },
+        {
+            "id": 147,
+            "nombre": "Carbine",
             "cantidad": 1
         }
     ]

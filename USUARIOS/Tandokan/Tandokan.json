@@ -399,7 +399,7 @@
     {
       "id": 209,
       "nombre": "Sovereign Rock Castle",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 506,
@@ -514,7 +514,7 @@
     {
       "id": 560,
       "nombre": "MACGYVER-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 180,
@@ -1044,6 +1044,26 @@
     {
       "id": 745,
       "nombre": "Dark-Shura-de-Capricornio",
+      "cantidad": 1
+    },
+    {
+      "id": 27,
+      "nombre": "Hank",
+      "cantidad": 1
+    },
+    {
+      "id": 222,
+      "nombre": "Espada de Metal Estrella",
+      "cantidad": 1
+    },
+    {
+      "id": 676,
+      "nombre": "DB-064",
+      "cantidad": 1
+    },
+    {
+      "id": 691,
+      "nombre": "DB-079",
       "cantidad": 1
     }
   ]

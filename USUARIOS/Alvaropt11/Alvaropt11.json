@@ -1394,7 +1394,7 @@
         {
             "id": 147,
             "nombre": "Carbine",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 694,
@@ -2509,6 +2509,11 @@
         {
             "id": 509,
             "nombre": "NINA",
+            "cantidad": 1
+        },
+        {
+            "id": 92,
+            "nombre": "Brooklyn",
             "cantidad": 1
         }
     ]
