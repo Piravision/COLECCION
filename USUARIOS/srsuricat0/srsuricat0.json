@@ -2414,7 +2414,7 @@
         {
             "id": 569,
             "nombre": "MACHO-MAN",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 536,
@@ -3329,6 +3329,11 @@
         {
             "id": 336,
             "nombre": "Hyōga de Cisne",
+            "cantidad": 1
+        },
+        {
+            "id": 338,
+            "nombre": "Shiryū de Dragón",
             "cantidad": 1
         }
     ]
