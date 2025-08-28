@@ -254,7 +254,7 @@
     {
       "id": 593,
       "nombre": "JOHNNY-MASON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 641,
@@ -684,7 +684,7 @@
     {
       "id": 269,
       "nombre": "Mona Lisa",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 156,
@@ -859,7 +859,7 @@
     {
       "id": 357,
       "nombre": "china",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 294,
@@ -1129,7 +1129,7 @@
     {
       "id": 544,
       "nombre": "DOC-BROWN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 207,
@@ -1204,6 +1204,31 @@
     {
       "id": 691,
       "nombre": "DB-079",
+      "cantidad": 1
+    },
+    {
+      "id": 689,
+      "nombre": "DB-077",
+      "cantidad": 1
+    },
+    {
+      "id": 603,
+      "nombre": "PHILLIP-CALLAHAN",
+      "cantidad": 1
+    },
+    {
+      "id": 38,
+      "nombre": "brokeena",
+      "cantidad": 1
+    },
+    {
+      "id": 395,
+      "nombre": "DISCÍPULOS-DE-AVAN",
+      "cantidad": 1
+    },
+    {
+      "id": 440,
+      "nombre": "scrabs",
       "cantidad": 1
     }
   ]

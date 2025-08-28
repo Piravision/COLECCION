@@ -99,7 +99,7 @@
         {
             "id": 1,
             "nombre": "30 30",
-            "cantidad": 6
+            "cantidad": 5
         },
         {
             "id": 94,
@@ -3334,6 +3334,11 @@
         {
             "id": 372,
             "nombre": "RENARD",
+            "cantidad": 1
+        },
+        {
+            "id": 107,
+            "nombre": "Snake Eyes",
             "cantidad": 1
         }
     ]
