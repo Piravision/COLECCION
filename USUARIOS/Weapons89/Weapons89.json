@@ -319,7 +319,7 @@
         {
             "id": 211,
             "nombre": "Anillo Serpiente",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 157,
@@ -1614,6 +1614,11 @@
         {
             "id": 225,
             "nombre": "Guarida Felina",
+            "cantidad": 1
+        },
+        {
+            "id": 217,
+            "nombre": "Cobra   H.I.S.S.",
             "cantidad": 1
         }
     ]

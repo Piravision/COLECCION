@@ -754,7 +754,7 @@
         {
             "id": 217,
             "nombre": "Cobra   H.I.S.S.",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 666,
@@ -1439,6 +1439,11 @@
         {
             "id": 237,
             "nombre": "Sky Shadow",
+            "cantidad": 1
+        },
+        {
+            "id": 211,
+            "nombre": "Anillo Serpiente",
             "cantidad": 1
         }
     ]
