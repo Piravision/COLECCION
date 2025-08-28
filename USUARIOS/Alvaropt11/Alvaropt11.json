@@ -804,7 +804,7 @@
         {
             "id": 96,
             "nombre": "Lexington",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 107,
@@ -2494,6 +2494,11 @@
         {
             "id": 13,
             "nombre": "Needle",
+            "cantidad": 1
+        },
+        {
+            "id": 94,
+            "nombre": "Goliath",
             "cantidad": 1
         }
     ]

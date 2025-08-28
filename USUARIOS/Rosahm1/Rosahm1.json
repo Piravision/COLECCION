@@ -639,7 +639,7 @@
         {
             "id": 94,
             "nombre": "Goliath",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 106,
@@ -2514,6 +2514,11 @@
         {
             "id": 12,
             "nombre": "Jezmine",
+            "cantidad": 1
+        },
+        {
+            "id": 96,
+            "nombre": "Lexington",
             "cantidad": 1
         }
     ]
