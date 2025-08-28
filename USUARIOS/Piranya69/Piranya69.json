@@ -819,7 +819,7 @@
         {
             "id": 523,
             "nombre": "lara2",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 418,
@@ -3349,6 +3349,11 @@
         {
             "id": 374,
             "nombre": "Succubus",
+            "cantidad": 1
+        },
+        {
+            "id": 36,
+            "nombre": "baduck",
             "cantidad": 1
         }
     ]
