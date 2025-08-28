@@ -397,7 +397,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de Chechyan</h2>
-                <span>Cartas obtenidas: 14 / 854</span>
+                <span>Cartas obtenidas: 16 / 854</span>
             </div>
             
             <div class="details">
@@ -405,6 +405,11 @@
                     <div class="summary-grid-container">
     <h2>Resumen por Serie</h2>
 					<div class="summary-grid">
+						
+							<div class="summary-button" onclick="mostrarCartas('Alundra')">
+								<img src="/COLECCION/botones/alundra.png" alt="Alundra" class="summary-button-image">
+								<span class="summary-button-counter">1 / 9</span>
+							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Batman')">
 								<img src="/COLECCION/botones/batman.png" alt="Batman" class="summary-button-image">
@@ -414,6 +419,11 @@
 							<div class="summary-button" onclick="mostrarCartas('BraveStarr')">
 								<img src="/COLECCION/botones/bravestarr.png" alt="BraveStarr" class="summary-button-image">
 								<span class="summary-button-counter">1 / 4</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('DragonBall CombatCards 92')">
+								<img src="/COLECCION/botones/dragonball-combatcards-92.png" alt="DragonBall CombatCards 92" class="summary-button-image">
+								<span class="summary-button-counter">1 / 121</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('FFVII')">
@@ -476,6 +486,30 @@
                     
                     <div id="cards-container">
                         
+                            <div class="series-cards" id="series-Alundra" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Alundra</h2>
+                                    <span>Cartas obtenidas: 1 / 9</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 353</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '353', 'zorgia'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Alundra/PERSONAJE/zorgia.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Alundra/PERSONAJE/zorgia.png" alt="zorgia">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>zorgia (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
                             <div class="series-cards" id="series-Batman" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Batman</h2>
@@ -517,6 +551,30 @@
                                             </a>
                                             <div class="cromo-details">
                                                 <h3>30 30 (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-DragonBall-CombatCards-92" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>DragonBall CombatCards 92</h2>
+                                    <span>Cartas obtenidas: 1 / 121</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 694</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '694', 'DB-082'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DragonBall CombatCards 92/DB-082.jpg">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DragonBall CombatCards 92/DB-082.jpg" alt="DB-082">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>DB-082 (x1)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -794,7 +852,7 @@
                                                 </div>
                                             </a>
                                             <div class="cromo-details">
-                                                <h3>Toad (x1)</h3>
+                                                <h3>Toad (x2)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
