@@ -329,7 +329,7 @@
         {
             "id": 372,
             "nombre": "RENARD",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 490,
@@ -2554,6 +2554,11 @@
         {
             "id": 569,
             "nombre": "MACHO-MAN",
+            "cantidad": 1
+        },
+        {
+            "id": 568,
+            "nombre": "LOS-SACAMANTECAS",
             "cantidad": 1
         }
     ]

@@ -1274,7 +1274,7 @@
         {
             "id": 568,
             "nombre": "LOS-SACAMANTECAS",
-            "cantidad": 8
+            "cantidad": 7
         },
         {
             "id": 59,
@@ -3329,6 +3329,11 @@
         {
             "id": 338,
             "nombre": "Shiryū de Dragón",
+            "cantidad": 1
+        },
+        {
+            "id": 372,
+            "nombre": "RENARD",
             "cantidad": 1
         }
     ]
