@@ -274,7 +274,7 @@
         {
             "id": 26,
             "nombre": "Eric",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 95,
@@ -3464,6 +3464,11 @@
         {
             "id": 802,
             "nombre": "ROBIN",
+            "cantidad": 1
+        },
+        {
+            "id": 488,
+            "nombre": "metalhead",
             "cantidad": 1
         }
     ]
