@@ -79,7 +79,7 @@
     {
       "id": 115,
       "nombre": "Zartan",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 318,
@@ -974,7 +974,7 @@
     {
       "id": 222,
       "nombre": "Espada de Metal Estrella",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 322,
@@ -1039,7 +1039,7 @@
     {
       "id": 177,
       "nombre": "Carnage",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 512,
@@ -1404,7 +1404,7 @@
     {
       "id": 537,
       "nombre": "BOLO-YEUNG",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 339,
@@ -2114,7 +2114,7 @@
     {
       "id": 685,
       "nombre": "DB-073",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 589,
@@ -2444,7 +2444,7 @@
     {
       "id": 553,
       "nombre": "GOKU-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 521,
@@ -2829,7 +2829,7 @@
     {
       "id": 615,
       "nombre": "DB-003",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 686,
@@ -2924,6 +2924,16 @@
     {
       "id": 342,
       "nombre": "Flazzard",
+      "cantidad": 1
+    },
+    {
+      "id": 700,
+      "nombre": "DB-088",
+      "cantidad": 1
+    },
+    {
+      "id": 374,
+      "nombre": "Succubus",
       "cantidad": 1
     }
   ]

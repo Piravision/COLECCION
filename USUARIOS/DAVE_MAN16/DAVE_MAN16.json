@@ -1059,7 +1059,7 @@
     {
       "id": 782,
       "nombre": "BATMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 796,
@@ -1089,6 +1089,31 @@
     {
       "id": 419,
       "nombre": "lquid",
+      "cantidad": 1
+    },
+    {
+      "id": 233,
+      "nombre": "Mutant Tank",
+      "cantidad": 1
+    },
+    {
+      "id": 277,
+      "nombre": "Baxter",
+      "cantidad": 1
+    },
+    {
+      "id": 16,
+      "nombre": "Dregs",
+      "cantidad": 1
+    },
+    {
+      "id": 501,
+      "nombre": "SOLON",
+      "cantidad": 1
+    },
+    {
+      "id": 224,
+      "nombre": "Guarida Tortuga",
       "cantidad": 1
     }
   ]
