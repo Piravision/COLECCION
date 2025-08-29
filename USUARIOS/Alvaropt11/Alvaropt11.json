@@ -2559,7 +2559,7 @@
         {
             "id": 799,
             "nombre": "POISON-IVY",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 782,
@@ -2809,6 +2809,11 @@
         {
             "id": 309,
             "nombre": "Thundercracker",
+            "cantidad": 1
+        },
+        {
+            "id": 541,
+            "nombre": "COBRA-1986",
             "cantidad": 1
         }
     ]

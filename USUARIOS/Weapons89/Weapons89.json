@@ -864,7 +864,7 @@
     {
       "id": 315,
       "nombre": "Emma Frost",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 513,
@@ -1459,7 +1459,7 @@
     {
       "id": 775,
       "nombre": "yellow",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 270,
@@ -1749,6 +1749,41 @@
     {
       "id": 744,
       "nombre": "Dark-Deathmask-de-Cancer",
+      "cantidad": 1
+    },
+    {
+      "id": 149,
+      "nombre": "Modo",
+      "cantidad": 1
+    },
+    {
+      "id": 797,
+      "nombre": "MR-FREEZE",
+      "cantidad": 1
+    },
+    {
+      "id": 150,
+      "nombre": "Throttle",
+      "cantidad": 1
+    },
+    {
+      "id": 559,
+      "nombre": "MABARRACUS-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 808,
+      "nombre": "JOHNNY-CAGE",
+      "cantidad": 1
+    },
+    {
+      "id": 807,
+      "nombre": "JAX",
+      "cantidad": 1
+    },
+    {
+      "id": 758,
+      "nombre": "Shaka-de-Virgo",
       "cantidad": 1
     }
   ]
