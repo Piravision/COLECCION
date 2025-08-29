@@ -834,7 +834,7 @@
         {
             "id": 170,
             "nombre": "J. Jonah Jameson",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 551,
@@ -2144,6 +2144,11 @@
         {
             "id": 310,
             "nombre": "Dan",
+            "cantidad": 1
+        },
+        {
+            "id": 539,
+            "nombre": "BRUCE-LEE2",
             "cantidad": 1
         }
     ]
