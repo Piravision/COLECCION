@@ -1699,7 +1699,7 @@
         {
             "id": 855,
             "nombre": "ALIEN-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 455,
@@ -1934,6 +1934,11 @@
         {
             "id": 5,
             "nombre": "Seiya de Pegaso",
+            "cantidad": 1
+        },
+        {
+            "id": 555,
+            "nombre": "INDIANA-JONES-JAIL",
             "cantidad": 1
         }
     ]
