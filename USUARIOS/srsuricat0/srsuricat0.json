@@ -34,7 +34,7 @@
     {
       "id": 303,
       "nombre": "Megatron",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 299,
@@ -334,7 +334,7 @@
     {
       "id": 384,
       "nombre": "aku aku",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 135,
@@ -474,7 +474,7 @@
     {
       "id": 315,
       "nombre": "Emma Frost",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 101,
@@ -524,7 +524,7 @@
     {
       "id": 76,
       "nombre": "masopho",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 256,
@@ -2819,7 +2819,7 @@
     {
       "id": 646,
       "nombre": "DB-034",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 678,
@@ -2899,7 +2899,7 @@
     {
       "id": 684,
       "nombre": "DB-072",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 592,
@@ -3339,7 +3339,7 @@
     {
       "id": 107,
       "nombre": "Snake Eyes",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 114,
@@ -3564,6 +3564,16 @@
     {
       "id": 800,
       "nombre": "RAS-AL-GHUL",
+      "cantidad": 1
+    },
+    {
+      "id": 870,
+      "nombre": "BARON-ZEMO",
+      "cantidad": 1
+    },
+    {
+      "id": 776,
+      "nombre": "zedd",
       "cantidad": 1
     }
   ]

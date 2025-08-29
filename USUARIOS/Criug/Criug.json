@@ -89,7 +89,7 @@
     {
       "id": 107,
       "nombre": "Snake Eyes",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 223,
@@ -454,7 +454,7 @@
     {
       "id": 432,
       "nombre": "solid2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 508,
@@ -1044,7 +1044,7 @@
     {
       "id": 516,
       "nombre": "LEGIÓN-DEL-DRAGÓN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 428,
@@ -2754,7 +2754,7 @@
     {
       "id": 735,
       "nombre": "Aiacos",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 690,
@@ -3134,6 +3134,16 @@
     {
       "id": 433,
       "nombre": "vincent",
+      "cantidad": 1
+    },
+    {
+      "id": 239,
+      "nombre": "Stridor",
+      "cantidad": 1
+    },
+    {
+      "id": 664,
+      "nombre": "DB-052",
       "cantidad": 1
     }
   ]

@@ -114,7 +114,7 @@
         {
             "id": 448,
             "nombre": "leon1",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 589,
@@ -1084,7 +1084,7 @@
         {
             "id": 487,
             "nombre": "Jacques",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 867,
@@ -1794,6 +1794,26 @@
         {
             "id": 179,
             "nombre": "Duende Verde",
+            "cantidad": 1
+        },
+        {
+            "id": 347,
+            "nombre": "Lizard",
+            "cantidad": 1
+        },
+        {
+            "id": 273,
+            "nombre": "Raphael",
+            "cantidad": 1
+        },
+        {
+            "id": 77,
+            "nombre": "Maximum",
+            "cantidad": 1
+        },
+        {
+            "id": 363,
+            "nombre": "Chuache-DesafioTotal",
             "cantidad": 1
         }
     ]

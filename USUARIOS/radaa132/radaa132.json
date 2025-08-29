@@ -249,7 +249,7 @@
     {
       "id": 180,
       "nombre": "Electro",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 10,
@@ -294,7 +294,7 @@
     {
       "id": 97,
       "nombre": "Armadura Xanatos",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 748,
@@ -329,7 +329,7 @@
     {
       "id": 600,
       "nombre": "NATUREZA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 337,
@@ -929,6 +929,36 @@
     {
       "id": 51,
       "nombre": "mam",
+      "cantidad": 1
+    },
+    {
+      "id": 291,
+      "nombre": "Zorax",
+      "cantidad": 1
+    },
+    {
+      "id": 815,
+      "nombre": "NIGHTWOLF",
+      "cantidad": 1
+    },
+    {
+      "id": 818,
+      "nombre": "REPTILE",
+      "cantidad": 1
+    },
+    {
+      "id": 152,
+      "nombre": "Dr. Karbunkle",
+      "cantidad": 1
+    },
+    {
+      "id": 201,
+      "nombre": "Dr. paradigma",
+      "cantidad": 1
+    },
+    {
+      "id": 552,
+      "nombre": "CHEWBACCA-JAIL",
       "cantidad": 1
     }
   ]
