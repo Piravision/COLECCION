@@ -1109,7 +1109,7 @@
         {
             "id": 280,
             "nombre": "General Traag",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 340,
@@ -1724,6 +1724,11 @@
         {
             "id": 702,
             "nombre": "DB-090",
+            "cantidad": 1
+        },
+        {
+            "id": 291,
+            "nombre": "Zorax",
             "cantidad": 1
         }
     ]
