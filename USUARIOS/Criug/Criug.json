@@ -139,7 +139,7 @@
         {
             "id": 301,
             "nombre": "Astrotrain",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 179,
@@ -199,7 +199,7 @@
         {
             "id": 102,
             "nombre": "General Hawk",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 521,
@@ -1219,7 +1219,7 @@
         {
             "id": 548,
             "nombre": "Snake-Plissken",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 227,
@@ -1394,7 +1394,7 @@
         {
             "id": 354,
             "nombre": "alice",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 696,
@@ -2324,7 +2324,7 @@
         {
             "id": 577,
             "nombre": "ALAN-PASCAL",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 762,
@@ -3069,7 +3069,7 @@
         {
             "id": 903,
             "nombre": "BIZARRE",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 839,
@@ -3214,6 +3214,16 @@
         {
             "id": 87,
             "nombre": "Walter _Doc_ Hartford",
+            "cantidad": 1
+        },
+        {
+            "id": 447,
+            "nombre": "hunk",
+            "cantidad": 1
+        },
+        {
+            "id": 356,
+            "nombre": "busuzima",
             "cantidad": 1
         }
     ]

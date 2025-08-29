@@ -374,7 +374,7 @@
     {
       "id": 104,
       "nombre": "Lady Jaye",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 47,
@@ -524,7 +524,7 @@
     {
       "id": 144,
       "nombre": "Grin-Hardwing",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 73,
@@ -1069,7 +1069,7 @@
     {
       "id": 345,
       "nombre": "alundra",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 568,
@@ -1449,7 +1449,7 @@
     {
       "id": 172,
       "nombre": "May Parker",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 95,
@@ -1879,6 +1879,16 @@
     {
       "id": 225,
       "nombre": "Guarida Felina",
+      "cantidad": 1
+    },
+    {
+      "id": 855,
+      "nombre": "ALIEN-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 488,
+      "nombre": "metalhead",
       "cantidad": 1
     }
   ]

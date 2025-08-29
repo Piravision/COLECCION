@@ -1669,7 +1669,7 @@
         {
             "id": 356,
             "nombre": "busuzima",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 538,
@@ -2744,7 +2744,7 @@
         {
             "id": 716,
             "nombre": "DB-104",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 854,
@@ -2954,6 +2954,21 @@
         {
             "id": 782,
             "nombre": "BATMAN",
+            "cantidad": 1
+        },
+        {
+            "id": 607,
+            "nombre": "SANDY-WINTERS",
+            "cantidad": 1
+        },
+        {
+            "id": 59,
+            "nombre": "balios",
+            "cantidad": 1
+        },
+        {
+            "id": 354,
+            "nombre": "alice",
             "cantidad": 1
         }
     ]
