@@ -459,7 +459,7 @@
         {
             "id": 157,
             "nombre": "Bluegrass",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 309,
@@ -1544,6 +1544,11 @@
         {
             "id": 290,
             "nombre": "Tokka",
+            "cantidad": 1
+        },
+        {
+            "id": 160,
+            "nombre": "Steelheart",
             "cantidad": 1
         }
     ]
