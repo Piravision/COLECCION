@@ -674,7 +674,7 @@
         {
             "id": 179,
             "nombre": "Duende Verde",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 596,
@@ -2789,6 +2789,11 @@
         {
             "id": 697,
             "nombre": "DB-085",
+            "cantidad": 1
+        },
+        {
+            "id": 809,
+            "nombre": "KABAL",
             "cantidad": 1
         }
     ]
