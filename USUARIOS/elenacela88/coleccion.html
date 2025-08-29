@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colección de Cromos de elenacela88</title>
+    <style>
+    body {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #0c0c0c;
+        color: #f4f4f4;
+        position: relative;
+    }
+
+    .header {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background: #1f1f1f;
+        padding: 10px 20px;
+    }
+
+    .logo-container {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .logo {
+        max-height: 160px;
+        height: auto;
+        width: auto;
+    }
+
+    @media (max-width: 600px) {
+        .logo {
+            max-height: 120px;
+        }
+    }
+
+    .social-icons {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-bottom: 10px;
+    }
+
+    .social-icons img {
+        width: 35px;
+        height: 35px;
+        transition: transform 0.2s;
+    }
+
+    .social-icons img:hover {
+        transform: scale(1.1);
+    }
+
+    .container {
+        width: 90%;
+        max-width: 1200px;
+        margin: auto;
+        padding: 20px;
+        position: relative;
+        z-index: 2;
+    }
+
+    /* Fondo atenuado con la nueva imagen */
+    .background {
+        position: fixed;
+        top: 0; left: 0;
+        width: 100%; height: 100%;
+        z-index: -1;
+        filter: blur(15px) brightness(0.3);
+        background: url('https://piravision.github.io/COLECCION/dorsocarta.png') no-repeat center center;
+        background-size: cover;
+    }
+
+    .content {
+        background: rgba(255, 255, 255, 0.07);
+        border-radius: 10px;
+        padding: 20px;
+        margin-bottom: 30px;
+    }
+
+    .section-title-1 {
+        border-bottom: 2px solid #ff9900;
+        margin-bottom: 10px;
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+    }
+
+    .section-title-1 h2 {
+        margin: 0;
+        font-size: 1.4rem;
+        color: #ff9900;
+    }
+    
+    .section-title-1 span {
+        font-size: 1.2rem;
+        color: #fff;
+    }
+
+    .section-title-2 {
+        margin-top: 20px;
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+    }
+
+    .section-title-2 h2 {
+        margin: 0;
+        font-size: 1.2rem;
+    }
+
+    .section-title-2 span {
+        font-size: 1rem;
+        color: #ccc;
+    }
+
+    .coleccion {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+        padding: 20px 0;
+        justify-content: flex-start;
+    }
+
+    .cromo-card {
+        flex: 0 0 auto;
+        width: 200px;
+        border: 2px solid #555;
+        border-radius: 10px;
+        padding: 10px;
+        background-color: #333;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+        text-align: center;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .cromo-card a {
+        cursor: pointer;
+        text-decoration: none;
+        color: inherit;
+    }
+
+    .cromo-img-container {
+        width: 100%;
+        aspect-ratio: 1 / 1;
+        overflow: hidden;
+        border-radius: 5px;
+        margin-bottom: 10px;
+    }
+
+    .cromo-img-container img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .cromo-card h3 {
+        margin: auto 0 5px;
+        font-size: 1.2em;
+    }
+
+    .cromo-card p {
+        margin: 5px 0 0;
+        font-size: 0.9em;
+        color: #ccc;
+    }
+
+    .cromo-numero {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        background-color: #ff9900;
+        color: #111;
+        padding: 5px 10px;
+        border-radius: 5px;
+        font-weight: bold;
+    }
+
+    .footer {
+        text-align: center;
+        padding: 10px;
+        background: #111;
+        color: #fff;
+    }
+
+    a {
+        color: #ff9900;
+        text-decoration: none;
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+    /* Estilos del modal */
+    .modal {
+        display: none;
+        position: fixed;
+        z-index: 100;
+        padding-top: 50px;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        overflow: auto;
+        background-color: rgba(0,0,0,0.9);
+    }
+
+    .modal-content {
+        margin: auto;
+        display: block;
+        width: 80%;
+        max-width: 700px;
+    }
+
+    .modal-info {
+        text-align: center;
+        color: #fff;
+        margin-top: 10px;
+    }
+
+    .modal-content, .modal-info {
+        animation-name: zoom;
+        animation-duration: 0.6s;
+    }
+
+    @keyframes zoom {
+        from {transform: scale(0)}
+        to {transform: scale(1)}
+    }
+
+    .close {
+        position: absolute;
+        top: 15px;
+        right: 35px;
+        color: #f1f1f1;
+        font-size: 40px;
+        font-weight: bold;
+        transition: 0.3s;
+        cursor: pointer;
+    }
+
+    .close:hover,
+    .close:focus {
+        color: #bbb;
+        text-decoration: none;
+        cursor: pointer;
+    }
+    
+    /* Estilos del buscador de usuario */
+    .search-container {
+        background: rgba(255, 255, 255, 0.07);
+        border-radius: 10px;
+        padding: 20px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    
+    .search-container input, .search-container button {
+        padding: 10px;
+        border-radius: 5px;
+        border: none;
+        margin: 5px;
+        font-size: 1rem;
+    }
+    
+    .search-container input {
+        background-color: #222;
+        color: #fff;
+    }
+    
+    .search-container button {
+        background-color: #ff9900;
+        color: #111;
+        cursor: pointer;
+        font-weight: bold;
+    }
+    
+    /* Logo antes del buscador */
+    .search-logo-container {
+        text-align: center;
+        margin: 20px 0;
+    }
+	
+	
+	
+	
+    /* ESTILOS DE LA CUADRÍCULA DE SERIES */
+	.summary-grid-container {
+		margin-top: 20px;
+		margin-bottom: 30px;
+	}
+
+	.summary-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+		gap: 15px;
+		justify-content: center;
+	}
+
+	.summary-button {
+		position: relative;
+		overflow: hidden;
+		display: flex;
+		justify-content: flex-end; /* Alinea los elementos al final del contenedor */
+		align-items: flex-end; /* Alinea los elementos a la derecha del contenedor */
+		aspect-ratio: 1 / 1;
+		padding: 10px;
+		border: 1px solid #444;
+		border-radius: 10px;
+		transition: transform 0.2s;
+		text-align: center;
+		cursor: pointer;
+		background-color: transparent;
+	}
+
+	.summary-button:hover {
+		transform: scale(1.05);
+	}
+
+	/* Estilos de la imagen como fondo */
+	.summary-button-image {
+		width: 100%;
+		height: 100%;
+		object-fit: contain;
+		position: absolute;
+		top: 0;
+		left: 0;
+		z-index: 0;
+		border-radius: 10px;
+	}
+
+	/* Estilos para el texto del contador */
+	.summary-button-counter {
+		position: relative; /* Lo eleva por encima de la imagen */
+		z-index: 1; /* Valor mayor que el de la imagen */
+		background-color: rgba(0, 0, 0, 0.6);
+		padding: 3px 8px;
+		border-radius: 5px;
+		margin: 2px;
+		font-size: 0.8em;
+		color: #ff9900;
+	}
+</style>
+</head>
+<body>
+    <div class="header">
+        <div class="logo-container">
+            <a href="https://piravision.github.io/App/" target="_blank">
+                <img src="https://cdn.streamelements.com/uploads/fa3fe2b3-134b-4288-bfef-29948befc05f.png" alt="Logo" class="logo">
+            </a>
+        </div>
+        <div class="social-icons">
+            <a href="https://www.twitch.tv/piravision" target="_blank">
+                <img src="https://cdn.streamelements.com/uploads/4e340b43-7b0e-4bad-81d4-197c233827c4.png" alt="Twitch">
+            </a>
+            <a href="https://kick.com/piravision" target="_blank">
+                <img src="https://cdn.streamelements.com/uploads/9e660f91-49cb-476f-b328-8a1e5d9706ae.png" alt="Kick">
+            </a>
+            <a href="https://discord.gg/7VEzeTy55R" target="_blank">
+                <img src="https://cdn.streamelements.com/uploads/e731c1a0-344f-432d-bbf8-0590844f7e25.png" alt="Discord">
+            </a>
+            <a href="https://x.com/PiraVision" target="_blank">
+                <img src="https://cdn.streamelements.com/uploads/aecdfafd-fb1e-41d7-91ff-cc7d5cb34a32.png" alt="X (Twitter)">
+            </a>
+            <a href="https://t.me/+UD7ZygM3MrlhNjg0" target="_blank">
+                <img src="https://cdn.streamelements.com/uploads/16594692-335f-470e-9beb-fd542023ec96.png" alt="Telegram">
+            </a>
+        </div>
+    </div>
+
+    <div class="background"></div>
+    
+	 <div class="container">
+        <div class="search-logo-container">
+            <img src="https://piravision.github.io/COLECCION/logo.png" alt="Colección de Cromos" class="search-logo">
+        </div>
+	
+	<div class="container">
+
+        <div class="search-container">
+            <label for="usernameInput"><h2>Buscar colección de usuario</h2></label>
+            <input type="text" id="usernameInput" placeholder="Introduce el nombre de usuario">
+            <button onclick="buscarColeccion()">Buscar</button>
+            <p style="font-size: 0.9em; color: #aaa; margin-top: 10px;">¡Hola Piraviewer! Introduce tu usuario de Kick para ver tu álbum personal.</p>
+        </div>
+
+        <div class="content">
+            <div class="section-title-1">
+                <h2>Colección de Cromos de elenacela88</h2>
+                <span>Cartas obtenidas: 3 / 915</span>
+            </div>
+            
+            <div class="details">
+                <div class="info">
+                    <div class="summary-grid-container">
+    <h2>Resumen por Serie</h2>
+					<div class="summary-grid">
+						
+							<div class="summary-button" onclick="mostrarCartas('Captain Tsubasa')">
+								<img src="/COLECCION/botones/captain-tsubasa.png" alt="Captain Tsubasa" class="summary-button-image">
+								<span class="summary-button-counter">1 / 38</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Transformers')">
+								<img src="/COLECCION/botones/transformers.png" alt="Transformers" class="summary-button-image">
+								<span class="summary-button-counter">1 / 18</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Varios')">
+								<img src="/COLECCION/botones/varios.png" alt="Varios" class="summary-button-image">
+								<span class="summary-button-counter">1 / 19</span>
+							</div>
+						
+					</div>
+				</div>
+                    
+                    <div id="cards-container">
+                        
+                            <div class="series-cards" id="series-Captain-Tsubasa" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Captain Tsubasa</h2>
+                                    <span>Cartas obtenidas: 1 / 38</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 581</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '581', 'CLIFFORD-YUMA'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Captain Tsubasa/CLIFFORD-YUMA(22-8-2025-0_44).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Captain Tsubasa/CLIFFORD-YUMA(22-8-2025-0_44).png" alt="CLIFFORD-YUMA">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>CLIFFORD-YUMA (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Transformers" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Transformers</h2>
+                                    <span>Cartas obtenidas: 1 / 18</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 308</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '308', 'Starscream'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Transformers/VILLANO/Starscream(5-12-2023-0_45).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Transformers/VILLANO/Starscream(5-12-2023-0_45).png" alt="Starscream">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Starscream (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Varios" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Varios</h2>
+                                    <span>Cartas obtenidas: 1 / 19</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 310</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '310', 'Dan'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/VARIOS/Dan(9-12-2023-4_50).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/VARIOS/Dan(9-12-2023-4_50).png" alt="Dan">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Dan (x1)</h3>
+                                                <p>Rareza: Legendario</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="footer">
+        <p>PIRAVISION APP</p>
+    </div>
+
+    <div id="myModal" class="modal">
+        <span class="close" onclick="closeModal()">&times;</span>
+        <div id="modal-info" class="modal-info"></div>
+        <img class="modal-content" id="imgModal">
+    </div>
+    
+    <script>
+        function openModal(imagenUrl, cromoId, cromoNombre) {
+            const modal = document.getElementById("myModal");
+            const modalImg = document.getElementById("imgModal");
+            const modalInfo = document.getElementById("modal-info");
+
+            modalImg.src = imagenUrl;
+            modalInfo.innerHTML = `<h3>Nº: ${cromoId} - ${cromoNombre}</h3>`;
+            modal.style.display = "block";
+        }
+
+        function closeModal() {
+            document.getElementById("myModal").style.display = "none";
+        }
+
+        window.onclick = function(event) {
+            const modal = document.getElementById("myModal");
+            if (event.target == modal) {
+                closeModal();
+            }
+        }
+        
+        function buscarColeccion() {
+            const username = document.getElementById("usernameInput").value.trim();
+            if (username) {
+                const url = `https://piravision.github.io/COLECCION/USUARIOS/${encodeURIComponent(username)}/coleccion.html`;
+                window.location.href = url;
+            } else {
+                alert("Por favor, introduce un nombre de usuario.");
+            }
+        }
+
+        document.getElementById("usernameInput").addEventListener("keyup", function(event) {
+            if (event.key === "Enter") {
+                event.preventDefault();
+                document.querySelector(".search-container button").click();
+            }
+        });
+
+        function mostrarCartas(serie) {
+            // Oculta todas las series
+            const todasLasSeries = document.querySelectorAll('.series-cards');
+            todasLasSeries.forEach(s => s.style.display = 'none');
+            
+            // Muestra solo la serie seleccionada
+            const serieId = `series-${serie.replace(/ /g, '-').replace(/&/g, 'and').replace(/'/g, '')}`;
+            const serieSeleccionada = document.getElementById(serieId);
+            if (serieSeleccionada) {
+                serieSeleccionada.style.display = 'block';
+            }
+        }
+    </script>
+</body>
+</html>
