@@ -89,7 +89,7 @@
         {
             "id": 313,
             "nombre": "Cable",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 417,
@@ -2799,6 +2799,11 @@
         {
             "id": 854,
             "nombre": "RIC-FLAIR",
+            "cantidad": 1
+        },
+        {
+            "id": 243,
+            "nombre": "Cheetara",
             "cantidad": 1
         }
     ]
