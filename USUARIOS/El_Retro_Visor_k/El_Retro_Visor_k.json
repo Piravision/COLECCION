@@ -1224,7 +1224,7 @@
         {
             "id": 7,
             "nombre": "El Patriarca",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 451,
@@ -1345,11 +1345,6 @@
             "id": 581,
             "nombre": "CLIFFORD-YUMA",
             "cantidad": 2
-        },
-        {
-            "id": 748,
-            "nombre": "HAdes2",
-            "cantidad": 1
         },
         {
             "id": 644,
@@ -1824,7 +1819,7 @@
         {
             "id": 336,
             "nombre": "Hyōga de Cisne",
-            "cantidad": 1
+            "cantidad": 4
         },
         {
             "id": 255,
@@ -1939,6 +1934,21 @@
         {
             "id": 555,
             "nombre": "INDIANA-JONES-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 754,
+            "nombre": "Pandora",
+            "cantidad": 1
+        },
+        {
+            "id": 9,
+            "nombre": "Rhadamanthys",
+            "cantidad": 1
+        },
+        {
+            "id": 8,
+            "nombre": "Hades",
             "cantidad": 1
         }
     ]
