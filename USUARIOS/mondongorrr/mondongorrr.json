@@ -29,7 +29,7 @@
         {
             "id": 260,
             "nombre": "Princesa Luna",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 488,
@@ -459,7 +459,7 @@
         {
             "id": 157,
             "nombre": "Bluegrass",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 309,
@@ -1244,7 +1244,7 @@
         {
             "id": 878,
             "nombre": "FALCON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 865,
@@ -1774,7 +1774,7 @@
         {
             "id": 859,
             "nombre": "JASON-JAIL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 596,
@@ -1924,6 +1924,41 @@
         {
             "id": 292,
             "nombre": "Bumblebee",
+            "cantidad": 1
+        },
+        {
+            "id": 765,
+            "nombre": "Finster",
+            "cantidad": 1
+        },
+        {
+            "id": 12,
+            "nombre": "Jezmine",
+            "cantidad": 1
+        },
+        {
+            "id": 264,
+            "nombre": "Donatello",
+            "cantidad": 1
+        },
+        {
+            "id": 352,
+            "nombre": "septimus",
+            "cantidad": 1
+        },
+        {
+            "id": 256,
+            "nombre": "Mandrilo",
+            "cantidad": 1
+        },
+        {
+            "id": 484,
+            "nombre": "Blowhard",
+            "cantidad": 1
+        },
+        {
+            "id": 162,
+            "nombre": "Mon Star",
             "cantidad": 1
         }
     ]
