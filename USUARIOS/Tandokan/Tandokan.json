@@ -189,7 +189,7 @@
     {
       "id": 773,
       "nombre": "Squatt",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 772,
@@ -859,7 +859,7 @@
     {
       "id": 510,
       "nombre": "PAUL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 85,
@@ -879,7 +879,7 @@
     {
       "id": 453,
       "nombre": "tyrant",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 148,
@@ -1429,7 +1429,7 @@
     {
       "id": 862,
       "nombre": "NEO-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 770,
@@ -1479,6 +1479,31 @@
     {
       "id": 103,
       "nombre": "Gung Ho",
+      "cantidad": 1
+    },
+    {
+      "id": 520,
+      "nombre": "BenGalí",
+      "cantidad": 1
+    },
+    {
+      "id": 826,
+      "nombre": "SONYA-BLADE",
+      "cantidad": 1
+    },
+    {
+      "id": 854,
+      "nombre": "RIC-FLAIR",
+      "cantidad": 1
+    },
+    {
+      "id": 724,
+      "nombre": "DB-112",
+      "cantidad": 1
+    },
+    {
+      "id": 94,
+      "nombre": "Goliath",
       "cantidad": 1
     }
   ]
