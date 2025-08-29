@@ -614,7 +614,7 @@
     {
       "id": 74,
       "nombre": "larhart",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 449,
@@ -689,7 +689,7 @@
     {
       "id": 425,
       "nombre": "ocelot",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 517,
@@ -2719,7 +2719,7 @@
     {
       "id": 714,
       "nombre": "DB-102",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 767,
@@ -2909,7 +2909,7 @@
     {
       "id": 698,
       "nombre": "DB-086",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 596,
@@ -3524,6 +3524,16 @@
     {
       "id": 856,
       "nombre": "BEETLEJUICE-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 737,
+      "nombre": "Aioros-de-Sagitario",
+      "cantidad": 1
+    },
+    {
+      "id": 868,
+      "nombre": "ANT-MAN",
       "cantidad": 1
     }
   ]
