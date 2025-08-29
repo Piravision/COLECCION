@@ -819,7 +819,7 @@
         {
             "id": 838,
             "nombre": "dhalsim2",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 573,
@@ -1549,6 +1549,11 @@
         {
             "id": 160,
             "nombre": "Steelheart",
+            "cantidad": 1
+        },
+        {
+            "id": 94,
+            "nombre": "Goliath",
             "cantidad": 1
         }
     ]
