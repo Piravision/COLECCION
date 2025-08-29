@@ -2649,7 +2649,7 @@
         {
             "id": 858,
             "nombre": "FREDDY-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 781,
@@ -2994,6 +2994,11 @@
         {
             "id": 317,
             "nombre": "Jean Grey",
+            "cantidad": 1
+        },
+        {
+            "id": 404,
+            "nombre": "sefirot",
             "cantidad": 1
         }
     ]

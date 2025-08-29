@@ -2319,7 +2319,7 @@
         {
             "id": 404,
             "nombre": "sefirot",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 812,
@@ -2829,6 +2829,11 @@
         {
             "id": 331,
             "nombre": "Mente Maestra",
+            "cantidad": 1
+        },
+        {
+            "id": 858,
+            "nombre": "FREDDY-JAIL",
             "cantidad": 1
         }
     ]
