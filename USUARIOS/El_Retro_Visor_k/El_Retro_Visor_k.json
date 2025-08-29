@@ -469,7 +469,7 @@
         {
             "id": 558,
             "nombre": "LUKE-SKYWALKER-JAIL",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 515,
@@ -1894,6 +1894,11 @@
         {
             "id": 317,
             "nombre": "Jean Grey",
+            "cantidad": 1
+        },
+        {
+            "id": 865,
+            "nombre": "ROBOCOP-JAIL",
             "cantidad": 1
         }
     ]
