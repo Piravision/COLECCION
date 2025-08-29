@@ -189,7 +189,7 @@
     {
       "id": 109,
       "nombre": "Cobra Commander",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 448,
@@ -349,7 +349,7 @@
     {
       "id": 134,
       "nombre": "Tri Klops",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 179,
@@ -649,7 +649,7 @@
     {
       "id": 222,
       "nombre": "Espada de Metal Estrella",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 25,
@@ -959,7 +959,7 @@
     {
       "id": 532,
       "nombre": "Sarah-Connor-Jail",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 295,
@@ -1074,7 +1074,7 @@
     {
       "id": 55,
       "nombre": "mina",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 400,
@@ -1554,7 +1554,7 @@
     {
       "id": 365,
       "nombre": "alucard 1",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 65,
@@ -1574,7 +1574,7 @@
     {
       "id": 550,
       "nombre": "AceVentura-JAIL",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 12,
@@ -1609,7 +1609,7 @@
     {
       "id": 561,
       "nombre": "MARIO-JAIL",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 537,
@@ -2619,7 +2619,7 @@
     {
       "id": 562,
       "nombre": "PETER-GRIFFIN-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 617,
@@ -3474,6 +3474,21 @@
     {
       "id": 659,
       "nombre": "DB-047",
+      "cantidad": 1
+    },
+    {
+      "id": 627,
+      "nombre": "DB-015",
+      "cantidad": 1
+    },
+    {
+      "id": 531,
+      "nombre": "McClane-Jail",
+      "cantidad": 1
+    },
+    {
+      "id": 862,
+      "nombre": "NEO-JAIL",
       "cantidad": 1
     }
   ]

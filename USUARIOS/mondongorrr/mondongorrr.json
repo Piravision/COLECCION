@@ -34,7 +34,7 @@
         {
             "id": 488,
             "nombre": "metalhead",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 35,
@@ -824,7 +824,7 @@
         {
             "id": 573,
             "nombre": "ULTIMATE-WARRIOR",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 680,
@@ -1274,7 +1274,7 @@
         {
             "id": 621,
             "nombre": "DB-009",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 328,
@@ -1484,6 +1484,16 @@
         {
             "id": 591,
             "nombre": "JAMES-DERRICK",
+            "cantidad": 1
+        },
+        {
+            "id": 556,
+            "nombre": "LEIA-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 364,
+            "nombre": "HulkHogan",
             "cantidad": 1
         }
     ]

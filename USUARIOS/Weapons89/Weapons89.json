@@ -84,7 +84,7 @@
     {
       "id": 505,
       "nombre": "Hwoarang",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 94,
@@ -1384,7 +1384,7 @@
     {
       "id": 601,
       "nombre": "OLIVER-ATOM",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 467,
@@ -1694,6 +1694,11 @@
     {
       "id": 249,
       "nombre": "Pomara",
+      "cantidad": 1
+    },
+    {
+      "id": 748,
+      "nombre": "HAdes2",
       "cantidad": 1
     }
   ]

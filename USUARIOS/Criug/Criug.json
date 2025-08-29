@@ -679,7 +679,7 @@
     {
       "id": 317,
       "nombre": "Jean Grey",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 183,
@@ -964,7 +964,7 @@
     {
       "id": 165,
       "nombre": "Daredevil",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 232,
@@ -1119,7 +1119,7 @@
     {
       "id": 540,
       "nombre": "CHUCK-NORRIS",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 13,
@@ -1634,7 +1634,7 @@
     {
       "id": 592,
       "nombre": "JASON-DERRICK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 624,
@@ -1849,7 +1849,7 @@
     {
       "id": 709,
       "nombre": "DB-097",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 496,
@@ -2914,6 +2914,11 @@
     {
       "id": 375,
       "nombre": "Grobyc",
+      "cantidad": 1
+    },
+    {
+      "id": 682,
+      "nombre": "DB-070",
       "cantidad": 1
     }
   ]
