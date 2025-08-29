@@ -264,7 +264,7 @@
         {
             "id": 290,
             "nombre": "Tokka",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 408,
@@ -1389,7 +1389,7 @@
         {
             "id": 189,
             "nombre": "Shocker",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 322,
@@ -1899,6 +1899,21 @@
         {
             "id": 865,
             "nombre": "ROBOCOP-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 629,
+            "nombre": "DB-017",
+            "cantidad": 1
+        },
+        {
+            "id": 819,
+            "nombre": "SCORPION",
+            "cantidad": 1
+        },
+        {
+            "id": 284,
+            "nombre": "Roadkill",
             "cantidad": 1
         }
     ]

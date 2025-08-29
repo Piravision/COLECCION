@@ -994,7 +994,7 @@
         {
             "id": 284,
             "nombre": "Roadkill",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 378,
@@ -1539,6 +1539,11 @@
         {
             "id": 558,
             "nombre": "LUKE-SKYWALKER-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 290,
+            "nombre": "Tokka",
             "cantidad": 1
         }
     ]
