@@ -4,7 +4,7 @@
     {
       "id": 189,
       "nombre": "Shocker",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 171,
@@ -2659,7 +2659,7 @@
     {
       "id": 28,
       "nombre": "Presto",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 677,
@@ -3489,6 +3489,11 @@
     {
       "id": 862,
       "nombre": "NEO-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 811,
+      "nombre": "KITANA",
       "cantidad": 1
     }
   ]

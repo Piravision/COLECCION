@@ -544,7 +544,7 @@
         {
             "id": 348,
             "nombre": "Meia",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 99,
@@ -2989,6 +2989,11 @@
         {
             "id": 107,
             "nombre": "Snake Eyes",
+            "cantidad": 1
+        },
+        {
+            "id": 345,
+            "nombre": "alundra",
             "cantidad": 1
         }
     ]
