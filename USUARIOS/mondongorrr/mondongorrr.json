@@ -1054,7 +1054,7 @@
         {
             "id": 663,
             "nombre": "DB-051",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 536,
@@ -1719,6 +1719,11 @@
         {
             "id": 542,
             "nombre": "DIE-HARD",
+            "cantidad": 1
+        },
+        {
+            "id": 702,
+            "nombre": "DB-090",
             "cantidad": 1
         }
     ]
