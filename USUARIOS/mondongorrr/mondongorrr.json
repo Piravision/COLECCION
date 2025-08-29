@@ -464,7 +464,7 @@
         {
             "id": 309,
             "nombre": "Thundercracker",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 149,
@@ -1959,6 +1959,11 @@
         {
             "id": 162,
             "nombre": "Mon Star",
+            "cantidad": 1
+        },
+        {
+            "id": 529,
+            "nombre": "Mística",
             "cantidad": 1
         }
     ]
