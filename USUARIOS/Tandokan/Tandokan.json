@@ -209,7 +209,7 @@
     {
       "id": 429,
       "nombre": "sniper",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 303,
@@ -229,7 +229,7 @@
     {
       "id": 768,
       "nombre": "megazord",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 741,
@@ -324,7 +324,7 @@
     {
       "id": 535,
       "nombre": "Venkman-Jail",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 95,
@@ -404,7 +404,7 @@
     {
       "id": 506,
       "nombre": "jin",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 589,
@@ -464,7 +464,7 @@
     {
       "id": 760,
       "nombre": "Shura-de-Capricornio",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 42,
@@ -544,7 +544,7 @@
     {
       "id": 537,
       "nombre": "BOLO-YEUNG",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 558,
@@ -694,7 +694,7 @@
     {
       "id": 82,
       "nombre": "zaboera",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 847,
@@ -709,7 +709,7 @@
     {
       "id": 596,
       "nombre": "K.HEINZ-SCHENEIDER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 805,
@@ -734,7 +734,7 @@
     {
       "id": 731,
       "nombre": "DB-119",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 509,
@@ -749,7 +749,7 @@
     {
       "id": 554,
       "nombre": "HANSOLO-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 740,
@@ -984,7 +984,7 @@
     {
       "id": 817,
       "nombre": "RAIDEN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 135,
@@ -1034,7 +1034,7 @@
     {
       "id": 334,
       "nombre": "Siniestro",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 612,
@@ -1074,7 +1074,7 @@
     {
       "id": 446,
       "nombre": "CUERVOS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 464,
@@ -1094,7 +1094,7 @@
     {
       "id": 739,
       "nombre": "Athenea",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 356,
@@ -1114,7 +1114,7 @@
     {
       "id": 452,
       "nombre": "sherry",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 220,
@@ -1134,7 +1134,7 @@
     {
       "id": 458,
       "nombre": "hinata",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 597,
@@ -1239,7 +1239,7 @@
     {
       "id": 257,
       "nombre": "Mumm Ra",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 262,
@@ -1264,6 +1264,221 @@
     {
       "id": 546,
       "nombre": "MARTY-MCFLY",
+      "cantidad": 1
+    },
+    {
+      "id": 263,
+      "nombre": "Casey Jones",
+      "cantidad": 1
+    },
+    {
+      "id": 864,
+      "nombre": "RAMBO-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 10,
+      "nombre": "Conan",
+      "cantidad": 1
+    },
+    {
+      "id": 507,
+      "nombre": "KING",
+      "cantidad": 1
+    },
+    {
+      "id": 344,
+      "nombre": "Flazzard 3",
+      "cantidad": 1
+    },
+    {
+      "id": 838,
+      "nombre": "dhalsim2",
+      "cantidad": 2
+    },
+    {
+      "id": 404,
+      "nombre": "sefirot",
+      "cantidad": 1
+    },
+    {
+      "id": 76,
+      "nombre": "masopho",
+      "cantidad": 1
+    },
+    {
+      "id": 204,
+      "nombre": "SharkBot",
+      "cantidad": 1
+    },
+    {
+      "id": 512,
+      "nombre": "Dimensión-X",
+      "cantidad": 1
+    },
+    {
+      "id": 327,
+      "nombre": "Dientes de Sable",
+      "cantidad": 1
+    },
+    {
+      "id": 247,
+      "nombre": "Linx O",
+      "cantidad": 1
+    },
+    {
+      "id": 776,
+      "nombre": "zedd",
+      "cantidad": 1
+    },
+    {
+      "id": 590,
+      "nombre": "HERMANN-KALTZ",
+      "cantidad": 1
+    },
+    {
+      "id": 524,
+      "nombre": "Capitán-Planeta",
+      "cantidad": 1
+    },
+    {
+      "id": 570,
+      "nombre": "MILLION-DOLLAR-MAN",
+      "cantidad": 2
+    },
+    {
+      "id": 248,
+      "nombre": "Panthro",
+      "cantidad": 1
+    },
+    {
+      "id": 165,
+      "nombre": "Daredevil",
+      "cantidad": 2
+    },
+    {
+      "id": 300,
+      "nombre": "Wheeljack",
+      "cantidad": 1
+    },
+    {
+      "id": 230,
+      "nombre": "Mansion X",
+      "cantidad": 1
+    },
+    {
+      "id": 249,
+      "nombre": "Pomara",
+      "cantidad": 1
+    },
+    {
+      "id": 867,
+      "nombre": "SONNY-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 723,
+      "nombre": "DB-111",
+      "cantidad": 1
+    },
+    {
+      "id": 541,
+      "nombre": "COBRA-1986",
+      "cantidad": 1
+    },
+    {
+      "id": 754,
+      "nombre": "Pandora",
+      "cantidad": 1
+    },
+    {
+      "id": 182,
+      "nombre": "Kingpin",
+      "cantidad": 1
+    },
+    {
+      "id": 627,
+      "nombre": "DB-015",
+      "cantidad": 1
+    },
+    {
+      "id": 679,
+      "nombre": "DB-067",
+      "cantidad": 1
+    },
+    {
+      "id": 96,
+      "nombre": "Lexington",
+      "cantidad": 2
+    },
+    {
+      "id": 885,
+      "nombre": "IRON-MAN",
+      "cantidad": 1
+    },
+    {
+      "id": 555,
+      "nombre": "INDIANA-JONES-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 713,
+      "nombre": "DB-101",
+      "cantidad": 1
+    },
+    {
+      "id": 862,
+      "nombre": "NEO-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 770,
+      "nombre": "red",
+      "cantidad": 1
+    },
+    {
+      "id": 317,
+      "nombre": "Jean Grey",
+      "cantidad": 1
+    },
+    {
+      "id": 764,
+      "nombre": "Dragonzord",
+      "cantidad": 1
+    },
+    {
+      "id": 8,
+      "nombre": "Hades",
+      "cantidad": 1
+    },
+    {
+      "id": 765,
+      "nombre": "Finster",
+      "cantidad": 1
+    },
+    {
+      "id": 876,
+      "nombre": "DORMAMMU",
+      "cantidad": 1
+    },
+    {
+      "id": 486,
+      "nombre": "gnasty-gnorc",
+      "cantidad": 1
+    },
+    {
+      "id": 774,
+      "nombre": "white",
+      "cantidad": 1
+    },
+    {
+      "id": 225,
+      "nombre": "Guarida Felina",
+      "cantidad": 1
+    },
+    {
+      "id": 103,
+      "nombre": "Gung Ho",
       "cantidad": 1
     }
   ]

@@ -129,7 +129,7 @@
         {
             "id": 174,
             "nombre": "Spiderman",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 73,
@@ -274,7 +274,7 @@
         {
             "id": 195,
             "nombre": "Moby Lick",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 169,
@@ -384,7 +384,7 @@
         {
             "id": 194,
             "nombre": "Mantaman",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 535,
@@ -449,7 +449,7 @@
         {
             "id": 139,
             "nombre": "Duke L'Orange",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 432,
@@ -474,7 +474,7 @@
         {
             "id": 470,
             "nombre": "Floatstinger",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 340,
@@ -569,12 +569,12 @@
         {
             "id": 88,
             "nombre": "Zackary Foxx",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 395,
             "nombre": "DISCÍPULOS-DE-AVAN",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 321,
@@ -999,7 +999,7 @@
         {
             "id": 6,
             "nombre": "El Patriarca",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 92,
@@ -1084,7 +1084,7 @@
         {
             "id": 243,
             "nombre": "Cheetara",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 327,
@@ -1914,7 +1914,7 @@
         {
             "id": 297,
             "nombre": "Optimus Prime",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 745,
@@ -1964,7 +1964,7 @@
         {
             "id": 364,
             "nombre": "HulkHogan",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 674,
@@ -2064,7 +2064,7 @@
         {
             "id": 573,
             "nombre": "ULTIMATE-WARRIOR",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 555,
@@ -2334,7 +2334,7 @@
         {
             "id": 506,
             "nombre": "jin",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 269,
@@ -2404,7 +2404,7 @@
         {
             "id": 755,
             "nombre": "Poseidon2",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 812,
@@ -2699,7 +2699,7 @@
         {
             "id": 257,
             "nombre": "Mumm Ra",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 51,
@@ -2754,7 +2754,7 @@
         {
             "id": 735,
             "nombre": "Aiacos",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 690,
@@ -2769,7 +2769,7 @@
         {
             "id": 36,
             "nombre": "baduck",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 467,
@@ -2869,7 +2869,7 @@
         {
             "id": 787,
             "nombre": "DOS-CARAS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 796,
@@ -3074,7 +3074,7 @@
         {
             "id": 839,
             "nombre": "DJ",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 110,
@@ -3164,6 +3164,56 @@
         {
             "id": 157,
             "nombre": "Bluegrass",
+            "cantidad": 1
+        },
+        {
+            "id": 679,
+            "nombre": "DB-067",
+            "cantidad": 1
+        },
+        {
+            "id": 809,
+            "nombre": "KABAL",
+            "cantidad": 1
+        },
+        {
+            "id": 836,
+            "nombre": "Chunli2",
+            "cantidad": 1
+        },
+        {
+            "id": 703,
+            "nombre": "DB-091",
+            "cantidad": 1
+        },
+        {
+            "id": 371,
+            "nombre": "muerte2",
+            "cantidad": 1
+        },
+        {
+            "id": 874,
+            "nombre": "CAPTAIN-AMERICA",
+            "cantidad": 1
+        },
+        {
+            "id": 857,
+            "nombre": "DOC-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 188,
+            "nombre": "Sandman",
+            "cantidad": 1
+        },
+        {
+            "id": 322,
+            "nombre": "Rondador Nocturno",
+            "cantidad": 1
+        },
+        {
+            "id": 87,
+            "nombre": "Walter _Doc_ Hartford",
             "cantidad": 1
         }
     ]

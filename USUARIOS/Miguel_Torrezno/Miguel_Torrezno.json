@@ -4,7 +4,7 @@
         {
             "id": 91,
             "nombre": "Bronx",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 108,
@@ -49,7 +49,7 @@
         {
             "id": 200,
             "nombre": "Swordo",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 117,
@@ -69,7 +69,7 @@
         {
             "id": 310,
             "nombre": "Dan",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 229,
@@ -254,7 +254,7 @@
         {
             "id": 426,
             "nombre": "ocelot2",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 416,
@@ -464,7 +464,7 @@
         {
             "id": 84,
             "nombre": "zurbon",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 57,
@@ -539,12 +539,12 @@
         {
             "id": 72,
             "nombre": "hynkel malo",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 536,
             "nombre": "Xena-Jail",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 130,
@@ -584,7 +584,7 @@
         {
             "id": 453,
             "nombre": "tyrant",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 140,
@@ -684,7 +684,7 @@
         {
             "id": 376,
             "nombre": "guile",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 388,
@@ -744,7 +744,7 @@
         {
             "id": 238,
             "nombre": "Snake Mountain",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 549,
@@ -924,7 +924,7 @@
         {
             "id": 511,
             "nombre": "YOSHI",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 380,
@@ -964,7 +964,7 @@
         {
             "id": 481,
             "nombre": "Capitán-Stargazer",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 569,
@@ -1119,7 +1119,7 @@
         {
             "id": 619,
             "nombre": "DB-007",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 17,
@@ -1129,7 +1129,7 @@
         {
             "id": 503,
             "nombre": "gon",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 151,
@@ -1304,7 +1304,7 @@
         {
             "id": 23,
             "nombre": "Amo del Calabozo",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 261,
@@ -1789,6 +1789,91 @@
         {
             "id": 735,
             "nombre": "Aiacos",
+            "cantidad": 1
+        },
+        {
+            "id": 3,
+            "nombre": "Juez J. Bella",
+            "cantidad": 1
+        },
+        {
+            "id": 888,
+            "nombre": "LOKI",
+            "cantidad": 1
+        },
+        {
+            "id": 93,
+            "nombre": "Elisa Maza",
+            "cantidad": 1
+        },
+        {
+            "id": 783,
+            "nombre": "BRUCE-WAYNE",
+            "cantidad": 1
+        },
+        {
+            "id": 847,
+            "nombre": "RYU",
+            "cantidad": 1
+        },
+        {
+            "id": 774,
+            "nombre": "white",
+            "cantidad": 1
+        },
+        {
+            "id": 583,
+            "nombre": "DANNY-MELOW",
+            "cantidad": 1
+        },
+        {
+            "id": 5,
+            "nombre": "Seiya de Pegaso",
+            "cantidad": 1
+        },
+        {
+            "id": 890,
+            "nombre": "MEDUSA",
+            "cantidad": 1
+        },
+        {
+            "id": 250,
+            "nombre": "Snarf",
+            "cantidad": 1
+        },
+        {
+            "id": 233,
+            "nombre": "Mutant Tank",
+            "cantidad": 1
+        },
+        {
+            "id": 90,
+            "nombre": "Broadway",
+            "cantidad": 1
+        },
+        {
+            "id": 52,
+            "nombre": "marin",
+            "cantidad": 2
+        },
+        {
+            "id": 895,
+            "nombre": "ROCKET-RACOON",
+            "cantidad": 1
+        },
+        {
+            "id": 439,
+            "nombre": "mudokons",
+            "cantidad": 1
+        },
+        {
+            "id": 97,
+            "nombre": "Armadura Xanatos",
+            "cantidad": 1
+        },
+        {
+            "id": 88,
+            "nombre": "Zackary Foxx",
             "cantidad": 1
         }
     ]
