@@ -69,7 +69,7 @@
     {
       "id": 211,
       "nombre": "Anillo Serpiente",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 94,
@@ -79,7 +79,7 @@
     {
       "id": 115,
       "nombre": "Zartan",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 318,
@@ -219,7 +219,7 @@
     {
       "id": 309,
       "nombre": "Thundercracker",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 191,
@@ -309,7 +309,7 @@
     {
       "id": 437,
       "nombre": "ellum",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 105,
@@ -1539,7 +1539,7 @@
     {
       "id": 540,
       "nombre": "CHUCK-NORRIS",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 720,
@@ -1779,7 +1779,7 @@
     {
       "id": 151,
       "nombre": "Vinnie Cooper",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 664,
@@ -2889,7 +2889,7 @@
     {
       "id": 380,
       "nombre": "marcy",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 583,
@@ -2939,6 +2939,31 @@
     {
       "id": 625,
       "nombre": "DB-013",
+      "cantidad": 1
+    },
+    {
+      "id": 817,
+      "nombre": "RAIDEN",
+      "cantidad": 1
+    },
+    {
+      "id": 914,
+      "nombre": "SUPERMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 226,
+      "nombre": "Guerreros de Piedra",
+      "cantidad": 1
+    },
+    {
+      "id": 775,
+      "nombre": "yellow",
+      "cantidad": 1
+    },
+    {
+      "id": 582,
+      "nombre": "CONTI",
       "cantidad": 1
     }
   ]
