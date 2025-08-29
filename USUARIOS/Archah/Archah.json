@@ -129,7 +129,7 @@
     {
       "id": 539,
       "nombre": "BRUCE-LEE2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 92,
@@ -769,6 +769,31 @@
     {
       "id": 600,
       "nombre": "NATUREZA",
+      "cantidad": 1
+    },
+    {
+      "id": 476,
+      "nombre": "Kaufman",
+      "cantidad": 1
+    },
+    {
+      "id": 581,
+      "nombre": "CLIFFORD-YUMA",
+      "cantidad": 1
+    },
+    {
+      "id": 770,
+      "nombre": "red",
+      "cantidad": 1
+    },
+    {
+      "id": 371,
+      "nombre": "muerte2",
+      "cantidad": 1
+    },
+    {
+      "id": 316,
+      "nombre": "Gambito",
       "cantidad": 1
     }
   ]

@@ -654,7 +654,7 @@
     {
       "id": 435,
       "nombre": "vulkan2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 549,
@@ -1154,6 +1154,16 @@
     {
       "id": 862,
       "nombre": "NEO-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 540,
+      "nombre": "CHUCK-NORRIS",
+      "cantidad": 1
+    },
+    {
+      "id": 902,
+      "nombre": "AQUAMAN",
       "cantidad": 1
     }
   ]

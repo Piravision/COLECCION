@@ -1374,7 +1374,7 @@
         {
             "id": 537,
             "nombre": "BOLO-YEUNG",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 486,
@@ -2819,6 +2819,11 @@
         {
             "id": 789,
             "nombre": "ENIGMA",
+            "cantidad": 1
+        },
+        {
+            "id": 859,
+            "nombre": "JASON-JAIL",
             "cantidad": 1
         }
     ]
