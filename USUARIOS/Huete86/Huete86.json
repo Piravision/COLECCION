@@ -169,7 +169,7 @@
         {
             "id": 111,
             "nombre": "Dr. Mindbender",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 87,
@@ -2984,6 +2984,11 @@
         {
             "id": 280,
             "nombre": "General Traag",
+            "cantidad": 1
+        },
+        {
+            "id": 107,
+            "nombre": "Snake Eyes",
             "cantidad": 1
         }
     ]

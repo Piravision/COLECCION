@@ -139,7 +139,7 @@
         {
             "id": 107,
             "nombre": "Snake Eyes",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 354,
@@ -584,7 +584,7 @@
         {
             "id": 344,
             "nombre": "Flazzard 3",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 228,
@@ -1309,7 +1309,7 @@
         {
             "id": 549,
             "nombre": "T-1000",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 8,
@@ -1729,6 +1729,16 @@
         {
             "id": 291,
             "nombre": "Zorax",
+            "cantidad": 1
+        },
+        {
+            "id": 895,
+            "nombre": "ROCKET-RACOON",
+            "cantidad": 1
+        },
+        {
+            "id": 111,
+            "nombre": "Dr. Mindbender",
             "cantidad": 1
         }
     ]
