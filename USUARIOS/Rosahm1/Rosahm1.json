@@ -974,7 +974,7 @@
         {
             "id": 360,
             "nombre": "stung",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 532,
@@ -2969,6 +2969,11 @@
         {
             "id": 354,
             "nombre": "alice",
+            "cantidad": 1
+        },
+        {
+            "id": 358,
+            "nombre": "jenny",
             "cantidad": 1
         }
     ]
