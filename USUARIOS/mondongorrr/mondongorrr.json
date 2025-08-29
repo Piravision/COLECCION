@@ -1059,7 +1059,7 @@
         {
             "id": 536,
             "nombre": "Xena-Jail",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 442,
@@ -1129,7 +1129,7 @@
         {
             "id": 544,
             "nombre": "DOC-BROWN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 207,
@@ -1494,6 +1494,21 @@
         {
             "id": 364,
             "nombre": "HulkHogan",
+            "cantidad": 1
+        },
+        {
+            "id": 861,
+            "nombre": "MARTY-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 866,
+            "nombre": "SNAKE-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 524,
+            "nombre": "Capitán-Planeta",
             "cantidad": 1
         }
     ]

@@ -394,7 +394,7 @@
         {
             "id": 534,
             "nombre": "T800-Jail",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 109,
@@ -1234,7 +1234,7 @@
         {
             "id": 524,
             "nombre": "Capitán-Planeta",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 478,
@@ -1699,7 +1699,7 @@
         {
             "id": 855,
             "nombre": "ALIEN-JAIL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 455,
@@ -1869,11 +1869,16 @@
         {
             "id": 560,
             "nombre": "MACGYVER-JAIL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 573,
             "nombre": "ULTIMATE-WARRIOR",
+            "cantidad": 1
+        },
+        {
+            "id": 544,
+            "nombre": "DOC-BROWN",
             "cantidad": 1
         }
     ]
