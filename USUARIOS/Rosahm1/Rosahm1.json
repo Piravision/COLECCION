@@ -1719,7 +1719,7 @@
         {
             "id": 3,
             "nombre": "Juez J. Bella",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 629,
@@ -2979,6 +2979,11 @@
         {
             "id": 742,
             "nombre": "Dark Saga",
+            "cantidad": 1
+        },
+        {
+            "id": 438,
+            "nombre": "molluck",
             "cantidad": 1
         }
     ]
