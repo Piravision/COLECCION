@@ -224,7 +224,7 @@
     {
       "id": 191,
       "nombre": "Venom",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 331,
@@ -1499,7 +1499,7 @@
     {
       "id": 691,
       "nombre": "DB-079",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 608,
@@ -1984,7 +1984,7 @@
     {
       "id": 442,
       "nombre": "slig2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 313,
@@ -2014,7 +2014,7 @@
     {
       "id": 661,
       "nombre": "DB-049",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 734,
@@ -2204,7 +2204,7 @@
     {
       "id": 756,
       "nombre": "Rhadamantis2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 629,
@@ -2934,6 +2934,11 @@
     {
       "id": 374,
       "nombre": "Succubus",
+      "cantidad": 1
+    },
+    {
+      "id": 625,
+      "nombre": "DB-013",
       "cantidad": 1
     }
   ]
