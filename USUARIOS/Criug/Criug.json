@@ -359,7 +359,7 @@
         {
             "id": 56,
             "nombre": "nova",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 252,
@@ -1764,7 +1764,7 @@
         {
             "id": 676,
             "nombre": "DB-064",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 691,
@@ -1889,7 +1889,7 @@
         {
             "id": 116,
             "nombre": "Cringer",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 412,
@@ -1919,7 +1919,7 @@
         {
             "id": 745,
             "nombre": "Dark-Shura-de-Capricornio",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 766,
@@ -2969,6 +2969,11 @@
         {
             "id": 748,
             "nombre": "HAdes2",
+            "cantidad": 1
+        },
+        {
+            "id": 751,
+            "nombre": "Minos",
             "cantidad": 1
         }
     ]
