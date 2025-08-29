@@ -934,7 +934,7 @@
         {
             "id": 331,
             "nombre": "Mente Maestra",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 556,
@@ -2984,6 +2984,11 @@
         {
             "id": 438,
             "nombre": "molluck",
+            "cantidad": 1
+        },
+        {
+            "id": 335,
+            "nombre": "Toad",
             "cantidad": 1
         }
     ]
