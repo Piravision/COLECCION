@@ -259,7 +259,7 @@
         {
             "id": 466,
             "nombre": "Alessa",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 46,
@@ -279,7 +279,7 @@
         {
             "id": 16,
             "nombre": "Dregs",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 437,
@@ -3089,7 +3089,7 @@
         {
             "id": 851,
             "nombre": "VEGA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 710,
@@ -3504,6 +3504,16 @@
         {
             "id": 170,
             "nombre": "J. Jonah Jameson",
+            "cantidad": 1
+        },
+        {
+            "id": 898,
+            "nombre": "SUB-MARINER",
+            "cantidad": 1
+        },
+        {
+            "id": 831,
+            "nombre": "BISON",
             "cantidad": 1
         }
     ]
