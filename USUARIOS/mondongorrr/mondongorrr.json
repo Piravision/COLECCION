@@ -1119,7 +1119,7 @@
         {
             "id": 367,
             "nombre": "BEMONT",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 629,
@@ -1374,7 +1374,7 @@
         {
             "id": 52,
             "nombre": "marin",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 605,
@@ -1814,7 +1814,7 @@
         {
             "id": 363,
             "nombre": "Chuache-DesafioTotal",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 306,
@@ -2014,6 +2014,16 @@
         {
             "id": 504,
             "nombre": "HEICHAI",
+            "cantidad": 1
+        },
+        {
+            "id": 794,
+            "nombre": "HUGO-STRANGE",
+            "cantidad": 1
+        },
+        {
+            "id": 190,
+            "nombre": "Vandame-Bloodsport",
             "cantidad": 1
         }
     ]
