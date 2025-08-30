@@ -1429,7 +1429,7 @@
         {
             "id": 862,
             "nombre": "NEO-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 770,
@@ -1694,6 +1694,26 @@
         {
             "id": 752,
             "nombre": "Mu-de-Aries",
+            "cantidad": 1
+        },
+        {
+            "id": 31,
+            "nombre": "Tiamat",
+            "cantidad": 1
+        },
+        {
+            "id": 163,
+            "nombre": "Ben Parker",
+            "cantidad": 1
+        },
+        {
+            "id": 117,
+            "nombre": "He man",
+            "cantidad": 1
+        },
+        {
+            "id": 536,
+            "nombre": "Xena-Jail",
             "cantidad": 1
         }
     ]
