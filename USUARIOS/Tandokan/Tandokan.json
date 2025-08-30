@@ -574,7 +574,7 @@
         {
             "id": 309,
             "nombre": "Thundercracker",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 233,
@@ -839,7 +839,7 @@
         {
             "id": 57,
             "nombre": "pop",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 125,
@@ -1724,7 +1724,7 @@
         {
             "id": 781,
             "nombre": "BATGIRL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 393,
@@ -1934,6 +1934,21 @@
         {
             "id": 550,
             "nombre": "AceVentura-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 525,
+            "nombre": "Cíclope",
+            "cantidad": 1
+        },
+        {
+            "id": 531,
+            "nombre": "McClane-Jail",
+            "cantidad": 1
+        },
+        {
+            "id": 461,
+            "nombre": "Stalone-RamboIII",
             "cantidad": 1
         }
     ]
