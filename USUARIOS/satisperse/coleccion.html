@@ -397,7 +397,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de satisperse</h2>
-                <span>Cartas obtenidas: 110 / 915</span>
+                <span>Cartas obtenidas: 113 / 938</span>
             </div>
             
             <div class="details">
@@ -406,9 +406,14 @@
     <h2>Resumen por Serie</h2>
 					<div class="summary-grid">
 						
+							<div class="summary-button" onclick="mostrarCartas('Bloody Roar')">
+								<img src="/COLECCION/botones/bloody-roar.png" alt="Bloody Roar" class="summary-button-image">
+								<span class="summary-button-counter">1 / 9</span>
+							</div>
+						
 							<div class="summary-button" onclick="mostrarCartas('Caballeros del Zodiaco')">
 								<img src="/COLECCION/botones/caballeros-del-zodiaco.png" alt="Caballeros del Zodiaco" class="summary-button-image">
-								<span class="summary-button-counter">4 / 37</span>
+								<span class="summary-button-counter">5 / 37</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Captain Tsubasa')">
@@ -478,7 +483,7 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('JAIL-Edition')">
 								<img src="/COLECCION/botones/jail-edition.png" alt="JAIL-Edition" class="summary-button-image">
-								<span class="summary-button-counter">4 / 34</span>
+								<span class="summary-button-counter">4 / 36</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Marvel-Classics')">
@@ -528,7 +533,7 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('Spiderman')">
 								<img src="/COLECCION/botones/spiderman.png" alt="Spiderman" class="summary-button-image">
-								<span class="summary-button-counter">1 / 30</span>
+								<span class="summary-button-counter">2 / 30</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Spyro The Dragon')">
@@ -578,7 +583,7 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('WWE')">
 								<img src="/COLECCION/botones/wwe.png" alt="WWE" class="summary-button-image">
-								<span class="summary-button-counter">6 / 12</span>
+								<span class="summary-button-counter">6 / 25</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('X-Men')">
@@ -591,10 +596,34 @@
                     
                     <div id="cards-container">
                         
+                            <div class="series-cards" id="series-Bloody-Roar" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Bloody Roar</h2>
+                                    <span>Cartas obtenidas: 1 / 9</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 359</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '359', 'long'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Bloody Roar/PERSONAJE/long.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Bloody Roar/PERSONAJE/long.png" alt="long">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>long (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
                             <div class="series-cards" id="series-Caballeros-del-Zodiaco" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Caballeros del Zodiaco</h2>
-                                    <span>Cartas obtenidas: 4 / 37</span>
+                                    <span>Cartas obtenidas: 5 / 37</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -622,6 +651,20 @@
                                             </a>
                                             <div class="cromo-details">
                                                 <h3>Aiacos (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 739</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '739', 'Athenea'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Caballeros Zodiaco/HERO/Athenea(23-8-2025-4_51).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Caballeros Zodiaco/HERO/Athenea(23-8-2025-4_51).png" alt="Athenea">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Athenea (x1)</h3>
                                                 <p>Rareza: Raro</p>
                                             </div>
                                         </div>
@@ -1490,7 +1533,7 @@
                             <div class="series-cards" id="series-JAIL-Edition" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>JAIL-Edition</h2>
-                                    <span>Cartas obtenidas: 4 / 34</span>
+                                    <span>Cartas obtenidas: 4 / 36</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -1870,9 +1913,23 @@
                             <div class="series-cards" id="series-Spiderman" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Spiderman</h2>
-                                    <span>Cartas obtenidas: 1 / 30</span>
+                                    <span>Cartas obtenidas: 2 / 30</span>
                                 </div>
                                 <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 180</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '180', 'Electro'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Spiderman/VILLANO/Electro(17-12-2023-20_34).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Spiderman/VILLANO/Electro(17-12-2023-20_34).png" alt="Electro">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Electro (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
                                     
                                         <div class="cromo-card">
                                             <span class="cromo-numero">Nº: 185</span>
@@ -2334,7 +2391,7 @@
                             <div class="series-cards" id="series-WWE" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>WWE</h2>
-                                    <span>Cartas obtenidas: 6 / 12</span>
+                                    <span>Cartas obtenidas: 6 / 25</span>
                                 </div>
                                 <div class="coleccion">
                                     
