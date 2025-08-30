@@ -204,7 +204,7 @@
         {
             "id": 552,
             "nombre": "CHEWBACCA-JAIL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 429,
@@ -214,7 +214,7 @@
         {
             "id": 303,
             "nombre": "Megatron",
-            "cantidad": 1
+            "cantidad": 3
         },
         {
             "id": 123,
@@ -254,7 +254,7 @@
         {
             "id": 273,
             "nombre": "Raphael",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 110,
@@ -739,7 +739,7 @@
         {
             "id": 509,
             "nombre": "NINA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 333,
@@ -1419,7 +1419,7 @@
         {
             "id": 555,
             "nombre": "INDIANA-JONES-JAIL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 713,
@@ -1754,6 +1754,46 @@
         {
             "id": 221,
             "nombre": "Espada Atlantean",
+            "cantidad": 1
+        },
+        {
+            "id": 11,
+            "nombre": "Greywolf",
+            "cantidad": 1
+        },
+        {
+            "id": 582,
+            "nombre": "CONTI",
+            "cantidad": 1
+        },
+        {
+            "id": 759,
+            "nombre": "Shion",
+            "cantidad": 1
+        },
+        {
+            "id": 325,
+            "nombre": "Apocalipsis",
+            "cantidad": 1
+        },
+        {
+            "id": 352,
+            "nombre": "septimus",
+            "cantidad": 1
+        },
+        {
+            "id": 4,
+            "nombre": "Tex Hex",
+            "cantidad": 1
+        },
+        {
+            "id": 164,
+            "nombre": "Black Cat",
+            "cantidad": 1
+        },
+        {
+            "id": 494,
+            "nombre": "jillia",
             "cantidad": 1
         }
     ]

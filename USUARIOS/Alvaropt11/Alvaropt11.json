@@ -1054,7 +1054,7 @@
         {
             "id": 494,
             "nombre": "jillia",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 156,
@@ -2859,6 +2859,11 @@
         {
             "id": 222,
             "nombre": "Espada de Metal Estrella",
+            "cantidad": 1
+        },
+        {
+            "id": 273,
+            "nombre": "Raphael",
             "cantidad": 1
         }
     ]
