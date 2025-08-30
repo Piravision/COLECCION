@@ -1384,7 +1384,7 @@
     {
       "id": 125,
       "nombre": "Teela",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 462,
@@ -3249,7 +3249,7 @@
     {
       "id": 254,
       "nombre": "Chacalo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 786,
@@ -3584,6 +3584,11 @@
     {
       "id": 859,
       "nombre": "JASON-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 697,
+      "nombre": "DB-085",
       "cantidad": 1
     }
   ]
