@@ -279,7 +279,7 @@
         {
             "id": 221,
             "nombre": "Espada Atlantean",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 405,
@@ -2854,6 +2854,11 @@
         {
             "id": 862,
             "nombre": "NEO-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 222,
+            "nombre": "Espada de Metal Estrella",
             "cantidad": 1
         }
     ]
