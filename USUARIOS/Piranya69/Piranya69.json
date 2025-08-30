@@ -1159,7 +1159,7 @@
         {
             "id": 165,
             "nombre": "Daredevil",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 368,
@@ -3514,6 +3514,11 @@
         {
             "id": 831,
             "nombre": "BISON",
+            "cantidad": 1
+        },
+        {
+            "id": 844,
+            "nombre": "HONDA2",
             "cantidad": 1
         }
     ]
