@@ -249,7 +249,7 @@
     {
       "id": 446,
       "nombre": "CUERVOS",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 52,
@@ -274,7 +274,7 @@
     {
       "id": 187,
       "nombre": "Rhyno",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 16,
@@ -649,7 +649,7 @@
     {
       "id": 222,
       "nombre": "Espada de Metal Estrella",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 25,
@@ -694,7 +694,7 @@
     {
       "id": 476,
       "nombre": "Kaufman",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 366,
@@ -944,7 +944,7 @@
     {
       "id": 73,
       "nombre": "killvearn",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 356,
@@ -1384,7 +1384,7 @@
     {
       "id": 33,
       "nombre": "Apollo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 540,
@@ -1604,7 +1604,7 @@
     {
       "id": 213,
       "nombre": "Blackbird",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 561,
@@ -2349,7 +2349,7 @@
     {
       "id": 547,
       "nombre": "ROCKY",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 242,
@@ -2414,7 +2414,7 @@
     {
       "id": 673,
       "nombre": "DB-061",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 636,
@@ -2444,7 +2444,7 @@
     {
       "id": 245,
       "nombre": "Felino",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 181,
@@ -2464,7 +2464,7 @@
     {
       "id": 563,
       "nombre": "VADER-JAIL",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 416,
@@ -3524,6 +3524,26 @@
     {
       "id": 861,
       "nombre": "MARTY-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 931,
+      "nombre": "RANDY-ORTON",
+      "cantidad": 1
+    },
+    {
+      "id": 708,
+      "nombre": "DB-096",
+      "cantidad": 1
+    },
+    {
+      "id": 930,
+      "nombre": "MANKIND",
+      "cantidad": 1
+    },
+    {
+      "id": 916,
+      "nombre": "CHUKY-JAIL",
       "cantidad": 1
     }
   ]
