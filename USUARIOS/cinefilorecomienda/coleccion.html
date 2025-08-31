@@ -397,7 +397,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de cinefilorecomienda</h2>
-                <span>Cartas obtenidas: 127 / 938</span>
+                <span>Cartas obtenidas: 130 / 938</span>
             </div>
             
             <div class="details">
@@ -405,6 +405,11 @@
                     <div class="summary-grid-container">
     <h2>Resumen por Serie</h2>
 					<div class="summary-grid">
+						
+							<div class="summary-button" onclick="mostrarCartas('Alundra')">
+								<img src="/COLECCION/botones/alundra.png" alt="Alundra" class="summary-button-image">
+								<span class="summary-button-counter">1 / 9</span>
+							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Batman')">
 								<img src="/COLECCION/botones/batman.png" alt="Batman" class="summary-button-image">
@@ -468,7 +473,7 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('JAIL-Edition')">
 								<img src="/COLECCION/botones/jail-edition.png" alt="JAIL-Edition" class="summary-button-image">
-								<span class="summary-button-counter">6 / 36</span>
+								<span class="summary-button-counter">7 / 36</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Marvel-Classics')">
@@ -556,6 +561,11 @@
 								<span class="summary-button-counter">2 / 18</span>
 							</div>
 						
+							<div class="summary-button" onclick="mostrarCartas('V')">
+								<img src="/COLECCION/botones/v.png" alt="V" class="summary-button-image">
+								<span class="summary-button-counter">1 / 8</span>
+							</div>
+						
 							<div class="summary-button" onclick="mostrarCartas('Varios')">
 								<img src="/COLECCION/botones/varios.png" alt="Varios" class="summary-button-image">
 								<span class="summary-button-counter">2 / 19</span>
@@ -575,6 +585,30 @@
 				</div>
                     
                     <div id="cards-container">
+                        
+                            <div class="series-cards" id="series-Alundra" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Alundra</h2>
+                                    <span>Cartas obtenidas: 1 / 9</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 349</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '349', 'melzas'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Alundra/PERSONAJE/melzas.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Alundra/PERSONAJE/melzas.png" alt="melzas">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>melzas (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
                         
                             <div class="series-cards" id="series-Batman" style="display: none;">
                                 <div class="section-title-2">
@@ -1469,7 +1503,7 @@
                             <div class="series-cards" id="series-JAIL-Edition" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>JAIL-Edition</h2>
-                                    <span>Cartas obtenidas: 6 / 36</span>
+                                    <span>Cartas obtenidas: 7 / 36</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -1497,6 +1531,20 @@
                                             </a>
                                             <div class="cromo-details">
                                                 <h3>LEIA-JAIL (x1)</h3>
+                                                <p>Rareza: Legendario</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 559</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '559', 'MABARRACUS-JAIL'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/JAIL-Edition/MABARRACUS-JAIL.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/JAIL-Edition/MABARRACUS-JAIL.png" alt="MABARRACUS-JAIL">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>MABARRACUS-JAIL (x1)</h3>
                                                 <p>Rareza: Legendario</p>
                                             </div>
                                         </div>
@@ -2508,6 +2556,30 @@
                                             <div class="cromo-details">
                                                 <h3>Starscream (x1)</h3>
                                                 <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-V" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>V</h2>
+                                    <span>Cartas obtenidas: 1 / 8</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 922</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '922', 'LYDIA'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/V/LYDIA(28-8-2025-4_12).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/V/LYDIA(28-8-2025-4_12).png" alt="LYDIA">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>LYDIA (x1)</h3>
+                                                <p>Rareza: Raro</p>
                                             </div>
                                         </div>
                                     
