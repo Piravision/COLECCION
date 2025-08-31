@@ -1554,7 +1554,7 @@
         {
             "id": 866,
             "nombre": "SNAKE-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 625,
@@ -2614,6 +2614,11 @@
         {
             "id": 24,
             "nombre": "Bobby",
+            "cantidad": 1
+        },
+        {
+            "id": 916,
+            "nombre": "CHUKY-JAIL",
             "cantidad": 1
         }
     ]

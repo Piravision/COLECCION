@@ -3064,7 +3064,7 @@
         {
             "id": 916,
             "nombre": "CHUKY-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 659,
@@ -3379,6 +3379,11 @@
         {
             "id": 290,
             "nombre": "Tokka",
+            "cantidad": 1
+        },
+        {
+            "id": 866,
+            "nombre": "SNAKE-JAIL",
             "cantidad": 1
         }
     ]
