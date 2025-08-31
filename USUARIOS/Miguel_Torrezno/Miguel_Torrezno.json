@@ -9,12 +9,12 @@
     {
       "id": 108,
       "nombre": "Baronesa",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 307,
       "nombre": "Skywarp",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 331,
@@ -184,7 +184,7 @@
     {
       "id": 232,
       "nombre": "Mousers",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 148,
@@ -859,7 +859,7 @@
     {
       "id": 351,
       "nombre": "reaper",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 312,
@@ -974,7 +974,7 @@
     {
       "id": 344,
       "nombre": "Flazzard 3",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 301,
@@ -1034,7 +1034,7 @@
     {
       "id": 203,
       "nombre": "Repteel",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 548,
@@ -1249,7 +1249,7 @@
     {
       "id": 561,
       "nombre": "MARIO-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 640,
@@ -1309,7 +1309,7 @@
     {
       "id": 261,
       "nombre": "Reptilio",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 545,
@@ -1479,7 +1479,7 @@
     {
       "id": 269,
       "nombre": "Mona Lisa",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 518,
@@ -1614,7 +1614,7 @@
     {
       "id": 53,
       "nombre": "marirov",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 740,
@@ -1894,6 +1894,101 @@
     {
       "id": 171,
       "nombre": "Mary Jane",
+      "cantidad": 1
+    },
+    {
+      "id": 736,
+      "nombre": "Aioria-de-Leo",
+      "cantidad": 1
+    },
+    {
+      "id": 873,
+      "nombre": "BLACK-WIDOW",
+      "cantidad": 1
+    },
+    {
+      "id": 707,
+      "nombre": "DB-095",
+      "cantidad": 1
+    },
+    {
+      "id": 683,
+      "nombre": "DB-071",
+      "cantidad": 1
+    },
+    {
+      "id": 450,
+      "nombre": "licker",
+      "cantidad": 1
+    },
+    {
+      "id": 50,
+      "nombre": "Lonberuk",
+      "cantidad": 1
+    },
+    {
+      "id": 765,
+      "nombre": "Finster",
+      "cantidad": 1
+    },
+    {
+      "id": 916,
+      "nombre": "CHUKY-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 111,
+      "nombre": "Dr. Mindbender",
+      "cantidad": 1
+    },
+    {
+      "id": 576,
+      "nombre": "ALAN-CROCKET",
+      "cantidad": 1
+    },
+    {
+      "id": 603,
+      "nombre": "PHILLIP-CALLAHAN",
+      "cantidad": 1
+    },
+    {
+      "id": 332,
+      "nombre": "Mojo",
+      "cantidad": 1
+    },
+    {
+      "id": 661,
+      "nombre": "DB-049",
+      "cantidad": 1
+    },
+    {
+      "id": 201,
+      "nombre": "Dr. paradigma",
+      "cantidad": 1
+    },
+    {
+      "id": 533,
+      "nombre": "Tony-Montana-Jail",
+      "cantidad": 2
+    },
+    {
+      "id": 856,
+      "nombre": "BEETLEJUICE-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 865,
+      "nombre": "ROBOCOP-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 917,
+      "nombre": "MYERS-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 552,
+      "nombre": "CHEWBACCA-JAIL",
       "cantidad": 1
     }
   ]

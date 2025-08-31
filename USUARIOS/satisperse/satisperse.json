@@ -369,7 +369,7 @@
     {
       "id": 32,
       "nombre": "Venger",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 595,
@@ -564,6 +564,46 @@
     {
       "id": 180,
       "nombre": "Electro",
+      "cantidad": 1
+    },
+    {
+      "id": 281,
+      "nombre": "Granitor",
+      "cantidad": 1
+    },
+    {
+      "id": 571,
+      "nombre": "RODY-PIPPER",
+      "cantidad": 1
+    },
+    {
+      "id": 670,
+      "nombre": "DB-058",
+      "cantidad": 1
+    },
+    {
+      "id": 806,
+      "nombre": "JADE",
+      "cantidad": 1
+    },
+    {
+      "id": 165,
+      "nombre": "Daredevil",
+      "cantidad": 1
+    },
+    {
+      "id": 110,
+      "nombre": "Destro",
+      "cantidad": 1
+    },
+    {
+      "id": 488,
+      "nombre": "metalhead",
+      "cantidad": 1
+    },
+    {
+      "id": 546,
+      "nombre": "MARTY-MCFLY",
       "cantidad": 1
     }
   ]

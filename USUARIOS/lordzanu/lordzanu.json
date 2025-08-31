@@ -124,7 +124,7 @@
     {
       "id": 265,
       "nombre": "Leatherhead",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 442,
@@ -374,7 +374,7 @@
     {
       "id": 556,
       "nombre": "LEIA-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 192,
@@ -499,7 +499,7 @@
     {
       "id": 335,
       "nombre": "Toad",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 452,
@@ -584,7 +584,7 @@
     {
       "id": 600,
       "nombre": "NATUREZA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 732,
@@ -829,7 +829,7 @@
     {
       "id": 264,
       "nombre": "Donatello",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 465,
@@ -1099,6 +1099,91 @@
     {
       "id": 94,
       "nombre": "Goliath",
+      "cantidad": 1
+    },
+    {
+      "id": 49,
+      "nombre": "leona",
+      "cantidad": 1
+    },
+    {
+      "id": 652,
+      "nombre": "DB-040",
+      "cantidad": 1
+    },
+    {
+      "id": 857,
+      "nombre": "DOC-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 336,
+      "nombre": "Hyōga de Cisne",
+      "cantidad": 1
+    },
+    {
+      "id": 502,
+      "nombre": "viktor",
+      "cantidad": 1
+    },
+    {
+      "id": 648,
+      "nombre": "DB-036",
+      "cantidad": 1
+    },
+    {
+      "id": 224,
+      "nombre": "Guarida Tortuga",
+      "cantidad": 1
+    },
+    {
+      "id": 731,
+      "nombre": "DB-119",
+      "cantidad": 1
+    },
+    {
+      "id": 838,
+      "nombre": "dhalsim2",
+      "cantidad": 2
+    },
+    {
+      "id": 649,
+      "nombre": "DB-037",
+      "cantidad": 1
+    },
+    {
+      "id": 20,
+      "nombre": "Skulkur",
+      "cantidad": 1
+    },
+    {
+      "id": 651,
+      "nombre": "DB-039",
+      "cantidad": 1
+    },
+    {
+      "id": 686,
+      "nombre": "DB-074",
+      "cantidad": 1
+    },
+    {
+      "id": 861,
+      "nombre": "MARTY-JAIL",
+      "cantidad": 2
+    },
+    {
+      "id": 862,
+      "nombre": "NEO-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 916,
+      "nombre": "CHUKY-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 552,
+      "nombre": "CHEWBACCA-JAIL",
       "cantidad": 1
     }
   ]

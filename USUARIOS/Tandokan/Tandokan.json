@@ -1104,7 +1104,7 @@
     {
       "id": 857,
       "nombre": "DOC-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 6,
@@ -2329,6 +2329,16 @@
     {
       "id": 611,
       "nombre": "TERRY-DENTON",
+      "cantidad": 1
+    },
+    {
+      "id": 769,
+      "nombre": "Pink",
+      "cantidad": 1
+    },
+    {
+      "id": 139,
+      "nombre": "Duke L'Orange",
       "cantidad": 1
     }
   ]
