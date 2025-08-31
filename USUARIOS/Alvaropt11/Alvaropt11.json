@@ -2794,7 +2794,7 @@
         {
             "id": 809,
             "nombre": "KABAL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 854,
@@ -3514,6 +3514,11 @@
         {
             "id": 815,
             "nombre": "NIGHTWOLF",
+            "cantidad": 1
+        },
+        {
+            "id": 827,
+            "nombre": "STRYKER",
             "cantidad": 1
         }
     ]

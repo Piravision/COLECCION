@@ -2334,7 +2334,7 @@
         {
             "id": 827,
             "nombre": "STRYKER",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 856,
@@ -2779,6 +2779,11 @@
         {
             "id": 808,
             "nombre": "JOHNNY-CAGE",
+            "cantidad": 1
+        },
+        {
+            "id": 809,
+            "nombre": "KABAL",
             "cantidad": 1
         }
     ]
