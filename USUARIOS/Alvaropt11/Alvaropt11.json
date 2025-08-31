@@ -2189,7 +2189,7 @@
         {
             "id": 564,
             "nombre": "SLIMER",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 814,
@@ -3394,6 +3394,11 @@
         {
             "id": 370,
             "nombre": "muerte",
+            "cantidad": 1
+        },
+        {
+            "id": 464,
+            "nombre": "yamada",
             "cantidad": 1
         }
     ]
