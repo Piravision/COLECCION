@@ -397,7 +397,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de Chechyan</h2>
-                <span>Cartas obtenidas: 16 / 854</span>
+                <span>Cartas obtenidas: 19 / 938</span>
             </div>
             
             <div class="details">
@@ -436,9 +436,14 @@
 								<span class="summary-button-counter">1 / 12</span>
 							</div>
 						
+							<div class="summary-button" onclick="mostrarCartas('Heman')">
+								<img src="/COLECCION/botones/heman.png" alt="Heman" class="summary-button-image">
+								<span class="summary-button-counter">2 / 19</span>
+							</div>
+						
 							<div class="summary-button" onclick="mostrarCartas('JAIL-Edition')">
 								<img src="/COLECCION/botones/jail-edition.png" alt="JAIL-Edition" class="summary-button-image">
-								<span class="summary-button-counter">1 / 21</span>
+								<span class="summary-button-counter">1 / 36</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Motorratones')">
@@ -468,12 +473,12 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('Varios')">
 								<img src="/COLECCION/botones/varios.png" alt="Varios" class="summary-button-image">
-								<span class="summary-button-counter">1 / 19</span>
+								<span class="summary-button-counter">2 / 19</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('WWE')">
 								<img src="/COLECCION/botones/wwe.png" alt="WWE" class="summary-button-image">
-								<span class="summary-button-counter">1 / 12</span>
+								<span class="summary-button-counter">1 / 25</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('X-Men')">
@@ -630,10 +635,48 @@
                                 </div>
                             </div>
                         
+                            <div class="series-cards" id="series-Heman" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Heman</h2>
+                                    <span>Cartas obtenidas: 2 / 19</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 119</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '119', 'orko'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Heman/HERO/orko.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Heman/HERO/orko.png" alt="orko">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>orko (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 131</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '131', 'Scare Glow('); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Heman/VILLANO/Scare-Glow(.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Heman/VILLANO/Scare-Glow(.png" alt="Scare Glow(">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Scare Glow( (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
                             <div class="series-cards" id="series-JAIL-Edition" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>JAIL-Edition</h2>
-                                    <span>Cartas obtenidas: 1 / 21</span>
+                                    <span>Cartas obtenidas: 1 / 36</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -791,7 +834,7 @@
                             <div class="series-cards" id="series-Varios" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Varios</h2>
-                                    <span>Cartas obtenidas: 1 / 19</span>
+                                    <span>Cartas obtenidas: 2 / 19</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -809,13 +852,27 @@
                                             </div>
                                         </div>
                                     
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 548</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '548', 'Snake-Plissken'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/VARIOS/Snake-Plissken(9-8-2025-23_4).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/VARIOS/Snake-Plissken(9-8-2025-23_4).png" alt="Snake-Plissken">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Snake-Plissken (x1)</h3>
+                                                <p>Rareza: Legendario</p>
+                                            </div>
+                                        </div>
+                                    
                                 </div>
                             </div>
                         
                             <div class="series-cards" id="series-WWE" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>WWE</h2>
-                                    <span>Cartas obtenidas: 1 / 12</span>
+                                    <span>Cartas obtenidas: 1 / 25</span>
                                 </div>
                                 <div class="coleccion">
                                     
