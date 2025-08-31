@@ -449,7 +449,7 @@
     {
       "id": 531,
       "nombre": "McClane-Jail",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 501,
@@ -1094,7 +1094,7 @@
     {
       "id": 867,
       "nombre": "SONNY-JAIL",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 524,
@@ -1599,6 +1599,21 @@
     {
       "id": 847,
       "nombre": "RYU",
+      "cantidad": 1
+    },
+    {
+      "id": 856,
+      "nombre": "BEETLEJUICE-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 916,
+      "nombre": "CHUKY-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 860,
+      "nombre": "MAHONEY-JAIL",
       "cantidad": 1
     }
   ]
