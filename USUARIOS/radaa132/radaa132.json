@@ -704,7 +704,7 @@
     {
       "id": 56,
       "nombre": "nova",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 45,
@@ -1499,6 +1499,31 @@
     {
       "id": 539,
       "nombre": "BRUCE-LEE2",
+      "cantidad": 1
+    },
+    {
+      "id": 21,
+      "nombre": "Windfang",
+      "cantidad": 1
+    },
+    {
+      "id": 410,
+      "nombre": "Barón-Ashura",
+      "cantidad": 1
+    },
+    {
+      "id": 848,
+      "nombre": "RYU2",
+      "cantidad": 1
+    },
+    {
+      "id": 208,
+      "nombre": "Tentakill",
+      "cantidad": 1
+    },
+    {
+      "id": 512,
+      "nombre": "Dimensión-X",
       "cantidad": 1
     }
   ]

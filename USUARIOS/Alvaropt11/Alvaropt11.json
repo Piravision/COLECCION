@@ -239,7 +239,7 @@
         {
             "id": 366,
             "nombre": "alucard 2",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 258,
@@ -834,7 +834,7 @@
         {
             "id": 544,
             "nombre": "DOC-BROWN",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 190,
@@ -1369,12 +1369,12 @@
         {
             "id": 382,
             "nombre": "serge",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 537,
             "nombre": "BOLO-YEUNG",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 486,
@@ -1564,7 +1564,7 @@
         {
             "id": 463,
             "nombre": "shoma",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 85,
@@ -1779,7 +1779,7 @@
         {
             "id": 667,
             "nombre": "DB-055",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 229,
@@ -1859,7 +1859,7 @@
         {
             "id": 59,
             "nombre": "balios",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 256,
@@ -2009,7 +2009,7 @@
         {
             "id": 326,
             "nombre": "Blob",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 317,
@@ -2109,7 +2109,7 @@
         {
             "id": 688,
             "nombre": "DB-076",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 663,
@@ -2504,7 +2504,7 @@
         {
             "id": 509,
             "nombre": "NINA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 92,
@@ -2699,7 +2699,7 @@
         {
             "id": 779,
             "nombre": "BANE",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 581,
@@ -3244,7 +3244,7 @@
         {
             "id": 307,
             "nombre": "Skywarp",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 891,
@@ -3384,6 +3384,16 @@
         {
             "id": 866,
             "nombre": "SNAKE-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 178,
+            "nombre": "Dr. Octopus",
+            "cantidad": 1
+        },
+        {
+            "id": 370,
+            "nombre": "muerte",
             "cantidad": 1
         }
     ]
