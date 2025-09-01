@@ -114,7 +114,7 @@
         {
             "id": 448,
             "nombre": "leon1",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 589,
@@ -794,7 +794,7 @@
         {
             "id": 701,
             "nombre": "DB-089",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 358,
@@ -1399,7 +1399,7 @@
         {
             "id": 246,
             "nombre": "Jaga",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 786,
@@ -1579,7 +1579,7 @@
         {
             "id": 703,
             "nombre": "DB-091",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 336,
@@ -2314,7 +2314,7 @@
         {
             "id": 693,
             "nombre": "DB-081",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 421,
@@ -2379,6 +2379,21 @@
         {
             "id": 275,
             "nombre": "Usagi Yojimbo",
+            "cantidad": 1
+        },
+        {
+            "id": 462,
+            "nombre": "sakura",
+            "cantidad": 1
+        },
+        {
+            "id": 592,
+            "nombre": "JASON-DERRICK",
+            "cantidad": 1
+        },
+        {
+            "id": 445,
+            "nombre": "claire",
             "cantidad": 1
         }
     ]
