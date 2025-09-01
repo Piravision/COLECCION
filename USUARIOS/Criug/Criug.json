@@ -519,7 +519,7 @@
     {
       "id": 21,
       "nombre": "Windfang",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 328,
@@ -1254,7 +1254,7 @@
     {
       "id": 129,
       "nombre": "Hordak",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 112,
@@ -1544,7 +1544,7 @@
     {
       "id": 480,
       "nombre": "Twinfeeler",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 98,
@@ -1739,7 +1739,7 @@
     {
       "id": 166,
       "nombre": "Estrella de Fuego",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 365,
@@ -2469,7 +2469,7 @@
     {
       "id": 689,
       "nombre": "DB-077",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 483,
@@ -3664,6 +3664,26 @@
     {
       "id": 783,
       "nombre": "BRUCE-WAYNE",
+      "cantidad": 1
+    },
+    {
+      "id": 724,
+      "nombre": "DB-112",
+      "cantidad": 1
+    },
+    {
+      "id": 907,
+      "nombre": "FLASH",
+      "cantidad": 1
+    },
+    {
+      "id": 941,
+      "nombre": "GREMLIN-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 170,
+      "nombre": "J. Jonah Jameson",
       "cantidad": 1
     }
   ]

@@ -874,7 +874,7 @@
         {
             "id": 338,
             "nombre": "Shiryū de Dragón",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 844,
@@ -1094,7 +1094,7 @@
         {
             "id": 738,
             "nombre": "Aldebarán-de-Tauro",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 902,
@@ -2164,7 +2164,7 @@
         {
             "id": 410,
             "nombre": "Barón-Ashura",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 642,
@@ -2509,6 +2509,16 @@
         {
             "id": 351,
             "nombre": "reaper",
+            "cantidad": 1
+        },
+        {
+            "id": 493,
+            "nombre": "flik",
+            "cantidad": 1
+        },
+        {
+            "id": 6,
+            "nombre": "El Patriarca",
             "cantidad": 1
         }
     ]
