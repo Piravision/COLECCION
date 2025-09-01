@@ -769,7 +769,7 @@
     {
       "id": 421,
       "nombre": "mei2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 586,
@@ -2394,7 +2394,7 @@
     {
       "id": 721,
       "nombre": "DB-109",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 7,
@@ -2539,6 +2539,11 @@
     {
       "id": 267,
       "nombre": "Metalhead",
+      "cantidad": 1
+    },
+    {
+      "id": 378,
+      "nombre": "kid",
       "cantidad": 1
     }
   ]

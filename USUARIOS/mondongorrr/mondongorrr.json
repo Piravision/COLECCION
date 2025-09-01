@@ -14,7 +14,7 @@
         {
             "id": 548,
             "nombre": "Snake-Plissken",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 498,
@@ -359,7 +359,7 @@
         {
             "id": 174,
             "nombre": "Spiderman",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 598,
@@ -644,7 +644,7 @@
         {
             "id": 697,
             "nombre": "DB-085",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 607,
@@ -699,7 +699,7 @@
         {
             "id": 104,
             "nombre": "Lady Jaye",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 243,
@@ -1014,7 +1014,7 @@
         {
             "id": 571,
             "nombre": "RODY-PIPPER",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 630,
@@ -1114,7 +1114,7 @@
         {
             "id": 340,
             "nombre": "Poseidón",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 367,
@@ -1164,7 +1164,7 @@
         {
             "id": 296,
             "nombre": "Jazz",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 407,
@@ -1334,7 +1334,7 @@
         {
             "id": 44,
             "nombre": "Fly",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 64,
@@ -1614,7 +1614,7 @@
         {
             "id": 582,
             "nombre": "CONTI",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 242,
@@ -1649,7 +1649,7 @@
         {
             "id": 772,
             "nombre": "Rita-Repulsa",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 302,
@@ -1684,7 +1684,7 @@
         {
             "id": 868,
             "nombre": "ANT-MAN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 595,
@@ -1724,7 +1724,7 @@
         {
             "id": 291,
             "nombre": "Zorax",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 895,
@@ -2204,7 +2204,7 @@
         {
             "id": 82,
             "nombre": "zaboera",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 90,
@@ -2344,7 +2344,7 @@
         {
             "id": 808,
             "nombre": "JOHNNY-CAGE",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 687,
@@ -2394,6 +2394,36 @@
         {
             "id": 445,
             "nombre": "claire",
+            "cantidad": 1
+        },
+        {
+            "id": 704,
+            "nombre": "DB-092",
+            "cantidad": 1
+        },
+        {
+            "id": 551,
+            "nombre": "BARRACUS-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 138,
+            "nombre": "Dr. Hell",
+            "cantidad": 1
+        },
+        {
+            "id": 743,
+            "nombre": "Dark-Afrodita-de-Piscis",
+            "cantidad": 1
+        },
+        {
+            "id": 348,
+            "nombre": "Meia",
+            "cantidad": 1
+        },
+        {
+            "id": 909,
+            "nombre": "LOBO",
             "cantidad": 1
         }
     ]
