@@ -779,7 +779,7 @@
     {
       "id": 92,
       "nombre": "Brooklyn",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 41,
@@ -864,7 +864,7 @@
     {
       "id": 315,
       "nombre": "Emma Frost",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 513,
@@ -1154,7 +1154,7 @@
     {
       "id": 201,
       "nombre": "Dr. paradigma",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 573,
@@ -1714,7 +1714,7 @@
     {
       "id": 653,
       "nombre": "DB-041",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 726,
@@ -1824,7 +1824,7 @@
     {
       "id": 880,
       "nombre": "GREEN-GOBLIN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 113,
@@ -2009,6 +2009,11 @@
     {
       "id": 941,
       "nombre": "GREMLIN-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 257,
+      "nombre": "Mumm Ra",
       "cantidad": 1
     }
   ]
