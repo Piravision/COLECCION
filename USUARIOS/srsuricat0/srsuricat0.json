@@ -44,7 +44,7 @@
     {
       "id": 190,
       "nombre": "Spider Woman",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 134,
@@ -999,7 +999,7 @@
     {
       "id": 34,
       "nombre": "Avan",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 203,
@@ -1124,7 +1124,7 @@
     {
       "id": 548,
       "nombre": "Snake-Plissken",
-      "cantidad": 9
+      "cantidad": 10
     },
     {
       "id": 237,
@@ -1144,12 +1144,12 @@
     {
       "id": 175,
       "nombre": "Buitre",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 503,
       "nombre": "gon",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 383,
@@ -1329,7 +1329,7 @@
     {
       "id": 519,
       "nombre": "Tortugamóvil",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 70,
@@ -1394,7 +1394,7 @@
     {
       "id": 565,
       "nombre": "ANDRÉ-THE-GIANT",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 397,
@@ -1589,7 +1589,7 @@
     {
       "id": 562,
       "nombre": "PETER-GRIFFIN-JAIL",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 111,
@@ -1724,7 +1724,7 @@
     {
       "id": 199,
       "nombre": "Streex",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 457,
@@ -2184,7 +2184,7 @@
     {
       "id": 240,
       "nombre": "Terror Drome",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 392,
@@ -2389,7 +2389,7 @@
     {
       "id": 35,
       "nombre": "AVAN DRAGON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 278,
@@ -2599,7 +2599,7 @@
     {
       "id": 721,
       "nombre": "DB-109",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 432,
@@ -2709,7 +2709,7 @@
     {
       "id": 695,
       "nombre": "DB-083",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 771,
@@ -2754,7 +2754,7 @@
     {
       "id": 676,
       "nombre": "DB-064",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 88,
@@ -2879,7 +2879,7 @@
     {
       "id": 604,
       "nombre": "RALF-PETERSON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 708,
@@ -3064,7 +3064,7 @@
     {
       "id": 679,
       "nombre": "DB-067",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 668,
@@ -3144,7 +3144,7 @@
     {
       "id": 703,
       "nombre": "DB-091",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 621,
@@ -3224,7 +3224,7 @@
     {
       "id": 657,
       "nombre": "DB-045",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 686,
@@ -3324,7 +3324,7 @@
     {
       "id": 336,
       "nombre": "Hyōga de Cisne",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 338,
@@ -3404,7 +3404,7 @@
     {
       "id": 644,
       "nombre": "DB-032",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 67,
@@ -3624,7 +3624,7 @@
     {
       "id": 759,
       "nombre": "Shion",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 642,
@@ -3684,7 +3684,7 @@
     {
       "id": 848,
       "nombre": "RYU2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 920,
@@ -3709,7 +3709,7 @@
     {
       "id": 284,
       "nombre": "Roadkill",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 816,
@@ -3769,6 +3769,26 @@
     {
       "id": 849,
       "nombre": "SAGAT",
+      "cantidad": 1
+    },
+    {
+      "id": 934,
+      "nombre": "SHAWN-MICHAELS",
+      "cantidad": 1
+    },
+    {
+      "id": 841,
+      "nombre": "GUILE",
+      "cantidad": 1
+    },
+    {
+      "id": 892,
+      "nombre": "NOVA",
+      "cantidad": 1
+    },
+    {
+      "id": 820,
+      "nombre": "SEKTOR",
       "cantidad": 1
     }
   ]

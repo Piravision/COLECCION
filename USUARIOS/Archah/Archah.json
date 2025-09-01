@@ -109,7 +109,7 @@
     {
       "id": 310,
       "nombre": "Dan",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 297,
@@ -314,7 +314,7 @@
     {
       "id": 26,
       "nombre": "Eric",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 247,
@@ -964,6 +964,26 @@
     {
       "id": 914,
       "nombre": "SUPERMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 640,
+      "nombre": "DB-028",
+      "cantidad": 1
+    },
+    {
+      "id": 330,
+      "nombre": "Magneto",
+      "cantidad": 1
+    },
+    {
+      "id": 806,
+      "nombre": "JADE",
+      "cantidad": 1
+    },
+    {
+      "id": 136,
+      "nombre": "Mazinger Z",
       "cantidad": 1
     }
   ]

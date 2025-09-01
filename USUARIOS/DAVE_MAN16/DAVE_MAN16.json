@@ -44,7 +44,7 @@
     {
       "id": 184,
       "nombre": "Lizard",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 331,
@@ -204,7 +204,7 @@
     {
       "id": 528,
       "nombre": "Fénix-Oscura",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 109,
@@ -364,7 +364,7 @@
     {
       "id": 169,
       "nombre": "Hombre de Hielo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 180,
@@ -564,7 +564,7 @@
     {
       "id": 536,
       "nombre": "Xena-Jail",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 491,
@@ -669,7 +669,7 @@
     {
       "id": 564,
       "nombre": "SLIMER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 307,
@@ -1079,7 +1079,7 @@
     {
       "id": 570,
       "nombre": "MILLION-DOLLAR-MAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 582,
@@ -1394,7 +1394,7 @@
     {
       "id": 416,
       "nombre": "emme2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 210,
@@ -1449,12 +1449,12 @@
     {
       "id": 139,
       "nombre": "Duke L'Orange",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 237,
       "nombre": "Sky Shadow",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 541,
@@ -1514,7 +1514,7 @@
     {
       "id": 931,
       "nombre": "RANDY-ORTON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 556,
@@ -1539,6 +1539,46 @@
     {
       "id": 858,
       "nombre": "FREDDY-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 60,
+      "nombre": "baran",
+      "cantidad": 1
+    },
+    {
+      "id": 730,
+      "nombre": "DB-118",
+      "cantidad": 1
+    },
+    {
+      "id": 823,
+      "nombre": "SHEEVA",
+      "cantidad": 1
+    },
+    {
+      "id": 642,
+      "nombre": "DB-030",
+      "cantidad": 1
+    },
+    {
+      "id": 927,
+      "nombre": "BRET-HART",
+      "cantidad": 1
+    },
+    {
+      "id": 734,
+      "nombre": "Afrodita-de-Piscis",
+      "cantidad": 1
+    },
+    {
+      "id": 294,
+      "nombre": "Hound",
+      "cantidad": 1
+    },
+    {
+      "id": 824,
+      "nombre": "SINDEL",
       "cantidad": 1
     }
   ]

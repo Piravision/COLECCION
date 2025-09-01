@@ -129,7 +129,7 @@
     {
       "id": 87,
       "nombre": "Walter _Doc_ Hartford",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 235,
@@ -229,7 +229,7 @@
     {
       "id": 768,
       "nombre": "megazord",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 741,
@@ -419,7 +419,7 @@
     {
       "id": 79,
       "nombre": "pororo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 664,
@@ -664,7 +664,7 @@
     {
       "id": 592,
       "nombre": "JASON-DERRICK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 638,
@@ -689,7 +689,7 @@
     {
       "id": 391,
       "nombre": "piretripe",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 82,
@@ -709,7 +709,7 @@
     {
       "id": 596,
       "nombre": "K.HEINZ-SCHENEIDER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 805,
@@ -719,7 +719,7 @@
     {
       "id": 540,
       "nombre": "CHUCK-NORRIS",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 702,
@@ -749,7 +749,7 @@
     {
       "id": 554,
       "nombre": "HANSOLO-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 740,
@@ -834,7 +834,7 @@
     {
       "id": 490,
       "nombre": "spyro1",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 57,
@@ -944,7 +944,7 @@
     {
       "id": 822,
       "nombre": "SHAO-KAHN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 517,
@@ -1134,7 +1134,7 @@
     {
       "id": 458,
       "nombre": "hinata",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 597,
@@ -1159,7 +1159,7 @@
     {
       "id": 683,
       "nombre": "DB-071",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 484,
@@ -1169,7 +1169,7 @@
     {
       "id": 791,
       "nombre": "GORDON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 808,
@@ -1239,7 +1239,7 @@
     {
       "id": 257,
       "nombre": "Mumm Ra",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 262,
@@ -1489,7 +1489,7 @@
     {
       "id": 826,
       "nombre": "SONYA-BLADE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 854,
@@ -1579,7 +1579,7 @@
     {
       "id": 650,
       "nombre": "DB-038",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 710,
@@ -1594,7 +1594,7 @@
     {
       "id": 559,
       "nombre": "MABARRACUS-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 672,
@@ -1904,7 +1904,7 @@
     {
       "id": 86,
       "nombre": "Shane Gooseman",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 779,
@@ -2054,7 +2054,7 @@
     {
       "id": 255,
       "nombre": "Ma Mutt",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 384,
@@ -2339,6 +2339,96 @@
     {
       "id": 139,
       "nombre": "Duke L'Orange",
+      "cantidad": 1
+    },
+    {
+      "id": 367,
+      "nombre": "BEMONT",
+      "cantidad": 1
+    },
+    {
+      "id": 29,
+      "nombre": "Sheila",
+      "cantidad": 1
+    },
+    {
+      "id": 602,
+      "nombre": "PAUL-DIAMOND",
+      "cantidad": 1
+    },
+    {
+      "id": 35,
+      "nombre": "AVAN DRAGON",
+      "cantidad": 2
+    },
+    {
+      "id": 437,
+      "nombre": "ellum",
+      "cantidad": 1
+    },
+    {
+      "id": 199,
+      "nombre": "Streex",
+      "cantidad": 1
+    },
+    {
+      "id": 450,
+      "nombre": "licker",
+      "cantidad": 1
+    },
+    {
+      "id": 798,
+      "nombre": "PINGUINO",
+      "cantidad": 1
+    },
+    {
+      "id": 930,
+      "nombre": "MANKIND",
+      "cantidad": 1
+    },
+    {
+      "id": 19,
+      "nombre": "Set",
+      "cantidad": 1
+    },
+    {
+      "id": 721,
+      "nombre": "DB-109",
+      "cantidad": 1
+    },
+    {
+      "id": 7,
+      "nombre": "El Patriarca",
+      "cantidad": 1
+    },
+    {
+      "id": 277,
+      "nombre": "Baxter",
+      "cantidad": 1
+    },
+    {
+      "id": 796,
+      "nombre": "MAN-BAT",
+      "cantidad": 1
+    },
+    {
+      "id": 259,
+      "nombre": "Ojo Rojo",
+      "cantidad": 1
+    },
+    {
+      "id": 547,
+      "nombre": "ROCKY",
+      "cantidad": 1
+    },
+    {
+      "id": 376,
+      "nombre": "guile",
+      "cantidad": 1
+    },
+    {
+      "id": 501,
+      "nombre": "SOLON",
       "cantidad": 1
     }
   ]
