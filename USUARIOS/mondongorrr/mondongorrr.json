@@ -294,7 +294,7 @@
         {
             "id": 320,
             "nombre": "Psylocke",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 132,
@@ -549,7 +549,7 @@
         {
             "id": 392,
             "nombre": "roover",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 424,
@@ -1869,7 +1869,7 @@
         {
             "id": 349,
             "nombre": "melzas",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 59,
@@ -2524,6 +2524,16 @@
         {
             "id": 749,
             "nombre": "Hilda",
+            "cantidad": 1
+        },
+        {
+            "id": 45,
+            "nombre": "garuda",
+            "cantidad": 1
+        },
+        {
+            "id": 388,
+            "nombre": "koala2",
             "cantidad": 1
         }
     ]
