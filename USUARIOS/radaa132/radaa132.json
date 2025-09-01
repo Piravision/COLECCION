@@ -299,7 +299,7 @@
     {
       "id": 748,
       "nombre": "HAdes2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 700,
@@ -529,7 +529,7 @@
     {
       "id": 900,
       "nombre": "THOR",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 625,
@@ -909,7 +909,7 @@
     {
       "id": 506,
       "nombre": "jin",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 633,
@@ -979,7 +979,7 @@
     {
       "id": 754,
       "nombre": "Pandora",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 574,
@@ -1664,6 +1664,46 @@
     {
       "id": 106,
       "nombre": "Scarlett",
+      "cantidad": 1
+    },
+    {
+      "id": 284,
+      "nombre": "Roadkill",
+      "cantidad": 1
+    },
+    {
+      "id": 276,
+      "nombre": "Baxter",
+      "cantidad": 1
+    },
+    {
+      "id": 802,
+      "nombre": "ROBIN",
+      "cantidad": 1
+    },
+    {
+      "id": 726,
+      "nombre": "DB-114",
+      "cantidad": 1
+    },
+    {
+      "id": 320,
+      "nombre": "Psylocke",
+      "cantidad": 1
+    },
+    {
+      "id": 727,
+      "nombre": "DB-115",
+      "cantidad": 1
+    },
+    {
+      "id": 389,
+      "nombre": "neo cortex",
+      "cantidad": 1
+    },
+    {
+      "id": 519,
+      "nombre": "Tortugamóvil",
       "cantidad": 1
     }
   ]
