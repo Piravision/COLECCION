@@ -294,7 +294,7 @@
         {
             "id": 79,
             "nombre": "pororo",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 567,
@@ -1229,7 +1229,7 @@
         {
             "id": 451,
             "nombre": "perros",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 524,
@@ -1319,7 +1319,7 @@
         {
             "id": 833,
             "nombre": "blanka2",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 840,
@@ -1529,7 +1529,7 @@
         {
             "id": 630,
             "nombre": "DB-018",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 736,
@@ -1549,7 +1549,7 @@
         {
             "id": 584,
             "nombre": "DEUTER-MULLER",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 866,
@@ -2474,7 +2474,7 @@
         {
             "id": 748,
             "nombre": "HAdes2",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 389,
@@ -2519,7 +2519,7 @@
         {
             "id": 843,
             "nombre": "HONDA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 429,
@@ -2619,7 +2619,7 @@
         {
             "id": 916,
             "nombre": "CHUKY-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 58,
@@ -2879,7 +2879,7 @@
         {
             "id": 122,
             "nombre": "She ra",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 758,
@@ -3029,6 +3029,31 @@
         {
             "id": 763,
             "nombre": "black",
+            "cantidad": 1
+        },
+        {
+            "id": 641,
+            "nombre": "DB-029",
+            "cantidad": 1
+        },
+        {
+            "id": 787,
+            "nombre": "DOS-CARAS",
+            "cantidad": 1
+        },
+        {
+            "id": 802,
+            "nombre": "ROBIN",
+            "cantidad": 1
+        },
+        {
+            "id": 192,
+            "nombre": "Bends",
+            "cantidad": 1
+        },
+        {
+            "id": 858,
+            "nombre": "FREDDY-JAIL",
             "cantidad": 1
         }
     ]

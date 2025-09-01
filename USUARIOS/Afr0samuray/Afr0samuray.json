@@ -24,7 +24,7 @@
     {
       "id": 223,
       "nombre": "G.I. JOE Headquarters",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 86,
@@ -259,7 +259,7 @@
     {
       "id": 45,
       "nombre": "garuda",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 145,
@@ -479,7 +479,7 @@
     {
       "id": 433,
       "nombre": "vincent",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 109,
@@ -584,7 +584,7 @@
     {
       "id": 199,
       "nombre": "Streex",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 269,
@@ -969,7 +969,7 @@
     {
       "id": 312,
       "nombre": "Bestia",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 509,
@@ -1104,7 +1104,7 @@
     {
       "id": 218,
       "nombre": "Cybertron",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 505,
@@ -1519,7 +1519,7 @@
     {
       "id": 729,
       "nombre": "DB-117",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 188,
@@ -2159,6 +2159,46 @@
     {
       "id": 3,
       "nombre": "Juez J. Bella",
+      "cantidad": 1
+    },
+    {
+      "id": 880,
+      "nombre": "GREEN-GOBLIN",
+      "cantidad": 1
+    },
+    {
+      "id": 894,
+      "nombre": "RED-SKULL",
+      "cantidad": 1
+    },
+    {
+      "id": 845,
+      "nombre": "KEN",
+      "cantidad": 1
+    },
+    {
+      "id": 486,
+      "nombre": "gnasty-gnorc",
+      "cantidad": 1
+    },
+    {
+      "id": 848,
+      "nombre": "RYU2",
+      "cantidad": 1
+    },
+    {
+      "id": 918,
+      "nombre": "DIANA",
+      "cantidad": 1
+    },
+    {
+      "id": 710,
+      "nombre": "DB-098",
+      "cantidad": 1
+    },
+    {
+      "id": 602,
+      "nombre": "PAUL-DIAMOND",
       "cantidad": 1
     }
   ]
