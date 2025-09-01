@@ -397,7 +397,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de Alukardss</h2>
-                <span>Cartas obtenidas: 3 / 938</span>
+                <span>Cartas obtenidas: 6 / 946</span>
             </div>
             
             <div class="details">
@@ -406,9 +406,24 @@
     <h2>Resumen por Serie</h2>
 					<div class="summary-grid">
 						
+							<div class="summary-button" onclick="mostrarCartas('Castlevania')">
+								<img src="/COLECCION/botones/castlevania.png" alt="Castlevania" class="summary-button-image">
+								<span class="summary-button-counter">1 / 10</span>
+							</div>
+						
 							<div class="summary-button" onclick="mostrarCartas('JAIL-Edition')">
 								<img src="/COLECCION/botones/jail-edition.png" alt="JAIL-Edition" class="summary-button-image">
-								<span class="summary-button-counter">3 / 36</span>
+								<span class="summary-button-counter">3 / 44</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Resident Evil')">
+								<img src="/COLECCION/botones/resident-evil.png" alt="Resident Evil" class="summary-button-image">
+								<span class="summary-button-counter">1 / 12</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Spyro The Dragon')">
+								<img src="/COLECCION/botones/spyro-the-dragon.png" alt="Spyro The Dragon" class="summary-button-image">
+								<span class="summary-button-counter">1 / 9</span>
 							</div>
 						
 					</div>
@@ -416,10 +431,34 @@
                     
                     <div id="cards-container">
                         
+                            <div class="series-cards" id="series-Castlevania" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Castlevania</h2>
+                                    <span>Cartas obtenidas: 1 / 10</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 373</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '373', 'SHAFT'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Castlevania/PERSONAJE/SHAFT.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Castlevania/PERSONAJE/SHAFT.png" alt="SHAFT">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>SHAFT (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
                             <div class="series-cards" id="series-JAIL-Edition" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>JAIL-Edition</h2>
-                                    <span>Cartas obtenidas: 3 / 36</span>
+                                    <span>Cartas obtenidas: 3 / 44</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -462,6 +501,54 @@
                                             <div class="cromo-details">
                                                 <h3>MYERS-JAIL (x1)</h3>
                                                 <p>Rareza: Legendario</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Resident-Evil" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Resident Evil</h2>
+                                    <span>Cartas obtenidas: 1 / 12</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 445</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '445', 'claire'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Resident Evil/PERSONAJE/claire.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Resident Evil/PERSONAJE/claire.png" alt="claire">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>claire (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Spyro-The-Dragon" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Spyro The Dragon</h2>
+                                    <span>Cartas obtenidas: 1 / 9</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 486</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '486', 'gnasty-gnorc'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Spyro The Dragon/PERSONAJE/gnasty-gnorc.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Spyro The Dragon/PERSONAJE/gnasty-gnorc.png" alt="gnasty-gnorc">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>gnasty-gnorc (x1)</h3>
+                                                <p>Rareza: Común</p>
                                             </div>
                                         </div>
                                     
