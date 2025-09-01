@@ -309,7 +309,7 @@
         {
             "id": 406,
             "nombre": "turcos",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 132,
@@ -2079,6 +2079,11 @@
         {
             "id": 99,
             "nombre": "Demona",
+            "cantidad": 1
+        },
+        {
+            "id": 401,
+            "nombre": "cloud",
             "cantidad": 1
         }
     ]

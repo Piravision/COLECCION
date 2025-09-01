@@ -509,7 +509,7 @@
         {
             "id": 401,
             "nombre": "cloud",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 225,
@@ -2544,6 +2544,11 @@
         {
             "id": 91,
             "nombre": "Bronx",
+            "cantidad": 1
+        },
+        {
+            "id": 406,
+            "nombre": "turcos",
             "cantidad": 1
         }
     ]
