@@ -309,7 +309,7 @@
     {
       "id": 406,
       "nombre": "turcos",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 132,
@@ -419,7 +419,7 @@
     {
       "id": 55,
       "nombre": "mina",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 390,
@@ -439,7 +439,7 @@
     {
       "id": 397,
       "nombre": "avalanche",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 6,
@@ -559,7 +559,7 @@
     {
       "id": 33,
       "nombre": "Apollo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 407,
@@ -954,7 +954,7 @@
     {
       "id": 487,
       "nombre": "Jacques",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 206,
@@ -2094,6 +2094,51 @@
     {
       "id": 572,
       "nombre": "Sgt.-SLAUGTHER",
+      "cantidad": 1
+    },
+    {
+      "id": 710,
+      "nombre": "DB-098",
+      "cantidad": 1
+    },
+    {
+      "id": 666,
+      "nombre": "DB-054",
+      "cantidad": 1
+    },
+    {
+      "id": 361,
+      "nombre": "uriko",
+      "cantidad": 1
+    },
+    {
+      "id": 718,
+      "nombre": "DB-106",
+      "cantidad": 1
+    },
+    {
+      "id": 711,
+      "nombre": "DB-099",
+      "cantidad": 1
+    },
+    {
+      "id": 475,
+      "nombre": "Incubus",
+      "cantidad": 1
+    },
+    {
+      "id": 960,
+      "nombre": "3-LESTRADE",
+      "cantidad": 1
+    },
+    {
+      "id": 220,
+      "nombre": "DRAGON QUEST",
+      "cantidad": 1
+    },
+    {
+      "id": 713,
+      "nombre": "DB-101",
       "cantidad": 1
     }
   ]

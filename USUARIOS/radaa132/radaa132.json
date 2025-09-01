@@ -499,7 +499,7 @@
     {
       "id": 28,
       "nombre": "Presto",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 685,
@@ -899,7 +899,7 @@
     {
       "id": 628,
       "nombre": "DB-016",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 9,
@@ -1214,7 +1214,7 @@
     {
       "id": 309,
       "nombre": "Thundercracker",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 249,
@@ -1674,7 +1674,7 @@
     {
       "id": 276,
       "nombre": "Baxter",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 802,
@@ -1709,7 +1709,7 @@
     {
       "id": 962,
       "nombre": "3-SHERLOK-HOLMES",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 972,
@@ -1719,7 +1719,7 @@
     {
       "id": 964,
       "nombre": "3-TODD-&-SMILEY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 966,
@@ -1744,6 +1744,51 @@
     {
       "id": 22,
       "nombre": "Wrath Amon",
+      "cantidad": 1
+    },
+    {
+      "id": 277,
+      "nombre": "Baxter",
+      "cantidad": 1
+    },
+    {
+      "id": 70,
+      "nombre": "hadlar",
+      "cantidad": 1
+    },
+    {
+      "id": 957,
+      "nombre": "2-MONTERREY-JACK",
+      "cantidad": 1
+    },
+    {
+      "id": 470,
+      "nombre": "Floatstinger",
+      "cantidad": 1
+    },
+    {
+      "id": 254,
+      "nombre": "Chacalo",
+      "cantidad": 1
+    },
+    {
+      "id": 951,
+      "nombre": "10-DANIEL-EL-TRAVIESO",
+      "cantidad": 1
+    },
+    {
+      "id": 949,
+      "nombre": "1-DARTACAN",
+      "cantidad": 1
+    },
+    {
+      "id": 969,
+      "nombre": "5-DAVID-EL-GNOMO",
+      "cantidad": 1
+    },
+    {
+      "id": 963,
+      "nombre": "3-SRA.-HUDSON",
       "cantidad": 1
     }
   ]

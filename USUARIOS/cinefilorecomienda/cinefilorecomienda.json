@@ -69,7 +69,7 @@
     {
       "id": 542,
       "nombre": "DIE-HARD",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 439,
@@ -514,7 +514,7 @@
     {
       "id": 138,
       "nombre": "Dr. Hell",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 436,
@@ -1054,6 +1054,86 @@
     {
       "id": 397,
       "nombre": "avalanche",
+      "cantidad": 1
+    },
+    {
+      "id": 770,
+      "nombre": "red",
+      "cantidad": 1
+    },
+    {
+      "id": 450,
+      "nombre": "licker",
+      "cantidad": 1
+    },
+    {
+      "id": 325,
+      "nombre": "Apocalipsis",
+      "cantidad": 1
+    },
+    {
+      "id": 707,
+      "nombre": "DB-095",
+      "cantidad": 1
+    },
+    {
+      "id": 932,
+      "nombre": "RAZOR-RAMON",
+      "cantidad": 1
+    },
+    {
+      "id": 738,
+      "nombre": "Aldebarán-de-Tauro",
+      "cantidad": 1
+    },
+    {
+      "id": 366,
+      "nombre": "alucard 2",
+      "cantidad": 1
+    },
+    {
+      "id": 410,
+      "nombre": "Barón-Ashura",
+      "cantidad": 1
+    },
+    {
+      "id": 481,
+      "nombre": "Capitán-Stargazer",
+      "cantidad": 1
+    },
+    {
+      "id": 137,
+      "nombre": "Sayaka Yumi",
+      "cantidad": 1
+    },
+    {
+      "id": 952,
+      "nombre": "11-HEIDI-&-MARCO",
+      "cantidad": 1
+    },
+    {
+      "id": 971,
+      "nombre": "7-INSPECTOR-GADGET",
+      "cantidad": 1
+    },
+    {
+      "id": 974,
+      "nombre": "9-CALIMERO",
+      "cantidad": 1
+    },
+    {
+      "id": 964,
+      "nombre": "3-TODD-&-SMILEY",
+      "cantidad": 1
+    },
+    {
+      "id": 962,
+      "nombre": "3-SHERLOK-HOLMES",
+      "cantidad": 1
+    },
+    {
+      "id": 970,
+      "nombre": "6-VICKY-EL-VIKINGO",
       "cantidad": 1
     }
   ]

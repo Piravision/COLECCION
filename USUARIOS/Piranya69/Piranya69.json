@@ -1019,7 +1019,7 @@
     {
       "id": 42,
       "nombre": "dai 2",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 403,
@@ -1434,7 +1434,7 @@
     {
       "id": 432,
       "nombre": "solid2",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 203,
@@ -3754,12 +3754,12 @@
     {
       "id": 964,
       "nombre": "3-TODD-&-SMILEY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 948,
       "nombre": "1-ATHOS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 966,
@@ -3774,6 +3774,16 @@
     {
       "id": 965,
       "nombre": "4-RIGODON",
+      "cantidad": 1
+    },
+    {
+      "id": 651,
+      "nombre": "DB-039",
+      "cantidad": 1
+    },
+    {
+      "id": 972,
+      "nombre": "8-MAYA",
       "cantidad": 1
     }
   ]

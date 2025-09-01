@@ -124,7 +124,7 @@
     {
       "id": 143,
       "nombre": "Wildwing Flashblade",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 203,
@@ -389,7 +389,7 @@
     {
       "id": 369,
       "nombre": "DRACULA2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 478,
@@ -2169,7 +2169,7 @@
     {
       "id": 212,
       "nombre": "Asteroide M",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 463,
@@ -2809,7 +2809,7 @@
     {
       "id": 567,
       "nombre": "JAKE-ROBERTS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 824,
@@ -2994,7 +2994,7 @@
     {
       "id": 345,
       "nombre": "alundra",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 660,
@@ -3569,7 +3569,7 @@
     {
       "id": 947,
       "nombre": "1-ARAMIS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 966,
@@ -3614,6 +3614,26 @@
     {
       "id": 860,
       "nombre": "MAHONEY-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 942,
+      "nombre": "HANNIBAL-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 948,
+      "nombre": "1-ATHOS",
+      "cantidad": 2
+    },
+    {
+      "id": 965,
+      "nombre": "4-RIGODON",
+      "cantidad": 2
+    },
+    {
+      "id": 964,
+      "nombre": "3-TODD-&-SMILEY",
       "cantidad": 1
     }
   ]
