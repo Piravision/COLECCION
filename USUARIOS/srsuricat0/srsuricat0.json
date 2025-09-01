@@ -1689,7 +1689,7 @@
     {
       "id": 207,
       "nombre": "Slobster",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 464,
@@ -1704,7 +1704,7 @@
     {
       "id": 312,
       "nombre": "Bestia",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 285,
@@ -1909,7 +1909,7 @@
     {
       "id": 509,
       "nombre": "NINA",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 63,
@@ -2194,7 +2194,7 @@
     {
       "id": 288,
       "nombre": "Splinter",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 508,
@@ -3609,7 +3609,7 @@
     {
       "id": 852,
       "nombre": "ZANGIEF",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 877,
@@ -3789,6 +3789,11 @@
     {
       "id": 820,
       "nombre": "SEKTOR",
+      "cantidad": 1
+    },
+    {
+      "id": 663,
+      "nombre": "DB-051",
       "cantidad": 1
     }
   ]

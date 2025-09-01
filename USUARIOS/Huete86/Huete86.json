@@ -354,7 +354,7 @@
         {
             "id": 469,
             "nombre": "Dahlia Gillespie",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 122,
@@ -469,7 +469,7 @@
         {
             "id": 444,
             "nombre": "birki",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 340,
@@ -619,7 +619,7 @@
         {
             "id": 338,
             "nombre": "Shiryū de Dragón",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 67,
@@ -664,7 +664,7 @@
         {
             "id": 245,
             "nombre": "Felino",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 382,
@@ -714,7 +714,7 @@
         {
             "id": 364,
             "nombre": "HulkHogan",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 505,
@@ -724,7 +724,7 @@
         {
             "id": 91,
             "nombre": "Bronx",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 311,
@@ -919,12 +919,12 @@
         {
             "id": 379,
             "nombre": "lynx",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 315,
             "nombre": "Emma Frost",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 73,
@@ -1119,7 +1119,7 @@
         {
             "id": 439,
             "nombre": "mudokons",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 449,
@@ -1319,7 +1319,7 @@
         {
             "id": 104,
             "nombre": "Lady Jaye",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 549,
@@ -1659,7 +1659,7 @@
         {
             "id": 546,
             "nombre": "MARTY-MCFLY",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 221,
@@ -1904,7 +1904,7 @@
         {
             "id": 763,
             "nombre": "black",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 298,
@@ -1919,7 +1919,7 @@
         {
             "id": 396,
             "nombre": "aeris",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 511,
@@ -1959,7 +1959,7 @@
         {
             "id": 19,
             "nombre": "Set",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 760,
@@ -2254,7 +2254,7 @@
         {
             "id": 550,
             "nombre": "AceVentura-JAIL",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 184,
@@ -3214,7 +3214,7 @@
         {
             "id": 924,
             "nombre": "VISITOR-SOLDIER",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 576,
@@ -3444,6 +3444,41 @@
         {
             "id": 859,
             "nombre": "JASON-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 753,
+            "nombre": "pandora",
+            "cantidad": 1
+        },
+        {
+            "id": 481,
+            "nombre": "Capitán-Stargazer",
+            "cantidad": 1
+        },
+        {
+            "id": 801,
+            "nombre": "RED-CLAW",
+            "cantidad": 1
+        },
+        {
+            "id": 581,
+            "nombre": "CLIFFORD-YUMA",
+            "cantidad": 1
+        },
+        {
+            "id": 704,
+            "nombre": "DB-092",
+            "cantidad": 1
+        },
+        {
+            "id": 885,
+            "nombre": "IRON-MAN",
+            "cantidad": 1
+        },
+        {
+            "id": 773,
+            "nombre": "Squatt",
             "cantidad": 1
         }
     ]
