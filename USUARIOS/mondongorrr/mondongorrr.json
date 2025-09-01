@@ -1044,7 +1044,7 @@
         {
             "id": 99,
             "nombre": "Demona",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 386,
@@ -2539,6 +2539,11 @@
         {
             "id": 380,
             "nombre": "marcy",
+            "cantidad": 1
+        },
+        {
+            "id": 91,
+            "nombre": "Bronx",
             "cantidad": 1
         }
     ]

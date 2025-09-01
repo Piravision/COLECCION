@@ -4,7 +4,7 @@
         {
             "id": 91,
             "nombre": "Bronx",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 108,
@@ -1464,7 +1464,7 @@
         {
             "id": 734,
             "nombre": "Afrodita-de-Piscis",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 404,
@@ -2064,6 +2064,21 @@
         {
             "id": 383,
             "nombre": "viper",
+            "cantidad": 1
+        },
+        {
+            "id": 787,
+            "nombre": "DOS-CARAS",
+            "cantidad": 1
+        },
+        {
+            "id": 611,
+            "nombre": "TERRY-DENTON",
+            "cantidad": 1
+        },
+        {
+            "id": 99,
+            "nombre": "Demona",
             "cantidad": 1
         }
     ]
