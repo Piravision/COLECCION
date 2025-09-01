@@ -834,7 +834,7 @@
         {
             "id": 490,
             "nombre": "spyro1",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 57,
@@ -2634,6 +2634,11 @@
         {
             "id": 485,
             "nombre": "Dr_Shemp",
+            "cantidad": 1
+        },
+        {
+            "id": 487,
+            "nombre": "Jacques",
             "cantidad": 1
         }
     ]
