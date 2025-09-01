@@ -309,7 +309,7 @@
         {
             "id": 15,
             "nombre": "Zula",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 484,
@@ -3464,6 +3464,11 @@
         {
             "id": 347,
             "nombre": "Lizard",
+            "cantidad": 1
+        },
+        {
+            "id": 16,
+            "nombre": "Dregs",
             "cantidad": 1
         }
     ]
