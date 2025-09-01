@@ -704,7 +704,7 @@
         {
             "id": 243,
             "nombre": "Cheetara",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 752,
@@ -859,7 +859,7 @@
         {
             "id": 357,
             "nombre": "china",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 294,
@@ -1384,7 +1384,7 @@
         {
             "id": 136,
             "nombre": "Mazinger Z",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 586,
@@ -1584,7 +1584,7 @@
         {
             "id": 336,
             "nombre": "Hyōga de Cisne",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 766,
@@ -2179,7 +2179,7 @@
         {
             "id": 20,
             "nombre": "Skulkur",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 341,
@@ -2374,7 +2374,7 @@
         {
             "id": 753,
             "nombre": "pandora",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 275,
@@ -2404,7 +2404,7 @@
         {
             "id": 551,
             "nombre": "BARRACUS-JAIL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 138,
@@ -2454,6 +2454,56 @@
         {
             "id": 257,
             "nombre": "Mumm Ra",
+            "cantidad": 1
+        },
+        {
+            "id": 949,
+            "nombre": "1-DARTACAN",
+            "cantidad": 1
+        },
+        {
+            "id": 952,
+            "nombre": "11-HEIDI-&-MARCO",
+            "cantidad": 1
+        },
+        {
+            "id": 974,
+            "nombre": "9-CALIMERO",
+            "cantidad": 1
+        },
+        {
+            "id": 182,
+            "nombre": "Kingpin",
+            "cantidad": 1
+        },
+        {
+            "id": 169,
+            "nombre": "Hombre de Hielo",
+            "cantidad": 1
+        },
+        {
+            "id": 723,
+            "nombre": "DB-111",
+            "cantidad": 1
+        },
+        {
+            "id": 373,
+            "nombre": "SHAFT",
+            "cantidad": 1
+        },
+        {
+            "id": 376,
+            "nombre": "guile",
+            "cantidad": 1
+        },
+        {
+            "id": 847,
+            "nombre": "RYU",
+            "cantidad": 1
+        },
+        {
+            "id": 355,
+            "nombre": "bayur",
             "cantidad": 1
         }
     ]
