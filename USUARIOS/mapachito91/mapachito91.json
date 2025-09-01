@@ -39,7 +39,7 @@
     {
       "id": 547,
       "nombre": "ROCKY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 166,
@@ -339,6 +339,61 @@
     {
       "id": 883,
       "nombre": "HULK",
+      "cantidad": 1
+    },
+    {
+      "id": 309,
+      "nombre": "Thundercracker",
+      "cantidad": 1
+    },
+    {
+      "id": 326,
+      "nombre": "Blob",
+      "cantidad": 1
+    },
+    {
+      "id": 445,
+      "nombre": "claire",
+      "cantidad": 1
+    },
+    {
+      "id": 28,
+      "nombre": "Presto",
+      "cantidad": 1
+    },
+    {
+      "id": 687,
+      "nombre": "DB-075",
+      "cantidad": 1
+    },
+    {
+      "id": 812,
+      "nombre": "KUNG-LAO",
+      "cantidad": 1
+    },
+    {
+      "id": 874,
+      "nombre": "CAPTAIN-AMERICA",
+      "cantidad": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Bravestarr",
+      "cantidad": 1
+    },
+    {
+      "id": 531,
+      "nombre": "McClane-Jail",
+      "cantidad": 1
+    },
+    {
+      "id": 535,
+      "nombre": "Venkman-Jail",
+      "cantidad": 1
+    },
+    {
+      "id": 943,
+      "nombre": "JOHNNY5-JAIL",
       "cantidad": 1
     }
   ]

@@ -204,7 +204,7 @@
     {
       "id": 552,
       "nombre": "CHEWBACCA-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 429,
@@ -499,7 +499,7 @@
     {
       "id": 636,
       "nombre": "DB-024",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 732,
@@ -679,7 +679,7 @@
     {
       "id": 141,
       "nombre": "Nosedive Flashblade",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 214,
@@ -1019,7 +1019,7 @@
     {
       "id": 824,
       "nombre": "SINDEL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 294,
@@ -1069,7 +1069,7 @@
     {
       "id": 41,
       "nombre": "crocodine bueno",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 446,
@@ -1124,7 +1124,7 @@
     {
       "id": 800,
       "nombre": "RAS-AL-GHUL",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 515,
@@ -1154,7 +1154,7 @@
     {
       "id": 855,
       "nombre": "ALIEN-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 683,
@@ -2039,7 +2039,7 @@
     {
       "id": 469,
       "nombre": "Dahlia Gillespie",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 375,
@@ -2104,7 +2104,7 @@
     {
       "id": 889,
       "nombre": "LUKE-CAGE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 736,
@@ -2429,6 +2429,76 @@
     {
       "id": 501,
       "nombre": "SOLON",
+      "cantidad": 1
+    },
+    {
+      "id": 749,
+      "nombre": "Hilda",
+      "cantidad": 1
+    },
+    {
+      "id": 456,
+      "nombre": "boman",
+      "cantidad": 1
+    },
+    {
+      "id": 895,
+      "nombre": "ROCKET-RACOON",
+      "cantidad": 1
+    },
+    {
+      "id": 264,
+      "nombre": "Donatello",
+      "cantidad": 1
+    },
+    {
+      "id": 402,
+      "nombre": "hojo",
+      "cantidad": 1
+    },
+    {
+      "id": 801,
+      "nombre": "RED-CLAW",
+      "cantidad": 1
+    },
+    {
+      "id": 647,
+      "nombre": "DB-035",
+      "cantidad": 1
+    },
+    {
+      "id": 483,
+      "nombre": "Spider-Woman",
+      "cantidad": 1
+    },
+    {
+      "id": 314,
+      "nombre": "Coloso",
+      "cantidad": 1
+    },
+    {
+      "id": 51,
+      "nombre": "mam",
+      "cantidad": 1
+    },
+    {
+      "id": 561,
+      "nombre": "MARIO-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 553,
+      "nombre": "GOKU-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 916,
+      "nombre": "CHUKY-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 942,
+      "nombre": "HANNIBAL-JAIL",
       "cantidad": 1
     }
   ]

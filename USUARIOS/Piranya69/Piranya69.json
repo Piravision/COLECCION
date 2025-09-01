@@ -39,7 +39,7 @@
     {
       "id": 256,
       "nombre": "Mandrilo",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 47,
@@ -109,7 +109,7 @@
     {
       "id": 22,
       "nombre": "Wrath Amon",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 239,
@@ -179,7 +179,7 @@
     {
       "id": 94,
       "nombre": "Goliath",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 168,
@@ -209,7 +209,7 @@
     {
       "id": 50,
       "nombre": "Lonberuk",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 514,
@@ -279,7 +279,7 @@
     {
       "id": 16,
       "nombre": "Dregs",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 437,
@@ -534,7 +534,7 @@
     {
       "id": 61,
       "nombre": "Borahorn",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 169,
@@ -714,7 +714,7 @@
     {
       "id": 323,
       "nombre": "Tormenta",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 108,
@@ -884,7 +884,7 @@
     {
       "id": 129,
       "nombre": "Hordak",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 506,
@@ -1324,7 +1324,7 @@
     {
       "id": 544,
       "nombre": "DOC-BROWN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 324,
@@ -1534,7 +1534,7 @@
     {
       "id": 195,
       "nombre": "Moby Lick",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 131,
@@ -1639,7 +1639,7 @@
     {
       "id": 548,
       "nombre": "Snake-Plissken",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 240,
@@ -1904,7 +1904,7 @@
     {
       "id": 568,
       "nombre": "LOS-SACAMANTECAS",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 156,
@@ -2074,7 +2074,7 @@
     {
       "id": 578,
       "nombre": "BENJI-PRICE",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 49,
@@ -2154,7 +2154,7 @@
     {
       "id": 151,
       "nombre": "Vinnie Cooper",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 185,
@@ -2564,7 +2564,7 @@
     {
       "id": 622,
       "nombre": "DB-010",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 732,
@@ -2619,7 +2619,7 @@
     {
       "id": 562,
       "nombre": "PETER-GRIFFIN-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 617,
@@ -2719,7 +2719,7 @@
     {
       "id": 57,
       "nombre": "pop",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 721,
@@ -2869,7 +2869,7 @@
     {
       "id": 775,
       "nombre": "yellow",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 17,
@@ -3119,7 +3119,7 @@
     {
       "id": 836,
       "nombre": "Chunli2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 828,
@@ -3284,7 +3284,7 @@
     {
       "id": 261,
       "nombre": "Reptilio",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 618,
@@ -3384,7 +3384,7 @@
     {
       "id": 906,
       "nombre": "DR-FATE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 91,
@@ -3464,7 +3464,7 @@
     {
       "id": 468,
       "nombre": "CybilBennett",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 826,
@@ -3625,6 +3625,71 @@
       "id": 737,
       "nombre": "Aioros-de-Sagitario",
       "cantidad": 1
+    },
+    {
+      "id": 804,
+      "nombre": "BARAKA",
+      "cantidad": 1
+    },
+    {
+      "id": 918,
+      "nombre": "DIANA",
+      "cantidad": 1
+    },
+    {
+      "id": 772,
+      "nombre": "Rita-Repulsa",
+      "cantidad": 1
+    },
+    {
+      "id": 588,
+      "nombre": "FRANZ-SCHESTER",
+      "cantidad": 1
+    },
+    {
+      "id": 485,
+      "nombre": "Dr_Shemp",
+      "cantidad": 1
+    },
+    {
+      "id": 910,
+      "nombre": "LOIS-LANE",
+      "cantidad": 1
+    },
+    {
+      "id": 258,
+      "nombre": "Mumm Ra",
+      "cantidad": 1
+    },
+    {
+      "id": 885,
+      "nombre": "IRON-MAN",
+      "cantidad": 2
+    },
+    {
+      "id": 940,
+      "nombre": "GIZMO-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 857,
+      "nombre": "DOC-JAIL",
+      "cantidad": 2
+    },
+    {
+      "id": 859,
+      "nombre": "JASON-JAIL",
+      "cantidad": 2
+    },
+    {
+      "id": 939,
+      "nombre": "GHOSTFACE-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 864,
+      "nombre": "RAMBO-JAIL",
+      "cantidad": 2
     }
   ]
 }

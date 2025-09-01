@@ -539,7 +539,7 @@
     {
       "id": 275,
       "nombre": "Usagi Yojimbo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 249,
@@ -649,7 +649,7 @@
     {
       "id": 186,
       "nombre": "Mysterio",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 240,
@@ -1124,7 +1124,7 @@
     {
       "id": 236,
       "nombre": "Shark Tank",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 60,
@@ -1164,7 +1164,7 @@
     {
       "id": 712,
       "nombre": "DB-100",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 299,
@@ -1244,7 +1244,7 @@
     {
       "id": 553,
       "nombre": "GOKU-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 550,
@@ -1859,7 +1859,7 @@
     {
       "id": 862,
       "nombre": "NEO-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 560,
@@ -2004,7 +2004,7 @@
     {
       "id": 876,
       "nombre": "DORMAMMU",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 326,
@@ -2279,7 +2279,7 @@
     {
       "id": 844,
       "nombre": "HONDA2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 837,
@@ -2449,7 +2449,7 @@
     {
       "id": 867,
       "nombre": "SONNY-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 900,
@@ -2604,7 +2604,7 @@
     {
       "id": 863,
       "nombre": "PREDATOR-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 140,
@@ -2734,7 +2734,7 @@
     {
       "id": 859,
       "nombre": "JASON-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 291,
@@ -2854,6 +2854,11 @@
     {
       "id": 72,
       "nombre": "hynkel malo",
+      "cantidad": 1
+    },
+    {
+      "id": 940,
+      "nombre": "GIZMO-JAIL",
       "cantidad": 1
     }
   ]

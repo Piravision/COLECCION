@@ -649,7 +649,7 @@
     {
       "id": 559,
       "nombre": "MABARRACUS-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 374,
@@ -769,12 +769,12 @@
     {
       "id": 861,
       "nombre": "MARTY-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 562,
       "nombre": "PETER-GRIFFIN-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 535,
@@ -784,7 +784,7 @@
     {
       "id": 856,
       "nombre": "BEETLEJUICE-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 859,
@@ -874,7 +874,7 @@
     {
       "id": 551,
       "nombre": "BARRACUS-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 819,
@@ -924,6 +924,11 @@
     {
       "id": 867,
       "nombre": "SONNY-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 557,
+      "nombre": "LUFFY-JAIL",
       "cantidad": 1
     }
   ]
