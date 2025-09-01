@@ -1704,7 +1704,7 @@
         {
             "id": 522,
             "nombre": "lara",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 195,
@@ -3224,6 +3224,11 @@
         {
             "id": 298,
             "nombre": "Prowl",
+            "cantidad": 1
+        },
+        {
+            "id": 251,
+            "nombre": "Tigro",
             "cantidad": 1
         }
     ]
