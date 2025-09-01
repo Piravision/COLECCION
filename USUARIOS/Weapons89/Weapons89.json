@@ -94,7 +94,7 @@
     {
       "id": 100,
       "nombre": "Flint",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 471,
@@ -1114,7 +1114,7 @@
     {
       "id": 239,
       "nombre": "Stridor",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 77,
@@ -1134,7 +1134,7 @@
     {
       "id": 337,
       "nombre": "Ikki de Fénix",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 568,
@@ -1429,7 +1429,7 @@
     {
       "id": 572,
       "nombre": "Sgt.-SLAUGTHER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 556,
@@ -1864,7 +1864,7 @@
     {
       "id": 454,
       "nombre": "zombi",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1,
@@ -2014,6 +2014,11 @@
     {
       "id": 257,
       "nombre": "Mumm Ra",
+      "cantidad": 1
+    },
+    {
+      "id": 730,
+      "nombre": "DB-118",
       "cantidad": 1
     }
   ]
