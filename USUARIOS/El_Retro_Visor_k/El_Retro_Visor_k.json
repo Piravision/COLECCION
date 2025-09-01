@@ -2734,7 +2734,7 @@
         {
             "id": 859,
             "nombre": "JASON-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 291,
@@ -2864,6 +2864,11 @@
         {
             "id": 864,
             "nombre": "RAMBO-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 917,
+            "nombre": "MYERS-JAIL",
             "cantidad": 1
         }
     ]
