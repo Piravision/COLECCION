@@ -1399,7 +1399,7 @@
         {
             "id": 246,
             "nombre": "Jaga",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 786,
@@ -1984,7 +1984,7 @@
         {
             "id": 537,
             "nombre": "BOLO-YEUNG",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 528,
@@ -2439,6 +2439,21 @@
         {
             "id": 247,
             "nombre": "Linx O",
+            "cantidad": 1
+        },
+        {
+            "id": 821,
+            "nombre": "SHANG-TSUNG",
+            "cantidad": 1
+        },
+        {
+            "id": 587,
+            "nombre": "EDDY-BRIGHT",
+            "cantidad": 1
+        },
+        {
+            "id": 257,
+            "nombre": "Mumm Ra",
             "cantidad": 1
         }
     ]

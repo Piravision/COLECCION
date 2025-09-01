@@ -84,7 +84,7 @@
     {
       "id": 414,
       "nombre": "campb2",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 132,
@@ -984,7 +984,7 @@
     {
       "id": 400,
       "nombre": "cid",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 693,
@@ -3199,6 +3199,11 @@
     {
       "id": 119,
       "nombre": "orko",
+      "cantidad": 1
+    },
+    {
+      "id": 519,
+      "nombre": "Tortugamóvil",
       "cantidad": 1
     }
   ]
