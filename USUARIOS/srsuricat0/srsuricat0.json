@@ -2119,7 +2119,7 @@
         {
             "id": 243,
             "nombre": "Cheetara",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 130,
@@ -3814,6 +3814,11 @@
         {
             "id": 15,
             "nombre": "Zula",
+            "cantidad": 1
+        },
+        {
+            "id": 260,
+            "nombre": "Princesa Luna",
             "cantidad": 1
         }
     ]

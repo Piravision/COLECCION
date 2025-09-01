@@ -184,7 +184,7 @@
         {
             "id": 260,
             "nombre": "Princesa Luna",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 119,
@@ -3469,6 +3469,11 @@
         {
             "id": 16,
             "nombre": "Dregs",
+            "cantidad": 1
+        },
+        {
+            "id": 243,
+            "nombre": "Cheetara",
             "cantidad": 1
         }
     ]
