@@ -397,7 +397,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de Tomy_Cipote</h2>
-                <span>Cartas obtenidas: 12 / 938</span>
+                <span>Cartas obtenidas: 15 / 946</span>
             </div>
             
             <div class="details">
@@ -405,6 +405,11 @@
                     <div class="summary-grid-container">
     <h2>Resumen por Serie</h2>
 					<div class="summary-grid">
+						
+							<div class="summary-button" onclick="mostrarCartas('Captain Tsubasa')">
+								<img src="/COLECCION/botones/captain-tsubasa.png" alt="Captain Tsubasa" class="summary-button-image">
+								<span class="summary-button-counter">1 / 38</span>
+							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Conan El Bárbaro')">
 								<img src="/COLECCION/botones/conan-el-bárbaro.png" alt="Conan El Bárbaro" class="summary-button-image">
@@ -423,7 +428,7 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('JAIL-Edition')">
 								<img src="/COLECCION/botones/jail-edition.png" alt="JAIL-Edition" class="summary-button-image">
-								<span class="summary-button-counter">4 / 36</span>
+								<span class="summary-button-counter">4 / 44</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Mighty Ducks')">
@@ -446,10 +451,44 @@
 								<span class="summary-button-counter">1 / 9</span>
 							</div>
 						
+							<div class="summary-button" onclick="mostrarCartas('Terrenos&Objetos')">
+								<img src="/COLECCION/botones/terrenos&objetos.png" alt="Terrenos&Objetos" class="summary-button-image">
+								<span class="summary-button-counter">1 / 42</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('V')">
+								<img src="/COLECCION/botones/v.png" alt="V" class="summary-button-image">
+								<span class="summary-button-counter">1 / 8</span>
+							</div>
+						
 					</div>
 				</div>
                     
                     <div id="cards-container">
+                        
+                            <div class="series-cards" id="series-Captain-Tsubasa" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Captain Tsubasa</h2>
+                                    <span>Cartas obtenidas: 1 / 38</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 590</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '590', 'HERMANN-KALTZ'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Captain Tsubasa/HERMANN-KALTZ(22-8-2025-0_42).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Captain Tsubasa/HERMANN-KALTZ(22-8-2025-0_42).png" alt="HERMANN-KALTZ">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>HERMANN-KALTZ (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
                         
                             <div class="series-cards" id="series-Conan-El-Bárbaro" style="display: none;">
                                 <div class="section-title-2">
@@ -540,7 +579,7 @@
                             <div class="series-cards" id="series-JAIL-Edition" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>JAIL-Edition</h2>
-                                    <span>Cartas obtenidas: 4 / 36</span>
+                                    <span>Cartas obtenidas: 4 / 44</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -693,6 +732,54 @@
                                             <div class="cromo-details">
                                                 <h3>law (x1)</h3>
                                                 <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-TerrenosandObjetos" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Terrenos&Objetos</h2>
+                                    <span>Cartas obtenidas: 1 / 42</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 227</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '227', 'Hawks Haven'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Terreno y objetos/Hawks Haven.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Terreno y objetos/Hawks Haven.png" alt="Hawks Haven">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Hawks Haven (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-V" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>V</h2>
+                                    <span>Cartas obtenidas: 1 / 8</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 923</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '923', 'REAL-VISITOR'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/V/REAL-VISITOR(28-8-2025-4_7).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/V/REAL-VISITOR(28-8-2025-4_7).png" alt="REAL-VISITOR">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>REAL-VISITOR (x1)</h3>
+                                                <p>Rareza: Raro</p>
                                             </div>
                                         </div>
                                     
