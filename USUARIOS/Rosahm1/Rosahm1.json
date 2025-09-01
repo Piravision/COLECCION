@@ -14,7 +14,7 @@
         {
             "id": 179,
             "nombre": "Duende Verde",
-            "cantidad": 7
+            "cantidad": 8
         },
         {
             "id": 301,
@@ -244,7 +244,7 @@
         {
             "id": 188,
             "nombre": "Sandman",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 163,
@@ -634,7 +634,7 @@
         {
             "id": 173,
             "nombre": "Punisher",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 94,
@@ -919,7 +919,7 @@
         {
             "id": 265,
             "nombre": "Leatherhead",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 72,
@@ -1679,7 +1679,7 @@
         {
             "id": 85,
             "nombre": "Niko",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 613,
@@ -3014,7 +3014,7 @@
         {
             "id": 655,
             "nombre": "DB-043",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 861,
@@ -3154,7 +3154,7 @@
         {
             "id": 843,
             "nombre": "HONDA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 846,
@@ -3454,6 +3454,11 @@
         {
             "id": 916,
             "nombre": "CHUKY-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 383,
+            "nombre": "viper",
             "cantidad": 1
         }
     ]

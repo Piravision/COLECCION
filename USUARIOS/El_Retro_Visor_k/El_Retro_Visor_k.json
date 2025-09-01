@@ -1034,7 +1034,7 @@
         {
             "id": 732,
             "nombre": "DB-120",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 621,
@@ -1124,7 +1124,7 @@
         {
             "id": 236,
             "nombre": "Shark Tank",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 60,
@@ -1264,7 +1264,7 @@
         {
             "id": 474,
             "nombre": "harry2",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 651,
@@ -1364,7 +1364,7 @@
         {
             "id": 383,
             "nombre": "viper",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 33,
@@ -2429,7 +2429,7 @@
         {
             "id": 373,
             "nombre": "SHAFT",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 596,
@@ -3054,6 +3054,21 @@
         {
             "id": 858,
             "nombre": "FREDDY-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 180,
+            "nombre": "Electro",
+            "cantidad": 1
+        },
+        {
+            "id": 882,
+            "nombre": "HELA",
+            "cantidad": 1
+        },
+        {
+            "id": 85,
+            "nombre": "Niko",
             "cantidad": 1
         }
     ]
