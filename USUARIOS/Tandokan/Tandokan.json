@@ -299,7 +299,7 @@
     {
       "id": 539,
       "nombre": "BRUCE-LEE2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 275,
@@ -1689,7 +1689,7 @@
     {
       "id": 581,
       "nombre": "CLIFFORD-YUMA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 752,
@@ -1949,7 +1949,7 @@
     {
       "id": 461,
       "nombre": "Stalone-RamboIII",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 231,
@@ -2039,7 +2039,7 @@
     {
       "id": 469,
       "nombre": "Dahlia Gillespie",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 375,
@@ -2309,7 +2309,7 @@
     {
       "id": 101,
       "nombre": "Duke",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 797,
@@ -2509,6 +2509,36 @@
     {
       "id": 934,
       "nombre": "SHAWN-MICHAELS",
+      "cantidad": 1
+    },
+    {
+      "id": 136,
+      "nombre": "Mazinger Z",
+      "cantidad": 2
+    },
+    {
+      "id": 926,
+      "nombre": "BATISTA",
+      "cantidad": 1
+    },
+    {
+      "id": 500,
+      "nombre": "shu",
+      "cantidad": 1
+    },
+    {
+      "id": 707,
+      "nombre": "DB-095",
+      "cantidad": 1
+    },
+    {
+      "id": 573,
+      "nombre": "ULTIMATE-WARRIOR",
+      "cantidad": 1
+    },
+    {
+      "id": 267,
+      "nombre": "Metalhead",
       "cantidad": 1
     }
   ]

@@ -174,7 +174,7 @@
     {
       "id": 87,
       "nombre": "Walter _Doc_ Hartford",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 187,
@@ -374,7 +374,7 @@
     {
       "id": 239,
       "nombre": "Stridor",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 416,
@@ -694,7 +694,7 @@
     {
       "id": 54,
       "nombre": "merle",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 62,
@@ -869,7 +869,7 @@
     {
       "id": 75,
       "nombre": "mac",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 163,
@@ -1219,7 +1219,7 @@
     {
       "id": 487,
       "nombre": "Jacques",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 534,
@@ -1254,7 +1254,7 @@
     {
       "id": 159,
       "nombre": "Quicksilver",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 383,
@@ -1294,7 +1294,7 @@
     {
       "id": 164,
       "nombre": "Black Cat",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 71,
@@ -1354,7 +1354,7 @@
     {
       "id": 154,
       "nombre": "Grease Pit",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 256,
@@ -1704,7 +1704,7 @@
     {
       "id": 644,
       "nombre": "DB-032",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 696,
@@ -1734,7 +1734,7 @@
     {
       "id": 709,
       "nombre": "DB-097",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 395,
@@ -2254,7 +2254,7 @@
     {
       "id": 550,
       "nombre": "AceVentura-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 184,
@@ -2354,7 +2354,7 @@
     {
       "id": 551,
       "nombre": "BARRACUS-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 627,
@@ -2649,7 +2649,7 @@
     {
       "id": 884,
       "nombre": "IRON-FIST",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 607,
@@ -2999,7 +2999,7 @@
     {
       "id": 660,
       "nombre": "DB-048",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 293,
@@ -3329,7 +3329,7 @@
     {
       "id": 854,
       "nombre": "RIC-FLAIR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 858,
@@ -3489,6 +3489,21 @@
     {
       "id": 66,
       "nombre": "flazzard2",
+      "cantidad": 1
+    },
+    {
+      "id": 755,
+      "nombre": "Poseidon2",
+      "cantidad": 1
+    },
+    {
+      "id": 932,
+      "nombre": "RAZOR-RAMON",
+      "cantidad": 1
+    },
+    {
+      "id": 830,
+      "nombre": "BALROG",
       "cantidad": 1
     }
   ]

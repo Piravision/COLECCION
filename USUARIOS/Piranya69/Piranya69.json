@@ -294,7 +294,7 @@
     {
       "id": 461,
       "nombre": "rs1",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 101,
@@ -3179,7 +3179,7 @@
     {
       "id": 388,
       "nombre": "koala2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 253,
@@ -3739,6 +3739,11 @@
     {
       "id": 905,
       "nombre": "DARKSEID",
+      "cantidad": 1
+    },
+    {
+      "id": 805,
+      "nombre": "GORO",
       "cantidad": 1
     }
   ]
