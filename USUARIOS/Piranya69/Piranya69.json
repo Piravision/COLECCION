@@ -24,7 +24,7 @@
     {
       "id": 174,
       "nombre": "Spiderman",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 117,
@@ -159,7 +159,7 @@
     {
       "id": 405,
       "nombre": "tifa",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 6,
@@ -389,7 +389,7 @@
     {
       "id": 427,
       "nombre": "psyco",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 379,
@@ -614,7 +614,7 @@
     {
       "id": 113,
       "nombre": "Serpentor",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 406,
@@ -1124,7 +1124,7 @@
     {
       "id": 135,
       "nombre": "Afrodita A",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 395,
@@ -1374,7 +1374,7 @@
     {
       "id": 284,
       "nombre": "Roadkill",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 166,
@@ -1669,7 +1669,7 @@
     {
       "id": 495,
       "nombre": "jowy",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 96,
@@ -1774,7 +1774,7 @@
     {
       "id": 373,
       "nombre": "SHAFT",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 83,
@@ -1879,7 +1879,7 @@
     {
       "id": 569,
       "nombre": "MACHO-MAN",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 313,
@@ -2009,7 +2009,7 @@
     {
       "id": 554,
       "nombre": "HANSOLO-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 19,
@@ -2029,7 +2029,7 @@
     {
       "id": 283,
       "nombre": "Lord Dregg",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 634,
@@ -2139,7 +2139,7 @@
     {
       "id": 69,
       "nombre": "gargola",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 553,
@@ -2479,7 +2479,7 @@
     {
       "id": 645,
       "nombre": "DB-033",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 752,
@@ -2489,7 +2489,7 @@
     {
       "id": 650,
       "nombre": "DB-038",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 757,
@@ -3004,7 +3004,7 @@
     {
       "id": 23,
       "nombre": "Amo del Calabozo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 126,
@@ -3369,12 +3369,12 @@
     {
       "id": 783,
       "nombre": "BRUCE-WAYNE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 809,
       "nombre": "KABAL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 801,
@@ -3809,6 +3809,26 @@
     {
       "id": 849,
       "nombre": "SAGAT",
+      "cantidad": 1
+    },
+    {
+      "id": 412,
+      "nombre": "big2",
+      "cantidad": 1
+    },
+    {
+      "id": 248,
+      "nombre": "Panthro",
+      "cantidad": 1
+    },
+    {
+      "id": 942,
+      "nombre": "HANNIBAL-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 840,
+      "nombre": "FEI-LONG",
       "cantidad": 1
     }
   ]

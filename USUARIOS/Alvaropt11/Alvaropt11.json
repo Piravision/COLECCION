@@ -109,7 +109,7 @@
     {
       "id": 507,
       "nombre": "KING",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 421,
@@ -309,7 +309,7 @@
     {
       "id": 110,
       "nombre": "Destro",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 288,
@@ -684,7 +684,7 @@
     {
       "id": 566,
       "nombre": "BIG-BOSSMAN",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 543,
@@ -1329,7 +1329,7 @@
     {
       "id": 311,
       "nombre": "Arcangel",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 719,
@@ -2074,7 +2074,7 @@
     {
       "id": 321,
       "nombre": "Quicksilver",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 508,
@@ -2134,7 +2134,7 @@
     {
       "id": 736,
       "nombre": "Aioria-de-Leo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 834,
@@ -2189,7 +2189,7 @@
     {
       "id": 564,
       "nombre": "SLIMER",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 814,
@@ -2694,7 +2694,7 @@
     {
       "id": 795,
       "nombre": "JOKER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 779,
@@ -2744,7 +2744,7 @@
     {
       "id": 751,
       "nombre": "Minos",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 506,
@@ -3459,7 +3459,7 @@
     {
       "id": 932,
       "nombre": "RAZOR-RAMON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 723,
@@ -3519,12 +3519,12 @@
     {
       "id": 827,
       "nombre": "STRYKER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 220,
       "nombre": "DRAGON QUEST",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 391,
@@ -3539,7 +3539,7 @@
     {
       "id": 2,
       "nombre": "Bravestarr",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 651,
@@ -3604,7 +3604,7 @@
     {
       "id": 856,
       "nombre": "BEETLEJUICE-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 969,
@@ -3739,6 +3739,11 @@
     {
       "id": 958,
       "nombre": "2-ZIPPER",
+      "cantidad": 1
+    },
+    {
+      "id": 682,
+      "nombre": "DB-070",
       "cantidad": 1
     }
   ]
