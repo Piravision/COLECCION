@@ -294,7 +294,7 @@
     {
       "id": 285,
       "nombre": "Rocksteady",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 378,
@@ -1264,7 +1264,7 @@
     {
       "id": 564,
       "nombre": "SLIMER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 706,
@@ -1694,7 +1694,7 @@
     {
       "id": 45,
       "nombre": "garuda",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 495,
@@ -2139,6 +2139,21 @@
     {
       "id": 713,
       "nombre": "DB-101",
+      "cantidad": 1
+    },
+    {
+      "id": 801,
+      "nombre": "RED-CLAW",
+      "cantidad": 1
+    },
+    {
+      "id": 504,
+      "nombre": "HEICHAI",
+      "cantidad": 1
+    },
+    {
+      "id": 838,
+      "nombre": "dhalsim2",
       "cantidad": 1
     }
   ]

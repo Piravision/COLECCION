@@ -24,7 +24,7 @@
     {
       "id": 128,
       "nombre": "Faker",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 656,
@@ -589,7 +589,7 @@
     {
       "id": 518,
       "nombre": "Tecmódromo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 826,
@@ -1179,7 +1179,7 @@
     {
       "id": 548,
       "nombre": "Snake-Plissken",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 463,
@@ -1224,6 +1224,51 @@
     {
       "id": 1005,
       "nombre": "RANMA-1_2",
+      "cantidad": 1
+    },
+    {
+      "id": 799,
+      "nombre": "POISON-IVY",
+      "cantidad": 1
+    },
+    {
+      "id": 553,
+      "nombre": "GOKU-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 705,
+      "nombre": "DB-093",
+      "cantidad": 1
+    },
+    {
+      "id": 909,
+      "nombre": "LOBO",
+      "cantidad": 1
+    },
+    {
+      "id": 363,
+      "nombre": "Chuache-DesafioTotal",
+      "cantidad": 1
+    },
+    {
+      "id": 145,
+      "nombre": "Lord Dragaunus",
+      "cantidad": 1
+    },
+    {
+      "id": 409,
+      "nombre": "Kōji-Kabuto",
+      "cantidad": 1
+    },
+    {
+      "id": 432,
+      "nombre": "solid2",
+      "cantidad": 1
+    },
+    {
+      "id": 624,
+      "nombre": "DB-012",
       "cantidad": 1
     }
   ]

@@ -104,7 +104,7 @@
     {
       "id": 311,
       "nombre": "Arcangel",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 237,
@@ -239,7 +239,7 @@
     {
       "id": 538,
       "nombre": "BRUCE-LEE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 242,
@@ -414,7 +414,7 @@
     {
       "id": 570,
       "nombre": "MILLION-DOLLAR-MAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 162,
@@ -559,7 +559,7 @@
     {
       "id": 223,
       "nombre": "G.I. JOE Headquarters",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 210,
@@ -739,7 +739,7 @@
     {
       "id": 532,
       "nombre": "Sarah-Connor-Jail",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 469,
@@ -839,7 +839,7 @@
     {
       "id": 551,
       "nombre": "BARRACUS-JAIL",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 552,
@@ -904,7 +904,7 @@
     {
       "id": 453,
       "nombre": "tyrant",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 635,
@@ -964,7 +964,7 @@
     {
       "id": 292,
       "nombre": "Bumblebee",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 425,
@@ -1399,7 +1399,7 @@
     {
       "id": 486,
       "nombre": "gnasty-gnorc",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 246,
@@ -1559,7 +1559,7 @@
     {
       "id": 625,
       "nombre": "DB-013",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 385,
@@ -1939,7 +1939,7 @@
     {
       "id": 754,
       "nombre": "Pandora",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 9,
@@ -1984,7 +1984,7 @@
     {
       "id": 884,
       "nombre": "IRON-FIST",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 639,
@@ -2084,7 +2084,7 @@
     {
       "id": 230,
       "nombre": "Mansion X",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 27,
@@ -2144,7 +2144,7 @@
     {
       "id": 310,
       "nombre": "Dan",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 539,
@@ -2164,7 +2164,7 @@
     {
       "id": 725,
       "nombre": "DB-113",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 95,
@@ -2204,7 +2204,7 @@
     {
       "id": 200,
       "nombre": "Swordo",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 663,
@@ -2274,7 +2274,7 @@
     {
       "id": 885,
       "nombre": "IRON-MAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 844,
@@ -2394,7 +2394,7 @@
     {
       "id": 416,
       "nombre": "emme2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 483,
@@ -2549,7 +2549,7 @@
     {
       "id": 766,
       "nombre": "goldar",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 443,
@@ -2669,7 +2669,7 @@
     {
       "id": 938,
       "nombre": "VINCE-MCMAHON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 112,
@@ -2684,7 +2684,7 @@
     {
       "id": 502,
       "nombre": "viktor",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 63,
@@ -2829,7 +2829,7 @@
     {
       "id": 618,
       "nombre": "DB-006",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 622,
@@ -3524,6 +3524,46 @@
     {
       "id": 888,
       "nombre": "LOKI",
+      "cantidad": 1
+    },
+    {
+      "id": 706,
+      "nombre": "DB-094",
+      "cantidad": 1
+    },
+    {
+      "id": 727,
+      "nombre": "DB-115",
+      "cantidad": 1
+    },
+    {
+      "id": 653,
+      "nombre": "DB-041",
+      "cantidad": 1
+    },
+    {
+      "id": 610,
+      "nombre": "TED-CARTER",
+      "cantidad": 1
+    },
+    {
+      "id": 244,
+      "nombre": "Felina",
+      "cantidad": 1
+    },
+    {
+      "id": 993,
+      "nombre": "GATOS-SAMURAI",
+      "cantidad": 1
+    },
+    {
+      "id": 75,
+      "nombre": "mac",
+      "cantidad": 1
+    },
+    {
+      "id": 767,
+      "nombre": "green",
       "cantidad": 1
     }
   ]
