@@ -869,7 +869,7 @@
     {
       "id": 447,
       "nombre": "hunk",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 499,
@@ -3424,7 +3424,7 @@
     {
       "id": 780,
       "nombre": "BARBARA-GORDON",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 790,
@@ -3804,6 +3804,11 @@
     {
       "id": 872,
       "nombre": "BLACK-PANTHER",
+      "cantidad": 1
+    },
+    {
+      "id": 849,
+      "nombre": "SAGAT",
       "cantidad": 1
     }
   ]

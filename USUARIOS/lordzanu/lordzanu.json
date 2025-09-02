@@ -389,7 +389,7 @@
     {
       "id": 203,
       "nombre": "Repteel",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 527,
@@ -499,7 +499,7 @@
     {
       "id": 335,
       "nombre": "Toad",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 452,
@@ -649,7 +649,7 @@
     {
       "id": 306,
       "nombre": "Shockwave",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 436,
@@ -754,7 +754,7 @@
     {
       "id": 666,
       "nombre": "DB-054",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 533,
@@ -999,7 +999,7 @@
     {
       "id": 644,
       "nombre": "DB-032",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 936,
@@ -1044,7 +1044,7 @@
     {
       "id": 607,
       "nombre": "SANDY-WINTERS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 703,
@@ -1249,7 +1249,7 @@
     {
       "id": 269,
       "nombre": "Mona Lisa",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 458,
@@ -1444,6 +1444,91 @@
     {
       "id": 965,
       "nombre": "4-RIGODON",
+      "cantidad": 1
+    },
+    {
+      "id": 205,
+      "nombre": "Shrimp Louie",
+      "cantidad": 1
+    },
+    {
+      "id": 747,
+      "nombre": "Dohko-de-Libra",
+      "cantidad": 1
+    },
+    {
+      "id": 571,
+      "nombre": "RODY-PIPPER",
+      "cantidad": 1
+    },
+    {
+      "id": 819,
+      "nombre": "SCORPION",
+      "cantidad": 1
+    },
+    {
+      "id": 605,
+      "nombre": "ROBERTO-SEDINHO",
+      "cantidad": 1
+    },
+    {
+      "id": 623,
+      "nombre": "DB-011",
+      "cantidad": 1
+    },
+    {
+      "id": 856,
+      "nombre": "BEETLEJUICE-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 138,
+      "nombre": "Dr. Hell",
+      "cantidad": 1
+    },
+    {
+      "id": 272,
+      "nombre": "Panda Khan",
+      "cantidad": 1
+    },
+    {
+      "id": 212,
+      "nombre": "Asteroide M",
+      "cantidad": 1
+    },
+    {
+      "id": 351,
+      "nombre": "reaper",
+      "cantidad": 1
+    },
+    {
+      "id": 142,
+      "nombre": "Tanya Vanderflock",
+      "cantidad": 1
+    },
+    {
+      "id": 187,
+      "nombre": "Rhyno",
+      "cantidad": 1
+    },
+    {
+      "id": 892,
+      "nombre": "NOVA",
+      "cantidad": 1
+    },
+    {
+      "id": 115,
+      "nombre": "Zartan",
+      "cantidad": 1
+    },
+    {
+      "id": 391,
+      "nombre": "piretripe",
+      "cantidad": 1
+    },
+    {
+      "id": 443,
+      "nombre": "ada",
       "cantidad": 1
     }
   ]

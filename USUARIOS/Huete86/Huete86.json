@@ -544,7 +544,7 @@
     {
       "id": 348,
       "nombre": "Meia",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 99,
@@ -1034,7 +1034,7 @@
     {
       "id": 160,
       "nombre": "Steelheart",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 177,
@@ -1524,7 +1524,7 @@
     {
       "id": 429,
       "nombre": "sniper",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 149,
@@ -1714,7 +1714,7 @@
     {
       "id": 584,
       "nombre": "DEUTER-MULLER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 618,
@@ -1724,7 +1724,7 @@
     {
       "id": 562,
       "nombre": "PETER-GRIFFIN-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 347,
@@ -1829,7 +1829,7 @@
     {
       "id": 503,
       "nombre": "gon",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 670,
@@ -2504,7 +2504,7 @@
     {
       "id": 802,
       "nombre": "ROBIN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 795,
@@ -2959,7 +2959,7 @@
     {
       "id": 775,
       "nombre": "yellow",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 582,
@@ -3374,7 +3374,7 @@
     {
       "id": 917,
       "nombre": "MYERS-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 731,
@@ -3519,7 +3519,7 @@
     {
       "id": 259,
       "nombre": "Ojo Rojo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 246,
@@ -3634,6 +3634,31 @@
     {
       "id": 964,
       "nombre": "3-TODD-&-SMILEY",
+      "cantidad": 1
+    },
+    {
+      "id": 848,
+      "nombre": "RYU2",
+      "cantidad": 1
+    },
+    {
+      "id": 640,
+      "nombre": "DB-028",
+      "cantidad": 1
+    },
+    {
+      "id": 198,
+      "nombre": "Slammu",
+      "cantidad": 1
+    },
+    {
+      "id": 971,
+      "nombre": "7-INSPECTOR-GADGET",
+      "cantidad": 1
+    },
+    {
+      "id": 876,
+      "nombre": "DORMAMMU",
       "cantidad": 1
     }
   ]

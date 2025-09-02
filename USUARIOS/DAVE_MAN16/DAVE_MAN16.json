@@ -299,7 +299,7 @@
     {
       "id": 117,
       "nombre": "He man",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 195,
@@ -1534,7 +1534,7 @@
     {
       "id": 861,
       "nombre": "MARTY-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 858,
@@ -1599,6 +1599,11 @@
     {
       "id": 660,
       "nombre": "DB-048",
+      "cantidad": 1
+    },
+    {
+      "id": 600,
+      "nombre": "NATUREZA",
       "cantidad": 1
     }
   ]
