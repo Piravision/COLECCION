@@ -397,7 +397,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de ranet101</h2>
-                <span>Cartas obtenidas: 98 / 974</span>
+                <span>Cartas obtenidas: 100 / 974</span>
             </div>
             
             <div class="details">
@@ -443,7 +443,7 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('D&D')">
 								<img src="/COLECCION/botones/d&d.png" alt="D&D" class="summary-button-image">
-								<span class="summary-button-counter">1 / 10</span>
+								<span class="summary-button-counter">2 / 10</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Dragon Quest')">
@@ -514,6 +514,11 @@
 							<div class="summary-button" onclick="mostrarCartas('Power Rangers')">
 								<img src="/COLECCION/botones/power-rangers.png" alt="Power Rangers" class="summary-button-image">
 								<span class="summary-button-counter">3 / 17</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Resident Evil')">
+								<img src="/COLECCION/botones/resident-evil.png" alt="Resident Evil" class="summary-button-image">
+								<span class="summary-button-counter">1 / 12</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Rival School')">
@@ -911,9 +916,23 @@
                             <div class="series-cards" id="series-DandD" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>D&D</h2>
-                                    <span>Cartas obtenidas: 1 / 10</span>
+                                    <span>Cartas obtenidas: 2 / 10</span>
                                 </div>
                                 <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 26</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '26', 'Eric'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/D&D/HERO/Eric(9-12-2023-3_23).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/D&D/HERO/Eric(9-12-2023-3_23).png" alt="Eric">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Eric (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
                                     
                                         <div class="cromo-card">
                                             <span class="cromo-numero">Nº: 31</span>
@@ -1674,6 +1693,30 @@
                                 </div>
                             </div>
                         
+                            <div class="series-cards" id="series-Resident-Evil" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Resident Evil</h2>
+                                    <span>Cartas obtenidas: 1 / 12</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 445</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '445', 'claire'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Resident Evil/PERSONAJE/claire.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Resident Evil/PERSONAJE/claire.png" alt="claire">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>claire (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
                             <div class="series-cards" id="series-Rival-School" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Rival School</h2>
@@ -1850,7 +1893,7 @@
                                                 </div>
                                             </a>
                                             <div class="cromo-details">
-                                                <h3>SAGAT (x1)</h3>
+                                                <h3>SAGAT (x2)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
