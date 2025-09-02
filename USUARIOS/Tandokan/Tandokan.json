@@ -194,7 +194,7 @@
     {
       "id": 772,
       "nombre": "Rita-Repulsa",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 388,
@@ -324,7 +324,7 @@
     {
       "id": 535,
       "nombre": "Venkman-Jail",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 95,
@@ -424,7 +424,7 @@
     {
       "id": 664,
       "nombre": "DB-052",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 704,
@@ -474,7 +474,7 @@
     {
       "id": 161,
       "nombre": "Steelwill",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 159,
@@ -624,7 +624,7 @@
     {
       "id": 567,
       "nombre": "JAKE-ROBERTS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 533,
@@ -694,7 +694,7 @@
     {
       "id": 82,
       "nombre": "zaboera",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 847,
@@ -909,7 +909,7 @@
     {
       "id": 616,
       "nombre": "DB-004",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 670,
@@ -949,7 +949,7 @@
     {
       "id": 517,
       "nombre": "Pirámide Negra",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 270,
@@ -999,7 +999,7 @@
     {
       "id": 342,
       "nombre": "Flazzard",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 827,
@@ -1084,7 +1084,7 @@
     {
       "id": 565,
       "nombre": "ANDRÉ-THE-GIANT",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 463,
@@ -1159,7 +1159,7 @@
     {
       "id": 683,
       "nombre": "DB-071",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 484,
@@ -1439,7 +1439,7 @@
     {
       "id": 317,
       "nombre": "Jean Grey",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 764,
@@ -1544,7 +1544,7 @@
     {
       "id": 112,
       "nombre": "Mayor Bludd",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 839,
@@ -1624,7 +1624,7 @@
     {
       "id": 574,
       "nombre": "UNDERTAKER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 717,
@@ -1814,7 +1814,7 @@
     {
       "id": 840,
       "nombre": "FEI-LONG",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 394,
@@ -2019,7 +2019,7 @@
     {
       "id": 654,
       "nombre": "DB-042",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 30,
@@ -2059,7 +2059,7 @@
     {
       "id": 384,
       "nombre": "aku aku",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 729,
@@ -2129,7 +2129,7 @@
     {
       "id": 630,
       "nombre": "DB-018",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 338,
@@ -2454,7 +2454,7 @@
     {
       "id": 402,
       "nombre": "hojo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 801,
@@ -2494,7 +2494,7 @@
     {
       "id": 916,
       "nombre": "CHUKY-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 942,
@@ -2664,7 +2664,7 @@
     {
       "id": 883,
       "nombre": "HULK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 712,
@@ -2684,7 +2684,7 @@
     {
       "id": 66,
       "nombre": "flazzard2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 903,
@@ -2824,6 +2824,61 @@
     {
       "id": 666,
       "nombre": "DB-054",
+      "cantidad": 1
+    },
+    {
+      "id": 868,
+      "nombre": "ANT-MAN",
+      "cantidad": 1
+    },
+    {
+      "id": 941,
+      "nombre": "GREMLIN-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 316,
+      "nombre": "Gambito",
+      "cantidad": 1
+    },
+    {
+      "id": 162,
+      "nombre": "Mon Star",
+      "cantidad": 1
+    },
+    {
+      "id": 288,
+      "nombre": "Splinter",
+      "cantidad": 1
+    },
+    {
+      "id": 705,
+      "nombre": "DB-093",
+      "cantidad": 1
+    },
+    {
+      "id": 296,
+      "nombre": "Jazz",
+      "cantidad": 1
+    },
+    {
+      "id": 474,
+      "nombre": "harry2",
+      "cantidad": 1
+    },
+    {
+      "id": 12,
+      "nombre": "Jezmine",
+      "cantidad": 1
+    },
+    {
+      "id": 646,
+      "nombre": "DB-034",
+      "cantidad": 1
+    },
+    {
+      "id": 967,
+      "nombre": "4-TICO",
       "cantidad": 1
     }
   ]

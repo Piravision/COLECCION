@@ -89,7 +89,7 @@
     {
       "id": 5,
       "nombre": "Seiya de Pegaso",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 165,
@@ -1869,7 +1869,7 @@
     {
       "id": 133,
       "nombre": "Trap Jaw",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 888,
@@ -1899,6 +1899,26 @@
     {
       "id": 328,
       "nombre": "Juggernaut",
+      "cantidad": 1
+    },
+    {
+      "id": 755,
+      "nombre": "Poseidon2",
+      "cantidad": 1
+    },
+    {
+      "id": 979,
+      "nombre": "14-CHARLENE-SINCLAIR",
+      "cantidad": 1
+    },
+    {
+      "id": 891,
+      "nombre": "MODOK",
+      "cantidad": 1
+    },
+    {
+      "id": 346,
+      "nombre": "jess",
       "cantidad": 1
     }
   ]

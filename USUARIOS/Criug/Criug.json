@@ -74,7 +74,7 @@
     {
       "id": 181,
       "nombre": "Hydro man",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 308,
@@ -129,7 +129,7 @@
     {
       "id": 174,
       "nombre": "Spiderman",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 73,
@@ -474,7 +474,7 @@
     {
       "id": 470,
       "nombre": "Floatstinger",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 340,
@@ -719,7 +719,7 @@
     {
       "id": 251,
       "nombre": "Tigro",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 236,
@@ -1189,7 +1189,7 @@
     {
       "id": 145,
       "nombre": "Lord Dragaunus",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 106,
@@ -1869,7 +1869,7 @@
     {
       "id": 325,
       "nombre": "Apocalipsis",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 426,
@@ -2469,7 +2469,7 @@
     {
       "id": 689,
       "nombre": "DB-077",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 483,
@@ -2714,7 +2714,7 @@
     {
       "id": 791,
       "nombre": "GORDON",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 891,
@@ -2724,7 +2724,7 @@
     {
       "id": 793,
       "nombre": "HIEDRA-",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 854,
@@ -3264,7 +3264,7 @@
     {
       "id": 861,
       "nombre": "MARTY-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 513,
@@ -3979,11 +3979,16 @@
     {
       "id": 247,
       "nombre": "Linx O",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 868,
       "nombre": "ANT-MAN",
+      "cantidad": 1
+    },
+    {
+      "id": 953,
+      "nombre": "12-MARCO-&-AMELIO",
       "cantidad": 1
     }
   ]

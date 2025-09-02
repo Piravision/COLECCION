@@ -29,7 +29,7 @@
     {
       "id": 562,
       "nombre": "PETER-GRIFFIN-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 216,
@@ -49,7 +49,7 @@
     {
       "id": 401,
       "nombre": "cloud",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 419,
@@ -134,7 +134,7 @@
     {
       "id": 80,
       "nombre": "robot",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 423,
@@ -224,7 +224,7 @@
     {
       "id": 522,
       "nombre": "lara",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 387,
@@ -309,7 +309,7 @@
     {
       "id": 569,
       "nombre": "MACHO-MAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 483,
@@ -469,7 +469,7 @@
     {
       "id": 338,
       "nombre": "Shiryū de Dragón",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 268,
@@ -819,7 +819,7 @@
     {
       "id": 574,
       "nombre": "UNDERTAKER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 221,
@@ -1134,7 +1134,7 @@
     {
       "id": 224,
       "nombre": "Guarida Tortuga",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 731,
@@ -1149,7 +1149,7 @@
     {
       "id": 649,
       "nombre": "DB-037",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 20,
@@ -1174,7 +1174,7 @@
     {
       "id": 862,
       "nombre": "NEO-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 916,
@@ -1264,7 +1264,7 @@
     {
       "id": 897,
       "nombre": "SPIDER-MAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 447,
@@ -1309,7 +1309,7 @@
     {
       "id": 891,
       "nombre": "MODOK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 871,
@@ -1529,6 +1529,91 @@
     {
       "id": 443,
       "nombre": "ada",
+      "cantidad": 1
+    },
+    {
+      "id": 259,
+      "nombre": "Ojo Rojo",
+      "cantidad": 1
+    },
+    {
+      "id": 418,
+      "nombre": "grayfox2",
+      "cantidad": 1
+    },
+    {
+      "id": 985,
+      "nombre": "ALF-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 117,
+      "nombre": "He man",
+      "cantidad": 1
+    },
+    {
+      "id": 202,
+      "nombre": "Killamari",
+      "cantidad": 1
+    },
+    {
+      "id": 979,
+      "nombre": "14-CHARLENE-SINCLAIR",
+      "cantidad": 1
+    },
+    {
+      "id": 356,
+      "nombre": "busuzima",
+      "cantidad": 1
+    },
+    {
+      "id": 515,
+      "nombre": "Invasión-Saurians",
+      "cantidad": 1
+    },
+    {
+      "id": 941,
+      "nombre": "GREMLIN-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 977,
+      "nombre": "13-ODIE",
+      "cantidad": 1
+    },
+    {
+      "id": 52,
+      "nombre": "marin",
+      "cantidad": 1
+    },
+    {
+      "id": 746,
+      "nombre": "Deathmask-de-Cancer",
+      "cantidad": 1
+    },
+    {
+      "id": 545,
+      "nombre": "IVAN-DRAGO",
+      "cantidad": 1
+    },
+    {
+      "id": 817,
+      "nombre": "RAIDEN",
+      "cantidad": 1
+    },
+    {
+      "id": 662,
+      "nombre": "DB-050",
+      "cantidad": 1
+    },
+    {
+      "id": 942,
+      "nombre": "HANNIBAL-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 340,
+      "nombre": "Poseidón",
       "cantidad": 1
     }
   ]
