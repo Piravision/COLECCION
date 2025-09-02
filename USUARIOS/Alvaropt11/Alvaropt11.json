@@ -479,7 +479,7 @@
     {
       "id": 372,
       "nombre": "RENARD",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 422,
@@ -804,7 +804,7 @@
     {
       "id": 96,
       "nombre": "Lexington",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 107,
@@ -909,7 +909,7 @@
     {
       "id": 340,
       "nombre": "Poseidón",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 640,
@@ -1484,7 +1484,7 @@
     {
       "id": 560,
       "nombre": "MACGYVER-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 240,
@@ -1564,12 +1564,12 @@
     {
       "id": 463,
       "nombre": "shoma",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 85,
       "nombre": "Niko",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 427,
@@ -2999,7 +2999,7 @@
     {
       "id": 212,
       "nombre": "Asteroide M",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 787,
@@ -3784,6 +3784,46 @@
     {
       "id": 303,
       "nombre": "Megatron",
+      "cantidad": 1
+    },
+    {
+      "id": 874,
+      "nombre": "CAPTAIN-AMERICA",
+      "cantidad": 1
+    },
+    {
+      "id": 868,
+      "nombre": "ANT-MAN",
+      "cantidad": 1
+    },
+    {
+      "id": 497,
+      "nombre": "nanami",
+      "cantidad": 1
+    },
+    {
+      "id": 261,
+      "nombre": "Reptilio",
+      "cantidad": 1
+    },
+    {
+      "id": 202,
+      "nombre": "Killamari",
+      "cantidad": 1
+    },
+    {
+      "id": 987,
+      "nombre": "ARALE",
+      "cantidad": 1
+    },
+    {
+      "id": 1002,
+      "nombre": "NARUTO-UZUMAKI",
+      "cantidad": 1
+    },
+    {
+      "id": 1007,
+      "nombre": "SAILOR-MOON",
       "cantidad": 1
     }
   ]

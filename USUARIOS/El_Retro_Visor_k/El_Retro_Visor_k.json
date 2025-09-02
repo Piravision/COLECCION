@@ -384,7 +384,7 @@
     {
       "id": 209,
       "nombre": "Sovereign Rock Castle",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 557,
@@ -594,7 +594,7 @@
     {
       "id": 139,
       "nombre": "Duke L'Orange",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 394,
@@ -894,7 +894,7 @@
     {
       "id": 48,
       "nombre": "Hyunckel",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 68,
@@ -1259,7 +1259,7 @@
     {
       "id": 578,
       "nombre": "BENJI-PRICE",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 474,
@@ -1294,7 +1294,7 @@
     {
       "id": 545,
       "nombre": "IVAN-DRAGO",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 444,
@@ -1454,7 +1454,7 @@
     {
       "id": 84,
       "nombre": "zurbon",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 815,
@@ -1469,7 +1469,7 @@
     {
       "id": 853,
       "nombre": "Zangief2",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 115,
@@ -1524,7 +1524,7 @@
     {
       "id": 472,
       "nombre": "grey",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 630,
@@ -1679,7 +1679,7 @@
     {
       "id": 568,
       "nombre": "LOS-SACAMANTECAS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 484,
@@ -1894,7 +1894,7 @@
     {
       "id": 865,
       "nombre": "ROBOCOP-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 629,
@@ -2499,7 +2499,7 @@
     {
       "id": 919,
       "nombre": "DONOVAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 695,
@@ -2609,7 +2609,7 @@
     {
       "id": 140,
       "nombre": "Mallory McMallard",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 24,
@@ -3169,7 +3169,7 @@
     {
       "id": 678,
       "nombre": "DB-066",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 270,
@@ -3474,6 +3474,56 @@
     {
       "id": 923,
       "nombre": "REAL-VISITOR",
+      "cantidad": 1
+    },
+    {
+      "id": 784,
+      "nombre": "BULLOCK",
+      "cantidad": 1
+    },
+    {
+      "id": 585,
+      "nombre": "DINO-HERNANDEZ",
+      "cantidad": 1
+    },
+    {
+      "id": 591,
+      "nombre": "JAMES-DERRICK",
+      "cantidad": 1
+    },
+    {
+      "id": 61,
+      "nombre": "Borahorn",
+      "cantidad": 1
+    },
+    {
+      "id": 1011,
+      "nombre": "TAI-&-AGUMON",
+      "cantidad": 1
+    },
+    {
+      "id": 989,
+      "nombre": "CAPITAN-HARLOCK",
+      "cantidad": 2
+    },
+    {
+      "id": 1006,
+      "nombre": "REENA-&-GAUDY",
+      "cantidad": 1
+    },
+    {
+      "id": 1009,
+      "nombre": "SHIN-CHAN",
+      "cantidad": 1
+    },
+    {
+      "id": 994,
+      "nombre": "GUTS",
+      "cantidad": 1
+    },
+    {
+      "id": 888,
+      "nombre": "LOKI",
       "cantidad": 1
     }
   ]

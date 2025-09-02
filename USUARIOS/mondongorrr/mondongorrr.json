@@ -474,7 +474,7 @@
     {
       "id": 559,
       "nombre": "MABARRACUS-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 115,
@@ -569,7 +569,7 @@
     {
       "id": 109,
       "nombre": "Cobra Commander",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 610,
@@ -589,7 +589,7 @@
     {
       "id": 228,
       "nombre": "Isla Dermline",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 682,
@@ -814,7 +814,7 @@
     {
       "id": 615,
       "nombre": "DB-003",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 838,
@@ -979,7 +979,7 @@
     {
       "id": 681,
       "nombre": "DB-069",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 809,
@@ -1404,7 +1404,7 @@
     {
       "id": 786,
       "nombre": "DICK-GRAYSON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 795,
@@ -1514,7 +1514,7 @@
     {
       "id": 171,
       "nombre": "Mary Jane",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 325,
@@ -1564,7 +1564,7 @@
     {
       "id": 287,
       "nombre": "Soldado del Pie",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 768,
@@ -1739,7 +1739,7 @@
     {
       "id": 49,
       "nombre": "leona",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 133,
@@ -1984,7 +1984,7 @@
     {
       "id": 537,
       "nombre": "BOLO-YEUNG",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 528,
@@ -2059,7 +2059,7 @@
     {
       "id": 95,
       "nombre": "Hudson",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 485,
@@ -2234,7 +2234,7 @@
     {
       "id": 733,
       "nombre": "DB-121",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 695,
@@ -2604,6 +2604,66 @@
     {
       "id": 885,
       "nombre": "IRON-MAN",
+      "cantidad": 1
+    },
+    {
+      "id": 932,
+      "nombre": "RAZOR-RAMON",
+      "cantidad": 1
+    },
+    {
+      "id": 871,
+      "nombre": "BLACK-BOLT",
+      "cantidad": 1
+    },
+    {
+      "id": 483,
+      "nombre": "Spider-Woman",
+      "cantidad": 1
+    },
+    {
+      "id": 460,
+      "nombre": "miura",
+      "cantidad": 1
+    },
+    {
+      "id": 87,
+      "nombre": "Walter _Doc_ Hartford",
+      "cantidad": 1
+    },
+    {
+      "id": 601,
+      "nombre": "OLIVER-ATOM",
+      "cantidad": 1
+    },
+    {
+      "id": 901,
+      "nombre": "ULTRON",
+      "cantidad": 1
+    },
+    {
+      "id": 759,
+      "nombre": "Shion",
+      "cantidad": 1
+    },
+    {
+      "id": 967,
+      "nombre": "4-TICO",
+      "cantidad": 1
+    },
+    {
+      "id": 954,
+      "nombre": "2-CHIP",
+      "cantidad": 1
+    },
+    {
+      "id": 124,
+      "nombre": "Stratos",
+      "cantidad": 1
+    },
+    {
+      "id": 319,
+      "nombre": "Profesor Xavier",
       "cantidad": 1
     }
   ]

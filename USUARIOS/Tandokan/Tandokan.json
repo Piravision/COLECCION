@@ -624,7 +624,7 @@
     {
       "id": 567,
       "nombre": "JAKE-ROBERTS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 533,
@@ -769,7 +769,7 @@
     {
       "id": 421,
       "nombre": "mei2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 586,
@@ -2254,7 +2254,7 @@
     {
       "id": 432,
       "nombre": "solid2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 703,
@@ -2304,7 +2304,7 @@
     {
       "id": 698,
       "nombre": "DB-086",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 101,
@@ -2604,7 +2604,7 @@
     {
       "id": 655,
       "nombre": "DB-043",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 171,
@@ -2879,6 +2879,26 @@
     {
       "id": 967,
       "nombre": "4-TICO",
+      "cantidad": 1
+    },
+    {
+      "id": 844,
+      "nombre": "HONDA2",
+      "cantidad": 1
+    },
+    {
+      "id": 1012,
+      "nombre": "Y.HURAMESHI",
+      "cantidad": 1
+    },
+    {
+      "id": 1014,
+      "nombre": "YUGI",
+      "cantidad": 1
+    },
+    {
+      "id": 996,
+      "nombre": "I.KUROSAKI",
       "cantidad": 1
     }
   ]

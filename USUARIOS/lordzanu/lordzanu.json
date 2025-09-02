@@ -724,7 +724,7 @@
     {
       "id": 664,
       "nombre": "DB-052",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 357,
@@ -1614,6 +1614,16 @@
     {
       "id": 340,
       "nombre": "Poseidón",
+      "cantidad": 1
+    },
+    {
+      "id": 594,
+      "nombre": "JUAN-DIAZ",
+      "cantidad": 1
+    },
+    {
+      "id": 675,
+      "nombre": "DB-063",
       "cantidad": 1
     }
   ]

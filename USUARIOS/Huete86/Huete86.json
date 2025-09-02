@@ -434,7 +434,7 @@
     {
       "id": 297,
       "nombre": "Optimus Prime",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 406,
@@ -1609,7 +1609,7 @@
     {
       "id": 334,
       "nombre": "Siniestro",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 680,
@@ -1634,7 +1634,7 @@
     {
       "id": 631,
       "nombre": "DB-019",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 557,
@@ -1689,7 +1689,7 @@
     {
       "id": 224,
       "nombre": "Guarida Tortuga",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 639,
@@ -2134,7 +2134,7 @@
     {
       "id": 616,
       "nombre": "DB-004",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 752,
@@ -2269,7 +2269,7 @@
     {
       "id": 676,
       "nombre": "DB-064",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 689,
@@ -2329,7 +2329,7 @@
     {
       "id": 622,
       "nombre": "DB-010",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 44,
@@ -2459,7 +2459,7 @@
     {
       "id": 758,
       "nombre": "Shaka-de-Virgo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 106,
@@ -2559,7 +2559,7 @@
     {
       "id": 188,
       "nombre": "Sandman",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 289,
@@ -2689,7 +2689,7 @@
     {
       "id": 604,
       "nombre": "RALF-PETERSON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 595,
@@ -2764,7 +2764,7 @@
     {
       "id": 523,
       "nombre": "lara2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 466,
@@ -2969,7 +2969,7 @@
     {
       "id": 621,
       "nombre": "DB-009",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 653,
@@ -3714,6 +3714,51 @@
     {
       "id": 899,
       "nombre": "THANOS",
+      "cantidad": 1
+    },
+    {
+      "id": 384,
+      "nombre": "aku aku",
+      "cantidad": 1
+    },
+    {
+      "id": 992,
+      "nombre": "DORAEMON",
+      "cantidad": 2
+    },
+    {
+      "id": 183,
+      "nombre": "Kraven",
+      "cantidad": 1
+    },
+    {
+      "id": 813,
+      "nombre": "LIU-KANG",
+      "cantidad": 1
+    },
+    {
+      "id": 1011,
+      "nombre": "TAI-&-AGUMON",
+      "cantidad": 2
+    },
+    {
+      "id": 987,
+      "nombre": "ARALE",
+      "cantidad": 2
+    },
+    {
+      "id": 988,
+      "nombre": "ASH-&-PIKACHU",
+      "cantidad": 1
+    },
+    {
+      "id": 1001,
+      "nombre": "MUSCULMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 659,
+      "nombre": "DB-047",
       "cantidad": 1
     }
   ]

@@ -309,7 +309,7 @@
     {
       "id": 293,
       "nombre": "Hot Rod",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 439,
@@ -1919,6 +1919,46 @@
     {
       "id": 346,
       "nombre": "jess",
+      "cantidad": 1
+    },
+    {
+      "id": 1002,
+      "nombre": "NARUTO-UZUMAKI",
+      "cantidad": 1
+    },
+    {
+      "id": 1003,
+      "nombre": "NINJA-ATORI",
+      "cantidad": 1
+    },
+    {
+      "id": 1005,
+      "nombre": "RANMA-1_2",
+      "cantidad": 1
+    },
+    {
+      "id": 1007,
+      "nombre": "SAILOR-MOON",
+      "cantidad": 1
+    },
+    {
+      "id": 990,
+      "nombre": "CHICHO-TERREMOTO",
+      "cantidad": 1
+    },
+    {
+      "id": 1011,
+      "nombre": "TAI-&-AGUMON",
+      "cantidad": 1
+    },
+    {
+      "id": 684,
+      "nombre": "DB-072",
+      "cantidad": 1
+    },
+    {
+      "id": 119,
+      "nombre": "orko",
       "cantidad": 1
     }
   ]

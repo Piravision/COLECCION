@@ -274,7 +274,7 @@
     {
       "id": 187,
       "nombre": "Rhyno",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 16,
@@ -424,7 +424,7 @@
     {
       "id": 13,
       "nombre": "Needle",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 192,
@@ -774,7 +774,7 @@
     {
       "id": 139,
       "nombre": "Duke L'Orange",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 197,
@@ -789,7 +789,7 @@
     {
       "id": 312,
       "nombre": "Bestia",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 191,
@@ -959,7 +959,7 @@
     {
       "id": 532,
       "nombre": "Sarah-Connor-Jail",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 295,
@@ -1064,7 +1064,7 @@
     {
       "id": 92,
       "nombre": "Brooklyn",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 525,
@@ -1919,7 +1919,7 @@
     {
       "id": 552,
       "nombre": "CHEWBACCA-JAIL",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 454,
@@ -2244,7 +2244,7 @@
     {
       "id": 616,
       "nombre": "DB-004",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 408,
@@ -2514,7 +2514,7 @@
     {
       "id": 619,
       "nombre": "DB-007",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 467,
@@ -2634,7 +2634,7 @@
     {
       "id": 615,
       "nombre": "DB-003",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 149,
@@ -2809,7 +2809,7 @@
     {
       "id": 726,
       "nombre": "DB-114",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 103,
@@ -2894,12 +2894,12 @@
     {
       "id": 104,
       "nombre": "Lady Jaye",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 260,
       "nombre": "Princesa Luna",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 268,
@@ -3174,7 +3174,7 @@
     {
       "id": 770,
       "nombre": "red",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 388,
@@ -3849,6 +3849,71 @@
     {
       "id": 649,
       "nombre": "DB-037",
+      "cantidad": 1
+    },
+    {
+      "id": 657,
+      "nombre": "DB-045",
+      "cantidad": 1
+    },
+    {
+      "id": 985,
+      "nombre": "ALF-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 990,
+      "nombre": "CHICHO-TERREMOTO",
+      "cantidad": 1
+    },
+    {
+      "id": 623,
+      "nombre": "DB-011",
+      "cantidad": 1
+    },
+    {
+      "id": 756,
+      "nombre": "Rhadamantis2",
+      "cantidad": 1
+    },
+    {
+      "id": 869,
+      "nombre": "ARNIM-ZOLA",
+      "cantidad": 1
+    },
+    {
+      "id": 998,
+      "nombre": "INUYASHA",
+      "cantidad": 1
+    },
+    {
+      "id": 1008,
+      "nombre": "SAKURA",
+      "cantidad": 1
+    },
+    {
+      "id": 1002,
+      "nombre": "NARUTO-UZUMAKI",
+      "cantidad": 1
+    },
+    {
+      "id": 996,
+      "nombre": "I.KUROSAKI",
+      "cantidad": 1
+    },
+    {
+      "id": 999,
+      "nombre": "LUFFY-MONKEY",
+      "cantidad": 1
+    },
+    {
+      "id": 992,
+      "nombre": "DORAEMON",
+      "cantidad": 1
+    },
+    {
+      "id": 709,
+      "nombre": "DB-097",
       "cantidad": 1
     }
   ]

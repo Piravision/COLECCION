@@ -789,7 +789,7 @@
     {
       "id": 264,
       "nombre": "Donatello",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 479,
@@ -884,7 +884,7 @@
     {
       "id": 221,
       "nombre": "Espada Atlantean",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 283,
@@ -944,7 +944,7 @@
     {
       "id": 271,
       "nombre": "Neutrinos",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 47,
@@ -1364,7 +1364,7 @@
     {
       "id": 551,
       "nombre": "BARRACUS-JAIL",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 10,
@@ -2134,7 +2134,7 @@
     {
       "id": 370,
       "nombre": "muerte",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 360,
@@ -2369,7 +2369,7 @@
     {
       "id": 110,
       "nombre": "Destro",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 350,
@@ -3039,7 +3039,7 @@
     {
       "id": 628,
       "nombre": "DB-016",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 696,
@@ -3269,7 +3269,7 @@
     {
       "id": 746,
       "nombre": "Deathmask-de-Cancer",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 862,
@@ -3569,7 +3569,7 @@
     {
       "id": 870,
       "nombre": "BARON-ZEMO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 776,
@@ -3749,7 +3749,7 @@
     {
       "id": 872,
       "nombre": "BLACK-PANTHER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 890,
@@ -3935,6 +3935,11 @@
       "id": 779,
       "nombre": "BANE",
       "cantidad": 1
+    },
+    {
+      "id": 938,
+      "nombre": "VINCE-MCMAHON",
+      "cantidad": 2
     }
   ]
 }
