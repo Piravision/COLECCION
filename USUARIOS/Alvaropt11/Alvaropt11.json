@@ -504,7 +504,7 @@
         {
             "id": 325,
             "nombre": "Apocalipsis",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 174,
@@ -729,7 +729,7 @@
         {
             "id": 588,
             "nombre": "FRANZ-SCHESTER",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 354,
@@ -939,7 +939,7 @@
         {
             "id": 186,
             "nombre": "Mysterio",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 504,
@@ -1769,7 +1769,7 @@
         {
             "id": 416,
             "nombre": "emme2",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 715,
@@ -2684,7 +2684,7 @@
         {
             "id": 803,
             "nombre": "SELINA-KYLE",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 778,
@@ -2859,7 +2859,7 @@
         {
             "id": 222,
             "nombre": "Espada de Metal Estrella",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 273,
@@ -3444,7 +3444,7 @@
         {
             "id": 935,
             "nombre": "STONE-COLD",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 252,
@@ -3569,7 +3569,7 @@
         {
             "id": 344,
             "nombre": "Flazzard 3",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 871,
@@ -3664,6 +3664,51 @@
         {
             "id": 948,
             "nombre": "1-ATHOS",
+            "cantidad": 1
+        },
+        {
+            "id": 848,
+            "nombre": "RYU2",
+            "cantidad": 1
+        },
+        {
+            "id": 909,
+            "nombre": "LOBO",
+            "cantidad": 1
+        },
+        {
+            "id": 281,
+            "nombre": "Granitor",
+            "cantidad": 1
+        },
+        {
+            "id": 483,
+            "nombre": "Spider-Woman",
+            "cantidad": 1
+        },
+        {
+            "id": 968,
+            "nombre": "4-WILLY-FOG",
+            "cantidad": 1
+        },
+        {
+            "id": 929,
+            "nombre": "KANE",
+            "cantidad": 1
+        },
+        {
+            "id": 786,
+            "nombre": "DICK-GRAYSON",
+            "cantidad": 1
+        },
+        {
+            "id": 956,
+            "nombre": "2-GADGET",
+            "cantidad": 1
+        },
+        {
+            "id": 926,
+            "nombre": "BATISTA",
             "cantidad": 1
         }
     ]
