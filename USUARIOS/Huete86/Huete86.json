@@ -674,7 +674,7 @@
     {
       "id": 257,
       "nombre": "Mumm Ra",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 281,
@@ -794,7 +794,7 @@
     {
       "id": 368,
       "nombre": "DRACULA1",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 543,
@@ -2469,7 +2469,7 @@
     {
       "id": 253,
       "nombre": "Buitro",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 767,
@@ -2524,7 +2524,7 @@
     {
       "id": 743,
       "nombre": "Dark-Afrodita-de-Piscis",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 390,
@@ -3959,6 +3959,16 @@
     {
       "id": 904,
       "nombre": "CLARK-KENT",
+      "cantidad": 1
+    },
+    {
+      "id": 57,
+      "nombre": "pop",
+      "cantidad": 1
+    },
+    {
+      "id": 415,
+      "nombre": "emme",
       "cantidad": 1
     }
   ]

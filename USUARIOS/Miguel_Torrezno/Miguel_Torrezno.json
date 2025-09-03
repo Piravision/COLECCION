@@ -779,7 +779,7 @@
     {
       "id": 367,
       "nombre": "BEMONT",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 7,
@@ -1154,7 +1154,7 @@
     {
       "id": 368,
       "nombre": "DRACULA1",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 507,
@@ -1729,7 +1729,7 @@
     {
       "id": 365,
       "nombre": "alucard 1",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 78,
@@ -1859,7 +1859,7 @@
     {
       "id": 895,
       "nombre": "ROCKET-RACOON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 439,
@@ -2319,6 +2319,16 @@
     {
       "id": 374,
       "nombre": "Succubus",
+      "cantidad": 1
+    },
+    {
+      "id": 924,
+      "nombre": "VISITOR-SOLDIER",
+      "cantidad": 1
+    },
+    {
+      "id": 919,
+      "nombre": "DONOVAN",
       "cantidad": 1
     }
   ]
