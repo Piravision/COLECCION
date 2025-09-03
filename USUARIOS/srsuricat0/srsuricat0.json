@@ -99,7 +99,7 @@
         {
             "id": 1,
             "nombre": "30 30",
-            "cantidad": 6
+            "cantidad": 5
         },
         {
             "id": 94,
@@ -3989,6 +3989,11 @@
         {
             "id": 961,
             "nombre": "3-MORIARTY",
+            "cantidad": 1
+        },
+        {
+            "id": 775,
+            "nombre": "yellow",
             "cantidad": 1
         }
     ]

@@ -489,7 +489,7 @@
         {
             "id": 215,
             "nombre": "Castillo Grayskull",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 341,
@@ -1284,7 +1284,7 @@
         {
             "id": 560,
             "nombre": "MACGYVER-JAIL",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 558,
@@ -2129,7 +2129,7 @@
         {
             "id": 140,
             "nombre": "Mallory McMallard",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 616,
@@ -2959,7 +2959,7 @@
         {
             "id": 775,
             "nombre": "yellow",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 582,
@@ -3909,6 +3909,11 @@
         {
             "id": 867,
             "nombre": "SONNY-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 1,
+            "nombre": "30 30",
             "cantidad": 1
         }
     ]

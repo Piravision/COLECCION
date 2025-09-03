@@ -1309,7 +1309,7 @@
     {
       "id": 630,
       "nombre": "DB-018",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 58,
@@ -1909,7 +1909,7 @@
     {
       "id": 33,
       "nombre": "Apollo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 124,
@@ -2224,7 +2224,7 @@
     {
       "id": 783,
       "nombre": "BRUCE-WAYNE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 716,
@@ -3659,7 +3659,7 @@
     {
       "id": 967,
       "nombre": "4-TICO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 948,
@@ -3879,6 +3879,16 @@
     {
       "id": 489,
       "nombre": "sparx",
+      "cantidad": 1
+    },
+    {
+      "id": 821,
+      "nombre": "SHANG-TSUNG",
+      "cantidad": 1
+    },
+    {
+      "id": 989,
+      "nombre": "CAPITAN-HARLOCK",
       "cantidad": 1
     }
   ]
