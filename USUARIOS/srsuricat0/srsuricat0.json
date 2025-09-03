@@ -564,7 +564,7 @@
         {
             "id": 335,
             "nombre": "Toad",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 104,
@@ -4104,6 +4104,11 @@
         {
             "id": 931,
             "nombre": "RANDY-ORTON",
+            "cantidad": 1
+        },
+        {
+            "id": 763,
+            "nombre": "black",
             "cantidad": 1
         }
     ]
