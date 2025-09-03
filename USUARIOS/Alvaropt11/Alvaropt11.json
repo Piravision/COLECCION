@@ -594,7 +594,7 @@
     {
       "id": 246,
       "nombre": "Jaga",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 565,
@@ -689,7 +689,7 @@
     {
       "id": 543,
       "nombre": "DIE-HARD-III",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 121,
@@ -909,7 +909,7 @@
     {
       "id": 340,
       "nombre": "Poseidón",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 640,
@@ -1139,7 +1139,7 @@
     {
       "id": 14,
       "nombre": "Snagg",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 206,
@@ -1754,7 +1754,7 @@
     {
       "id": 594,
       "nombre": "JUAN-DIAZ",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 777,
@@ -1769,7 +1769,7 @@
     {
       "id": 416,
       "nombre": "emme2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 715,
@@ -1864,7 +1864,7 @@
     {
       "id": 256,
       "nombre": "Mandrilo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 359,
@@ -2174,7 +2174,7 @@
     {
       "id": 533,
       "nombre": "Tony-Montana-Jail",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 642,
@@ -3859,6 +3859,11 @@
     {
       "id": 870,
       "nombre": "BARON-ZEMO",
+      "cantidad": 1
+    },
+    {
+      "id": 792,
+      "nombre": "HARLEY-QUEEN",
       "cantidad": 1
     }
   ]

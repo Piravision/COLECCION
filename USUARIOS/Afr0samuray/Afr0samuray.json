@@ -129,7 +129,7 @@
     {
       "id": 9,
       "nombre": "Rhadamanthys",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 90,
@@ -969,7 +969,7 @@
     {
       "id": 312,
       "nombre": "Bestia",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 509,
@@ -999,7 +999,7 @@
     {
       "id": 348,
       "nombre": "Meia",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 155,
@@ -1599,7 +1599,7 @@
     {
       "id": 255,
       "nombre": "Ma Mutt",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 566,
@@ -1804,7 +1804,7 @@
     {
       "id": 522,
       "nombre": "lara",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 667,
@@ -2084,7 +2084,7 @@
     {
       "id": 610,
       "nombre": "TED-CARTER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 645,
@@ -2154,7 +2154,7 @@
     {
       "id": 933,
       "nombre": "REY-MISTERIO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 3,
@@ -2284,6 +2284,106 @@
     {
       "id": 1003,
       "nombre": "NINJA-ATORI",
+      "cantidad": 1
+    },
+    {
+      "id": 734,
+      "nombre": "Afrodita-de-Piscis",
+      "cantidad": 1
+    },
+    {
+      "id": 863,
+      "nombre": "PREDATOR-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 945,
+      "nombre": "MASK-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 651,
+      "nombre": "DB-039",
+      "cantidad": 1
+    },
+    {
+      "id": 896,
+      "nombre": "SHE-HULK",
+      "cantidad": 1
+    },
+    {
+      "id": 492,
+      "nombre": "toasty",
+      "cantidad": 1
+    },
+    {
+      "id": 138,
+      "nombre": "Dr. Hell",
+      "cantidad": 1
+    },
+    {
+      "id": 956,
+      "nombre": "2-GADGET",
+      "cantidad": 1
+    },
+    {
+      "id": 931,
+      "nombre": "RANDY-ORTON",
+      "cantidad": 1
+    },
+    {
+      "id": 597,
+      "nombre": "LOUIS-NAPOLEON",
+      "cantidad": 1
+    },
+    {
+      "id": 351,
+      "nombre": "reaper",
+      "cantidad": 1
+    },
+    {
+      "id": 960,
+      "nombre": "3-LESTRADE",
+      "cantidad": 1
+    },
+    {
+      "id": 970,
+      "nombre": "6-VICKY-EL-VIKINGO",
+      "cantidad": 1
+    },
+    {
+      "id": 959,
+      "nombre": "3-DR.WATSON",
+      "cantidad": 1
+    },
+    {
+      "id": 976,
+      "nombre": "7-SABIONDO",
+      "cantidad": 1
+    },
+    {
+      "id": 949,
+      "nombre": "1-DARTACAN",
+      "cantidad": 1
+    },
+    {
+      "id": 972,
+      "nombre": "8-MAYA",
+      "cantidad": 1
+    },
+    {
+      "id": 854,
+      "nombre": "RIC-FLAIR",
+      "cantidad": 1
+    },
+    {
+      "id": 15,
+      "nombre": "Zula",
+      "cantidad": 1
+    },
+    {
+      "id": 495,
+      "nombre": "jowy",
       "cantidad": 1
     }
   ]
