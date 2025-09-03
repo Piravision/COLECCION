@@ -834,7 +834,7 @@
         {
             "id": 375,
             "nombre": "Grobyc",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 460,
@@ -3899,6 +3899,11 @@
         {
             "id": 134,
             "nombre": "Tri Klops",
+            "cantidad": 1
+        },
+        {
+            "id": 130,
+            "nombre": "Mer Man(",
             "cantidad": 1
         }
     ]

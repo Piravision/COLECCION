@@ -709,7 +709,7 @@
     {
       "id": 515,
       "nombre": "Invasión-Saurians",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 438,
@@ -1879,7 +1879,7 @@
     {
       "id": 394,
       "nombre": "vsneo",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 402,
@@ -1899,7 +1899,7 @@
     {
       "id": 544,
       "nombre": "DOC-BROWN",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 8,
@@ -2079,7 +2079,7 @@
     {
       "id": 374,
       "nombre": "Succubus",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 471,
@@ -2674,7 +2674,7 @@
     {
       "id": 650,
       "nombre": "DB-038",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 426,
@@ -2729,7 +2729,7 @@
     {
       "id": 660,
       "nombre": "DB-048",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 670,
@@ -2939,7 +2939,7 @@
     {
       "id": 722,
       "nombre": "DB-110",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 527,
@@ -3979,6 +3979,16 @@
     {
       "id": 921,
       "nombre": "JULIET-PARRISH",
+      "cantidad": 1
+    },
+    {
+      "id": 803,
+      "nombre": "SELINA-KYLE",
+      "cantidad": 1
+    },
+    {
+      "id": 961,
+      "nombre": "3-MORIARTY",
       "cantidad": 1
     }
   ]
