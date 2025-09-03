@@ -529,7 +529,7 @@
     {
       "id": 158,
       "nombre": "Copper Kid",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 153,
@@ -1384,7 +1384,7 @@
     {
       "id": 373,
       "nombre": "SHAFT",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 360,
@@ -1419,7 +1419,7 @@
     {
       "id": 533,
       "nombre": "Tony-Montana-Jail",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 565,
@@ -2674,7 +2674,7 @@
     {
       "id": 853,
       "nombre": "Zangief2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 739,
@@ -3974,6 +3974,16 @@
     {
       "id": 166,
       "nombre": "Estrella de Fuego",
+      "cantidad": 1
+    },
+    {
+      "id": 657,
+      "nombre": "DB-045",
+      "cantidad": 1
+    },
+    {
+      "id": 784,
+      "nombre": "BULLOCK",
       "cantidad": 1
     }
   ]

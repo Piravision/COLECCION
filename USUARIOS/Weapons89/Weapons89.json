@@ -1394,7 +1394,7 @@
     {
       "id": 535,
       "nombre": "Venkman-Jail",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 3,
@@ -2079,7 +2079,7 @@
     {
       "id": 311,
       "nombre": "Arcangel",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 18,
@@ -2124,7 +2124,7 @@
     {
       "id": 991,
       "nombre": "CONAN-EDOGAWA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 993,
@@ -2339,6 +2339,21 @@
     {
       "id": 317,
       "nombre": "Jean Grey",
+      "cantidad": 1
+    },
+    {
+      "id": 975,
+      "nombre": "7-PENNY",
+      "cantidad": 1
+    },
+    {
+      "id": 69,
+      "nombre": "gargola",
+      "cantidad": 1
+    },
+    {
+      "id": 985,
+      "nombre": "ALF-JAIL",
       "cantidad": 1
     }
   ]
