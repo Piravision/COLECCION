@@ -334,7 +334,7 @@
     {
       "id": 297,
       "nombre": "Optimus Prime",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 340,
@@ -1199,7 +1199,7 @@
     {
       "id": 400,
       "nombre": "cid",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 639,
@@ -2354,6 +2354,11 @@
     {
       "id": 430,
       "nombre": "sniper2",
+      "cantidad": 1
+    },
+    {
+      "id": 857,
+      "nombre": "DOC-JAIL",
       "cantidad": 1
     }
   ]
