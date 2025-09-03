@@ -3214,7 +3214,7 @@
         {
             "id": 924,
             "nombre": "VISITOR-SOLDIER",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 576,
@@ -3924,6 +3924,11 @@
         {
             "id": 834,
             "nombre": "CAMMY",
+            "cantidad": 1
+        },
+        {
+            "id": 919,
+            "nombre": "DONOVAN",
             "cantidad": 1
         }
     ]
