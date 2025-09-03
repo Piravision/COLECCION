@@ -584,7 +584,7 @@
         {
             "id": 146,
             "nombre": "Siege",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 248,
@@ -619,7 +619,7 @@
         {
             "id": 470,
             "nombre": "Floatstinger",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 161,
@@ -779,7 +779,7 @@
         {
             "id": 553,
             "nombre": "GOKU-JAIL",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 557,
@@ -1709,7 +1709,7 @@
         {
             "id": 755,
             "nombre": "Poseidon2",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 244,
@@ -2049,7 +2049,7 @@
         {
             "id": 392,
             "nombre": "roover",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 819,
@@ -2139,7 +2139,7 @@
         {
             "id": 834,
             "nombre": "CAMMY",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 44,
@@ -2699,7 +2699,7 @@
         {
             "id": 779,
             "nombre": "BANE",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 581,
@@ -2854,7 +2854,7 @@
         {
             "id": 862,
             "nombre": "NEO-JAIL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 222,
@@ -2939,7 +2939,7 @@
         {
             "id": 194,
             "nombre": "Mantaman",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 811,
@@ -3914,6 +3914,16 @@
         {
             "id": 388,
             "nombre": "koala2",
+            "cantidad": 1
+        },
+        {
+            "id": 886,
+            "nombre": "KARNAK",
+            "cantidad": 1
+        },
+        {
+            "id": 917,
+            "nombre": "MYERS-JAIL",
             "cantidad": 1
         }
     ]

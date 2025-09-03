@@ -154,7 +154,7 @@
     {
       "id": 767,
       "nombre": "green",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 34,
@@ -164,7 +164,7 @@
     {
       "id": 153,
       "nombre": "Fred _El Mutante_",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 403,
@@ -349,12 +349,12 @@
     {
       "id": 114,
       "nombre": "Storm Shadow",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 5,
       "nombre": "Seiya de Pegaso",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 174,
@@ -519,7 +519,7 @@
     {
       "id": 191,
       "nombre": "Venom",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 318,
@@ -729,7 +729,7 @@
     {
       "id": 791,
       "nombre": "GORDON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 350,
@@ -1239,7 +1239,7 @@
     {
       "id": 168,
       "nombre": "Hobgoblin",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 878,
@@ -1759,7 +1759,7 @@
     {
       "id": 735,
       "nombre": "Aiacos",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 353,
@@ -2034,7 +2034,7 @@
     {
       "id": 713,
       "nombre": "DB-101",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 539,
@@ -2119,7 +2119,7 @@
     {
       "id": 215,
       "nombre": "Castillo Grayskull",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 628,
@@ -2214,7 +2214,7 @@
     {
       "id": 737,
       "nombre": "Aioros-de-Sagitario",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 664,
@@ -2254,7 +2254,7 @@
     {
       "id": 652,
       "nombre": "DB-040",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 312,
@@ -2289,7 +2289,7 @@
     {
       "id": 734,
       "nombre": "Afrodita-de-Piscis",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 575,
@@ -2404,7 +2404,7 @@
     {
       "id": 551,
       "nombre": "BARRACUS-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 138,
@@ -2464,7 +2464,7 @@
     {
       "id": 952,
       "nombre": "11-HEIDI-&-MARCO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 974,
@@ -2664,6 +2664,51 @@
     {
       "id": 319,
       "nombre": "Profesor Xavier",
+      "cantidad": 1
+    },
+    {
+      "id": 984,
+      "nombre": "14-BABY-SINCLAIR",
+      "cantidad": 1
+    },
+    {
+      "id": 917,
+      "nombre": "MYERS-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 623,
+      "nombre": "DB-011",
+      "cantidad": 1
+    },
+    {
+      "id": 600,
+      "nombre": "NATUREZA",
+      "cantidad": 1
+    },
+    {
+      "id": 897,
+      "nombre": "SPIDER-MAN",
+      "cantidad": 1
+    },
+    {
+      "id": 516,
+      "nombre": "LEGIÓN-DEL-DRAGÓN",
+      "cantidad": 1
+    },
+    {
+      "id": 1001,
+      "nombre": "MUSCULMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1004,
+      "nombre": "R.KENSHIN",
+      "cantidad": 1
+    },
+    {
+      "id": 884,
+      "nombre": "IRON-FIST",
       "cantidad": 1
     }
   ]

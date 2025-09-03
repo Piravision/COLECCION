@@ -44,7 +44,7 @@
     {
       "id": 109,
       "nombre": "Cobra Commander",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 697,
@@ -109,7 +109,7 @@
     {
       "id": 508,
       "nombre": "law",
-      "cantidad": 3
+      "cantidad": 5
     },
     {
       "id": 290,
@@ -489,7 +489,7 @@
     {
       "id": 489,
       "nombre": "sparx",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 777,
@@ -544,7 +544,7 @@
     {
       "id": 537,
       "nombre": "BOLO-YEUNG",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 558,
@@ -624,7 +624,7 @@
     {
       "id": 567,
       "nombre": "JAKE-ROBERTS",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 533,
@@ -739,7 +739,7 @@
     {
       "id": 509,
       "nombre": "NINA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 333,
@@ -909,7 +909,7 @@
     {
       "id": 616,
       "nombre": "DB-004",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 670,
@@ -1079,7 +1079,7 @@
     {
       "id": 464,
       "nombre": "yamada",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 565,
@@ -1239,7 +1239,7 @@
     {
       "id": 257,
       "nombre": "Mumm Ra",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 262,
@@ -1459,7 +1459,7 @@
     {
       "id": 876,
       "nombre": "DORMAMMU",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 486,
@@ -1699,7 +1699,7 @@
     {
       "id": 31,
       "nombre": "Tiamat",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 163,
@@ -1724,7 +1724,7 @@
     {
       "id": 781,
       "nombre": "BATGIRL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 393,
@@ -1739,7 +1739,7 @@
     {
       "id": 409,
       "nombre": "Kōji-Kabuto",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 52,
@@ -1899,7 +1899,7 @@
     {
       "id": 576,
       "nombre": "ALAN-CROCKET",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 86,
@@ -2284,12 +2284,12 @@
     {
       "id": 340,
       "nombre": "Poseidón",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 206,
       "nombre": "Slash",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 441,
@@ -2639,7 +2639,7 @@
     {
       "id": 487,
       "nombre": "Jacques",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 910,
@@ -2784,7 +2784,7 @@
     {
       "id": 200,
       "nombre": "Swordo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 819,
@@ -3019,6 +3019,61 @@
     {
       "id": 982,
       "nombre": "14-FRAN-SINCLAIR",
+      "cantidad": 1
+    },
+    {
+      "id": 673,
+      "nombre": "DB-061",
+      "cantidad": 1
+    },
+    {
+      "id": 415,
+      "nombre": "emme",
+      "cantidad": 1
+    },
+    {
+      "id": 993,
+      "nombre": "GATOS-SAMURAI",
+      "cantidad": 1
+    },
+    {
+      "id": 417,
+      "nombre": "grayfox",
+      "cantidad": 1
+    },
+    {
+      "id": 207,
+      "nombre": "Slobster",
+      "cantidad": 1
+    },
+    {
+      "id": 605,
+      "nombre": "ROBERTO-SEDINHO",
+      "cantidad": 1
+    },
+    {
+      "id": 594,
+      "nombre": "JUAN-DIAZ",
+      "cantidad": 1
+    },
+    {
+      "id": 462,
+      "nombre": "sakura",
+      "cantidad": 1
+    },
+    {
+      "id": 459,
+      "nombre": "Kyosuke",
+      "cantidad": 1
+    },
+    {
+      "id": 504,
+      "nombre": "HEICHAI",
+      "cantidad": 1
+    },
+    {
+      "id": 488,
+      "nombre": "metalhead",
       "cantidad": 1
     }
   ]
