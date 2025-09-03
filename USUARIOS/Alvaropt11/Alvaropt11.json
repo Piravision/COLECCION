@@ -2339,7 +2339,7 @@
         {
             "id": 770,
             "nombre": "red",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 164,
@@ -3974,6 +3974,11 @@
         {
             "id": 857,
             "nombre": "DOC-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 771,
+            "nombre": "rita",
             "cantidad": 1
         }
     ]
