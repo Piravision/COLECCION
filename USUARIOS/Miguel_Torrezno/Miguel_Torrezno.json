@@ -774,7 +774,7 @@
     {
       "id": 146,
       "nombre": "Siege",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 367,
@@ -2329,6 +2329,16 @@
     {
       "id": 919,
       "nombre": "DONOVAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1007,
+      "nombre": "SAILOR-MOON",
+      "cantidad": 1
+    },
+    {
+      "id": 693,
+      "nombre": "DB-081",
       "cantidad": 1
     }
   ]
