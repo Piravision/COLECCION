@@ -369,7 +369,7 @@
     {
       "id": 179,
       "nombre": "Duende Verde",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 104,
@@ -434,7 +434,7 @@
     {
       "id": 139,
       "nombre": "Duke L'Orange",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 397,
@@ -774,7 +774,7 @@
     {
       "id": 146,
       "nombre": "Siege",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 367,
@@ -1094,7 +1094,7 @@
     {
       "id": 145,
       "nombre": "Lord Dragaunus",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 63,
@@ -2309,6 +2309,16 @@
     {
       "id": 732,
       "nombre": "DB-120",
+      "cantidad": 1
+    },
+    {
+      "id": 245,
+      "nombre": "Felino",
+      "cantidad": 1
+    },
+    {
+      "id": 374,
+      "nombre": "Succubus",
       "cantidad": 1
     }
   ]
