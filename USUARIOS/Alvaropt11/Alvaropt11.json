@@ -3724,7 +3724,7 @@
     {
       "id": 900,
       "nombre": "THOR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 743,
@@ -3819,11 +3819,46 @@
     {
       "id": 1002,
       "nombre": "NARUTO-UZUMAKI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1007,
       "nombre": "SAILOR-MOON",
+      "cantidad": 1
+    },
+    {
+      "id": 993,
+      "nombre": "GATOS-SAMURAI",
+      "cantidad": 1
+    },
+    {
+      "id": 1008,
+      "nombre": "SAKURA",
+      "cantidad": 1
+    },
+    {
+      "id": 949,
+      "nombre": "1-DARTACAN",
+      "cantidad": 1
+    },
+    {
+      "id": 976,
+      "nombre": "7-SABIONDO",
+      "cantidad": 1
+    },
+    {
+      "id": 964,
+      "nombre": "3-TODD-&-SMILEY",
+      "cantidad": 1
+    },
+    {
+      "id": 898,
+      "nombre": "SUB-MARINER",
+      "cantidad": 1
+    },
+    {
+      "id": 870,
+      "nombre": "BARON-ZEMO",
       "cantidad": 1
     }
   ]

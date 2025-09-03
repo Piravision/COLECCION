@@ -1944,7 +1944,7 @@
     {
       "id": 531,
       "nombre": "McClane-Jail",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 461,
@@ -2814,7 +2814,7 @@
     {
       "id": 963,
       "nombre": "3-SRA.-HUDSON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 503,
@@ -2879,7 +2879,7 @@
     {
       "id": 967,
       "nombre": "4-TICO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 844,
@@ -2889,7 +2889,7 @@
     {
       "id": 1012,
       "nombre": "Y.HURAMESHI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1014,
@@ -2904,6 +2904,91 @@
     {
       "id": 871,
       "nombre": "BLACK-BOLT",
+      "cantidad": 2
+    },
+    {
+      "id": 990,
+      "nombre": "CHICHO-TERREMOTO",
+      "cantidad": 1
+    },
+    {
+      "id": 1013,
+      "nombre": "YAIBA-KUROGAME",
+      "cantidad": 1
+    },
+    {
+      "id": 987,
+      "nombre": "ARALE",
+      "cantidad": 1
+    },
+    {
+      "id": 988,
+      "nombre": "ASH-&-PIKACHU",
+      "cantidad": 1
+    },
+    {
+      "id": 1007,
+      "nombre": "SAILOR-MOON",
+      "cantidad": 1
+    },
+    {
+      "id": 949,
+      "nombre": "1-DARTACAN",
+      "cantidad": 1
+    },
+    {
+      "id": 986,
+      "nombre": "15-BALOO",
+      "cantidad": 2
+    },
+    {
+      "id": 977,
+      "nombre": "13-ODIE",
+      "cantidad": 1
+    },
+    {
+      "id": 958,
+      "nombre": "2-ZIPPER",
+      "cantidad": 1
+    },
+    {
+      "id": 978,
+      "nombre": "13-GARFIELD",
+      "cantidad": 2
+    },
+    {
+      "id": 953,
+      "nombre": "12-MARCO-&-AMELIO",
+      "cantidad": 1
+    },
+    {
+      "id": 975,
+      "nombre": "7-PENNY",
+      "cantidad": 1
+    },
+    {
+      "id": 966,
+      "nombre": "4-ROMY",
+      "cantidad": 1
+    },
+    {
+      "id": 985,
+      "nombre": "ALF-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 563,
+      "nombre": "VADER-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 879,
+      "nombre": "GHOST-RIDER",
+      "cantidad": 1
+    },
+    {
+      "id": 897,
+      "nombre": "SPIDER-MAN",
       "cantidad": 1
     }
   ]

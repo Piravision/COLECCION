@@ -324,7 +324,7 @@
     {
       "id": 901,
       "nombre": "ULTRON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 811,
@@ -554,7 +554,7 @@
     {
       "id": 863,
       "nombre": "PREDATOR-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 94,
@@ -634,7 +634,7 @@
     {
       "id": 900,
       "nombre": "THOR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 349,
@@ -729,7 +729,7 @@
     {
       "id": 550,
       "nombre": "AceVentura-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 402,
@@ -844,7 +844,7 @@
     {
       "id": 561,
       "nombre": "MARIO-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 902,
@@ -1269,6 +1269,36 @@
     {
       "id": 624,
       "nombre": "DB-012",
+      "cantidad": 1
+    },
+    {
+      "id": 985,
+      "nombre": "ALF-JAIL",
+      "cantidad": 2
+    },
+    {
+      "id": 536,
+      "nombre": "Xena-Jail",
+      "cantidad": 1
+    },
+    {
+      "id": 878,
+      "nombre": "FALCON",
+      "cantidad": 1
+    },
+    {
+      "id": 871,
+      "nombre": "BLACK-BOLT",
+      "cantidad": 1
+    },
+    {
+      "id": 891,
+      "nombre": "MODOK",
+      "cantidad": 1
+    },
+    {
+      "id": 888,
+      "nombre": "LOKI",
       "cantidad": 1
     }
   ]

@@ -2174,7 +2174,7 @@
     {
       "id": 563,
       "nombre": "VADER-JAIL",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 443,
@@ -2714,7 +2714,7 @@
     {
       "id": 870,
       "nombre": "BARON-ZEMO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 853,
@@ -3504,7 +3504,7 @@
     {
       "id": 953,
       "nombre": "12-MARCO-&-AMELIO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 765,
@@ -3554,6 +3554,81 @@
     {
       "id": 867,
       "nombre": "SONNY-JAIL",
+      "cantidad": 2
+    },
+    {
+      "id": 1013,
+      "nombre": "YAIBA-KUROGAME",
+      "cantidad": 1
+    },
+    {
+      "id": 990,
+      "nombre": "CHICHO-TERREMOTO",
+      "cantidad": 1
+    },
+    {
+      "id": 989,
+      "nombre": "CAPITAN-HARLOCK",
+      "cantidad": 1
+    },
+    {
+      "id": 1004,
+      "nombre": "R.KENSHIN",
+      "cantidad": 1
+    },
+    {
+      "id": 1009,
+      "nombre": "SHIN-CHAN",
+      "cantidad": 1
+    },
+    {
+      "id": 993,
+      "nombre": "GATOS-SAMURAI",
+      "cantidad": 1
+    },
+    {
+      "id": 975,
+      "nombre": "7-PENNY",
+      "cantidad": 1
+    },
+    {
+      "id": 949,
+      "nombre": "1-DARTACAN",
+      "cantidad": 2
+    },
+    {
+      "id": 981,
+      "nombre": "14-ETHYL-PHILLIPS",
+      "cantidad": 1
+    },
+    {
+      "id": 951,
+      "nombre": "10-DANIEL-EL-TRAVIESO",
+      "cantidad": 1
+    },
+    {
+      "id": 959,
+      "nombre": "3-DR.WATSON",
+      "cantidad": 1
+    },
+    {
+      "id": 973,
+      "nombre": "8-WILLY",
+      "cantidad": 2
+    },
+    {
+      "id": 985,
+      "nombre": "ALF-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 871,
+      "nombre": "BLACK-BOLT",
+      "cantidad": 1
+    },
+    {
+      "id": 869,
+      "nombre": "ARNIM-ZOLA",
       "cantidad": 1
     }
   ]

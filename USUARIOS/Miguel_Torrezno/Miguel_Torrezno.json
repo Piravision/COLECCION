@@ -1999,7 +1999,7 @@
     {
       "id": 951,
       "nombre": "10-DANIEL-EL-TRAVIESO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 959,
@@ -2019,7 +2019,7 @@
     {
       "id": 971,
       "nombre": "7-INSPECTOR-GADGET",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 275,
@@ -2129,7 +2129,7 @@
     {
       "id": 960,
       "nombre": "3-LESTRADE",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 220,
@@ -2154,6 +2154,101 @@
     {
       "id": 838,
       "nombre": "dhalsim2",
+      "cantidad": 1
+    },
+    {
+      "id": 999,
+      "nombre": "LUFFY-MONKEY",
+      "cantidad": 1
+    },
+    {
+      "id": 1003,
+      "nombre": "NINJA-ATORI",
+      "cantidad": 1
+    },
+    {
+      "id": 1014,
+      "nombre": "YUGI",
+      "cantidad": 1
+    },
+    {
+      "id": 1000,
+      "nombre": "SON-GOKU",
+      "cantidad": 1
+    },
+    {
+      "id": 1001,
+      "nombre": "MUSCULMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1012,
+      "nombre": "Y.HURAMESHI",
+      "cantidad": 1
+    },
+    {
+      "id": 981,
+      "nombre": "14-ETHYL-PHILLIPS",
+      "cantidad": 1
+    },
+    {
+      "id": 968,
+      "nombre": "4-WILLY-FOG",
+      "cantidad": 2
+    },
+    {
+      "id": 952,
+      "nombre": "11-HEIDI-&-MARCO",
+      "cantidad": 1
+    },
+    {
+      "id": 978,
+      "nombre": "13-GARFIELD",
+      "cantidad": 1
+    },
+    {
+      "id": 948,
+      "nombre": "1-ATHOS",
+      "cantidad": 1
+    },
+    {
+      "id": 979,
+      "nombre": "14-CHARLENE-SINCLAIR",
+      "cantidad": 1
+    },
+    {
+      "id": 984,
+      "nombre": "14-BABY-SINCLAIR",
+      "cantidad": 1
+    },
+    {
+      "id": 985,
+      "nombre": "ALF-JAIL",
+      "cantidad": 6
+    },
+    {
+      "id": 889,
+      "nombre": "LUKE-CAGE",
+      "cantidad": 1
+    },
+    {
+      "id": 885,
+      "nombre": "IRON-MAN",
+      "cantidad": 1
+    },
+    {
+      "id": 882,
+      "nombre": "HELA",
+      "cantidad": 2
+    },
+    {
+      "id": 900,
+      "nombre": "THOR",
+      "cantidad": 1
+    },
+    {
+      "id": 886,
+      "nombre": "KARNAK",
       "cantidad": 1
     }
   ]

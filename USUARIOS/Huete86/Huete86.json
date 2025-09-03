@@ -3084,7 +3084,7 @@
     {
       "id": 870,
       "nombre": "BARON-ZEMO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 852,
@@ -3364,7 +3364,7 @@
     {
       "id": 856,
       "nombre": "BEETLEJUICE-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 816,
@@ -3434,7 +3434,7 @@
     {
       "id": 863,
       "nombre": "PREDATOR-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 940,
@@ -3554,7 +3554,7 @@
     {
       "id": 970,
       "nombre": "6-VICKY-EL-VIKINGO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 960,
@@ -3704,7 +3704,7 @@
     {
       "id": 949,
       "nombre": "1-DARTACAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 921,
@@ -3724,7 +3724,7 @@
     {
       "id": 992,
       "nombre": "DORAEMON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 183,
@@ -3749,7 +3749,7 @@
     {
       "id": 988,
       "nombre": "ASH-&-PIKACHU",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1001,
@@ -3759,6 +3759,56 @@
     {
       "id": 659,
       "nombre": "DB-047",
+      "cantidad": 1
+    },
+    {
+      "id": 1008,
+      "nombre": "SAKURA",
+      "cantidad": 1
+    },
+    {
+      "id": 1005,
+      "nombre": "RANMA-1_2",
+      "cantidad": 2
+    },
+    {
+      "id": 1006,
+      "nombre": "REENA-&-GAUDY",
+      "cantidad": 1
+    },
+    {
+      "id": 986,
+      "nombre": "15-BALOO",
+      "cantidad": 1
+    },
+    {
+      "id": 977,
+      "nombre": "13-ODIE",
+      "cantidad": 1
+    },
+    {
+      "id": 976,
+      "nombre": "7-SABIONDO",
+      "cantidad": 1
+    },
+    {
+      "id": 979,
+      "nombre": "14-CHARLENE-SINCLAIR",
+      "cantidad": 1
+    },
+    {
+      "id": 985,
+      "nombre": "ALF-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 881,
+      "nombre": "HAWKEYE",
+      "cantidad": 1
+    },
+    {
+      "id": 887,
+      "nombre": "LOCKJAW",
       "cantidad": 1
     }
   ]

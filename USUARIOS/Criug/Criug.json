@@ -2719,7 +2719,7 @@
     {
       "id": 891,
       "nombre": "MODOK",
-      "cantidad": 2
+      "cantidad": 4
     },
     {
       "id": 793,
@@ -3014,7 +3014,7 @@
     {
       "id": 869,
       "nombre": "ARNIM-ZOLA",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 385,
@@ -3264,7 +3264,7 @@
     {
       "id": 861,
       "nombre": "MARTY-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 513,
@@ -3469,7 +3469,7 @@
     {
       "id": 863,
       "nombre": "PREDATOR-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 275,
@@ -3514,7 +3514,7 @@
     {
       "id": 893,
       "nombre": "OCTOPUS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 475,
@@ -3614,12 +3614,12 @@
     {
       "id": 949,
       "nombre": "1-DARTACAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 959,
       "nombre": "3-DR.WATSON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 972,
@@ -3634,7 +3634,7 @@
     {
       "id": 966,
       "nombre": "4-ROMY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 859,
@@ -3694,7 +3694,7 @@
     {
       "id": 954,
       "nombre": "2-CHIP",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 948,
@@ -3949,7 +3949,7 @@
     {
       "id": 969,
       "nombre": "5-DAVID-EL-GNOMO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 343,
@@ -3989,6 +3989,26 @@
     {
       "id": 953,
       "nombre": "12-MARCO-&-AMELIO",
+      "cantidad": 1
+    },
+    {
+      "id": 979,
+      "nombre": "14-CHARLENE-SINCLAIR",
+      "cantidad": 1
+    },
+    {
+      "id": 985,
+      "nombre": "ALF-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 900,
+      "nombre": "THOR",
+      "cantidad": 1
+    },
+    {
+      "id": 879,
+      "nombre": "GHOST-RIDER",
       "cantidad": 1
     }
   ]

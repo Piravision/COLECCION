@@ -1714,7 +1714,7 @@
     {
       "id": 972,
       "nombre": "8-MAYA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 964,
@@ -1724,12 +1724,12 @@
     {
       "id": 966,
       "nombre": "4-ROMY",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 960,
       "nombre": "3-LESTRADE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 961,
@@ -1789,7 +1789,7 @@
     {
       "id": 963,
       "nombre": "3-SRA.-HUDSON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 855,
@@ -1929,7 +1929,7 @@
     {
       "id": 1003,
       "nombre": "NINJA-ATORI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1005,
@@ -1959,6 +1959,36 @@
     {
       "id": 119,
       "nombre": "orko",
+      "cantidad": 1
+    },
+    {
+      "id": 1009,
+      "nombre": "SHIN-CHAN",
+      "cantidad": 1
+    },
+    {
+      "id": 996,
+      "nombre": "I.KUROSAKI",
+      "cantidad": 1
+    },
+    {
+      "id": 1012,
+      "nombre": "Y.HURAMESHI",
+      "cantidad": 1
+    },
+    {
+      "id": 1008,
+      "nombre": "SAKURA",
+      "cantidad": 1
+    },
+    {
+      "id": 1014,
+      "nombre": "YUGI",
+      "cantidad": 1
+    },
+    {
+      "id": 970,
+      "nombre": "6-VICKY-EL-VIKINGO",
       "cantidad": 1
     }
   ]
