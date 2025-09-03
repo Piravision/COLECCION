@@ -169,7 +169,7 @@
     {
       "id": 172,
       "nombre": "May Parker",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 441,
@@ -574,7 +574,7 @@
     {
       "id": 226,
       "nombre": "Guerreros de Piedra",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 363,
@@ -779,7 +779,7 @@
     {
       "id": 553,
       "nombre": "GOKU-JAIL",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 557,
@@ -1179,7 +1179,7 @@
     {
       "id": 535,
       "nombre": "Venkman-Jail",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 8,
@@ -2184,7 +2184,7 @@
     {
       "id": 619,
       "nombre": "DB-007",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 564,
@@ -2334,7 +2334,7 @@
     {
       "id": 844,
       "nombre": "HONDA2",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 770,
@@ -3864,6 +3864,21 @@
     {
       "id": 792,
       "nombre": "HARLEY-QUEEN",
+      "cantidad": 1
+    },
+    {
+      "id": 20,
+      "nombre": "Skulkur",
+      "cantidad": 1
+    },
+    {
+      "id": 301,
+      "nombre": "Astrotrain",
+      "cantidad": 1
+    },
+    {
+      "id": 489,
+      "nombre": "sparx",
       "cantidad": 1
     }
   ]
