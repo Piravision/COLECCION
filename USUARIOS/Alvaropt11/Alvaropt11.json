@@ -3254,7 +3254,7 @@
         {
             "id": 903,
             "nombre": "BIZARRE",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 853,
@@ -3904,6 +3904,11 @@
         {
             "id": 924,
             "nombre": "VISITOR-SOLDIER",
+            "cantidad": 1
+        },
+        {
+            "id": 386,
+            "nombre": "CROMO PERSONAJE",
             "cantidad": 1
         }
     ]

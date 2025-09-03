@@ -854,7 +854,7 @@
         {
             "id": 386,
             "nombre": "CROMO PERSONAJE",
-            "cantidad": 6
+            "cantidad": 5
         },
         {
             "id": 308,
@@ -3999,6 +3999,11 @@
         {
             "id": 838,
             "nombre": "dhalsim2",
+            "cantidad": 1
+        },
+        {
+            "id": 903,
+            "nombre": "BIZARRE",
             "cantidad": 1
         }
     ]
