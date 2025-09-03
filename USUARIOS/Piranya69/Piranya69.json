@@ -649,7 +649,7 @@
     {
       "id": 222,
       "nombre": "Espada de Metal Estrella",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 25,
@@ -669,7 +669,7 @@
     {
       "id": 275,
       "nombre": "Usagi Yojimbo",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 93,
@@ -724,7 +724,7 @@
     {
       "id": 419,
       "nombre": "lquid",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 363,
@@ -1024,7 +1024,7 @@
     {
       "id": 403,
       "nombre": "red",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 80,
@@ -1404,7 +1404,7 @@
     {
       "id": 241,
       "nombre": "Thunder Tank",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 505,
@@ -1684,7 +1684,7 @@
     {
       "id": 326,
       "nombre": "Blob",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 350,
@@ -2134,7 +2134,7 @@
     {
       "id": 600,
       "nombre": "NATUREZA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 69,
@@ -2144,7 +2144,7 @@
     {
       "id": 553,
       "nombre": "GOKU-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 558,
@@ -2294,7 +2294,7 @@
     {
       "id": 3,
       "nombre": "Juez J. Bella",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 378,
@@ -2609,7 +2609,7 @@
     {
       "id": 4,
       "nombre": "Tex Hex",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 176,
@@ -2679,7 +2679,7 @@
     {
       "id": 14,
       "nombre": "Snagg",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 556,
@@ -2739,7 +2739,7 @@
     {
       "id": 751,
       "nombre": "Minos",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 669,
@@ -2884,7 +2884,7 @@
     {
       "id": 1,
       "nombre": "30 30",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 250,
@@ -3049,7 +3049,7 @@
     {
       "id": 803,
       "nombre": "SELINA-KYLE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 212,
@@ -3174,7 +3174,7 @@
     {
       "id": 770,
       "nombre": "red",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 388,
@@ -3209,7 +3209,7 @@
     {
       "id": 758,
       "nombre": "Shaka-de-Virgo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 589,
@@ -3219,7 +3219,7 @@
     {
       "id": 856,
       "nombre": "BEETLEJUICE-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 822,
@@ -3664,7 +3664,7 @@
     {
       "id": 885,
       "nombre": "IRON-MAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 940,
@@ -3674,7 +3674,7 @@
     {
       "id": 857,
       "nombre": "DOC-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 859,
@@ -3939,7 +3939,7 @@
     {
       "id": 1007,
       "nombre": "SAILOR-MOON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 952,
@@ -3994,6 +3994,61 @@
     {
       "id": 1006,
       "nombre": "REENA-&-GAUDY",
+      "cantidad": 1
+    },
+    {
+      "id": 926,
+      "nombre": "BATISTA",
+      "cantidad": 1
+    },
+    {
+      "id": 595,
+      "nombre": "JULIAN-ROSS",
+      "cantidad": 1
+    },
+    {
+      "id": 762,
+      "nombre": "bkue",
+      "cantidad": 1
+    },
+    {
+      "id": 1010,
+      "nombre": "LUPIN-III",
+      "cantidad": 1
+    },
+    {
+      "id": 602,
+      "nombre": "PAUL-DIAMOND",
+      "cantidad": 1
+    },
+    {
+      "id": 957,
+      "nombre": "2-MONTERREY-JACK",
+      "cantidad": 1
+    },
+    {
+      "id": 806,
+      "nombre": "JADE",
+      "cantidad": 1
+    },
+    {
+      "id": 991,
+      "nombre": "CONAN-EDOGAWA",
+      "cantidad": 1
+    },
+    {
+      "id": 607,
+      "nombre": "SANDY-WINTERS",
+      "cantidad": 1
+    },
+    {
+      "id": 791,
+      "nombre": "GORDON",
+      "cantidad": 1
+    },
+    {
+      "id": 784,
+      "nombre": "BULLOCK",
       "cantidad": 1
     }
   ]
