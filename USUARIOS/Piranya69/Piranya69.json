@@ -3684,7 +3684,7 @@
         {
             "id": 939,
             "nombre": "GHOSTFACE-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 864,
@@ -4429,6 +4429,11 @@
         {
             "id": 15,
             "nombre": "Zula",
+            "cantidad": 1
+        },
+        {
+            "id": 941,
+            "nombre": "GREMLIN-JAIL",
             "cantidad": 1
         }
     ]
