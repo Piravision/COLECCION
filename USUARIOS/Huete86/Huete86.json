@@ -2394,7 +2394,7 @@
         {
             "id": 118,
             "nombre": "Man at Arms",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 329,
@@ -3894,6 +3894,11 @@
         {
             "id": 128,
             "nombre": "Faker",
+            "cantidad": 1
+        },
+        {
+            "id": 134,
+            "nombre": "Tri Klops",
             "cantidad": 1
         }
     ]

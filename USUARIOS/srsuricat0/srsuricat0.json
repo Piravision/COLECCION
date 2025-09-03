@@ -229,7 +229,7 @@
     {
       "id": 113,
       "nombre": "Serpentor",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 332,
@@ -864,7 +864,7 @@
     {
       "id": 535,
       "nombre": "Venkman-Jail",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 418,
@@ -884,7 +884,7 @@
     {
       "id": 221,
       "nombre": "Espada Atlantean",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 283,
@@ -894,7 +894,7 @@
     {
       "id": 195,
       "nombre": "Moby Lick",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 196,
@@ -1139,7 +1139,7 @@
     {
       "id": 547,
       "nombre": "ROCKY",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 175,
@@ -1649,7 +1649,7 @@
     {
       "id": 198,
       "nombre": "Slammu",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 327,
@@ -1764,7 +1764,7 @@
     {
       "id": 554,
       "nombre": "HANSOLO-JAIL",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 363,
@@ -1864,7 +1864,7 @@
     {
       "id": 97,
       "nombre": "Armadura Xanatos",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 538,
@@ -1924,7 +1924,7 @@
     {
       "id": 23,
       "nombre": "Amo del Calabozo",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 413,
@@ -1949,7 +1949,7 @@
     {
       "id": 144,
       "nombre": "Grin-Hardwing",
-      "cantidad": 3
+      "cantidad": 5
     },
     {
       "id": 229,
@@ -1994,7 +1994,7 @@
     {
       "id": 82,
       "nombre": "zaboera",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 85,
@@ -2749,7 +2749,7 @@
     {
       "id": 502,
       "nombre": "viktor",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 676,
@@ -2824,7 +2824,7 @@
     {
       "id": 678,
       "nombre": "DB-066",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 709,
@@ -3659,7 +3659,7 @@
     {
       "id": 904,
       "nombre": "CLARK-KENT",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 885,
@@ -3769,7 +3769,7 @@
     {
       "id": 849,
       "nombre": "SAGAT",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 934,
@@ -3954,6 +3954,31 @@
     {
       "id": 969,
       "nombre": "5-DAVID-EL-GNOMO",
+      "cantidad": 1
+    },
+    {
+      "id": 789,
+      "nombre": "ENIGMA",
+      "cantidad": 1
+    },
+    {
+      "id": 612,
+      "nombre": "TOM-BAKER",
+      "cantidad": 1
+    },
+    {
+      "id": 702,
+      "nombre": "DB-090",
+      "cantidad": 1
+    },
+    {
+      "id": 811,
+      "nombre": "KITANA",
+      "cantidad": 1
+    },
+    {
+      "id": 921,
+      "nombre": "JULIET-PARRISH",
       "cantidad": 1
     }
   ]
