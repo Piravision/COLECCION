@@ -839,7 +839,7 @@
     {
       "id": 551,
       "nombre": "BARRACUS-JAIL",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 552,
@@ -1414,7 +1414,7 @@
     {
       "id": 509,
       "nombre": "NINA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 822,
@@ -1814,7 +1814,7 @@
     {
       "id": 506,
       "nombre": "jin",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 336,
@@ -2184,7 +2184,7 @@
     {
       "id": 221,
       "nombre": "Espada Atlantean",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 12,
@@ -3934,7 +3934,7 @@
     {
       "id": 577,
       "nombre": "ALAN-PASCAL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1008,
@@ -3994,6 +3994,11 @@
     {
       "id": 439,
       "nombre": "mudokons",
+      "cantidad": 1
+    },
+    {
+      "id": 507,
+      "nombre": "KING",
       "cantidad": 1
     }
   ]

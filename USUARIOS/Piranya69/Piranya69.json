@@ -1504,7 +1504,7 @@
         {
             "id": 70,
             "nombre": "hadlar",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 44,
@@ -2624,7 +2624,7 @@
         {
             "id": 617,
             "nombre": "DB-005",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 719,
@@ -3104,7 +3104,7 @@
         {
             "id": 837,
             "nombre": "DALSHIM",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 808,
@@ -3529,7 +3529,7 @@
         {
             "id": 931,
             "nombre": "RANDY-ORTON",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 708,
@@ -4474,6 +4474,11 @@
         {
             "id": 322,
             "nombre": "Rondador Nocturno",
+            "cantidad": 1
+        },
+        {
+            "id": 457,
+            "nombre": "hayato",
             "cantidad": 1
         }
     ]
