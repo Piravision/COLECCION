@@ -2359,7 +2359,7 @@
         {
             "id": 912,
             "nombre": "SINIESTRO",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 908,
@@ -3954,6 +3954,11 @@
         {
             "id": 420,
             "nombre": "mei",
+            "cantidad": 1
+        },
+        {
+            "id": 921,
+            "nombre": "JULIET-PARRISH",
             "cantidad": 1
         }
     ]
