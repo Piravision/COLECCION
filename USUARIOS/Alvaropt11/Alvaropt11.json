@@ -1374,7 +1374,7 @@
         {
             "id": 537,
             "nombre": "BOLO-YEUNG",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 486,
@@ -3939,6 +3939,11 @@
         {
             "id": 492,
             "nombre": "toasty",
+            "cantidad": 1
+        },
+        {
+            "id": 985,
+            "nombre": "ALF-JAIL",
             "cantidad": 1
         }
     ]
