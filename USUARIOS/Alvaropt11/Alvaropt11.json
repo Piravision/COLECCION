@@ -3549,7 +3549,7 @@
         {
             "id": 15,
             "nombre": "Zula",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 918,
@@ -3944,6 +3944,11 @@
         {
             "id": 985,
             "nombre": "ALF-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 865,
+            "nombre": "ROBOCOP-JAIL",
             "cantidad": 1
         }
     ]

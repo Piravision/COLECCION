@@ -404,7 +404,7 @@
     {
       "id": 289,
       "nombre": "Tokka",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 341,
@@ -704,7 +704,7 @@
     {
       "id": 212,
       "nombre": "Asteroide M",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 191,
@@ -1434,7 +1434,7 @@
     {
       "id": 351,
       "nombre": "reaper",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 525,
@@ -1784,7 +1784,7 @@
     {
       "id": 272,
       "nombre": "Panda Khan",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 218,
@@ -3174,7 +3174,7 @@
     {
       "id": 270,
       "nombre": "Napoleon Bonafrog",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 448,
@@ -3974,6 +3974,11 @@
     {
       "id": 813,
       "nombre": "LIU-KANG",
+      "cantidad": 1
+    },
+    {
+      "id": 158,
+      "nombre": "Copper Kid",
       "cantidad": 1
     }
   ]
