@@ -3134,7 +3134,7 @@
         {
             "id": 11,
             "nombre": "Greywolf",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 527,
@@ -3929,6 +3929,11 @@
         {
             "id": 407,
             "nombre": "yuffie",
+            "cantidad": 1
+        },
+        {
+            "id": 396,
+            "nombre": "aeris",
             "cantidad": 1
         }
     ]
