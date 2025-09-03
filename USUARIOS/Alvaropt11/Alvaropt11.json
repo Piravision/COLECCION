@@ -284,7 +284,7 @@
         {
             "id": 405,
             "nombre": "tifa",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 129,
@@ -494,7 +494,7 @@
         {
             "id": 75,
             "nombre": "mac",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 528,
@@ -849,7 +849,7 @@
         {
             "id": 555,
             "nombre": "INDIANA-JONES-JAIL",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 133,
@@ -2339,7 +2339,7 @@
         {
             "id": 770,
             "nombre": "red",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 164,
@@ -3924,6 +3924,11 @@
         {
             "id": 917,
             "nombre": "MYERS-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 407,
+            "nombre": "yuffie",
             "cantidad": 1
         }
     ]
