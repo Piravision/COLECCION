@@ -1199,7 +1199,7 @@
         {
             "id": 415,
             "nombre": "emme",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 705,
@@ -3949,6 +3949,11 @@
         {
             "id": 865,
             "nombre": "ROBOCOP-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 420,
+            "nombre": "mei",
             "cantidad": 1
         }
     ]

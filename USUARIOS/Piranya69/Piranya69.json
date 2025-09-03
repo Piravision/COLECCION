@@ -464,7 +464,7 @@
         {
             "id": 420,
             "nombre": "mei",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 302,
@@ -4434,6 +4434,11 @@
         {
             "id": 941,
             "nombre": "GREMLIN-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 415,
+            "nombre": "emme",
             "cantidad": 1
         }
     ]
