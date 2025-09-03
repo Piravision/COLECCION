@@ -629,7 +629,7 @@
         {
             "id": 388,
             "nombre": "koala2",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 121,
@@ -4004,6 +4004,11 @@
         {
             "id": 903,
             "nombre": "BIZARRE",
+            "cantidad": 1
+        },
+        {
+            "id": 912,
+            "nombre": "SINIESTRO",
             "cantidad": 1
         }
     ]
