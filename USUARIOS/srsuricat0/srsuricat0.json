@@ -459,7 +459,7 @@
         {
             "id": 322,
             "nombre": "Rondador Nocturno",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 461,
@@ -4094,6 +4094,11 @@
         {
             "id": 441,
             "nombre": "slig",
+            "cantidad": 1
+        },
+        {
+            "id": 202,
+            "nombre": "Killamari",
             "cantidad": 1
         }
     ]
