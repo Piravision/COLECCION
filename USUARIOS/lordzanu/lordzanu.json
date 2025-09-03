@@ -234,7 +234,7 @@
     {
       "id": 530,
       "nombre": "Axel-Foley-Jail",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 389,
@@ -429,7 +429,7 @@
     {
       "id": 558,
       "nombre": "LUKE-SKYWALKER-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 193,
@@ -1649,6 +1649,26 @@
     {
       "id": 986,
       "nombre": "15-BALOO",
+      "cantidad": 1
+    },
+    {
+      "id": 508,
+      "nombre": "law",
+      "cantidad": 1
+    },
+    {
+      "id": 570,
+      "nombre": "MILLION-DOLLAR-MAN",
+      "cantidad": 1
+    },
+    {
+      "id": 880,
+      "nombre": "GREEN-GOBLIN",
+      "cantidad": 1
+    },
+    {
+      "id": 756,
+      "nombre": "Rhadamantis2",
       "cantidad": 1
     }
   ]
