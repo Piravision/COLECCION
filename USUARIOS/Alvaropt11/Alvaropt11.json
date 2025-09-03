@@ -3269,7 +3269,7 @@
         {
             "id": 904,
             "nombre": "CLARK-KENT",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 275,
@@ -3959,6 +3959,11 @@
         {
             "id": 921,
             "nombre": "JULIET-PARRISH",
+            "cantidad": 1
+        },
+        {
+            "id": 274,
+            "nombre": "Ray Fillet",
             "cantidad": 1
         }
     ]
