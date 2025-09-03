@@ -159,7 +159,7 @@
     {
       "id": 327,
       "nombre": "Dientes de Sable",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 81,
@@ -1024,7 +1024,7 @@
     {
       "id": 526,
       "nombre": "Júbilo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 349,
@@ -1844,7 +1844,7 @@
     {
       "id": 233,
       "nombre": "Mutant Tank",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 90,
@@ -2249,6 +2249,21 @@
     {
       "id": 886,
       "nombre": "KARNAK",
+      "cantidad": 1
+    },
+    {
+      "id": 335,
+      "nombre": "Toad",
+      "cantidad": 1
+    },
+    {
+      "id": 651,
+      "nombre": "DB-039",
+      "cantidad": 1
+    },
+    {
+      "id": 922,
+      "nombre": "LYDIA",
       "cantidad": 1
     }
   ]

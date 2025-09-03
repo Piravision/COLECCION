@@ -1379,7 +1379,7 @@
         {
             "id": 486,
             "nombre": "gnasty-gnorc",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 181,
@@ -3934,6 +3934,11 @@
         {
             "id": 396,
             "nombre": "aeris",
+            "cantidad": 1
+        },
+        {
+            "id": 492,
+            "nombre": "toasty",
             "cantidad": 1
         }
     ]
