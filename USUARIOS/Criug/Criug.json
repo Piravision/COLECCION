@@ -859,7 +859,7 @@
         {
             "id": 100,
             "nombre": "Flint",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 209,
@@ -4204,6 +4204,11 @@
         {
             "id": 878,
             "nombre": "FALCON",
+            "cantidad": 1
+        },
+        {
+            "id": 114,
+            "nombre": "Storm Shadow",
             "cantidad": 1
         }
     ]
