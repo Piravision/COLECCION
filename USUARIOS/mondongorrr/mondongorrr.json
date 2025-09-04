@@ -54,7 +54,7 @@
         {
             "id": 241,
             "nombre": "Thunder Tank",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 297,
@@ -184,7 +184,7 @@
         {
             "id": 671,
             "nombre": "DB-059",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 470,
@@ -519,7 +519,7 @@
         {
             "id": 191,
             "nombre": "Venom",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 318,
@@ -544,7 +544,7 @@
         {
             "id": 101,
             "nombre": "Duke",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 392,
@@ -729,7 +729,7 @@
         {
             "id": 791,
             "nombre": "GORDON",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 350,
@@ -959,7 +959,7 @@
         {
             "id": 432,
             "nombre": "solid2",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 690,
@@ -1589,7 +1589,7 @@
         {
             "id": 766,
             "nombre": "goldar",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 520,
@@ -1784,7 +1784,7 @@
         {
             "id": 572,
             "nombre": "Sgt.-SLAUGTHER",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 179,
@@ -1844,7 +1844,7 @@
         {
             "id": 186,
             "nombre": "Mysterio",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 345,
@@ -2019,7 +2019,7 @@
         {
             "id": 190,
             "nombre": "Vandame-Bloodsport",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 337,
@@ -2239,7 +2239,7 @@
         {
             "id": 695,
             "nombre": "DB-083",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 886,
@@ -2369,7 +2369,7 @@
         {
             "id": 93,
             "nombre": "Elisa Maza",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 753,
@@ -2399,12 +2399,12 @@
         {
             "id": 704,
             "nombre": "DB-092",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 551,
             "nombre": "BARRACUS-JAIL",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 138,
@@ -2554,7 +2554,7 @@
         {
             "id": 489,
             "nombre": "sparx",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 490,
@@ -2774,6 +2774,91 @@
         {
             "id": 948,
             "nombre": "1-ATHOS",
+            "cantidad": 1
+        },
+        {
+            "id": 418,
+            "nombre": "grayfox2",
+            "cantidad": 1
+        },
+        {
+            "id": 433,
+            "nombre": "vincent",
+            "cantidad": 1
+        },
+        {
+            "id": 126,
+            "nombre": "Beastman",
+            "cantidad": 1
+        },
+        {
+            "id": 981,
+            "nombre": "14-ETHYL-PHILLIPS",
+            "cantidad": 1
+        },
+        {
+            "id": 922,
+            "nombre": "LYDIA",
+            "cantidad": 1
+        },
+        {
+            "id": 577,
+            "nombre": "ALAN-PASCAL",
+            "cantidad": 1
+        },
+        {
+            "id": 58,
+            "nombre": "rey romos",
+            "cantidad": 1
+        },
+        {
+            "id": 399,
+            "nombre": "cait",
+            "cantidad": 1
+        },
+        {
+            "id": 1010,
+            "nombre": "LUPIN-III",
+            "cantidad": 1
+        },
+        {
+            "id": 662,
+            "nombre": "DB-050",
+            "cantidad": 1
+        },
+        {
+            "id": 760,
+            "nombre": "Shura-de-Capricornio",
+            "cantidad": 1
+        },
+        {
+            "id": 249,
+            "nombre": "Pomara",
+            "cantidad": 1
+        },
+        {
+            "id": 931,
+            "nombre": "RANDY-ORTON",
+            "cantidad": 1
+        },
+        {
+            "id": 646,
+            "nombre": "DB-034",
+            "cantidad": 1
+        },
+        {
+            "id": 233,
+            "nombre": "Mutant Tank",
+            "cantidad": 1
+        },
+        {
+            "id": 940,
+            "nombre": "GIZMO-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 800,
+            "nombre": "RAS-AL-GHUL",
             "cantidad": 1
         }
     ]
