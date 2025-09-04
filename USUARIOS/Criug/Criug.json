@@ -959,7 +959,7 @@
     {
       "id": 523,
       "nombre": "lara2",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 165,
@@ -1339,7 +1339,7 @@
     {
       "id": 146,
       "nombre": "Siege",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 648,
@@ -1349,7 +1349,7 @@
     {
       "id": 63,
       "nombre": "drabaran",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 525,
@@ -1409,7 +1409,7 @@
     {
       "id": 359,
       "nombre": "long",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 622,
@@ -1419,7 +1419,7 @@
     {
       "id": 501,
       "nombre": "SOLON",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 215,
@@ -1564,7 +1564,7 @@
     {
       "id": 46,
       "nombre": "gome",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 172,
@@ -2459,7 +2459,7 @@
     {
       "id": 45,
       "nombre": "garuda",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 591,
@@ -2784,7 +2784,7 @@
     {
       "id": 439,
       "nombre": "mudokons",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 799,
@@ -2794,7 +2794,7 @@
     {
       "id": 655,
       "nombre": "DB-043",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 756,
@@ -3194,7 +3194,7 @@
     {
       "id": 874,
       "nombre": "CAPTAIN-AMERICA",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 857,
@@ -3824,7 +3824,7 @@
     {
       "id": 936,
       "nombre": "THE-ROCK",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 775,
@@ -4149,6 +4149,11 @@
     {
       "id": 386,
       "nombre": "CROMO PERSONAJE",
+      "cantidad": 1
+    },
+    {
+      "id": 986,
+      "nombre": "15-BALOO",
       "cantidad": 1
     }
   ]

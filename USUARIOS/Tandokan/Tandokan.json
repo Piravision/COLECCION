@@ -9,7 +9,7 @@
     {
       "id": 157,
       "nombre": "Bluegrass",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 610,
@@ -464,7 +464,7 @@
     {
       "id": 760,
       "nombre": "Shura-de-Capricornio",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 42,
@@ -1054,7 +1054,7 @@
     {
       "id": 222,
       "nombre": "Espada de Metal Estrella",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 676,
@@ -1134,7 +1134,7 @@
     {
       "id": 458,
       "nombre": "hinata",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 597,
@@ -1214,7 +1214,7 @@
     {
       "id": 783,
       "nombre": "BRUCE-WAYNE",
-      "cantidad": 2
+      "cantidad": 4
     },
     {
       "id": 778,
@@ -1224,7 +1224,7 @@
     {
       "id": 793,
       "nombre": "HIEDRA-",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 782,
@@ -1744,7 +1744,7 @@
     {
       "id": 52,
       "nombre": "marin",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 224,
@@ -3139,6 +3139,81 @@
     {
       "id": 18,
       "nombre": "Mesmira",
+      "cantidad": 1
+    },
+    {
+      "id": 888,
+      "nombre": "LOKI",
+      "cantidad": 1
+    },
+    {
+      "id": 794,
+      "nombre": "HUGO-STRANGE",
+      "cantidad": 1
+    },
+    {
+      "id": 792,
+      "nombre": "HARLEY-QUEEN",
+      "cantidad": 1
+    },
+    {
+      "id": 925,
+      "nombre": "WILLY-",
+      "cantidad": 1
+    },
+    {
+      "id": 924,
+      "nombre": "VISITOR-SOLDIER",
+      "cantidad": 1
+    },
+    {
+      "id": 919,
+      "nombre": "DONOVAN",
+      "cantidad": 1
+    },
+    {
+      "id": 940,
+      "nombre": "GIZMO-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 790,
+      "nombre": "ESPANTAPAJAROS",
+      "cantidad": 1
+    },
+    {
+      "id": 965,
+      "nombre": "4-RIGODON",
+      "cantidad": 1
+    },
+    {
+      "id": 144,
+      "nombre": "Grin-Hardwing",
+      "cantidad": 1
+    },
+    {
+      "id": 320,
+      "nombre": "Psylocke",
+      "cantidad": 1
+    },
+    {
+      "id": 46,
+      "nombre": "gome",
+      "cantidad": 1
+    },
+    {
+      "id": 890,
+      "nombre": "MEDUSA",
+      "cantidad": 1
+    },
+    {
+      "id": 874,
+      "nombre": "CAPTAIN-AMERICA",
+      "cantidad": 1
+    },
+    {
+      "id": 268,
+      "nombre": "Michelangelo",
       "cantidad": 1
     }
   ]

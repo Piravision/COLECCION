@@ -109,7 +109,7 @@
     {
       "id": 268,
       "nombre": "Michelangelo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 78,
@@ -1339,7 +1339,7 @@
     {
       "id": 155,
       "nombre": "Lawrence Limburger_",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 283,
@@ -1414,7 +1414,7 @@
     {
       "id": 243,
       "nombre": "Cheetara",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 533,
@@ -1484,7 +1484,7 @@
     {
       "id": 619,
       "nombre": "DB-007",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 712,
@@ -1709,7 +1709,7 @@
     {
       "id": 696,
       "nombre": "DB-084",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 584,
@@ -1929,7 +1929,7 @@
     {
       "id": 677,
       "nombre": "DB-065",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 492,
@@ -2209,7 +2209,7 @@
     {
       "id": 629,
       "nombre": "DB-017",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 262,
@@ -3099,7 +3099,7 @@
     {
       "id": 746,
       "nombre": "Deathmask-de-Cancer",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 362,
@@ -3109,7 +3109,7 @@
     {
       "id": 707,
       "nombre": "DB-095",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 13,
@@ -3304,7 +3304,7 @@
     {
       "id": 907,
       "nombre": "FLASH",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 88,
@@ -3359,7 +3359,7 @@
     {
       "id": 701,
       "nombre": "DB-089",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 856,
@@ -3749,7 +3749,7 @@
     {
       "id": 1001,
       "nombre": "MUSCULMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 659,
@@ -3879,7 +3879,7 @@
     {
       "id": 959,
       "nombre": "3-DR.WATSON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 121,
@@ -3904,7 +3904,7 @@
     {
       "id": 867,
       "nombre": "SONNY-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1,
@@ -3984,6 +3984,26 @@
     {
       "id": 784,
       "nombre": "BULLOCK",
+      "cantidad": 1
+    },
+    {
+      "id": 324,
+      "nombre": "Wolverine",
+      "cantidad": 1
+    },
+    {
+      "id": 956,
+      "nombre": "2-GADGET",
+      "cantidad": 1
+    },
+    {
+      "id": 806,
+      "nombre": "JADE",
+      "cantidad": 1
+    },
+    {
+      "id": 513,
+      "nombre": "DISCÍPULOS-DE-AVAN",
       "cantidad": 1
     }
   ]
