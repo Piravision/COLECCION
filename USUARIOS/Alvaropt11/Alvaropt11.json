@@ -589,7 +589,7 @@
         {
             "id": 248,
             "nombre": "Panthro",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 246,
@@ -4039,6 +4039,11 @@
         {
             "id": 774,
             "nombre": "white",
+            "cantidad": 1
+        },
+        {
+            "id": 3,
+            "nombre": "Juez J. Bella",
             "cantidad": 1
         }
     ]
