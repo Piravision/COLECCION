@@ -2214,7 +2214,7 @@
         {
             "id": 710,
             "nombre": "DB-098",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 345,
@@ -4134,6 +4134,11 @@
         {
             "id": 49,
             "nombre": "leona",
+            "cantidad": 1
+        },
+        {
+            "id": 53,
+            "nombre": "marirov",
             "cantidad": 1
         }
     ]
