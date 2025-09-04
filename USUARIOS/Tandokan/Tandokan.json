@@ -64,7 +64,7 @@
     {
       "id": 472,
       "nombre": "grey",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 373,
@@ -1839,7 +1839,7 @@
     {
       "id": 842,
       "nombre": "GUILE2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 684,
@@ -1899,7 +1899,7 @@
     {
       "id": 576,
       "nombre": "ALAN-CROCKET",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 86,
@@ -2714,7 +2714,7 @@
     {
       "id": 475,
       "nombre": "Incubus",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 843,
@@ -2994,7 +2994,7 @@
     {
       "id": 970,
       "nombre": "6-VICKY-EL-VIKINGO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 962,
@@ -3274,6 +3274,11 @@
     {
       "id": 205,
       "nombre": "Shrimp Louie",
+      "cantidad": 1
+    },
+    {
+      "id": 466,
+      "nombre": "Alessa",
       "cantidad": 1
     }
   ]
