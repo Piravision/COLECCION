@@ -1609,7 +1609,7 @@
         {
             "id": 654,
             "nombre": "DB-042",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 525,
@@ -4114,6 +4114,11 @@
         {
             "id": 21,
             "nombre": "Windfang",
+            "cantidad": 1
+        },
+        {
+            "id": 27,
+            "nombre": "Hank",
             "cantidad": 1
         }
     ]
