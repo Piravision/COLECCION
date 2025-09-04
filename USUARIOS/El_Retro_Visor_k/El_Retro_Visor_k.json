@@ -779,7 +779,7 @@
         {
             "id": 29,
             "nombre": "Sheila",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 480,
@@ -4444,6 +4444,11 @@
         {
             "id": 654,
             "nombre": "DB-042",
+            "cantidad": 1
+        },
+        {
+            "id": 660,
+            "nombre": "DB-048",
             "cantidad": 1
         }
     ]
