@@ -179,7 +179,7 @@
         {
             "id": 492,
             "nombre": "toasty",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 369,
@@ -1684,7 +1684,7 @@
         {
             "id": 484,
             "nombre": "Blowhard",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 652,
@@ -3469,7 +3469,7 @@
         {
             "id": 490,
             "nombre": "spyro1",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 923,
@@ -3659,7 +3659,7 @@
         {
             "id": 966,
             "nombre": "4-ROMY",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 147,
@@ -4324,6 +4324,11 @@
         {
             "id": 308,
             "nombre": "Starscream",
+            "cantidad": 1
+        },
+        {
+            "id": 970,
+            "nombre": "6-VICKY-EL-VIKINGO",
             "cantidad": 1
         }
     ]
