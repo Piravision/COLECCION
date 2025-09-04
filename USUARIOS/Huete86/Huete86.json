@@ -974,12 +974,12 @@
     {
       "id": 222,
       "nombre": "Espada de Metal Estrella",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 322,
       "nombre": "Rondador Nocturno",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 337,
@@ -2509,7 +2509,7 @@
     {
       "id": 795,
       "nombre": "JOKER",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 810,
@@ -4084,7 +4084,7 @@
     {
       "id": 845,
       "nombre": "KEN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 791,
@@ -4124,6 +4124,16 @@
     {
       "id": 642,
       "nombre": "DB-030",
+      "cantidad": 1
+    },
+    {
+      "id": 916,
+      "nombre": "CHUKY-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1010,
+      "nombre": "LUPIN-III",
       "cantidad": 1
     }
   ]

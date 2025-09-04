@@ -734,7 +734,7 @@
     {
       "id": 531,
       "nombre": "McClane-Jail",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 303,
@@ -1014,7 +1014,7 @@
     {
       "id": 256,
       "nombre": "Mandrilo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 504,
@@ -3770,6 +3770,26 @@
       "id": 706,
       "nombre": "DB-094",
       "cantidad": 2
+    },
+    {
+      "id": 218,
+      "nombre": "Cybertron",
+      "cantidad": 1
+    },
+    {
+      "id": 280,
+      "nombre": "General Traag",
+      "cantidad": 1
+    },
+    {
+      "id": 805,
+      "nombre": "GORO",
+      "cantidad": 1
+    },
+    {
+      "id": 862,
+      "nombre": "NEO-JAIL",
+      "cantidad": 1
     }
   ]
 }

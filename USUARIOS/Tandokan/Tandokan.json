@@ -309,7 +309,7 @@
     {
       "id": 240,
       "nombre": "Terror Drome",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 460,
@@ -959,7 +959,7 @@
     {
       "id": 443,
       "nombre": "ada",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 237,
@@ -2899,7 +2899,7 @@
     {
       "id": 996,
       "nombre": "I.KUROSAKI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 871,
@@ -3054,7 +3054,7 @@
     {
       "id": 594,
       "nombre": "JUAN-DIAZ",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 462,
@@ -3364,11 +3364,16 @@
     {
       "id": 1002,
       "nombre": "NARUTO-UZUMAKI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 307,
       "nombre": "Skywarp",
+      "cantidad": 1
+    },
+    {
+      "id": 1000,
+      "nombre": "SON-GOKU",
       "cantidad": 1
     }
   ]
