@@ -14,7 +14,7 @@
         {
             "id": 297,
             "nombre": "Optimus Prime",
-            "cantidad": 6
+            "cantidad": 7
         },
         {
             "id": 528,
@@ -59,7 +59,7 @@
         {
             "id": 160,
             "nombre": "Steelheart",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 315,
@@ -124,7 +124,7 @@
         {
             "id": 169,
             "nombre": "Hombre de Hielo",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 378,
@@ -714,7 +714,7 @@
         {
             "id": 238,
             "nombre": "Snake Mountain",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 446,
@@ -904,7 +904,7 @@
         {
             "id": 453,
             "nombre": "tyrant",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 635,
@@ -1849,7 +1849,7 @@
         {
             "id": 447,
             "nombre": "hunk",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 873,
@@ -2129,7 +2129,7 @@
         {
             "id": 15,
             "nombre": "Zula",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 673,
@@ -3219,7 +3219,7 @@
         {
             "id": 505,
             "nombre": "Hwoarang",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 298,
@@ -3289,7 +3289,7 @@
         {
             "id": 450,
             "nombre": "licker",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 974,
@@ -3904,7 +3904,7 @@
         {
             "id": 924,
             "nombre": "VISITOR-SOLDIER",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 667,
@@ -4339,6 +4339,36 @@
         {
             "id": 1005,
             "nombre": "RANMA-1_2",
+            "cantidad": 1
+        },
+        {
+            "id": 711,
+            "nombre": "DB-099",
+            "cantidad": 1
+        },
+        {
+            "id": 397,
+            "nombre": "avalanche",
+            "cantidad": 1
+        },
+        {
+            "id": 57,
+            "nombre": "pop",
+            "cantidad": 1
+        },
+        {
+            "id": 668,
+            "nombre": "DB-056",
+            "cantidad": 1
+        },
+        {
+            "id": 984,
+            "nombre": "14-BABY-SINCLAIR",
+            "cantidad": 1
+        },
+        {
+            "id": 967,
+            "nombre": "4-TICO",
             "cantidad": 1
         }
     ]

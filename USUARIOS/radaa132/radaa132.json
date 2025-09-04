@@ -1864,7 +1864,7 @@
     {
       "id": 530,
       "nombre": "Axel-Foley-Jail",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 133,
@@ -1944,7 +1944,7 @@
     {
       "id": 990,
       "nombre": "CHICHO-TERREMOTO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1011,
@@ -2064,6 +2064,26 @@
     {
       "id": 537,
       "nombre": "BOLO-YEUNG",
+      "cantidad": 1
+    },
+    {
+      "id": 912,
+      "nombre": "SINIESTRO",
+      "cantidad": 1
+    },
+    {
+      "id": 956,
+      "nombre": "2-GADGET",
+      "cantidad": 1
+    },
+    {
+      "id": 880,
+      "nombre": "GREEN-GOBLIN",
+      "cantidad": 1
+    },
+    {
+      "id": 29,
+      "nombre": "Sheila",
       "cantidad": 1
     }
   ]
