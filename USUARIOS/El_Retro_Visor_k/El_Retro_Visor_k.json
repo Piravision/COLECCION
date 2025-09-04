@@ -964,7 +964,7 @@
         {
             "id": 292,
             "nombre": "Bumblebee",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 425,
@@ -4319,6 +4319,11 @@
         {
             "id": 248,
             "nombre": "Panthro",
+            "cantidad": 1
+        },
+        {
+            "id": 308,
+            "nombre": "Starscream",
             "cantidad": 1
         }
     ]
