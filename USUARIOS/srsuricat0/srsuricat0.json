@@ -549,7 +549,7 @@
         {
             "id": 211,
             "nombre": "Anillo Serpiente",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 357,
@@ -4149,6 +4149,11 @@
         {
             "id": 1009,
             "nombre": "SHIN-CHAN",
+            "cantidad": 1
+        },
+        {
+            "id": 741,
+            "nombre": "Camus-de-Acuario",
             "cantidad": 1
         }
     ]
