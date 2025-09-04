@@ -2229,7 +2229,7 @@
     {
       "id": 780,
       "nombre": "BARBARA-GORDON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 848,
@@ -3374,6 +3374,16 @@
     {
       "id": 1000,
       "nombre": "SON-GOKU",
+      "cantidad": 1
+    },
+    {
+      "id": 532,
+      "nombre": "Sarah-Connor-Jail",
+      "cantidad": 1
+    },
+    {
+      "id": 412,
+      "nombre": "big2",
       "cantidad": 1
     }
   ]
