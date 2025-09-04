@@ -1539,7 +1539,7 @@
     {
       "id": 602,
       "nombre": "PAUL-DIAMOND",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 577,
@@ -1839,7 +1839,7 @@
     {
       "id": 606,
       "nombre": "SANDY-WINTERS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 896,
@@ -2379,6 +2379,11 @@
     {
       "id": 704,
       "nombre": "DB-092",
+      "cantidad": 1
+    },
+    {
+      "id": 281,
+      "nombre": "Granitor",
       "cantidad": 1
     }
   ]
