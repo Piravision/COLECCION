@@ -3019,7 +3019,7 @@
         {
             "id": 810,
             "nombre": "KANO",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 586,
@@ -4144,6 +4144,11 @@
         {
             "id": 54,
             "nombre": "merle",
+            "cantidad": 1
+        },
+        {
+            "id": 81,
+            "nombre": "vearn",
             "cantidad": 1
         }
     ]
