@@ -2484,7 +2484,7 @@
         {
             "id": 328,
             "nombre": "Juggernaut",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 412,
@@ -4289,6 +4289,11 @@
         {
             "id": 339,
             "nombre": "Shun de Andrómeda",
+            "cantidad": 1
+        },
+        {
+            "id": 327,
+            "nombre": "Dientes de Sable",
             "cantidad": 1
         }
     ]
