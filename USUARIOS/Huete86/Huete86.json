@@ -384,7 +384,7 @@
         {
             "id": 403,
             "nombre": "red",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 369,
@@ -4054,6 +4054,11 @@
         {
             "id": 502,
             "nombre": "viktor",
+            "cantidad": 1
+        },
+        {
+            "id": 902,
+            "nombre": "AQUAMAN",
             "cantidad": 1
         }
     ]

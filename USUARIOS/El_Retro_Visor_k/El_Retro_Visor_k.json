@@ -2824,7 +2824,7 @@
         {
             "id": 902,
             "nombre": "AQUAMAN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 618,
@@ -4389,6 +4389,11 @@
         {
             "id": 254,
             "nombre": "Chacalo",
+            "cantidad": 1
+        },
+        {
+            "id": 403,
+            "nombre": "red",
             "cantidad": 1
         }
     ]
