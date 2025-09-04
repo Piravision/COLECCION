@@ -2319,7 +2319,7 @@
         {
             "id": 750,
             "nombre": "Milo-de-Escorpio",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 669,
@@ -4009,6 +4009,11 @@
         {
             "id": 328,
             "nombre": "Juggernaut",
+            "cantidad": 1
+        },
+        {
+            "id": 754,
+            "nombre": "Pandora",
             "cantidad": 1
         }
     ]

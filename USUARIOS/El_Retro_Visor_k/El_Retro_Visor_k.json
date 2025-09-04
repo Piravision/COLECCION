@@ -1939,7 +1939,7 @@
         {
             "id": 754,
             "nombre": "Pandora",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 9,
@@ -4299,6 +4299,11 @@
         {
             "id": 741,
             "nombre": "Camus-de-Acuario",
+            "cantidad": 1
+        },
+        {
+            "id": 750,
+            "nombre": "Milo-de-Escorpio",
             "cantidad": 1
         }
     ]

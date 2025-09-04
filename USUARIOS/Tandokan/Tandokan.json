@@ -244,7 +244,7 @@
     {
       "id": 700,
       "nombre": "DB-088",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 696,
@@ -3214,6 +3214,16 @@
     {
       "id": 268,
       "nombre": "Michelangelo",
+      "cantidad": 1
+    },
+    {
+      "id": 665,
+      "nombre": "DB-053",
+      "cantidad": 1
+    },
+    {
+      "id": 846,
+      "nombre": "ken2",
       "cantidad": 1
     }
   ]
