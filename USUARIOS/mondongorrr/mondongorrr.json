@@ -1474,7 +1474,7 @@
     {
       "id": 303,
       "nombre": "Megatron",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 591,
@@ -2079,7 +2079,7 @@
     {
       "id": 875,
       "nombre": "DARDEVIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 653,
@@ -2749,6 +2749,11 @@
     {
       "id": 535,
       "nombre": "Venkman-Jail",
+      "cantidad": 1
+    },
+    {
+      "id": 39,
+      "nombre": "captain",
       "cantidad": 1
     }
   ]

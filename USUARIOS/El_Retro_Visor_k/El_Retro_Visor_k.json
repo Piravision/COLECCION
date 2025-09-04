@@ -2699,7 +2699,7 @@
         {
             "id": 599,
             "nombre": "MARK-LENDERS",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 205,
@@ -4394,6 +4394,11 @@
         {
             "id": 403,
             "nombre": "red",
+            "cantidad": 1
+        },
+        {
+            "id": 580,
+            "nombre": "BRUCE-HARPER",
             "cantidad": 1
         }
     ]
