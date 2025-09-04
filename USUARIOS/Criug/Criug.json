@@ -2819,7 +2819,7 @@
         {
             "id": 872,
             "nombre": "BLACK-PANTHER",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 815,
@@ -4199,6 +4199,11 @@
         {
             "id": 875,
             "nombre": "DARDEVIL",
+            "cantidad": 1
+        },
+        {
+            "id": 878,
+            "nombre": "FALCON",
             "cantidad": 1
         }
     ]
