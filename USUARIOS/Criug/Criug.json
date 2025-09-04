@@ -999,7 +999,7 @@
     {
       "id": 6,
       "nombre": "El Patriarca",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 92,
@@ -2079,7 +2079,7 @@
     {
       "id": 616,
       "nombre": "DB-004",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 623,
@@ -2184,12 +2184,12 @@
     {
       "id": 539,
       "nombre": "BRUCE-LEE2",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 569,
       "nombre": "MACHO-MAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 118,
@@ -2649,7 +2649,7 @@
     {
       "id": 639,
       "nombre": "DB-027",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 235,
@@ -2819,7 +2819,7 @@
     {
       "id": 872,
       "nombre": "BLACK-PANTHER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 815,
@@ -3334,7 +3334,7 @@
     {
       "id": 419,
       "nombre": "lquid",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 653,
@@ -3624,7 +3624,7 @@
     {
       "id": 972,
       "nombre": "8-MAYA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 964,
@@ -4224,6 +4224,11 @@
     {
       "id": 999,
       "nombre": "LUFFY-MONKEY",
+      "cantidad": 1
+    },
+    {
+      "id": 1003,
+      "nombre": "NINJA-ATORI",
       "cantidad": 1
     }
   ]
