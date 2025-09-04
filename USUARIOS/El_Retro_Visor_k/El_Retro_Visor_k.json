@@ -724,7 +724,7 @@
         {
             "id": 511,
             "nombre": "YOSHI",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 41,
@@ -4369,6 +4369,11 @@
         {
             "id": 967,
             "nombre": "4-TICO",
+            "cantidad": 1
+        },
+        {
+            "id": 986,
+            "nombre": "15-BALOO",
             "cantidad": 1
         }
     ]

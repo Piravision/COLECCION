@@ -2939,7 +2939,7 @@
         {
             "id": 986,
             "nombre": "15-BALOO",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 977,
@@ -3264,6 +3264,11 @@
         {
             "id": 505,
             "nombre": "Hwoarang",
+            "cantidad": 1
+        },
+        {
+            "id": 511,
+            "nombre": "YOSHI",
             "cantidad": 1
         }
     ]
