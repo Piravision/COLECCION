@@ -889,7 +889,7 @@
     {
       "id": 986,
       "nombre": "15-BALOO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 941,
@@ -944,7 +944,7 @@
     {
       "id": 950,
       "nombre": "1-PORTHOS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 982,
@@ -1369,6 +1369,26 @@
     {
       "id": 739,
       "nombre": "Athenea",
+      "cantidad": 1
+    },
+    {
+      "id": 870,
+      "nombre": "BARON-ZEMO",
+      "cantidad": 1
+    },
+    {
+      "id": 942,
+      "nombre": "HANNIBAL-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 875,
+      "nombre": "DARDEVIL",
+      "cantidad": 1
+    },
+    {
+      "id": 131,
+      "nombre": "Scare Glow(",
       "cantidad": 1
     }
   ]
