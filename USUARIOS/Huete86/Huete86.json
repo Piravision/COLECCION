@@ -749,7 +749,7 @@
         {
             "id": 201,
             "nombre": "Dr. paradigma",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 129,
@@ -2349,7 +2349,7 @@
         {
             "id": 718,
             "nombre": "DB-106",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 551,
@@ -2550,11 +2550,6 @@
             "id": 730,
             "nombre": "DB-118",
             "cantidad": 2
-        },
-        {
-            "id": 793,
-            "nombre": "HIEDRA-",
-            "cantidad": 1
         },
         {
             "id": 188,
@@ -2789,7 +2784,7 @@
         {
             "id": 737,
             "nombre": "Aioros-de-Sagitario",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 666,
@@ -4099,6 +4094,11 @@
         {
             "id": 786,
             "nombre": "DICK-GRAYSON",
+            "cantidad": 1
+        },
+        {
+            "id": 778,
+            "nombre": "ALFRED",
             "cantidad": 1
         }
     ]

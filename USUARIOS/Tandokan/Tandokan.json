@@ -9,7 +9,7 @@
     {
       "id": 157,
       "nombre": "Bluegrass",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 610,
@@ -1539,7 +1539,7 @@
     {
       "id": 160,
       "nombre": "Steelheart",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 112,
@@ -3344,6 +3344,11 @@
     {
       "id": 21,
       "nombre": "Windfang",
+      "cantidad": 1
+    },
+    {
+      "id": 158,
+      "nombre": "Copper Kid",
       "cantidad": 1
     }
   ]

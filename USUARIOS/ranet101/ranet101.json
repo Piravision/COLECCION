@@ -854,7 +854,7 @@
     {
       "id": 1005,
       "nombre": "RANMA-1_2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 949,
@@ -934,7 +934,7 @@
     {
       "id": 886,
       "nombre": "KARNAK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 947,
@@ -1364,6 +1364,11 @@
     {
       "id": 498,
       "nombre": "riou",
+      "cantidad": 1
+    },
+    {
+      "id": 739,
+      "nombre": "Athenea",
       "cantidad": 1
     }
   ]
