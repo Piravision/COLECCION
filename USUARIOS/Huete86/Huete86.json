@@ -199,7 +199,7 @@
         {
             "id": 175,
             "nombre": "Buitre",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 194,
@@ -1619,7 +1619,7 @@
         {
             "id": 527,
             "nombre": "Pícara",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 532,
@@ -1849,7 +1849,7 @@
         {
             "id": 443,
             "nombre": "ada",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 4,
@@ -3749,7 +3749,7 @@
         {
             "id": 1001,
             "nombre": "MUSCULMAN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 659,
@@ -4014,6 +4014,11 @@
         {
             "id": 754,
             "nombre": "Pandora",
+            "cantidad": 1
+        },
+        {
+            "id": 989,
+            "nombre": "CAPITAN-HARLOCK",
             "cantidad": 1
         }
     ]

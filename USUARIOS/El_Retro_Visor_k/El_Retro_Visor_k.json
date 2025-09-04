@@ -2029,7 +2029,7 @@
         {
             "id": 499,
             "nombre": "seed",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 769,
@@ -3504,7 +3504,7 @@
         {
             "id": 989,
             "nombre": "CAPITAN-HARLOCK",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1006,
@@ -3684,7 +3684,7 @@
         {
             "id": 496,
             "nombre": "LUCA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 143,
@@ -4274,7 +4274,7 @@
         {
             "id": 500,
             "nombre": "shu",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 613,
@@ -4329,6 +4329,11 @@
         {
             "id": 970,
             "nombre": "6-VICKY-EL-VIKINGO",
+            "cantidad": 1
+        },
+        {
+            "id": 1001,
+            "nombre": "MUSCULMAN",
             "cantidad": 1
         }
     ]
