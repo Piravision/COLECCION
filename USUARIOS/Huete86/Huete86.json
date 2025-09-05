@@ -3229,7 +3229,7 @@
         {
             "id": 922,
             "nombre": "LYDIA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 934,
@@ -4219,6 +4219,11 @@
         {
             "id": 304,
             "nombre": "Runabout",
+            "cantidad": 1
+        },
+        {
+            "id": 307,
+            "nombre": "Skywarp",
             "cantidad": 1
         }
     ]
