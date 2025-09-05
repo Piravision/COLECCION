@@ -789,7 +789,7 @@
         {
             "id": 312,
             "nombre": "Bestia",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 191,
@@ -4749,6 +4749,11 @@
         {
             "id": 761,
             "nombre": "alpha5",
+            "cantidad": 1
+        },
+        {
+            "id": 769,
+            "nombre": "Pink",
             "cantidad": 1
         }
     ]
