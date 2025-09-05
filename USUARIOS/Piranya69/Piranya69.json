@@ -1074,7 +1074,7 @@
         {
             "id": 55,
             "nombre": "mina",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 400,
@@ -4634,6 +4634,11 @@
         {
             "id": 74,
             "nombre": "larhart",
+            "cantidad": 1
+        },
+        {
+            "id": 989,
+            "nombre": "CAPITAN-HARLOCK",
             "cantidad": 1
         }
     ]

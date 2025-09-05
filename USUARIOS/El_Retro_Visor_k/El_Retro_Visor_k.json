@@ -3504,7 +3504,7 @@
         {
             "id": 989,
             "nombre": "CAPITAN-HARLOCK",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1006,
@@ -4589,6 +4589,11 @@
         {
             "id": 42,
             "nombre": "dai 2",
+            "cantidad": 1
+        },
+        {
+            "id": 55,
+            "nombre": "mina",
             "cantidad": 1
         }
     ]
