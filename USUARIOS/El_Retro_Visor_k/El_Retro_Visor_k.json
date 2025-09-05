@@ -1379,7 +1379,7 @@
         {
             "id": 623,
             "nombre": "DB-011",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 189,
@@ -3364,7 +3364,7 @@
         {
             "id": 932,
             "nombre": "RAZOR-RAMON",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 875,
@@ -3559,7 +3559,7 @@
         {
             "id": 75,
             "nombre": "mac",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 767,
@@ -3839,7 +3839,7 @@
         {
             "id": 933,
             "nombre": "REY-MISTERIO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 805,
@@ -4534,6 +4534,11 @@
         {
             "id": 945,
             "nombre": "MASK-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 936,
+            "nombre": "THE-ROCK",
             "cantidad": 1
         }
     ]
