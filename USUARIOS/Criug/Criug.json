@@ -34,7 +34,7 @@
         {
             "id": 306,
             "nombre": "Shockwave",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 290,
@@ -3429,7 +3429,7 @@
         {
             "id": 803,
             "nombre": "SELINA-KYLE",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 818,
@@ -4239,6 +4239,21 @@
         {
             "id": 526,
             "nombre": "Júbilo",
+            "cantidad": 1
+        },
+        {
+            "id": 111,
+            "nombre": "Dr. Mindbender",
+            "cantidad": 1
+        },
+        {
+            "id": 1015,
+            "nombre": "SHAGGY--&-SCOOBY-DOO",
+            "cantidad": 1
+        },
+        {
+            "id": 865,
+            "nombre": "ROBOCOP-JAIL",
             "cantidad": 1
         }
     ]
