@@ -1589,7 +1589,7 @@
         {
             "id": 650,
             "nombre": "DB-038",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 104,
@@ -4549,6 +4549,11 @@
         {
             "id": 803,
             "nombre": "SELINA-KYLE",
+            "cantidad": 1
+        },
+        {
+            "id": 657,
+            "nombre": "DB-045",
             "cantidad": 1
         }
     ]
