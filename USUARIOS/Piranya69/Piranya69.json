@@ -784,7 +784,7 @@
         {
             "id": 529,
             "nombre": "Mística",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 312,
@@ -4674,6 +4674,11 @@
         {
             "id": 663,
             "nombre": "DB-051",
+            "cantidad": 1
+        },
+        {
+            "id": 678,
+            "nombre": "DB-066",
             "cantidad": 1
         }
     ]
