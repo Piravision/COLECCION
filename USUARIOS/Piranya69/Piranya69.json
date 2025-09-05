@@ -144,7 +144,7 @@
     {
       "id": 132,
       "nombre": "Skeletor",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 99,
@@ -299,7 +299,7 @@
     {
       "id": 101,
       "nombre": "Duke",
-      "cantidad": 9
+      "cantidad": 10
     },
     {
       "id": 334,
@@ -729,7 +729,7 @@
     {
       "id": 363,
       "nombre": "Chuache-DesafioTotal",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 130,
@@ -979,7 +979,7 @@
     {
       "id": 84,
       "nombre": "zurbon",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 375,
@@ -1124,7 +1124,7 @@
     {
       "id": 135,
       "nombre": "Afrodita A",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 395,
@@ -1169,7 +1169,7 @@
     {
       "id": 138,
       "nombre": "Dr. Hell",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 144,
@@ -1414,7 +1414,7 @@
     {
       "id": 543,
       "nombre": "DIE-HARD-III",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 424,
@@ -1674,7 +1674,7 @@
     {
       "id": 96,
       "nombre": "Lexington",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 78,
@@ -1834,7 +1834,7 @@
     {
       "id": 546,
       "nombre": "MARTY-MCFLY",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 441,
@@ -2309,7 +2309,7 @@
     {
       "id": 410,
       "nombre": "Barón-Ashura",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 667,
@@ -3359,7 +3359,7 @@
     {
       "id": 705,
       "nombre": "DB-093",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 748,
@@ -3369,7 +3369,7 @@
     {
       "id": 783,
       "nombre": "BRUCE-WAYNE",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 809,
@@ -3644,7 +3644,7 @@
     {
       "id": 588,
       "nombre": "FRANZ-SCHESTER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 485,
@@ -4254,7 +4254,7 @@
     {
       "id": 610,
       "nombre": "TED-CARTER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 799,
@@ -4584,7 +4584,7 @@
     {
       "id": 734,
       "nombre": "Afrodita-de-Piscis",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 654,
@@ -4669,7 +4669,7 @@
     {
       "id": 640,
       "nombre": "DB-028",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 663,
@@ -4764,6 +4764,16 @@
     {
       "id": 922,
       "nombre": "LYDIA",
+      "cantidad": 1
+    },
+    {
+      "id": 912,
+      "nombre": "SINIESTRO",
+      "cantidad": 1
+    },
+    {
+      "id": 979,
+      "nombre": "14-CHARLENE-SINCLAIR",
       "cantidad": 1
     }
   ]
