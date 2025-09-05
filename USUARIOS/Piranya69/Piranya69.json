@@ -1609,7 +1609,7 @@
     {
       "id": 561,
       "nombre": "MARIO-JAIL",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 537,
@@ -2009,7 +2009,7 @@
     {
       "id": 554,
       "nombre": "HANSOLO-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 19,
@@ -2619,7 +2619,7 @@
     {
       "id": 562,
       "nombre": "PETER-GRIFFIN-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 617,
@@ -3914,7 +3914,7 @@
     {
       "id": 709,
       "nombre": "DB-097",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 993,
@@ -4504,7 +4504,7 @@
     {
       "id": 465,
       "nombre": "air",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 904,
@@ -4774,6 +4774,11 @@
     {
       "id": 979,
       "nombre": "14-CHARLENE-SINCLAIR",
+      "cantidad": 1
+    },
+    {
+      "id": 1039,
+      "nombre": "DAREDEVIL-2",
       "cantidad": 1
     }
   ]

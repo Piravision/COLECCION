@@ -2154,7 +2154,7 @@
         {
             "id": 813,
             "nombre": "LIU-KANG",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 655,
@@ -2339,7 +2339,7 @@
         {
             "id": 770,
             "nombre": "red",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 164,
@@ -3959,7 +3959,7 @@
         {
             "id": 921,
             "nombre": "JULIET-PARRISH",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 274,
@@ -4304,6 +4304,16 @@
         {
             "id": 937,
             "nombre": "TRIPLE-H",
+            "cantidad": 1
+        },
+        {
+            "id": 923,
+            "nombre": "REAL-VISITOR",
+            "cantidad": 1
+        },
+        {
+            "id": 353,
+            "nombre": "zorgia",
             "cantidad": 1
         }
     ]

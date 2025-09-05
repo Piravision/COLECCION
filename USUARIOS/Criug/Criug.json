@@ -424,7 +424,7 @@
         {
             "id": 353,
             "nombre": "zorgia",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 76,
@@ -1034,7 +1034,7 @@
         {
             "id": 497,
             "nombre": "nanami",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 368,
@@ -1124,7 +1124,7 @@
         {
             "id": 13,
             "nombre": "Needle",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 151,
@@ -1394,7 +1394,7 @@
         {
             "id": 354,
             "nombre": "alice",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 696,
@@ -1769,7 +1769,7 @@
         {
             "id": 691,
             "nombre": "DB-079",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 638,
@@ -2919,7 +2919,7 @@
         {
             "id": 682,
             "nombre": "DB-070",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 229,
@@ -3589,7 +3589,7 @@
         {
             "id": 711,
             "nombre": "DB-099",
-            "cantidad": 1
+            "cantidad": 3
         },
         {
             "id": 315,
@@ -3744,7 +3744,7 @@
         {
             "id": 864,
             "nombre": "RAMBO-JAIL",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 886,
@@ -4344,6 +4344,31 @@
         {
             "id": 942,
             "nombre": "HANNIBAL-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 1014,
+            "nombre": "YUGI",
+            "cantidad": 1
+        },
+        {
+            "id": 1100,
+            "nombre": "D-GOSALYN",
+            "cantidad": 1
+        },
+        {
+            "id": 1052,
+            "nombre": "JOCASTA",
+            "cantidad": 1
+        },
+        {
+            "id": 885,
+            "nombre": "IRON-MAN",
+            "cantidad": 1
+        },
+        {
+            "id": 770,
+            "nombre": "red",
             "cantidad": 1
         }
     ]
