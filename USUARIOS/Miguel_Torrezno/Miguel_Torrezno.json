@@ -264,7 +264,7 @@
     {
       "id": 411,
       "nombre": "big",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 191,
@@ -399,7 +399,7 @@
     {
       "id": 107,
       "nombre": "Snake Eyes",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 438,
@@ -409,7 +409,7 @@
     {
       "id": 113,
       "nombre": "Serpentor",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 254,
@@ -1039,7 +1039,7 @@
     {
       "id": 548,
       "nombre": "Snake-Plissken",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 341,
@@ -1344,7 +1344,7 @@
     {
       "id": 535,
       "nombre": "Venkman-Jail",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 758,
@@ -1589,7 +1589,7 @@
     {
       "id": 106,
       "nombre": "Scarlett",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 197,
@@ -2269,7 +2269,7 @@
     {
       "id": 537,
       "nombre": "BOLO-YEUNG",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 489,
@@ -2414,6 +2414,31 @@
     {
       "id": 1009,
       "nombre": "SHIN-CHAN",
+      "cantidad": 1
+    },
+    {
+      "id": 973,
+      "nombre": "8-WILLY",
+      "cantidad": 1
+    },
+    {
+      "id": 884,
+      "nombre": "IRON-FIST",
+      "cantidad": 1
+    },
+    {
+      "id": 601,
+      "nombre": "OLIVER-ATOM",
+      "cantidad": 1
+    },
+    {
+      "id": 246,
+      "nombre": "Jaga",
+      "cantidad": 1
+    },
+    {
+      "id": 287,
+      "nombre": "Soldado del Pie",
       "cantidad": 1
     }
   ]

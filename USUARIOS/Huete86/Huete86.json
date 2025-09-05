@@ -289,7 +289,7 @@
         {
             "id": 209,
             "nombre": "Sovereign Rock Castle",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 178,
@@ -579,7 +579,7 @@
         {
             "id": 179,
             "nombre": "Duende Verde",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 428,
@@ -849,7 +849,7 @@
         {
             "id": 326,
             "nombre": "Blob",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 261,
@@ -1409,7 +1409,7 @@
         {
             "id": 339,
             "nombre": "Shun de Andrómeda",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 243,
@@ -1499,7 +1499,7 @@
         {
             "id": 691,
             "nombre": "DB-079",
-            "cantidad": 7
+            "cantidad": 8
         },
         {
             "id": 608,
@@ -2814,7 +2814,7 @@
         {
             "id": 509,
             "nombre": "NINA",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 883,
@@ -3839,7 +3839,7 @@
         {
             "id": 978,
             "nombre": "13-GARFIELD",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 955,
@@ -4034,7 +4034,7 @@
         {
             "id": 167,
             "nombre": "Gwen Stacy",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 921,
@@ -4099,7 +4099,7 @@
         {
             "id": 778,
             "nombre": "ALFRED",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 336,
@@ -4129,7 +4129,7 @@
         {
             "id": 916,
             "nombre": "CHUKY-JAIL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1010,
@@ -4224,6 +4224,11 @@
         {
             "id": 307,
             "nombre": "Skywarp",
+            "cantidad": 1
+        },
+        {
+            "id": 865,
+            "nombre": "ROBOCOP-JAIL",
             "cantidad": 1
         }
     ]
