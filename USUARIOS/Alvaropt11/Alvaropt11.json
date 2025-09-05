@@ -894,7 +894,7 @@
         {
             "id": 264,
             "nombre": "Donatello",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 304,
@@ -4154,6 +4154,11 @@
         {
             "id": 342,
             "nombre": "Flazzard",
+            "cantidad": 1
+        },
+        {
+            "id": 645,
+            "nombre": "DB-033",
             "cantidad": 1
         }
     ]
