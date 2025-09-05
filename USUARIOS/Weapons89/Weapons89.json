@@ -1839,7 +1839,7 @@
         {
             "id": 606,
             "nombre": "SANDY-WINTERS",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 896,
@@ -2124,7 +2124,7 @@
         {
             "id": 991,
             "nombre": "CONAN-EDOGAWA",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 993,
@@ -2584,6 +2584,21 @@
         {
             "id": 508,
             "nombre": "law",
+            "cantidad": 1
+        },
+        {
+            "id": 473,
+            "nombre": "harry",
+            "cantidad": 1
+        },
+        {
+            "id": 759,
+            "nombre": "Shion",
+            "cantidad": 1
+        },
+        {
+            "id": 763,
+            "nombre": "black",
             "cantidad": 1
         }
     ]

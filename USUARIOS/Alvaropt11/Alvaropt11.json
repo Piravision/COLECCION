@@ -1544,7 +1544,7 @@
         {
             "id": 763,
             "nombre": "black",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 539,
@@ -4229,6 +4229,11 @@
         {
             "id": 946,
             "nombre": "SLOTH-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 991,
+            "nombre": "CONAN-EDOGAWA",
             "cantidad": 1
         }
     ]
