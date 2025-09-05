@@ -1034,7 +1034,7 @@
         {
             "id": 190,
             "nombre": "Vandame-Bloodsport",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 338,
@@ -1274,7 +1274,7 @@
         {
             "id": 194,
             "nombre": "Mantaman",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 224,
@@ -1594,7 +1594,7 @@
         {
             "id": 409,
             "nombre": "Kōji-Kabuto",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 528,
@@ -2924,7 +2924,7 @@
         {
             "id": 304,
             "nombre": "Runabout",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 216,
@@ -4754,6 +4754,11 @@
         {
             "id": 769,
             "nombre": "Pink",
+            "cantidad": 1
+        },
+        {
+            "id": 921,
+            "nombre": "JULIET-PARRISH",
             "cantidad": 1
         }
     ]
