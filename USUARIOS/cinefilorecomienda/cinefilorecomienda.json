@@ -334,7 +334,7 @@
     {
       "id": 484,
       "nombre": "Blowhard",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 420,
@@ -524,7 +524,7 @@
     {
       "id": 250,
       "nombre": "Snarf",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 117,
@@ -1414,6 +1414,56 @@
     {
       "id": 294,
       "nombre": "Hound",
+      "cantidad": 1
+    },
+    {
+      "id": 259,
+      "nombre": "Ojo Rojo",
+      "cantidad": 1
+    },
+    {
+      "id": 253,
+      "nombre": "Buitro",
+      "cantidad": 1
+    },
+    {
+      "id": 488,
+      "nombre": "metalhead",
+      "cantidad": 1
+    },
+    {
+      "id": 485,
+      "nombre": "Dr_Shemp",
+      "cantidad": 1
+    },
+    {
+      "id": 238,
+      "nombre": "Snake Mountain",
+      "cantidad": 1
+    },
+    {
+      "id": 714,
+      "nombre": "DB-102",
+      "cantidad": 1
+    },
+    {
+      "id": 179,
+      "nombre": "Duende Verde",
+      "cantidad": 1
+    },
+    {
+      "id": 257,
+      "nombre": "Mumm Ra",
+      "cantidad": 1
+    },
+    {
+      "id": 980,
+      "nombre": "14-EARL-SINCLAIR",
+      "cantidad": 1
+    },
+    {
+      "id": 51,
+      "nombre": "mam",
       "cantidad": 1
     }
   ]
