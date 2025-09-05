@@ -704,7 +704,7 @@
         {
             "id": 471,
             "nombre": "Garland",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 136,
@@ -4664,6 +4664,11 @@
         {
             "id": 825,
             "nombre": "SMOKE",
+            "cantidad": 1
+        },
+        {
+            "id": 640,
+            "nombre": "DB-028",
             "cantidad": 1
         }
     ]
