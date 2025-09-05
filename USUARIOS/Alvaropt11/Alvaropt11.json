@@ -4,7 +4,7 @@
         {
             "id": 30,
             "nombre": "Uni",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 335,
@@ -1754,7 +1754,7 @@
         {
             "id": 594,
             "nombre": "JUAN-DIAZ",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 777,
@@ -2384,7 +2384,7 @@
         {
             "id": 881,
             "nombre": "HAWKEYE",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 863,
@@ -2494,7 +2494,7 @@
         {
             "id": 94,
             "nombre": "Goliath",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 158,
@@ -3784,7 +3784,7 @@
         {
             "id": 303,
             "nombre": "Megatron",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 874,
@@ -4169,6 +4169,21 @@
         {
             "id": 662,
             "nombre": "DB-050",
+            "cantidad": 1
+        },
+        {
+            "id": 39,
+            "nombre": "captain",
+            "cantidad": 1
+        },
+        {
+            "id": 698,
+            "nombre": "DB-086",
+            "cantidad": 1
+        },
+        {
+            "id": 145,
+            "nombre": "Lord Dragaunus",
             "cantidad": 1
         }
     ]

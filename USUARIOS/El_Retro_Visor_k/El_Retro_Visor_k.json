@@ -99,7 +99,7 @@
         {
             "id": 541,
             "nombre": "COBRA-1986",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 311,
@@ -874,7 +874,7 @@
         {
             "id": 549,
             "nombre": "T-1000",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 99,
@@ -2139,7 +2139,7 @@
         {
             "id": 363,
             "nombre": "Chuache-DesafioTotal",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 310,
@@ -2379,7 +2379,7 @@
         {
             "id": 145,
             "nombre": "Lord Dragaunus",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 602,
@@ -2584,7 +2584,7 @@
         {
             "id": 928,
             "nombre": "JOHN-CENA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 726,
@@ -2669,7 +2669,7 @@
         {
             "id": 938,
             "nombre": "VINCE-MCMAHON",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 112,
@@ -3364,7 +3364,7 @@
         {
             "id": 932,
             "nombre": "RAZOR-RAMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 875,
@@ -4494,6 +4494,11 @@
         {
             "id": 288,
             "nombre": "Splinter",
+            "cantidad": 1
+        },
+        {
+            "id": 594,
+            "nombre": "JUAN-DIAZ",
             "cantidad": 1
         }
     ]
