@@ -739,7 +739,7 @@
     {
       "id": 117,
       "nombre": "He man",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 176,
@@ -839,7 +839,7 @@
     {
       "id": 460,
       "nombre": "miura",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 120,
@@ -1144,7 +1144,7 @@
     {
       "id": 234,
       "nombre": "Nueva Texas",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 247,
@@ -2349,7 +2349,7 @@
     {
       "id": 718,
       "nombre": "DB-106",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 551,
@@ -3194,7 +3194,7 @@
     {
       "id": 849,
       "nombre": "SAGAT",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 240,
@@ -4149,6 +4149,11 @@
     {
       "id": 997,
       "nombre": "IKKI-&-METABEE",
+      "cantidad": 1
+    },
+    {
+      "id": 805,
+      "nombre": "GORO",
       "cantidad": 1
     }
   ]
