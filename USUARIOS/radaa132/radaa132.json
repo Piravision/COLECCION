@@ -194,7 +194,7 @@
     {
       "id": 475,
       "nombre": "Incubus",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 72,
@@ -334,7 +334,7 @@
     {
       "id": 337,
       "nombre": "Ikki de Fénix",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 593,
@@ -1069,7 +1069,7 @@
     {
       "id": 819,
       "nombre": "SCORPION",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 485,
@@ -1894,7 +1894,7 @@
     {
       "id": 137,
       "nombre": "Sayaka Yumi",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 328,
@@ -2129,6 +2129,31 @@
     {
       "id": 77,
       "nombre": "Maximum",
+      "cantidad": 1
+    },
+    {
+      "id": 677,
+      "nombre": "DB-065",
+      "cantidad": 1
+    },
+    {
+      "id": 400,
+      "nombre": "cid",
+      "cantidad": 1
+    },
+    {
+      "id": 701,
+      "nombre": "DB-089",
+      "cantidad": 1
+    },
+    {
+      "id": 605,
+      "nombre": "ROBERTO-SEDINHO",
+      "cantidad": 1
+    },
+    {
+      "id": 191,
+      "nombre": "Venom",
       "cantidad": 1
     }
   ]

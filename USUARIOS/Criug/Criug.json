@@ -134,7 +134,7 @@
     {
       "id": 73,
       "nombre": "killvearn",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 301,
@@ -189,7 +189,7 @@
     {
       "id": 310,
       "nombre": "Dan",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 384,
@@ -554,7 +554,7 @@
     {
       "id": 287,
       "nombre": "Soldado del Pie",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 86,
@@ -664,7 +664,7 @@
     {
       "id": 7,
       "nombre": "El Patriarca",
-      "cantidad": 10
+      "cantidad": 11
     },
     {
       "id": 256,
@@ -759,7 +759,7 @@
     {
       "id": 143,
       "nombre": "Wildwing Flashblade",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 150,
@@ -909,7 +909,7 @@
     {
       "id": 482,
       "nombre": "Escorpión",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 67,
@@ -1109,7 +1109,7 @@
     {
       "id": 147,
       "nombre": "Carbine",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 153,
@@ -1204,7 +1204,7 @@
     {
       "id": 121,
       "nombre": "Ram Man(",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 571,
@@ -1384,7 +1384,7 @@
     {
       "id": 276,
       "nombre": "Baxter",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 240,
@@ -1394,7 +1394,7 @@
     {
       "id": 354,
       "nombre": "alice",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 696,
@@ -1609,7 +1609,7 @@
     {
       "id": 196,
       "nombre": "Ripster",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 670,
@@ -1814,7 +1814,7 @@
     {
       "id": 507,
       "nombre": "KING",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 587,
@@ -1844,7 +1844,7 @@
     {
       "id": 572,
       "nombre": "Sgt.-SLAUGTHER",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 709,
@@ -1924,7 +1924,7 @@
     {
       "id": 766,
       "nombre": "goldar",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 406,
@@ -2184,7 +2184,7 @@
     {
       "id": 539,
       "nombre": "BRUCE-LEE2",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 569,
@@ -2264,7 +2264,7 @@
     {
       "id": 549,
       "nombre": "T-1000",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 499,
@@ -2379,7 +2379,7 @@
     {
       "id": 66,
       "nombre": "flazzard2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 260,
@@ -2559,7 +2559,7 @@
     {
       "id": 712,
       "nombre": "DB-100",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 833,
@@ -2649,7 +2649,7 @@
     {
       "id": 639,
       "nombre": "DB-027",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 235,
@@ -3029,7 +3029,7 @@
     {
       "id": 899,
       "nombre": "THANOS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 760,
@@ -3209,7 +3209,7 @@
     {
       "id": 322,
       "nombre": "Rondador Nocturno",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 87,
@@ -3389,7 +3389,7 @@
     {
       "id": 261,
       "nombre": "Reptilio",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 285,
@@ -3704,7 +3704,7 @@
     {
       "id": 75,
       "nombre": "mac",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 965,
@@ -3744,7 +3744,7 @@
     {
       "id": 864,
       "nombre": "RAMBO-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 886,
@@ -3869,7 +3869,7 @@
     {
       "id": 720,
       "nombre": "DB-108",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 407,
@@ -4024,7 +4024,7 @@
     {
       "id": 952,
       "nombre": "11-HEIDI-&-MARCO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 911,
@@ -4059,7 +4059,7 @@
     {
       "id": 935,
       "nombre": "STONE-COLD",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 625,
@@ -4139,7 +4139,7 @@
     {
       "id": 241,
       "nombre": "Thunder Tank",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 957,
@@ -4304,6 +4304,16 @@
     {
       "id": 1012,
       "nombre": "Y.HURAMESHI",
+      "cantidad": 1
+    },
+    {
+      "id": 37,
+      "nombre": "brass",
+      "cantidad": 1
+    },
+    {
+      "id": 491,
+      "nombre": "spyro2",
       "cantidad": 1
     }
   ]
