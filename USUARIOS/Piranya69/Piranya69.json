@@ -314,7 +314,7 @@
         {
             "id": 456,
             "nombre": "boman",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 526,
@@ -4654,6 +4654,11 @@
         {
             "id": 896,
             "nombre": "SHE-HULK",
+            "cantidad": 1
+        },
+        {
+            "id": 815,
+            "nombre": "NIGHTWOLF",
             "cantidad": 1
         }
     ]
