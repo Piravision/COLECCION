@@ -1064,7 +1064,7 @@
     {
       "id": 691,
       "nombre": "DB-079",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 41,
@@ -1699,7 +1699,7 @@
     {
       "id": 31,
       "nombre": "Tiamat",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 163,
@@ -2214,7 +2214,7 @@
     {
       "id": 177,
       "nombre": "Carnage",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 920,
@@ -3299,7 +3299,7 @@
     {
       "id": 284,
       "nombre": "Roadkill",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 272,
@@ -3514,6 +3514,16 @@
     {
       "id": 976,
       "nombre": "7-SABIONDO",
+      "cantidad": 1
+    },
+    {
+      "id": 479,
+      "nombre": "Split Head",
+      "cantidad": 1
+    },
+    {
+      "id": 176,
+      "nombre": "Camaleon",
       "cantidad": 1
     }
   ]

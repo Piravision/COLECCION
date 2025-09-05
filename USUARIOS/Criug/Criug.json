@@ -284,7 +284,7 @@
     {
       "id": 273,
       "nombre": "Raphael",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 303,
@@ -4044,7 +4044,7 @@
     {
       "id": 715,
       "nombre": "DB-103",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 920,
@@ -4334,6 +4334,11 @@
     {
       "id": 824,
       "nombre": "SINDEL",
+      "cantidad": 1
+    },
+    {
+      "id": 892,
+      "nombre": "NOVA",
       "cantidad": 1
     }
   ]
