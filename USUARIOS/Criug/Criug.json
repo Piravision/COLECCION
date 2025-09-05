@@ -2004,7 +2004,7 @@
     {
       "id": 262,
       "nombre": "April O'Neil",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 737,
@@ -2469,7 +2469,7 @@
     {
       "id": 689,
       "nombre": "DB-077",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 483,
@@ -2509,7 +2509,7 @@
     {
       "id": 103,
       "nombre": "Gung Ho",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 808,
@@ -4079,7 +4079,7 @@
     {
       "id": 837,
       "nombre": "DALSHIM",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 871,
@@ -4294,6 +4294,16 @@
     {
       "id": 909,
       "nombre": "LOBO",
+      "cantidad": 1
+    },
+    {
+      "id": 237,
+      "nombre": "Sky Shadow",
+      "cantidad": 1
+    },
+    {
+      "id": 1012,
+      "nombre": "Y.HURAMESHI",
       "cantidad": 1
     }
   ]
