@@ -2504,7 +2504,7 @@
         {
             "id": 946,
             "nombre": "SLOTH-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 707,
@@ -2579,6 +2579,11 @@
         {
             "id": 509,
             "nombre": "NINA",
+            "cantidad": 1
+        },
+        {
+            "id": 508,
+            "nombre": "law",
             "cantidad": 1
         }
     ]
