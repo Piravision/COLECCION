@@ -224,7 +224,7 @@
         {
             "id": 91,
             "nombre": "Bronx",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 94,
@@ -879,7 +879,7 @@
         {
             "id": 99,
             "nombre": "Demona",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 125,
@@ -3669,7 +3669,7 @@
         {
             "id": 943,
             "nombre": "JOHNNY5-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 904,
@@ -4524,6 +4524,16 @@
         {
             "id": 744,
             "nombre": "Dark-Deathmask-de-Cancer",
+            "cantidad": 1
+        },
+        {
+            "id": 93,
+            "nombre": "Elisa Maza",
+            "cantidad": 1
+        },
+        {
+            "id": 945,
+            "nombre": "MASK-JAIL",
             "cantidad": 1
         }
     ]
