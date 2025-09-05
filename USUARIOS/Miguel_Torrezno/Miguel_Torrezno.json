@@ -19,7 +19,7 @@
     {
       "id": 331,
       "nombre": "Mente Maestra",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 21,
@@ -524,7 +524,7 @@
     {
       "id": 144,
       "nombre": "Grin-Hardwing",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 73,
@@ -2009,7 +2009,7 @@
     {
       "id": 964,
       "nombre": "3-TODD-&-SMILEY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 969,
@@ -2239,7 +2239,7 @@
     {
       "id": 882,
       "nombre": "HELA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 900,
@@ -2444,6 +2444,16 @@
     {
       "id": 160,
       "nombre": "Steelheart",
+      "cantidad": 1
+    },
+    {
+      "id": 901,
+      "nombre": "ULTRON",
+      "cantidad": 1
+    },
+    {
+      "id": 581,
+      "nombre": "CLIFFORD-YUMA",
       "cantidad": 1
     }
   ]

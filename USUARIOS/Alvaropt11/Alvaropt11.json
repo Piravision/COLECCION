@@ -3489,7 +3489,7 @@
         {
             "id": 867,
             "nombre": "SONNY-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 355,
@@ -4239,6 +4239,11 @@
         {
             "id": 971,
             "nombre": "7-INSPECTOR-GADGET",
+            "cantidad": 1
+        },
+        {
+            "id": 939,
+            "nombre": "GHOSTFACE-JAIL",
             "cantidad": 1
         }
     ]
