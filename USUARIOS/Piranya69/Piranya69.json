@@ -3464,7 +3464,7 @@
         {
             "id": 468,
             "nombre": "CybilBennett",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 826,
@@ -4659,6 +4659,11 @@
         {
             "id": 815,
             "nombre": "NIGHTWOLF",
+            "cantidad": 1
+        },
+        {
+            "id": 825,
+            "nombre": "SMOKE",
             "cantidad": 1
         }
     ]

@@ -3189,7 +3189,7 @@
         {
             "id": 825,
             "nombre": "SMOKE",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 788,
@@ -4614,6 +4614,11 @@
         {
             "id": 456,
             "nombre": "boman",
+            "cantidad": 1
+        },
+        {
+            "id": 468,
+            "nombre": "CybilBennett",
             "cantidad": 1
         }
     ]
