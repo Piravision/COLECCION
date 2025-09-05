@@ -1014,7 +1014,7 @@
         {
             "id": 361,
             "nombre": "uriko",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 42,
@@ -1374,7 +1374,7 @@
         {
             "id": 284,
             "nombre": "Roadkill",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 166,
@@ -2794,7 +2794,7 @@
         {
             "id": 274,
             "nombre": "Ray Fillet",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 428,
@@ -4739,6 +4739,16 @@
         {
             "id": 764,
             "nombre": "Dragonzord",
+            "cantidad": 1
+        },
+        {
+            "id": 282,
+            "nombre": "Krang",
+            "cantidad": 1
+        },
+        {
+            "id": 761,
+            "nombre": "alpha5",
             "cantidad": 1
         }
     ]
