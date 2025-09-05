@@ -1059,7 +1059,7 @@
         {
             "id": 74,
             "nombre": "larhart",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 116,
@@ -4584,6 +4584,11 @@
         {
             "id": 39,
             "nombre": "captain",
+            "cantidad": 1
+        },
+        {
+            "id": 42,
+            "nombre": "dai 2",
             "cantidad": 1
         }
     ]

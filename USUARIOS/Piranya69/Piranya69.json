@@ -1019,7 +1019,7 @@
         {
             "id": 42,
             "nombre": "dai 2",
-            "cantidad": 6
+            "cantidad": 5
         },
         {
             "id": 403,
@@ -4629,6 +4629,11 @@
         {
             "id": 38,
             "nombre": "brokeena",
+            "cantidad": 1
+        },
+        {
+            "id": 74,
+            "nombre": "larhart",
             "cantidad": 1
         }
     ]
