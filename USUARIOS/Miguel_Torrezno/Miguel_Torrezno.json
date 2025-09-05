@@ -114,7 +114,7 @@
     {
       "id": 159,
       "nombre": "Quicksilver",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 271,
@@ -964,7 +964,7 @@
     {
       "id": 481,
       "nombre": "Capitán-Stargazer",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 569,
@@ -2439,6 +2439,11 @@
     {
       "id": 287,
       "nombre": "Soldado del Pie",
+      "cantidad": 1
+    },
+    {
+      "id": 160,
+      "nombre": "Steelheart",
       "cantidad": 1
     }
   ]

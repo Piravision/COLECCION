@@ -1944,7 +1944,7 @@
         {
             "id": 862,
             "nombre": "NEO-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 971,
@@ -2604,6 +2604,11 @@
         {
             "id": 557,
             "nombre": "LUFFY-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 829,
+            "nombre": "AKUMA",
             "cantidad": 1
         }
     ]
