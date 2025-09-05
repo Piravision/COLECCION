@@ -2119,7 +2119,7 @@
         {
             "id": 841,
             "nombre": "GUILE",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 798,
@@ -4634,6 +4634,11 @@
         {
             "id": 529,
             "nombre": "Mística",
+            "cantidad": 1
+        },
+        {
+            "id": 80,
+            "nombre": "robot",
             "cantidad": 1
         }
     ]
