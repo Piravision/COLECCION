@@ -1114,7 +1114,7 @@
     {
       "id": 452,
       "nombre": "sherry",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 220,
@@ -2614,7 +2614,7 @@
     {
       "id": 454,
       "nombre": "zombi",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 152,
@@ -3434,6 +3434,11 @@
     {
       "id": 858,
       "nombre": "FREDDY-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 445,
+      "nombre": "claire",
       "cantidad": 1
     }
   ]
