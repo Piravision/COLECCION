@@ -1984,7 +1984,7 @@
         {
             "id": 884,
             "nombre": "IRON-FIST",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 639,
@@ -4594,6 +4594,11 @@
         {
             "id": 55,
             "nombre": "mina",
+            "cantidad": 1
+        },
+        {
+            "id": 83,
+            "nombre": "zamza",
             "cantidad": 1
         }
     ]
