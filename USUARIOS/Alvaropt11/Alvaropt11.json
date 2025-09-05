@@ -314,7 +314,7 @@
         {
             "id": 288,
             "nombre": "Splinter",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 28,
@@ -4164,6 +4164,11 @@
         {
             "id": 658,
             "nombre": "DB-046",
+            "cantidad": 1
+        },
+        {
+            "id": 662,
+            "nombre": "DB-050",
             "cantidad": 1
         }
     ]

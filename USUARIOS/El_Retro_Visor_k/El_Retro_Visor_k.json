@@ -3349,7 +3349,7 @@
         {
             "id": 662,
             "nombre": "DB-050",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 401,
@@ -4489,6 +4489,11 @@
         {
             "id": 273,
             "nombre": "Raphael",
+            "cantidad": 1
+        },
+        {
+            "id": 288,
+            "nombre": "Splinter",
             "cantidad": 1
         }
     ]
