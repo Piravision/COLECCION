@@ -824,7 +824,7 @@
         {
             "id": 497,
             "nombre": "nanami",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 536,
@@ -1054,7 +1054,7 @@
         {
             "id": 107,
             "nombre": "Snake Eyes",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 74,
@@ -1664,7 +1664,7 @@
         {
             "id": 778,
             "nombre": "ALFRED",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 398,
@@ -1814,7 +1814,7 @@
         {
             "id": 506,
             "nombre": "jin",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 336,
@@ -2484,7 +2484,7 @@
         {
             "id": 328,
             "nombre": "Juggernaut",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 412,
@@ -2514,7 +2514,7 @@
         {
             "id": 396,
             "nombre": "aeris",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 843,
@@ -2694,7 +2694,7 @@
         {
             "id": 406,
             "nombre": "turcos",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 599,
@@ -3239,7 +3239,7 @@
         {
             "id": 501,
             "nombre": "SOLON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 514,
@@ -3724,7 +3724,7 @@
         {
             "id": 399,
             "nombre": "cait",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 583,
@@ -4274,7 +4274,7 @@
         {
             "id": 500,
             "nombre": "shu",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 613,
@@ -4499,6 +4499,11 @@
         {
             "id": 594,
             "nombre": "JUAN-DIAZ",
+            "cantidad": 1
+        },
+        {
+            "id": 782,
+            "nombre": "BATMAN",
             "cantidad": 1
         }
     ]

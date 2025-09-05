@@ -494,7 +494,7 @@
     {
       "id": 67,
       "nombre": "flazzard3",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 267,
@@ -779,7 +779,7 @@
     {
       "id": 105,
       "nombre": "Sargento Slaughter",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 53,
@@ -1284,7 +1284,7 @@
     {
       "id": 537,
       "nombre": "BOLO-YEUNG",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 339,
@@ -1674,7 +1674,7 @@
     {
       "id": 538,
       "nombre": "BRUCE-LEE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 85,
@@ -1734,7 +1734,7 @@
     {
       "id": 669,
       "nombre": "DB-057",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 493,
@@ -1749,7 +1749,7 @@
     {
       "id": 575,
       "nombre": "A.GALVAN",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 41,
@@ -1864,7 +1864,7 @@
     {
       "id": 203,
       "nombre": "Repteel",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 559,
@@ -2054,7 +2054,7 @@
     {
       "id": 646,
       "nombre": "DB-034",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 625,
@@ -2224,7 +2224,7 @@
     {
       "id": 118,
       "nombre": "Man at Arms",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 666,
@@ -2279,7 +2279,7 @@
     {
       "id": 32,
       "nombre": "Venger",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 399,
@@ -2399,7 +2399,7 @@
     {
       "id": 679,
       "nombre": "DB-067",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 371,
@@ -2419,7 +2419,7 @@
     {
       "id": 623,
       "nombre": "DB-011",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 564,
@@ -2454,7 +2454,7 @@
     {
       "id": 223,
       "nombre": "G.I. JOE Headquarters",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 603,
@@ -2979,7 +2979,7 @@
     {
       "id": 742,
       "nombre": "Dark Saga",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 438,
@@ -3084,7 +3084,7 @@
     {
       "id": 379,
       "nombre": "lynx",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 718,
@@ -3109,7 +3109,7 @@
     {
       "id": 637,
       "nombre": "DB-025",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 937,
@@ -3144,7 +3144,7 @@
     {
       "id": 18,
       "nombre": "Mesmira",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 874,
@@ -3284,7 +3284,7 @@
     {
       "id": 323,
       "nombre": "Tormenta",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 578,
@@ -3299,7 +3299,7 @@
     {
       "id": 832,
       "nombre": "BLANKA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 181,
@@ -3554,7 +3554,7 @@
     {
       "id": 867,
       "nombre": "SONNY-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1013,
@@ -3589,7 +3589,7 @@
     {
       "id": 975,
       "nombre": "7-PENNY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 949,
@@ -3749,7 +3749,7 @@
     {
       "id": 739,
       "nombre": "Athenea",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 750,
@@ -3789,6 +3789,31 @@
     {
       "id": 862,
       "nombre": "NEO-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 695,
+      "nombre": "DB-083",
+      "cantidad": 1
+    },
+    {
+      "id": 929,
+      "nombre": "KANE",
+      "cantidad": 1
+    },
+    {
+      "id": 239,
+      "nombre": "Stridor",
+      "cantidad": 1
+    },
+    {
+      "id": 883,
+      "nombre": "HULK",
+      "cantidad": 1
+    },
+    {
+      "id": 113,
+      "nombre": "Serpentor",
       "cantidad": 1
     }
   ]
