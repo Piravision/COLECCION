@@ -2434,7 +2434,7 @@
         {
             "id": 596,
             "nombre": "K.HEINZ-SCHENEIDER",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 832,
@@ -3214,7 +3214,7 @@
         {
             "id": 740,
             "nombre": "Athenea2",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 505,
@@ -3934,7 +3934,7 @@
         {
             "id": 577,
             "nombre": "ALAN-PASCAL",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1008,
@@ -4559,6 +4559,16 @@
         {
             "id": 636,
             "nombre": "DB-024",
+            "cantidad": 1
+        },
+        {
+            "id": 598,
+            "nombre": "MARGUS-MANFRED",
+            "cantidad": 1
+        },
+        {
+            "id": 756,
+            "nombre": "Rhadamantis2",
             "cantidad": 1
         }
     ]
