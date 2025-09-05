@@ -397,7 +397,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de JoseloR</h2>
-                <span>Cartas obtenidas: 46 / 1014</span>
+                <span>Cartas obtenidas: 49 / 1018</span>
             </div>
             
             <div class="details">
@@ -405,6 +405,11 @@
                     <div class="summary-grid-container">
     <h2>Resumen por Serie</h2>
 					<div class="summary-grid">
+						
+							<div class="summary-button" onclick="mostrarCartas('Alundra')">
+								<img src="/COLECCION/botones/alundra.png" alt="Alundra" class="summary-button-image">
+								<span class="summary-button-counter">1 / 9</span>
+							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Bloody Roar')">
 								<img src="/COLECCION/botones/bloody-roar.png" alt="Bloody Roar" class="summary-button-image">
@@ -463,7 +468,12 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('LEGENDIBUS')">
 								<img src="/COLECCION/botones/legendibus.png" alt="LEGENDIBUS" class="summary-button-image">
-								<span class="summary-button-counter">1 / 39</span>
+								<span class="summary-button-counter">1 / 40</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Marvel-Classics')">
+								<img src="/COLECCION/botones/marvel-classics.png" alt="Marvel-Classics" class="summary-button-image">
+								<span class="summary-button-counter">1 / 37</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Metal Gear Solid')">
@@ -526,6 +536,11 @@
 								<span class="summary-button-counter">1 / 18</span>
 							</div>
 						
+							<div class="summary-button" onclick="mostrarCartas('V')">
+								<img src="/COLECCION/botones/v.png" alt="V" class="summary-button-image">
+								<span class="summary-button-counter">1 / 8</span>
+							</div>
+						
 							<div class="summary-button" onclick="mostrarCartas('Varios')">
 								<img src="/COLECCION/botones/varios.png" alt="Varios" class="summary-button-image">
 								<span class="summary-button-counter">3 / 19</span>
@@ -545,6 +560,30 @@
 				</div>
                     
                     <div id="cards-container">
+                        
+                            <div class="series-cards" id="series-Alundra" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Alundra</h2>
+                                    <span>Cartas obtenidas: 1 / 9</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 348</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '348', 'Meia'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Alundra/PERSONAJE/Meia.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Alundra/PERSONAJE/Meia.png" alt="Meia">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Meia (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
                         
                             <div class="series-cards" id="series-Bloody-Roar" style="display: none;">
                                 <div class="section-title-2">
@@ -883,7 +922,7 @@
                             <div class="series-cards" id="series-LEGENDIBUS" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>LEGENDIBUS</h2>
-                                    <span>Cartas obtenidas: 1 / 39</span>
+                                    <span>Cartas obtenidas: 1 / 40</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -898,6 +937,30 @@
                                             <div class="cromo-details">
                                                 <h3>2-GADGET (x1)</h3>
                                                 <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Marvel-Classics" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Marvel-Classics</h2>
+                                    <span>Cartas obtenidas: 1 / 37</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 897</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '897', 'SPIDER-MAN'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Marvel-Classics/SPIDER-MAN.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Marvel-Classics/SPIDER-MAN.png" alt="SPIDER-MAN">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>SPIDER-MAN (x1)</h3>
+                                                <p>Rareza: Legendario</p>
                                             </div>
                                         </div>
                                     
@@ -1284,6 +1347,30 @@
                                             <div class="cromo-details">
                                                 <h3>Hound (x1)</h3>
                                                 <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-V" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>V</h2>
+                                    <span>Cartas obtenidas: 1 / 8</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 920</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '920', 'HAM-TYLER'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/V/HAM-TYLER(28-8-2025-4_22).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/V/HAM-TYLER(28-8-2025-4_22).png" alt="HAM-TYLER">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>HAM-TYLER (x1)</h3>
+                                                <p>Rareza: Raro</p>
                                             </div>
                                         </div>
                                     
