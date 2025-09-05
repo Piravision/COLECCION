@@ -3249,7 +3249,7 @@
         {
             "id": 801,
             "nombre": "RED-CLAW",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 146,
@@ -3934,7 +3934,7 @@
         {
             "id": 577,
             "nombre": "ALAN-PASCAL",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1008,
@@ -4029,7 +4029,7 @@
         {
             "id": 783,
             "nombre": "BRUCE-WAYNE",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 771,
@@ -4259,7 +4259,7 @@
         {
             "id": 800,
             "nombre": "RAS-AL-GHUL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 208,
@@ -4569,6 +4569,11 @@
         {
             "id": 756,
             "nombre": "Rhadamantis2",
+            "cantidad": 1
+        },
+        {
+            "id": 579,
+            "nombre": "BOB-DENVER",
             "cantidad": 1
         }
     ]

@@ -34,7 +34,7 @@
     {
       "id": 306,
       "nombre": "Shockwave",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 290,
@@ -159,7 +159,7 @@
     {
       "id": 41,
       "nombre": "crocodine bueno",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 192,
@@ -339,7 +339,7 @@
     {
       "id": 420,
       "nombre": "mei",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 450,
@@ -719,7 +719,7 @@
     {
       "id": 251,
       "nombre": "Tigro",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 236,
@@ -829,7 +829,7 @@
     {
       "id": 554,
       "nombre": "HANSOLO-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 413,
@@ -839,7 +839,7 @@
     {
       "id": 3,
       "nombre": "Juez J. Bella",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 357,
@@ -954,7 +954,7 @@
     {
       "id": 238,
       "nombre": "Snake Mountain",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 523,
@@ -1194,7 +1194,7 @@
     {
       "id": 106,
       "nombre": "Scarlett",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 171,
@@ -1389,7 +1389,7 @@
     {
       "id": 240,
       "nombre": "Terror Drome",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 354,
@@ -1449,7 +1449,7 @@
     {
       "id": 455,
       "nombre": "batsu",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 31,
@@ -1554,7 +1554,7 @@
     {
       "id": 191,
       "nombre": "Venom",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 30,
@@ -1674,7 +1674,7 @@
     {
       "id": 324,
       "nombre": "Wolverine",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 124,
@@ -2744,7 +2744,7 @@
     {
       "id": 829,
       "nombre": "AKUMA",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 250,
@@ -2849,7 +2849,7 @@
     {
       "id": 95,
       "nombre": "Hudson",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 155,
@@ -3169,7 +3169,7 @@
     {
       "id": 679,
       "nombre": "DB-067",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 809,
@@ -3379,7 +3379,7 @@
     {
       "id": 877,
       "nombre": "ENCHANTRESS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 895,
@@ -3449,7 +3449,7 @@
     {
       "id": 736,
       "nombre": "Aioria-de-Leo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 618,
@@ -3559,7 +3559,7 @@
     {
       "id": 867,
       "nombre": "SONNY-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 590,
@@ -3614,7 +3614,7 @@
     {
       "id": 949,
       "nombre": "1-DARTACAN",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 959,
@@ -3689,7 +3689,7 @@
     {
       "id": 974,
       "nombre": "9-CALIMERO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 954,
@@ -3729,12 +3729,12 @@
     {
       "id": 291,
       "nombre": "Zorax",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 278,
       "nombre": "Bebop",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 154,
@@ -4279,6 +4279,16 @@
     {
       "id": 835,
       "nombre": "CHUN-LI",
+      "cantidad": 1
+    },
+    {
+      "id": 883,
+      "nombre": "HULK",
+      "cantidad": 1
+    },
+    {
+      "id": 958,
+      "nombre": "2-ZIPPER",
       "cantidad": 1
     }
   ]
