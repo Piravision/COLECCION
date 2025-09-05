@@ -3654,7 +3654,7 @@
         {
             "id": 937,
             "nombre": "TRIPLE-H",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 811,
@@ -4234,6 +4234,11 @@
         {
             "id": 932,
             "nombre": "RAZOR-RAMON",
+            "cantidad": 1
+        },
+        {
+            "id": 526,
+            "nombre": "Júbilo",
             "cantidad": 1
         }
     ]
