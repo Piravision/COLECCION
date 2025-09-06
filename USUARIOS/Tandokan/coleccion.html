@@ -627,7 +627,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de Tandokan</h2>
-                <span>Cartas obtenidas: 744 / 1121</span>
+                <span>Cartas obtenidas: 746 / 1121</span>
             </div>
             
             <div class="details">
@@ -738,7 +738,7 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('LEGENDIBUS')">
 								<img src="/COLECCION/botones/legendibus.png" alt="LEGENDIBUS" class="summary-button-image">
-								<span class="summary-button-counter">23 / 75</span>
+								<span class="summary-button-counter">24 / 75</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Marvel-Classics')">
@@ -763,7 +763,7 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('Mortal Kombat')">
 								<img src="/COLECCION/botones/mortal-kombat.png" alt="Mortal Kombat" class="summary-button-image">
-								<span class="summary-button-counter">18 / 25</span>
+								<span class="summary-button-counter">19 / 25</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Motorratones')">
@@ -3891,7 +3891,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>DB-034 (x1)</h3>
+                                                <h3>DB-034 (x2)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -5847,7 +5847,7 @@
                             <div class="series-cards" id="series-LEGENDIBUS" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>LEGENDIBUS</h2>
-                                    <span>Cartas obtenidas: 23 / 75</span>
+                                    <span>Cartas obtenidas: 24 / 75</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -6133,6 +6133,19 @@
 											</a>
 																						<div class="cromo-details">
                                                 <h3>15-BALOO (x2)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 1108</span>
+                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/LEGENDIBUS/G-PRINCESA.png', '1108', 'G-PRINCESA', 'Común'); return false;">
+												<div class="cromo-img-container">
+													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/LEGENDIBUS/G-PRINCESA.png" alt="G-PRINCESA">
+												</div>
+											</a>
+																						<div class="cromo-details">
+                                                <h3>G-PRINCESA (x1)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -6820,7 +6833,7 @@
                             <div class="series-cards" id="series-Mortal-Kombat" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Mortal Kombat</h2>
-                                    <span>Cartas obtenidas: 18 / 25</span>
+                                    <span>Cartas obtenidas: 19 / 25</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -6898,6 +6911,19 @@
 											</a>
 																						<div class="cromo-details">
                                                 <h3>KITANA (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 812</span>
+                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Mortal Kombat/KUNG-LAO(27-8-2025-1_38).png', '812', 'KUNG-LAO', 'Común'); return false;">
+												<div class="cromo-img-container">
+													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Mortal Kombat/KUNG-LAO(27-8-2025-1_38).png" alt="KUNG-LAO">
+												</div>
+											</a>
+																						<div class="cromo-details">
+                                                <h3>KUNG-LAO (x1)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -11220,18 +11246,24 @@
 		/**
 		 * Función principal que se ejecuta al pulsar el botón "Comparar".
 		 */
+		// --- COPIA Y REEMPLAZA ESTA FUNCIÓN COMPLETA ---
+
 		async function compararColecciones() {
 			const usuarioOrigen = document.getElementById('userA_input').value.trim();
 			const usuarioDestino = document.getElementById('userB_input').value.trim();
-			const resultsContainer = document.getElementById('comparison-results');
 			
-			resultsContainer.innerHTML = '<p>Buscando y comparando colecciones...</p>';
-
+			// Obtenemos los contenedores de resultados por separado
+			const offerContainer = document.getElementById('offer-results');
+			const requestContainer = document.getElementById('request-results');
+			
 			if (!usuarioOrigen || !usuarioDestino) {
 				alert("Por favor, introduce ambos nombres de usuario.");
-				resultsContainer.innerHTML = '';
 				return;
 			}
+
+			// Mostramos el mensaje de carga en AMBOS contenedores
+			offerContainer.innerHTML = '<p>Buscando y comparando...</p>';
+			requestContainer.innerHTML = ''; // Limpiamos el segundo por si acaso
 
 			const GITHUB_BASE_URL = "https://piravision.github.io/COLECCION/USUARIOS/";
 			const urlOrigen = `${GITHUB_BASE_URL}${encodeURIComponent(usuarioOrigen)}/coleccion.html`;
@@ -11261,14 +11293,17 @@
 				const cromosParaOfrecer = repetidosOrigen.filter(cromo => !idsDestino.has(cromo.id));
 				const cromosParaSolicitar = repetidosDestino.filter(cromo => !idsOrigen.has(cromo.id));
 				
-				resultsContainer.innerHTML = '';
+				// Ahora sí, renderizamos los resultados en sus contenedores correctos
 				renderResultados('offer-results', 'Cromos que puedes OFRECER', cromosParaOfrecer, usuarioOrigen);
 				renderResultados('request-results', 'Cromos que puedes SOLICITAR', cromosParaSolicitar, usuarioDestino);
 
 			} catch (error) {
 				console.error("Error en la comparación:", error);
+				// Mostramos el error en el contenedor principal, que ahora no se borra
+				const resultsContainer = document.getElementById('comparison-results');
 				resultsContainer.innerHTML = `<p style="color: #ff6b6b;">Error: ${error.message}. Asegúrate de que los nombres de usuario son correctos y existen.</p>`;
 			}
+		
 		}
 		// --- FIN: LÓGICA PARA LA COMPARACIÓN DE COLECCIONES ---
 	</script>
