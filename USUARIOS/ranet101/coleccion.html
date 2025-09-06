@@ -541,7 +541,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de ranet101</h2>
-                <span>Cartas obtenidas: 306 / 1121</span>
+                <span>Cartas obtenidas: 308 / 1121</span>
             </div>
             
             <div class="details">
@@ -612,7 +612,7 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('DragonBall CombatCards 92')">
 								<img src="/COLECCION/botones/dragonball-combatcards-92.png" alt="DragonBall CombatCards 92" class="summary-button-image">
-								<span class="summary-button-counter">24 / 121</span>
+								<span class="summary-button-counter">25 / 121</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('FFVII')">
@@ -637,7 +637,7 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('JAIL-Edition')">
 								<img src="/COLECCION/botones/jail-edition.png" alt="JAIL-Edition" class="summary-button-image">
-								<span class="summary-button-counter">22 / 45</span>
+								<span class="summary-button-counter">23 / 45</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('LEGENDIBUS')">
@@ -1899,7 +1899,7 @@
                             <div class="series-cards" id="series-DragonBall-CombatCards-92" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>DragonBall CombatCards 92</h2>
-                                    <span>Cartas obtenidas: 24 / 121</span>
+                                    <span>Cartas obtenidas: 25 / 121</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -1912,6 +1912,19 @@
 											</a>
 																						<div class="cromo-details">
                                                 <h3>DB-005 (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 619</span>
+                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DragonBall CombatCards 92/DB-007.png', '619', 'DB-007', 'Común'); return false;">
+												<div class="cromo-img-container">
+													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DragonBall CombatCards 92/DB-007.png" alt="DB-007">
+												</div>
+											</a>
+																						<div class="cromo-details">
+                                                <h3>DB-007 (x1)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -2482,7 +2495,7 @@
                             <div class="series-cards" id="series-JAIL-Edition" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>JAIL-Edition</h2>
-                                    <span>Cartas obtenidas: 22 / 45</span>
+                                    <span>Cartas obtenidas: 23 / 45</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -2638,6 +2651,19 @@
 											</a>
 																						<div class="cromo-details">
                                                 <h3>PETER-GRIFFIN-JAIL (x1)</h3>
+                                                <p>Rareza: Legendario</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 563</span>
+                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/JAIL-Edition/VADER-JAIL.png', '563', 'VADER-JAIL', 'Legendario'); return false;">
+												<div class="cromo-img-container">
+													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/JAIL-Edition/VADER-JAIL.png" alt="VADER-JAIL">
+												</div>
+											</a>
+																						<div class="cromo-details">
+                                                <h3>VADER-JAIL (x1)</h3>
                                                 <p>Rareza: Legendario</p>
                                             </div>
                                         </div>
@@ -3666,7 +3692,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>black (x1)</h3>
+                                                <h3>black (x2)</h3>
                                                 <p>Rareza: Raro</p>
                                             </div>
                                         </div>
@@ -5307,6 +5333,7 @@
 			const serieSeleccionada = document.getElementById(serieId);
 			if (serieSeleccionada) {
 				serieSeleccionada.style.display = 'block';
+				serieSeleccionada.scrollIntoView({ behavior: 'smooth', block: 'start' });
 			}
 		}
 	</script>
