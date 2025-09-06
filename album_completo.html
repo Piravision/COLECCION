@@ -267,14 +267,14 @@
 	/* EFECTOS DE BRILLO ESPECÍFICOS POR RAREZA */
 	#modal-card-container.Común::before {
 		background-image: linear-gradient(115deg,
-			transparent 30%, rgba(255,255,255,0.6) 48%,
+			transparent 30%, rgba(255,255,255,0.3) 48%,
 			rgba(255,255,255,0.6) 52%, transparent 70%);
 	}
 
 	#modal-card-container.Raro::before {
 		background-image: linear-gradient(115deg,
-			transparent 30%, rgba(170,210,255,0.4) 48%,
-			rgba(170,210,255,0.4) 52%, transparent 70%);
+			transparent 30%, rgba(170,210,255,0.6) 48%,
+			rgba(170,210,255,0.6) 52%, transparent 70%);
 	}
 
 	#modal-card-container.Legendario::before {
@@ -15795,8 +15795,8 @@
 			const { left, top, width, height } = card.getBoundingClientRect();
 			const x = e.clientX - left;
 			const y = e.clientY - top;
-			const rotateX = -1 * ((y - height / 2) / (height / 2)) * 12;
-			const rotateY = ((x - width / 2) / (width / 2)) * 12;
+			const rotateX = -1 * ((y - height / 2) / (height / 2)) * 18;
+			const rotateY = ((x - width / 2) / (width / 2)) * 18;
 			card.style.transform = `rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
 			card.style.setProperty('--mouse-x', `${(x / width) * 100}%`);
 			card.style.setProperty('--mouse-y', `${(y / height) * 100}%`);
