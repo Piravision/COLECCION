@@ -15974,7 +15974,10 @@
 		</div>
 	</div>
     
-	<script>
+	
+	
+	    
+    <script>
 		// --- ELEMENTOS GLOBALES DEL MODAL ---
 		const modal = document.getElementById("myModal");
 		const modalImg = document.getElementById("imgModal");
@@ -16054,25 +16057,31 @@
 			}
 		}
 
-		// --- INICIO: LÓGICA PARA LA COMPARACIÓN DE COLECCIONES ---
+		// --- INICIO: LÓGICA PARA LA COMPARACIÓN DE COLECCIONES (VERSIÓN DEFINITIVA) ---
 
+		// Esta función coge el HTML de una colección y lo convierte en una lista de objetos de cromo.
 		function extraerCromosDesdeHTML(htmlString) {
 			const cromos = [];
 			const parser = new DOMParser();
 			const doc = parser.parseFromString(htmlString, "text/html");
 			const cromoCards = doc.querySelectorAll('.cromo-card');
+
 			cromoCards.forEach(card => {
 				try {
 					const numeroSpan = card.querySelector('.cromo-numero');
 					const nombreH3 = card.querySelector('h3');
 					const rarezaP = card.querySelector('p');
-					if (numeroSpan && nombreH3 && rarezaP) {
+					const img = card.querySelector('img');
+
+					if (numeroSpan && nombreH3 && rarezaP && img) {
 						const id = parseInt(numeroSpan.textContent.split('Nº: ')[1]);
 						const cantidadMatch = nombreH3.textContent.match(/\(x(\d+)\)/);
 						const cantidad = cantidadMatch ? parseInt(cantidadMatch[1]) : 1;
 						const nombre = nombreH3.textContent.replace(/\s\(x\d+\)$/, '').trim();
 						const rareza = rarezaP.textContent.replace('Rareza: ', '').trim();
-						cromos.push({ id, nombre, cantidad, rareza });
+						const imagen_url_web = img.src;
+						
+						cromos.push({ id, nombre, cantidad, rareza, imagen_url_web });
 					}
 				} catch (e) {
 					console.error("Error parseando una tarjeta de cromo:", e);
@@ -16080,29 +16089,27 @@
 			});
 			return cromos;
 		}
-
-		function renderResultadosConImagenes(elementId, titulo, cromos, usuarioBase, todosLosCromosMap) {
+		
+		// Esta función coge una lista de cromos y la muestra en la página.
+		function renderResultados(elementId, titulo, cromos, usuarioBase) {
 			const container = document.getElementById(elementId);
 			let contenidoHtml = `<div class="results-section"><h3>${titulo} (${cromos.length})</h3>`;
 
 			if (cromos.length === 0) {
 				contenidoHtml += `<p>No se encontraron cromos para este intercambio.</p>`;
 			} else {
-				const cromosHtml = cromos.map(cromo => {
-					const imagenUrl = todosLosCromosMap[cromo.id] || 'https://piravision.github.io/COLECCION/dorsocarta.png';
-					return `
+				const cromosHtml = cromos.map(cromo => `
 					<div class="cromo-card">
 						<span class="cromo-numero">Nº: ${cromo.id}</span>
 						<div class="cromo-img-container">
-							<img src="${imagenUrl}" alt="${cromo.nombre}" loading="lazy">
+							<img src="${cromo.imagen_url_web}" alt="${cromo.nombre}" loading="lazy">
 						</div>
 						<div class="cromo-details">
 							<h3>${cromo.nombre} (x${cromo.cantidad})</h3>
 							<p>Rareza: ${cromo.rareza}</p>
 						</div>
 					</div>
-					`;
-				}).join('');
+				`).join('');
 				contenidoHtml += `<p style="font-size:0.9em; color:#ccc;">${usuarioBase} tiene estos repetidos:</p><div class="coleccion">${cromosHtml}</div>`;
 			}
 			
@@ -16122,18 +16129,6 @@
 				resultsContainer.innerHTML = '';
 				return;
 			}
-
-			const todosLosCromosMap = {};
-			document.querySelectorAll('.cromo-card').forEach(card => {
-				const numeroSpan = card.querySelector('.cromo-numero');
-				const img = card.querySelector('img');
-				if (numeroSpan && img) {
-					try {
-						const id = parseInt(numeroSpan.textContent.split('Nº: ')[1]);
-						todosLosCromosMap[id] = img.src;
-					} catch (e) {}
-				}
-			});
 
 			const GITHUB_BASE_URL = "https://piravision.github.io/COLECCION/USUARIOS/";
 			const urlOrigen = `${GITHUB_BASE_URL}${encodeURIComponent(usuarioOrigen)}/coleccion.html`;
@@ -16164,8 +16159,8 @@
 				const cromosParaSolicitar = repetidosDestino.filter(cromo => !idsOrigen.has(cromo.id));
 				
 				resultsContainer.innerHTML = '';
-				renderResultadosConImagenes('offer-results', 'Cromos que puedes OFRECER', cromosParaOfrecer, usuarioOrigen, todosLosCromosMap);
-				renderResultadosConImagenes('request-results', 'Cromos que puedes SOLICITAR', cromosParaSolicitar, usuarioDestino, todosLosCromosMap);
+				renderResultados('offer-results', 'Cromos que puedes OFRECER', cromosParaOfrecer, usuarioOrigen);
+				renderResultados('request-results', 'Cromos que puedes SOLICITAR', cromosParaSolicitar, usuarioDestino);
 
 			} catch (error) {
 				console.error("Error en la comparación:", error);
@@ -16174,8 +16169,5 @@
 		}
 		// --- FIN: LÓGICA PARA LA COMPARACIÓN DE COLECCIONES ---
 	</script>
-	
-	    
-    
 </body>
 </html>
