@@ -436,7 +436,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de Piranya69</h2>
-                <span>Cartas obtenidas: 973 / 1121</span>
+                <span>Cartas obtenidas: 974 / 1121</span>
             </div>
             
             <div class="details">
@@ -477,7 +477,7 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('Captain Tsubasa')">
 								<img src="/COLECCION/botones/captain-tsubasa.png" alt="Captain Tsubasa" class="summary-button-image">
-								<span class="summary-button-counter">34 / 38</span>
+								<span class="summary-button-counter">35 / 38</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Castlevania')">
@@ -2058,7 +2058,7 @@
                             <div class="series-cards" id="series-Captain-Tsubasa" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Captain Tsubasa</h2>
-                                    <span>Cartas obtenidas: 34 / 38</span>
+                                    <span>Cartas obtenidas: 35 / 38</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -2188,6 +2188,19 @@
 											</a>
 																						<div class="cromo-details">
                                                 <h3>ED-WARNER (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 587</span>
+                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Captain Tsubasa/EDDY-BRIGHT(22-8-2025-1_18).png', '587', 'EDDY-BRIGHT', 'Raro'); return false;">
+												<div class="cromo-img-container">
+													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Captain Tsubasa/EDDY-BRIGHT(22-8-2025-1_18).png" alt="EDDY-BRIGHT">
+												</div>
+											</a>
+																						<div class="cromo-details">
+                                                <h3>EDDY-BRIGHT (x1)</h3>
                                                 <p>Rareza: Raro</p>
                                             </div>
                                         </div>
@@ -4597,7 +4610,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>DB-053 (x2)</h3>
+                                                <h3>DB-053 (x3)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -5247,7 +5260,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>DB-106 (x3)</h3>
+                                                <h3>DB-106 (x4)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -13871,8 +13884,8 @@
 			const { left, top, width, height } = card.getBoundingClientRect();
 			const x = e.clientX - left;
 			const y = e.clientY - top;
-			const rotateX = -1 * ((y - height / 2) / (height / 2)) * 12;
-			const rotateY = ((x - width / 2) / (width / 2)) * 12;
+			const rotateX = -1 * ((y - height / 2) / (height / 2)) * 18;
+			const rotateY = ((x - width / 2) / (width / 2)) * 18;
 			card.style.transform = `rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
 			card.style.setProperty('--mouse-x', `${(x / width) * 100}%`);
 			card.style.setProperty('--mouse-y', `${(y / height) * 100}%`);
