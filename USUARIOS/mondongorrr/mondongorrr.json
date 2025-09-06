@@ -349,7 +349,7 @@
     {
       "id": 114,
       "nombre": "Storm Shadow",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 5,
@@ -359,7 +359,7 @@
     {
       "id": 174,
       "nombre": "Spiderman",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 598,
@@ -549,7 +549,7 @@
     {
       "id": 392,
       "nombre": "roover",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 424,
@@ -564,7 +564,7 @@
     {
       "id": 538,
       "nombre": "BRUCE-LEE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 109,
@@ -1439,7 +1439,7 @@
     {
       "id": 211,
       "nombre": "Anillo Serpiente",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 185,
@@ -1559,12 +1559,12 @@
     {
       "id": 563,
       "nombre": "VADER-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 287,
       "nombre": "Soldado del Pie",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 768,
@@ -1769,7 +1769,7 @@
     {
       "id": 859,
       "nombre": "JASON-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 596,
@@ -1839,7 +1839,7 @@
     {
       "id": 807,
       "nombre": "JAX",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 186,
@@ -3024,6 +3024,36 @@
     {
       "id": 67,
       "nombre": "flazzard3",
+      "cantidad": 1
+    },
+    {
+      "id": 806,
+      "nombre": "JADE",
+      "cantidad": 1
+    },
+    {
+      "id": 790,
+      "nombre": "ESPANTAPAJAROS",
+      "cantidad": 1
+    },
+    {
+      "id": 890,
+      "nombre": "MEDUSA",
+      "cantidad": 1
+    },
+    {
+      "id": 780,
+      "nombre": "BARBARA-GORDON",
+      "cantidad": 1
+    },
+    {
+      "id": 1106,
+      "nombre": "G-JASON",
+      "cantidad": 1
+    },
+    {
+      "id": 950,
+      "nombre": "1-PORTHOS",
       "cantidad": 1
     }
   ]
