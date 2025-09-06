@@ -283,19 +283,20 @@
 			hsla(120,100%,80%,0.28), hsla(180,100%,80%,0.28),
 			hsla(240,100%,80%,0.28), transparent 75%);
 	}
-	/* --- INICIO: MARCOS DE NEÓN POR RAREZA --- */
+	/* --- INICIO: MARCOS DE NEÓN POR RAREZA (CON ANIMACIÓN PARA MÓVIL) --- */
 
 	/* 1. Marco plateado para la rareza COMÚN */
 	#modal-card-container.Común {
 		/* El borde físico, un gris claro */
 		border: 3px solid #E0E0E0;
 		
-		/* La magia del neón:
-		   - Una sombra exterior plateada (15px de desenfoque).
-		   - Una sombra interior blanca y sutil para simular el "tubo de neón".
-		*/
+		/* La magia del neón estático para PC */
 		box-shadow: 0 0 15px #C0C0C0, 
 					inset 0 0 10px 2px #FFFFFF;
+
+		/* ---- LÍNEAS NUEVAS ---- */
+		--glow-color: #C0C0C0; /* Variable con el color del brillo para la animación */
+		animation: neon-pulse 1.2s ease-out; /* Activa la animación al aparecer */
 	}
 
 	/* 2. Marco azul metalizado para la rareza RARO */
@@ -306,6 +307,10 @@
 		/* Sombra exterior azul y sombra interior blanca */
 		box-shadow: 0 0 18px #3498db, 
 					inset 0 0 10px 2px #FFFFFF;
+		
+		/* ---- LÍNEAS NUEVAS ---- */
+		--glow-color: #3498db; /* Variable con el color del brillo para la animación */
+		animation: neon-pulse 1.2s ease-out; /* Activa la animación al aparecer */
 	}
 
 	/* 3. Marco dorado metalizado para la rareza LEGENDARIO */
@@ -316,6 +321,10 @@
 		/* Sombra exterior dorada (más intensa) y sombra interior blanca */
 		box-shadow: 0 0 25px #FFD700, 
 					inset 0 0 12px 3px #FFFFFF;
+
+		/* ---- LÍNEAS NUEVAS ---- */
+		--glow-color: #FFD700; /* Variable con el color del brillo para la animación */
+		animation: neon-pulse 1.2s ease-out; /* Activa la animación al aparecer */
 	}
 
 	/* --- FIN: MARCOS DE NEÓN POR RAREZA --- */
@@ -426,7 +435,57 @@
 		font-size: 0.8em;
 		color: #ff9900;
 	}
-</style>
+	/* --- INICIO: ESTILOS RESPONSIVE PARA MÓVILES --- */
+
+	@media (max-width: 600px) {
+	  
+	  /* Hacemos que la imagen nunca sea más ancha que el 90% de la pantalla */
+	  .modal-content {
+		max-width: 90vw; /* 90% del ancho de la ventana gráfica (viewport) */
+		width: auto;
+		height: auto;
+	  }
+
+	  /* Ajustamos el contenedor principal para que no se pegue a los bordes */
+	  .modal-container-content {
+		padding: 10px;
+	  }
+
+	  /* Hacemos el botón de cerrar más grande y accesible */
+	  .close {
+		font-size: 50px;
+		top: 5px;
+		right: 20px;
+	  }
+	  
+	  /* Reducimos el tamaño del texto de info */
+	  .modal-info h3 {
+		  font-size: 1.1em;
+	  }
+
+	}
+
+	/* --- FIN: ESTILOS RESPONSIVE PARA MÓVILES --- */
+	/* --- INICIO: ANIMACIÓN DE PULSO NEÓN PARA MÓVILES --- */
+
+	@keyframes neon-pulse {
+	  0% {
+		/* El brillo empieza como lo tienes ahora */
+		box-shadow: inherit;
+	  }
+	  70% {
+		/* A mitad de la animación, el brillo se vuelve mucho más intenso */
+		box-shadow: 0 0 40px var(--glow-color, #fff), 
+					inset 0 0 15px 4px #FFFFFF;
+	  }
+	  100% {
+		/* Al final, vuelve a su estado normal y se queda fijo */
+		box-shadow: inherit;
+	  }
+	}
+
+	/* --- FIN: ANIMACIÓN DE PULSO NEÓN PARA MÓVILES --- */
+	</style>
 </head>
 <body>
     <div class="header">
@@ -473,7 +532,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de Tandokan</h2>
-                <span>Cartas obtenidas: 708 / 1121</span>
+                <span>Cartas obtenidas: 710 / 1121</span>
             </div>
             
             <div class="details">
@@ -594,7 +653,7 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('Mazinger')">
 								<img src="/COLECCION/botones/mazinger.png" alt="Mazinger" class="summary-button-image">
-								<span class="summary-button-counter">3 / 6</span>
+								<span class="summary-button-counter">5 / 6</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Metal Gear Solid')">
@@ -5947,7 +6006,7 @@
                             <div class="series-cards" id="series-Mazinger" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Mazinger</h2>
-                                    <span>Cartas obtenidas: 3 / 6</span>
+                                    <span>Cartas obtenidas: 5 / 6</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -5972,7 +6031,33 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>Mazinger Z (x2)</h3>
+                                                <h3>Mazinger Z (x3)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 137</span>
+                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Mazinger/HERO/Sayaka-Yumi(9-12-2023-18_54).png', '137', 'Sayaka Yumi', 'Raro'); return false;">
+												<div class="cromo-img-container">
+													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Mazinger/HERO/Sayaka-Yumi(9-12-2023-18_54).png" alt="Sayaka Yumi">
+												</div>
+											</a>
+																						<div class="cromo-details">
+                                                <h3>Sayaka Yumi (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 138</span>
+                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Mazinger/VILLANO/Dr.-Hell(9-12-2023-19_5).png', '138', 'Dr. Hell', 'Raro'); return false;">
+												<div class="cromo-img-container">
+													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Mazinger/VILLANO/Dr.-Hell(9-12-2023-19_5).png" alt="Dr. Hell">
+												</div>
+											</a>
+																						<div class="cromo-details">
+                                                <h3>Dr. Hell (x1)</h3>
                                                 <p>Rareza: Raro</p>
                                             </div>
                                         </div>
