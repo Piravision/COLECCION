@@ -834,7 +834,7 @@
         {
             "id": 375,
             "nombre": "Grobyc",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 460,
@@ -4304,6 +4304,11 @@
         {
             "id": 349,
             "nombre": "melzas",
+            "cantidad": 1
+        },
+        {
+            "id": 735,
+            "nombre": "Aiacos",
             "cantidad": 1
         }
     ]
