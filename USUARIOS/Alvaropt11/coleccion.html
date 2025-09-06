@@ -627,7 +627,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de Alvaropt11</h2>
-                <span>Cartas obtenidas: 881 / 1121</span>
+                <span>Cartas obtenidas: 882 / 1121</span>
             </div>
             
             <div class="details">
@@ -733,7 +733,7 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('JAIL-Edition')">
 								<img src="/COLECCION/botones/jail-edition.png" alt="JAIL-Edition" class="summary-button-image">
-								<span class="summary-button-counter">41 / 45</span>
+								<span class="summary-button-counter">42 / 45</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('LEGENDIBUS')">
@@ -6006,7 +6006,7 @@
                             <div class="series-cards" id="series-JAIL-Edition" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>JAIL-Edition</h2>
-                                    <span>Cartas obtenidas: 41 / 45</span>
+                                    <span>Cartas obtenidas: 42 / 45</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -6518,6 +6518,19 @@
                                         </div>
                                     
                                         <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 945</span>
+                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/JAIL-Edition/MASK-JAIL(31-8-2025-23_17).png', '945', 'MASK-JAIL', 'Legendario'); return false;">
+												<div class="cromo-img-container">
+													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/JAIL-Edition/MASK-JAIL(31-8-2025-23_17).png" alt="MASK-JAIL">
+												</div>
+											</a>
+																						<div class="cromo-details">
+                                                <h3>MASK-JAIL (x1)</h3>
+                                                <p>Rareza: Legendario</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
                                             <span class="cromo-numero">Nº: 946</span>
                                             <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/JAIL-Edition/SLOTH-JAIL(31-8-2025-23_57).png', '946', 'SLOTH-JAIL', 'Legendario'); return false;">
 												<div class="cromo-img-container">
@@ -6782,7 +6795,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>4-WILLY-FOG (x1)</h3>
+                                                <h3>4-WILLY-FOG (x2)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -12600,7 +12613,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>Tormenta (x1)</h3>
+                                                <h3>Tormenta (x2)</h3>
                                                 <p>Rareza: Raro</p>
                                             </div>
                                         </div>
@@ -12933,9 +12946,12 @@
 			}
 		}
 
-		// --- INICIO: LÓGICA PARA LA COMPARACIÓN DE COLECCIONES (VERSIÓN DEFINITIVA) ---
+		// --- INICIO: LÓGICA PARA LA COMPARACIÓN DE COLECCIONES (VERSIÓN FINAL) ---
 
-		// Esta función coge el HTML de una colección y lo convierte en una lista de objetos de cromo.
+		/**
+		 * Función que toma el texto HTML de una colección y extrae una lista de
+		 * objetos de cromo, incluyendo todos los datos necesarios.
+		 */
 		function extraerCromosDesdeHTML(htmlString) {
 			const cromos = [];
 			const parser = new DOMParser();
@@ -12965,8 +12981,10 @@
 			});
 			return cromos;
 		}
-		
-		// Esta función coge una lista de cromos y la muestra en la página.
+
+		/**
+		 * Función que coge una lista de cromos y la muestra en la página.
+		 */
 		function renderResultados(elementId, titulo, cromos, usuarioBase) {
 			const container = document.getElementById(elementId);
 			let contenidoHtml = `<div class="results-section"><h3>${titulo} (${cromos.length})</h3>`;
@@ -12993,18 +13011,27 @@
 			container.innerHTML = contenidoHtml;
 		}
 
+		/**
+		 * Función principal que se ejecuta al pulsar el botón "Comparar".
+		 */
+		// --- COPIA Y REEMPLAZA ESTA FUNCIÓN COMPLETA ---
+
 		async function compararColecciones() {
 			const usuarioOrigen = document.getElementById('userA_input').value.trim();
 			const usuarioDestino = document.getElementById('userB_input').value.trim();
-			const resultsContainer = document.getElementById('comparison-results');
 			
-			resultsContainer.innerHTML = '<p>Buscando y comparando colecciones...</p>';
-
+			// Obtenemos los contenedores de resultados por separado
+			const offerContainer = document.getElementById('offer-results');
+			const requestContainer = document.getElementById('request-results');
+			
 			if (!usuarioOrigen || !usuarioDestino) {
 				alert("Por favor, introduce ambos nombres de usuario.");
-				resultsContainer.innerHTML = '';
 				return;
 			}
+
+			// Mostramos el mensaje de carga en AMBOS contenedores
+			offerContainer.innerHTML = '<p>Buscando y comparando...</p>';
+			requestContainer.innerHTML = ''; // Limpiamos el segundo por si acaso
 
 			const GITHUB_BASE_URL = "https://piravision.github.io/COLECCION/USUARIOS/";
 			const urlOrigen = `${GITHUB_BASE_URL}${encodeURIComponent(usuarioOrigen)}/coleccion.html`;
@@ -13034,14 +13061,17 @@
 				const cromosParaOfrecer = repetidosOrigen.filter(cromo => !idsDestino.has(cromo.id));
 				const cromosParaSolicitar = repetidosDestino.filter(cromo => !idsOrigen.has(cromo.id));
 				
-				resultsContainer.innerHTML = '';
+				// Ahora sí, renderizamos los resultados en sus contenedores correctos
 				renderResultados('offer-results', 'Cromos que puedes OFRECER', cromosParaOfrecer, usuarioOrigen);
 				renderResultados('request-results', 'Cromos que puedes SOLICITAR', cromosParaSolicitar, usuarioDestino);
 
 			} catch (error) {
 				console.error("Error en la comparación:", error);
+				// Mostramos el error en el contenedor principal, que ahora no se borra
+				const resultsContainer = document.getElementById('comparison-results');
 				resultsContainer.innerHTML = `<p style="color: #ff6b6b;">Error: ${error.message}. Asegúrate de que los nombres de usuario son correctos y existen.</p>`;
 			}
+		
 		}
 		// --- FIN: LÓGICA PARA LA COMPARACIÓN DE COLECCIONES ---
 	</script>
