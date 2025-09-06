@@ -4259,7 +4259,7 @@
         {
             "id": 800,
             "nombre": "RAS-AL-GHUL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 208,
@@ -4804,6 +4804,11 @@
         {
             "id": 962,
             "nombre": "3-SHERLOK-HOLMES",
+            "cantidad": 1
+        },
+        {
+            "id": 981,
+            "nombre": "14-ETHYL-PHILLIPS",
             "cantidad": 1
         }
     ]
