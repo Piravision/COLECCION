@@ -236,7 +236,7 @@
 	#modal-card-container {
 		position: relative;
 		transform-style: preserve-3d;
-		transition: transform 0.1s linear;
+		transition: transform 0.1s linear, box-shadow 0.4s ease-out, border-color 0.4s ease-out;
 		border-radius: 15px;
 		overflow: hidden; /* Muy importante para recortar el brillo */
 		display: inline-block;
@@ -267,14 +267,14 @@
 	/* EFECTOS DE BRILLO ESPECÍFICOS POR RAREZA */
 	#modal-card-container.Común::before {
 		background-image: linear-gradient(115deg,
-			transparent 30%, rgba(255,255,255,0.6) 48%,
+			transparent 30%, rgba(255,255,255,0.3) 48%,
 			rgba(255,255,255,0.6) 52%, transparent 70%);
 	}
 
 	#modal-card-container.Raro::before {
 		background-image: linear-gradient(115deg,
-			transparent 30%, rgba(170,210,255,0.4) 48%,
-			rgba(170,210,255,0.4) 52%, transparent 70%);
+			transparent 30%, rgba(170,210,255,0.6) 48%,
+			rgba(170,210,255,0.6) 52%, transparent 70%);
 	}
 
 	#modal-card-container.Legendario::before {
@@ -283,11 +283,48 @@
 			hsla(120,100%,80%,0.28), hsla(180,100%,80%,0.28),
 			hsla(240,100%,80%,0.28), transparent 75%);
 	}
+	/* --- INICIO: MARCOS DE NEÓN POR RAREZA --- */
 
-	/* Ajustes a la imagen y al texto de info */
-	.modal-content { /* ID #imgModal renombrado a clase .modal-content por consistencia */
-		border-radius: 15px;
-		display: block;
+	/* 1. Marco plateado para la rareza COMÚN */
+	#modal-card-container.Común {
+		/* El borde físico, un gris claro */
+		border: 3px solid #E0E0E0;
+		
+		/* La magia del neón:
+		   - Una sombra exterior plateada (15px de desenfoque).
+		   - Una sombra interior blanca y sutil para simular el "tubo de neón".
+		*/
+		box-shadow: 0 0 15px #C0C0C0, 
+					inset 0 0 10px 2px #FFFFFF;
+	}
+
+	/* 2. Marco azul metalizado para la rareza RARO */
+	#modal-card-container.Raro {
+		/* El borde físico, un azul claro */
+		border: 3px solid #77b6e9;
+
+		/* Sombra exterior azul y sombra interior blanca */
+		box-shadow: 0 0 18px #3498db, 
+					inset 0 0 10px 2px #FFFFFF;
+	}
+
+	/* 3. Marco dorado metalizado para la rareza LEGENDARIO */
+	#modal-card-container.Legendario {
+		/* El borde físico, un dorado pálido */
+		border: 3px solid #FFEE75;
+		
+		/* Sombra exterior dorada (más intensa) y sombra interior blanca */
+		box-shadow: 0 0 25px #FFD700, 
+					inset 0 0 12px 3px #FFFFFF;
+	}
+
+	/* --- FIN: MARCOS DE NEÓN POR RAREZA --- */
+		
+		
+		/* Ajustes a la imagen y al texto de info */
+		.modal-content { /* ID #imgModal renombrado a clase .modal-content por consistencia */
+			border-radius: 15px;
+			display: block;
 	}
 
 	.modal-info {
@@ -436,7 +473,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de Alvaropt11</h2>
-                <span>Cartas obtenidas: 869 / 1121</span>
+                <span>Cartas obtenidas: 870 / 1121</span>
             </div>
             
             <div class="details">
@@ -447,7 +484,7 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('ANIME ICONS')">
 								<img src="/COLECCION/botones/anime-icons.png" alt="ANIME ICONS" class="summary-button-image">
-								<span class="summary-button-counter">9 / 28</span>
+								<span class="summary-button-counter">10 / 28</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Alundra')">
@@ -698,7 +735,7 @@
                             <div class="series-cards" id="series-ANIME-ICONS" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>ANIME ICONS</h2>
-                                    <span>Cartas obtenidas: 9 / 28</span>
+                                    <span>Cartas obtenidas: 10 / 28</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -815,6 +852,19 @@
 											</a>
 																						<div class="cromo-details">
                                                 <h3>TAI-&-AGUMON (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 1012</span>
+                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/ANIME ICONS/Y.HURAMESHI(2-9-2025-15_46).png', '1012', 'Y.HURAMESHI', 'Raro'); return false;">
+												<div class="cromo-img-container">
+													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/ANIME ICONS/Y.HURAMESHI(2-9-2025-15_46).png" alt="Y.HURAMESHI">
+												</div>
+											</a>
+																						<div class="cromo-details">
+                                                <h3>Y.HURAMESHI (x1)</h3>
                                                 <p>Rareza: Raro</p>
                                             </div>
                                         </div>
@@ -7476,7 +7526,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>Tanya Vanderflock (x1)</h3>
+                                                <h3>Tanya Vanderflock (x2)</h3>
                                                 <p>Rareza: Raro</p>
                                             </div>
                                         </div>
@@ -7759,7 +7809,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>STRYKER (x2)</h3>
+                                                <h3>STRYKER (x3)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -12519,8 +12569,8 @@
 			const { left, top, width, height } = card.getBoundingClientRect();
 			const x = e.clientX - left;
 			const y = e.clientY - top;
-			const rotateX = -1 * ((y - height / 2) / (height / 2)) * 12;
-			const rotateY = ((x - width / 2) / (width / 2)) * 12;
+			const rotateX = -1 * ((y - height / 2) / (height / 2)) * 25;
+			const rotateY = ((x - width / 2) / (width / 2)) * 25;
 			card.style.transform = `rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
 			card.style.setProperty('--mouse-x', `${(x / width) * 100}%`);
 			card.style.setProperty('--mouse-y', `${(y / height) * 100}%`);
