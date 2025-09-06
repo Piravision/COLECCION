@@ -2624,7 +2624,7 @@
         {
             "id": 795,
             "nombre": "JOKER",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 450,
@@ -3924,6 +3924,11 @@
         {
             "id": 784,
             "nombre": "BULLOCK",
+            "cantidad": 1
+        },
+        {
+            "id": 794,
+            "nombre": "HUGO-STRANGE",
             "cantidad": 1
         }
     ]
