@@ -104,7 +104,7 @@
     {
       "id": 244,
       "nombre": "Felina",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 18,
@@ -939,7 +939,7 @@
     {
       "id": 478,
       "nombre": "nurse",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 216,
@@ -1614,7 +1614,7 @@
     {
       "id": 670,
       "nombre": "DB-058",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 417,
@@ -1804,7 +1804,7 @@
     {
       "id": 646,
       "nombre": "DB-034",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 346,
@@ -2749,7 +2749,7 @@
     {
       "id": 250,
       "nombre": "Snarf",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 735,
@@ -4434,6 +4434,11 @@
     {
       "id": 1010,
       "nombre": "LUPIN-III",
+      "cantidad": 1
+    },
+    {
+      "id": 130,
+      "nombre": "Mer Man(",
       "cantidad": 1
     }
   ]

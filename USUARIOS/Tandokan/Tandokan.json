@@ -859,7 +859,7 @@
         {
             "id": 510,
             "nombre": "PAUL",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 85,
@@ -1034,7 +1034,7 @@
         {
             "id": 334,
             "nombre": "Siniestro",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 612,
@@ -2764,7 +2764,7 @@
         {
             "id": 371,
             "nombre": "muerte2",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 593,
@@ -2819,7 +2819,7 @@
         {
             "id": 503,
             "nombre": "gon",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 666,
@@ -3069,7 +3069,7 @@
         {
             "id": 504,
             "nombre": "HEICHAI",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 488,
@@ -3414,7 +3414,7 @@
         {
             "id": 938,
             "nombre": "VINCE-MCMAHON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 577,
@@ -3669,6 +3669,16 @@
         {
             "id": 410,
             "nombre": "Barón-Ashura",
+            "cantidad": 1
+        },
+        {
+            "id": 568,
+            "nombre": "LOS-SACAMANTECAS",
+            "cantidad": 1
+        },
+        {
+            "id": 328,
+            "nombre": "Juggernaut",
             "cantidad": 1
         }
     ]
