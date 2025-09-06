@@ -1604,7 +1604,7 @@
         {
             "id": 70,
             "nombre": "hadlar",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 879,
@@ -3144,6 +3144,11 @@
         {
             "id": 76,
             "nombre": "masopho",
+            "cantidad": 1
+        },
+        {
+            "id": 61,
+            "nombre": "Borahorn",
             "cantidad": 1
         }
     ]

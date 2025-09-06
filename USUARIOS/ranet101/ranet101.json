@@ -189,7 +189,7 @@
     {
       "id": 931,
       "nombre": "RANDY-ORTON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 204,
@@ -214,7 +214,7 @@
     {
       "id": 894,
       "nombre": "RED-SKULL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 538,
@@ -409,7 +409,7 @@
     {
       "id": 832,
       "nombre": "BLANKA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 410,
@@ -1414,6 +1414,21 @@
     {
       "id": 938,
       "nombre": "VINCE-MCMAHON",
+      "cantidad": 1
+    },
+    {
+      "id": 157,
+      "nombre": "Bluegrass",
+      "cantidad": 1
+    },
+    {
+      "id": 53,
+      "nombre": "marirov",
+      "cantidad": 1
+    },
+    {
+      "id": 689,
+      "nombre": "DB-077",
       "cantidad": 1
     }
   ]
