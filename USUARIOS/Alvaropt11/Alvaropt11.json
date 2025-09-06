@@ -3664,7 +3664,7 @@
     {
       "id": 948,
       "nombre": "1-ATHOS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 848,
@@ -3839,7 +3839,7 @@
     {
       "id": 949,
       "nombre": "1-DARTACAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 976,
@@ -4359,6 +4359,26 @@
     {
       "id": 1089,
       "nombre": "ACE-VENTURA",
+      "cantidad": 1
+    },
+    {
+      "id": 1114,
+      "nombre": "OSOS-GUMMI",
+      "cantidad": 1
+    },
+    {
+      "id": 982,
+      "nombre": "14-FRAN-SINCLAIR",
+      "cantidad": 1
+    },
+    {
+      "id": 981,
+      "nombre": "14-ETHYL-PHILLIPS",
+      "cantidad": 1
+    },
+    {
+      "id": 1094,
+      "nombre": "CZ-EGON-SPENGLER",
       "cantidad": 1
     }
   ]

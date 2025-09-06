@@ -269,7 +269,7 @@
     {
       "id": 502,
       "nombre": "viktor",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 187,
@@ -1969,7 +1969,7 @@
     {
       "id": 430,
       "nombre": "sniper2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 72,
@@ -2034,7 +2034,7 @@
     {
       "id": 634,
       "nombre": "DB-022",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 637,
@@ -3559,7 +3559,7 @@
     {
       "id": 796,
       "nombre": "MAN-BAT",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 925,
@@ -3689,7 +3689,7 @@
     {
       "id": 864,
       "nombre": "RAMBO-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 827,
@@ -3954,17 +3954,17 @@
     {
       "id": 981,
       "nombre": "14-ETHYL-PHILLIPS",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 973,
       "nombre": "8-WILLY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 975,
       "nombre": "7-PENNY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 956,
@@ -4024,7 +4024,7 @@
     {
       "id": 957,
       "nombre": "2-MONTERREY-JACK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 806,
@@ -4419,7 +4419,7 @@
     {
       "id": 962,
       "nombre": "3-SHERLOK-HOLMES",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 891,
@@ -4459,7 +4459,7 @@
     {
       "id": 596,
       "nombre": "K.HEINZ-SCHENEIDER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 982,
@@ -4884,6 +4884,36 @@
     {
       "id": 1088,
       "nombre": "1-MISTERIOS-SA",
+      "cantidad": 1
+    },
+    {
+      "id": 1116,
+      "nombre": "PF-PAPA-PITUFO",
+      "cantidad": 1
+    },
+    {
+      "id": 1024,
+      "nombre": "4FV - SILVER SURFER",
+      "cantidad": 1
+    },
+    {
+      "id": 1013,
+      "nombre": "YAIBA-KUROGAME",
+      "cantidad": 1
+    },
+    {
+      "id": 585,
+      "nombre": "DINO-HERNANDEZ",
+      "cantidad": 1
+    },
+    {
+      "id": 785,
+      "nombre": "CATWOMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1086,
+      "nombre": "Z - AVENGERS",
       "cantidad": 1
     }
   ]

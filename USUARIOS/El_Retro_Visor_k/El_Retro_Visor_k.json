@@ -3704,7 +3704,7 @@
     {
       "id": 961,
       "nombre": "3-MORIARTY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 955,
@@ -3774,7 +3774,7 @@
     {
       "id": 976,
       "nombre": "7-SABIONDO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 464,
@@ -4709,7 +4709,7 @@
     {
       "id": 1089,
       "nombre": "ACE-VENTURA",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 1119,
@@ -4734,7 +4734,7 @@
     {
       "id": 1093,
       "nombre": "CONDE-PATULA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1016,
@@ -4754,6 +4754,11 @@
     {
       "id": 1033,
       "nombre": "CABALLERO LUNA",
+      "cantidad": 1
+    },
+    {
+      "id": 1110,
+      "nombre": "G-ZOLTAR",
       "cantidad": 1
     }
   ]
