@@ -789,7 +789,7 @@
     {
       "id": 57,
       "nombre": "pop",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 549,
@@ -1414,7 +1414,7 @@
     {
       "id": 287,
       "nombre": "Soldado del Pie",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 305,
@@ -1869,7 +1869,7 @@
     {
       "id": 559,
       "nombre": "MABARRACUS-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 49,
@@ -2894,7 +2894,7 @@
     {
       "id": 842,
       "nombre": "GUILE2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 452,
@@ -2904,7 +2904,7 @@
     {
       "id": 402,
       "nombre": "hojo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 140,
@@ -3854,6 +3854,11 @@
     {
       "id": 247,
       "nombre": "Linx O",
+      "cantidad": 1
+    },
+    {
+      "id": 227,
+      "nombre": "Hawks Haven",
       "cantidad": 1
     }
   ]

@@ -469,7 +469,7 @@
     {
       "id": 302,
       "nombre": "Blitzwing",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 402,
@@ -669,7 +669,7 @@
     {
       "id": 275,
       "nombre": "Usagi Yojimbo",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 93,
@@ -1289,7 +1289,7 @@
     {
       "id": 536,
       "nombre": "Xena-Jail",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 463,
@@ -1459,7 +1459,7 @@
     {
       "id": 294,
       "nombre": "Hound",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 105,
@@ -2379,7 +2379,7 @@
     {
       "id": 680,
       "nombre": "DB-068",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 123,
@@ -2904,7 +2904,7 @@
     {
       "id": 268,
       "nombre": "Michelangelo",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 114,
@@ -3134,7 +3134,7 @@
     {
       "id": 686,
       "nombre": "DB-074",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 838,
@@ -3204,7 +3204,7 @@
     {
       "id": 871,
       "nombre": "BLACK-BOLT",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 758,
@@ -3364,7 +3364,7 @@
     {
       "id": 748,
       "nombre": "HAdes2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 783,
@@ -3509,7 +3509,7 @@
     {
       "id": 898,
       "nombre": "SUB-MARINER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 831,
@@ -3564,7 +3564,7 @@
     {
       "id": 925,
       "nombre": "WILLY-",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 229,
@@ -3734,7 +3734,7 @@
     {
       "id": 661,
       "nombre": "DB-049",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 905,
@@ -3759,7 +3759,7 @@
     {
       "id": 948,
       "nombre": "1-ATHOS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 966,
@@ -3804,7 +3804,7 @@
     {
       "id": 872,
       "nombre": "BLACK-PANTHER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 849,
@@ -3949,12 +3949,12 @@
     {
       "id": 947,
       "nombre": "1-ARAMIS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 981,
       "nombre": "14-ETHYL-PHILLIPS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 973,
@@ -4074,7 +4074,7 @@
     {
       "id": 1012,
       "nombre": "Y.HURAMESHI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 397,
@@ -4144,7 +4144,7 @@
     {
       "id": 951,
       "nombre": "10-DANIEL-EL-TRAVIESO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 685,
@@ -4319,7 +4319,7 @@
     {
       "id": 900,
       "nombre": "THOR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 812,
@@ -4599,7 +4599,7 @@
     {
       "id": 621,
       "nombre": "DB-009",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 866,
@@ -4779,6 +4779,91 @@
     {
       "id": 1039,
       "nombre": "DAREDEVIL-2",
+      "cantidad": 1
+    },
+    {
+      "id": 1121,
+      "nombre": "RUGRATS",
+      "cantidad": 1
+    },
+    {
+      "id": 1120,
+      "nombre": "PF-PITUFO-GRUÑON",
+      "cantidad": 2
+    },
+    {
+      "id": 1089,
+      "nombre": "ACE-VENTURA",
+      "cantidad": 1
+    },
+    {
+      "id": 1100,
+      "nombre": "D-GOSALYN",
+      "cantidad": 1
+    },
+    {
+      "id": 1090,
+      "nombre": "ANIMANIACS",
+      "cantidad": 1
+    },
+    {
+      "id": 1103,
+      "nombre": "FRAGGLE-ROCK",
+      "cantidad": 1
+    },
+    {
+      "id": 1104,
+      "nombre": "G-AUTILLO",
+      "cantidad": 1
+    },
+    {
+      "id": 1118,
+      "nombre": "PF-PITUFO FILOSOFO",
+      "cantidad": 1
+    },
+    {
+      "id": 1101,
+      "nombre": "D-JOE-MCQUACK",
+      "cantidad": 1
+    },
+    {
+      "id": 690,
+      "nombre": "DB-078",
+      "cantidad": 1
+    },
+    {
+      "id": 1001,
+      "nombre": "MUSCULMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1035,
+      "nombre": "CAPITAN BRITANIA",
+      "cantidad": 1
+    },
+    {
+      "id": 1033,
+      "nombre": "CABALLERO LUNA",
+      "cantidad": 1
+    },
+    {
+      "id": 983,
+      "nombre": "14-ROBBIE-SINCLAIR",
+      "cantidad": 1
+    },
+    {
+      "id": 1082,
+      "nombre": "X- PSYLOCKE",
+      "cantidad": 1
+    },
+    {
+      "id": 1044,
+      "nombre": "HAVOK",
+      "cantidad": 1
+    },
+    {
+      "id": 1022,
+      "nombre": "4F- MR FANTASTIC",
       "cantidad": 1
     }
   ]

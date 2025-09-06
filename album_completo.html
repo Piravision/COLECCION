@@ -5,296 +5,304 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Álbum Completo de Cromos</title>
     <style>
-    body {
-        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-        margin: 0;
-        padding: 0;
-        background-color: #0c0c0c;
-        color: #f4f4f4;
-        position: relative;
-    }
+	body {
+		font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+		margin: 0;
+		padding: 0;
+		background-color: #0c0c0c;
+		color: #f4f4f4;
+		position: relative;
+	}
 
-    .header {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        background: #1f1f1f;
-        padding: 10px 20px;
-    }
+	.header {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		background: #1f1f1f;
+		padding: 10px 20px;
+	}
 
-    .logo-container {
-        text-align: center;
-        margin-bottom: 10px;
-    }
+	.logo-container {
+		text-align: center;
+		margin-bottom: 10px;
+	}
 
-    .logo {
-        max-height: 160px;
-        height: auto;
-        width: auto;
-    }
+	.logo {
+		max-height: 160px;
+		height: auto;
+		width: auto;
+	}
 
-    @media (max-width: 600px) {
-        .logo {
-            max-height: 120px;
-        }
-    }
+	@media (max-width: 600px) {
+		.logo {
+			max-height: 120px;
+		}
+	}
 
-    .social-icons {
-        display: flex;
-        gap: 10px;
-        flex-wrap: wrap;
-        justify-content: center;
-        margin-bottom: 10px;
-    }
+	.social-icons {
+		display: flex;
+		gap: 10px;
+		flex-wrap: wrap;
+		justify-content: center;
+		margin-bottom: 10px;
+	}
 
-    .social-icons img {
-        width: 35px;
-        height: 35px;
-        transition: transform 0.2s;
-    }
+	.social-icons img {
+		width: 35px;
+		height: 35px;
+		transition: transform 0.2s;
+	}
 
-    .social-icons img:hover {
-        transform: scale(1.1);
-    }
+	.social-icons img:hover {
+		transform: scale(1.1);
+	}
 
-    .container {
-        width: 90%;
-        max-width: 1200px;
-        margin: auto;
-        padding: 20px;
-        position: relative;
-        z-index: 2;
-    }
+	.container {
+		width: 90%;
+		max-width: 1200px;
+		margin: auto;
+		padding: 20px;
+		position: relative;
+		z-index: 2;
+	}
 
-    /* Fondo atenuado con la nueva imagen */
-    .background {
-        position: fixed;
-        top: 0; left: 0;
-        width: 100%; height: 100%;
-        z-index: -1;
-        filter: blur(15px) brightness(0.3);
-        background: url('https://piravision.github.io/COLECCION/dorsocarta.png') no-repeat center center;
-        background-size: cover;
-    }
+	/* Fondo atenuado con la nueva imagen */
+	.background {
+		position: fixed;
+		top: 0; left: 0;
+		width: 100%; height: 100%;
+		z-index: -1;
+		filter: blur(15px) brightness(0.3);
+		background: url('https://piravision.github.io/COLECCION/dorsocarta.png') no-repeat center center;
+		background-size: cover;
+	}
 
-    .content {
-        background: rgba(255, 255, 255, 0.07);
-        border-radius: 10px;
-        padding: 20px;
-        margin-bottom: 30px;
-    }
+	.content {
+		background: rgba(255, 255, 255, 0.07);
+		border-radius: 10px;
+		padding: 20px;
+		margin-bottom: 30px;
+	}
 
-    .section-title-1 {
-        border-bottom: 2px solid #ff9900;
-        margin-bottom: 10px;
-        display: flex;
-        justify-content: space-between;
-        align-items: baseline;
-    }
+	.section-title-1 {
+		border-bottom: 2px solid #ff9900;
+		margin-bottom: 10px;
+		display: flex;
+		justify-content: space-between;
+		align-items: baseline;
+	}
 
-    .section-title-1 h2 {
-        margin: 0;
-        font-size: 1.4rem;
-        color: #ff9900;
-    }
-    
-    .section-title-1 span {
-        font-size: 1.2rem;
-        color: #fff;
-    }
+	.section-title-1 h2 {
+		margin: 0;
+		font-size: 1.4rem;
+		color: #ff9900;
+	}
 
-    .section-title-2 {
-        margin-top: 20px;
-        display: flex;
-        justify-content: space-between;
-        align-items: baseline;
-    }
+	.section-title-1 span {
+		font-size: 1.2rem;
+		color: #fff;
+	}
 
-    .section-title-2 h2 {
-        margin: 0;
-        font-size: 1.2rem;
-    }
+	.section-title-2 {
+		margin-top: 20px;
+		display: flex;
+		justify-content: space-between;
+		align-items: baseline;
+	}
 
-    .section-title-2 span {
-        font-size: 1rem;
-        color: #ccc;
-    }
+	.section-title-2 h2 {
+		margin: 0;
+		font-size: 1.2rem;
+	}
 
-    .coleccion {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 20px;
-        padding: 20px 0;
-        justify-content: flex-start;
-    }
+	.section-title-2 span {
+		font-size: 1rem;
+		color: #ccc;
+	}
 
-    .cromo-card {
-        flex: 0 0 auto;
-        width: 200px;
-        border: 2px solid #555;
-        border-radius: 10px;
-        padding: 10px;
-        background-color: #333;
-        box-shadow: 0 4px 8px rgba(0,0,0,0.5);
-        text-align: center;
-        position: relative;
-        display: flex;
-        flex-direction: column;
-    }
+	.coleccion {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 20px;
+		padding: 20px 0;
+		justify-content: flex-start;
+	}
 
-    .cromo-card a {
-        cursor: pointer;
-        text-decoration: none;
-        color: inherit;
-    }
+	.cromo-card {
+		flex: 0 0 auto;
+		width: 200px;
+		border: 2px solid #555;
+		border-radius: 10px;
+		padding: 10px;
+		background-color: #333;
+		box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+		text-align: center;
+		position: relative;
+		display: flex;
+		flex-direction: column;
+		overflow: hidden;
+	}
 
-    .cromo-img-container {
-        width: 100%;
-        aspect-ratio: 1 / 1;
-        overflow: hidden;
-        border-radius: 5px;
-        margin-bottom: 10px;
-    }
+	.cromo-card a {
+		cursor: pointer;
+		text-decoration: none;
+		color: inherit;
+	}
 
-    .cromo-img-container img {
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-    }
+	.cromo-img-container {
+		width: 100%;
+		aspect-ratio: 1 / 1;
+		overflow: hidden;
+		border-radius: 5px;
+		margin-bottom: 10px;
+	}
 
-    .cromo-card h3 {
-        margin: auto 0 5px;
-        font-size: 1.2em;
-    }
+	.cromo-img-container img {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+	}
 
-    .cromo-card p {
-        margin: 5px 0 0;
-        font-size: 0.9em;
-        color: #ccc;
-    }
+	.cromo-card h3 {
+		margin: auto 0 5px;
+		font-size: 1.2em;
+	}
 
-    .cromo-numero {
-        position: absolute;
-        top: 10px;
-        left: 10px;
-        background-color: #ff9900;
-        color: #111;
-        padding: 5px 10px;
-        border-radius: 5px;
-        font-weight: bold;
-    }
+	.cromo-card p {
+		margin: 5px 0 0;
+		font-size: 0.9em;
+		color: #ccc;
+	}
 
-    .footer {
-        text-align: center;
-        padding: 10px;
-        background: #111;
-        color: #fff;
-    }
+	.cromo-numero {
+		position: absolute;
+		top: 10px;
+		left: 10px;
+		background-color: #ff9900;
+		color: #111;
+		padding: 5px 10px;
+		border-radius: 5px;
+		font-weight: bold;
+		z-index: 5; /* 🔥 asegura visibilidad en legendarios */
+	}
 
-    a {
-        color: #ff9900;
-        text-decoration: none;
-    }
+	.footer {
+		text-align: center;
+		padding: 10px;
+		background: #111;
+		color: #fff;
+	}
 
-    a:hover {
-        text-decoration: underline;
-    }
+	a {
+		color: #ff9900;
+		text-decoration: none;
+	}
 
-    /* Estilos del modal */
-    .modal {
-        display: none;
-        position: fixed;
-        z-index: 100;
-        padding-top: 50px;
-        left: 0;
-        top: 0;
-        width: 100%;
-        height: 100%;
-        overflow: auto;
-        background-color: rgba(0,0,0,0.9);
-    }
+	a:hover {
+		text-decoration: underline;
+	}
 
-    .modal-content {
-        margin: auto;
-        display: block;
-        width: 80%;
-        max-width: 700px;
-    }
+	/* Estilos del modal */
+	.modal {
+		display: none;
+		position: fixed;
+		z-index: 100;
+		left: 0;
+		top: 0;
+		width: 100%;
+		height: 100%;
+		background-color: rgba(0,0,0,0.9);
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		perspective: 1000px;	
+	}
+		.modal.visible {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
 
-    .modal-info {
-        text-align: center;
-        color: #fff;
-        margin-top: 10px;
-    }
+	.modal-content {
+		margin: auto;
+		display: block;
+		width: 80%;
+		max-width: 700px;
+		border-radius: 15px;
+	}
 
-    .modal-content, .modal-info {
-        animation-name: zoom;
-        animation-duration: 0.6s;
-    }
+	.modal-info {
+		text-align: center;
+		color: #fff;
+		margin-bottom: 10px; /* 🔥 antes margin-top */
+		margin-top: 15px; 
+	}
 
-    @keyframes zoom {
-        from {transform: scale(0)}
-        to {transform: scale(1)}
-    }
+	.modal-content, .modal-info {
+		animation-name: zoom;
+		animation-duration: 0.6s;
+	}
 
-    .close {
-        position: absolute;
-        top: 15px;
-        right: 35px;
-        color: #f1f1f1;
-        font-size: 40px;
-        font-weight: bold;
-        transition: 0.3s;
-        cursor: pointer;
-    }
+	@keyframes zoom {
+		from {transform: scale(0)}
+		to {transform: scale(1)}
+	}
 
-    .close:hover,
-    .close:focus {
-        color: #bbb;
-        text-decoration: none;
-        cursor: pointer;
-    }
-    
-    /* Estilos del buscador de usuario */
-    .search-container {
-        background: rgba(255, 255, 255, 0.07);
-        border-radius: 10px;
-        padding: 20px;
-        margin-bottom: 20px;
-        text-align: center;
-    }
-    
-    .search-container input, .search-container button {
-        padding: 10px;
-        border-radius: 5px;
-        border: none;
-        margin: 5px;
-        font-size: 1rem;
-    }
-    
-    .search-container input {
-        background-color: #222;
-        color: #fff;
-    }
-    
-    .search-container button {
-        background-color: #ff9900;
-        color: #111;
-        cursor: pointer;
-        font-weight: bold;
-    }
-    
-    /* Logo antes del buscador */
-    .search-logo-container {
-        text-align: center;
-        margin: 20px 0;
-    }
-	
-	
-	
-	
-    /* ESTILOS DE LA CUADRÍCULA DE SERIES */
+	.close {
+		position: absolute;
+		top: 15px;
+		right: 35px;
+		color: #f1f1f1;
+		font-size: 40px;
+		font-weight: bold;
+		transition: 0.3s;
+		cursor: pointer;
+	}
+
+	.close:hover,
+	.close:focus {
+		color: #bbb;
+		text-decoration: none;
+		cursor: pointer;
+	}
+
+	/* Estilos del buscador de usuario */
+	.search-container {
+		background: rgba(255, 255, 255, 0.07);
+		border-radius: 10px;
+		padding: 20px;
+		margin-bottom: 20px;
+		text-align: center;
+	}
+
+	.search-container input, .search-container button {
+		padding: 10px;
+		border-radius: 5px;
+		border: none;
+		margin: 5px;
+		font-size: 1rem;
+	}
+
+	.search-container input {
+		background-color: #222;
+		color: #fff;
+	}
+
+	.search-container button {
+		background-color: #ff9900;
+		color: #111;
+		cursor: pointer;
+		font-weight: bold;
+	}
+
+	/* Logo antes del buscador */
+	.search-logo-container {
+		text-align: center;
+		margin: 20px 0;
+	}
+
+	/* ESTILOS DE LA CUADRÍCULA DE SERIES */
 	.summary-grid-container {
 		margin-top: 20px;
 		margin-bottom: 30px;
@@ -311,8 +319,8 @@
 		position: relative;
 		overflow: hidden;
 		display: flex;
-		justify-content: flex-end; /* Alinea los elementos al final del contenedor */
-		align-items: flex-end; /* Alinea los elementos a la derecha del contenedor */
+		justify-content: flex-end;
+		align-items: flex-end;
 		aspect-ratio: 1 / 1;
 		padding: 10px;
 		border: 1px solid #444;
@@ -327,7 +335,6 @@
 		transform: scale(1.05);
 	}
 
-	/* Estilos de la imagen como fondo */
 	.summary-button-image {
 		width: 100%;
 		height: 100%;
@@ -339,10 +346,9 @@
 		border-radius: 10px;
 	}
 
-	/* Estilos para el texto del contador */
 	.summary-button-counter {
-		position: relative; /* Lo eleva por encima de la imagen */
-		z-index: 1; /* Valor mayor que el de la imagen */
+		position: relative;
+		z-index: 1;
 		background-color: rgba(0, 0, 0, 0.6);
 		padding: 3px 8px;
 		border-radius: 5px;
@@ -350,6 +356,7 @@
 		font-size: 0.8em;
 		color: #ff9900;
 	}
+
 	/* --- ESTILOS PARA LA SECCIÓN DE SOBRES --- */
 	.info-sobres {
 		background: rgba(255, 255, 255, 0.07);
@@ -378,7 +385,7 @@
 	.sobres-grid {
 		display: flex;
 		justify-content: space-around;
-		align-items: stretch; /* Asegura que las cards tengan la misma altura */
+		align-items: stretch;
 		flex-wrap: wrap;
 		gap: 25px;
 	}
@@ -414,7 +421,7 @@
 		color: #ccc;
 		font-size: 0.95em;
 		line-height: 1.6;
-		flex-grow: 1; /* Permite que el párrafo ocupe el espacio disponible */
+		flex-grow: 1;
 	}
 
 	.sobre-card .canjeo {
@@ -437,9 +444,142 @@
 		font-weight: bold;
 		color: #f4f4f4;
 	}
-	
-	
-</style>
+
+	/* --- BLOQUE DE ANIMACIONES --- */
+	#modal-card-container {
+		position: relative;
+		transform-style: preserve-3d;
+		transition: transform 0.1s linear;
+		border-radius: 15px;
+		overflow: hidden;
+		display: inline-block;
+	}
+
+	#modal-card-container::before {
+		content: "";
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		border-radius: 15px;
+		opacity: 0;
+		transition: opacity 0.25s ease-out;
+		mix-blend-mode: color-dodge;
+		background-size: 250% 250%;
+		background-position: var(--mouse-x) var(--mouse-y);
+		pointer-events: none;
+	}
+
+	#modal-card-container:hover::before { opacity: 1; }
+
+	#modal-card-container.comun::before {
+		background-image: linear-gradient(115deg,
+			transparent 30%,
+			rgba(255,255,255,0.6) 48%,
+			rgba(255,255,255,0.6) 52%,
+			transparent 70%);
+	}
+
+	#modal-card-container.raro::before {
+		background-image: linear-gradient(115deg,
+			transparent 30%,
+			rgba(170,210,255,0.4) 48%,
+			rgba(170,210,255,0.4) 52%,
+			transparent 70%);
+	}
+
+	#modal-card-container.legendario::before {
+		background-image: linear-gradient(115deg,
+			transparent 25%,
+			hsla(0,100%,80%,0.28),
+			hsla(60,100%,80%,0.28),
+			hsla(120,100%,80%,0.28),
+			hsla(180,100%,80%,0.28),
+			hsla(240,100%,80%,0.28),
+			transparent 75%);
+	}
+
+	@media (min-width: 1024px) {
+		.cromo-card.clicked { z-index: 10; }
+
+		.cromo-card.comun.clicked { transform: scale(1.08) rotate(2deg); }
+
+		.cromo-card.raro.clicked {
+			transform: scale(1.1) rotate(-2deg);
+			box-shadow: 0 0 20px #3498db;
+		}
+
+		.cromo-card.raro::before {
+			content: '';
+			position: absolute;
+			top: 0;
+			left: -100%;
+			width: 50%;
+			height: 100%;
+			background: linear-gradient(90deg, transparent, rgba(255,255,255,0.42), transparent);
+			transform: skewX(-30deg);
+			pointer-events: none;
+		}
+
+		.cromo-card.raro.clicked::before {
+			animation: shine-effect 0.8s ease-out forwards;
+		}
+
+		@keyframes shine-effect {
+			0% { left: -100%; }
+			100% { left: 150%; }
+		}
+
+		.cromo-card.legendario { position: relative; overflow: hidden; }
+
+		.cromo-card.legendario.clicked {
+			transform: scale(1.15) rotate(0deg);
+			animation: pulse-legendary 0.8s ease-in-out, shake-legendary 0.4s ease-in-out;
+		}
+
+		.cromo-card.legendario::before {
+			content: '';
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			border-radius: 10px;
+			background: conic-gradient(from 0deg, red, yellow, lime, aqua, blue, magenta, red);
+			opacity: 0;
+			transition: opacity 0.4s;
+			pointer-events: none;
+		}
+
+		.cromo-card.legendario > :not(.cromo-numero) { 
+			position: relative; 
+			z-index: 3; 
+		}
+
+		.cromo-card.legendario.clicked::before {
+			opacity: 0.32;
+			animation: holographic-effect 0.8s linear;
+		}
+
+		@keyframes holographic-effect {
+			0% { transform: rotate(0deg); }
+			100% { transform: rotate(360deg); }
+		}
+
+		@keyframes pulse-legendary {
+			0%, 100% { box-shadow: 0 0 30px gold; }
+			50% { box-shadow: 0 0 50px #ffeb3b; }
+		}
+
+		@keyframes shake-legendary {
+			0%, 100% { transform: scale(1.15) translateX(0); }
+			25% { transform: scale(1.15) translateX(-2px); }
+			75% { transform: scale(1.15) translateX(2px); }
+		}
+	}
+	</style>
+
 </head>
 <body>
     <div class="header">
@@ -16999,62 +17139,252 @@
     </div>
 
     <div id="myModal" class="modal">
-        <span class="close" onclick="closeModal()">&times;</span>
-        <div id="modal-info" class="modal-info"></div>
-        <img class="modal-content" id="imgModal">
-    </div>
+		<span class="close" onclick="closeModal()">&times;</span>
+		<div id="modal-info" class="modal-info"></div>
+		<div id="modal-card-container">
+			<img class="modal-content" id="imgModal">
+		</div>
+	</div>
     
     <script>
-        function openModal(imagenUrl, cromoId, cromoNombre) {
-            const modal = document.getElementById("myModal");
-            const modalImg = document.getElementById("imgModal");
-            const modalInfo = document.getElementById("modal-info");
 
-            modalImg.src = imagenUrl;
-            modalInfo.innerHTML = `<h3>Nº: ${cromoId} - ${cromoNombre}</h3>`;
-            modal.style.display = "block";
-        }
+        // --- INICIO: FRAGMENTO JAVASCRIPT NUEVO ---
 
-        function closeModal() {
-            document.getElementById("myModal").style.display = "none";
-        }
 
-        window.onclick = function(event) {
-            const modal = document.getElementById("myModal");
-            if (event.target == modal) {
-                closeModal();
-            }
-        }
-        
-        function buscarColeccion() {
-            const username = document.getElementById("usernameInput").value.trim();
-            if (username) {
-                const url = `https://piravision.github.io/COLECCION/USUARIOS/${encodeURIComponent(username)}/coleccion.html`;
-                window.location.href = url;
-            } else {
-                alert("Por favor, introduce un nombre de usuario.");
-            }
-        }
 
-        document.getElementById("usernameInput").addEventListener("keyup", function(event) {
-            if (event.key === "Enter") {
-                event.preventDefault();
-                document.querySelector(".search-container button").click();
-            }
-        });
+		const modalCardContainer = document.getElementById('modal-card-container');
 
-        function mostrarCartas(serie) {
-            // Oculta todas las series
-            const todasLasSeries = document.querySelectorAll('.series-cards');
-            todasLasSeries.forEach(s => s.style.display = 'none');
-            
-            // Muestra solo la serie seleccionada
-            const serieId = `series-${serie.replace(/ /g, '-').replace(/&/g, 'and').replace(/'/g, '')}`;
-            const serieSeleccionada = document.getElementById(serieId);
-            if (serieSeleccionada) {
-                serieSeleccionada.style.display = 'block';
-            }
-        }
-    </script>
+
+		// Función que maneja el efecto de inclinación 3D
+
+		const handleCardTilt = (e) => {
+
+		const card = e.currentTarget;
+
+		const { left, top, width, height } = card.getBoundingClientRect();
+
+		const x = e.clientX - left;
+
+		const y = e.clientY - top;
+
+
+
+		const rotateX = -1 * ((y - height / 2) / (height / 2)) * 12; // Inclinación max de 12 grados
+
+		const rotateY = ((x - width / 2) / (width / 2)) * 12;
+
+
+
+		card.style.transform = `rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
+
+
+
+		// Actualizar posición del mouse para los brillos
+
+		card.style.setProperty('--mouse-x', `${(x / width) * 100}%`);
+
+		card.style.setProperty('--mouse-y', `${(y / height) * 100}%`);
+
+		};
+
+
+		// Función para resetear la inclinación cuando el ratón sale
+
+		const resetCardTilt = (e) => {
+
+		e.currentTarget.style.transform = 'rotateX(0deg) rotateY(0deg)';
+
+		}
+
+
+
+		function openModal(linkElement, imagenUrl, cromoId, cromoNombre) {
+
+		const card = linkElement.closest('.cromo-card');
+
+		const modal = document.getElementById("myModal");
+
+		const modalImg = document.getElementById("imgModal");
+
+		const modalInfo = document.getElementById("modal-info");
+
+
+		// 1. Limpiar clases de rareza anteriores del contenedor del modal
+
+		modalCardContainer.classList.remove('comun', 'raro', 'legendario');
+
+
+
+		// 2. Añadir la clase de rareza correcta al contenedor del modal
+
+		if (card.classList.contains('comun')) {
+
+		modalCardContainer.classList.add('comun');
+
+		} else if (card.classList.contains('raro')) {
+
+		modalCardContainer.classList.add('raro');
+
+		} else if (card.classList.contains('legendario')) {
+
+		modalCardContainer.classList.add('legendario');
+
+		}
+
+
+
+		// 3. Cargar la info y mostrar el modal
+
+		modalImg.src = imagenUrl;
+
+		modalInfo.innerHTML = `<h3>Nº: ${cromoId} - ${cromoNombre}</h3>`;
+
+		modal.style.display = "flex"; // Usamos flex para centrarlo
+
+
+		// 4. Activar los listeners para el efecto 3D
+
+		modalCardContainer.addEventListener('mousemove', handleCardTilt);
+
+		modalCardContainer.addEventListener('mouseleave', resetCardTilt);
+
+		}
+
+
+
+		function closeModal() {
+
+		const modal = document.getElementById("myModal");
+
+		modal.style.display = "none";
+
+
+		// 5. Desactivar los listeners para ahorrar recursos
+
+		modalCardContainer.removeEventListener('mousemove', handleCardTilt);
+
+		modalCardContainer.removeEventListener('mouseleave', resetCardTilt);
+
+		resetCardTilt({currentTarget: modalCardContainer}); // Resetea la posición al cerrar
+
+		}
+
+
+
+		window.onclick = function(event) {
+
+		if (event.target == document.getElementById("myModal")) {
+
+		closeModal();
+
+		}
+
+		}
+
+
+		function buscarColeccion() {
+
+		const username = document.getElementById("usernameInput").value.trim();
+
+		if (username) {
+
+		const url = `https://piravision.github.io/COLECCION/USUARIOS/${encodeURIComponent(username)}/coleccion.html`;
+
+		window.location.href = url;
+
+		} else {
+
+		alert("Por favor, introduce un nombre de usuario.");
+
+		}
+
+		}
+
+
+
+		document.getElementById("usernameInput").addEventListener("keyup", function(event) {
+
+		if (event.key === "Enter") {
+
+		event.preventDefault();
+
+		document.querySelector(".search-container button").click();
+
+		}
+
+		});
+
+
+
+		function mostrarCartas(serie) {
+
+		const todasLasSeries = document.querySelectorAll('.series-cards');
+
+		todasLasSeries.forEach(s => s.style.display = 'none');
+
+
+		const serieId = `series-${serie.replace(/ /g, '-').replace(/&/g, 'and').replace(/'/g, '')}`;
+
+		const serieSeleccionada = document.getElementById(serieId);
+
+		if (serieSeleccionada) {
+
+		serieSeleccionada.style.display = 'block';
+
+		}
+
+		}
+
+
+		document.addEventListener('DOMContentLoaded', function() {
+
+		const allCards = document.querySelectorAll('.cromo-card');
+
+
+		allCards.forEach(card => {
+
+		const rarityText = card.querySelector('p')?.textContent.toLowerCase();
+
+		if (rarityText) {
+
+		if (rarityText.includes('común')) {
+
+		card.classList.add('comun');
+
+		} else if (rarityText.includes('raro')) {
+
+		card.classList.add('raro');
+
+		} else if (rarityText.includes('legendario')) {
+
+		card.classList.add('legendario');
+
+		}
+
+		}
+
+		});
+
+
+
+		const cardLinks = document.querySelectorAll('.cromo-card a');
+
+		cardLinks.forEach(link => {
+
+		const originalOnclick = link.getAttribute('onclick');
+
+		const newOnclick = originalOnclick.replace('openModal(', 'openModal(this, ').replace('; return false;', '');
+
+		link.setAttribute('onclick', newOnclick);
+
+		});
+
+		});
+
+		// --- FIN: FRAGMENTO JAVASCRIPT NUEVO ---
+
+
+
+	</script>
 </body>
 </html>

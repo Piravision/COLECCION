@@ -79,7 +79,7 @@
     {
       "id": 103,
       "nombre": "Gung Ho",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 414,
@@ -254,7 +254,7 @@
     {
       "id": 105,
       "nombre": "Sargento Slaughter",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 330,
@@ -399,7 +399,7 @@
     {
       "id": 109,
       "nombre": "Cobra Commander",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 289,
@@ -1064,7 +1064,7 @@
     {
       "id": 116,
       "nombre": "Cringer",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 751,
@@ -1864,7 +1864,7 @@
     {
       "id": 560,
       "nombre": "MACGYVER-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 573,
@@ -2014,7 +2014,7 @@
     {
       "id": 150,
       "nombre": "Throttle",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 433,
@@ -2174,7 +2174,7 @@
     {
       "id": 883,
       "nombre": "HULK",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 206,
@@ -3279,12 +3279,12 @@
     {
       "id": 898,
       "nombre": "SUB-MARINER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 948,
       "nombre": "1-ATHOS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 450,
@@ -3814,7 +3814,7 @@
     {
       "id": 950,
       "nombre": "1-PORTHOS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 120,
@@ -4224,7 +4224,7 @@
     {
       "id": 972,
       "nombre": "8-MAYA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 643,
@@ -4254,7 +4254,7 @@
     {
       "id": 980,
       "nombre": "14-EARL-SINCLAIR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 800,
@@ -4374,7 +4374,7 @@
     {
       "id": 986,
       "nombre": "15-BALOO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 987,
@@ -4699,6 +4699,61 @@
     {
       "id": 997,
       "nombre": "IKKI-&-METABEE",
+      "cantidad": 1
+    },
+    {
+      "id": 1090,
+      "nombre": "ANIMANIACS",
+      "cantidad": 1
+    },
+    {
+      "id": 1089,
+      "nombre": "ACE-VENTURA",
+      "cantidad": 1
+    },
+    {
+      "id": 1119,
+      "nombre": "PF-PITUFO-FORTACHON",
+      "cantidad": 1
+    },
+    {
+      "id": 1116,
+      "nombre": "PF-PAPA-PITUFO",
+      "cantidad": 1
+    },
+    {
+      "id": 1115,
+      "nombre": "PF-GARGAMEL-&-AZRAEL",
+      "cantidad": 1
+    },
+    {
+      "id": 1088,
+      "nombre": "1-MISTERIOS-SA",
+      "cantidad": 1
+    },
+    {
+      "id": 1093,
+      "nombre": "CONDE-PATULA",
+      "cantidad": 1
+    },
+    {
+      "id": 1016,
+      "nombre": "1- VENOM",
+      "cantidad": 1
+    },
+    {
+      "id": 1064,
+      "nombre": "SP- VENOM-2",
+      "cantidad": 1
+    },
+    {
+      "id": 1082,
+      "nombre": "X- PSYLOCKE",
+      "cantidad": 1
+    },
+    {
+      "id": 1033,
+      "nombre": "CABALLERO LUNA",
       "cantidad": 1
     }
   ]

@@ -194,7 +194,7 @@
     {
       "id": 1,
       "nombre": "30 30",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 49,
@@ -409,7 +409,7 @@
     {
       "id": 542,
       "nombre": "DIE-HARD",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 140,
@@ -659,7 +659,7 @@
     {
       "id": 549,
       "nombre": "T-1000",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 270,
@@ -669,7 +669,7 @@
     {
       "id": 564,
       "nombre": "SLIMER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 307,
@@ -1104,7 +1104,7 @@
     {
       "id": 16,
       "nombre": "Dregs",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 501,
@@ -1174,7 +1174,7 @@
     {
       "id": 529,
       "nombre": "Mística",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 488,
@@ -1404,7 +1404,7 @@
     {
       "id": 321,
       "nombre": "Quicksilver",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 910,
@@ -1834,6 +1834,91 @@
     {
       "id": 611,
       "nombre": "TERRY-DENTON",
+      "cantidad": 1
+    },
+    {
+      "id": 958,
+      "nombre": "2-ZIPPER",
+      "cantidad": 1
+    },
+    {
+      "id": 446,
+      "nombre": "CUERVOS",
+      "cantidad": 1
+    },
+    {
+      "id": 408,
+      "nombre": "Elisa--Gárgola",
+      "cantidad": 1
+    },
+    {
+      "id": 93,
+      "nombre": "Elisa Maza",
+      "cantidad": 1
+    },
+    {
+      "id": 90,
+      "nombre": "Broadway",
+      "cantidad": 1
+    },
+    {
+      "id": 323,
+      "nombre": "Tormenta",
+      "cantidad": 1
+    },
+    {
+      "id": 813,
+      "nombre": "LIU-KANG",
+      "cantidad": 1
+    },
+    {
+      "id": 17,
+      "nombre": "Guerrero Serpiente",
+      "cantidad": 1
+    },
+    {
+      "id": 915,
+      "nombre": "WONDER-WOMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 214,
+      "nombre": "Brimstar",
+      "cantidad": 1
+    },
+    {
+      "id": 76,
+      "nombre": "masopho",
+      "cantidad": 1
+    },
+    {
+      "id": 10,
+      "nombre": "Conan",
+      "cantidad": 1
+    },
+    {
+      "id": 14,
+      "nombre": "Snagg",
+      "cantidad": 1
+    },
+    {
+      "id": 24,
+      "nombre": "Bobby",
+      "cantidad": 1
+    },
+    {
+      "id": 723,
+      "nombre": "DB-111",
+      "cantidad": 1
+    },
+    {
+      "id": 4,
+      "nombre": "Tex Hex",
+      "cantidad": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Bravestarr",
       "cantidad": 1
     }
   ]
