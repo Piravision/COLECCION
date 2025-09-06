@@ -253,9 +253,7 @@
 		height: 100%;
 		opacity: 0;
 		transition: opacity 0.25s ease-out;
-		mix-blend-mode: color-dodge;
-		background-size: 250% 250%;
-		background-position: var(--mouse-x) var(--mouse-y);
+		mix-blend-mode: color-dodge; /* La propiedad clave que revela el patrón */
 		pointer-events: none; /* Permite hacer clic a través del efecto */
 		z-index: 2;
 	}
@@ -264,76 +262,97 @@
 		opacity: 1; 
 	}
 
-	/* EFECTOS DE BRILLO ESPECÍFICOS POR RAREZA */
+	/* --- EFECTOS DE BRILLO Y PATRONES HOLOGRÁFICOS POR RAREZA --- */
+
 	#modal-card-container.Común::before {
-		background-image: linear-gradient(115deg,
-			transparent 30%, rgba(255,255,255,0.3) 48%,
-			rgba(255,255,255,0.6) 52%, transparent 70%);
+		/* Capa 1: Reflejo de luz (móvil) */
+		background-image: linear-gradient(115deg, transparent 30%, rgba(255,255,255,0.4) 48%, rgba(255,255,255,0.4) 52%, transparent 70%),
+		                  
+		                  /* Capa 2: Patrón de líneas diagonales (fijo) */
+		                  repeating-linear-gradient(45deg, rgba(255,255,255,0.05), rgba(255,255,255,0.05) 1px, transparent 1px, transparent 10px);
+
+		/* Controlamos cada capa por separado */
+		background-size: 250% 250%, 100% 100%;
+		background-position: var(--mouse-x) var(--mouse-y), 0 0;
+		background-repeat: no-repeat, repeat;
 	}
 
 	#modal-card-container.Raro::before {
-		background-image: linear-gradient(115deg,
-			transparent 30%, rgba(170,210,255,0.6) 48%,
-			rgba(170,210,255,0.6) 52%, transparent 70%);
+		/* Capa 1: Reflejo de luz (móvil) */
+		background-image: linear-gradient(115deg, transparent 30%, rgba(170,210,255,0.5) 48%, rgba(170,210,255,0.5) 52%, transparent 70%),
+		                  
+		                  /* Capa 2: Patrón de rejilla (fijo) */
+		                  repeating-linear-gradient(0deg, rgba(255,255,255,0.04) 0 1px, transparent 1px 20px),
+		                  repeating-linear-gradient(90deg, rgba(255,255,255,0.04) 0 1px, transparent 1px 20px);
+
+		/* Controlamos cada capa por separado */
+		background-size: 250% 250%, 100% 100%, 100% 100%;
+		background-position: var(--mouse-x) var(--mouse-y), 0 0, 0 0;
+		background-repeat: no-repeat, repeat, repeat;
 	}
 
 	#modal-card-container.Legendario::before {
-		background-image: linear-gradient(115deg,
-			transparent 25%, hsla(0,100%,80%,0.28), hsla(60,100%,80%,0.28),
-			hsla(120,100%,80%,0.28), hsla(180,100%,80%,0.28),
-			hsla(240,100%,80%,0.28), transparent 75%);
+		/* Capa 1: Reflejo de luz arcoíris (móvil) */
+		background-image: linear-gradient(115deg, transparent 25%, hsla(0,100%,80%,0.28), hsla(60,100%,80%,0.28), hsla(120,100%,80%,0.28), hsla(180,100%,80%,0.28), hsla(240,100%,80%,0.28), transparent 75%),
+		                  
+		                  /* Capa 2: Patrón de estrellas (fijo) */
+		                  radial-gradient(circle at 20% 30%, white 2px, transparent 3px),
+		                  radial-gradient(circle at 80% 70%, white 1px, transparent 2px),
+		                  radial-gradient(circle at 50% 50%, white 1px, transparent 2px);
+
+		/* Controlamos cada capa por separado */
+		background-size: 250% 250%, 100% 100%;
+		background-position: var(--mouse-x) var(--mouse-y), 0 0;
+		background-repeat: no-repeat, no-repeat;
 	}
-	/* --- INICIO: MARCOS DE NEÓN POR RAREZA (CON ANIMACIÓN PARA MÓVIL) --- */
+	/* --- INICIO: MARCOS DE NEÓN POR RAREZA (CON ANIMACIÓN PERMANENTE) --- */
 
 	/* 1. Marco plateado para la rareza COMÚN */
 	#modal-card-container.Común {
-		/* El borde físico, un gris claro */
 		border: 3px solid #E0E0E0;
-		
-		/* La magia del neón estático para PC */
 		box-shadow: 0 0 15px #C0C0C0, 
 					inset 0 0 10px 2px #FFFFFF;
-
-		/* ---- LÍNEAS NUEVAS ---- */
-		--glow-color: #C0C0C0; /* Variable con el color del brillo para la animación */
-		animation: neon-pulse 1.2s ease-out; /* Activa la animación al aparecer */
+		--glow-color: #C0C0C0;
+		
+		/* Animación lenta e infinita */
+		animation: neon-pulse 3s ease-in-out infinite; 
 	}
 
 	/* 2. Marco azul metalizado para la rareza RARO */
 	#modal-card-container.Raro {
-		/* El borde físico, un azul claro */
 		border: 3px solid #77b6e9;
-
-		/* Sombra exterior azul y sombra interior blanca */
 		box-shadow: 0 0 18px #3498db, 
 					inset 0 0 10px 2px #FFFFFF;
+		--glow-color: #3498db;
 		
-		/* ---- LÍNEAS NUEVAS ---- */
-		--glow-color: #3498db; /* Variable con el color del brillo para la animación */
-		animation: neon-pulse 1.2s ease-out; /* Activa la animación al aparecer */
+		/* MISMA animación lenta e infinita */
+		animation: neon-pulse 3s ease-in-out infinite; 
 	}
 
 	/* 3. Marco dorado metalizado para la rareza LEGENDARIO */
 	#modal-card-container.Legendario {
-		/* El borde físico, un dorado pálido */
 		border: 3px solid #FFEE75;
-		
-		/* Sombra exterior dorada (más intensa) y sombra interior blanca */
 		box-shadow: 0 0 25px #FFD700, 
 					inset 0 0 12px 3px #FFFFFF;
-
-		/* ---- LÍNEAS NUEVAS ---- */
-		--glow-color: #FFD700; /* Variable con el color del brillo para la animación */
-		animation: neon-pulse 1.2s ease-out; /* Activa la animación al aparecer */
+		--glow-color: #FFD700;
+		
+		/* MISMA animación lenta e infinita */
+		animation: neon-pulse 3s ease-in-out infinite; 
 	}
 
 	/* --- FIN: MARCOS DE NEÓN POR RAREZA --- */
 		
 		
-		/* Ajustes a la imagen y al texto de info */
-		.modal-content { /* ID #imgModal renombrado a clase .modal-content por consistencia */
-			border-radius: 15px;
-			display: block;
+		/* ESTA ES LA REGLA CORREGIDA */
+	.modal-content {
+		border-radius: 15px;
+		display: block;
+		
+		/* ---- LÍNEAS NUEVAS Y CRUCIALES ---- */
+		width: auto;       /* El ancho se ajustará automáticamente */
+		height: auto;      /* El alto se ajustará automáticamente */
+		max-width: 500px;  /* Límite máximo para pantallas de PC */
+		max-height: 80vh;  /* Límite de altura: 80% de la altura de la pantalla */
 	}
 
 	.modal-info {
@@ -439,11 +458,10 @@
 
 	@media (max-width: 600px) {
 	  
-	  /* Hacemos que la imagen nunca sea más ancha que el 90% de la pantalla */
+	  /* Hacemos que la imagen nunca sea más ancha ni más alta que la pantalla */
 	  .modal-content {
-		max-width: 90vw; /* 90% del ancho de la ventana gráfica (viewport) */
-		width: auto;
-		height: auto;
+		max-width: 90vw;  /* Límite de ANCHO: 90% del ancho de la pantalla */
+		max-height: 85vh; /* Límite de ALTURA: 85% de la altura de la pantalla */
 	  }
 
 	  /* Ajustamos el contenedor principal para que no se pegue a los bordes */
