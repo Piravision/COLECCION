@@ -469,7 +469,7 @@
     {
       "id": 523,
       "nombre": "lara2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 328,
@@ -614,7 +614,7 @@
     {
       "id": 543,
       "nombre": "DIE-HARD-III",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 515,
@@ -909,7 +909,7 @@
     {
       "id": 156,
       "nombre": "Lord Camembert",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 312,
@@ -1184,7 +1184,7 @@
     {
       "id": 284,
       "nombre": "Roadkill",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 67,
@@ -1639,7 +1639,7 @@
     {
       "id": 436,
       "nombre": "abe",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 575,
@@ -1939,7 +1939,7 @@
     {
       "id": 917,
       "nombre": "MYERS-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 862,
@@ -2054,7 +2054,7 @@
     {
       "id": 649,
       "nombre": "DB-037",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 463,
@@ -2189,7 +2189,7 @@
     {
       "id": 860,
       "nombre": "MAHONEY-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 472,
@@ -2669,6 +2669,26 @@
     {
       "id": 739,
       "nombre": "Athenea",
+      "cantidad": 1
+    },
+    {
+      "id": 670,
+      "nombre": "DB-058",
+      "cantidad": 1
+    },
+    {
+      "id": 904,
+      "nombre": "CLARK-KENT",
+      "cantidad": 1
+    },
+    {
+      "id": 1008,
+      "nombre": "SAKURA",
+      "cantidad": 1
+    },
+    {
+      "id": 342,
+      "nombre": "Flazzard",
       "cantidad": 1
     }
   ]
