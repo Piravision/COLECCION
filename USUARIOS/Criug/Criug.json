@@ -29,7 +29,7 @@
         {
             "id": 330,
             "nombre": "Magneto",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 306,
@@ -144,7 +144,7 @@
         {
             "id": 179,
             "nombre": "Duende Verde",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 511,
@@ -179,7 +179,7 @@
         {
             "id": 224,
             "nombre": "Guarida Tortuga",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 265,
@@ -204,7 +204,7 @@
         {
             "id": 521,
             "nombre": "León-O",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 25,
@@ -299,7 +299,7 @@
         {
             "id": 296,
             "nombre": "Jazz",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 52,
@@ -614,7 +614,7 @@
         {
             "id": 454,
             "nombre": "zombi",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 500,
@@ -829,7 +829,7 @@
         {
             "id": 554,
             "nombre": "HANSOLO-JAIL",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 413,
@@ -1099,7 +1099,7 @@
         {
             "id": 292,
             "nombre": "Bumblebee",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 4,
@@ -1499,7 +1499,7 @@
         {
             "id": 570,
             "nombre": "MILLION-DOLLAR-MAN",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 666,
@@ -1909,7 +1909,7 @@
         {
             "id": 484,
             "nombre": "Blowhard",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 297,
@@ -2159,7 +2159,7 @@
         {
             "id": 553,
             "nombre": "GOKU-JAIL",
-            "cantidad": 6
+            "cantidad": 7
         },
         {
             "id": 588,
@@ -2994,7 +2994,7 @@
         {
             "id": 731,
             "nombre": "DB-119",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 825,
@@ -3229,7 +3229,7 @@
         {
             "id": 360,
             "nombre": "stung",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 876,
@@ -3509,7 +3509,7 @@
         {
             "id": 579,
             "nombre": "BOB-DENVER",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 893,
@@ -3549,7 +3549,7 @@
         {
             "id": 931,
             "nombre": "RANDY-ORTON",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 860,
@@ -3644,7 +3644,7 @@
         {
             "id": 784,
             "nombre": "BULLOCK",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 933,
@@ -3694,7 +3694,7 @@
         {
             "id": 954,
             "nombre": "2-CHIP",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 948,
@@ -3704,7 +3704,7 @@
         {
             "id": 75,
             "nombre": "mac",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 965,
@@ -3809,7 +3809,7 @@
         {
             "id": 734,
             "nombre": "Afrodita-de-Piscis",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 826,
@@ -4049,7 +4049,7 @@
         {
             "id": 920,
             "nombre": "HAM-TYLER",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 994,
@@ -4139,7 +4139,7 @@
         {
             "id": 241,
             "nombre": "Thunder Tank",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 957,
@@ -4414,7 +4414,7 @@
         {
             "id": 968,
             "nombre": "4-WILLY-FOG",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1082,
@@ -4464,6 +4464,41 @@
         {
             "id": 594,
             "nombre": "JUAN-DIAZ",
+            "cantidad": 1
+        },
+        {
+            "id": 970,
+            "nombre": "6-VICKY-EL-VIKINGO",
+            "cantidad": 1
+        },
+        {
+            "id": 785,
+            "nombre": "CATWOMAN",
+            "cantidad": 1
+        },
+        {
+            "id": 1011,
+            "nombre": "TAI-&-AGUMON",
+            "cantidad": 1
+        },
+        {
+            "id": 436,
+            "nombre": "abe",
+            "cantidad": 1
+        },
+        {
+            "id": 888,
+            "nombre": "LOKI",
+            "cantidad": 1
+        },
+        {
+            "id": 1113,
+            "nombre": "LOS-FRUITIS",
+            "cantidad": 1
+        },
+        {
+            "id": 781,
+            "nombre": "BATGIRL",
             "cantidad": 1
         }
     ]
