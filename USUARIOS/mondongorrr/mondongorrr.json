@@ -79,7 +79,7 @@
     {
       "id": 450,
       "nombre": "licker",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 163,
@@ -474,7 +474,7 @@
     {
       "id": 559,
       "nombre": "MABARRACUS-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 115,
@@ -2104,7 +2104,7 @@
     {
       "id": 779,
       "nombre": "BANE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 746,
@@ -3354,6 +3354,21 @@
     {
       "id": 977,
       "nombre": "13-ODIE",
+      "cantidad": 1
+    },
+    {
+      "id": 930,
+      "nombre": "MANKIND",
+      "cantidad": 1
+    },
+    {
+      "id": 960,
+      "nombre": "3-LESTRADE",
+      "cantidad": 1
+    },
+    {
+      "id": 819,
+      "nombre": "SCORPION",
       "cantidad": 1
     }
   ]

@@ -3129,7 +3129,7 @@
     {
       "id": 890,
       "nombre": "MEDUSA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 433,
@@ -3264,7 +3264,7 @@
     {
       "id": 861,
       "nombre": "MARTY-JAIL",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 513,
@@ -4534,6 +4534,11 @@
     {
       "id": 583,
       "nombre": "DANNY-MELOW",
+      "cantidad": 1
+    },
+    {
+      "id": 652,
+      "nombre": "DB-040",
       "cantidad": 1
     }
   ]
