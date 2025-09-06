@@ -449,7 +449,7 @@
         {
             "id": 389,
             "nombre": "neo cortex",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 415,
@@ -3129,6 +3129,11 @@
         {
             "id": 31,
             "nombre": "Tiamat",
+            "cantidad": 1
+        },
+        {
+            "id": 393,
+            "nombre": "Tawna",
             "cantidad": 1
         }
     ]
