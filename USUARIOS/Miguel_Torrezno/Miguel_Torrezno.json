@@ -339,7 +339,7 @@
     {
       "id": 340,
       "nombre": "Poseidón",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 163,
@@ -834,7 +834,7 @@
     {
       "id": 485,
       "nombre": "Dr_Shemp",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 570,
@@ -2469,6 +2469,26 @@
     {
       "id": 37,
       "nombre": "brass",
+      "cantidad": 1
+    },
+    {
+      "id": 1089,
+      "nombre": "ACE-VENTURA",
+      "cantidad": 1
+    },
+    {
+      "id": 591,
+      "nombre": "JAMES-DERRICK",
+      "cantidad": 1
+    },
+    {
+      "id": 1104,
+      "nombre": "G-AUTILLO",
+      "cantidad": 1
+    },
+    {
+      "id": 1116,
+      "nombre": "PF-PAPA-PITUFO",
       "cantidad": 1
     }
   ]

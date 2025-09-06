@@ -44,7 +44,7 @@
     {
       "id": 109,
       "nombre": "Cobra Commander",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 349,
@@ -874,7 +874,7 @@
     {
       "id": 255,
       "nombre": "Ma Mutt",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 302,
@@ -1214,7 +1214,7 @@
     {
       "id": 181,
       "nombre": "Hydro man",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 574,
@@ -2074,7 +2074,7 @@
     {
       "id": 720,
       "nombre": "DB-108",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 311,
@@ -2689,6 +2689,61 @@
     {
       "id": 342,
       "nombre": "Flazzard",
+      "cantidad": 1
+    },
+    {
+      "id": 990,
+      "nombre": "CHICHO-TERREMOTO",
+      "cantidad": 1
+    },
+    {
+      "id": 914,
+      "nombre": "SUPERMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1001,
+      "nombre": "MUSCULMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 597,
+      "nombre": "LOUIS-NAPOLEON",
+      "cantidad": 1
+    },
+    {
+      "id": 199,
+      "nombre": "Streex",
+      "cantidad": 1
+    },
+    {
+      "id": 921,
+      "nombre": "JULIET-PARRISH",
+      "cantidad": 1
+    },
+    {
+      "id": 931,
+      "nombre": "RANDY-ORTON",
+      "cantidad": 1
+    },
+    {
+      "id": 248,
+      "nombre": "Panthro",
+      "cantidad": 1
+    },
+    {
+      "id": 1041,
+      "nombre": "FALCON-2",
+      "cantidad": 1
+    },
+    {
+      "id": 835,
+      "nombre": "CHUN-LI",
+      "cantidad": 1
+    },
+    {
+      "id": 229,
+      "nombre": "Last Chance Garage",
       "cantidad": 1
     }
   ]
