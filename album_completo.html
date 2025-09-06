@@ -236,7 +236,7 @@
 	#modal-card-container {
 		position: relative;
 		transform-style: preserve-3d;
-		transition: transform 0.1s linear;
+		transition: transform 0.1s linear, box-shadow 0.4s ease-out, border-color 0.4s ease-out;
 		border-radius: 15px;
 		overflow: hidden; /* Muy importante para recortar el brillo */
 		display: inline-block;
@@ -283,11 +283,48 @@
 			hsla(120,100%,80%,0.28), hsla(180,100%,80%,0.28),
 			hsla(240,100%,80%,0.28), transparent 75%);
 	}
+	/* --- INICIO: MARCOS DE NEÓN POR RAREZA --- */
 
-	/* Ajustes a la imagen y al texto de info */
-	.modal-content { /* ID #imgModal renombrado a clase .modal-content por consistencia */
-		border-radius: 15px;
-		display: block;
+	/* 1. Marco plateado para la rareza COMÚN */
+	#modal-card-container.Común {
+		/* El borde físico, un gris claro */
+		border: 3px solid #E0E0E0;
+		
+		/* La magia del neón:
+		   - Una sombra exterior plateada (15px de desenfoque).
+		   - Una sombra interior blanca y sutil para simular el "tubo de neón".
+		*/
+		box-shadow: 0 0 15px #C0C0C0, 
+					inset 0 0 10px 2px #FFFFFF;
+	}
+
+	/* 2. Marco azul metalizado para la rareza RARO */
+	#modal-card-container.Raro {
+		/* El borde físico, un azul claro */
+		border: 3px solid #77b6e9;
+
+		/* Sombra exterior azul y sombra interior blanca */
+		box-shadow: 0 0 18px #3498db, 
+					inset 0 0 10px 2px #FFFFFF;
+	}
+
+	/* 3. Marco dorado metalizado para la rareza LEGENDARIO */
+	#modal-card-container.Legendario {
+		/* El borde físico, un dorado pálido */
+		border: 3px solid #FFEE75;
+		
+		/* Sombra exterior dorada (más intensa) y sombra interior blanca */
+		box-shadow: 0 0 25px #FFD700, 
+					inset 0 0 12px 3px #FFFFFF;
+	}
+
+	/* --- FIN: MARCOS DE NEÓN POR RAREZA --- */
+		
+		
+		/* Ajustes a la imagen y al texto de info */
+		.modal-content { /* ID #imgModal renombrado a clase .modal-content por consistencia */
+			border-radius: 15px;
+			display: block;
 	}
 
 	.modal-info {
