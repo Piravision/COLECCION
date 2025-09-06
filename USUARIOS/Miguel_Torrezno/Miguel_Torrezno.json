@@ -854,7 +854,7 @@
     {
       "id": 109,
       "nombre": "Cobra Commander",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 351,
@@ -2509,6 +2509,16 @@
     {
       "id": 56,
       "nombre": "nova",
+      "cantidad": 1
+    },
+    {
+      "id": 618,
+      "nombre": "DB-006",
+      "cantidad": 1
+    },
+    {
+      "id": 599,
+      "nombre": "MARK-LENDERS",
       "cantidad": 1
     }
   ]
