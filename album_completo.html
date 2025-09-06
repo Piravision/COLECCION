@@ -16121,18 +16121,24 @@
 		/**
 		 * Función principal que se ejecuta al pulsar el botón "Comparar".
 		 */
+		// --- COPIA Y REEMPLAZA ESTA FUNCIÓN COMPLETA ---
+
 		async function compararColecciones() {
 			const usuarioOrigen = document.getElementById('userA_input').value.trim();
 			const usuarioDestino = document.getElementById('userB_input').value.trim();
-			const resultsContainer = document.getElementById('comparison-results');
 			
-			resultsContainer.innerHTML = '<p>Buscando y comparando colecciones...</p>';
-
+			// Obtenemos los contenedores de resultados por separado
+			const offerContainer = document.getElementById('offer-results');
+			const requestContainer = document.getElementById('request-results');
+			
 			if (!usuarioOrigen || !usuarioDestino) {
 				alert("Por favor, introduce ambos nombres de usuario.");
-				resultsContainer.innerHTML = '';
 				return;
 			}
+
+			// Mostramos el mensaje de carga en AMBOS contenedores
+			offerContainer.innerHTML = '<p>Buscando y comparando...</p>';
+			requestContainer.innerHTML = ''; // Limpiamos el segundo por si acaso
 
 			const GITHUB_BASE_URL = "https://piravision.github.io/COLECCION/USUARIOS/";
 			const urlOrigen = `${GITHUB_BASE_URL}${encodeURIComponent(usuarioOrigen)}/coleccion.html`;
@@ -16162,14 +16168,17 @@
 				const cromosParaOfrecer = repetidosOrigen.filter(cromo => !idsDestino.has(cromo.id));
 				const cromosParaSolicitar = repetidosDestino.filter(cromo => !idsOrigen.has(cromo.id));
 				
-				resultsContainer.innerHTML = '';
+				// Ahora sí, renderizamos los resultados en sus contenedores correctos
 				renderResultados('offer-results', 'Cromos que puedes OFRECER', cromosParaOfrecer, usuarioOrigen);
 				renderResultados('request-results', 'Cromos que puedes SOLICITAR', cromosParaSolicitar, usuarioDestino);
 
 			} catch (error) {
 				console.error("Error en la comparación:", error);
+				// Mostramos el error en el contenedor principal, que ahora no se borra
+				const resultsContainer = document.getElementById('comparison-results');
 				resultsContainer.innerHTML = `<p style="color: #ff6b6b;">Error: ${error.message}. Asegúrate de que los nombres de usuario son correctos y existen.</p>`;
 			}
+		
 		}
 		// --- FIN: LÓGICA PARA LA COMPARACIÓN DE COLECCIONES ---
 	</script>
