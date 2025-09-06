@@ -49,7 +49,7 @@
     {
       "id": 567,
       "nombre": "JAKE-ROBERTS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 292,
@@ -609,6 +609,16 @@
     {
       "id": 158,
       "nombre": "Copper Kid",
+      "cantidad": 1
+    },
+    {
+      "id": 219,
+      "nombre": "Dirigible Tortuga",
+      "cantidad": 1
+    },
+    {
+      "id": 333,
+      "nombre": "Omega Rojo",
       "cantidad": 1
     }
   ]

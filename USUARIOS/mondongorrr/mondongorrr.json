@@ -2324,7 +2324,7 @@
         {
             "id": 412,
             "nombre": "big2",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 599,
@@ -3259,6 +3259,11 @@
         {
             "id": 379,
             "nombre": "lynx",
+            "cantidad": 1
+        },
+        {
+            "id": 417,
+            "nombre": "grayfox",
             "cantidad": 1
         }
     ]
