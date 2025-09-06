@@ -1861,7 +1861,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>Dark Saga (x2)</h3>
+                                                <h3>Dark Saga (x3)</h3>
                                                 <p>Rareza: Raro</p>
                                             </div>
                                         </div>
@@ -3068,7 +3068,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>vsneo (x3)</h3>
+                                                <h3>vsneo (x4)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -12070,7 +12070,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>MACHO-MAN (x3)</h3>
+                                                <h3>MACHO-MAN (x4)</h3>
                                                 <p>Rareza: Legendario</p>
                                             </div>
                                         </div>
@@ -12790,9 +12790,12 @@
 			}
 		}
 
-		// --- INICIO: LÓGICA PARA LA COMPARACIÓN DE COLECCIONES (VERSIÓN DEFINITIVA) ---
+		// --- INICIO: LÓGICA PARA LA COMPARACIÓN DE COLECCIONES (VERSIÓN FINAL) ---
 
-		// Esta función coge el HTML de una colección y lo convierte en una lista de objetos de cromo.
+		/**
+		 * Función que toma el texto HTML de una colección y extrae una lista de
+		 * objetos de cromo, incluyendo todos los datos necesarios.
+		 */
 		function extraerCromosDesdeHTML(htmlString) {
 			const cromos = [];
 			const parser = new DOMParser();
@@ -12822,8 +12825,10 @@
 			});
 			return cromos;
 		}
-		
-		// Esta función coge una lista de cromos y la muestra en la página.
+
+		/**
+		 * Función que coge una lista de cromos y la muestra en la página.
+		 */
 		function renderResultados(elementId, titulo, cromos, usuarioBase) {
 			const container = document.getElementById(elementId);
 			let contenidoHtml = `<div class="results-section"><h3>${titulo} (${cromos.length})</h3>`;
@@ -12850,6 +12855,9 @@
 			container.innerHTML = contenidoHtml;
 		}
 
+		/**
+		 * Función principal que se ejecuta al pulsar el botón "Comparar".
+		 */
 		async function compararColecciones() {
 			const usuarioOrigen = document.getElementById('userA_input').value.trim();
 			const usuarioDestino = document.getElementById('userB_input').value.trim();
