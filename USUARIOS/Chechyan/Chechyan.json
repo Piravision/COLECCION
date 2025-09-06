@@ -4,7 +4,7 @@
     {
       "id": 309,
       "nombre": "Thundercracker",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 290,
@@ -514,6 +514,16 @@
     {
       "id": 44,
       "nombre": "Fly",
+      "cantidad": 1
+    },
+    {
+      "id": 16,
+      "nombre": "Dregs",
+      "cantidad": 1
+    },
+    {
+      "id": 924,
+      "nombre": "VISITOR-SOLDIER",
       "cantidad": 1
     }
   ]

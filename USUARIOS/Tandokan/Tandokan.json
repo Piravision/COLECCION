@@ -1809,7 +1809,7 @@
         {
             "id": 580,
             "nombre": "BRUCE-HARPER",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 840,
@@ -3619,6 +3619,11 @@
         {
             "id": 389,
             "nombre": "neo cortex",
+            "cantidad": 1
+        },
+        {
+            "id": 601,
+            "nombre": "OLIVER-ATOM",
             "cantidad": 1
         }
     ]
