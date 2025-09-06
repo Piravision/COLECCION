@@ -639,7 +639,7 @@
     {
       "id": 653,
       "nombre": "DB-041",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 372,
@@ -729,7 +729,7 @@
     {
       "id": 65,
       "nombre": "flazzard",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 808,
@@ -1464,6 +1464,26 @@
     {
       "id": 863,
       "nombre": "PREDATOR-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 683,
+      "nombre": "DB-071",
+      "cantidad": 1
+    },
+    {
+      "id": 783,
+      "nombre": "BRUCE-WAYNE",
+      "cantidad": 1
+    },
+    {
+      "id": 365,
+      "nombre": "alucard 1",
+      "cantidad": 1
+    },
+    {
+      "id": 562,
+      "nombre": "PETER-GRIFFIN-JAIL",
       "cantidad": 1
     }
   ]

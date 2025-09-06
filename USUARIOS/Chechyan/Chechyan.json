@@ -304,7 +304,7 @@
     {
       "id": 321,
       "nombre": "Quicksilver",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 9,
@@ -524,6 +524,31 @@
     {
       "id": 924,
       "nombre": "VISITOR-SOLDIER",
+      "cantidad": 1
+    },
+    {
+      "id": 351,
+      "nombre": "reaper",
+      "cantidad": 1
+    },
+    {
+      "id": 777,
+      "nombre": "Zordon",
+      "cantidad": 1
+    },
+    {
+      "id": 298,
+      "nombre": "Prowl",
+      "cantidad": 1
+    },
+    {
+      "id": 455,
+      "nombre": "batsu",
+      "cantidad": 1
+    },
+    {
+      "id": 883,
+      "nombre": "HULK",
       "cantidad": 1
     }
   ]
