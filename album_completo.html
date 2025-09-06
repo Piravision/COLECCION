@@ -15795,8 +15795,8 @@
 			const { left, top, width, height } = card.getBoundingClientRect();
 			const x = e.clientX - left;
 			const y = e.clientY - top;
-			const rotateX = -1 * ((y - height / 2) / (height / 2)) * 18;
-			const rotateY = ((x - width / 2) / (width / 2)) * 18;
+			const rotateX = -1 * ((y - height / 2) / (height / 2)) * 22;
+			const rotateY = ((x - width / 2) / (width / 2)) * 22;
 			card.style.transform = `rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
 			card.style.setProperty('--mouse-x', `${(x / width) * 100}%`);
 			card.style.setProperty('--mouse-y', `${(y / height) * 100}%`);
