@@ -541,7 +541,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de Alvaropt11</h2>
-                <span>Cartas obtenidas: 872 / 1121</span>
+                <span>Cartas obtenidas: 873 / 1121</span>
             </div>
             
             <div class="details">
@@ -652,7 +652,7 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('LEGENDIBUS')">
 								<img src="/COLECCION/botones/legendibus.png" alt="LEGENDIBUS" class="summary-button-image">
-								<span class="summary-button-counter">28 / 75</span>
+								<span class="summary-button-counter">29 / 75</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Marvel-Classics')">
@@ -6450,7 +6450,7 @@
                             <div class="series-cards" id="series-LEGENDIBUS" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>LEGENDIBUS</h2>
-                                    <span>Cartas obtenidas: 28 / 75</span>
+                                    <span>Cartas obtenidas: 29 / 75</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -6475,7 +6475,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>1-ATHOS (x1)</h3>
+                                                <h3>1-ATHOS (x2)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -6488,7 +6488,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>1-DARTACAN (x1)</h3>
+                                                <h3>1-DARTACAN (x2)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -6801,6 +6801,19 @@
 											</a>
 																						<div class="cromo-details">
                                                 <h3>FRAGGLE-ROCK (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 1114</span>
+                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/LEGENDIBUS/OSOS-GUMMI.png', '1114', 'OSOS-GUMMI', 'Común'); return false;">
+												<div class="cromo-img-container">
+													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/LEGENDIBUS/OSOS-GUMMI.png" alt="OSOS-GUMMI">
+												</div>
+											</a>
+																						<div class="cromo-details">
+                                                <h3>OSOS-GUMMI (x1)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -12740,6 +12753,7 @@
 			const serieSeleccionada = document.getElementById(serieId);
 			if (serieSeleccionada) {
 				serieSeleccionada.style.display = 'block';
+				serieSeleccionada.scrollIntoView({ behavior: 'smooth', block: 'start' });
 			}
 		}
 	</script>
