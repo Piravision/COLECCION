@@ -1739,7 +1739,7 @@
         {
             "id": 49,
             "nombre": "leona",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 133,
@@ -3154,6 +3154,11 @@
         {
             "id": 57,
             "nombre": "pop",
+            "cantidad": 1
+        },
+        {
+            "id": 42,
+            "nombre": "dai 2",
             "cantidad": 1
         }
     ]
