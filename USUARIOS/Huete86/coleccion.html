@@ -236,7 +236,7 @@
 	#modal-card-container {
 		position: relative;
 		transform-style: preserve-3d;
-		transition: transform 0.1s linear;
+		transition: transform 0.1s linear, box-shadow 0.4s ease-out, border-color 0.4s ease-out;
 		border-radius: 15px;
 		overflow: hidden; /* Muy importante para recortar el brillo */
 		display: inline-block;
@@ -267,14 +267,14 @@
 	/* EFECTOS DE BRILLO ESPECÍFICOS POR RAREZA */
 	#modal-card-container.Común::before {
 		background-image: linear-gradient(115deg,
-			transparent 30%, rgba(255,255,255,0.6) 48%,
+			transparent 30%, rgba(255,255,255,0.3) 48%,
 			rgba(255,255,255,0.6) 52%, transparent 70%);
 	}
 
 	#modal-card-container.Raro::before {
 		background-image: linear-gradient(115deg,
-			transparent 30%, rgba(170,210,255,0.4) 48%,
-			rgba(170,210,255,0.4) 52%, transparent 70%);
+			transparent 30%, rgba(170,210,255,0.6) 48%,
+			rgba(170,210,255,0.6) 52%, transparent 70%);
 	}
 
 	#modal-card-container.Legendario::before {
@@ -283,11 +283,63 @@
 			hsla(120,100%,80%,0.28), hsla(180,100%,80%,0.28),
 			hsla(240,100%,80%,0.28), transparent 75%);
 	}
+	/* --- INICIO: MARCOS DE NEÓN POR RAREZA (CON ANIMACIÓN PARA MÓVIL) --- */
 
-	/* Ajustes a la imagen y al texto de info */
-	.modal-content { /* ID #imgModal renombrado a clase .modal-content por consistencia */
+	/* 1. Marco plateado para la rareza COMÚN */
+	#modal-card-container.Común {
+		/* El borde físico, un gris claro */
+		border: 3px solid #E0E0E0;
+		
+		/* La magia del neón estático para PC */
+		box-shadow: 0 0 15px #C0C0C0, 
+					inset 0 0 10px 2px #FFFFFF;
+
+		/* ---- LÍNEAS NUEVAS ---- */
+		--glow-color: #C0C0C0; /* Variable con el color del brillo para la animación */
+		animation: neon-pulse 3s ease-in-out infinite; /* Se repite infinitamente y dura 3 segundos */
+	}
+
+	/* 2. Marco azul metalizado para la rareza RARO */
+	#modal-card-container.Raro {
+		/* El borde físico, un azul claro */
+		border: 3px solid #77b6e9;
+
+		/* Sombra exterior azul y sombra interior blanca */
+		box-shadow: 0 0 18px #3498db, 
+					inset 0 0 10px 2px #FFFFFF;
+		
+		/* ---- LÍNEAS NUEVAS ---- */
+		--glow-color: #3498db; /* Variable con el color del brillo para la animación */
+		animation: neon-pulse 1.2s ease-out; /* Activa la animación al aparecer */
+	}
+
+	/* 3. Marco dorado metalizado para la rareza LEGENDARIO */
+	#modal-card-container.Legendario {
+		/* El borde físico, un dorado pálido */
+		border: 3px solid #FFEE75;
+		
+		/* Sombra exterior dorada (más intensa) y sombra interior blanca */
+		box-shadow: 0 0 25px #FFD700, 
+					inset 0 0 12px 3px #FFFFFF;
+
+		/* ---- LÍNEAS NUEVAS ---- */
+		--glow-color: #FFD700; /* Variable con el color del brillo para la animación */
+		animation: neon-pulse 1.2s ease-out; /* Activa la animación al aparecer */
+	}
+
+	/* --- FIN: MARCOS DE NEÓN POR RAREZA --- */
+		
+		
+		/* ESTA ES LA REGLA CORREGIDA */
+	.modal-content {
 		border-radius: 15px;
 		display: block;
+		
+		/* ---- LÍNEAS NUEVAS Y CRUCIALES ---- */
+		width: auto;       /* El ancho se ajustará automáticamente */
+		height: auto;      /* El alto se ajustará automáticamente */
+		max-width: 500px;  /* Límite máximo para pantallas de PC */
+		max-height: 80vh;  /* Límite de altura: 80% de la altura de la pantalla */
 	}
 
 	.modal-info {
@@ -389,7 +441,56 @@
 		font-size: 0.8em;
 		color: #ff9900;
 	}
-</style>
+	/* --- INICIO: ESTILOS RESPONSIVE PARA MÓVILES --- */
+
+	@media (max-width: 600px) {
+	  
+	  /* Hacemos que la imagen nunca sea más ancha ni más alta que la pantalla */
+	  .modal-content {
+		max-width: 90vw;  /* Límite de ANCHO: 90% del ancho de la pantalla */
+		max-height: 85vh; /* Límite de ALTURA: 85% de la altura de la pantalla */
+	  }
+
+	  /* Ajustamos el contenedor principal para que no se pegue a los bordes */
+	  .modal-container-content {
+		padding: 10px;
+	  }
+
+	  /* Hacemos el botón de cerrar más grande y accesible */
+	  .close {
+		font-size: 50px;
+		top: 5px;
+		right: 20px;
+	  }
+	  
+	  /* Reducimos el tamaño del texto de info */
+	  .modal-info h3 {
+		  font-size: 1.1em;
+	  }
+
+	}
+
+	/* --- FIN: ESTILOS RESPONSIVE PARA MÓVILES --- */
+	/* --- INICIO: ANIMACIÓN DE PULSO NEÓN PARA MÓVILES --- */
+
+	@keyframes neon-pulse {
+	  0% {
+		/* El brillo empieza como lo tienes ahora */
+		box-shadow: inherit;
+	  }
+	  70% {
+		/* A mitad de la animación, el brillo se vuelve mucho más intenso */
+		box-shadow: 0 0 40px var(--glow-color, #fff), 
+					inset 0 0 15px 4px #FFFFFF;
+	  }
+	  100% {
+		/* Al final, vuelve a su estado normal y se queda fijo */
+		box-shadow: inherit;
+	  }
+	}
+
+	/* --- FIN: ANIMACIÓN DE PULSO NEÓN PARA MÓVILES --- */
+	</style>
 </head>
 <body>
     <div class="header">
@@ -6627,7 +6728,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>DORMAMMU (x1)</h3>
+                                                <h3>DORMAMMU (x2)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -7958,7 +8059,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>Zordon (x1)</h3>
+                                                <h3>Zordon (x2)</h3>
                                                 <p>Rareza: Raro</p>
                                             </div>
                                         </div>
@@ -10506,7 +10607,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>Buitro (x3)</h3>
+                                                <h3>Buitro (x4)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -12298,8 +12399,8 @@
 			const { left, top, width, height } = card.getBoundingClientRect();
 			const x = e.clientX - left;
 			const y = e.clientY - top;
-			const rotateX = -1 * ((y - height / 2) / (height / 2)) * 12;
-			const rotateY = ((x - width / 2) / (width / 2)) * 12;
+			const rotateX = -1 * ((y - height / 2) / (height / 2)) * 25;
+			const rotateY = ((x - width / 2) / (width / 2)) * 25;
 			card.style.transform = `rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
 			card.style.setProperty('--mouse-x', `${(x / width) * 100}%`);
 			card.style.setProperty('--mouse-y', `${(y / height) * 100}%`);
