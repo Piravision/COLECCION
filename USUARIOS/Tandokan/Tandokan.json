@@ -874,7 +874,7 @@
         {
             "id": 297,
             "nombre": "Optimus Prime",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 453,
@@ -1699,7 +1699,7 @@
         {
             "id": 31,
             "nombre": "Tiamat",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 163,
@@ -3079,7 +3079,7 @@
         {
             "id": 912,
             "nombre": "SINIESTRO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 911,
@@ -3604,6 +3604,16 @@
         {
             "id": 361,
             "nombre": "uriko",
+            "cantidad": 1
+        },
+        {
+            "id": 1083,
+            "nombre": "YELLOWJACKET & WASP",
+            "cantidad": 1
+        },
+        {
+            "id": 24,
+            "nombre": "Bobby",
             "cantidad": 1
         }
     ]
