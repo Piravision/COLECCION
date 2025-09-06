@@ -84,7 +84,7 @@
     {
       "id": 309,
       "nombre": "Thundercracker",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 107,
@@ -719,7 +719,7 @@
     {
       "id": 251,
       "nombre": "Tigro",
-      "cantidad": 9
+      "cantidad": 10
     },
     {
       "id": 236,
@@ -4439,6 +4439,11 @@
     {
       "id": 130,
       "nombre": "Mer Man(",
+      "cantidad": 1
+    },
+    {
+      "id": 601,
+      "nombre": "OLIVER-ATOM",
       "cantidad": 1
     }
   ]

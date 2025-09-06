@@ -99,7 +99,7 @@
     {
       "id": 80,
       "nombre": "robot",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 10,
@@ -359,7 +359,7 @@
     {
       "id": 340,
       "nombre": "Poseidón",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 506,
@@ -474,7 +474,7 @@
     {
       "id": 60,
       "nombre": "baran",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 509,
@@ -589,7 +589,7 @@
     {
       "id": 469,
       "nombre": "Dahlia Gillespie",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 76,
@@ -1444,7 +1444,7 @@
     {
       "id": 196,
       "nombre": "Ripster",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 357,
@@ -1619,7 +1619,7 @@
     {
       "id": 52,
       "nombre": "marin",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 553,
@@ -2094,7 +2094,7 @@
     {
       "id": 264,
       "nombre": "Donatello",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 711,
@@ -2544,7 +2544,7 @@
     {
       "id": 136,
       "nombre": "Mazinger Z",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 565,
@@ -2639,7 +2639,7 @@
     {
       "id": 78,
       "nombre": "myse",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 878,
@@ -2799,7 +2799,7 @@
     {
       "id": 744,
       "nombre": "Dark-Deathmask-de-Cancer",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 276,
@@ -3109,7 +3109,7 @@
     {
       "id": 637,
       "nombre": "DB-025",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 937,
@@ -3324,7 +3324,7 @@
     {
       "id": 841,
       "nombre": "GUILE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 763,
@@ -3399,7 +3399,7 @@
     {
       "id": 813,
       "nombre": "LIU-KANG",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 717,
@@ -3784,7 +3784,7 @@
     {
       "id": 805,
       "nombre": "GORO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 862,
@@ -3859,6 +3859,66 @@
     {
       "id": 227,
       "nombre": "Hawks Haven",
+      "cantidad": 1
+    },
+    {
+      "id": 921,
+      "nombre": "JULIET-PARRISH",
+      "cantidad": 1
+    },
+    {
+      "id": 653,
+      "nombre": "DB-041",
+      "cantidad": 1
+    },
+    {
+      "id": 342,
+      "nombre": "Flazzard",
+      "cantidad": 1
+    },
+    {
+      "id": 919,
+      "nombre": "DONOVAN",
+      "cantidad": 1
+    },
+    {
+      "id": 197,
+      "nombre": "Rox",
+      "cantidad": 1
+    },
+    {
+      "id": 1111,
+      "nombre": "G1-COMANDO-G",
+      "cantidad": 1
+    },
+    {
+      "id": 1006,
+      "nombre": "REENA-&-GAUDY",
+      "cantidad": 1
+    },
+    {
+      "id": 1044,
+      "nombre": "HAVOK",
+      "cantidad": 1
+    },
+    {
+      "id": 1110,
+      "nombre": "G-ZOLTAR",
+      "cantidad": 1
+    },
+    {
+      "id": 1019,
+      "nombre": "4F - MUJER INVISIBLE",
+      "cantidad": 1
+    },
+    {
+      "id": 868,
+      "nombre": "ANT-MAN",
+      "cantidad": 1
+    },
+    {
+      "id": 735,
+      "nombre": "Aiacos",
       "cantidad": 1
     }
   ]
