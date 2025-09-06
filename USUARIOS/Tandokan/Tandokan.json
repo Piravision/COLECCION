@@ -839,7 +839,7 @@
         {
             "id": 57,
             "nombre": "pop",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 125,
@@ -3634,6 +3634,11 @@
         {
             "id": 70,
             "nombre": "hadlar",
+            "cantidad": 1
+        },
+        {
+            "id": 60,
+            "nombre": "baran",
             "cantidad": 1
         }
     ]
