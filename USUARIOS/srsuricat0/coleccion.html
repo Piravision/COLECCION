@@ -262,48 +262,39 @@
 		opacity: 1; 
 	}
 
-	/* --- EFECTOS DE BRILLO Y PATRONES HOLOGRÁFICOS POR RAREZA --- */
+	/* --- EFECTOS DE BRILLO Y PATRONES HOLOGRÁFICOS POR RAREZA (VERSIÓN CON SVG EMBEBIDO) --- */
 
 	#modal-card-container.Común::before {
-		/* Capa 1: Reflejo de luz (móvil) */
+		/* Capa 1: Reflejo de luz + Capa 2: Patrón SVG de Hero Patterns */
 		background-image: linear-gradient(115deg, transparent 30%, rgba(255,255,255,0.4) 48%, rgba(255,255,255,0.4) 52%, transparent 70%),
-		                  
-		                  /* Capa 2: Patrón de líneas diagonales (fijo) */
-		                  repeating-linear-gradient(45deg, rgba(255,255,255,0.05), rgba(255,255,255,0.05) 1px, transparent 1px, transparent 10px);
+						  url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'%3E%3Cg fill-rule='evenodd'%3E%3Cg fill='%239C92AC' fill-opacity='0.12'%3E%3Cpath d='M0 38.59l2.83-2.83 1.41 1.41L1.41 40H0v-1.41zM0 1.4l2.83 2.83 1.41-1.41L1.41 0H0v1.41zM38.59 40l-2.83-2.83 1.41-1.41L40 38.59V40h-1.41zM40 1.41l-2.83 2.83-1.41-1.41L38.59 0H40v1.41zM20 18.6l2.83-2.83 1.41 1.41L21.41 20l2.83 2.83-1.41 1.41L20 21.41l-2.83 2.83-1.41-1.41L18.59 20l-2.83-2.83 1.41-1.41L20 18.59z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
 
 		/* Controlamos cada capa por separado */
-		background-size: 250% 250%, 100% 100%;
+		background-size: 250% 250%, auto;
 		background-position: var(--mouse-x) var(--mouse-y), 0 0;
 		background-repeat: no-repeat, repeat;
 	}
 
 	#modal-card-container.Raro::before {
-		/* Capa 1: Reflejo de luz (móvil) */
+		/* Capa 1: Reflejo de luz + Capa 2: Patrón SVG de Hero Patterns */
 		background-image: linear-gradient(115deg, transparent 30%, rgba(170,210,255,0.5) 48%, rgba(170,210,255,0.5) 52%, transparent 70%),
-		                  
-		                  /* Capa 2: Patrón de rejilla (fijo) */
-		                  repeating-linear-gradient(0deg, rgba(255,255,255,0.04) 0 1px, transparent 1px 20px),
-		                  repeating-linear-gradient(90deg, rgba(255,255,255,0.04) 0 1px, transparent 1px 20px);
+						  url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox='0 0 80 80' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%239C92AC' fill-opacity='0.18'%3E%3Cpath d='M50 50c0-5.523 4.477-10 10-10s10 4.477 10 10-4.477 10-10 10c0 5.523-4.477 10-10 10s-10-4.477-10-10 4.477-10 10-10zM10 10c0-5.523 4.477-10 10-10s10 4.477 10 10-4.477 10-10 10c0 5.523-4.477 10-10 10S0 25.523 0 20s4.477-10 10-10zm10 8c4.418 0 8-3.582 8-8s-3.582-8-8-8-8 3.582-8 8 3.582 8 8 8zm40 40c4.418 0 8-3.582 8-8s-3.582-8-8-8-8 3.582-8 8 3.582 8 8 8z' /%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
 
 		/* Controlamos cada capa por separado */
-		background-size: 250% 250%, 100% 100%, 100% 100%;
-		background-position: var(--mouse-x) var(--mouse-y), 0 0, 0 0;
-		background-repeat: no-repeat, repeat, repeat;
+		background-size: 250% 250%, auto;
+		background-position: var(--mouse-x) var(--mouse-y), 0 0;
+		background-repeat: no-repeat, repeat;
 	}
 
 	#modal-card-container.Legendario::before {
-		/* Capa 1: Reflejo de luz arcoíris (móvil) */
+		/* Capa 1: Reflejo de luz + Capa 2: Patrón SVG de Hero Patterns */
 		background-image: linear-gradient(115deg, transparent 25%, hsla(0,100%,80%,0.28), hsla(60,100%,80%,0.28), hsla(120,100%,80%,0.28), hsla(180,100%,80%,0.28), hsla(240,100%,80%,0.28), transparent 75%),
-		                  
-		                  /* Capa 2: Patrón de estrellas (fijo) */
-		                  radial-gradient(circle at 20% 30%, white 2px, transparent 3px),
-		                  radial-gradient(circle at 80% 70%, white 1px, transparent 2px),
-		                  radial-gradient(circle at 50% 50%, white 1px, transparent 2px);
+						  url("data:image/svg+xml,%3Csvg width='180' height='180' viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M81.28 88H68.413l19.298 19.298L81.28 88zm2.107 0h13.226L90 107.838 83.387 88zm15.334 0h12.866l-19.298 19.298L98.72 88zm-32.927-2.207L73.586 78h32.827l.5.5 7.294 7.293L115.414 87l-24.707 24.707-.707.707L64.586 87l1.207-1.207zm2.62.207L74 80.414 79.586 86H68.414zm16 0L90 80.414 95.586 86H84.414zm16 0L106 80.414 111.586 86h-11.172zm-8-6h11.173L98 85.586 92.414 80zM82 85.586L87.586 80H76.414L82 85.586zM17.414 0L.707 16.707 0 17.414V0h17.414zM4.28 0L0 12.838V0h4.28zm10.306 0L2.288 12.298 6.388 0h8.198zM180 17.414L162.586 0H180v17.414zM165.414 0l12.298 12.298L173.612 0h-8.198zM180 12.838L175.72 0H180v12.838zM0 163h16.413l.5.5 7.294 7.293L25.414 172l-8 8H0v-17zm0 10h6.613l-2.334 7H0v-7zm14.586 7l7-7H8.72l-2.333 7h8.2zM0 165.414L5.586 171H0v-5.586zM10.414 171L16 165.414 21.586 171H10.414zm-8-6h11.172L8 170.586 2.414 165zM180 163h-16.413l-7.794 7.793-1.207 1.207 8 8H180v-17zm-14.586 17l-7-7h12.865l2.333 7h-8.2zM180 173h-6.613l2.334 7H180v-7zm-21.586-2l5.586-5.586 5.586 5.586h-11.172zM180 165.414L174.414 171H180v-5.586zm-8 5.172l5.586-5.586h-11.172l5.586 5.586zM152.933 25.653l1.414 1.414-33.94 33.942-1.416-1.416 33.943-33.94zm1.414 127.28l-1.414 1.414-33.942-33.94 1.416-1.416 33.94 33.943zm-127.28 1.414l-1.414-1.414 33.94-33.942 1.416 1.416-33.943 33.94zm-1.414-127.28l1.414-1.414 33.942 33.94-1.416 1.416-33.94-33.943zM0 85c2.21 0 4 1.79 4 4s-1.79 4-4 4v-8zm180 0c-2.21 0-4 1.79-4 4s1.79 4 4 4v-8zM94 0c0 2.21-1.79 4-4 4s-4-1.79-4-4h8zm0 180c0-2.21-1.79-4-4-4s-4 1.79-4 4h8z' fill='%239C92AC' fill-opacity='0.14' fill-rule='evenodd'/%3E%3C/svg%3E");
 
 		/* Controlamos cada capa por separado */
-		background-size: 250% 250%, 100% 100%;
+		background-size: 250% 250%, auto;
 		background-position: var(--mouse-x) var(--mouse-y), 0 0;
-		background-repeat: no-repeat, no-repeat;
+		background-repeat: no-repeat, repeat;
 	}
 	/* --- INICIO: MARCOS DE NEÓN POR RAREZA (CON ANIMACIÓN PERMANENTE) --- */
 
@@ -503,6 +494,86 @@
 	}
 
 	/* --- FIN: ANIMACIÓN DE PULSO NEÓN PARA MÓVILES --- */
+	/* --- INICIO: Estilos para el Comparador de Colecciones --- */
+	.comparison-container {
+		background: rgba(255, 255, 255, 0.07);
+		border-radius: 10px;
+		padding: 20px;
+		margin-bottom: 30px;
+		text-align: center;
+	}
+	.comparison-container h2 {
+		margin-top: 0;
+		color: #ff9900;
+	}
+	.comparison-inputs {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		gap: 15px;
+		flex-wrap: wrap;
+		margin-bottom: 15px;
+	}
+	.comparison-inputs input {
+		padding: 10px;
+		border-radius: 5px;
+		border: none;
+		font-size: 1rem;
+		background-color: #222;
+		color: #fff;
+		text-align: center;
+	}
+	.comparison-inputs span {
+		font-size: 2rem;
+		color: #ff9900;
+	}
+	.comparison-container button {
+		padding: 10px 20px;
+		border-radius: 5px;
+		border: none;
+		font-size: 1.1rem;
+		background-color: #ff9900;
+		color: #111;
+		cursor: pointer;
+		font-weight: bold;
+		margin-bottom: 20px;
+	}
+	.results-grid {
+		display: grid;
+		grid-template-columns: 1fr;
+		gap: 30px;
+	}
+	@media (min-width: 768px) {
+		.results-grid {
+			grid-template-columns: 1fr 1fr;
+		}
+	}
+	.results-section h3 {
+		border-bottom: 1px solid #ff9900;
+		padding-bottom: 5px;
+		color: #ff9900;
+	}
+	.results-section .coleccion {
+		justify-content: center; /* Centra los cromos en los resultados */
+	}
+	/* --- FIN: Estilos para el Comparador de Colecciones --- */
+	/* --- INICIO: Estilos para la Selección de Cromos de Intercambio --- */
+	.results-section .cromo-card {
+		cursor: pointer; /* Cambia el cursor para indicar que son clicables */
+		transition: transform 0.2s, outline 0.2s;
+	}
+
+	.results-section .cromo-card:hover {
+		transform: scale(1.05); /* Pequeño efecto al pasar el ratón */
+	}
+
+	.results-section .cromo-card.selected {
+		outline: 3px solid #ffeb3b; /* Borde dorado brillante para el cromo seleccionado */
+		transform: scale(1.05);
+		box-shadow: 0 0 15px #ffeb3b;
+	}
+	/* --- FIN: Estilos para la Selección de Cromos de Intercambio --- */
+	
 	</style>
 </head>
 <body>
@@ -546,11 +617,38 @@
             <button onclick="buscarColeccion()">Buscar</button>
             <p style="font-size: 0.9em; color: #aaa; margin-top: 10px;">¡Hola Piraviewer! Introduce tu usuario de Kick para ver tu álbum personal.</p>
         </div>
-
+		<div class="comparison-container">
+			<h2>Comparar Colecciones para Intercambio</h2>
+			<div class="comparison-inputs">
+				<input type="text" id="userA_input" placeholder="Tu nombre de usuario">
+				<span>↔️</span>
+				<input type="text" id="userB_input" placeholder="Usuario a comparar">
+			</div>
+			<button onclick="compararColecciones()">Comparar</button>
+			
+			<div id="command-container" style="display: none; margin-top: 20px; background-color: #1a1a1a; padding: 15px; border-radius: 8px; border: 1px solid #444;">
+				<h4>¡Comando listo para el chat! 📋</h4>
+				<code id="trade-command" style="background-color: #0c0c0c; padding: 10px; border-radius: 5px; display: block; margin-bottom: 10px; color: #f4f4f4; white-space: pre-wrap; word-wrap: break-word;"></code>
+				<button onclick="copyCommand()">Copiar Comando</button>
+			</div>
+			
+			<div id="comparison-results" class="results-grid">
+				<div id="offer-results"></div>
+				<div id="request-results"></div>
+			</div>
+		</div>
+		
+		
+		
+		
+		
+		
+		
+		
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de srsuricat0</h2>
-                <span>Cartas obtenidas: 859 / 1121</span>
+                <span>Cartas obtenidas: 860 / 1121</span>
             </div>
             
             <div class="details">
@@ -666,7 +764,7 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('Marvel-Classics')">
 								<img src="/COLECCION/botones/marvel-classics.png" alt="Marvel-Classics" class="summary-button-image">
-								<span class="summary-button-counter">21 / 105</span>
+								<span class="summary-button-counter">22 / 105</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Mazinger')">
@@ -3219,7 +3317,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>hynkel2bueno (x6)</h3>
+                                                <h3>hynkel2bueno (x7)</h3>
                                                 <p>Rareza: Raro</p>
                                             </div>
                                         </div>
@@ -6612,7 +6710,7 @@
                             <div class="series-cards" id="series-Marvel-Classics" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Marvel-Classics</h2>
-                                    <span>Cartas obtenidas: 21 / 105</span>
+                                    <span>Cartas obtenidas: 22 / 105</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -6872,6 +6970,19 @@
 											</a>
 																						<div class="cromo-details">
                                                 <h3>KANG (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 1056</span>
+                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Marvel-Classics/NOVA-2.png', '1056', 'NOVA-2', 'Común'); return false;">
+												<div class="cromo-img-container">
+													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Marvel-Classics/NOVA-2.png" alt="NOVA-2">
+												</div>
+											</a>
+																						<div class="cromo-details">
+                                                <h3>NOVA-2 (x1)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -10913,7 +11024,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>Casey Jones (x5)</h3>
+                                                <h3>Casey Jones (x6)</h3>
                                                 <p>Rareza: Raro</p>
                                             </div>
                                         </div>
@@ -12497,6 +12608,11 @@
 		const modalInfo = document.getElementById("modal-info");
 		const modalCardContainer = document.getElementById('modal-card-container');
 
+		// --- VARIABLES GLOBALES PARA EL INTERCAMBIO ---
+		let selectedOfferId = null;
+		let selectedRequestId = null;
+		let userToTradeWith = null;
+
 		// --- LÓGICA PARA EL EFECTO 3D DE LA CARTA ---
 		const handleCardTilt = (e) => {
 			const card = e.currentTarget;
@@ -12516,35 +12632,21 @@
 
 		// --- NUEVAS FUNCIONES PARA ABRIR Y CERRAR EL MODAL ---
 		function openModal(linkElement, imagenUrl, cromoId, cromoNombre, cromoRareza) {
-			// 1. Limpiamos clases de rareza de una apertura anterior
 			modalCardContainer.classList.remove('Común', 'Raro', 'Legendario');
-			
-			// 2. Añadimos la clase de la rareza actual del cromo
 			if (cromoRareza) {
 				modalCardContainer.classList.add(cromoRareza);
 			}
-
-			// 3. Cargamos la información del cromo
 			modalImg.src = imagenUrl;
 			modalInfo.innerHTML = `<h3>Nº: ${cromoId} - ${cromoNombre}</h3>`;
-			
-			// 4. Mostramos el modal AÑADIENDO una clase
 			modal.classList.add("visible");
-
-			// 5. Activamos los listeners del ratón para el efecto 3D
 			modalCardContainer.addEventListener('mousemove', handleCardTilt);
 			modalCardContainer.addEventListener('mouseleave', resetCardTilt);
 		}
 
 		function closeModal() {
-			// 1. Ocultamos el modal QUITANDO la clase
 			modal.classList.remove("visible");
-			
-			// 2. Desactivamos los listeners para no consumir recursos
 			modalCardContainer.removeEventListener('mousemove', handleCardTilt);
 			modalCardContainer.removeEventListener('mouseleave', resetCardTilt);
-			
-			// 3. Reseteamos la posición de la carta por si se quedó inclinada
 			resetCardTilt({currentTarget: modalCardContainer}); 
 		}
 
@@ -12580,8 +12682,147 @@
 			const serieSeleccionada = document.getElementById(serieId);
 			if (serieSeleccionada) {
 				serieSeleccionada.style.display = 'block';
+				serieSeleccionada.scrollIntoView({ behavior: 'smooth', block: 'start' });
 			}
 		}
+
+		// --- INICIO: LÓGICA PARA LA COMPARACIÓN Y CREACIÓN DE COMANDOS ---
+
+		function extraerCromosDesdeHTML(htmlString) {
+			const cromos = [];
+			const parser = new DOMParser();
+			const doc = parser.parseFromString(htmlString, "text/html");
+			const cromoCards = doc.querySelectorAll('.cromo-card');
+			cromoCards.forEach(card => {
+				try {
+					const numeroSpan = card.querySelector('.cromo-numero');
+					const nombreH3 = card.querySelector('h3');
+					const rarezaP = card.querySelector('p');
+					const img = card.querySelector('img');
+					if (numeroSpan && nombreH3 && rarezaP && img) {
+						const id = parseInt(numeroSpan.textContent.split('Nº: ')[1]);
+						const cantidadMatch = nombreH3.textContent.match(/\(x(\d+)\)/);
+						const cantidad = cantidadMatch ? parseInt(cantidadMatch[1]) : 1;
+						const nombre = nombreH3.textContent.replace(/\s\(x\d+\)$/, '').trim();
+						const rareza = rarezaP.textContent.replace('Rareza: ', '').trim();
+						const imagen_url_web = img.src;
+						cromos.push({ id, nombre, cantidad, rareza, imagen_url_web });
+					}
+				} catch (e) { console.error("Error parseando una tarjeta de cromo:", e); }
+			});
+			return cromos;
+		}
+
+		function renderResultados(elementId, titulo, cromos, usuarioBase, tipo) {
+			const container = document.getElementById(elementId);
+			let contenidoHtml = `<div class="results-section"><h3>${titulo} (${cromos.length})</h3>`;
+			if (cromos.length === 0) {
+				contenidoHtml += `<p>No se encontraron cromos para este intercambio.</p>`;
+			} else {
+				const cromosHtml = cromos.map(cromo => `
+					<div class="cromo-card" onclick="selectCard(this, ${cromo.id}, '${tipo}')">
+						<span class="cromo-numero">Nº: ${cromo.id}</span>
+						<div class="cromo-img-container">
+							<img src="${cromo.imagen_url_web}" alt="${cromo.nombre}" loading="lazy">
+						</div>
+						<div class="cromo-details">
+							<h3>${cromo.nombre} (x${cromo.cantidad})</h3>
+							<p>Rareza: ${cromo.rareza}</p>
+						</div>
+					</div>
+				`).join('');
+				contenidoHtml += `<p style="font-size:0.9em; color:#ccc;">${usuarioBase} tiene estos repetidos:</p><div class="coleccion">${cromosHtml}</div>`;
+			}
+			contenidoHtml += `</div>`;
+			container.innerHTML = contenidoHtml;
+		}
+
+		async function compararColecciones() {
+			selectedOfferId = null;
+			selectedRequestId = null;
+			userToTradeWith = null;
+			document.getElementById('command-container').style.display = 'none';
+
+			const usuarioOrigen = document.getElementById('userA_input').value.trim();
+			const usuarioDestino = document.getElementById('userB_input').value.trim();
+			const offerContainer = document.getElementById('offer-results');
+			const requestContainer = document.getElementById('request-results');
+			const resultsContainer = document.getElementById('comparison-results');
+			
+			if (!usuarioOrigen || !usuarioDestino) {
+				alert("Por favor, introduce ambos nombres de usuario.");
+				return;
+			}
+
+			offerContainer.innerHTML = '<p>Buscando y comparando...</p>';
+			requestContainer.innerHTML = ''; 
+			userToTradeWith = usuarioDestino;
+
+			const GITHUB_BASE_URL = "https://piravision.github.io/COLECCION/USUARIOS/";
+			const urlOrigen = `${GITHUB_BASE_URL}${encodeURIComponent(usuarioOrigen)}/coleccion.html`;
+			const urlDestino = `${GITHUB_BASE_URL}${encodeURIComponent(usuarioDestino)}/coleccion.html`;
+
+			try {
+				const [respuestaOrigen, respuestaDestino] = await Promise.all([fetch(urlOrigen), fetch(urlDestino)]);
+				if (!respuestaOrigen.ok) throw new Error(`No se encontró la colección de ${usuarioOrigen}`);
+				if (!respuestaDestino.ok) throw new Error(`No se encontró la colección de ${usuarioDestino}`);
+				const htmlOrigen = await respuestaOrigen.text();
+				const htmlDestino = await respuestaDestino.text();
+				const coleccionOrigen = extraerCromosDesdeHTML(htmlOrigen);
+				const coleccionDestino = extraerCromosDesdeHTML(htmlDestino);
+				const idsOrigen = new Set(coleccionOrigen.map(c => c.id));
+				const idsDestino = new Set(coleccionDestino.map(c => c.id));
+				const repetidosOrigen = coleccionOrigen.filter(c => c.cantidad >= 2);
+				const repetidosDestino = coleccionDestino.filter(c => c.cantidad >= 2);
+				const cromosParaOfrecer = repetidosOrigen.filter(cromo => !idsDestino.has(cromo.id));
+				const cromosParaSolicitar = repetidosDestino.filter(cromo => !idsOrigen.has(cromo.id));
+				
+				renderResultados('offer-results', 'Cromos que puedes OFRECER', cromosParaOfrecer, usuarioOrigen, 'offer');
+				renderResultados('request-results', 'Cromos que puedes SOLICITAR', cromosParaSolicitar, usuarioDestino, 'request');
+
+			} catch (error) {
+				console.error("Error en la comparación:", error);
+				resultsContainer.innerHTML = `<p style="color: #ff6b6b;">Error: ${error.message}. Asegúrate de que los nombres de usuario son correctos y existen.</p>`;
+			}
+		}
+		
+		function selectCard(cardElement, cromoId, type) {
+			const listContainer = type === 'offer' ? document.getElementById('offer-results') : document.getElementById('request-results');
+			const otherSelected = listContainer.querySelector('.cromo-card.selected');
+			if (otherSelected) {
+				otherSelected.classList.remove('selected');
+			}
+			cardElement.classList.add('selected');
+			if (type === 'offer') {
+				selectedOfferId = cromoId;
+			} else {
+				selectedRequestId = cromoId;
+			}
+			generateCommand();
+		}
+		
+		function generateCommand() {
+			const commandContainer = document.getElementById('command-container');
+			const commandCode = document.getElementById('trade-command');
+			if (selectedOfferId && selectedRequestId && userToTradeWith) {
+				const commandText = `!intercambiar ofrezco ${selectedOfferId} a cambio de ${selectedRequestId} a @${userToTradeWith}`;
+				commandCode.textContent = commandText;
+				commandContainer.style.display = 'block';
+			} else {
+				commandContainer.style.display = 'none';
+			}
+		}
+		
+		function copyCommand() {
+			const commandText = document.getElementById('trade-command').textContent;
+			navigator.clipboard.writeText(commandText).then(() => {
+				alert('¡Comando copiado al portapapeles!');
+			}).catch(err => {
+				console.error('Error al copiar el comando: ', err);
+				alert('No se pudo copiar el comando.');
+			});
+		}
+		// --- FIN: LÓGICA PARA LA COMPARACIÓN Y CREACIÓN DE COMANDOS ---
 	</script>
 </body>
 </html>
