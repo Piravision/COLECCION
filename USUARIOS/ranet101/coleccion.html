@@ -494,6 +494,75 @@
 	}
 
 	/* --- FIN: ANIMACIÓN DE PULSO NEÓN PARA MÓVILES --- */
+	/* --- INICIO: Estilos para el Comparador de Colecciones --- */
+	.comparison-container {
+		background: rgba(255, 255, 255, 0.07);
+		border-radius: 10px;
+		padding: 20px;
+		margin-bottom: 30px;
+		text-align: center;
+	}
+	.comparison-container h2 {
+		margin-top: 0;
+		color: #ff9900;
+	}
+	.comparison-inputs {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		gap: 15px;
+		flex-wrap: wrap;
+		margin-bottom: 15px;
+	}
+	.comparison-inputs input {
+		padding: 10px;
+		border-radius: 5px;
+		border: none;
+		font-size: 1rem;
+		background-color: #222;
+		color: #fff;
+		text-align: center;
+	}
+	.comparison-inputs span {
+		font-size: 2rem;
+		color: #ff9900;
+	}
+	.comparison-container button {
+		padding: 10px 20px;
+		border-radius: 5px;
+		border: none;
+		font-size: 1.1rem;
+		background-color: #ff9900;
+		color: #111;
+		cursor: pointer;
+		font-weight: bold;
+		margin-bottom: 20px;
+	}
+	.results-grid {
+		display: grid;
+		grid-template-columns: 1fr;
+		gap: 30px;
+	}
+	@media (min-width: 768px) {
+		.results-grid {
+			grid-template-columns: 1fr 1fr;
+		}
+	}
+	.results-section h3 {
+		border-bottom: 1px solid #ff9900;
+		padding-bottom: 5px;
+		color: #ff9900;
+	}
+	.results-section .coleccion {
+		justify-content: center; /* Centra los cromos en los resultados */
+	}
+	/* --- FIN: Estilos para el Comparador de Colecciones --- */
+	
+	
+	
+	
+	
+	
 	</style>
 </head>
 <body>
@@ -537,11 +606,32 @@
             <button onclick="buscarColeccion()">Buscar</button>
             <p style="font-size: 0.9em; color: #aaa; margin-top: 10px;">¡Hola Piraviewer! Introduce tu usuario de Kick para ver tu álbum personal.</p>
         </div>
-
+		<div class="comparison-container">
+			<h2>Comparar Colecciones para Intercambio</h2>
+			<div class="comparison-inputs">
+				<input type="text" id="userA_input" placeholder="Tu nombre de usuario">
+				<span>↔️</span>
+				<input type="text" id="userB_input" placeholder="Usuario a comparar">
+			</div>
+			<button onclick="compararColecciones()">Comparar</button>
+			
+			<div id="comparison-results" class="results-grid">
+				<div id="offer-results"></div>
+				<div id="request-results"></div>
+			</div>
+		</div>
+		
+		
+		
+		
+		
+		
+		
+		
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de ranet101</h2>
-                <span>Cartas obtenidas: 338 / 1121</span>
+                <span>Cartas obtenidas: 339 / 1121</span>
             </div>
             
             <div class="details">
@@ -612,7 +702,7 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('DragonBall CombatCards 92')">
 								<img src="/COLECCION/botones/dragonball-combatcards-92.png" alt="DragonBall CombatCards 92" class="summary-button-image">
-								<span class="summary-button-counter">30 / 121</span>
+								<span class="summary-button-counter">31 / 121</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('FFVII')">
@@ -2008,7 +2098,7 @@
                             <div class="series-cards" id="series-DragonBall-CombatCards-92" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>DragonBall CombatCards 92</h2>
-                                    <span>Cartas obtenidas: 30 / 121</span>
+                                    <span>Cartas obtenidas: 31 / 121</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -2112,6 +2202,19 @@
 											</a>
 																						<div class="cromo-details">
                                                 <h3>DB-022 (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 644</span>
+                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DragonBall CombatCards 92/DB-032.jpg', '644', 'DB-032', 'Común'); return false;">
+												<div class="cromo-img-container">
+													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DragonBall CombatCards 92/DB-032.jpg" alt="DB-032">
+												</div>
+											</a>
+																						<div class="cromo-details">
+                                                <h3>DB-032 (x1)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -2733,7 +2836,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>T800-Jail (x3)</h3>
+                                                <h3>T800-Jail (x4)</h3>
                                                 <p>Rareza: Legendario</p>
                                             </div>
                                         </div>
@@ -3807,7 +3910,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>KUNG-LAO (x2)</h3>
+                                                <h3>KUNG-LAO (x3)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -5741,6 +5844,106 @@
 				serieSeleccionada.scrollIntoView({ behavior: 'smooth', block: 'start' });
 			}
 		}
+		// --- INICIO: LÓGICA PARA LA COMPARACIÓN DE COLECCIONES ---
+
+		/**
+		 * Función auxiliar para generar el HTML de los resultados y mostrarlo en la página.
+		 */
+		function renderResultados(elementId, titulo, cromos, usuarioBase) {
+			const container = document.getElementById(elementId);
+			let contenidoHtml = `<div class="results-section"><h3>${titulo} (${cromos.length})</h3>`;
+
+			if (cromos.length === 0) {
+				contenidoHtml += `<p>No se encontraron cromos para este intercambio.</p>`;
+			} else {
+				// Generamos el HTML para cada cromo encontrado
+				const cromosHtml = cromos.map(cromo => {
+					// Reutilizamos la misma estructura de .cromo-card para un estilo consistente
+					const cromoData = cromos_por_id[cromo.id] || {}; // Buscamos datos completos en la BD maestra
+					const imagenUrl = cromoData.imagen_url_web || ''; // Usamos la URL completa si la encontramos
+					
+					return `
+					<div class="cromo-card">
+						<span class="cromo-numero">Nº: ${cromo.id}</span>
+						<div class="cromo-img-container">
+							<img src="${imagenUrl}" alt="${cromo.nombre}" loading="lazy">
+						</div>
+						<div class="cromo-details">
+							<h3>${cromo.nombre} (x${cromo.cantidad})</h3>
+							<p>Rareza: ${cromoData.rareza || 'N/A'}</p>
+						</div>
+					</div>
+				`}).join('');
+				contenidoHtml += `<p style="font-size:0.9em; color:#ccc;">${usuarioBase} tiene estos repetidos:</p><div class="coleccion">${cromosHtml}</div>`;
+			}
+			
+			contenidoHtml += `</div>`;
+			container.innerHTML = contenidoHtml;
+		}
+
+		/**
+		 * Función principal que se ejecuta al pulsar el botón "Comparar".
+		 */
+		async function compararColecciones() {
+			const usuarioOrigen = document.getElementById('userA_input').value.trim();
+			const usuarioDestino = document.getElementById('userB_input').value.trim();
+			const resultsContainer = document.getElementById('comparison-results');
+			
+			// Limpiamos resultados anteriores y mostramos un mensaje de carga
+			resultsContainer.innerHTML = '<p>Buscando y comparando colecciones...</p>';
+
+			if (!usuarioOrigen || !usuarioDestino) {
+				alert("Por favor, introduce ambos nombres de usuario.");
+				resultsContainer.innerHTML = '';
+				return;
+			}
+
+			const GITHUB_BASE_URL = "https://piravision.github.io/COLECCION/USUARIOS/";
+			const urlOrigen = `${GITHUB_BASE_URL}${usuarioOrigen}/${usuarioOrigen}.json`;
+			const urlDestino = `${GITHUB_BASE_URL}${usuarioDestino}/${usuarioDestino}.json`;
+
+			try {
+				// Hacemos las dos peticiones a la vez para más eficiencia
+				const [respuestaOrigen, respuestaDestino] = await Promise.all([
+					fetch(urlOrigen),
+					fetch(urlDestino)
+				]);
+
+				if (!respuestaOrigen.ok) throw new Error(`No se encontró la colección de ${usuarioOrigen}`);
+				if (!respuestaDestino.ok) throw new Error(`No se encontró la colección de ${usuarioDestino}`);
+
+				const coleccionOrigen = await respuestaOrigen.json();
+				const coleccionDestino = await respuestaDestino.json();
+
+				// Creamos Sets con los IDs de los cromos de cada usuario para una búsqueda ultra rápida
+				const idsOrigen = new Set(coleccionOrigen.cromos.map(c => c.id));
+				const idsDestino = new Set(coleccionDestino.cromos.map(c => c.id));
+
+				// Filtramos los cromos repetidos (cantidad 2 o más) de cada usuario
+				const repetidosOrigen = coleccionOrigen.cromos.filter(c => c.cantidad >= 2);
+				const repetidosDestino = coleccionDestino.cromos.filter(c => c.cantidad >= 2);
+
+				// --- CÁLCULO DE INTERCAMBIOS ---
+				// Cromos a OFRECER: Los repetidos de Origen que le faltan a Destino
+				const cromosParaOfrecer = repetidosOrigen.filter(cromo => !idsDestino.has(cromo.id));
+				// Cromos a SOLICITAR: Los repetidos de Destino que le faltan a Origen
+				const cromosParaSolicitar = repetidosDestino.filter(cromo => !idsOrigen.has(cromo.id));
+
+				// --- MOSTRAMOS LOS RESULTADOS ---
+				resultsContainer.innerHTML = ''; // Limpiamos el mensaje de "cargando"
+				renderResultados('offer-results', 'Cromos que puedes OFRECER', cromosParaOfrecer, usuarioOrigen);
+				renderResultados('request-results', 'Cromos que puedes SOLICITAR', cromosParaSolicitar, usuarioDestino);
+
+			} catch (error) {
+				console.error("Error en la comparación:", error);
+				resultsContainer.innerHTML = `<p style="color: #ff6b6b;">Error: ${error.message}. Asegúrate de que los nombres de usuario son correctos y existen.</p>`;
+			}
+		}
+		// --- FIN: LÓGICA PARA LA COMPARACIÓN DE COLECCIONES ---
+	
+	
+	
+	
 	</script>
 </body>
 </html>
