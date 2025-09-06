@@ -283,48 +283,39 @@
 			hsla(120,100%,80%,0.28), hsla(180,100%,80%,0.28),
 			hsla(240,100%,80%,0.28), transparent 75%);
 	}
-	/* --- INICIO: MARCOS DE NEÓN POR RAREZA (CON ANIMACIÓN PARA MÓVIL) --- */
+	/* --- INICIO: MARCOS DE NEÓN POR RAREZA (CON ANIMACIÓN PERMANENTE) --- */
 
 	/* 1. Marco plateado para la rareza COMÚN */
 	#modal-card-container.Común {
-		/* El borde físico, un gris claro */
 		border: 3px solid #E0E0E0;
-		
-		/* La magia del neón estático para PC */
 		box-shadow: 0 0 15px #C0C0C0, 
 					inset 0 0 10px 2px #FFFFFF;
-
-		/* ---- LÍNEAS NUEVAS ---- */
-		--glow-color: #C0C0C0; /* Variable con el color del brillo para la animación */
-		animation: neon-pulse 3s ease-in-out infinite; /* Se repite infinitamente y dura 3 segundos */
+		--glow-color: #C0C0C0;
+		
+		/* Animación lenta e infinita */
+		animation: neon-pulse 3s ease-in-out infinite; 
 	}
 
 	/* 2. Marco azul metalizado para la rareza RARO */
 	#modal-card-container.Raro {
-		/* El borde físico, un azul claro */
 		border: 3px solid #77b6e9;
-
-		/* Sombra exterior azul y sombra interior blanca */
 		box-shadow: 0 0 18px #3498db, 
 					inset 0 0 10px 2px #FFFFFF;
+		--glow-color: #3498db;
 		
-		/* ---- LÍNEAS NUEVAS ---- */
-		--glow-color: #3498db; /* Variable con el color del brillo para la animación */
-		animation: neon-pulse 1.2s ease-out; /* Activa la animación al aparecer */
+		/* MISMA animación lenta e infinita */
+		animation: neon-pulse 3s ease-in-out infinite; 
 	}
 
 	/* 3. Marco dorado metalizado para la rareza LEGENDARIO */
 	#modal-card-container.Legendario {
-		/* El borde físico, un dorado pálido */
 		border: 3px solid #FFEE75;
-		
-		/* Sombra exterior dorada (más intensa) y sombra interior blanca */
 		box-shadow: 0 0 25px #FFD700, 
 					inset 0 0 12px 3px #FFFFFF;
-
-		/* ---- LÍNEAS NUEVAS ---- */
-		--glow-color: #FFD700; /* Variable con el color del brillo para la animación */
-		animation: neon-pulse 1.2s ease-out; /* Activa la animación al aparecer */
+		--glow-color: #FFD700;
+		
+		/* MISMA animación lenta e infinita */
+		animation: neon-pulse 3s ease-in-out infinite; 
 	}
 
 	/* --- FIN: MARCOS DE NEÓN POR RAREZA --- */
@@ -537,7 +528,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de Chechyan</h2>
-                <span>Cartas obtenidas: 100 / 1121</span>
+                <span>Cartas obtenidas: 103 / 1121</span>
             </div>
             
             <div class="details">
@@ -558,7 +549,7 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('Batman')">
 								<img src="/COLECCION/botones/batman.png" alt="Batman" class="summary-button-image">
-								<span class="summary-button-counter">4 / 26</span>
+								<span class="summary-button-counter">5 / 26</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Bloody Roar')">
@@ -598,7 +589,7 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('Dragon Quest')">
 								<img src="/COLECCION/botones/dragon-quest.png" alt="Dragon Quest" class="summary-button-image">
-								<span class="summary-button-counter">9 / 57</span>
+								<span class="summary-button-counter">10 / 57</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('DragonBall CombatCards 92')">
@@ -693,7 +684,7 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('Street Sharks')">
 								<img src="/COLECCION/botones/street-sharks.png" alt="Street Sharks" class="summary-button-image">
-								<span class="summary-button-counter">1 / 17</span>
+								<span class="summary-button-counter">2 / 17</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Suikoden II')">
@@ -813,9 +804,22 @@
                             <div class="series-cards" id="series-Batman" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Batman</h2>
-                                    <span>Cartas obtenidas: 4 / 26</span>
+                                    <span>Cartas obtenidas: 5 / 26</span>
                                 </div>
                                 <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 779</span>
+                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Batman/BANE(27-8-2025-4_28).png', '779', 'BANE', 'Común'); return false;">
+												<div class="cromo-img-container">
+													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Batman/BANE(27-8-2025-4_28).png" alt="BANE">
+												</div>
+											</a>
+																						<div class="cromo-details">
+                                                <h3>BANE (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
                                     
                                         <div class="cromo-card">
                                             <span class="cromo-numero">Nº: 787</span>
@@ -1114,9 +1118,22 @@
                             <div class="series-cards" id="series-Dragon-Quest" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Dragon Quest</h2>
-                                    <span>Cartas obtenidas: 9 / 57</span>
+                                    <span>Cartas obtenidas: 10 / 57</span>
                                 </div>
                                 <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 44</span>
+                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/HERO/Fly(24-3-2024-21_12).png', '44', 'Fly', 'Raro'); return false;">
+												<div class="cromo-img-container">
+													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/HERO/Fly(24-3-2024-21_12).png" alt="Fly">
+												</div>
+											</a>
+																						<div class="cromo-details">
+                                                <h3>Fly (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
                                     
                                         <div class="cromo-card">
                                             <span class="cromo-numero">Nº: 45</span>
@@ -2019,9 +2036,22 @@
                             <div class="series-cards" id="series-Street-Sharks" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Street Sharks</h2>
-                                    <span>Cartas obtenidas: 1 / 17</span>
+                                    <span>Cartas obtenidas: 2 / 17</span>
                                 </div>
                                 <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 202</span>
+                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Street Sharks/VILLANO/Killamari(7-12-2023-23_40).png', '202', 'Killamari', 'Común'); return false;">
+												<div class="cromo-img-container">
+													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Street Sharks/VILLANO/Killamari(7-12-2023-23_40).png" alt="Killamari">
+												</div>
+											</a>
+																						<div class="cromo-details">
+                                                <h3>Killamari (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
                                     
                                         <div class="cromo-card">
                                             <span class="cromo-numero">Nº: 208</span>
