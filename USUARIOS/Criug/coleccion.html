@@ -3484,7 +3484,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>marin (x2)</h3>
+                                                <h3>marin (x3)</h3>
                                                 <p>Rareza: Raro</p>
                                             </div>
                                         </div>
@@ -11226,7 +11226,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>Dimensión-X (x2)</h3>
+                                                <h3>Dimensión-X (x3)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -12482,7 +12482,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>Snake-Plissken (x4)</h3>
+                                                <h3>Snake-Plissken (x5)</h3>
                                                 <p>Rareza: Legendario</p>
                                             </div>
                                         </div>
@@ -13211,13 +13211,18 @@
 	
 	    
     <script>
-		// --- ELEMENTOS GLOBALES DEL MODAL ---
+		// --- ELEMENTOS GLOBALES ---
 		const modal = document.getElementById("myModal");
 		const modalImg = document.getElementById("imgModal");
 		const modalInfo = document.getElementById("modal-info");
 		const modalCardContainer = document.getElementById('modal-card-container');
+		
+		// --- VARIABLES GLOBALES PARA EL INTERCAMBIO ---
+		let selectedOfferId = null;
+		let selectedRequestId = null;
+		let userToTradeWith = null;
 
-		// --- LÓGICA PARA EL EFECTO 3D DE LA CARTA ---
+		// --- LÓGICA DEL MODAL (SIN CAMBIOS) ---
 		const handleCardTilt = (e) => {
 			const card = e.currentTarget;
 			const { left, top, width, height } = card.getBoundingClientRect();
@@ -13229,59 +13234,41 @@
 			card.style.setProperty('--mouse-x', `${(x / width) * 100}%`);
 			card.style.setProperty('--mouse-y', `${(y / height) * 100}%`);
 		};
-
-		const resetCardTilt = (e) => {
-			e.currentTarget.style.transform = 'rotateX(0deg) rotateY(0deg)';
-		};
-
-		// --- NUEVAS FUNCIONES PARA ABRIR Y CERRAR EL MODAL ---
+		const resetCardTilt = (e) => { e.currentTarget.style.transform = 'rotateX(0deg) rotateY(0deg)'; };
 		function openModal(linkElement, imagenUrl, cromoId, cromoNombre, cromoRareza) {
 			modalCardContainer.classList.remove('Común', 'Raro', 'Legendario');
-			if (cromoRareza) {
-				modalCardContainer.classList.add(cromoRareza);
-			}
+			if (cromoRareza) { modalCardContainer.classList.add(cromoRareza); }
 			modalImg.src = imagenUrl;
 			modalInfo.innerHTML = `<h3>Nº: ${cromoId} - ${cromoNombre}</h3>`;
 			modal.classList.add("visible");
 			modalCardContainer.addEventListener('mousemove', handleCardTilt);
 			modalCardContainer.addEventListener('mouseleave', resetCardTilt);
 		}
-
 		function closeModal() {
 			modal.classList.remove("visible");
 			modalCardContainer.removeEventListener('mousemove', handleCardTilt);
 			modalCardContainer.removeEventListener('mouseleave', resetCardTilt);
 			resetCardTilt({currentTarget: modalCardContainer}); 
 		}
-
-		// --- LÓGICA EXISTENTE (SE MANTIENE IGUAL) ---
-		window.onclick = function(event) {
-			if (event.target == modal) {
-				closeModal();
-			}
-		}
+		window.onclick = function(event) { if (event.target == modal) { closeModal(); } }
 		
+		// --- FUNCIONES DE LA PÁGINA (SIN CAMBIOS) ---
 		function buscarColeccion() {
 			const username = document.getElementById("usernameInput").value.trim();
 			if (username) {
 				const url = `https://piravision.github.io/COLECCION/USUARIOS/${encodeURIComponent(username)}/coleccion.html`;
 				window.location.href = url;
-			} else {
-				alert("Por favor, introduce un nombre de usuario.");
-			}
+			} else { alert("Por favor, introduce un nombre de usuario."); }
 		}
-
 		document.getElementById("usernameInput").addEventListener("keyup", function(event) {
 			if (event.key === "Enter") {
 				event.preventDefault();
 				document.querySelector(".search-container button").click();
 			}
 		});
-
 		function mostrarCartas(serie) {
 			const todasLasSeries = document.querySelectorAll('.series-cards');
 			todasLasSeries.forEach(s => s.style.display = 'none');
-			
 			const serieId = `series-${serie.replace(/ /g, '-').replace(/&/g, 'and').replace(/'/g, '')}`;
 			const serieSeleccionada = document.getElementById(serieId);
 			if (serieSeleccionada) {
@@ -13290,25 +13277,19 @@
 			}
 		}
 
-		// --- INICIO: LÓGICA PARA LA COMPARACIÓN DE COLECCIONES (VERSIÓN FINAL) ---
+		// --- INICIO: NUEVA LÓGICA PARA LA COMPARACIÓN E INTERCAMBIO ---
 
-		/**
-		 * Función que toma el texto HTML de una colección y extrae una lista de
-		 * objetos de cromo, incluyendo todos los datos necesarios.
-		 */
 		function extraerCromosDesdeHTML(htmlString) {
 			const cromos = [];
 			const parser = new DOMParser();
 			const doc = parser.parseFromString(htmlString, "text/html");
 			const cromoCards = doc.querySelectorAll('.cromo-card');
-
 			cromoCards.forEach(card => {
 				try {
 					const numeroSpan = card.querySelector('.cromo-numero');
 					const nombreH3 = card.querySelector('h3');
 					const rarezaP = card.querySelector('p');
 					const img = card.querySelector('img');
-
 					if (numeroSpan && nombreH3 && rarezaP && img) {
 						const id = parseInt(numeroSpan.textContent.split('Nº: ')[1]);
 						const cantidadMatch = nombreH3.textContent.match(/\(x(\d+)\)/);
@@ -13316,28 +13297,21 @@
 						const nombre = nombreH3.textContent.replace(/\s\(x\d+\)$/, '').trim();
 						const rareza = rarezaP.textContent.replace('Rareza: ', '').trim();
 						const imagen_url_web = img.src;
-						
 						cromos.push({ id, nombre, cantidad, rareza, imagen_url_web });
 					}
-				} catch (e) {
-					console.error("Error parseando una tarjeta de cromo:", e);
-				}
+				} catch (e) { console.error("Error parseando una tarjeta de cromo:", e); }
 			});
 			return cromos;
 		}
 
-		/**
-		 * Función que coge una lista de cromos y la muestra en la página.
-		 */
-		function renderResultados(elementId, titulo, cromos, usuarioBase) {
+		function renderResultados(elementId, titulo, cromos, usuarioBase, tipo) {
 			const container = document.getElementById(elementId);
 			let contenidoHtml = `<div class="results-section"><h3>${titulo} (${cromos.length})</h3>`;
-
 			if (cromos.length === 0) {
 				contenidoHtml += `<p>No se encontraron cromos para este intercambio.</p>`;
 			} else {
 				const cromosHtml = cromos.map(cromo => `
-					<div class="cromo-card">
+					<div class="cromo-card" onclick="selectCard(this, ${cromo.id}, '${tipo}')">
 						<span class="cromo-numero">Nº: ${cromo.id}</span>
 						<div class="cromo-img-container">
 							<img src="${cromo.imagen_url_web}" alt="${cromo.nombre}" loading="lazy">
@@ -13350,74 +13324,100 @@
 				`).join('');
 				contenidoHtml += `<p style="font-size:0.9em; color:#ccc;">${usuarioBase} tiene estos repetidos:</p><div class="coleccion">${cromosHtml}</div>`;
 			}
-			
 			contenidoHtml += `</div>`;
 			container.innerHTML = contenidoHtml;
 		}
 
-		/**
-		 * Función principal que se ejecuta al pulsar el botón "Comparar".
-		 */
-		// --- COPIA Y REEMPLAZA ESTA FUNCIÓN COMPLETA ---
-
 		async function compararColecciones() {
+			// Reseteamos las selecciones anteriores
+			selectedOfferId = null;
+			selectedRequestId = null;
+			userToTradeWith = null;
+			document.getElementById('command-container').style.display = 'none';
+
 			const usuarioOrigen = document.getElementById('userA_input').value.trim();
 			const usuarioDestino = document.getElementById('userB_input').value.trim();
-			
-			// Obtenemos los contenedores de resultados por separado
-			const offerContainer = document.getElementById('offer-results');
-			const requestContainer = document.getElementById('request-results');
-			
+			const resultsContainer = document.getElementById('comparison-results');
+			resultsContainer.innerHTML = '<p>Buscando y comparando colecciones...</p>';
+
 			if (!usuarioOrigen || !usuarioDestino) {
 				alert("Por favor, introduce ambos nombres de usuario.");
+				resultsContainer.innerHTML = '';
 				return;
 			}
 
-			// Mostramos el mensaje de carga en AMBOS contenedores
-			offerContainer.innerHTML = '<p>Buscando y comparando...</p>';
-			requestContainer.innerHTML = ''; // Limpiamos el segundo por si acaso
-
+			userToTradeWith = usuarioDestino; // Guardamos el nombre del usuario para el comando
 			const GITHUB_BASE_URL = "https://piravision.github.io/COLECCION/USUARIOS/";
 			const urlOrigen = `${GITHUB_BASE_URL}${encodeURIComponent(usuarioOrigen)}/coleccion.html`;
 			const urlDestino = `${GITHUB_BASE_URL}${encodeURIComponent(usuarioDestino)}/coleccion.html`;
 
 			try {
-				const [respuestaOrigen, respuestaDestino] = await Promise.all([
-					fetch(urlOrigen),
-					fetch(urlDestino)
-				]);
-
+				const [respuestaOrigen, respuestaDestino] = await Promise.all([fetch(urlOrigen), fetch(urlDestino)]);
 				if (!respuestaOrigen.ok) throw new Error(`No se encontró la colección de ${usuarioOrigen}`);
 				if (!respuestaDestino.ok) throw new Error(`No se encontró la colección de ${usuarioDestino}`);
-
 				const htmlOrigen = await respuestaOrigen.text();
 				const htmlDestino = await respuestaDestino.text();
-
 				const coleccionOrigen = extraerCromosDesdeHTML(htmlOrigen);
 				const coleccionDestino = extraerCromosDesdeHTML(htmlDestino);
-
 				const idsOrigen = new Set(coleccionOrigen.map(c => c.id));
 				const idsDestino = new Set(coleccionDestino.map(c => c.id));
-
 				const repetidosOrigen = coleccionOrigen.filter(c => c.cantidad >= 2);
 				const repetidosDestino = coleccionDestino.filter(c => c.cantidad >= 2);
-
 				const cromosParaOfrecer = repetidosOrigen.filter(cromo => !idsDestino.has(cromo.id));
 				const cromosParaSolicitar = repetidosDestino.filter(cromo => !idsOrigen.has(cromo.id));
-				
-				// Ahora sí, renderizamos los resultados en sus contenedores correctos
-				renderResultados('offer-results', 'Cromos que puedes OFRECER', cromosParaOfrecer, usuarioOrigen);
-				renderResultados('request-results', 'Cromos que puedes SOLICITAR', cromosParaSolicitar, usuarioDestino);
-
+				resultsContainer.innerHTML = '';
+				renderResultados('offer-results', 'Cromos que puedes OFRECER', cromosParaOfrecer, usuarioOrigen, 'offer');
+				renderResultados('request-results', 'Cromos que puedes SOLICITAR', cromosParaSolicitar, usuarioDestino, 'request');
 			} catch (error) {
 				console.error("Error en la comparación:", error);
-				// Mostramos el error en el contenedor principal, que ahora no se borra
-				const resultsContainer = document.getElementById('comparison-results');
 				resultsContainer.innerHTML = `<p style="color: #ff6b6b;">Error: ${error.message}. Asegúrate de que los nombres de usuario son correctos y existen.</p>`;
 			}
-		
 		}
-		// --- FIN: LÓGICA PARA LA COMPARACIÓN DE COLECCIONES ---
+		
+		function selectCard(cardElement, cromoId, type) {
+			const listContainer = type === 'offer' ? document.getElementById('offer-results') : document.getElementById('request-results');
+			
+			// Deseleccionar cualquier otra carta en la misma lista
+			const otherSelected = listContainer.querySelector('.cromo-card.selected');
+			if (otherSelected) {
+				otherSelected.classList.remove('selected');
+			}
+
+			// Seleccionar la nueva carta y guardar su ID
+			cardElement.classList.add('selected');
+			if (type === 'offer') {
+				selectedOfferId = cromoId;
+			} else {
+				selectedRequestId = cromoId;
+			}
+
+			// Intentar generar el comando
+			generateCommand();
+		}
+		
+		function generateCommand() {
+			const commandContainer = document.getElementById('command-container');
+			const commandCode = document.getElementById('trade-command');
+
+			if (selectedOfferId && selectedRequestId && userToTradeWith) {
+				const commandText = `!intercambiar ofrezco ${selectedOfferId} a cambio de ${selectedRequestId} a @${userToTradeWith}`;
+				commandCode.textContent = commandText;
+				commandContainer.style.display = 'block';
+			} else {
+				commandContainer.style.display = 'none';
+			}
+		}
+		
+		function copyCommand() {
+			const commandText = document.getElementById('trade-command').textContent;
+			navigator.clipboard.writeText(commandText).then(() => {
+				alert('¡Comando copiado al portapapeles!');
+			}).catch(err => {
+				console.error('Error al copiar el comando: ', err);
+				alert('No se pudo copiar el comando.');
+			});
+		}
+		// --- FIN: NUEVA LÓGICA ---
 	</script>
 </body>
 </html>
