@@ -557,7 +557,22 @@
 		justify-content: center; /* Centra los cromos en los resultados */
 	}
 	/* --- FIN: Estilos para el Comparador de Colecciones --- */
-	
+	/* --- INICIO: Estilos para la Selección de Cromos de Intercambio --- */
+	.results-section .cromo-card {
+		cursor: pointer; /* Cambia el cursor para indicar que son clicables */
+		transition: transform 0.2s, outline 0.2s;
+	}
+
+	.results-section .cromo-card:hover {
+		transform: scale(1.05); /* Pequeño efecto al pasar el ratón */
+	}
+
+	.results-section .cromo-card.selected {
+		outline: 3px solid #ffeb3b; /* Borde dorado brillante para el cromo seleccionado */
+		transform: scale(1.05);
+		box-shadow: 0 0 15px #ffeb3b;
+	}
+	/* --- FIN: Estilos para la Selección de Cromos de Intercambio --- */
 	
 	</style>
 </head>
@@ -610,7 +625,11 @@
 				<input type="text" id="userB_input" placeholder="Usuario a comparar">
 			</div>
 			<button onclick="compararColecciones()">Comparar</button>
-			
+			<div id="command-container" style="display: none; margin-top: 20px; background-color: #1a1a1a; padding: 15px; border-radius: 8px; border: 1px solid #444;">
+				<h4>¡Comando listo para el chat! 📋</h4>
+				<code id="trade-command" style="background-color: #0c0c0c; padding: 10px; border-radius: 5px; display: block; margin-bottom: 10px; color: #f4f4f4; white-space: pre-wrap; word-wrap: break-word;"></code>
+				<button onclick="copyCommand()">Copiar Comando</button>
+			</div>
 			<div id="comparison-results" class="results-grid">
 				<div id="offer-results"></div>
 				<div id="request-results"></div>
@@ -627,7 +646,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de Criug</h2>
-                <span>Cartas obtenidas: 906 / 1121</span>
+                <span>Cartas obtenidas: 907 / 1121</span>
             </div>
             
             <div class="details">
@@ -668,7 +687,7 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('Captain Tsubasa')">
 								<img src="/COLECCION/botones/captain-tsubasa.png" alt="Captain Tsubasa" class="summary-button-image">
-								<span class="summary-button-counter">34 / 38</span>
+								<span class="summary-button-counter">35 / 38</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Castlevania')">
@@ -1529,7 +1548,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>china (x4)</h3>
+                                                <h3>china (x5)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -2106,7 +2125,7 @@
                             <div class="series-cards" id="series-Captain-Tsubasa" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Captain Tsubasa</h2>
-                                    <span>Cartas obtenidas: 34 / 38</span>
+                                    <span>Cartas obtenidas: 35 / 38</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -2197,6 +2216,19 @@
 											</a>
 																						<div class="cromo-details">
                                                 <h3>CONTI (x2)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 583</span>
+                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Captain Tsubasa/DANNY-MELOW(22-8-2025-1_28).png', '583', 'DANNY-MELOW', 'Raro'); return false;">
+												<div class="cromo-img-container">
+													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Captain Tsubasa/DANNY-MELOW(22-8-2025-1_28).png" alt="DANNY-MELOW">
+												</div>
+											</a>
+																						<div class="cromo-details">
+                                                <h3>DANNY-MELOW (x1)</h3>
                                                 <p>Rareza: Raro</p>
                                             </div>
                                         </div>
@@ -3790,7 +3822,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>myse (x1)</h3>
+                                                <h3>myse (x2)</h3>
                                                 <p>Rareza: Raro</p>
                                             </div>
                                         </div>
