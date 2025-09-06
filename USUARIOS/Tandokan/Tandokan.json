@@ -1539,7 +1539,7 @@
     {
       "id": 160,
       "nombre": "Steelheart",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 112,
@@ -2219,7 +2219,7 @@
     {
       "id": 920,
       "nombre": "HAM-TYLER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 154,
@@ -3734,6 +3734,11 @@
     {
       "id": 413,
       "nombre": "campb",
+      "cantidad": 1
+    },
+    {
+      "id": 663,
+      "nombre": "DB-051",
       "cantidad": 1
     }
   ]
