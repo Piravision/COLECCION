@@ -541,7 +541,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de mondongorrr</h2>
-                <span>Cartas obtenidas: 885 / 1121</span>
+                <span>Cartas obtenidas: 655 / 1121</span>
             </div>
             
             <div class="details">
@@ -562,7 +562,7 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('Batman')">
 								<img src="/COLECCION/botones/batman.png" alt="Batman" class="summary-button-image">
-								<span class="summary-button-counter">17 / 26</span>
+								<span class="summary-button-counter">18 / 26</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Bloody Roar')">
@@ -652,7 +652,7 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('LEGENDIBUS')">
 								<img src="/COLECCION/botones/legendibus.png" alt="LEGENDIBUS" class="summary-button-image">
-								<span class="summary-button-counter">20 / 75</span>
+								<span class="summary-button-counter">21 / 75</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Marvel-Classics')">
@@ -1031,7 +1031,7 @@
                             <div class="series-cards" id="series-Batman" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Batman</h2>
-                                    <span>Cartas obtenidas: 17 / 26</span>
+                                    <span>Cartas obtenidas: 18 / 26</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -1252,6 +1252,19 @@
 											</a>
 																						<div class="cromo-details">
                                                 <h3>ROBIN (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 803</span>
+                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Batman/SELINA-KYLE(27-8-2025-4_41).png', '803', 'SELINA-KYLE', 'Común'); return false;">
+												<div class="cromo-img-container">
+													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Batman/SELINA-KYLE(27-8-2025-4_41).png" alt="SELINA-KYLE">
+												</div>
+											</a>
+																						<div class="cromo-details">
+                                                <h3>SELINA-KYLE (x1)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -5397,7 +5410,7 @@
                             <div class="series-cards" id="series-LEGENDIBUS" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>LEGENDIBUS</h2>
-                                    <span>Cartas obtenidas: 20 / 75</span>
+                                    <span>Cartas obtenidas: 21 / 75</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -5644,6 +5657,19 @@
 											</a>
 																						<div class="cromo-details">
                                                 <h3>G-JASON (x2)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 1109</span>
+                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/LEGENDIBUS/G-ZARK-7-&-ROBERTO-1.png', '1109', 'G-ZARK-7-&-ROBERTO-1', 'Común'); return false;">
+												<div class="cromo-img-container">
+													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/LEGENDIBUS/G-ZARK-7-&-ROBERTO-1.png" alt="G-ZARK-7-&-ROBERTO-1">
+												</div>
+											</a>
+																						<div class="cromo-details">
+                                                <h3>G-ZARK-7-&-ROBERTO-1 (x1)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -6867,7 +6893,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>Zordon (x1)</h3>
+                                                <h3>Zordon (x2)</h3>
                                                 <p>Rareza: Raro</p>
                                             </div>
                                         </div>
@@ -9893,6 +9919,7 @@
 			const serieSeleccionada = document.getElementById(serieId);
 			if (serieSeleccionada) {
 				serieSeleccionada.style.display = 'block';
+				serieSeleccionada.scrollIntoView({ behavior: 'smooth', block: 'start' });
 			}
 		}
 	</script>
