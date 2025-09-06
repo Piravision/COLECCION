@@ -236,7 +236,7 @@
 	#modal-card-container {
 		position: relative;
 		transform-style: preserve-3d;
-		transition: transform 0.1s linear;
+		transition: transform 0.1s linear, box-shadow 0.4s ease-out, border-color 0.4s ease-out;
 		border-radius: 15px;
 		overflow: hidden; /* Muy importante para recortar el brillo */
 		display: inline-block;
@@ -267,14 +267,14 @@
 	/* EFECTOS DE BRILLO ESPECÍFICOS POR RAREZA */
 	#modal-card-container.Común::before {
 		background-image: linear-gradient(115deg,
-			transparent 30%, rgba(255,255,255,0.6) 48%,
+			transparent 30%, rgba(255,255,255,0.3) 48%,
 			rgba(255,255,255,0.6) 52%, transparent 70%);
 	}
 
 	#modal-card-container.Raro::before {
 		background-image: linear-gradient(115deg,
-			transparent 30%, rgba(170,210,255,0.4) 48%,
-			rgba(170,210,255,0.4) 52%, transparent 70%);
+			transparent 30%, rgba(170,210,255,0.6) 48%,
+			rgba(170,210,255,0.6) 52%, transparent 70%);
 	}
 
 	#modal-card-container.Legendario::before {
@@ -283,11 +283,57 @@
 			hsla(120,100%,80%,0.28), hsla(180,100%,80%,0.28),
 			hsla(240,100%,80%,0.28), transparent 75%);
 	}
+	/* --- INICIO: MARCOS DE NEÓN POR RAREZA (CON ANIMACIÓN PARA MÓVIL) --- */
 
-	/* Ajustes a la imagen y al texto de info */
-	.modal-content { /* ID #imgModal renombrado a clase .modal-content por consistencia */
-		border-radius: 15px;
-		display: block;
+	/* 1. Marco plateado para la rareza COMÚN */
+	#modal-card-container.Común {
+		/* El borde físico, un gris claro */
+		border: 3px solid #E0E0E0;
+		
+		/* La magia del neón estático para PC */
+		box-shadow: 0 0 15px #C0C0C0, 
+					inset 0 0 10px 2px #FFFFFF;
+
+		/* ---- LÍNEAS NUEVAS ---- */
+		--glow-color: #C0C0C0; /* Variable con el color del brillo para la animación */
+		animation: neon-pulse 1.2s ease-out; /* Activa la animación al aparecer */
+	}
+
+	/* 2. Marco azul metalizado para la rareza RARO */
+	#modal-card-container.Raro {
+		/* El borde físico, un azul claro */
+		border: 3px solid #77b6e9;
+
+		/* Sombra exterior azul y sombra interior blanca */
+		box-shadow: 0 0 18px #3498db, 
+					inset 0 0 10px 2px #FFFFFF;
+		
+		/* ---- LÍNEAS NUEVAS ---- */
+		--glow-color: #3498db; /* Variable con el color del brillo para la animación */
+		animation: neon-pulse 1.2s ease-out; /* Activa la animación al aparecer */
+	}
+
+	/* 3. Marco dorado metalizado para la rareza LEGENDARIO */
+	#modal-card-container.Legendario {
+		/* El borde físico, un dorado pálido */
+		border: 3px solid #FFEE75;
+		
+		/* Sombra exterior dorada (más intensa) y sombra interior blanca */
+		box-shadow: 0 0 25px #FFD700, 
+					inset 0 0 12px 3px #FFFFFF;
+
+		/* ---- LÍNEAS NUEVAS ---- */
+		--glow-color: #FFD700; /* Variable con el color del brillo para la animación */
+		animation: neon-pulse 1.2s ease-out; /* Activa la animación al aparecer */
+	}
+
+	/* --- FIN: MARCOS DE NEÓN POR RAREZA --- */
+		
+		
+		/* Ajustes a la imagen y al texto de info */
+		.modal-content { /* ID #imgModal renombrado a clase .modal-content por consistencia */
+			border-radius: 15px;
+			display: block;
 	}
 
 	.modal-info {
@@ -389,7 +435,57 @@
 		font-size: 0.8em;
 		color: #ff9900;
 	}
-</style>
+	/* --- INICIO: ESTILOS RESPONSIVE PARA MÓVILES --- */
+
+	@media (max-width: 600px) {
+	  
+	  /* Hacemos que la imagen nunca sea más ancha que el 90% de la pantalla */
+	  .modal-content {
+		max-width: 90vw; /* 90% del ancho de la ventana gráfica (viewport) */
+		width: auto;
+		height: auto;
+	  }
+
+	  /* Ajustamos el contenedor principal para que no se pegue a los bordes */
+	  .modal-container-content {
+		padding: 10px;
+	  }
+
+	  /* Hacemos el botón de cerrar más grande y accesible */
+	  .close {
+		font-size: 50px;
+		top: 5px;
+		right: 20px;
+	  }
+	  
+	  /* Reducimos el tamaño del texto de info */
+	  .modal-info h3 {
+		  font-size: 1.1em;
+	  }
+
+	}
+
+	/* --- FIN: ESTILOS RESPONSIVE PARA MÓVILES --- */
+	/* --- INICIO: ANIMACIÓN DE PULSO NEÓN PARA MÓVILES --- */
+
+	@keyframes neon-pulse {
+	  0% {
+		/* El brillo empieza como lo tienes ahora */
+		box-shadow: inherit;
+	  }
+	  70% {
+		/* A mitad de la animación, el brillo se vuelve mucho más intenso */
+		box-shadow: 0 0 40px var(--glow-color, #fff), 
+					inset 0 0 15px 4px #FFFFFF;
+	  }
+	  100% {
+		/* Al final, vuelve a su estado normal y se queda fijo */
+		box-shadow: inherit;
+	  }
+	}
+
+	/* --- FIN: ANIMACIÓN DE PULSO NEÓN PARA MÓVILES --- */
+	</style>
 </head>
 <body>
     <div class="header">
@@ -436,7 +532,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de Chechyan</h2>
-                <span>Cartas obtenidas: 92 / 1121</span>
+                <span>Cartas obtenidas: 95 / 1121</span>
             </div>
             
             <div class="details">
@@ -477,12 +573,12 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('Captain Tsubasa')">
 								<img src="/COLECCION/botones/captain-tsubasa.png" alt="Captain Tsubasa" class="summary-button-image">
-								<span class="summary-button-counter">2 / 38</span>
+								<span class="summary-button-counter">3 / 38</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Castlevania')">
 								<img src="/COLECCION/botones/castlevania.png" alt="Castlevania" class="summary-button-image">
-								<span class="summary-button-counter">2 / 10</span>
+								<span class="summary-button-counter">3 / 10</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Conan El Bárbaro')">
@@ -552,7 +648,7 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('Mortal Kombat')">
 								<img src="/COLECCION/botones/mortal-kombat.png" alt="Mortal Kombat" class="summary-button-image">
-								<span class="summary-button-counter">1 / 25</span>
+								<span class="summary-button-counter">2 / 25</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Motorratones')">
@@ -851,7 +947,7 @@
                             <div class="series-cards" id="series-Captain-Tsubasa" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Captain Tsubasa</h2>
-                                    <span>Cartas obtenidas: 2 / 38</span>
+                                    <span>Cartas obtenidas: 3 / 38</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -864,6 +960,19 @@
 											</a>
 																						<div class="cromo-details">
                                                 <h3>FRANZ-SCHESTER (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 598</span>
+                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Captain Tsubasa/MARGUS-MANFRED(22-8-2025-1_23).png', '598', 'MARGUS-MANFRED', 'Raro'); return false;">
+												<div class="cromo-img-container">
+													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Captain Tsubasa/MARGUS-MANFRED(22-8-2025-1_23).png" alt="MARGUS-MANFRED">
+												</div>
+											</a>
+																						<div class="cromo-details">
+                                                <h3>MARGUS-MANFRED (x1)</h3>
                                                 <p>Rareza: Raro</p>
                                             </div>
                                         </div>
@@ -887,9 +996,22 @@
                             <div class="series-cards" id="series-Castlevania" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Castlevania</h2>
-                                    <span>Cartas obtenidas: 2 / 10</span>
+                                    <span>Cartas obtenidas: 3 / 10</span>
                                 </div>
                                 <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 367</span>
+                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Castlevania/PERSONAJE/BEMONT.png', '367', 'BEMONT', 'Común'); return false;">
+												<div class="cromo-img-container">
+													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Castlevania/PERSONAJE/BEMONT.png" alt="BEMONT">
+												</div>
+											</a>
+																						<div class="cromo-details">
+                                                <h3>BEMONT (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
                                     
                                         <div class="cromo-card">
                                             <span class="cromo-numero">Nº: 369</span>
@@ -1560,7 +1682,7 @@
                             <div class="series-cards" id="series-Mortal-Kombat" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Mortal Kombat</h2>
-                                    <span>Cartas obtenidas: 1 / 25</span>
+                                    <span>Cartas obtenidas: 2 / 25</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -1573,6 +1695,19 @@
 											</a>
 																						<div class="cromo-details">
                                                 <h3>JADE (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 820</span>
+                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Mortal Kombat/SEKTOR(27-8-2025-3_30).png', '820', 'SEKTOR', 'Común'); return false;">
+												<div class="cromo-img-container">
+													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Mortal Kombat/SEKTOR(27-8-2025-3_30).png" alt="SEKTOR">
+												</div>
+											</a>
+																						<div class="cromo-details">
+                                                <h3>SEKTOR (x1)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -2268,8 +2403,8 @@
 			const { left, top, width, height } = card.getBoundingClientRect();
 			const x = e.clientX - left;
 			const y = e.clientY - top;
-			const rotateX = -1 * ((y - height / 2) / (height / 2)) * 12;
-			const rotateY = ((x - width / 2) / (width / 2)) * 12;
+			const rotateX = -1 * ((y - height / 2) / (height / 2)) * 25;
+			const rotateY = ((x - width / 2) / (width / 2)) * 25;
 			card.style.transform = `rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
 			card.style.setProperty('--mouse-x', `${(x / width) * 100}%`);
 			card.style.setProperty('--mouse-y', `${(y / height) * 100}%`);
