@@ -330,10 +330,16 @@
 	/* --- FIN: MARCOS DE NEÓN POR RAREZA --- */
 		
 		
-		/* Ajustes a la imagen y al texto de info */
-		.modal-content { /* ID #imgModal renombrado a clase .modal-content por consistencia */
-			border-radius: 15px;
-			display: block;
+		/* ESTA ES LA REGLA CORREGIDA */
+	.modal-content {
+		border-radius: 15px;
+		display: block;
+		
+		/* ---- LÍNEAS NUEVAS Y CRUCIALES ---- */
+		width: auto;       /* El ancho se ajustará automáticamente */
+		height: auto;      /* El alto se ajustará automáticamente */
+		max-width: 500px;  /* Límite máximo para pantallas de PC */
+		max-height: 80vh;  /* Límite de altura: 80% de la altura de la pantalla */
 	}
 
 	.modal-info {
@@ -439,11 +445,10 @@
 
 	@media (max-width: 600px) {
 	  
-	  /* Hacemos que la imagen nunca sea más ancha que el 90% de la pantalla */
+	  /* Hacemos que la imagen nunca sea más ancha ni más alta que la pantalla */
 	  .modal-content {
-		max-width: 90vw; /* 90% del ancho de la ventana gráfica (viewport) */
-		width: auto;
-		height: auto;
+		max-width: 90vw;  /* Límite de ANCHO: 90% del ancho de la pantalla */
+		max-height: 85vh; /* Límite de ALTURA: 85% de la altura de la pantalla */
 	  }
 
 	  /* Ajustamos el contenedor principal para que no se pegue a los bordes */
@@ -532,7 +537,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de mondongorrr</h2>
-                <span>Cartas obtenidas: 611 / 1121</span>
+                <span>Cartas obtenidas: 613 / 1121</span>
             </div>
             
             <div class="details">
@@ -648,7 +653,7 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('Marvel-Classics')">
 								<img src="/COLECCION/botones/marvel-classics.png" alt="Marvel-Classics" class="summary-button-image">
-								<span class="summary-button-counter">23 / 105</span>
+								<span class="summary-button-counter">24 / 105</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Mazinger')">
@@ -708,7 +713,7 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('Spiderman')">
 								<img src="/COLECCION/botones/spiderman.png" alt="Spiderman" class="summary-button-image">
-								<span class="summary-button-counter">15 / 30</span>
+								<span class="summary-button-counter">16 / 30</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Spyro The Dragon')">
@@ -5307,7 +5312,7 @@
                             <div class="series-cards" id="series-Marvel-Classics" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Marvel-Classics</h2>
-                                    <span>Cartas obtenidas: 23 / 105</span>
+                                    <span>Cartas obtenidas: 24 / 105</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -5610,6 +5615,19 @@
                                             </div>
                                         </div>
                                     
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 1078</span>
+                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Marvel-Classics/X -PHOENIX.png', '1078', 'X -PHOENIX', 'Común'); return false;">
+												<div class="cromo-img-container">
+													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Marvel-Classics/X -PHOENIX.png" alt="X -PHOENIX">
+												</div>
+											</a>
+																						<div class="cromo-details">
+                                                <h3>X -PHOENIX (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
                                 </div>
                             </div>
                         
@@ -5856,7 +5874,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>Mallory McMallard (x1)</h3>
+                                                <h3>Mallory McMallard (x2)</h3>
                                                 <p>Rareza: Raro</p>
                                             </div>
                                         </div>
@@ -6753,7 +6771,7 @@
                             <div class="series-cards" id="series-Spiderman" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Spiderman</h2>
-                                    <span>Cartas obtenidas: 15 / 30</span>
+                                    <span>Cartas obtenidas: 16 / 30</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -6818,6 +6836,19 @@
 											</a>
 																						<div class="cromo-details">
                                                 <h3>Mary Jane (x2)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 173</span>
+                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Spiderman/HERO/Punisher(17-12-2023-18_0).png', '173', 'Punisher', 'Común'); return false;">
+												<div class="cromo-img-container">
+													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Spiderman/HERO/Punisher(17-12-2023-18_0).png" alt="Punisher">
+												</div>
+											</a>
+																						<div class="cromo-details">
+                                                <h3>Punisher (x1)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
