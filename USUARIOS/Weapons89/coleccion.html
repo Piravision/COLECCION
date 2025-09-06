@@ -627,7 +627,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de Weapons89</h2>
-                <span>Cartas obtenidas: 543 / 1121</span>
+                <span>Cartas obtenidas: 545 / 1121</span>
             </div>
             
             <div class="details">
@@ -863,7 +863,7 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('V')">
 								<img src="/COLECCION/botones/v.png" alt="V" class="summary-button-image">
-								<span class="summary-button-counter">1 / 8</span>
+								<span class="summary-button-counter">2 / 8</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Varios')">
@@ -873,7 +873,7 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('WWE')">
 								<img src="/COLECCION/botones/wwe.png" alt="WWE" class="summary-button-image">
-								<span class="summary-button-counter">13 / 25</span>
+								<span class="summary-button-counter">14 / 25</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('X-Men')">
@@ -7187,7 +7187,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>Ma Mutt (x1)</h3>
+                                                <h3>Ma Mutt (x2)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -7696,7 +7696,7 @@
                             <div class="series-cards" id="series-V" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>V</h2>
-                                    <span>Cartas obtenidas: 1 / 8</span>
+                                    <span>Cartas obtenidas: 2 / 8</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -7709,6 +7709,19 @@
 											</a>
 																						<div class="cromo-details">
                                                 <h3>DIANA (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 921</span>
+                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/V/JULIET-PARRISH(28-8-2025-4_35).png', '921', 'JULIET-PARRISH', 'Raro'); return false;">
+												<div class="cromo-img-container">
+													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/V/JULIET-PARRISH(28-8-2025-4_35).png" alt="JULIET-PARRISH">
+												</div>
+											</a>
+																						<div class="cromo-details">
+                                                <h3>JULIET-PARRISH (x1)</h3>
                                                 <p>Rareza: Raro</p>
                                             </div>
                                         </div>
@@ -7937,7 +7950,7 @@
                             <div class="series-cards" id="series-WWE" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>WWE</h2>
-                                    <span>Cartas obtenidas: 13 / 25</span>
+                                    <span>Cartas obtenidas: 14 / 25</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -8093,6 +8106,19 @@
 											</a>
 																						<div class="cromo-details">
                                                 <h3>KANE (x1)</h3>
+                                                <p>Rareza: Legendario</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 931</span>
+                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/WWE/RANDY-ORTON(30-8-2025-4_27).png', '931', 'RANDY-ORTON', 'Legendario'); return false;">
+												<div class="cromo-img-container">
+													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/WWE/RANDY-ORTON(30-8-2025-4_27).png" alt="RANDY-ORTON">
+												</div>
+											</a>
+																						<div class="cromo-details">
+                                                <h3>RANDY-ORTON (x1)</h3>
                                                 <p>Rareza: Legendario</p>
                                             </div>
                                         </div>
@@ -8607,18 +8633,24 @@
 		/**
 		 * Función principal que se ejecuta al pulsar el botón "Comparar".
 		 */
+		// --- COPIA Y REEMPLAZA ESTA FUNCIÓN COMPLETA ---
+
 		async function compararColecciones() {
 			const usuarioOrigen = document.getElementById('userA_input').value.trim();
 			const usuarioDestino = document.getElementById('userB_input').value.trim();
-			const resultsContainer = document.getElementById('comparison-results');
 			
-			resultsContainer.innerHTML = '<p>Buscando y comparando colecciones...</p>';
-
+			// Obtenemos los contenedores de resultados por separado
+			const offerContainer = document.getElementById('offer-results');
+			const requestContainer = document.getElementById('request-results');
+			
 			if (!usuarioOrigen || !usuarioDestino) {
 				alert("Por favor, introduce ambos nombres de usuario.");
-				resultsContainer.innerHTML = '';
 				return;
 			}
+
+			// Mostramos el mensaje de carga en AMBOS contenedores
+			offerContainer.innerHTML = '<p>Buscando y comparando...</p>';
+			requestContainer.innerHTML = ''; // Limpiamos el segundo por si acaso
 
 			const GITHUB_BASE_URL = "https://piravision.github.io/COLECCION/USUARIOS/";
 			const urlOrigen = `${GITHUB_BASE_URL}${encodeURIComponent(usuarioOrigen)}/coleccion.html`;
@@ -8648,14 +8680,17 @@
 				const cromosParaOfrecer = repetidosOrigen.filter(cromo => !idsDestino.has(cromo.id));
 				const cromosParaSolicitar = repetidosDestino.filter(cromo => !idsOrigen.has(cromo.id));
 				
-				resultsContainer.innerHTML = '';
+				// Ahora sí, renderizamos los resultados en sus contenedores correctos
 				renderResultados('offer-results', 'Cromos que puedes OFRECER', cromosParaOfrecer, usuarioOrigen);
 				renderResultados('request-results', 'Cromos que puedes SOLICITAR', cromosParaSolicitar, usuarioDestino);
 
 			} catch (error) {
 				console.error("Error en la comparación:", error);
+				// Mostramos el error en el contenedor principal, que ahora no se borra
+				const resultsContainer = document.getElementById('comparison-results');
 				resultsContainer.innerHTML = `<p style="color: #ff6b6b;">Error: ${error.message}. Asegúrate de que los nombres de usuario son correctos y existen.</p>`;
 			}
+		
 		}
 		// --- FIN: LÓGICA PARA LA COMPARACIÓN DE COLECCIONES ---
 	</script>
