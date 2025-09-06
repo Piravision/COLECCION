@@ -4134,7 +4134,7 @@
         {
             "id": 1010,
             "nombre": "LUPIN-III",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 728,
@@ -4434,6 +4434,11 @@
         {
             "id": 738,
             "nombre": "Aldebarán-de-Tauro",
+            "cantidad": 1
+        },
+        {
+            "id": 1009,
+            "nombre": "SHIN-CHAN",
             "cantidad": 1
         }
     ]
