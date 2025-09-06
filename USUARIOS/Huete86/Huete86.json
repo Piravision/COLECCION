@@ -614,7 +614,7 @@
     {
       "id": 230,
       "nombre": "Mansion X",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 338,
@@ -769,7 +769,7 @@
     {
       "id": 541,
       "nombre": "COBRA-1986",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 547,
@@ -869,7 +869,7 @@
     {
       "id": 75,
       "nombre": "mac",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 163,
@@ -1404,7 +1404,7 @@
     {
       "id": 537,
       "nombre": "BOLO-YEUNG",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 339,
@@ -1459,7 +1459,7 @@
     {
       "id": 41,
       "nombre": "crocodine bueno",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 530,
@@ -1809,7 +1809,7 @@
     {
       "id": 632,
       "nombre": "DB-020",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 645,
@@ -1869,7 +1869,7 @@
     {
       "id": 23,
       "nombre": "Amo del Calabozo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 394,
@@ -1939,7 +1939,7 @@
     {
       "id": 144,
       "nombre": "Grin-Hardwing",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 761,
@@ -2319,7 +2319,7 @@
     {
       "id": 750,
       "nombre": "Milo-de-Escorpio",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 669,
@@ -3154,7 +3154,7 @@
     {
       "id": 829,
       "nombre": "AKUMA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 864,
@@ -3589,7 +3589,7 @@
     {
       "id": 874,
       "nombre": "CAPTAIN-AMERICA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 933,
@@ -3849,7 +3849,7 @@
     {
       "id": 745,
       "nombre": "Dark-Shura-de-Capricornio",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 301,
@@ -4009,7 +4009,7 @@
     {
       "id": 754,
       "nombre": "Pandora",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 989,
@@ -4264,6 +4264,16 @@
     {
       "id": 1080,
       "nombre": "X -STORM",
+      "cantidad": 1
+    },
+    {
+      "id": 346,
+      "nombre": "jess",
+      "cantidad": 1
+    },
+    {
+      "id": 1095,
+      "nombre": "CZ-PETER-VENKMAN",
       "cantidad": 1
     }
   ]
