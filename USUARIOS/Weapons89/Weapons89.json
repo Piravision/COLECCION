@@ -424,7 +424,7 @@
     {
       "id": 444,
       "nombre": "birki",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 534,
@@ -2219,7 +2219,7 @@
     {
       "id": 983,
       "nombre": "14-ROBBIE-SINCLAIR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 630,
@@ -2769,6 +2769,11 @@
     {
       "id": 792,
       "nombre": "HARLEY-QUEEN",
+      "cantidad": 1
+    },
+    {
+      "id": 624,
+      "nombre": "DB-012",
       "cantidad": 1
     }
   ]
