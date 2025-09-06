@@ -124,7 +124,7 @@
     {
       "id": 534,
       "nombre": "T800-Jail",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 172,
@@ -1164,7 +1164,7 @@
     {
       "id": 812,
       "nombre": "KUNG-LAO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 609,
@@ -1689,6 +1689,11 @@
     {
       "id": 262,
       "nombre": "April O'Neil",
+      "cantidad": 1
+    },
+    {
+      "id": 644,
+      "nombre": "DB-032",
       "cantidad": 1
     }
   ]
