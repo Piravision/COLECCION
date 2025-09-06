@@ -2199,7 +2199,7 @@
     {
       "id": 670,
       "nombre": "DB-058",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 574,
@@ -2219,7 +2219,7 @@
     {
       "id": 472,
       "nombre": "grey",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 567,
@@ -4914,6 +4914,11 @@
     {
       "id": 1086,
       "nombre": "Z - AVENGERS",
+      "cantidad": 1
+    },
+    {
+      "id": 1060,
+      "nombre": "QUICKSILVER",
       "cantidad": 1
     }
   ]
