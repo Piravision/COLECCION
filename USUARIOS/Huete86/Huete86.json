@@ -919,7 +919,7 @@
         {
             "id": 379,
             "nombre": "lynx",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 315,
@@ -4309,6 +4309,11 @@
         {
             "id": 735,
             "nombre": "Aiacos",
+            "cantidad": 1
+        },
+        {
+            "id": 741,
+            "nombre": "Camus-de-Acuario",
             "cantidad": 1
         }
     ]
