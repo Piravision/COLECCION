@@ -625,11 +625,13 @@
 				<input type="text" id="userB_input" placeholder="Usuario a comparar">
 			</div>
 			<button onclick="compararColecciones()">Comparar</button>
+			
 			<div id="command-container" style="display: none; margin-top: 20px; background-color: #1a1a1a; padding: 15px; border-radius: 8px; border: 1px solid #444;">
 				<h4>¡Comando listo para el chat! 📋</h4>
 				<code id="trade-command" style="background-color: #0c0c0c; padding: 10px; border-radius: 5px; display: block; margin-bottom: 10px; color: #f4f4f4; white-space: pre-wrap; word-wrap: break-word;"></code>
 				<button onclick="copyCommand()">Copiar Comando</button>
 			</div>
+			
 			<div id="comparison-results" class="results-grid">
 				<div id="offer-results"></div>
 				<div id="request-results"></div>
@@ -15993,18 +15995,18 @@
 	
 	    
     <script>
-		// --- ELEMENTOS GLOBALES ---
+		// --- ELEMENTOS GLOBALES DEL MODAL ---
 		const modal = document.getElementById("myModal");
 		const modalImg = document.getElementById("imgModal");
 		const modalInfo = document.getElementById("modal-info");
 		const modalCardContainer = document.getElementById('modal-card-container');
-		
+
 		// --- VARIABLES GLOBALES PARA EL INTERCAMBIO ---
 		let selectedOfferId = null;
 		let selectedRequestId = null;
 		let userToTradeWith = null;
 
-		// --- LÓGICA DEL MODAL (SIN CAMBIOS) ---
+		// --- LÓGICA PARA EL EFECTO 3D DE LA CARTA ---
 		const handleCardTilt = (e) => {
 			const card = e.currentTarget;
 			const { left, top, width, height } = card.getBoundingClientRect();
@@ -16016,41 +16018,59 @@
 			card.style.setProperty('--mouse-x', `${(x / width) * 100}%`);
 			card.style.setProperty('--mouse-y', `${(y / height) * 100}%`);
 		};
-		const resetCardTilt = (e) => { e.currentTarget.style.transform = 'rotateX(0deg) rotateY(0deg)'; };
+
+		const resetCardTilt = (e) => {
+			e.currentTarget.style.transform = 'rotateX(0deg) rotateY(0deg)';
+		};
+
+		// --- NUEVAS FUNCIONES PARA ABRIR Y CERRAR EL MODAL ---
 		function openModal(linkElement, imagenUrl, cromoId, cromoNombre, cromoRareza) {
 			modalCardContainer.classList.remove('Común', 'Raro', 'Legendario');
-			if (cromoRareza) { modalCardContainer.classList.add(cromoRareza); }
+			if (cromoRareza) {
+				modalCardContainer.classList.add(cromoRareza);
+			}
 			modalImg.src = imagenUrl;
 			modalInfo.innerHTML = `<h3>Nº: ${cromoId} - ${cromoNombre}</h3>`;
 			modal.classList.add("visible");
 			modalCardContainer.addEventListener('mousemove', handleCardTilt);
 			modalCardContainer.addEventListener('mouseleave', resetCardTilt);
 		}
+
 		function closeModal() {
 			modal.classList.remove("visible");
 			modalCardContainer.removeEventListener('mousemove', handleCardTilt);
 			modalCardContainer.removeEventListener('mouseleave', resetCardTilt);
 			resetCardTilt({currentTarget: modalCardContainer}); 
 		}
-		window.onclick = function(event) { if (event.target == modal) { closeModal(); } }
+
+		// --- LÓGICA EXISTENTE (SE MANTIENE IGUAL) ---
+		window.onclick = function(event) {
+			if (event.target == modal) {
+				closeModal();
+			}
+		}
 		
-		// --- FUNCIONES DE LA PÁGINA (SIN CAMBIOS) ---
 		function buscarColeccion() {
 			const username = document.getElementById("usernameInput").value.trim();
 			if (username) {
 				const url = `https://piravision.github.io/COLECCION/USUARIOS/${encodeURIComponent(username)}/coleccion.html`;
 				window.location.href = url;
-			} else { alert("Por favor, introduce un nombre de usuario."); }
+			} else {
+				alert("Por favor, introduce un nombre de usuario.");
+			}
 		}
+
 		document.getElementById("usernameInput").addEventListener("keyup", function(event) {
 			if (event.key === "Enter") {
 				event.preventDefault();
 				document.querySelector(".search-container button").click();
 			}
 		});
+
 		function mostrarCartas(serie) {
 			const todasLasSeries = document.querySelectorAll('.series-cards');
 			todasLasSeries.forEach(s => s.style.display = 'none');
+			
 			const serieId = `series-${serie.replace(/ /g, '-').replace(/&/g, 'and').replace(/'/g, '')}`;
 			const serieSeleccionada = document.getElementById(serieId);
 			if (serieSeleccionada) {
@@ -16059,7 +16079,7 @@
 			}
 		}
 
-		// --- INICIO: NUEVA LÓGICA PARA LA COMPARACIÓN E INTERCAMBIO ---
+		// --- INICIO: LÓGICA PARA LA COMPARACIÓN Y CREACIÓN DE COMANDOS ---
 
 		function extraerCromosDesdeHTML(htmlString) {
 			const cromos = [];
@@ -16111,7 +16131,6 @@
 		}
 
 		async function compararColecciones() {
-			// Reseteamos las selecciones anteriores
 			selectedOfferId = null;
 			selectedRequestId = null;
 			userToTradeWith = null;
@@ -16119,16 +16138,19 @@
 
 			const usuarioOrigen = document.getElementById('userA_input').value.trim();
 			const usuarioDestino = document.getElementById('userB_input').value.trim();
+			const offerContainer = document.getElementById('offer-results');
+			const requestContainer = document.getElementById('request-results');
 			const resultsContainer = document.getElementById('comparison-results');
-			resultsContainer.innerHTML = '<p>Buscando y comparando colecciones...</p>';
-
+			
 			if (!usuarioOrigen || !usuarioDestino) {
 				alert("Por favor, introduce ambos nombres de usuario.");
-				resultsContainer.innerHTML = '';
 				return;
 			}
 
-			userToTradeWith = usuarioDestino; // Guardamos el nombre del usuario para el comando
+			offerContainer.innerHTML = '<p>Buscando y comparando...</p>';
+			requestContainer.innerHTML = ''; 
+			userToTradeWith = usuarioDestino;
+
 			const GITHUB_BASE_URL = "https://piravision.github.io/COLECCION/USUARIOS/";
 			const urlOrigen = `${GITHUB_BASE_URL}${encodeURIComponent(usuarioOrigen)}/coleccion.html`;
 			const urlDestino = `${GITHUB_BASE_URL}${encodeURIComponent(usuarioDestino)}/coleccion.html`;
@@ -16147,9 +16169,10 @@
 				const repetidosDestino = coleccionDestino.filter(c => c.cantidad >= 2);
 				const cromosParaOfrecer = repetidosOrigen.filter(cromo => !idsDestino.has(cromo.id));
 				const cromosParaSolicitar = repetidosDestino.filter(cromo => !idsOrigen.has(cromo.id));
-				resultsContainer.innerHTML = '';
+				
 				renderResultados('offer-results', 'Cromos que puedes OFRECER', cromosParaOfrecer, usuarioOrigen, 'offer');
 				renderResultados('request-results', 'Cromos que puedes SOLICITAR', cromosParaSolicitar, usuarioDestino, 'request');
+
 			} catch (error) {
 				console.error("Error en la comparación:", error);
 				resultsContainer.innerHTML = `<p style="color: #ff6b6b;">Error: ${error.message}. Asegúrate de que los nombres de usuario son correctos y existen.</p>`;
@@ -16158,29 +16181,22 @@
 		
 		function selectCard(cardElement, cromoId, type) {
 			const listContainer = type === 'offer' ? document.getElementById('offer-results') : document.getElementById('request-results');
-			
-			// Deseleccionar cualquier otra carta en la misma lista
 			const otherSelected = listContainer.querySelector('.cromo-card.selected');
 			if (otherSelected) {
 				otherSelected.classList.remove('selected');
 			}
-
-			// Seleccionar la nueva carta y guardar su ID
 			cardElement.classList.add('selected');
 			if (type === 'offer') {
 				selectedOfferId = cromoId;
 			} else {
 				selectedRequestId = cromoId;
 			}
-
-			// Intentar generar el comando
 			generateCommand();
 		}
 		
 		function generateCommand() {
 			const commandContainer = document.getElementById('command-container');
 			const commandCode = document.getElementById('trade-command');
-
 			if (selectedOfferId && selectedRequestId && userToTradeWith) {
 				const commandText = `!intercambiar ofrezco ${selectedOfferId} a cambio de ${selectedRequestId} a @${userToTradeWith}`;
 				commandCode.textContent = commandText;
@@ -16199,7 +16215,7 @@
 				alert('No se pudo copiar el comando.');
 			});
 		}
-		// --- FIN: NUEVA LÓGICA ---
+		// --- FIN: LÓGICA PARA LA COMPARACIÓN Y CREACIÓN DE COMANDOS ---
 	</script>
 </body>
 </html>
