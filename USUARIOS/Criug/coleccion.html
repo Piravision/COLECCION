@@ -494,6 +494,71 @@
 	}
 
 	/* --- FIN: ANIMACIÓN DE PULSO NEÓN PARA MÓVILES --- */
+	/* --- INICIO: Estilos para el Comparador de Colecciones --- */
+	.comparison-container {
+		background: rgba(255, 255, 255, 0.07);
+		border-radius: 10px;
+		padding: 20px;
+		margin-bottom: 30px;
+		text-align: center;
+	}
+	.comparison-container h2 {
+		margin-top: 0;
+		color: #ff9900;
+	}
+	.comparison-inputs {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		gap: 15px;
+		flex-wrap: wrap;
+		margin-bottom: 15px;
+	}
+	.comparison-inputs input {
+		padding: 10px;
+		border-radius: 5px;
+		border: none;
+		font-size: 1rem;
+		background-color: #222;
+		color: #fff;
+		text-align: center;
+	}
+	.comparison-inputs span {
+		font-size: 2rem;
+		color: #ff9900;
+	}
+	.comparison-container button {
+		padding: 10px 20px;
+		border-radius: 5px;
+		border: none;
+		font-size: 1.1rem;
+		background-color: #ff9900;
+		color: #111;
+		cursor: pointer;
+		font-weight: bold;
+		margin-bottom: 20px;
+	}
+	.results-grid {
+		display: grid;
+		grid-template-columns: 1fr;
+		gap: 30px;
+	}
+	@media (min-width: 768px) {
+		.results-grid {
+			grid-template-columns: 1fr 1fr;
+		}
+	}
+	.results-section h3 {
+		border-bottom: 1px solid #ff9900;
+		padding-bottom: 5px;
+		color: #ff9900;
+	}
+	.results-section .coleccion {
+		justify-content: center; /* Centra los cromos en los resultados */
+	}
+	/* --- FIN: Estilos para el Comparador de Colecciones --- */
+	
+	
 	</style>
 </head>
 <body>
@@ -537,11 +602,32 @@
             <button onclick="buscarColeccion()">Buscar</button>
             <p style="font-size: 0.9em; color: #aaa; margin-top: 10px;">¡Hola Piraviewer! Introduce tu usuario de Kick para ver tu álbum personal.</p>
         </div>
-
+		<div class="comparison-container">
+			<h2>Comparar Colecciones para Intercambio</h2>
+			<div class="comparison-inputs">
+				<input type="text" id="userA_input" placeholder="Tu nombre de usuario">
+				<span>↔️</span>
+				<input type="text" id="userB_input" placeholder="Usuario a comparar">
+			</div>
+			<button onclick="compararColecciones()">Comparar</button>
+			
+			<div id="comparison-results" class="results-grid">
+				<div id="offer-results"></div>
+				<div id="request-results"></div>
+			</div>
+		</div>
+		
+		
+		
+		
+		
+		
+		
+		
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de Criug</h2>
-                <span>Cartas obtenidas: 2270 / 1121</span>
+                <span>Cartas obtenidas: 892 / 1121</span>
             </div>
             
             <div class="details">
@@ -652,12 +738,12 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('LEGENDIBUS')">
 								<img src="/COLECCION/botones/legendibus.png" alt="LEGENDIBUS" class="summary-button-image">
-								<span class="summary-button-counter">35 / 75</span>
+								<span class="summary-button-counter">36 / 75</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Marvel-Classics')">
 								<img src="/COLECCION/botones/marvel-classics.png" alt="Marvel-Classics" class="summary-button-image">
-								<span class="summary-button-counter">33 / 105</span>
+								<span class="summary-button-counter">34 / 105</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Mazinger')">
@@ -6502,7 +6588,7 @@
                             <div class="series-cards" id="series-LEGENDIBUS" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>LEGENDIBUS</h2>
-                                    <span>Cartas obtenidas: 35 / 75</span>
+                                    <span>Cartas obtenidas: 36 / 75</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -6806,6 +6892,19 @@
                                         </div>
                                     
                                         <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 977</span>
+                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/LEGENDIBUS/13-ODIE(2-9-2025-3_25).png', '977', '13-ODIE', 'Común'); return false;">
+												<div class="cromo-img-container">
+													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/LEGENDIBUS/13-ODIE(2-9-2025-3_25).png" alt="13-ODIE">
+												</div>
+											</a>
+																						<div class="cromo-details">
+                                                <h3>13-ODIE (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
                                             <span class="cromo-numero">Nº: 979</span>
                                             <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/LEGENDIBUS/14-CHARLENE-SINCLAIR(2-9-2025-4_52).png', '979', '14-CHARLENE-SINCLAIR', 'Común'); return false;">
 												<div class="cromo-img-container">
@@ -6967,7 +7066,7 @@
                             <div class="series-cards" id="series-Marvel-Classics" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Marvel-Classics</h2>
-                                    <span>Cartas obtenidas: 33 / 105</span>
+                                    <span>Cartas obtenidas: 34 / 105</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -7031,7 +7130,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>BLACK-PANTHER (x3)</h3>
+                                                <h3>BLACK-PANTHER (x4)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -7345,6 +7444,19 @@
 																						<div class="cromo-details">
                                                 <h3>THOR (x1)</h3>
                                                 <p>Rareza: Legendario</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 1023</span>
+                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Marvel-Classics/4F- THE-FANTASTIC-4.png', '1023', '4F- THE-FANTASTIC-4', 'Común'); return false;">
+												<div class="cromo-img-container">
+													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Marvel-Classics/4F- THE-FANTASTIC-4.png" alt="4F- THE-FANTASTIC-4">
+												</div>
+											</a>
+																						<div class="cromo-details">
+                                                <h3>4F- THE-FANTASTIC-4 (x1)</h3>
+                                                <p>Rareza: Común</p>
                                             </div>
                                         </div>
                                     
@@ -12910,35 +13022,21 @@
 
 		// --- NUEVAS FUNCIONES PARA ABRIR Y CERRAR EL MODAL ---
 		function openModal(linkElement, imagenUrl, cromoId, cromoNombre, cromoRareza) {
-			// 1. Limpiamos clases de rareza de una apertura anterior
 			modalCardContainer.classList.remove('Común', 'Raro', 'Legendario');
-			
-			// 2. Añadimos la clase de la rareza actual del cromo
 			if (cromoRareza) {
 				modalCardContainer.classList.add(cromoRareza);
 			}
-
-			// 3. Cargamos la información del cromo
 			modalImg.src = imagenUrl;
 			modalInfo.innerHTML = `<h3>Nº: ${cromoId} - ${cromoNombre}</h3>`;
-			
-			// 4. Mostramos el modal AÑADIENDO una clase
 			modal.classList.add("visible");
-
-			// 5. Activamos los listeners del ratón para el efecto 3D
 			modalCardContainer.addEventListener('mousemove', handleCardTilt);
 			modalCardContainer.addEventListener('mouseleave', resetCardTilt);
 		}
 
 		function closeModal() {
-			// 1. Ocultamos el modal QUITANDO la clase
 			modal.classList.remove("visible");
-			
-			// 2. Desactivamos los listeners para no consumir recursos
 			modalCardContainer.removeEventListener('mousemove', handleCardTilt);
 			modalCardContainer.removeEventListener('mouseleave', resetCardTilt);
-			
-			// 3. Reseteamos la posición de la carta por si se quedó inclinada
 			resetCardTilt({currentTarget: modalCardContainer}); 
 		}
 
@@ -12974,8 +13072,121 @@
 			const serieSeleccionada = document.getElementById(serieId);
 			if (serieSeleccionada) {
 				serieSeleccionada.style.display = 'block';
+				serieSeleccionada.scrollIntoView({ behavior: 'smooth', block: 'start' });
 			}
 		}
+
+		// --- INICIO: LÓGICA PARA LA COMPARACIÓN DE COLECCIONES (VERSIÓN DEFINITIVA) ---
+
+		// Esta función coge el HTML de una colección y lo convierte en una lista de objetos de cromo.
+		function extraerCromosDesdeHTML(htmlString) {
+			const cromos = [];
+			const parser = new DOMParser();
+			const doc = parser.parseFromString(htmlString, "text/html");
+			const cromoCards = doc.querySelectorAll('.cromo-card');
+
+			cromoCards.forEach(card => {
+				try {
+					const numeroSpan = card.querySelector('.cromo-numero');
+					const nombreH3 = card.querySelector('h3');
+					const rarezaP = card.querySelector('p');
+					const img = card.querySelector('img');
+
+					if (numeroSpan && nombreH3 && rarezaP && img) {
+						const id = parseInt(numeroSpan.textContent.split('Nº: ')[1]);
+						const cantidadMatch = nombreH3.textContent.match(/\(x(\d+)\)/);
+						const cantidad = cantidadMatch ? parseInt(cantidadMatch[1]) : 1;
+						const nombre = nombreH3.textContent.replace(/\s\(x\d+\)$/, '').trim();
+						const rareza = rarezaP.textContent.replace('Rareza: ', '').trim();
+						const imagen_url_web = img.src;
+						
+						cromos.push({ id, nombre, cantidad, rareza, imagen_url_web });
+					}
+				} catch (e) {
+					console.error("Error parseando una tarjeta de cromo:", e);
+				}
+			});
+			return cromos;
+		}
+		
+		// Esta función coge una lista de cromos y la muestra en la página.
+		function renderResultados(elementId, titulo, cromos, usuarioBase) {
+			const container = document.getElementById(elementId);
+			let contenidoHtml = `<div class="results-section"><h3>${titulo} (${cromos.length})</h3>`;
+
+			if (cromos.length === 0) {
+				contenidoHtml += `<p>No se encontraron cromos para este intercambio.</p>`;
+			} else {
+				const cromosHtml = cromos.map(cromo => `
+					<div class="cromo-card">
+						<span class="cromo-numero">Nº: ${cromo.id}</span>
+						<div class="cromo-img-container">
+							<img src="${cromo.imagen_url_web}" alt="${cromo.nombre}" loading="lazy">
+						</div>
+						<div class="cromo-details">
+							<h3>${cromo.nombre} (x${cromo.cantidad})</h3>
+							<p>Rareza: ${cromo.rareza}</p>
+						</div>
+					</div>
+				`).join('');
+				contenidoHtml += `<p style="font-size:0.9em; color:#ccc;">${usuarioBase} tiene estos repetidos:</p><div class="coleccion">${cromosHtml}</div>`;
+			}
+			
+			contenidoHtml += `</div>`;
+			container.innerHTML = contenidoHtml;
+		}
+
+		async function compararColecciones() {
+			const usuarioOrigen = document.getElementById('userA_input').value.trim();
+			const usuarioDestino = document.getElementById('userB_input').value.trim();
+			const resultsContainer = document.getElementById('comparison-results');
+			
+			resultsContainer.innerHTML = '<p>Buscando y comparando colecciones...</p>';
+
+			if (!usuarioOrigen || !usuarioDestino) {
+				alert("Por favor, introduce ambos nombres de usuario.");
+				resultsContainer.innerHTML = '';
+				return;
+			}
+
+			const GITHUB_BASE_URL = "https://piravision.github.io/COLECCION/USUARIOS/";
+			const urlOrigen = `${GITHUB_BASE_URL}${encodeURIComponent(usuarioOrigen)}/coleccion.html`;
+			const urlDestino = `${GITHUB_BASE_URL}${encodeURIComponent(usuarioDestino)}/coleccion.html`;
+
+			try {
+				const [respuestaOrigen, respuestaDestino] = await Promise.all([
+					fetch(urlOrigen),
+					fetch(urlDestino)
+				]);
+
+				if (!respuestaOrigen.ok) throw new Error(`No se encontró la colección de ${usuarioOrigen}`);
+				if (!respuestaDestino.ok) throw new Error(`No se encontró la colección de ${usuarioDestino}`);
+
+				const htmlOrigen = await respuestaOrigen.text();
+				const htmlDestino = await respuestaDestino.text();
+
+				const coleccionOrigen = extraerCromosDesdeHTML(htmlOrigen);
+				const coleccionDestino = extraerCromosDesdeHTML(htmlDestino);
+
+				const idsOrigen = new Set(coleccionOrigen.map(c => c.id));
+				const idsDestino = new Set(coleccionDestino.map(c => c.id));
+
+				const repetidosOrigen = coleccionOrigen.filter(c => c.cantidad >= 2);
+				const repetidosDestino = coleccionDestino.filter(c => c.cantidad >= 2);
+
+				const cromosParaOfrecer = repetidosOrigen.filter(cromo => !idsDestino.has(cromo.id));
+				const cromosParaSolicitar = repetidosDestino.filter(cromo => !idsOrigen.has(cromo.id));
+				
+				resultsContainer.innerHTML = '';
+				renderResultados('offer-results', 'Cromos que puedes OFRECER', cromosParaOfrecer, usuarioOrigen);
+				renderResultados('request-results', 'Cromos que puedes SOLICITAR', cromosParaSolicitar, usuarioDestino);
+
+			} catch (error) {
+				console.error("Error en la comparación:", error);
+				resultsContainer.innerHTML = `<p style="color: #ff6b6b;">Error: ${error.message}. Asegúrate de que los nombres de usuario son correctos y existen.</p>`;
+			}
+		}
+		// --- FIN: LÓGICA PARA LA COMPARACIÓN DE COLECCIONES ---
 	</script>
 </body>
 </html>
