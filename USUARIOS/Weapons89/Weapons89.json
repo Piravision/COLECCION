@@ -894,7 +894,7 @@
     {
       "id": 503,
       "nombre": "gon",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 459,
@@ -1264,7 +1264,7 @@
     {
       "id": 414,
       "nombre": "campb2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 548,
@@ -2704,7 +2704,7 @@
     {
       "id": 1001,
       "nombre": "MUSCULMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 597,
@@ -2774,6 +2774,36 @@
     {
       "id": 624,
       "nombre": "DB-012",
+      "cantidad": 1
+    },
+    {
+      "id": 927,
+      "nombre": "BRET-HART",
+      "cantidad": 1
+    },
+    {
+      "id": 989,
+      "nombre": "CAPITAN-HARLOCK",
+      "cantidad": 1
+    },
+    {
+      "id": 1010,
+      "nombre": "LUPIN-III",
+      "cantidad": 1
+    },
+    {
+      "id": 1005,
+      "nombre": "RANMA-1_2",
+      "cantidad": 1
+    },
+    {
+      "id": 1012,
+      "nombre": "Y.HURAMESHI",
+      "cantidad": 1
+    },
+    {
+      "id": 1013,
+      "nombre": "YAIBA-KUROGAME",
       "cantidad": 1
     }
   ]

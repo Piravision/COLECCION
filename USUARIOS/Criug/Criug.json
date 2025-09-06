@@ -2509,7 +2509,7 @@
     {
       "id": 103,
       "nombre": "Gung Ho",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 808,
@@ -2989,7 +2989,7 @@
     {
       "id": 704,
       "nombre": "DB-092",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 731,
@@ -3539,7 +3539,7 @@
     {
       "id": 429,
       "nombre": "sniper",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 889,
@@ -4284,7 +4284,7 @@
     {
       "id": 883,
       "nombre": "HULK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 958,
@@ -4444,7 +4444,7 @@
     {
       "id": 601,
       "nombre": "OLIVER-ATOM",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 586,
@@ -4509,7 +4509,7 @@
     {
       "id": 78,
       "nombre": "myse",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 991,
@@ -4539,6 +4539,31 @@
     {
       "id": 652,
       "nombre": "DB-040",
+      "cantidad": 1
+    },
+    {
+      "id": 996,
+      "nombre": "I.KUROSAKI",
+      "cantidad": 2
+    },
+    {
+      "id": 1009,
+      "nombre": "SHIN-CHAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1007,
+      "nombre": "SAILOR-MOON",
+      "cantidad": 1
+    },
+    {
+      "id": 989,
+      "nombre": "CAPITAN-HARLOCK",
+      "cantidad": 1
+    },
+    {
+      "id": 988,
+      "nombre": "ASH-&-PIKACHU",
       "cantidad": 1
     }
   ]
