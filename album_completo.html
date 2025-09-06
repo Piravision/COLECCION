@@ -16053,9 +16053,12 @@
 			}
 		}
 
-		// --- INICIO: LÓGICA PARA LA COMPARACIÓN DE COLECCIONES (VERSIÓN DEFINITIVA) ---
+		// --- INICIO: LÓGICA PARA LA COMPARACIÓN DE COLECCIONES (VERSIÓN FINAL) ---
 
-		// Esta función coge el HTML de una colección y lo convierte en una lista de objetos de cromo.
+		/**
+		 * Función que toma el texto HTML de una colección y extrae una lista de
+		 * objetos de cromo, incluyendo todos los datos necesarios.
+		 */
 		function extraerCromosDesdeHTML(htmlString) {
 			const cromos = [];
 			const parser = new DOMParser();
@@ -16085,8 +16088,10 @@
 			});
 			return cromos;
 		}
-		
-		// Esta función coge una lista de cromos y la muestra en la página.
+
+		/**
+		 * Función que coge una lista de cromos y la muestra en la página.
+		 */
 		function renderResultados(elementId, titulo, cromos, usuarioBase) {
 			const container = document.getElementById(elementId);
 			let contenidoHtml = `<div class="results-section"><h3>${titulo} (${cromos.length})</h3>`;
@@ -16113,6 +16118,9 @@
 			container.innerHTML = contenidoHtml;
 		}
 
+		/**
+		 * Función principal que se ejecuta al pulsar el botón "Comparar".
+		 */
 		async function compararColecciones() {
 			const usuarioOrigen = document.getElementById('userA_input').value.trim();
 			const usuarioDestino = document.getElementById('userB_input').value.trim();
