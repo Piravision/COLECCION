@@ -1739,7 +1739,7 @@
         {
             "id": 854,
             "nombre": "RIC-FLAIR",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 675,
@@ -4794,6 +4794,11 @@
         {
             "id": 1010,
             "nombre": "LUPIN-III",
+            "cantidad": 1
+        },
+        {
+            "id": 925,
+            "nombre": "WILLY-",
             "cantidad": 1
         }
     ]

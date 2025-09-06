@@ -2699,7 +2699,7 @@
     {
       "id": 1001,
       "nombre": "MUSCULMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1004,
@@ -2719,7 +2719,7 @@
     {
       "id": 1012,
       "nombre": "Y.HURAMESHI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 770,
@@ -2954,7 +2954,7 @@
     {
       "id": 1009,
       "nombre": "SHIN-CHAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 507,
@@ -3199,7 +3199,7 @@
     {
       "id": 996,
       "nombre": "I.KUROSAKI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 762,
@@ -3369,6 +3369,16 @@
     {
       "id": 819,
       "nombre": "SCORPION",
+      "cantidad": 1
+    },
+    {
+      "id": 1006,
+      "nombre": "REENA-&-GAUDY",
+      "cantidad": 1
+    },
+    {
+      "id": 1003,
+      "nombre": "NINJA-ATORI",
       "cantidad": 1
     }
   ]
