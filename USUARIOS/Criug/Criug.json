@@ -899,7 +899,7 @@
         {
             "id": 208,
             "nombre": "Tentakill",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 105,
@@ -2819,7 +2819,7 @@
         {
             "id": 872,
             "nombre": "BLACK-PANTHER",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 815,
@@ -4449,6 +4449,21 @@
         {
             "id": 586,
             "nombre": "ED-WARNER",
+            "cantidad": 1
+        },
+        {
+            "id": 977,
+            "nombre": "13-ODIE",
+            "cantidad": 1
+        },
+        {
+            "id": 1023,
+            "nombre": "4F- THE-FANTASTIC-4",
+            "cantidad": 1
+        },
+        {
+            "id": 594,
+            "nombre": "JUAN-DIAZ",
             "cantidad": 1
         }
     ]
