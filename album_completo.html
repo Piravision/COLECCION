@@ -16070,10 +16070,49 @@
 				serieSeleccionada.scrollIntoView({ behavior: 'smooth', block: 'start' });
 			}
 		}
-		// --- INICIO: LÓGICA PARA LA COMPARACIÓN DE COLECCIONES ---
+		// --- INICIO: LÓGICA PARA LA COMPARACIÓN DE COLECCIONES (MÉTODO HTML) ---
 
 		/**
-		 * Función auxiliar para generar el HTML de los resultados y mostrarlo en la página.
+		 * Función auxiliar que toma el texto de un archivo HTML y extrae la lista de cromos.
+		 */
+		function extraerCromosDesdeHTML(htmlString) {
+			const cromos = [];
+			// Usamos DOMParser para convertir el texto HTML en un documento que podemos analizar
+			const parser = new DOMParser();
+			const doc = parser.parseFromString(htmlString, "text/html");
+
+			// Buscamos todos los elementos que representan un cromo
+			const cromoCards = doc.querySelectorAll('.cromo-card');
+
+			cromoCards.forEach(card => {
+				try {
+					const numeroSpan = card.querySelector('.cromo-numero');
+					const nombreH3 = card.querySelector('h3');
+					const rarezaP = card.querySelector('p');
+
+					if (numeroSpan && nombreH3 && rarezaP) {
+						// Extraemos y limpiamos los datos de cada cromo
+						const id = parseInt(numeroSpan.textContent.split('Nº: ')[1]);
+						const cantidadMatch = nombreH3.textContent.match(/\(x(\d+)\)/);
+						const cantidad = cantidadMatch ? parseInt(cantidadMatch[1]) : 1;
+						const nombre = nombreH3.textContent.replace(/\s\(x\d+\)$/, '').trim();
+						const rareza = rarezaP.textContent.replace('Rareza: ', '').trim();
+						
+						// Añadimos el cromo a nuestra lista
+						cromos.push({ id, nombre, cantidad, rareza });
+					}
+				} catch (e) {
+					console.error("Error parseando una tarjeta de cromo:", e);
+				}
+			});
+
+			return cromos;
+		}
+
+
+		/**
+		 * Función auxiliar para renderizar los resultados de la comparación en el HTML.
+		 * Esta versión es más simple, ya que los datos ya vienen completos.
 		 */
 		function renderResultados(elementId, titulo, cromos, usuarioBase) {
 			const container = document.getElementById(elementId);
@@ -16082,12 +16121,11 @@
 			if (cromos.length === 0) {
 				contenidoHtml += `<p>No se encontraron cromos para este intercambio.</p>`;
 			} else {
-				// Generamos el HTML para cada cromo encontrado
 				const cromosHtml = cromos.map(cromo => {
-					// Reutilizamos la misma estructura de .cromo-card para un estilo consistente
-					const cromoData = cromos_por_id[cromo.id] || {}; // Buscamos datos completos en la BD maestra
-					const imagenUrl = cromoData.imagen_url_web || ''; // Usamos la URL completa si la encontramos
-					
+					// Buscamos la URL de la imagen en el HTML original de la página actual
+					const cromoOriginal = document.querySelector(`#series-${cromo.serie.replace(/ /g, '-').replace(/&/g, 'and').replace(/'/g, '')} [onclick*="'${cromo.id}'"] img`);
+					const imagenUrl = cromoOriginal ? cromoOriginal.src : 'https://piravision.github.io/COLECCION/dorsocarta.png';
+
 					return `
 					<div class="cromo-card">
 						<span class="cromo-numero">Nº: ${cromo.id}</span>
@@ -16096,7 +16134,7 @@
 						</div>
 						<div class="cromo-details">
 							<h3>${cromo.nombre} (x${cromo.cantidad})</h3>
-							<p>Rareza: ${cromoData.rareza || 'N/A'}</p>
+							<p>Rareza: ${cromo.rareza}</p>
 						</div>
 					</div>
 				`}).join('');
@@ -16107,6 +16145,7 @@
 			container.innerHTML = contenidoHtml;
 		}
 
+
 		/**
 		 * Función principal que se ejecuta al pulsar el botón "Comparar".
 		 */
@@ -16115,7 +16154,6 @@
 			const usuarioDestino = document.getElementById('userB_input').value.trim();
 			const resultsContainer = document.getElementById('comparison-results');
 			
-			// Limpiamos resultados anteriores y mostramos un mensaje de carga
 			resultsContainer.innerHTML = '<p>Buscando y comparando colecciones...</p>';
 
 			if (!usuarioOrigen || !usuarioDestino) {
@@ -16125,11 +16163,11 @@
 			}
 
 			const GITHUB_BASE_URL = "https://piravision.github.io/COLECCION/USUARIOS/";
-			const urlOrigen = `${GITHUB_BASE_URL}${usuarioOrigen}/${usuarioOrigen}.json`;
-			const urlDestino = `${GITHUB_BASE_URL}${usuarioDestino}/${usuarioDestino}.json`;
+			// Apuntamos a los archivos .html en lugar de a los .json
+			const urlOrigen = `${GITHUB_BASE_URL}${usuarioOrigen}/coleccion.html`;
+			const urlDestino = `${GITHUB_BASE_URL}${usuarioDestino}/coleccion.html`;
 
 			try {
-				// Hacemos las dos peticiones a la vez para más eficiencia
 				const [respuestaOrigen, respuestaDestino] = await Promise.all([
 					fetch(urlOrigen),
 					fetch(urlDestino)
@@ -16138,33 +16176,78 @@
 				if (!respuestaOrigen.ok) throw new Error(`No se encontró la colección de ${usuarioOrigen}`);
 				if (!respuestaDestino.ok) throw new Error(`No se encontró la colección de ${usuarioDestino}`);
 
-				const coleccionOrigen = await respuestaOrigen.json();
-				const coleccionDestino = await respuestaDestino.json();
+				// Obtenemos el contenido como texto
+				const htmlOrigen = await respuestaOrigen.text();
+				const htmlDestino = await respuestaDestino.text();
 
-				// Creamos Sets con los IDs de los cromos de cada usuario para una búsqueda ultra rápida
-				const idsOrigen = new Set(coleccionOrigen.cromos.map(c => c.id));
-				const idsDestino = new Set(coleccionDestino.cromos.map(c => c.id));
+				// Usamos nuestra nueva función para extraer los datos de los HTML
+				const coleccionOrigen = extraerCromosDesdeHTML(htmlOrigen);
+				const coleccionDestino = extraerCromosDesdeHTML(htmlDestino);
 
-				// Filtramos los cromos repetidos (cantidad 2 o más) de cada usuario
-				const repetidosOrigen = coleccionOrigen.cromos.filter(c => c.cantidad >= 2);
-				const repetidosDestino = coleccionDestino.cromos.filter(c => c.cantidad >= 2);
+				// A partir de aquí, la lógica de comparación es la misma
+				const idsOrigen = new Set(coleccionOrigen.map(c => c.id));
+				const idsDestino = new Set(coleccionDestino.map(c => c.id));
 
-				// --- CÁLCULO DE INTERCAMBIOS ---
-				// Cromos a OFRECER: Los repetidos de Origen que le faltan a Destino
+				const repetidosOrigen = coleccionOrigen.filter(c => c.cantidad >= 2);
+				const repetidosDestino = coleccionDestino.filter(c => c.cantidad >= 2);
+
 				const cromosParaOfrecer = repetidosOrigen.filter(cromo => !idsDestino.has(cromo.id));
-				// Cromos a SOLICITAR: Los repetidos de Destino que le faltan a Origen
 				const cromosParaSolicitar = repetidosDestino.filter(cromo => !idsOrigen.has(cromo.id));
-
+				
 				// --- MOSTRAMOS LOS RESULTADOS ---
-				resultsContainer.innerHTML = ''; // Limpiamos el mensaje de "cargando"
-				renderResultados('offer-results', 'Cromos que puedes OFRECER', cromosParaOfrecer, usuarioOrigen);
-				renderResultados('request-results', 'Cromos que puedes SOLICITAR', cromosParaSolicitar, usuarioDestino);
+				// Necesitamos tener una lista completa de cromos para buscar las imágenes
+				const todosLosCromos = {};
+				document.querySelectorAll('.cromo-card').forEach(card => {
+					const numeroSpan = card.querySelector('.cromo-numero');
+					const img = card.querySelector('img');
+					if (numeroSpan && img) {
+						const id = parseInt(numeroSpan.textContent.split('Nº: ')[1]);
+						todosLosCromos[id] = {
+							imagen_url_web: img.src
+						};
+					}
+				});
+				
+				// Pasamos la lista completa a la función de renderizado
+				renderResultadosConImagenes('offer-results', 'Cromos que puedes OFRECER', cromosParaOfrecer, usuarioOrigen, todosLosCromos);
+				renderResultadosConImagenes('request-results', 'Cromos que puedes SOLICITAR', cromosParaSolicitar, usuarioDestino, todosLosCromos);
 
 			} catch (error) {
 				console.error("Error en la comparación:", error);
 				resultsContainer.innerHTML = `<p style="color: #ff6b6b;">Error: ${error.message}. Asegúrate de que los nombres de usuario son correctos y existen.</p>`;
 			}
 		}
+
+		// Nueva función de renderizado que usa la lista de imágenes
+		function renderResultadosConImagenes(elementId, titulo, cromos, usuarioBase, todosLosCromos) {
+			const container = document.getElementById(elementId);
+			let contenidoHtml = `<div class="results-section"><h3>${titulo} (${cromos.length})</h3>`;
+
+			if (cromos.length === 0) {
+				contenidoHtml += `<p>No se encontraron cromos para este intercambio.</p>`;
+			} else {
+				const cromosHtml = cromos.map(cromo => {
+					const imagenUrl = todosLosCromos[cromo.id] ? todosLosCromos[cromo.id].imagen_url_web : 'https://piravision.github.io/COLECCION/dorsocarta.png';
+					return `
+					<div class="cromo-card">
+						<span class="cromo-numero">Nº: ${cromo.id}</span>
+						<div class="cromo-img-container">
+							<img src="${imagenUrl}" alt="${cromo.nombre}" loading="lazy">
+						</div>
+						<div class="cromo-details">
+							<h3>${cromo.nombre} (x${cromo.cantidad})</h3>
+							<p>Rareza: ${cromo.rareza}</p>
+						</div>
+					</div>
+				`}).join('');
+				contenidoHtml += `<p style="font-size:0.9em; color:#ccc;">${usuarioBase} tiene estos repetidos:</p><div class="coleccion">${cromosHtml}</div>`;
+			}
+			
+			contenidoHtml += `</div>`;
+			container.innerHTML = contenidoHtml;
+		}
+
+
 		// --- FIN: LÓGICA PARA LA COMPARACIÓN DE COLECCIONES ---
 	
 	
