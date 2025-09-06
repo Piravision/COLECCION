@@ -3814,7 +3814,7 @@
         {
             "id": 950,
             "nombre": "1-PORTHOS",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 120,
@@ -4779,6 +4779,11 @@
         {
             "id": 964,
             "nombre": "3-TODD-&-SMILEY",
+            "cantidad": 1
+        },
+        {
+            "id": 959,
+            "nombre": "3-DR.WATSON",
             "cantidad": 1
         }
     ]
