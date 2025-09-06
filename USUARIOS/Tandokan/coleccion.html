@@ -330,10 +330,16 @@
 	/* --- FIN: MARCOS DE NEÓN POR RAREZA --- */
 		
 		
-		/* Ajustes a la imagen y al texto de info */
-		.modal-content { /* ID #imgModal renombrado a clase .modal-content por consistencia */
-			border-radius: 15px;
-			display: block;
+		/* ESTA ES LA REGLA CORREGIDA */
+	.modal-content {
+		border-radius: 15px;
+		display: block;
+		
+		/* ---- LÍNEAS NUEVAS Y CRUCIALES ---- */
+		width: auto;       /* El ancho se ajustará automáticamente */
+		height: auto;      /* El alto se ajustará automáticamente */
+		max-width: 500px;  /* Límite máximo para pantallas de PC */
+		max-height: 80vh;  /* Límite de altura: 80% de la altura de la pantalla */
 	}
 
 	.modal-info {
@@ -439,11 +445,10 @@
 
 	@media (max-width: 600px) {
 	  
-	  /* Hacemos que la imagen nunca sea más ancha que el 90% de la pantalla */
+	  /* Hacemos que la imagen nunca sea más ancha ni más alta que la pantalla */
 	  .modal-content {
-		max-width: 90vw; /* 90% del ancho de la ventana gráfica (viewport) */
-		width: auto;
-		height: auto;
+		max-width: 90vw;  /* Límite de ANCHO: 90% del ancho de la pantalla */
+		max-height: 85vh; /* Límite de ALTURA: 85% de la altura de la pantalla */
 	  }
 
 	  /* Ajustamos el contenedor principal para que no se pegue a los bordes */
@@ -3419,7 +3424,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>DB-018 (x4)</h3>
+                                                <h3>DB-018 (x5)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -5956,7 +5961,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>MEDUSA (x1)</h3>
+                                                <h3>MEDUSA (x2)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -8902,7 +8907,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>Stridor (x2)</h3>
+                                                <h3>Stridor (x3)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
