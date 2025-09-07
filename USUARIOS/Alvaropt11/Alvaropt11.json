@@ -3034,7 +3034,7 @@
         {
             "id": 928,
             "nombre": "JOHN-CENA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 661,
@@ -4744,6 +4744,11 @@
         {
             "id": 704,
             "nombre": "DB-092",
+            "cantidad": 1
+        },
+        {
+            "id": 996,
+            "nombre": "I.KUROSAKI",
             "cantidad": 1
         }
     ]
