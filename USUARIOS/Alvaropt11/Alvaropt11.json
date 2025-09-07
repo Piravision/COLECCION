@@ -1429,7 +1429,7 @@
         {
             "id": 602,
             "nombre": "PAUL-DIAMOND",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 674,
@@ -4580,6 +4580,11 @@
             "id": 684,
             "nombre": "DB-072",
             "cantidad": 2
+        },
+        {
+            "id": 712,
+            "nombre": "DB-100",
+            "cantidad": 1
         }
     ]
 }
