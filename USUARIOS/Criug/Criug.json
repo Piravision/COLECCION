@@ -1639,7 +1639,7 @@
         {
             "id": 624,
             "nombre": "DB-012",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 602,
@@ -4634,6 +4634,11 @@
         {
             "id": 344,
             "nombre": "Flazzard 3",
+            "cantidad": 1
+        },
+        {
+            "id": 697,
+            "nombre": "DB-085",
             "cantidad": 1
         }
     ]
