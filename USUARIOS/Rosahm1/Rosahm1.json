@@ -99,7 +99,7 @@
         {
             "id": 80,
             "nombre": "robot",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 10,
@@ -4069,6 +4069,11 @@
         {
             "id": 74,
             "nombre": "larhart",
+            "cantidad": 1
+        },
+        {
+            "id": 780,
+            "nombre": "BARBARA-GORDON",
             "cantidad": 1
         }
     ]
