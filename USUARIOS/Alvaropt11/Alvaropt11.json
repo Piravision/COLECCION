@@ -434,7 +434,7 @@
         {
             "id": 268,
             "nombre": "Michelangelo",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 239,
@@ -4774,6 +4774,11 @@
         {
             "id": 302,
             "nombre": "Blitzwing",
+            "cantidad": 1
+        },
+        {
+            "id": 1009,
+            "nombre": "SHIN-CHAN",
             "cantidad": 1
         }
     ]

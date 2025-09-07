@@ -619,7 +619,7 @@
     {
       "id": 515,
       "nombre": "Invasión-Saurians",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 55,
@@ -1094,7 +1094,7 @@
     {
       "id": 14,
       "nombre": "Snagg",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 202,
@@ -2804,6 +2804,11 @@
     {
       "id": 1013,
       "nombre": "YAIBA-KUROGAME",
+      "cantidad": 1
+    },
+    {
+      "id": 168,
+      "nombre": "Hobgoblin",
       "cantidad": 1
     }
   ]
