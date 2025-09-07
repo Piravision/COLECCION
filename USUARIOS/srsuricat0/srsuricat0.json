@@ -1879,7 +1879,7 @@
         {
             "id": 394,
             "nombre": "vsneo",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 402,
@@ -4399,6 +4399,11 @@
         {
             "id": 875,
             "nombre": "DARDEVIL",
+            "cantidad": 1
+        },
+        {
+            "id": 893,
+            "nombre": "OCTOPUS",
             "cantidad": 1
         }
     ]
