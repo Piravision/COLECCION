@@ -3794,7 +3794,7 @@
         {
             "id": 954,
             "nombre": "2-CHIP",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 968,
@@ -3909,7 +3909,7 @@
         {
             "id": 992,
             "nombre": "DORAEMON",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 709,
@@ -4664,7 +4664,7 @@
         {
             "id": 825,
             "nombre": "SMOKE",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 640,
@@ -5044,6 +5044,16 @@
         {
             "id": 30,
             "nombre": "Uni",
+            "cantidad": 1
+        },
+        {
+            "id": 1071,
+            "nombre": "USAGENT",
+            "cantidad": 1
+        },
+        {
+            "id": 802,
+            "nombre": "ROBIN",
             "cantidad": 1
         }
     ]
