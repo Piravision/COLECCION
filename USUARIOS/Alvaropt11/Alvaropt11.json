@@ -2969,7 +2969,7 @@
         {
             "id": 883,
             "nombre": "HULK",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 247,
@@ -4669,6 +4669,11 @@
         {
             "id": 175,
             "nombre": "Buitre",
+            "cantidad": 1
+        },
+        {
+            "id": 484,
+            "nombre": "Blowhard",
             "cantidad": 1
         }
     ]

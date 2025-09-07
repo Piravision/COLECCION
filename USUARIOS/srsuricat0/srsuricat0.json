@@ -124,7 +124,7 @@
         {
             "id": 484,
             "nombre": "Blowhard",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 507,
@@ -4584,6 +4584,11 @@
         {
             "id": 879,
             "nombre": "GHOST-RIDER",
+            "cantidad": 1
+        },
+        {
+            "id": 883,
+            "nombre": "HULK",
             "cantidad": 1
         }
     ]
