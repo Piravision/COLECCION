@@ -2919,7 +2919,7 @@
         {
             "id": 872,
             "nombre": "BLACK-PANTHER",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 100,
@@ -3824,6 +3824,11 @@
         {
             "id": 268,
             "nombre": "Michelangelo",
+            "cantidad": 1
+        },
+        {
+            "id": 876,
+            "nombre": "DORMAMMU",
             "cantidad": 1
         }
     ]
