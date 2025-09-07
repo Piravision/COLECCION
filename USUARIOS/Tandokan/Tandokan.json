@@ -44,7 +44,7 @@
     {
       "id": 109,
       "nombre": "Cobra Commander",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 697,
@@ -199,7 +199,7 @@
     {
       "id": 388,
       "nombre": "koala2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 552,
@@ -1594,7 +1594,7 @@
     {
       "id": 559,
       "nombre": "MABARRACUS-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 672,
@@ -2444,7 +2444,7 @@
     {
       "id": 895,
       "nombre": "ROCKET-RACOON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 264,
@@ -2524,7 +2524,7 @@
     {
       "id": 500,
       "nombre": "shu",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 707,
@@ -2839,7 +2839,7 @@
     {
       "id": 316,
       "nombre": "Gambito",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 162,
@@ -3254,7 +3254,7 @@
     {
       "id": 392,
       "nombre": "roover",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 44,
@@ -3864,7 +3864,7 @@
     {
       "id": 810,
       "nombre": "KANO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1110,
@@ -3889,6 +3889,26 @@
     {
       "id": 455,
       "nombre": "batsu",
+      "cantidad": 1
+    },
+    {
+      "id": 246,
+      "nombre": "Jaga",
+      "cantidad": 1
+    },
+    {
+      "id": 927,
+      "nombre": "BRET-HART",
+      "cantidad": 1
+    },
+    {
+      "id": 1071,
+      "nombre": "USAGENT",
+      "cantidad": 1
+    },
+    {
+      "id": 971,
+      "nombre": "9-CALIMERO",
       "cantidad": 1
     }
   ]

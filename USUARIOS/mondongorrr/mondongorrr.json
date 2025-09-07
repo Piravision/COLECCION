@@ -24,7 +24,7 @@
     {
       "id": 2,
       "nombre": "Bravestarr",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 260,
@@ -564,7 +564,7 @@
     {
       "id": 538,
       "nombre": "BRUCE-LEE",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 109,
@@ -1289,7 +1289,7 @@
     {
       "id": 240,
       "nombre": "Terror Drome",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 873,
@@ -2759,7 +2759,7 @@
     {
       "id": 75,
       "nombre": "mac",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 956,
@@ -2804,7 +2804,7 @@
     {
       "id": 577,
       "nombre": "ALAN-PASCAL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 58,
@@ -2894,7 +2894,7 @@
     {
       "id": 927,
       "nombre": "BRET-HART",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 963,
@@ -3714,7 +3714,7 @@
     {
       "id": 900,
       "nombre": "THOR",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 788,
@@ -3879,7 +3879,7 @@
     {
       "id": 991,
       "nombre": "CONAN-EDOGAWA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 971,
@@ -3964,6 +3964,26 @@
     {
       "id": 1044,
       "nombre": "HAVOK",
+      "cantidad": 1
+    },
+    {
+      "id": 1000,
+      "nombre": "SON-GOKU",
+      "cantidad": 1
+    },
+    {
+      "id": 1091,
+      "nombre": "CAT&DOG",
+      "cantidad": 1
+    },
+    {
+      "id": 435,
+      "nombre": "vulkan2",
+      "cantidad": 1
+    },
+    {
+      "id": 1029,
+      "nombre": "BLACK-PHANTER-2",
       "cantidad": 1
     }
   ]
