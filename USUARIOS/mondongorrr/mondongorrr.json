@@ -3189,7 +3189,7 @@
         {
             "id": 944,
             "nombre": "JOKER-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1036,
@@ -3769,6 +3769,11 @@
         {
             "id": 936,
             "nombre": "THE-ROCK",
+            "cantidad": 1
+        },
+        {
+            "id": 864,
+            "nombre": "RAMBO-JAIL",
             "cantidad": 1
         }
     ]

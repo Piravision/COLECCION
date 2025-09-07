@@ -3744,7 +3744,7 @@
         {
             "id": 864,
             "nombre": "RAMBO-JAIL",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 886,
@@ -4664,6 +4664,11 @@
         {
             "id": 929,
             "nombre": "KANE",
+            "cantidad": 1
+        },
+        {
+            "id": 944,
+            "nombre": "JOKER-JAIL",
             "cantidad": 1
         }
     ]
