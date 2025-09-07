@@ -149,7 +149,7 @@
         {
             "id": 263,
             "nombre": "Casey Jones",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 142,
@@ -2004,6 +2004,11 @@
         {
             "id": 780,
             "nombre": "BARBARA-GORDON",
+            "cantidad": 1
+        },
+        {
+            "id": 7,
+            "nombre": "El Patriarca",
             "cantidad": 1
         }
     ]
