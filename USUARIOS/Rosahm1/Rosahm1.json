@@ -99,7 +99,7 @@
         {
             "id": 80,
             "nombre": "robot",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 10,
@@ -1204,7 +1204,7 @@
         {
             "id": 257,
             "nombre": "Mumm Ra",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 201,
@@ -1909,7 +1909,7 @@
         {
             "id": 596,
             "nombre": "K.HEINZ-SCHENEIDER",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 238,
@@ -2434,7 +2434,7 @@
         {
             "id": 410,
             "nombre": "Barón-Ashura",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 274,
@@ -4064,6 +4064,11 @@
         {
             "id": 33,
             "nombre": "Apollo",
+            "cantidad": 1
+        },
+        {
+            "id": 74,
+            "nombre": "larhart",
             "cantidad": 1
         }
     ]
