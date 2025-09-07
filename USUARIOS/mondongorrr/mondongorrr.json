@@ -639,7 +639,7 @@
         {
             "id": 316,
             "nombre": "Gambito",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 697,
@@ -3774,6 +3774,11 @@
         {
             "id": 864,
             "nombre": "RAMBO-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 324,
+            "nombre": "Wolverine",
             "cantidad": 1
         }
     ]

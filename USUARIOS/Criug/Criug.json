@@ -1674,7 +1674,7 @@
         {
             "id": 324,
             "nombre": "Wolverine",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 124,
@@ -4669,6 +4669,11 @@
         {
             "id": 944,
             "nombre": "JOKER-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 316,
+            "nombre": "Gambito",
             "cantidad": 1
         }
     ]
