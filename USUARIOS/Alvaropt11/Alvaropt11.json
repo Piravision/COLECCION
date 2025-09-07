@@ -589,7 +589,7 @@
         {
             "id": 248,
             "nombre": "Panthro",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 246,
@@ -4719,6 +4719,11 @@
         {
             "id": 318,
             "nombre": "Morpho",
+            "cantidad": 1
+        },
+        {
+            "id": 943,
+            "nombre": "JOHNNY5-JAIL",
             "cantidad": 1
         }
     ]

@@ -4354,7 +4354,7 @@
         {
             "id": 943,
             "nombre": "JOHNNY5-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 729,
@@ -4514,6 +4514,11 @@
         {
             "id": 929,
             "nombre": "KANE",
+            "cantidad": 1
+        },
+        {
+            "id": 248,
+            "nombre": "Panthro",
             "cantidad": 1
         }
     ]
