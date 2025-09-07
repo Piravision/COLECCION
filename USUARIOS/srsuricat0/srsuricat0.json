@@ -519,7 +519,7 @@
         {
             "id": 40,
             "nombre": "chiu",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 76,
@@ -4414,6 +4414,11 @@
         {
             "id": 809,
             "nombre": "KABAL",
+            "cantidad": 1
+        },
+        {
+            "id": 810,
+            "nombre": "KANO",
             "cantidad": 1
         }
     ]
