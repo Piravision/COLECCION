@@ -449,7 +449,7 @@
         {
             "id": 498,
             "nombre": "riou",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 442,
@@ -584,7 +584,7 @@
         {
             "id": 217,
             "nombre": "Cobra   H.I.S.S.",
-            "cantidad": 6
+            "cantidad": 7
         },
         {
             "id": 393,
@@ -1549,7 +1549,7 @@
         {
             "id": 570,
             "nombre": "MILLION-DOLLAR-MAN",
-            "cantidad": 6
+            "cantidad": 7
         },
         {
             "id": 93,
@@ -1889,7 +1889,7 @@
         {
             "id": 212,
             "nombre": "Asteroide M",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 564,
@@ -4644,6 +4644,16 @@
         {
             "id": 745,
             "nombre": "Dark-Shura-de-Capricornio",
+            "cantidad": 1
+        },
+        {
+            "id": 857,
+            "nombre": "DOC-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 889,
+            "nombre": "LUKE-CAGE",
             "cantidad": 1
         }
     ]
