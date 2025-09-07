@@ -1404,7 +1404,7 @@
         {
             "id": 321,
             "nombre": "Quicksilver",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 910,
@@ -2039,6 +2039,11 @@
         {
             "id": 344,
             "nombre": "Flazzard 3",
+            "cantidad": 1
+        },
+        {
+            "id": 191,
+            "nombre": "Venom",
             "cantidad": 1
         }
     ]

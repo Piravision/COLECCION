@@ -519,7 +519,7 @@
         {
             "id": 191,
             "nombre": "Venom",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 318,
@@ -3459,6 +3459,11 @@
         {
             "id": 46,
             "nombre": "gome",
+            "cantidad": 1
+        },
+        {
+            "id": 321,
+            "nombre": "Quicksilver",
             "cantidad": 1
         }
     ]
