@@ -1659,7 +1659,7 @@
         {
             "id": 18,
             "nombre": "Mesmira",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 223,
@@ -4444,6 +4444,11 @@
         {
             "id": 881,
             "nombre": "HAWKEYE",
+            "cantidad": 1
+        },
+        {
+            "id": 990,
+            "nombre": "CHICHO-TERREMOTO",
             "cantidad": 1
         }
     ]
