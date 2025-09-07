@@ -2314,7 +2314,7 @@
         {
             "id": 693,
             "nombre": "DB-081",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 421,
@@ -3614,6 +3614,11 @@
         {
             "id": 604,
             "nombre": "RALF-PETERSON",
+            "cantidad": 1
+        },
+        {
+            "id": 606,
+            "nombre": "SANDY-WINTERS",
             "cantidad": 1
         }
     ]
