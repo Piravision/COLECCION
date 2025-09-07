@@ -634,7 +634,7 @@
         {
             "id": 120,
             "nombre": "Principe Adam",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 316,
@@ -3739,6 +3739,11 @@
         {
             "id": 624,
             "nombre": "DB-012",
+            "cantidad": 1
+        },
+        {
+            "id": 116,
+            "nombre": "Cringer",
             "cantidad": 1
         }
     ]
