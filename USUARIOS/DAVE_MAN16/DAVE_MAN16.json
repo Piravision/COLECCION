@@ -1064,7 +1064,7 @@
         {
             "id": 796,
             "nombre": "MAN-BAT",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 790,
@@ -1999,6 +1999,11 @@
         {
             "id": 146,
             "nombre": "Siege",
+            "cantidad": 1
+        },
+        {
+            "id": 780,
+            "nombre": "BARBARA-GORDON",
             "cantidad": 1
         }
     ]
