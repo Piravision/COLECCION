@@ -3069,7 +3069,7 @@
         {
             "id": 903,
             "nombre": "BIZARRE",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 839,
@@ -4594,6 +4594,11 @@
         {
             "id": 896,
             "nombre": "SHE-HULK",
+            "cantidad": 1
+        },
+        {
+            "id": 915,
+            "nombre": "WONDER-WOMAN",
             "cantidad": 1
         }
     ]
