@@ -839,7 +839,7 @@
         {
             "id": 265,
             "nombre": "Leatherhead",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 48,
@@ -4619,6 +4619,11 @@
         {
             "id": 928,
             "nombre": "JOHN-CENA",
+            "cantidad": 1
+        },
+        {
+            "id": 932,
+            "nombre": "RAZOR-RAMON",
             "cantidad": 1
         }
     ]
