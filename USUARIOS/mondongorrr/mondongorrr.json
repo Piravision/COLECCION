@@ -2699,7 +2699,7 @@
         {
             "id": 1001,
             "nombre": "MUSCULMAN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1004,
@@ -3599,6 +3599,11 @@
         {
             "id": 585,
             "nombre": "DINO-HERNANDEZ",
+            "cantidad": 1
+        },
+        {
+            "id": 3,
+            "nombre": "Juez J. Bella",
             "cantidad": 1
         }
     ]

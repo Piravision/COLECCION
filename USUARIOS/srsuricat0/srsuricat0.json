@@ -969,7 +969,7 @@
         {
             "id": 3,
             "nombre": "Juez J. Bella",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 213,
@@ -4349,6 +4349,11 @@
         {
             "id": 583,
             "nombre": "DANNY-MELOW",
+            "cantidad": 1
+        },
+        {
+            "id": 1001,
+            "nombre": "MUSCULMAN",
             "cantidad": 1
         }
     ]
