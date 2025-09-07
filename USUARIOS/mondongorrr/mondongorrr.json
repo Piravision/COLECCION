@@ -634,12 +634,12 @@
     {
       "id": 120,
       "nombre": "Principe Adam",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 316,
       "nombre": "Gambito",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 697,
@@ -789,7 +789,7 @@
     {
       "id": 568,
       "nombre": "LOS-SACAMANTECAS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 701,
@@ -1014,7 +1014,7 @@
     {
       "id": 571,
       "nombre": "RODY-PIPPER",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 630,
@@ -1024,7 +1024,7 @@
     {
       "id": 839,
       "nombre": "DJ",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 773,
@@ -1079,7 +1079,7 @@
     {
       "id": 618,
       "nombre": "DB-006",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 487,
@@ -1319,7 +1319,7 @@
     {
       "id": 272,
       "nombre": "Panda Khan",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 741,
@@ -1549,7 +1549,7 @@
     {
       "id": 94,
       "nombre": "Goliath",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 553,
@@ -2079,7 +2079,7 @@
     {
       "id": 875,
       "nombre": "DARDEVIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 653,
@@ -2184,7 +2184,7 @@
     {
       "id": 341,
       "nombre": "Crocodine Malvado",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 815,
@@ -2354,7 +2354,7 @@
     {
       "id": 832,
       "nombre": "BLANKA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 616,
@@ -2524,7 +2524,7 @@
     {
       "id": 749,
       "nombre": "Hilda",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 45,
@@ -3379,6 +3379,36 @@
     {
       "id": 1003,
       "nombre": "NINJA-ATORI",
+      "cantidad": 1
+    },
+    {
+      "id": 999,
+      "nombre": "LUFFY-MONKEY",
+      "cantidad": 1
+    },
+    {
+      "id": 245,
+      "nombre": "Felino",
+      "cantidad": 1
+    },
+    {
+      "id": 935,
+      "nombre": "STONE-COLD",
+      "cantidad": 1
+    },
+    {
+      "id": 1074,
+      "nombre": "X -BESTIA",
+      "cantidad": 1
+    },
+    {
+      "id": 1075,
+      "nombre": "X -COLOSO",
+      "cantidad": 1
+    },
+    {
+      "id": 896,
+      "nombre": "SHE-HULK",
       "cantidad": 1
     }
   ]

@@ -3084,7 +3084,7 @@
         {
             "id": 606,
             "nombre": "SANDY-WINTERS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 318,
@@ -4294,7 +4294,7 @@
         {
             "id": 327,
             "nombre": "Dientes de Sable",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 741,
@@ -4574,7 +4574,7 @@
         {
             "id": 579,
             "nombre": "BOB-DENVER",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 593,
@@ -4709,7 +4709,7 @@
         {
             "id": 1089,
             "nombre": "ACE-VENTURA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1119,
@@ -4814,6 +4814,26 @@
         {
             "id": 958,
             "nombre": "2-ZIPPER",
+            "cantidad": 1
+        },
+        {
+            "id": 1105,
+            "nombre": "G-AVECILLA",
+            "cantidad": 1
+        },
+        {
+            "id": 1114,
+            "nombre": "OSOS-GUMMI",
+            "cantidad": 1
+        },
+        {
+            "id": 214,
+            "nombre": "Brimstar",
+            "cantidad": 1
+        },
+        {
+            "id": 968,
+            "nombre": "4-WILLY-FOG",
             "cantidad": 1
         }
     ]
