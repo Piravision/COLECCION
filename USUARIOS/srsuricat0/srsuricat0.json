@@ -2169,7 +2169,7 @@
         {
             "id": 139,
             "nombre": "Duke L'Orange",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 347,
@@ -4539,6 +4539,11 @@
         {
             "id": 684,
             "nombre": "DB-072",
+            "cantidad": 1
+        },
+        {
+            "id": 694,
+            "nombre": "DB-082",
             "cantidad": 1
         }
     ]
