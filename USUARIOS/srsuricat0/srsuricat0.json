@@ -2454,7 +2454,7 @@
         {
             "id": 531,
             "nombre": "McClane-Jail",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 499,
@@ -4329,6 +4329,11 @@
         {
             "id": 917,
             "nombre": "MYERS-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 865,
+            "nombre": "ROBOCOP-JAIL",
             "cantidad": 1
         }
     ]

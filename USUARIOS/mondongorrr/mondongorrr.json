@@ -1249,7 +1249,7 @@
         {
             "id": 865,
             "nombre": "ROBOCOP-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 333,
@@ -3579,6 +3579,11 @@
         {
             "id": 530,
             "nombre": "Axel-Foley-Jail",
+            "cantidad": 1
+        },
+        {
+            "id": 531,
+            "nombre": "McClane-Jail",
             "cantidad": 1
         }
     ]
