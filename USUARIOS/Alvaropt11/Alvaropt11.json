@@ -109,7 +109,7 @@
         {
             "id": 507,
             "nombre": "KING",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 421,
@@ -4734,6 +4734,11 @@
         {
             "id": 462,
             "nombre": "sakura",
+            "cantidad": 1
+        },
+        {
+            "id": 298,
+            "nombre": "Prowl",
             "cantidad": 1
         }
     ]
