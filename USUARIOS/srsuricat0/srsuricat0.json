@@ -784,7 +784,7 @@
         {
             "id": 513,
             "nombre": "DISCÍPULOS-DE-AVAN",
-            "cantidad": 6
+            "cantidad": 5
         },
         {
             "id": 264,
@@ -4604,6 +4604,11 @@
         {
             "id": 813,
             "nombre": "LIU-KANG",
+            "cantidad": 1
+        },
+        {
+            "id": 827,
+            "nombre": "STRYKER",
             "cantidad": 1
         }
     ]
