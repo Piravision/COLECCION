@@ -2279,7 +2279,7 @@
         {
             "id": 844,
             "nombre": "HONDA2",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 837,
@@ -4849,6 +4849,11 @@
         {
             "id": 903,
             "nombre": "BIZARRE",
+            "cantidad": 1
+        },
+        {
+            "id": 836,
+            "nombre": "Chunli2",
             "cantidad": 1
         }
     ]
