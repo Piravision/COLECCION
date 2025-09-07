@@ -974,7 +974,7 @@
         {
             "id": 213,
             "nombre": "Blackbird",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 194,
@@ -1144,7 +1144,7 @@
         {
             "id": 175,
             "nombre": "Buitre",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 503,
@@ -1864,7 +1864,7 @@
         {
             "id": 97,
             "nombre": "Armadura Xanatos",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 538,
@@ -4624,11 +4624,16 @@
         {
             "id": 932,
             "nombre": "RAZOR-RAMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 935,
             "nombre": "STONE-COLD",
+            "cantidad": 1
+        },
+        {
+            "id": 967,
+            "nombre": "4-TICO",
             "cantidad": 1
         }
     ]

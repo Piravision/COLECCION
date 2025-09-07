@@ -14,7 +14,7 @@
     {
       "id": 297,
       "nombre": "Optimus Prime",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 528,
@@ -1369,7 +1369,7 @@
     {
       "id": 33,
       "nombre": "Apollo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 198,
@@ -4884,6 +4884,11 @@
     {
       "id": 1097,
       "nombre": "CZ-WISTON-ZEDDEMORE",
+      "cantidad": 1
+    },
+    {
+      "id": 1091,
+      "nombre": "CAT&DOG",
       "cantidad": 1
     }
   ]

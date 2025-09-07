@@ -479,7 +479,7 @@
     {
       "id": 159,
       "nombre": "Quicksilver",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 457,
@@ -1994,7 +1994,7 @@
     {
       "id": 383,
       "nombre": "viper",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 907,
@@ -2544,7 +2544,7 @@
     {
       "id": 378,
       "nombre": "kid",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 651,
@@ -3754,6 +3754,21 @@
     {
       "id": 1063,
       "nombre": "SP- SPIDERMAN-BLACK",
+      "cantidad": 1
+    },
+    {
+      "id": 380,
+      "nombre": "marcy",
+      "cantidad": 1
+    },
+    {
+      "id": 252,
+      "nombre": "Alluro",
+      "cantidad": 1
+    },
+    {
+      "id": 447,
+      "nombre": "hunk",
       "cantidad": 1
     }
   ]
