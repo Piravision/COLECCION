@@ -2224,7 +2224,7 @@
         {
             "id": 783,
             "nombre": "BRUCE-WAYNE",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 716,
@@ -4544,6 +4544,11 @@
         {
             "id": 82,
             "nombre": "zaboera",
+            "cantidad": 1
+        },
+        {
+            "id": 346,
+            "nombre": "jess",
             "cantidad": 1
         }
     ]
