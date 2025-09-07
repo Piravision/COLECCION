@@ -924,7 +924,7 @@
         {
             "id": 201,
             "nombre": "Dr. paradigma",
-            "cantidad": 7
+            "cantidad": 6
         },
         {
             "id": 473,
@@ -4589,6 +4589,11 @@
         {
             "id": 883,
             "nombre": "HULK",
+            "cantidad": 1
+        },
+        {
+            "id": 884,
+            "nombre": "IRON-FIST",
             "cantidad": 1
         }
     ]

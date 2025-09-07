@@ -2769,7 +2769,7 @@
         {
             "id": 884,
             "nombre": "IRON-FIST",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 648,
@@ -4674,6 +4674,11 @@
         {
             "id": 484,
             "nombre": "Blowhard",
+            "cantidad": 1
+        },
+        {
+            "id": 201,
+            "nombre": "Dr. paradigma",
             "cantidad": 1
         }
     ]
