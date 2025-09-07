@@ -1444,7 +1444,7 @@
         {
             "id": 529,
             "nombre": "Mística",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 108,
@@ -4464,6 +4464,11 @@
         {
             "id": 360,
             "nombre": "stung",
+            "cantidad": 1
+        },
+        {
+            "id": 216,
+            "nombre": "Centinela",
             "cantidad": 1
         }
     ]

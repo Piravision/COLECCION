@@ -534,7 +534,7 @@
     {
       "id": 191,
       "nombre": "Venom",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 691,
@@ -744,7 +744,7 @@
     {
       "id": 530,
       "nombre": "Axel-Foley-Jail",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 976,
@@ -964,7 +964,7 @@
     {
       "id": 502,
       "nombre": "viktor",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 158,
@@ -1759,6 +1759,36 @@
     {
       "id": 541,
       "nombre": "COBRA-1986",
+      "cantidad": 1
+    },
+    {
+      "id": 672,
+      "nombre": "DB-060",
+      "cantidad": 1
+    },
+    {
+      "id": 806,
+      "nombre": "JADE",
+      "cantidad": 1
+    },
+    {
+      "id": 517,
+      "nombre": "Pirámide Negra",
+      "cantidad": 1
+    },
+    {
+      "id": 145,
+      "nombre": "Lord Dragaunus",
+      "cantidad": 1
+    },
+    {
+      "id": 725,
+      "nombre": "DB-113",
+      "cantidad": 1
+    },
+    {
+      "id": 733,
+      "nombre": "DB-121",
       "cantidad": 1
     }
   ]
