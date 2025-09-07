@@ -3819,7 +3819,7 @@
         {
             "id": 1002,
             "nombre": "NARUTO-UZUMAKI",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1007,
@@ -4529,6 +4529,11 @@
         {
             "id": 992,
             "nombre": "DORAEMON",
+            "cantidad": 1
+        },
+        {
+            "id": 749,
+            "nombre": "Hilda",
             "cantidad": 1
         }
     ]
