@@ -1254,7 +1254,7 @@
         {
             "id": 333,
             "nombre": "Omega Rojo",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 910,
@@ -3099,7 +3099,7 @@
         {
             "id": 862,
             "nombre": "NEO-JAIL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 921,
@@ -3464,6 +3464,21 @@
         {
             "id": 321,
             "nombre": "Quicksilver",
+            "cantidad": 1
+        },
+        {
+            "id": 1120,
+            "nombre": "PF-PITUFO-GRUÑON",
+            "cantidad": 1
+        },
+        {
+            "id": 1117,
+            "nombre": "PF-PITUFINA",
+            "cantidad": 1
+        },
+        {
+            "id": 331,
+            "nombre": "Mente Maestra",
             "cantidad": 1
         }
     ]
