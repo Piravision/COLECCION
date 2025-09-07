@@ -3564,7 +3564,7 @@
         {
             "id": 800,
             "nombre": "RAS-AL-GHUL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 870,
@@ -4459,6 +4459,11 @@
         {
             "id": 783,
             "nombre": "BRUCE-WAYNE",
+            "cantidad": 1
+        },
+        {
+            "id": 791,
+            "nombre": "GORDON",
             "cantidad": 1
         }
     ]
