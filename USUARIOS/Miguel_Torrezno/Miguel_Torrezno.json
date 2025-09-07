@@ -529,7 +529,7 @@
         {
             "id": 73,
             "nombre": "killvearn",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 423,
@@ -2549,6 +2549,11 @@
         {
             "id": 44,
             "nombre": "Fly",
+            "cantidad": 1
+        },
+        {
+            "id": 49,
+            "nombre": "leona",
             "cantidad": 1
         }
     ]

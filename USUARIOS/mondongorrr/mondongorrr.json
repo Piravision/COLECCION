@@ -1739,7 +1739,7 @@
         {
             "id": 49,
             "nombre": "leona",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 133,
@@ -3924,6 +3924,11 @@
         {
             "id": 72,
             "nombre": "hynkel malo",
+            "cantidad": 1
+        },
+        {
+            "id": 73,
+            "nombre": "killvearn",
             "cantidad": 1
         }
     ]
