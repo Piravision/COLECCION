@@ -2374,7 +2374,7 @@
         {
             "id": 437,
             "nombre": "ellum",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 25,
@@ -4554,6 +4554,11 @@
         {
             "id": 727,
             "nombre": "DB-115",
+            "cantidad": 1
+        },
+        {
+            "id": 729,
+            "nombre": "DB-117",
             "cantidad": 1
         }
     ]
