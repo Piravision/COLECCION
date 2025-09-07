@@ -834,7 +834,7 @@
         {
             "id": 405,
             "nombre": "tifa",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 329,
@@ -1439,7 +1439,7 @@
         {
             "id": 196,
             "nombre": "Ripster",
-            "cantidad": 6
+            "cantidad": 7
         },
         {
             "id": 357,
@@ -2339,7 +2339,7 @@
         {
             "id": 704,
             "nombre": "DB-092",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 599,
@@ -2759,7 +2759,7 @@
         {
             "id": 700,
             "nombre": "DB-088",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 122,
@@ -4114,6 +4114,11 @@
         {
             "id": 507,
             "nombre": "KING",
+            "cantidad": 1
+        },
+        {
+            "id": 632,
+            "nombre": "DB-020",
             "cantidad": 1
         }
     ]
