@@ -1599,7 +1599,7 @@
         {
             "id": 560,
             "nombre": "MACGYVER-JAIL",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 70,
@@ -3874,6 +3874,11 @@
         {
             "id": 602,
             "nombre": "PAUL-DIAMOND",
+            "cantidad": 1
+        },
+        {
+            "id": 991,
+            "nombre": "CONAN-EDOGAWA",
             "cantidad": 1
         }
     ]

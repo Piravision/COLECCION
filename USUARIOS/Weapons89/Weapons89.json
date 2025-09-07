@@ -2124,7 +2124,7 @@
         {
             "id": 991,
             "nombre": "CONAN-EDOGAWA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 993,
@@ -2859,6 +2859,11 @@
         {
             "id": 589,
             "nombre": "GENTILE-SALVATORE",
+            "cantidad": 1
+        },
+        {
+            "id": 560,
+            "nombre": "MACGYVER-JAIL",
             "cantidad": 1
         }
     ]
