@@ -39,7 +39,7 @@
     {
       "id": 235,
       "nombre": "Punk Frogs",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 174,
@@ -89,7 +89,7 @@
     {
       "id": 101,
       "nombre": "Duke",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 320,
@@ -179,7 +179,7 @@
     {
       "id": 187,
       "nombre": "Rhyno",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 124,
@@ -269,7 +269,7 @@
     {
       "id": 36,
       "nombre": "baduck",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 34,
@@ -659,7 +659,7 @@
     {
       "id": 38,
       "nombre": "brokeena",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 245,
@@ -784,7 +784,7 @@
     {
       "id": 33,
       "nombre": "Apollo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 482,
@@ -1064,7 +1064,7 @@
     {
       "id": 100,
       "nombre": "Flint",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 254,
@@ -1119,7 +1119,7 @@
     {
       "id": 439,
       "nombre": "mudokons",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 449,
@@ -1359,7 +1359,7 @@
     {
       "id": 256,
       "nombre": "Mandrilo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 404,
@@ -2089,7 +2089,7 @@
     {
       "id": 742,
       "nombre": "Dark Saga",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 494,
@@ -2954,7 +2954,7 @@
     {
       "id": 775,
       "nombre": "yellow",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 582,
@@ -3469,7 +3469,7 @@
     {
       "id": 885,
       "nombre": "IRON-MAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 773,
@@ -4139,7 +4139,7 @@
     {
       "id": 728,
       "nombre": "DB-116",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 952,
@@ -4534,6 +4534,16 @@
     {
       "id": 1034,
       "nombre": "CAPITAN BRITANIA-2",
+      "cantidad": 1
+    },
+    {
+      "id": 908,
+      "nombre": "KARA-",
+      "cantidad": 1
+    },
+    {
+      "id": 797,
+      "nombre": "MR-FREEZE",
       "cantidad": 1
     }
   ]

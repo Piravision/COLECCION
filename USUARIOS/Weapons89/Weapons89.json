@@ -614,7 +614,7 @@
         {
             "id": 543,
             "nombre": "DIE-HARD-III",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 515,
@@ -2264,7 +2264,7 @@
         {
             "id": 46,
             "nombre": "gome",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 115,
@@ -2834,6 +2834,21 @@
         {
             "id": 339,
             "nombre": "Shun de Andrómeda",
+            "cantidad": 1
+        },
+        {
+            "id": 1026,
+            "nombre": "4FV -SUPERSKRULL",
+            "cantidad": 1
+        },
+        {
+            "id": 404,
+            "nombre": "sefirot",
+            "cantidad": 1
+        },
+        {
+            "id": 526,
+            "nombre": "Júbilo",
             "cantidad": 1
         }
     ]

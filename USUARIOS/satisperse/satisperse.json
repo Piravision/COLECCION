@@ -404,7 +404,7 @@
     {
       "id": 695,
       "nombre": "DB-083",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 577,
@@ -414,7 +414,7 @@
     {
       "id": 388,
       "nombre": "koala2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 368,
@@ -794,6 +794,26 @@
     {
       "id": 124,
       "nombre": "Stratos",
+      "cantidad": 1
+    },
+    {
+      "id": 526,
+      "nombre": "Júbilo",
+      "cantidad": 1
+    },
+    {
+      "id": 842,
+      "nombre": "GUILE2",
+      "cantidad": 1
+    },
+    {
+      "id": 471,
+      "nombre": "Garland",
+      "cantidad": 1
+    },
+    {
+      "id": 730,
+      "nombre": "DB-118",
       "cantidad": 1
     }
   ]

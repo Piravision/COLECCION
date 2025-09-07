@@ -344,7 +344,7 @@
         {
             "id": 526,
             "nombre": "Júbilo",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 237,
@@ -789,7 +789,7 @@
         {
             "id": 549,
             "nombre": "T-1000",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 476,
@@ -854,7 +854,7 @@
         {
             "id": 277,
             "nombre": "Baxter",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 471,
@@ -949,7 +949,7 @@
         {
             "id": 498,
             "nombre": "riou",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 562,
@@ -1009,7 +1009,7 @@
         {
             "id": 256,
             "nombre": "Mandrilo",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 504,
@@ -1364,7 +1364,7 @@
         {
             "id": 482,
             "nombre": "Escorpión",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 186,
@@ -1449,7 +1449,7 @@
         {
             "id": 678,
             "nombre": "DB-066",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 253,
@@ -4074,7 +4074,7 @@
         {
             "id": 780,
             "nombre": "BARBARA-GORDON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 610,
@@ -4134,6 +4134,21 @@
         {
             "id": 112,
             "nombre": "Mayor Bludd",
+            "cantidad": 1
+        },
+        {
+            "id": 1056,
+            "nombre": "NOVA-2",
+            "cantidad": 1
+        },
+        {
+            "id": 694,
+            "nombre": "DB-082",
+            "cantidad": 1
+        },
+        {
+            "id": 543,
+            "nombre": "DIE-HARD-III",
             "cantidad": 1
         }
     ]
