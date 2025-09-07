@@ -144,7 +144,7 @@
         {
             "id": 13,
             "nombre": "Needle",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 263,
@@ -1994,6 +1994,11 @@
         {
             "id": 551,
             "nombre": "BARRACUS-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 146,
+            "nombre": "Siege",
             "cantidad": 1
         }
     ]

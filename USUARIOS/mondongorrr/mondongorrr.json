@@ -1264,7 +1264,7 @@
         {
             "id": 146,
             "nombre": "Siege",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 855,
@@ -3414,6 +3414,11 @@
         {
             "id": 300,
             "nombre": "Wheeljack",
+            "cantidad": 1
+        },
+        {
+            "id": 13,
+            "nombre": "Needle",
             "cantidad": 1
         }
     ]
