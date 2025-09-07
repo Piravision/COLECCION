@@ -214,7 +214,7 @@
         {
             "id": 98,
             "nombre": "David Xanatos",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 138,
@@ -4499,6 +4499,11 @@
         {
             "id": 602,
             "nombre": "PAUL-DIAMOND",
+            "cantidad": 1
+        },
+        {
+            "id": 610,
+            "nombre": "TED-CARTER",
             "cantidad": 1
         }
     ]
