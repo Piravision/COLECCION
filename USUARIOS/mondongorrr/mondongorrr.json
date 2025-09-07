@@ -989,7 +989,7 @@
         {
             "id": 726,
             "nombre": "DB-114",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 284,
@@ -3634,6 +3634,11 @@
         {
             "id": 11,
             "nombre": "Greywolf",
+            "cantidad": 1
+        },
+        {
+            "id": 19,
+            "nombre": "Set",
             "cantidad": 1
         }
     ]
