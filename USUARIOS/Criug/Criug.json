@@ -2709,7 +2709,7 @@
         {
             "id": 805,
             "nombre": "GORO",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 791,
@@ -4644,6 +4644,11 @@
         {
             "id": 120,
             "nombre": "Principe Adam",
+            "cantidad": 1
+        },
+        {
+            "id": 807,
+            "nombre": "JAX",
             "cantidad": 1
         }
     ]
