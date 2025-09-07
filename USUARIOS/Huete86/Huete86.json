@@ -1684,7 +1684,7 @@
         {
             "id": 636,
             "nombre": "DB-024",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 224,
@@ -4554,6 +4554,11 @@
         {
             "id": 95,
             "nombre": "Hudson",
+            "cantidad": 1
+        },
+        {
+            "id": 365,
+            "nombre": "alucard 1",
             "cantidad": 1
         }
     ]
