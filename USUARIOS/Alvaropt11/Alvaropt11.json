@@ -3719,7 +3719,7 @@
         {
             "id": 900,
             "nombre": "THOR",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 743,
@@ -4679,6 +4679,11 @@
         {
             "id": 201,
             "nombre": "Dr. paradigma",
+            "cantidad": 1
+        },
+        {
+            "id": 233,
+            "nombre": "Mutant Tank",
             "cantidad": 1
         }
     ]

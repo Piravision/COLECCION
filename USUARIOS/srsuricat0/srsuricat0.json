@@ -1419,7 +1419,7 @@
         {
             "id": 233,
             "nombre": "Mutant Tank",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 249,
@@ -4594,6 +4594,11 @@
         {
             "id": 884,
             "nombre": "IRON-FIST",
+            "cantidad": 1
+        },
+        {
+            "id": 900,
+            "nombre": "THOR",
             "cantidad": 1
         }
     ]
