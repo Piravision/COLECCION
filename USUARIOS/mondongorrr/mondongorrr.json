@@ -184,7 +184,7 @@
         {
             "id": 671,
             "nombre": "DB-059",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 470,
@@ -3609,6 +3609,11 @@
         {
             "id": 4,
             "nombre": "Tex Hex",
+            "cantidad": 1
+        },
+        {
+            "id": 604,
+            "nombre": "RALF-PETERSON",
             "cantidad": 1
         }
     ]
