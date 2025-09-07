@@ -119,7 +119,7 @@
     {
       "id": 291,
       "nombre": "Zorax",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 534,
@@ -1109,7 +1109,7 @@
     {
       "id": 511,
       "nombre": "YOSHI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 764,
@@ -1439,7 +1439,7 @@
     {
       "id": 1039,
       "nombre": "DAREDEVIL-2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 274,
@@ -1794,11 +1794,21 @@
     {
       "id": 28,
       "nombre": "Presto",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 578,
       "nombre": "BENJI-PRICE",
+      "cantidad": 1
+    },
+    {
+      "id": 584,
+      "nombre": "DEUTER-MULLER",
+      "cantidad": 1
+    },
+    {
+      "id": 962,
+      "nombre": "3-SHERLOK-HOLMES",
       "cantidad": 1
     }
   ]
