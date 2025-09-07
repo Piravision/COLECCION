@@ -529,7 +529,7 @@
         {
             "id": 414,
             "nombre": "campb2",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 456,
@@ -594,7 +594,7 @@
         {
             "id": 682,
             "nombre": "DB-070",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 370,
@@ -2024,7 +2024,7 @@
         {
             "id": 337,
             "nombre": "Ikki de Fénix",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 295,
@@ -2379,7 +2379,7 @@
         {
             "id": 275,
             "nombre": "Usagi Yojimbo",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 462,
@@ -2884,7 +2884,7 @@
         {
             "id": 933,
             "nombre": "REY-MISTERIO",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 158,
@@ -3939,6 +3939,21 @@
         {
             "id": 716,
             "nombre": "DB-104",
+            "cantidad": 1
+        },
+        {
+            "id": 1038,
+            "nombre": "CAPITANA MARVEL",
+            "cantidad": 1
+        },
+        {
+            "id": 439,
+            "nombre": "mudokons",
+            "cantidad": 1
+        },
+        {
+            "id": 857,
+            "nombre": "DOC-JAIL",
             "cantidad": 1
         }
     ]
