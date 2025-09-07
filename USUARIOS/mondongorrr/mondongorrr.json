@@ -1564,7 +1564,7 @@
         {
             "id": 287,
             "nombre": "Soldado del Pie",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 768,
@@ -3844,6 +3844,11 @@
         {
             "id": 402,
             "nombre": "hojo",
+            "cantidad": 1
+        },
+        {
+            "id": 278,
+            "nombre": "Bebop",
             "cantidad": 1
         }
     ]
