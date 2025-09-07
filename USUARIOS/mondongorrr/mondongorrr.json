@@ -2769,7 +2769,7 @@
         {
             "id": 874,
             "nombre": "CAPTAIN-AMERICA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 948,
@@ -3894,6 +3894,11 @@
         {
             "id": 505,
             "nombre": "Hwoarang",
+            "cantidad": 1
+        },
+        {
+            "id": 315,
+            "nombre": "Emma Frost",
             "cantidad": 1
         }
     ]
