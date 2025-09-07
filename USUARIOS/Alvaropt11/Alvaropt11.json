@@ -1644,7 +1644,7 @@
         {
             "id": 739,
             "nombre": "Athenea",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 652,
@@ -4554,6 +4554,11 @@
         {
             "id": 800,
             "nombre": "RAS-AL-GHUL",
+            "cantidad": 1
+        },
+        {
+            "id": 759,
+            "nombre": "Shion",
             "cantidad": 1
         }
     ]
