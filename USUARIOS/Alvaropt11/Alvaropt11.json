@@ -2559,7 +2559,7 @@
         {
             "id": 799,
             "nombre": "POISON-IVY",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 782,
@@ -4564,6 +4564,11 @@
         {
             "id": 587,
             "nombre": "EDDY-BRIGHT",
+            "cantidad": 1
+        },
+        {
+            "id": 375,
+            "nombre": "Grobyc",
             "cantidad": 1
         }
     ]

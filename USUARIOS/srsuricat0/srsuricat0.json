@@ -2629,7 +2629,7 @@
         {
             "id": 375,
             "nombre": "Grobyc",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 401,
@@ -4474,6 +4474,11 @@
         {
             "id": 798,
             "nombre": "PINGUINO",
+            "cantidad": 1
+        },
+        {
+            "id": 799,
+            "nombre": "POISON-IVY",
             "cantidad": 1
         }
     ]
