@@ -1619,7 +1619,7 @@
         {
             "id": 242,
             "nombre": "Tiger Force",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 781,
@@ -3779,6 +3779,11 @@
         {
             "id": 324,
             "nombre": "Wolverine",
+            "cantidad": 1
+        },
+        {
+            "id": 218,
+            "nombre": "Cybertron",
             "cantidad": 1
         }
     ]
