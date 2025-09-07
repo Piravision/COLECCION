@@ -294,7 +294,7 @@
     {
       "id": 548,
       "nombre": "Snake-Plissken",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 539,
@@ -364,7 +364,7 @@
     {
       "id": 545,
       "nombre": "IVAN-DRAGO",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 542,
@@ -1019,7 +1019,7 @@
     {
       "id": 824,
       "nombre": "SINDEL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 294,
@@ -1044,7 +1044,7 @@
     {
       "id": 745,
       "nombre": "Dark-Shura-de-Capricornio",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 27,
@@ -1234,7 +1234,7 @@
     {
       "id": 624,
       "nombre": "DB-012",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 257,
@@ -1339,7 +1339,7 @@
     {
       "id": 524,
       "nombre": "Capitán-Planeta",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 570,
@@ -1469,7 +1469,7 @@
     {
       "id": 774,
       "nombre": "white",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 225,
@@ -2489,7 +2489,7 @@
     {
       "id": 553,
       "nombre": "GOKU-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 916,
@@ -2669,7 +2669,7 @@
     {
       "id": 712,
       "nombre": "DB-100",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 701,
@@ -3514,7 +3514,7 @@
     {
       "id": 976,
       "nombre": "7-SABIONDO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 479,
@@ -3844,6 +3844,31 @@
     {
       "id": 850,
       "nombre": "T-HAWK",
+      "cantidad": 1
+    },
+    {
+      "id": 129,
+      "nombre": "Hordak",
+      "cantidad": 1
+    },
+    {
+      "id": 767,
+      "nombre": "green",
+      "cantidad": 1
+    },
+    {
+      "id": 1105,
+      "nombre": "G-AVECILLA",
+      "cantidad": 1
+    },
+    {
+      "id": 810,
+      "nombre": "KANO",
+      "cantidad": 1
+    },
+    {
+      "id": 1110,
+      "nombre": "G-ZOLTAR",
       "cantidad": 1
     }
   ]

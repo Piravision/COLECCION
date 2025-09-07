@@ -1649,7 +1649,7 @@
     {
       "id": 125,
       "nombre": "Teela",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 314,
@@ -2784,7 +2784,7 @@
     {
       "id": 737,
       "nombre": "Aioros-de-Sagitario",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 666,
@@ -4574,6 +4574,11 @@
     {
       "id": 1019,
       "nombre": "4F - MUJER INVISIBLE",
+      "cantidad": 1
+    },
+    {
+      "id": 1079,
+      "nombre": "X -ROGUE",
       "cantidad": 1
     }
   ]

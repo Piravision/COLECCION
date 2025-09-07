@@ -2374,7 +2374,7 @@
     {
       "id": 324,
       "nombre": "Wolverine",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 249,
@@ -3079,7 +3079,7 @@
     {
       "id": 379,
       "nombre": "lynx",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 718,
@@ -3764,7 +3764,7 @@
     {
       "id": 706,
       "nombre": "DB-094",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 218,
@@ -3784,7 +3784,7 @@
     {
       "id": 862,
       "nombre": "NEO-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 695,
@@ -4154,6 +4154,16 @@
     {
       "id": 177,
       "nombre": "Carnage",
+      "cantidad": 1
+    },
+    {
+      "id": 1050,
+      "nombre": "IRON-MAN-2",
+      "cantidad": 1
+    },
+    {
+      "id": 692,
+      "nombre": "DB-080",
       "cantidad": 1
     }
   ]

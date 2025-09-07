@@ -629,7 +629,7 @@
         {
             "id": 156,
             "nombre": "Lord Camembert",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 101,
@@ -1719,7 +1719,7 @@
         {
             "id": 716,
             "nombre": "DB-104",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 702,
@@ -2474,7 +2474,7 @@
         {
             "id": 1089,
             "nombre": "ACE-VENTURA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 591,
@@ -2524,7 +2524,7 @@
         {
             "id": 92,
             "nombre": "Brooklyn",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 770,
@@ -2559,6 +2559,41 @@
         {
             "id": 670,
             "nombre": "DB-058",
+            "cantidad": 1
+        },
+        {
+            "id": 1029,
+            "nombre": "BLACK-PHANTER-2",
+            "cantidad": 1
+        },
+        {
+            "id": 769,
+            "nombre": "Pink",
+            "cantidad": 1
+        },
+        {
+            "id": 540,
+            "nombre": "CHUCK-NORRIS",
+            "cantidad": 1
+        },
+        {
+            "id": 1048,
+            "nombre": "I- CRYSTAL",
+            "cantidad": 1
+        },
+        {
+            "id": 553,
+            "nombre": "GOKU-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 305,
+            "nombre": "Runamuck",
+            "cantidad": 1
+        },
+        {
+            "id": 681,
+            "nombre": "DB-069",
             "cantidad": 1
         }
     ]
