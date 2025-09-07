@@ -1949,7 +1949,7 @@
         {
             "id": 971,
             "nombre": "7-INSPECTOR-GADGET",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 955,
@@ -2864,6 +2864,11 @@
         {
             "id": 560,
             "nombre": "MACGYVER-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 767,
+            "nombre": "green",
             "cantidad": 1
         }
     ]

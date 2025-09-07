@@ -154,7 +154,7 @@
         {
             "id": 767,
             "nombre": "green",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 34,
@@ -3879,6 +3879,11 @@
         {
             "id": 991,
             "nombre": "CONAN-EDOGAWA",
+            "cantidad": 1
+        },
+        {
+            "id": 971,
+            "nombre": "7-INSPECTOR-GADGET",
             "cantidad": 1
         }
     ]
