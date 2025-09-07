@@ -1614,7 +1614,7 @@
         {
             "id": 582,
             "nombre": "CONTI",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 242,
@@ -1909,7 +1909,7 @@
         {
             "id": 881,
             "nombre": "HAWKEYE",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 613,
@@ -2559,7 +2559,7 @@
         {
             "id": 490,
             "nombre": "spyro1",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 221,
@@ -2719,7 +2719,7 @@
         {
             "id": 1012,
             "nombre": "Y.HURAMESHI",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 770,
@@ -3304,7 +3304,7 @@
         {
             "id": 334,
             "nombre": "Siniestro",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 883,
@@ -3689,6 +3689,21 @@
         {
             "id": 56,
             "nombre": "nova",
+            "cantidad": 1
+        },
+        {
+            "id": 1059,
+            "nombre": "PUNISHER",
+            "cantidad": 1
+        },
+        {
+            "id": 281,
+            "nombre": "Granitor",
+            "cantidad": 1
+        },
+        {
+            "id": 360,
+            "nombre": "stung",
             "cantidad": 1
         }
     ]

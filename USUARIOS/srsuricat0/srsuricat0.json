@@ -439,7 +439,7 @@
         {
             "id": 295,
             "nombre": "Ironhide",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 404,
@@ -2019,7 +2019,7 @@
         {
             "id": 246,
             "nombre": "Jaga",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 529,
@@ -2139,7 +2139,7 @@
         {
             "id": 360,
             "nombre": "stung",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 454,
@@ -4224,7 +4224,7 @@
         {
             "id": 929,
             "nombre": "KANE",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 633,
@@ -4434,6 +4434,11 @@
         {
             "id": 839,
             "nombre": "DJ",
+            "cantidad": 1
+        },
+        {
+            "id": 1012,
+            "nombre": "Y.HURAMESHI",
             "cantidad": 1
         }
     ]
