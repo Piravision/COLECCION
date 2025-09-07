@@ -1464,7 +1464,7 @@
     {
       "id": 486,
       "nombre": "gnasty-gnorc",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 774,
@@ -1694,7 +1694,7 @@
     {
       "id": 752,
       "nombre": "Mu-de-Aries",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 31,
@@ -3839,6 +3839,11 @@
     {
       "id": 406,
       "nombre": "turcos",
+      "cantidad": 1
+    },
+    {
+      "id": 850,
+      "nombre": "T-HAWK",
       "cantidad": 1
     }
   ]
