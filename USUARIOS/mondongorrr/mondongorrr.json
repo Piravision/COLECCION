@@ -599,7 +599,7 @@
         {
             "id": 370,
             "nombre": "muerte",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 777,
@@ -3719,6 +3719,11 @@
         {
             "id": 788,
             "nombre": "EL-FANTASMA",
+            "cantidad": 1
+        },
+        {
+            "id": 371,
+            "nombre": "muerte2",
             "cantidad": 1
         }
     ]
