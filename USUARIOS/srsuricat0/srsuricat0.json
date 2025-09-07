@@ -49,7 +49,7 @@
         {
             "id": 134,
             "nombre": "Tri Klops",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 403,
@@ -1274,7 +1274,7 @@
         {
             "id": 568,
             "nombre": "LOS-SACAMANTECAS",
-            "cantidad": 7
+            "cantidad": 8
         },
         {
             "id": 59,
@@ -1394,7 +1394,7 @@
         {
             "id": 565,
             "nombre": "ANDRÉ-THE-GIANT",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 397,
@@ -4484,7 +4484,7 @@
         {
             "id": 760,
             "nombre": "Shura-de-Capricornio",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 591,
@@ -4534,6 +4534,11 @@
         {
             "id": 82,
             "nombre": "zaboera",
+            "cantidad": 1
+        },
+        {
+            "id": 684,
+            "nombre": "DB-072",
             "cantidad": 1
         }
     ]
