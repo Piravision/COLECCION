@@ -3694,7 +3694,7 @@
         {
             "id": 954,
             "nombre": "2-CHIP",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 948,
@@ -4584,6 +4584,11 @@
         {
             "id": 1089,
             "nombre": "ACE-VENTURA",
+            "cantidad": 1
+        },
+        {
+            "id": 16,
+            "nombre": "Dregs",
             "cantidad": 1
         }
     ]

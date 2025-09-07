@@ -1519,7 +1519,7 @@
         {
             "id": 16,
             "nombre": "Dregs",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 472,
@@ -4834,6 +4834,11 @@
         {
             "id": 968,
             "nombre": "4-WILLY-FOG",
+            "cantidad": 1
+        },
+        {
+            "id": 954,
+            "nombre": "2-CHIP",
             "cantidad": 1
         }
     ]
