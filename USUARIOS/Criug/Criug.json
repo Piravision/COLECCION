@@ -529,7 +529,7 @@
         {
             "id": 404,
             "nombre": "sefirot",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 536,
@@ -4649,6 +4649,11 @@
         {
             "id": 807,
             "nombre": "JAX",
+            "cantidad": 1
+        },
+        {
+            "id": 479,
+            "nombre": "Split Head",
             "cantidad": 1
         }
     ]
