@@ -2969,7 +2969,7 @@
         {
             "id": 748,
             "nombre": "HAdes2",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 751,
@@ -4624,6 +4624,11 @@
         {
             "id": 370,
             "nombre": "muerte",
+            "cantidad": 1
+        },
+        {
+            "id": 393,
+            "nombre": "Tawna",
             "cantidad": 1
         }
     ]
