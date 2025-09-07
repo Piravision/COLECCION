@@ -2154,7 +2154,7 @@
         {
             "id": 813,
             "nombre": "LIU-KANG",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 655,
@@ -4684,6 +4684,11 @@
         {
             "id": 233,
             "nombre": "Mutant Tank",
+            "cantidad": 1
+        },
+        {
+            "id": 241,
+            "nombre": "Thunder Tank",
             "cantidad": 1
         }
     ]
