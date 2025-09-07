@@ -2344,7 +2344,7 @@
         {
             "id": 808,
             "nombre": "JOHNNY-CAGE",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 687,
@@ -3654,6 +3654,11 @@
         {
             "id": 394,
             "nombre": "vsneo",
+            "cantidad": 1
+        },
+        {
+            "id": 25,
+            "nombre": "Diana",
             "cantidad": 1
         }
     ]

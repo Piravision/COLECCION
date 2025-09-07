@@ -2384,7 +2384,7 @@
         {
             "id": 25,
             "nombre": "Diana",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 35,
@@ -4404,6 +4404,11 @@
         {
             "id": 893,
             "nombre": "OCTOPUS",
+            "cantidad": 1
+        },
+        {
+            "id": 808,
+            "nombre": "JOHNNY-CAGE",
             "cantidad": 1
         }
     ]
