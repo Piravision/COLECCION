@@ -1334,7 +1334,7 @@
         {
             "id": 44,
             "nombre": "Fly",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 64,
@@ -3919,6 +3919,11 @@
         {
             "id": 36,
             "nombre": "baduck",
+            "cantidad": 1
+        },
+        {
+            "id": 72,
+            "nombre": "hynkel malo",
             "cantidad": 1
         }
     ]
