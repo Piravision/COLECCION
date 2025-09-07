@@ -1589,7 +1589,7 @@
         {
             "id": 562,
             "nombre": "PETER-GRIFFIN-JAIL",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 111,
@@ -4339,6 +4339,11 @@
         {
             "id": 860,
             "nombre": "MAHONEY-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 853,
+            "nombre": "Zangief2",
             "cantidad": 1
         }
     ]
