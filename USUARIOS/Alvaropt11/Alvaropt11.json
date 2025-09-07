@@ -1014,7 +1014,7 @@
         {
             "id": 430,
             "nombre": "sniper2",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 628,
@@ -4749,6 +4749,11 @@
         {
             "id": 996,
             "nombre": "I.KUROSAKI",
+            "cantidad": 1
+        },
+        {
+            "id": 432,
+            "nombre": "solid2",
             "cantidad": 1
         }
     ]

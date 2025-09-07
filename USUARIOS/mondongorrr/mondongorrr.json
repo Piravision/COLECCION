@@ -959,7 +959,7 @@
         {
             "id": 432,
             "nombre": "solid2",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 690,
@@ -3789,6 +3789,11 @@
         {
             "id": 928,
             "nombre": "JOHN-CENA",
+            "cantidad": 1
+        },
+        {
+            "id": 430,
+            "nombre": "sniper2",
             "cantidad": 1
         }
     ]
