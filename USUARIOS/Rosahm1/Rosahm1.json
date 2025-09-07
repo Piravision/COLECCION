@@ -1044,7 +1044,7 @@
         {
             "id": 462,
             "nombre": "sakura",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 71,
@@ -4104,6 +4104,11 @@
         {
             "id": 216,
             "nombre": "Centinela",
+            "cantidad": 1
+        },
+        {
+            "id": 293,
+            "nombre": "Hot Rod",
             "cantidad": 1
         }
     ]
