@@ -1599,7 +1599,7 @@
         {
             "id": 660,
             "nombre": "DB-048",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 600,
@@ -2009,6 +2009,11 @@
         {
             "id": 7,
             "nombre": "El Patriarca",
+            "cantidad": 1
+        },
+        {
+            "id": 701,
+            "nombre": "DB-089",
             "cantidad": 1
         }
     ]

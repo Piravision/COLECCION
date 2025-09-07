@@ -794,7 +794,7 @@
         {
             "id": 701,
             "nombre": "DB-089",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 358,
@@ -3429,6 +3429,11 @@
         {
             "id": 263,
             "nombre": "Casey Jones",
+            "cantidad": 1
+        },
+        {
+            "id": 660,
+            "nombre": "DB-048",
             "cantidad": 1
         }
     ]
