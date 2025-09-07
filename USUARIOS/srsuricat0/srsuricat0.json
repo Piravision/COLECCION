@@ -1579,7 +1579,7 @@
         {
             "id": 106,
             "nombre": "Scarlett",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 468,
@@ -4504,6 +4504,11 @@
         {
             "id": 610,
             "nombre": "TED-CARTER",
+            "cantidad": 1
+        },
+        {
+            "id": 625,
+            "nombre": "DB-013",
             "cantidad": 1
         }
     ]
