@@ -1369,7 +1369,7 @@
         {
             "id": 10,
             "nombre": "Conan",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 55,
@@ -4374,6 +4374,11 @@
         {
             "id": 701,
             "nombre": "DB-089",
+            "cantidad": 1
+        },
+        {
+            "id": 704,
+            "nombre": "DB-092",
             "cantidad": 1
         }
     ]
