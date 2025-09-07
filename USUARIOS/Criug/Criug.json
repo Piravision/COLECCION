@@ -154,7 +154,7 @@
     {
       "id": 451,
       "nombre": "perros",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 41,
@@ -184,7 +184,7 @@
     {
       "id": 265,
       "nombre": "Leatherhead",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 310,
@@ -689,7 +689,7 @@
     {
       "id": 34,
       "nombre": "Avan",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 266,
@@ -859,7 +859,7 @@
     {
       "id": 100,
       "nombre": "Flint",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 209,
@@ -2019,7 +2019,7 @@
     {
       "id": 608,
       "nombre": "SHUN-NITTA",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 99,
@@ -2274,7 +2274,7 @@
     {
       "id": 714,
       "nombre": "DB-102",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 387,
@@ -3869,7 +3869,7 @@
     {
       "id": 720,
       "nombre": "DB-108",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 407,
@@ -4709,6 +4709,16 @@
     {
       "id": 822,
       "nombre": "SHAO-KAHN",
+      "cantidad": 1
+    },
+    {
+      "id": 1018,
+      "nombre": "SUB-MARINER",
+      "cantidad": 1
+    },
+    {
+      "id": 1109,
+      "nombre": "G-ZARK-7-&-ROBERTO-1",
       "cantidad": 1
     }
   ]
