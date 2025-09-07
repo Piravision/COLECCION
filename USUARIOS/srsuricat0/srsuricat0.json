@@ -2159,7 +2159,7 @@
         {
             "id": 250,
             "nombre": "Snarf",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 289,
@@ -4634,6 +4634,11 @@
         {
             "id": 967,
             "nombre": "4-TICO",
+            "cantidad": 1
+        },
+        {
+            "id": 978,
+            "nombre": "13-GARFIELD",
             "cantidad": 1
         }
     ]
