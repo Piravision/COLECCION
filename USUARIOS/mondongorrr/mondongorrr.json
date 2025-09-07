@@ -1319,7 +1319,7 @@
         {
             "id": 272,
             "nombre": "Panda Khan",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 741,
@@ -3804,6 +3804,11 @@
         {
             "id": 721,
             "nombre": "DB-109",
+            "cantidad": 1
+        },
+        {
+            "id": 510,
+            "nombre": "PAUL",
             "cantidad": 1
         }
     ]
