@@ -1509,7 +1509,7 @@
         {
             "id": 4,
             "nombre": "Tex Hex",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 516,
@@ -4354,6 +4354,11 @@
         {
             "id": 1001,
             "nombre": "MUSCULMAN",
+            "cantidad": 1
+        },
+        {
+            "id": 649,
+            "nombre": "DB-037",
             "cantidad": 1
         }
     ]
