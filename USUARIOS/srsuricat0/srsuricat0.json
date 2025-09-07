@@ -1219,7 +1219,7 @@
         {
             "id": 550,
             "nombre": "AceVentura-JAIL",
-            "cantidad": 7
+            "cantidad": 6
         },
         {
             "id": 69,
@@ -4334,6 +4334,11 @@
         {
             "id": 865,
             "nombre": "ROBOCOP-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 860,
+            "nombre": "MAHONEY-JAIL",
             "cantidad": 1
         }
     ]

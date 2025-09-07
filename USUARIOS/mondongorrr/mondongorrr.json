@@ -2309,7 +2309,7 @@
         {
             "id": 860,
             "nombre": "MAHONEY-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 693,
@@ -3584,6 +3584,11 @@
         {
             "id": 531,
             "nombre": "McClane-Jail",
+            "cantidad": 1
+        },
+        {
+            "id": 550,
+            "nombre": "AceVentura-JAIL",
             "cantidad": 1
         }
     ]
