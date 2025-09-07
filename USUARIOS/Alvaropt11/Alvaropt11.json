@@ -1299,7 +1299,7 @@
         {
             "id": 610,
             "nombre": "TED-CARTER",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 180,
@@ -4510,6 +4510,11 @@
             "id": 80,
             "nombre": "robot",
             "cantidad": 2
+        },
+        {
+            "id": 988,
+            "nombre": "ASH-&-PIKACHU",
+            "cantidad": 1
         }
     ]
 }
