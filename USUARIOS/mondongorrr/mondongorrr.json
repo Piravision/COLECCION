@@ -2059,7 +2059,7 @@
         {
             "id": 95,
             "nombre": "Hudson",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 485,
@@ -3849,6 +3849,11 @@
         {
             "id": 278,
             "nombre": "Bebop",
+            "cantidad": 1
+        },
+        {
+            "id": 96,
+            "nombre": "Lexington",
             "cantidad": 1
         }
     ]

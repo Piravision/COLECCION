@@ -1054,7 +1054,7 @@
         {
             "id": 96,
             "nombre": "Lexington",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 108,
@@ -4549,6 +4549,11 @@
         {
             "id": 287,
             "nombre": "Soldado del Pie",
+            "cantidad": 1
+        },
+        {
+            "id": 95,
+            "nombre": "Hudson",
             "cantidad": 1
         }
     ]
