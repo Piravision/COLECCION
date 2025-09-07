@@ -1824,7 +1824,7 @@
         {
             "id": 880,
             "nombre": "GREEN-GOBLIN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 113,
@@ -2869,6 +2869,11 @@
         {
             "id": 767,
             "nombre": "green",
+            "cantidad": 1
+        },
+        {
+            "id": 549,
+            "nombre": "T-1000",
             "cantidad": 1
         }
     ]

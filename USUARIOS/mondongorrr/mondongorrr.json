@@ -1309,7 +1309,7 @@
         {
             "id": 549,
             "nombre": "T-1000",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 8,
@@ -3884,6 +3884,11 @@
         {
             "id": 971,
             "nombre": "7-INSPECTOR-GADGET",
+            "cantidad": 1
+        },
+        {
+            "id": 880,
+            "nombre": "GREEN-GOBLIN",
             "cantidad": 1
         }
     ]
