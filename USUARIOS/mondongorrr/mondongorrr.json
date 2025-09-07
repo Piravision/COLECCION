@@ -1269,7 +1269,7 @@
         {
             "id": 855,
             "nombre": "ALIEN-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 621,
@@ -3479,6 +3479,11 @@
         {
             "id": 331,
             "nombre": "Mente Maestra",
+            "cantidad": 1
+        },
+        {
+            "id": 943,
+            "nombre": "JOHNNY5-JAIL",
             "cantidad": 1
         }
     ]

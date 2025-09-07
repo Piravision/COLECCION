@@ -1819,7 +1819,7 @@
         {
             "id": 943,
             "nombre": "JOHNNY5-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 699,
@@ -2049,6 +2049,11 @@
         {
             "id": 333,
             "nombre": "Omega Rojo",
+            "cantidad": 1
+        },
+        {
+            "id": 855,
+            "nombre": "ALIEN-JAIL",
             "cantidad": 1
         }
     ]
