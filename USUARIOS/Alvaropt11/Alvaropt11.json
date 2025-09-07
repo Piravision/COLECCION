@@ -2544,7 +2544,7 @@
         {
             "id": 831,
             "nombre": "BISON",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 750,
@@ -4694,6 +4694,11 @@
         {
             "id": 513,
             "nombre": "DISCÍPULOS-DE-AVAN",
+            "cantidad": 1
+        },
+        {
+            "id": 249,
+            "nombre": "Pomara",
             "cantidad": 1
         }
     ]
