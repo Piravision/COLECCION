@@ -844,7 +844,7 @@
         {
             "id": 48,
             "nombre": "Hyunckel",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 124,
@@ -4419,6 +4419,11 @@
         {
             "id": 810,
             "nombre": "KANO",
+            "cantidad": 1
+        },
+        {
+            "id": 815,
+            "nombre": "NIGHTWOLF",
             "cantidad": 1
         }
     ]
