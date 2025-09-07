@@ -1984,7 +1984,7 @@
         {
             "id": 595,
             "nombre": "JULIAN-ROSS",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 598,
@@ -4030,6 +4030,11 @@
             "id": 529,
             "nombre": "Mística",
             "cantidad": 2
+        },
+        {
+            "id": 580,
+            "nombre": "BRUCE-HARPER",
+            "cantidad": 1
         }
     ]
 }
