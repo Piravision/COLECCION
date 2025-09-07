@@ -3049,7 +3049,7 @@
         {
             "id": 1106,
             "nombre": "G-JASON",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 950,
@@ -3639,6 +3639,11 @@
         {
             "id": 19,
             "nombre": "Set",
+            "cantidad": 1
+        },
+        {
+            "id": 385,
+            "nombre": "brio",
             "cantidad": 1
         }
     ]
