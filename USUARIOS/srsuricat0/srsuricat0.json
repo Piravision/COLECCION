@@ -1529,7 +1529,7 @@
         {
             "id": 56,
             "nombre": "nova",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 558,
@@ -4429,6 +4429,11 @@
         {
             "id": 777,
             "nombre": "Zordon",
+            "cantidad": 1
+        },
+        {
+            "id": 839,
+            "nombre": "DJ",
             "cantidad": 1
         }
     ]

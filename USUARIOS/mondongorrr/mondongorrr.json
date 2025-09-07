@@ -1024,7 +1024,7 @@
         {
             "id": 839,
             "nombre": "DJ",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 773,
@@ -3684,6 +3684,11 @@
         {
             "id": 55,
             "nombre": "mina",
+            "cantidad": 1
+        },
+        {
+            "id": 56,
+            "nombre": "nova",
             "cantidad": 1
         }
     ]
