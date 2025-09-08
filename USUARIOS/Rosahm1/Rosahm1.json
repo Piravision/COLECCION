@@ -1514,7 +1514,7 @@
         {
             "id": 183,
             "nombre": "Kraven",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 590,
@@ -4434,6 +4434,11 @@
         {
             "id": 887,
             "nombre": "LOCKJAW",
+            "cantidad": 1
+        },
+        {
+            "id": 890,
+            "nombre": "MEDUSA",
             "cantidad": 1
         }
     ]
