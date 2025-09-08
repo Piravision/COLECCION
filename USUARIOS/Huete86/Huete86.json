@@ -2514,7 +2514,7 @@
         {
             "id": 810,
             "nombre": "KANO",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 572,
@@ -4689,6 +4689,11 @@
         {
             "id": 662,
             "nombre": "DB-050",
+            "cantidad": 1
+        },
+        {
+            "id": 671,
+            "nombre": "DB-059",
             "cantidad": 1
         }
     ]
