@@ -304,7 +304,7 @@
         {
             "id": 52,
             "nombre": "marin",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 178,
@@ -1024,7 +1024,7 @@
         {
             "id": 219,
             "nombre": "Dirigible Tortuga",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 422,
@@ -1104,7 +1104,7 @@
         {
             "id": 4,
             "nombre": "Tex Hex",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 147,
@@ -1999,7 +1999,7 @@
         {
             "id": 600,
             "nombre": "NATUREZA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 262,
@@ -2244,7 +2244,7 @@
         {
             "id": 528,
             "nombre": "Fénix-Oscura",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 64,
@@ -2549,7 +2549,7 @@
         {
             "id": 657,
             "nombre": "DB-045",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 50,
@@ -3549,7 +3549,7 @@
         {
             "id": 931,
             "nombre": "RANDY-ORTON",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 860,
@@ -3599,7 +3599,7 @@
         {
             "id": 158,
             "nombre": "Copper Kid",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 763,
@@ -4139,7 +4139,7 @@
         {
             "id": 241,
             "nombre": "Thunder Tank",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 957,
@@ -5174,6 +5174,16 @@
         {
             "id": 975,
             "nombre": "7-PENNY",
+            "cantidad": 1
+        },
+        {
+            "id": 1019,
+            "nombre": "4F - MUJER INVISIBLE",
+            "cantidad": 1
+        },
+        {
+            "id": 1005,
+            "nombre": "RANMA-1_2",
             "cantidad": 1
         }
     ]

@@ -69,7 +69,7 @@
         {
             "id": 108,
             "nombre": "Baronesa",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 224,
@@ -809,7 +809,7 @@
         {
             "id": 566,
             "nombre": "BIG-BOSSMAN",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 144,
@@ -949,12 +949,12 @@
         {
             "id": 731,
             "nombre": "DB-119",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 111,
             "nombre": "Dr. Mindbender",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 151,
@@ -1474,7 +1474,7 @@
         {
             "id": 115,
             "nombre": "Zartan",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 846,
@@ -1669,7 +1669,7 @@
         {
             "id": 398,
             "nombre": "barret",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 749,
@@ -2064,7 +2064,7 @@
         {
             "id": 227,
             "nombre": "Hawks Haven",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 18,
@@ -3319,7 +3319,7 @@
         {
             "id": 817,
             "nombre": "RAIDEN",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 739,
@@ -3474,7 +3474,7 @@
         {
             "id": 923,
             "nombre": "REAL-VISITOR",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 784,
@@ -3799,7 +3799,7 @@
         {
             "id": 521,
             "nombre": "León-O",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 735,
@@ -3859,7 +3859,7 @@
         {
             "id": 906,
             "nombre": "DR-FATE",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 910,
@@ -4339,7 +4339,7 @@
         {
             "id": 1005,
             "nombre": "RANMA-1_2",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 711,
@@ -4909,6 +4909,16 @@
         {
             "id": 757,
             "nombre": "Saga-de-Géminis_",
+            "cantidad": 1
+        },
+        {
+            "id": 1081,
+            "nombre": "X -WOLVERINE",
+            "cantidad": 1
+        },
+        {
+            "id": 52,
+            "nombre": "marin",
             "cantidad": 1
         }
     ]

@@ -979,7 +979,7 @@
     {
       "id": 322,
       "nombre": "Rondador Nocturno",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 337,
@@ -1999,7 +1999,7 @@
     {
       "id": 722,
       "nombre": "DB-110",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 10,
@@ -2634,7 +2634,7 @@
     {
       "id": 592,
       "nombre": "JASON-DERRICK",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 579,
@@ -3244,7 +3244,7 @@
     {
       "id": 520,
       "nombre": "BenGalí",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 935,
@@ -4789,6 +4789,16 @@
     {
       "id": 1166,
       "nombre": "HAWKWOMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1082,
+      "nombre": "X- PSYLOCKE",
+      "cantidad": 1
+    },
+    {
+      "id": 1143,
+      "nombre": "PINKY-&-CEREBRO",
       "cantidad": 1
     }
   ]
