@@ -3209,7 +3209,7 @@
         {
             "id": 901,
             "nombre": "ULTRON",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 932,
@@ -4299,6 +4299,11 @@
         {
             "id": 614,
             "nombre": "DB-002",
+            "cantidad": 1
+        },
+        {
+            "id": 624,
+            "nombre": "DB-012",
             "cantidad": 1
         }
     ]
