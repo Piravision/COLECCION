@@ -789,7 +789,7 @@
     {
       "id": 659,
       "nombre": "DB-047",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 301,
@@ -1039,7 +1039,7 @@
     {
       "id": 612,
       "nombre": "TOM-BAKER",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 745,
@@ -1514,7 +1514,7 @@
     {
       "id": 527,
       "nombre": "Pícara",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 359,
@@ -1759,7 +1759,7 @@
     {
       "id": 11,
       "nombre": "Greywolf",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 582,
@@ -3574,7 +3574,7 @@
     {
       "id": 863,
       "nombre": "PREDATOR-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 518,
@@ -3964,6 +3964,11 @@
     {
       "id": 984,
       "nombre": "14-BABY-SINCLAIR",
+      "cantidad": 1
+    },
+    {
+      "id": 588,
+      "nombre": "FRANZ-SCHESTER",
       "cantidad": 1
     }
   ]
