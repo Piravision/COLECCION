@@ -3149,7 +3149,7 @@
         {
             "id": 843,
             "nombre": "HONDA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 846,
@@ -4444,6 +4444,11 @@
         {
             "id": 413,
             "nombre": "campb",
+            "cantidad": 1
+        },
+        {
+            "id": 776,
+            "nombre": "zedd",
             "cantidad": 1
         }
     ]

@@ -879,7 +879,7 @@
     {
       "id": 453,
       "nombre": "tyrant",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 148,
@@ -2129,7 +2129,7 @@
     {
       "id": 630,
       "nombre": "DB-018",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 338,
@@ -4094,6 +4094,11 @@
     {
       "id": 955,
       "nombre": "2-CHOP",
+      "cantidad": 1
+    },
+    {
+      "id": 1125,
+      "nombre": "GON",
       "cantidad": 1
     }
   ]
