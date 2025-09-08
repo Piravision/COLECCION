@@ -789,7 +789,7 @@
         {
             "id": 559,
             "nombre": "MABARRACUS-JAIL",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 729,
@@ -5024,6 +5024,11 @@
         {
             "id": 873,
             "nombre": "BLACK-WIDOW",
+            "cantidad": 1
+        },
+        {
+            "id": 166,
+            "nombre": "Estrella de Fuego",
             "cantidad": 1
         }
     ]

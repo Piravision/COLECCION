@@ -79,7 +79,7 @@
         {
             "id": 166,
             "nombre": "Estrella de Fuego",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 283,
@@ -2679,6 +2679,11 @@
         {
             "id": 571,
             "nombre": "RODY-PIPPER",
+            "cantidad": 1
+        },
+        {
+            "id": 559,
+            "nombre": "MABARRACUS-JAIL",
             "cantidad": 1
         }
     ]
