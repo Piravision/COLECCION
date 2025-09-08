@@ -539,7 +539,7 @@
         {
             "id": 35,
             "nombre": "AVAN DRAGON",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 348,
@@ -4649,6 +4649,11 @@
         {
             "id": 20,
             "nombre": "Skulkur",
+            "cantidad": 1
+        },
+        {
+            "id": 793,
+            "nombre": "HIEDRA-",
             "cantidad": 1
         }
     ]
