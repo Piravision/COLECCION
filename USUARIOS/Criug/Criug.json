@@ -319,7 +319,7 @@
     {
       "id": 524,
       "nombre": "Capitán-Planeta",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 5,
@@ -389,7 +389,7 @@
     {
       "id": 535,
       "nombre": "Venkman-Jail",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 69,
@@ -1964,7 +1964,7 @@
     {
       "id": 364,
       "nombre": "HulkHogan",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 674,
@@ -1979,7 +1979,7 @@
     {
       "id": 15,
       "nombre": "Zula",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 665,
@@ -4754,7 +4754,7 @@
     {
       "id": 943,
       "nombre": "JOHNNY5-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 820,
@@ -5239,6 +5239,11 @@
     {
       "id": 1069,
       "nombre": "TIGRA",
+      "cantidad": 1
+    },
+    {
+      "id": 1056,
+      "nombre": "NOVA-2",
       "cantidad": 1
     }
   ]

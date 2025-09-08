@@ -1124,7 +1124,7 @@
     {
       "id": 800,
       "nombre": "RAS-AL-GHUL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 515,
@@ -1309,7 +1309,7 @@
     {
       "id": 204,
       "nombre": "SharkBot",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 512,
@@ -1759,7 +1759,7 @@
     {
       "id": 11,
       "nombre": "Greywolf",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 582,
@@ -2144,7 +2144,7 @@
     {
       "id": 583,
       "nombre": "DANNY-MELOW",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 686,
@@ -2499,7 +2499,7 @@
     {
       "id": 942,
       "nombre": "HANNIBAL-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 661,
@@ -4049,6 +4049,11 @@
     {
       "id": 569,
       "nombre": "MACHO-MAN",
+      "cantidad": 1
+    },
+    {
+      "id": 623,
+      "nombre": "DB-011",
       "cantidad": 1
     }
   ]
