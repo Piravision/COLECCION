@@ -3839,7 +3839,7 @@
         {
             "id": 647,
             "nombre": "DB-035",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 654,
@@ -4969,6 +4969,11 @@
         {
             "id": 430,
             "nombre": "sniper2",
+            "cantidad": 1
+        },
+        {
+            "id": 435,
+            "nombre": "vulkan2",
             "cantidad": 1
         }
     ]
