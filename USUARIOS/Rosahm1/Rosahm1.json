@@ -2759,7 +2759,7 @@
         {
             "id": 700,
             "nombre": "DB-088",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 122,
@@ -4254,6 +4254,11 @@
         {
             "id": 609,
             "nombre": "STEFAN-LEVI",
+            "cantidad": 1
+        },
+        {
+            "id": 612,
+            "nombre": "TOM-BAKER",
             "cantidad": 1
         }
     ]
