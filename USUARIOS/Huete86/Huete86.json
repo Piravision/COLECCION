@@ -3299,7 +3299,7 @@
         {
             "id": 907,
             "nombre": "FLASH",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 88,
@@ -4754,6 +4754,11 @@
         {
             "id": 798,
             "nombre": "PINGUINO",
+            "cantidad": 1
+        },
+        {
+            "id": 55,
+            "nombre": "mina",
             "cantidad": 1
         }
     ]
