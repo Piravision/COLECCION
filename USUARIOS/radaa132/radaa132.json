@@ -889,7 +889,7 @@
     {
       "id": 43,
       "nombre": "eimi",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 296,
@@ -1069,7 +1069,7 @@
     {
       "id": 819,
       "nombre": "SCORPION",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 485,
@@ -1189,7 +1189,7 @@
     {
       "id": 897,
       "nombre": "SPIDER-MAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 39,
@@ -2064,7 +2064,7 @@
     {
       "id": 537,
       "nombre": "BOLO-YEUNG",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 912,
@@ -2274,6 +2274,31 @@
     {
       "id": 562,
       "nombre": "PETER-GRIFFIN-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 864,
+      "nombre": "RAMBO-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 921,
+      "nombre": "JULIET-PARRISH",
+      "cantidad": 1
+    },
+    {
+      "id": 1136,
+      "nombre": "JOHNNY-BRAVO",
+      "cantidad": 1
+    },
+    {
+      "id": 608,
+      "nombre": "SHUN-NITTA",
+      "cantidad": 1
+    },
+    {
+      "id": 721,
+      "nombre": "DB-109",
       "cantidad": 1
     }
   ]
