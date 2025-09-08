@@ -589,7 +589,7 @@
     {
       "id": 905,
       "nombre": "DARKSEID",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 352,
@@ -1189,7 +1189,7 @@
     {
       "id": 897,
       "nombre": "SPIDER-MAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 39,
@@ -1439,7 +1439,7 @@
     {
       "id": 364,
       "nombre": "HulkHogan",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 330,
@@ -2179,6 +2179,21 @@
     {
       "id": 1083,
       "nombre": "YELLOWJACKET & WASP",
+      "cantidad": 1
+    },
+    {
+      "id": 1022,
+      "nombre": "4F- MR FANTASTIC",
+      "cantidad": 1
+    },
+    {
+      "id": 977,
+      "nombre": "13-ODIE",
+      "cantidad": 1
+    },
+    {
+      "id": 66,
+      "nombre": "flazzard2",
       "cantidad": 1
     }
   ]
