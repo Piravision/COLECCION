@@ -1144,7 +1144,7 @@
     {
       "id": 269,
       "nombre": "Mona Lisa",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 417,
@@ -1329,7 +1329,7 @@
     {
       "id": 324,
       "nombre": "Wolverine",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 153,
@@ -2184,7 +2184,7 @@
     {
       "id": 560,
       "nombre": "MACGYVER-JAIL",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 204,
@@ -2769,7 +2769,7 @@
     {
       "id": 658,
       "nombre": "DB-046",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 746,
@@ -3259,7 +3259,7 @@
     {
       "id": 662,
       "nombre": "DB-050",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 807,
@@ -5089,6 +5089,36 @@
     {
       "id": 1148,
       "nombre": "AQUAMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1167,
+      "nombre": "JOKER",
+      "cantidad": 1
+    },
+    {
+      "id": 1049,
+      "nombre": "I-MEDUSA-2",
+      "cantidad": 1
+    },
+    {
+      "id": 1158,
+      "nombre": "FLASH",
+      "cantidad": 1
+    },
+    {
+      "id": 1017,
+      "nombre": "1-SPIDERWOMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1029,
+      "nombre": "BLACK-PHANTER-2",
+      "cantidad": 1
+    },
+    {
+      "id": 1141,
+      "nombre": "PATOAVENTURAS",
       "cantidad": 1
     }
   ]
