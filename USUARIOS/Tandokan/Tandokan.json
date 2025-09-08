@@ -889,7 +889,7 @@
     {
       "id": 434,
       "nombre": "vulcan",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 564,
@@ -4024,7 +4024,7 @@
     {
       "id": 530,
       "nombre": "Axel-Foley-Jail",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 917,
@@ -4064,6 +4064,26 @@
     {
       "id": 1167,
       "nombre": "JOKER",
+      "cantidad": 1
+    },
+    {
+      "id": 1061,
+      "nombre": "SHANG-CHI",
+      "cantidad": 1
+    },
+    {
+      "id": 1077,
+      "nombre": "X -NIGHTCRAWLER",
+      "cantidad": 1
+    },
+    {
+      "id": 1087,
+      "nombre": "1-LA-BANDA-DEL-PATIO",
+      "cantidad": 1
+    },
+    {
+      "id": 882,
+      "nombre": "HELA",
       "cantidad": 1
     }
   ]
