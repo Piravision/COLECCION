@@ -1904,7 +1904,7 @@
         {
             "id": 873,
             "nombre": "BLACK-WIDOW",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 707,
@@ -2674,6 +2674,11 @@
         {
             "id": 348,
             "nombre": "Meia",
+            "cantidad": 1
+        },
+        {
+            "id": 571,
+            "nombre": "RODY-PIPPER",
             "cantidad": 1
         }
     ]
