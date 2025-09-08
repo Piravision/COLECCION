@@ -109,7 +109,7 @@
         {
             "id": 425,
             "nombre": "ocelot",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 83,
@@ -3019,6 +3019,11 @@
         {
             "id": 2,
             "nombre": "Bravestarr",
+            "cantidad": 1
+        },
+        {
+            "id": 770,
+            "nombre": "red",
             "cantidad": 1
         }
     ]
