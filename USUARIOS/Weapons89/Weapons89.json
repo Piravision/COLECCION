@@ -874,7 +874,7 @@
         {
             "id": 255,
             "nombre": "Ma Mutt",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 302,
@@ -3029,6 +3029,11 @@
         {
             "id": 864,
             "nombre": "RAMBO-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 333,
+            "nombre": "Omega Rojo",
             "cantidad": 1
         }
     ]
