@@ -819,7 +819,7 @@
         {
             "id": 178,
             "nombre": "Dr. Octopus",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 182,
@@ -2004,7 +2004,7 @@
         {
             "id": 752,
             "nombre": "Mu-de-Aries",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 611,
@@ -3169,7 +3169,7 @@
         {
             "id": 608,
             "nombre": "SHUN-NITTA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 687,
@@ -3204,7 +3204,7 @@
         {
             "id": 82,
             "nombre": "zaboera",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 901,
@@ -4389,6 +4389,11 @@
         {
             "id": 1124,
             "nombre": "GENKI-&-MOCCHI",
+            "cantidad": 1
+        },
+        {
+            "id": 126,
+            "nombre": "Beastman",
             "cantidad": 1
         }
     ]

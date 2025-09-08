@@ -1439,7 +1439,7 @@
     {
       "id": 211,
       "nombre": "Anillo Serpiente",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 185,
@@ -4099,6 +4099,16 @@
     {
       "id": 206,
       "nombre": "Slash",
+      "cantidad": 1
+    },
+    {
+      "id": 842,
+      "nombre": "GUILE2",
+      "cantidad": 1
+    },
+    {
+      "id": 789,
+      "nombre": "ENIGMA",
       "cantidad": 1
     }
   ]
