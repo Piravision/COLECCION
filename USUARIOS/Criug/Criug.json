@@ -1594,7 +1594,7 @@
         {
             "id": 49,
             "nombre": "leona",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 230,
@@ -5034,6 +5034,11 @@
         {
             "id": 35,
             "nombre": "AVAN DRAGON",
+            "cantidad": 1
+        },
+        {
+            "id": 632,
+            "nombre": "DB-020",
             "cantidad": 1
         }
     ]
