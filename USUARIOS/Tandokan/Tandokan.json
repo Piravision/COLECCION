@@ -2399,7 +2399,7 @@
     {
       "id": 7,
       "nombre": "El Patriarca",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 277,
@@ -4084,6 +4084,16 @@
     {
       "id": 882,
       "nombre": "HELA",
+      "cantidad": 1
+    },
+    {
+      "id": 1180,
+      "nombre": "C3PO-R2D2",
+      "cantidad": 1
+    },
+    {
+      "id": 955,
+      "nombre": "2-CHOP",
       "cantidad": 1
     }
   ]

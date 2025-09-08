@@ -824,7 +824,7 @@
         {
             "id": 182,
             "nombre": "Kingpin",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 150,
@@ -4429,6 +4429,11 @@
         {
             "id": 397,
             "nombre": "avalanche",
+            "cantidad": 1
+        },
+        {
+            "id": 887,
+            "nombre": "LOCKJAW",
             "cantidad": 1
         }
     ]
