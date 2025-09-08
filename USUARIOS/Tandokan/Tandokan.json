@@ -754,7 +754,7 @@
     {
       "id": 740,
       "nombre": "Athenea2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 492,
@@ -784,7 +784,7 @@
     {
       "id": 69,
       "nombre": "gargola",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 659,
@@ -1444,7 +1444,7 @@
     {
       "id": 764,
       "nombre": "Dragonzord",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 8,
@@ -1704,7 +1704,7 @@
     {
       "id": 163,
       "nombre": "Ben Parker",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 117,
@@ -1939,7 +1939,7 @@
     {
       "id": 525,
       "nombre": "Cíclope",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 531,
@@ -2874,7 +2874,7 @@
     {
       "id": 646,
       "nombre": "DB-034",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 967,
@@ -2899,7 +2899,7 @@
     {
       "id": 996,
       "nombre": "I.KUROSAKI",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 871,
@@ -3639,7 +3639,7 @@
     {
       "id": 60,
       "nombre": "baran",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 49,
@@ -3844,7 +3844,7 @@
     {
       "id": 850,
       "nombre": "T-HAWK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 129,
@@ -3929,6 +3929,36 @@
     {
       "id": 1133,
       "nombre": "AGALLAS",
+      "cantidad": 1
+    },
+    {
+      "id": 1154,
+      "nombre": "CATWOMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1067,
+      "nombre": "THUNDERBIRD",
+      "cantidad": 1
+    },
+    {
+      "id": 905,
+      "nombre": "DARKSEID",
+      "cantidad": 1
+    },
+    {
+      "id": 1051,
+      "nombre": "JACK-HEARTS",
+      "cantidad": 1
+    },
+    {
+      "id": 1091,
+      "nombre": "CAT&DOG",
+      "cantidad": 1
+    },
+    {
+      "id": 1157,
+      "nombre": "FIRESTORM",
       "cantidad": 1
     }
   ]
