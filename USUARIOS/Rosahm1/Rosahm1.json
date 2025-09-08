@@ -3244,7 +3244,7 @@
         {
             "id": 881,
             "nombre": "HAWKEYE",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 486,
@@ -4289,6 +4289,11 @@
         {
             "id": 56,
             "nombre": "nova",
+            "cantidad": 1
+        },
+        {
+            "id": 66,
+            "nombre": "flazzard2",
             "cantidad": 1
         }
     ]
