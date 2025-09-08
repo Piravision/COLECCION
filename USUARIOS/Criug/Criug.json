@@ -2374,7 +2374,7 @@
         {
             "id": 634,
             "nombre": "DB-022",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 66,
@@ -4954,6 +4954,11 @@
         {
             "id": 901,
             "nombre": "ULTRON",
+            "cantidad": 1
+        },
+        {
+            "id": 411,
+            "nombre": "big",
             "cantidad": 1
         }
     ]
