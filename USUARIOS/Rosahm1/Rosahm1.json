@@ -244,7 +244,7 @@
         {
             "id": 163,
             "nombre": "Ben Parker",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 5,
@@ -899,7 +899,7 @@
         {
             "id": 37,
             "nombre": "brass",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 225,
@@ -2189,7 +2189,7 @@
         {
             "id": 748,
             "nombre": "HAdes2",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 127,
@@ -3124,7 +3124,7 @@
         {
             "id": 503,
             "nombre": "gon",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 497,
@@ -4354,6 +4354,11 @@
         {
             "id": 665,
             "nombre": "DB-053",
+            "cantidad": 1
+        },
+        {
+            "id": 98,
+            "nombre": "David Xanatos",
             "cantidad": 1
         }
     ]
