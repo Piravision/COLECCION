@@ -2564,7 +2564,7 @@
         {
             "id": 446,
             "nombre": "CUERVOS",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 956,
@@ -3024,6 +3024,11 @@
         {
             "id": 770,
             "nombre": "red",
+            "cantidad": 1
+        },
+        {
+            "id": 864,
+            "nombre": "RAMBO-JAIL",
             "cantidad": 1
         }
     ]
