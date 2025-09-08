@@ -3144,7 +3144,7 @@
         {
             "id": 664,
             "nombre": "DB-052",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 702,
@@ -4994,6 +4994,11 @@
         {
             "id": 486,
             "nombre": "gnasty-gnorc",
+            "cantidad": 1
+        },
+        {
+            "id": 255,
+            "nombre": "Ma Mutt",
             "cantidad": 1
         }
     ]

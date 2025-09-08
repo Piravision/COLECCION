@@ -194,7 +194,7 @@
         {
             "id": 255,
             "nombre": "Ma Mutt",
-            "cantidad": 6
+            "cantidad": 5
         },
         {
             "id": 104,
@@ -4344,6 +4344,11 @@
         {
             "id": 661,
             "nombre": "DB-049",
+            "cantidad": 1
+        },
+        {
+            "id": 664,
+            "nombre": "DB-052",
             "cantidad": 1
         }
     ]
