@@ -1829,7 +1829,7 @@
         {
             "id": 481,
             "nombre": "Capitán-Stargazer",
-            "cantidad": 6
+            "cantidad": 5
         },
         {
             "id": 563,
@@ -4699,6 +4699,11 @@
         {
             "id": 851,
             "nombre": "VEGA",
+            "cantidad": 1
+        },
+        {
+            "id": 584,
+            "nombre": "DEUTER-MULLER",
             "cantidad": 1
         }
     ]
