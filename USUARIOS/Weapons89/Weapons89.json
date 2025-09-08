@@ -534,7 +534,7 @@
         {
             "id": 530,
             "nombre": "Axel-Foley-Jail",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 539,
@@ -3049,6 +3049,11 @@
         {
             "id": 313,
             "nombre": "Cable",
+            "cantidad": 1
+        },
+        {
+            "id": 944,
+            "nombre": "JOKER-JAIL",
             "cantidad": 1
         }
     ]

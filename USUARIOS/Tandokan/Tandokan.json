@@ -3314,7 +3314,7 @@
         {
             "id": 944,
             "nombre": "JOKER-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 133,
@@ -4019,6 +4019,11 @@
         {
             "id": 189,
             "nombre": "Shocker",
+            "cantidad": 1
+        },
+        {
+            "id": 530,
+            "nombre": "Axel-Foley-Jail",
             "cantidad": 1
         }
     ]
