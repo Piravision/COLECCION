@@ -1644,7 +1644,7 @@
         {
             "id": 569,
             "nombre": "MACHO-MAN",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 125,
@@ -4829,6 +4829,11 @@
         {
             "id": 103,
             "nombre": "Gung Ho",
+            "cantidad": 1
+        },
+        {
+            "id": 930,
+            "nombre": "MANKIND",
             "cantidad": 1
         }
     ]
