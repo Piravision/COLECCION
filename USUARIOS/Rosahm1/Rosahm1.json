@@ -2914,7 +2914,7 @@
         {
             "id": 894,
             "nombre": "RED-SKULL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 762,
@@ -4294,6 +4294,11 @@
         {
             "id": 66,
             "nombre": "flazzard2",
+            "cantidad": 1
+        },
+        {
+            "id": 614,
+            "nombre": "DB-002",
             "cantidad": 1
         }
     ]
