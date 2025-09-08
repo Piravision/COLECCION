@@ -2484,7 +2484,7 @@
         {
             "id": 99,
             "nombre": "Demona",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 131,
@@ -4694,6 +4694,11 @@
         {
             "id": 748,
             "nombre": "HAdes2",
+            "cantidad": 1
+        },
+        {
+            "id": 851,
+            "nombre": "VEGA",
             "cantidad": 1
         }
     ]
