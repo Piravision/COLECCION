@@ -2529,7 +2529,7 @@
         {
             "id": 800,
             "nombre": "RAS-AL-GHUL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 326,
@@ -4914,6 +4914,11 @@
         {
             "id": 725,
             "nombre": "DB-113",
+            "cantidad": 1
+        },
+        {
+            "id": 396,
+            "nombre": "aeris",
             "cantidad": 1
         }
     ]

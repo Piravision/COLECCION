@@ -714,7 +714,7 @@
         {
             "id": 396,
             "nombre": "aeris",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 400,
@@ -4264,6 +4264,11 @@
         {
             "id": 390,
             "nombre": "papu",
+            "cantidad": 1
+        },
+        {
+            "id": 800,
+            "nombre": "RAS-AL-GHUL",
             "cantidad": 1
         }
     ]
