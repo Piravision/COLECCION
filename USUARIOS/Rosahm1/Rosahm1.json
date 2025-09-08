@@ -54,7 +54,7 @@
         {
             "id": 187,
             "nombre": "Rhyno",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 48,
@@ -4334,6 +4334,11 @@
         {
             "id": 649,
             "nombre": "DB-037",
+            "cantidad": 1
+        },
+        {
+            "id": 656,
+            "nombre": "DB-044",
             "cantidad": 1
         }
     ]
