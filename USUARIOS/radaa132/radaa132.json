@@ -439,7 +439,7 @@
     {
       "id": 35,
       "nombre": "AVAN DRAGON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 667,
@@ -1004,7 +1004,7 @@
     {
       "id": 764,
       "nombre": "Dragonzord",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 591,
@@ -1694,7 +1694,7 @@
     {
       "id": 727,
       "nombre": "DB-115",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 389,
@@ -2219,6 +2219,21 @@
     {
       "id": 1090,
       "nombre": "ANIMANIACS",
+      "cantidad": 1
+    },
+    {
+      "id": 676,
+      "nombre": "DB-064",
+      "cantidad": 1
+    },
+    {
+      "id": 780,
+      "nombre": "BARBARA-GORDON",
+      "cantidad": 1
+    },
+    {
+      "id": 1123,
+      "nombre": "EDWARD-&-AI",
       "cantidad": 1
     }
   ]

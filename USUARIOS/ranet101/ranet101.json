@@ -649,7 +649,7 @@
     {
       "id": 713,
       "nombre": "DB-101",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 542,
@@ -2074,6 +2074,16 @@
     {
       "id": 627,
       "nombre": "DB-015",
+      "cantidad": 1
+    },
+    {
+      "id": 246,
+      "nombre": "Jaga",
+      "cantidad": 1
+    },
+    {
+      "id": 933,
+      "nombre": "REY-MISTERIO",
       "cantidad": 1
     }
   ]
