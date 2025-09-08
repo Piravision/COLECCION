@@ -2649,7 +2649,7 @@
         {
             "id": 639,
             "nombre": "DB-027",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 235,
@@ -4964,6 +4964,11 @@
         {
             "id": 421,
             "nombre": "mei2",
+            "cantidad": 1
+        },
+        {
+            "id": 430,
+            "nombre": "sniper2",
             "cantidad": 1
         }
     ]
