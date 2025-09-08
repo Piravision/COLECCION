@@ -1524,7 +1524,7 @@
         {
             "id": 821,
             "nombre": "SHANG-TSUNG",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 153,
@@ -3989,6 +3989,11 @@
         {
             "id": 755,
             "nombre": "Poseidon2",
+            "cantidad": 1
+        },
+        {
+            "id": 756,
+            "nombre": "Rhadamantis2",
             "cantidad": 1
         }
     ]
