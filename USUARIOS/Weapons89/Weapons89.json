@@ -1144,7 +1144,7 @@
         {
             "id": 562,
             "nombre": "PETER-GRIFFIN-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 528,
@@ -3059,6 +3059,11 @@
         {
             "id": 541,
             "nombre": "COBRA-1986",
+            "cantidad": 1
+        },
+        {
+            "id": 938,
+            "nombre": "VINCE-MCMAHON",
             "cantidad": 1
         }
     ]

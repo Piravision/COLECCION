@@ -3414,7 +3414,7 @@
         {
             "id": 938,
             "nombre": "VINCE-MCMAHON",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 577,
@@ -4029,6 +4029,11 @@
         {
             "id": 917,
             "nombre": "MYERS-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 562,
+            "nombre": "PETER-GRIFFIN-JAIL",
             "cantidad": 1
         }
     ]
