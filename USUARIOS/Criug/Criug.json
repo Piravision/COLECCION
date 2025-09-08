@@ -1009,7 +1009,7 @@
         {
             "id": 363,
             "nombre": "Chuache-DesafioTotal",
-            "cantidad": 6
+            "cantidad": 5
         },
         {
             "id": 403,
@@ -5224,6 +5224,11 @@
         {
             "id": 821,
             "nombre": "SHANG-TSUNG",
+            "cantidad": 1
+        },
+        {
+            "id": 850,
+            "nombre": "T-HAWK",
             "cantidad": 1
         }
     ]
