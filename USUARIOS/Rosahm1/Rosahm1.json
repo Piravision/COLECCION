@@ -3319,7 +3319,7 @@
         {
             "id": 841,
             "nombre": "GUILE",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 763,
@@ -4439,6 +4439,11 @@
         {
             "id": 890,
             "nombre": "MEDUSA",
+            "cantidad": 1
+        },
+        {
+            "id": 413,
+            "nombre": "campb",
             "cantidad": 1
         }
     ]
