@@ -504,7 +504,7 @@
         {
             "id": 217,
             "nombre": "Cobra   H.I.S.S.",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 418,
@@ -4724,6 +4724,11 @@
         {
             "id": 693,
             "nombre": "DB-081",
+            "cantidad": 1
+        },
+        {
+            "id": 694,
+            "nombre": "DB-082",
             "cantidad": 1
         }
     ]
