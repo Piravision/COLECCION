@@ -2804,7 +2804,7 @@
         {
             "id": 725,
             "nombre": "DB-113",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 576,
@@ -4259,6 +4259,11 @@
         {
             "id": 612,
             "nombre": "TOM-BAKER",
+            "cantidad": 1
+        },
+        {
+            "id": 390,
+            "nombre": "papu",
             "cantidad": 1
         }
     ]
