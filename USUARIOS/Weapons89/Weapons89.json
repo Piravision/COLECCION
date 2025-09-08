@@ -214,7 +214,7 @@
     {
       "id": 132,
       "nombre": "Skeletor",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 532,
@@ -274,7 +274,7 @@
     {
       "id": 524,
       "nombre": "Capitán-Planeta",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 522,
@@ -1504,7 +1504,7 @@
     {
       "id": 790,
       "nombre": "ESPANTAPAJAROS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 722,
@@ -2484,7 +2484,7 @@
     {
       "id": 900,
       "nombre": "THOR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 777,
@@ -3144,6 +3144,16 @@
     {
       "id": 383,
       "nombre": "viper",
+      "cantidad": 1
+    },
+    {
+      "id": 1102,
+      "nombre": "DENVER",
+      "cantidad": 1
+    },
+    {
+      "id": 600,
+      "nombre": "NATUREZA",
       "cantidad": 1
     }
   ]

@@ -684,7 +684,7 @@
     {
       "id": 376,
       "nombre": "guile",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 388,
@@ -2054,7 +2054,7 @@
     {
       "id": 742,
       "nombre": "Dark Saga",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 392,
@@ -2664,6 +2664,11 @@
     {
       "id": 1120,
       "nombre": "PF-PITUFO-GRUÑON",
+      "cantidad": 1
+    },
+    {
+      "id": 1166,
+      "nombre": "HAWKWOMAN",
       "cantidad": 1
     }
   ]
