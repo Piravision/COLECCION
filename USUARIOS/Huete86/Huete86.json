@@ -2494,7 +2494,7 @@
         {
             "id": 161,
             "nombre": "Steelwill",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 838,
@@ -4709,6 +4709,11 @@
         {
             "id": 679,
             "nombre": "DB-067",
+            "cantidad": 1
+        },
+        {
+            "id": 682,
+            "nombre": "DB-070",
             "cantidad": 1
         }
     ]
