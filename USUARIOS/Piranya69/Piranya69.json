@@ -3964,7 +3964,7 @@
         {
             "id": 975,
             "nombre": "7-PENNY",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 956,
@@ -5234,6 +5234,11 @@
         {
             "id": 614,
             "nombre": "DB-002",
+            "cantidad": 1
+        },
+        {
+            "id": 646,
+            "nombre": "DB-034",
             "cantidad": 1
         }
     ]

@@ -1804,7 +1804,7 @@
         {
             "id": 646,
             "nombre": "DB-034",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 346,
@@ -5169,6 +5169,11 @@
         {
             "id": 617,
             "nombre": "DB-005",
+            "cantidad": 1
+        },
+        {
+            "id": 975,
+            "nombre": "7-PENNY",
             "cantidad": 1
         }
     ]
