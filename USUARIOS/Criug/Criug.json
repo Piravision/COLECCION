@@ -359,7 +359,7 @@
         {
             "id": 56,
             "nombre": "nova",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 252,
@@ -4934,6 +4934,11 @@
         {
             "id": 976,
             "nombre": "7-SABIONDO",
+            "cantidad": 1
+        },
+        {
+            "id": 980,
+            "nombre": "14-EARL-SINCLAIR",
             "cantidad": 1
         }
     ]

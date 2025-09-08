@@ -4014,7 +4014,7 @@
         {
             "id": 980,
             "nombre": "14-EARL-SINCLAIR",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1074,
@@ -4284,6 +4284,11 @@
         {
             "id": 51,
             "nombre": "mam",
+            "cantidad": 1
+        },
+        {
+            "id": 56,
+            "nombre": "nova",
             "cantidad": 1
         }
     ]
