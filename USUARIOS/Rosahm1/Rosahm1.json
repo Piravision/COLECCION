@@ -3249,7 +3249,7 @@
         {
             "id": 486,
             "nombre": "gnasty-gnorc",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 344,
@@ -4339,6 +4339,11 @@
         {
             "id": 656,
             "nombre": "DB-044",
+            "cantidad": 1
+        },
+        {
+            "id": 661,
+            "nombre": "DB-049",
             "cantidad": 1
         }
     ]

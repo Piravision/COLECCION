@@ -2584,7 +2584,7 @@
         {
             "id": 661,
             "nombre": "DB-049",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 347,
@@ -4989,6 +4989,11 @@
         {
             "id": 187,
             "nombre": "Rhyno",
+            "cantidad": 1
+        },
+        {
+            "id": 486,
+            "nombre": "gnasty-gnorc",
             "cantidad": 1
         }
     ]
