@@ -2849,7 +2849,7 @@
         {
             "id": 782,
             "nombre": "BATMAN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 799,
@@ -4639,6 +4639,11 @@
         {
             "id": 1002,
             "nombre": "NARUTO-UZUMAKI",
+            "cantidad": 1
+        },
+        {
+            "id": 12,
+            "nombre": "Jezmine",
             "cantidad": 1
         }
     ]

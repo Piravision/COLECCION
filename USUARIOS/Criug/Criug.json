@@ -1724,7 +1724,7 @@
         {
             "id": 12,
             "nombre": "Jezmine",
-            "cantidad": 6
+            "cantidad": 5
         },
         {
             "id": 534,
@@ -5019,6 +5019,11 @@
         {
             "id": 778,
             "nombre": "ALFRED",
+            "cantidad": 1
+        },
+        {
+            "id": 782,
+            "nombre": "BATMAN",
             "cantidad": 1
         }
     ]
