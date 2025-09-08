@@ -2574,7 +2574,7 @@
         {
             "id": 840,
             "nombre": "FEI-LONG",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 26,
@@ -4714,6 +4714,11 @@
         {
             "id": 682,
             "nombre": "DB-070",
+            "cantidad": 1
+        },
+        {
+            "id": 684,
+            "nombre": "DB-072",
             "cantidad": 1
         }
     ]
