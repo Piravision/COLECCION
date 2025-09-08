@@ -2174,7 +2174,7 @@
         {
             "id": 599,
             "nombre": "MARK-LENDERS",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 753,
@@ -5154,6 +5154,11 @@
         {
             "id": 481,
             "nombre": "Capitán-Stargazer",
+            "cantidad": 1
+        },
+        {
+            "id": 274,
+            "nombre": "Ray Fillet",
             "cantidad": 1
         }
     ]

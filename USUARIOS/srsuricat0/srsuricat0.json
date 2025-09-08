@@ -1304,7 +1304,7 @@
         {
             "id": 274,
             "nombre": "Ray Fillet",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 505,
@@ -4704,6 +4704,11 @@
         {
             "id": 584,
             "nombre": "DEUTER-MULLER",
+            "cantidad": 1
+        },
+        {
+            "id": 599,
+            "nombre": "MARK-LENDERS",
             "cantidad": 1
         }
     ]
