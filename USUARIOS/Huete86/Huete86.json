@@ -4484,7 +4484,7 @@
         {
             "id": 1045,
             "nombre": "HAWKEYE-2",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 842,
@@ -4679,6 +4679,11 @@
         {
             "id": 84,
             "nombre": "zurbon",
+            "cantidad": 1
+        },
+        {
+            "id": 633,
+            "nombre": "DB-021",
             "cantidad": 1
         }
     ]
