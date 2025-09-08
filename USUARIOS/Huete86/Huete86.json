@@ -4164,7 +4164,7 @@
         {
             "id": 936,
             "nombre": "THE-ROCK",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 945,
@@ -4824,6 +4824,11 @@
         {
             "id": 255,
             "nombre": "Ma Mutt",
+            "cantidad": 1
+        },
+        {
+            "id": 103,
+            "nombre": "Gung Ho",
             "cantidad": 1
         }
     ]
