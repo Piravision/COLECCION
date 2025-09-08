@@ -84,7 +84,7 @@
         {
             "id": 318,
             "nombre": "Morpho",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 101,
@@ -4729,6 +4729,11 @@
         {
             "id": 694,
             "nombre": "DB-082",
+            "cantidad": 1
+        },
+        {
+            "id": 705,
+            "nombre": "DB-093",
             "cantidad": 1
         }
     ]

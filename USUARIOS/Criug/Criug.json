@@ -2074,7 +2074,7 @@
         {
             "id": 705,
             "nombre": "DB-093",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 616,
@@ -5109,6 +5109,11 @@
         {
             "id": 217,
             "nombre": "Cobra   H.I.S.S.",
+            "cantidad": 1
+        },
+        {
+            "id": 318,
+            "nombre": "Morpho",
             "cantidad": 1
         }
     ]
