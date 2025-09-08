@@ -99,7 +99,7 @@
     {
       "id": 14,
       "nombre": "Snagg",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 168,
@@ -699,7 +699,7 @@
     {
       "id": 827,
       "nombre": "STRYKER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 56,
@@ -1389,7 +1389,7 @@
     {
       "id": 101,
       "nombre": "Duke",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 281,
@@ -1849,7 +1849,7 @@
     {
       "id": 532,
       "nombre": "Sarah-Connor-Jail",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 568,
@@ -2044,7 +2044,7 @@
     {
       "id": 903,
       "nombre": "BIZARRE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 371,
@@ -2139,7 +2139,7 @@
     {
       "id": 400,
       "nombre": "cid",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 701,
@@ -2234,6 +2234,36 @@
     {
       "id": 1123,
       "nombre": "EDWARD-&-AI",
+      "cantidad": 1
+    },
+    {
+      "id": 540,
+      "nombre": "CHUCK-NORRIS",
+      "cantidad": 1
+    },
+    {
+      "id": 925,
+      "nombre": "WILLY-",
+      "cantidad": 1
+    },
+    {
+      "id": 993,
+      "nombre": "GATOS-SAMURAI",
+      "cantidad": 1
+    },
+    {
+      "id": 849,
+      "nombre": "SAGAT",
+      "cantidad": 1
+    },
+    {
+      "id": 238,
+      "nombre": "Snake Mountain",
+      "cantidad": 1
+    },
+    {
+      "id": 1111,
+      "nombre": "G1-COMANDO-G",
       "cantidad": 1
     }
   ]

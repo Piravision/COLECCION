@@ -334,7 +334,7 @@
     {
       "id": 753,
       "nombre": "pandora",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 758,
@@ -544,7 +544,7 @@
     {
       "id": 537,
       "nombre": "BOLO-YEUNG",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 558,
@@ -3959,6 +3959,11 @@
     {
       "id": 1157,
       "nombre": "FIRESTORM",
+      "cantidad": 1
+    },
+    {
+      "id": 984,
+      "nombre": "14-BABY-SINCLAIR",
       "cantidad": 1
     }
   ]

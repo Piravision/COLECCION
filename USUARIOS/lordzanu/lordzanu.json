@@ -829,7 +829,7 @@
     {
       "id": 264,
       "nombre": "Donatello",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 465,
@@ -1819,6 +1819,31 @@
     {
       "id": 595,
       "nombre": "JULIAN-ROSS",
+      "cantidad": 1
+    },
+    {
+      "id": 278,
+      "nombre": "Bebop",
+      "cantidad": 1
+    },
+    {
+      "id": 174,
+      "nombre": "Spiderman",
+      "cantidad": 1
+    },
+    {
+      "id": 461,
+      "nombre": "Stalone-RamboIII",
+      "cantidad": 1
+    },
+    {
+      "id": 799,
+      "nombre": "POISON-IVY",
+      "cantidad": 1
+    },
+    {
+      "id": 1153,
+      "nombre": "BLACKMANTA",
       "cantidad": 1
     }
   ]
