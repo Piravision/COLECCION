@@ -1074,7 +1074,7 @@
     {
       "id": 369,
       "nombre": "DRACULA2",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 568,
@@ -2184,7 +2184,7 @@
     {
       "id": 539,
       "nombre": "BRUCE-LEE2",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 569,
@@ -3654,7 +3654,7 @@
     {
       "id": 937,
       "nombre": "TRIPLE-H",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 811,
@@ -3749,7 +3749,7 @@
     {
       "id": 886,
       "nombre": "KARNAK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 747,
@@ -5139,6 +5139,16 @@
     {
       "id": 1170,
       "nombre": "RIDDLER",
+      "cantidad": 1
+    },
+    {
+      "id": 1031,
+      "nombre": "BV- BRUJA ESCARLATA",
+      "cantidad": 1
+    },
+    {
+      "id": 914,
+      "nombre": "SUPERMAN",
       "cantidad": 1
     }
   ]
