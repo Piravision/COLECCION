@@ -3394,7 +3394,7 @@
         {
             "id": 935,
             "nombre": "STONE-COLD",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1074,
@@ -4114,6 +4114,11 @@
         {
             "id": 751,
             "nombre": "Minos",
+            "cantidad": 1
+        },
+        {
+            "id": 756,
+            "nombre": "Rhadamantis2",
             "cantidad": 1
         }
     ]

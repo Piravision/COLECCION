@@ -774,7 +774,7 @@
     {
       "id": 586,
       "nombre": "ED-WARNER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 534,
@@ -2439,7 +2439,7 @@
     {
       "id": 456,
       "nombre": "boman",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 895,
@@ -4054,6 +4054,11 @@
     {
       "id": 623,
       "nombre": "DB-011",
+      "cantidad": 1
+    },
+    {
+      "id": 688,
+      "nombre": "DB-076",
       "cantidad": 1
     }
   ]
