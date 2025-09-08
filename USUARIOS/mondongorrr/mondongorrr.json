@@ -2419,7 +2419,7 @@
         {
             "id": 348,
             "nombre": "Meia",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 909,
@@ -4134,6 +4134,11 @@
         {
             "id": 828,
             "nombre": "SUB-ZERO",
+            "cantidad": 1
+        },
+        {
+            "id": 123,
+            "nombre": "Sorceress",
             "cantidad": 1
         }
     ]

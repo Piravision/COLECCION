@@ -224,7 +224,7 @@
     {
       "id": 512,
       "nombre": "Dimensión-X",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 263,
@@ -799,7 +799,7 @@
     {
       "id": 469,
       "nombre": "Dahlia Gillespie",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 47,
@@ -2204,7 +2204,7 @@
     {
       "id": 105,
       "nombre": "Sargento Slaughter",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 706,
@@ -3154,6 +3154,21 @@
     {
       "id": 600,
       "nombre": "NATUREZA",
+      "cantidad": 1
+    },
+    {
+      "id": 127,
+      "nombre": "Evil Lyn",
+      "cantidad": 1
+    },
+    {
+      "id": 243,
+      "nombre": "Cheetara",
+      "cantidad": 1
+    },
+    {
+      "id": 1056,
+      "nombre": "NOVA-2",
       "cantidad": 1
     }
   ]

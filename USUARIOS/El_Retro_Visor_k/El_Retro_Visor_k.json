@@ -234,7 +234,7 @@
     {
       "id": 202,
       "nombre": "Killamari",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 538,
@@ -749,7 +749,7 @@
     {
       "id": 156,
       "nombre": "Lord Camembert",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 440,
@@ -1654,7 +1654,7 @@
     {
       "id": 203,
       "nombre": "Repteel",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 535,
@@ -2179,7 +2179,7 @@
     {
       "id": 206,
       "nombre": "Slash",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 221,
@@ -2289,7 +2289,7 @@
     {
       "id": 895,
       "nombre": "ROCKET-RACOON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 182,
@@ -4929,6 +4929,11 @@
     {
       "id": 878,
       "nombre": "FALCON",
+      "cantidad": 1
+    },
+    {
+      "id": 1040,
+      "nombre": "DR STRANGE",
       "cantidad": 1
     }
   ]
