@@ -3199,7 +3199,7 @@
         {
             "id": 641,
             "nombre": "DB-029",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 82,
@@ -4244,6 +4244,11 @@
         {
             "id": 604,
             "nombre": "RALF-PETERSON",
+            "cantidad": 1
+        },
+        {
+            "id": 605,
+            "nombre": "ROBERTO-SEDINHO",
             "cantidad": 1
         }
     ]
