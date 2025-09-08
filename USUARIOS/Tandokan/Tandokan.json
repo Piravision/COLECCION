@@ -1384,7 +1384,7 @@
         {
             "id": 541,
             "nombre": "COBRA-1986",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 754,
@@ -4024,6 +4024,11 @@
         {
             "id": 530,
             "nombre": "Axel-Foley-Jail",
+            "cantidad": 1
+        },
+        {
+            "id": 917,
+            "nombre": "MYERS-JAIL",
             "cantidad": 1
         }
     ]
