@@ -3224,7 +3224,7 @@
         {
             "id": 846,
             "nombre": "ken2",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 921,
@@ -4034,6 +4034,11 @@
         {
             "id": 562,
             "nombre": "PETER-GRIFFIN-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 324,
+            "nombre": "Wolverine",
             "cantidad": 1
         }
     ]
