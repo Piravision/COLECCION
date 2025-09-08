@@ -1944,7 +1944,7 @@
         {
             "id": 761,
             "nombre": "alpha5",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 452,
@@ -4704,6 +4704,11 @@
         {
             "id": 675,
             "nombre": "DB-063",
+            "cantidad": 1
+        },
+        {
+            "id": 679,
+            "nombre": "DB-067",
             "cantidad": 1
         }
     ]

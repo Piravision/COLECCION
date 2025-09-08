@@ -3169,7 +3169,7 @@
         {
             "id": 679,
             "nombre": "DB-067",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 809,
@@ -5084,6 +5084,11 @@
         {
             "id": 817,
             "nombre": "RAIDEN",
+            "cantidad": 1
+        },
+        {
+            "id": 761,
+            "nombre": "alpha5",
             "cantidad": 1
         }
     ]
