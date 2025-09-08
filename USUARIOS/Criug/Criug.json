@@ -1999,7 +1999,7 @@
         {
             "id": 600,
             "nombre": "NATUREZA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 262,
@@ -4884,6 +4884,11 @@
         {
             "id": 388,
             "nombre": "koala2",
+            "cantidad": 1
+        },
+        {
+            "id": 913,
+            "nombre": "SUPERGIRL",
             "cantidad": 1
         }
     ]
