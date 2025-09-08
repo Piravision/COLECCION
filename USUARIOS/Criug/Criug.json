@@ -104,7 +104,7 @@
         {
             "id": 244,
             "nombre": "Felina",
-            "cantidad": 8
+            "cantidad": 9
         },
         {
             "id": 18,
@@ -369,7 +369,7 @@
         {
             "id": 531,
             "nombre": "McClane-Jail",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 81,
@@ -409,7 +409,7 @@
         {
             "id": 339,
             "nombre": "Shun de Andrómeda",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 234,
@@ -479,7 +479,7 @@
         {
             "id": 340,
             "nombre": "Poseidón",
-            "cantidad": 10
+            "cantidad": 11
         },
         {
             "id": 104,
@@ -764,7 +764,7 @@
         {
             "id": 150,
             "nombre": "Throttle",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 72,
@@ -784,7 +784,7 @@
         {
             "id": 552,
             "nombre": "CHEWBACCA-JAIL",
-            "cantidad": 9
+            "cantidad": 10
         },
         {
             "id": 448,
@@ -939,7 +939,7 @@
         {
             "id": 478,
             "nombre": "nurse",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 216,
@@ -1109,7 +1109,7 @@
         {
             "id": 147,
             "nombre": "Carbine",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 153,
@@ -1269,7 +1269,7 @@
         {
             "id": 440,
             "nombre": "scrabs",
-            "cantidad": 7
+            "cantidad": 8
         },
         {
             "id": 477,
@@ -1339,7 +1339,7 @@
         {
             "id": 146,
             "nombre": "Siege",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 648,
@@ -1724,7 +1724,7 @@
         {
             "id": 12,
             "nombre": "Jezmine",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 534,
@@ -1964,7 +1964,7 @@
         {
             "id": 364,
             "nombre": "HulkHogan",
-            "cantidad": 6
+            "cantidad": 7
         },
         {
             "id": 674,
@@ -2134,7 +2134,7 @@
         {
             "id": 742,
             "nombre": "Dark Saga",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 159,
@@ -2564,7 +2564,7 @@
         {
             "id": 833,
             "nombre": "blanka2",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 148,
@@ -3319,7 +3319,7 @@
         {
             "id": 919,
             "nombre": "DONOVAN",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 457,
@@ -3579,7 +3579,7 @@
         {
             "id": 630,
             "nombre": "DB-018",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 767,
@@ -3879,7 +3879,7 @@
         {
             "id": 961,
             "nombre": "3-MORIARTY",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 71,
@@ -3959,7 +3959,7 @@
         {
             "id": 928,
             "nombre": "JOHN-CENA",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 519,
@@ -4054,7 +4054,7 @@
         {
             "id": 994,
             "nombre": "GUTS",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 935,
@@ -4164,7 +4164,7 @@
         {
             "id": 1002,
             "nombre": "NARUTO-UZUMAKI",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 633,
@@ -4204,7 +4204,7 @@
         {
             "id": 878,
             "nombre": "FALCON",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 114,
@@ -4344,7 +4344,7 @@
         {
             "id": 942,
             "nombre": "HANNIBAL-JAIL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1014,
@@ -4614,7 +4614,7 @@
         {
             "id": 684,
             "nombre": "DB-072",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 779,
@@ -4634,7 +4634,7 @@
         {
             "id": 344,
             "nombre": "Flazzard 3",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 697,
@@ -4689,7 +4689,7 @@
         {
             "id": 1041,
             "nombre": "FALCON-2",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1116,
@@ -4774,7 +4774,7 @@
         {
             "id": 374,
             "nombre": "Succubus",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1121,
@@ -4839,6 +4839,41 @@
         {
             "id": 856,
             "nombre": "BEETLEJUICE-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 1021,
+            "nombre": "4F COSA",
+            "cantidad": 1
+        },
+        {
+            "id": 1035,
+            "nombre": "CAPITAN BRITANIA",
+            "cantidad": 1
+        },
+        {
+            "id": 1008,
+            "nombre": "SAKURA",
+            "cantidad": 1
+        },
+        {
+            "id": 798,
+            "nombre": "PINGUINO",
+            "cantidad": 1
+        },
+        {
+            "id": 1134,
+            "nombre": "DR.-GRANUDO-&-HORRIFIDO",
+            "cantidad": 1
+        },
+        {
+            "id": 1017,
+            "nombre": "1-SPIDERWOMAN",
+            "cantidad": 1
+        },
+        {
+            "id": 611,
+            "nombre": "TERRY-DENTON",
             "cantidad": 1
         }
     ]
