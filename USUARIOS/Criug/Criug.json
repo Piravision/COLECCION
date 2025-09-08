@@ -229,7 +229,7 @@
         {
             "id": 20,
             "nombre": "Skulkur",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 62,
@@ -5024,6 +5024,11 @@
         {
             "id": 782,
             "nombre": "BATMAN",
+            "cantidad": 1
+        },
+        {
+            "id": 906,
+            "nombre": "DR-FATE",
             "cantidad": 1
         }
     ]
