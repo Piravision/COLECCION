@@ -3219,7 +3219,7 @@
         {
             "id": 814,
             "nombre": "MILENNA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 624,
@@ -4694,6 +4694,11 @@
         {
             "id": 671,
             "nombre": "DB-059",
+            "cantidad": 1
+        },
+        {
+            "id": 673,
+            "nombre": "DB-061",
             "cantidad": 1
         }
     ]
