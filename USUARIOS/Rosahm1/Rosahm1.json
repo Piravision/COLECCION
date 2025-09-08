@@ -2154,7 +2154,7 @@
         {
             "id": 734,
             "nombre": "Afrodita-de-Piscis",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 751,
@@ -4379,6 +4379,11 @@
         {
             "id": 775,
             "nombre": "yellow",
+            "cantidad": 1
+        },
+        {
+            "id": 263,
+            "nombre": "Casey Jones",
             "cantidad": 1
         }
     ]
