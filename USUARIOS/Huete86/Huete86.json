@@ -1919,7 +1919,7 @@
         {
             "id": 396,
             "nombre": "aeris",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 511,
@@ -4899,6 +4899,11 @@
         {
             "id": 441,
             "nombre": "slig",
+            "cantidad": 1
+        },
+        {
+            "id": 271,
+            "nombre": "Neutrinos",
             "cantidad": 1
         }
     ]

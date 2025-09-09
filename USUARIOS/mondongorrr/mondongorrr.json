@@ -2729,7 +2729,7 @@
         {
             "id": 271,
             "nombre": "Neutrinos",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 377,
@@ -4199,6 +4199,11 @@
         {
             "id": 436,
             "nombre": "abe",
+            "cantidad": 1
+        },
+        {
+            "id": 396,
+            "nombre": "aeris",
             "cantidad": 1
         }
     ]
