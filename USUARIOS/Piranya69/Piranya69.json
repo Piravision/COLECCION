@@ -1399,7 +1399,7 @@
     {
       "id": 232,
       "nombre": "Mousers",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 241,
@@ -4789,7 +4789,7 @@
     {
       "id": 1120,
       "nombre": "PF-PITUFO-GRUÑON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1089,
@@ -5509,6 +5509,11 @@
     {
       "id": 1223,
       "nombre": "MARCO",
+      "cantidad": 1
+    },
+    {
+      "id": 1171,
+      "nombre": "ROBIN",
       "cantidad": 1
     }
   ]

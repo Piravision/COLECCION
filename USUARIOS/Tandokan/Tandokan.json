@@ -1374,7 +1374,7 @@
     {
       "id": 867,
       "nombre": "SONNY-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 723,
@@ -2939,7 +2939,7 @@
     {
       "id": 986,
       "nombre": "15-BALOO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 977,
@@ -3259,7 +3259,7 @@
     {
       "id": 44,
       "nombre": "Fly",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 505,
@@ -4134,6 +4134,21 @@
     {
       "id": 1003,
       "nombre": "NINJA-ATORI",
+      "cantidad": 1
+    },
+    {
+      "id": 1184,
+      "nombre": "TEEN-WOLF",
+      "cantidad": 1
+    },
+    {
+      "id": 1111,
+      "nombre": "G1-COMANDO-G",
+      "cantidad": 1
+    },
+    {
+      "id": 1030,
+      "nombre": "BRUJA Y VISION",
       "cantidad": 1
     }
   ]

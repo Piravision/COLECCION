@@ -1464,7 +1464,7 @@
     {
       "id": 734,
       "nombre": "Afrodita-de-Piscis",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 404,
@@ -2234,7 +2234,7 @@
     {
       "id": 885,
       "nombre": "IRON-MAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 882,
@@ -2794,6 +2794,11 @@
     {
       "id": 410,
       "nombre": "Barón-Ashura",
+      "cantidad": 1
+    },
+    {
+      "id": 868,
+      "nombre": "ANT-MAN",
       "cantidad": 1
     }
   ]
