@@ -64,7 +64,7 @@
         {
             "id": 561,
             "nombre": "MARIO-JAIL",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 142,
@@ -544,7 +544,7 @@
         {
             "id": 101,
             "nombre": "Duke",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 392,
@@ -799,7 +799,7 @@
         {
             "id": 358,
             "nombre": "jenny",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 28,
@@ -2744,7 +2744,7 @@
         {
             "id": 938,
             "nombre": "VINCE-MCMAHON",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 535,
@@ -4059,7 +4059,7 @@
         {
             "id": 1128,
             "nombre": "VASH-ESTAMPIDA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1062,
@@ -4159,7 +4159,7 @@
         {
             "id": 1127,
             "nombre": "SHINJI-IKARI",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 213,
@@ -4209,7 +4209,7 @@
         {
             "id": 147,
             "nombre": "Carbine",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 584,
@@ -4234,6 +4234,11 @@
         {
             "id": 947,
             "nombre": "1-ARAMIS",
+            "cantidad": 1
+        },
+        {
+            "id": 937,
+            "nombre": "TRIPLE-H",
             "cantidad": 1
         }
     ]
