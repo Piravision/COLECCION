@@ -564,7 +564,7 @@
     {
       "id": 346,
       "nombre": "jess",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 137,
@@ -1529,7 +1529,7 @@
     {
       "id": 100,
       "nombre": "Flint",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 195,
@@ -3289,7 +3289,7 @@
     {
       "id": 618,
       "nombre": "DB-006",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 842,
@@ -3354,7 +3354,7 @@
     {
       "id": 36,
       "nombre": "baduck",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 705,
@@ -4404,7 +4404,7 @@
     {
       "id": 715,
       "nombre": "DB-103",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 934,
@@ -5384,6 +5384,61 @@
     {
       "id": 1154,
       "nombre": "CATWOMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1192,
+      "nombre": "THUNDARR",
+      "cantidad": 1
+    },
+    {
+      "id": 1083,
+      "nombre": "YELLOWJACKET & WASP",
+      "cantidad": 1
+    },
+    {
+      "id": 1129,
+      "nombre": "CRITTER-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1162,
+      "nombre": "GOLDENAGE-BATMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1183,
+      "nombre": "LOS-DIMINUTOS",
+      "cantidad": 1
+    },
+    {
+      "id": 1152,
+      "nombre": "BLACK CANNARY",
+      "cantidad": 1
+    },
+    {
+      "id": 1184,
+      "nombre": "TEEN-WOLF",
+      "cantidad": 1
+    },
+    {
+      "id": 1073,
+      "nombre": "X - CYCLOPS",
+      "cantidad": 1
+    },
+    {
+      "id": 1028,
+      "nombre": "BLACK KNIGHT",
+      "cantidad": 1
+    },
+    {
+      "id": 1130,
+      "nombre": "MARS-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 279,
+      "nombre": "Cuerpo Androide",
       "cantidad": 1
     }
   ]

@@ -389,7 +389,7 @@
     {
       "id": 538,
       "nombre": "BRUCE-LEE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 543,
@@ -499,6 +499,46 @@
     {
       "id": 395,
       "nombre": "SPIKE-SPIEGEL",
+      "cantidad": 1
+    },
+    {
+      "id": 644,
+      "nombre": "DB-032",
+      "cantidad": 1
+    },
+    {
+      "id": 563,
+      "nombre": "VADER-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 912,
+      "nombre": "SINIESTRO",
+      "cantidad": 1
+    },
+    {
+      "id": 250,
+      "nombre": "Snarf",
+      "cantidad": 1
+    },
+    {
+      "id": 126,
+      "nombre": "Beastman",
+      "cantidad": 1
+    },
+    {
+      "id": 616,
+      "nombre": "DB-004",
+      "cantidad": 1
+    },
+    {
+      "id": 62,
+      "nombre": "derolin",
+      "cantidad": 1
+    },
+    {
+      "id": 102,
+      "nombre": "General Hawk",
       "cantidad": 1
     }
   ]
