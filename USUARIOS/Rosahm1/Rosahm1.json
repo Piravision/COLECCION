@@ -3614,7 +3614,7 @@
         {
             "id": 985,
             "nombre": "ALF-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 871,
@@ -4594,6 +4594,11 @@
         {
             "id": 872,
             "nombre": "BLACK-PANTHER",
+            "cantidad": 1
+        },
+        {
+            "id": 557,
+            "nombre": "LUFFY-JAIL",
             "cantidad": 1
         }
     ]
