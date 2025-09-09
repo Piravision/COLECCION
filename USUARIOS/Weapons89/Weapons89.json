@@ -549,7 +549,7 @@
     {
       "id": 8,
       "nombre": "Hades",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 280,
@@ -2304,7 +2304,7 @@
     {
       "id": 895,
       "nombre": "ROCKET-RACOON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 918,
@@ -3264,6 +3264,11 @@
     {
       "id": 899,
       "nombre": "THANOS",
+      "cantidad": 1
+    },
+    {
+      "id": 687,
+      "nombre": "DB-075",
       "cantidad": 1
     }
   ]

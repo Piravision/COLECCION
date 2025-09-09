@@ -394,7 +394,7 @@
     {
       "id": 348,
       "nombre": "Meia",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 209,
@@ -4114,6 +4114,16 @@
     {
       "id": 1102,
       "nombre": "DENVER",
+      "cantidad": 1
+    },
+    {
+      "id": 1218,
+      "nombre": "BATTLETOAD",
+      "cantidad": 1
+    },
+    {
+      "id": 1148,
+      "nombre": "AQUAMAN",
       "cantidad": 1
     }
   ]
