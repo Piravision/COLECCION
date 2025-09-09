@@ -3304,7 +3304,7 @@
         {
             "id": 883,
             "nombre": "HULK",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 978,
@@ -4314,6 +4314,11 @@
         {
             "id": 298,
             "nombre": "Prowl",
+            "cantidad": 1
+        },
+        {
+            "id": 159,
+            "nombre": "Quicksilver",
             "cantidad": 1
         }
     ]
