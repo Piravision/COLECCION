@@ -3484,7 +3484,7 @@
         {
             "id": 323,
             "nombre": "Tormenta",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 446,
@@ -5069,6 +5069,11 @@
         {
             "id": 950,
             "nombre": "1-PORTHOS",
+            "cantidad": 1
+        },
+        {
+            "id": 1095,
+            "nombre": "CZ-PETER-VENKMAN",
             "cantidad": 1
         }
     ]
