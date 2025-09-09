@@ -84,7 +84,7 @@
     {
       "id": 283,
       "nombre": "Lord Dregg",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 277,
@@ -169,7 +169,7 @@
     {
       "id": 276,
       "nombre": "Baxter",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 266,
@@ -374,7 +374,7 @@
     {
       "id": 104,
       "nombre": "Lady Jaye",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 47,
@@ -399,7 +399,7 @@
     {
       "id": 107,
       "nombre": "Snake Eyes",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 438,
@@ -859,7 +859,7 @@
     {
       "id": 351,
       "nombre": "reaper",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 312,
@@ -969,7 +969,7 @@
     {
       "id": 569,
       "nombre": "MACHO-MAN",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 344,
@@ -1674,7 +1674,7 @@
     {
       "id": 274,
       "nombre": "Ray Fillet",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 396,
@@ -1939,7 +1939,7 @@
     {
       "id": 111,
       "nombre": "Dr. Mindbender",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 576,
@@ -2174,7 +2174,7 @@
     {
       "id": 1000,
       "nombre": "SON-GOKU",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1001,
@@ -2399,7 +2399,7 @@
     {
       "id": 582,
       "nombre": "CONTI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 926,
@@ -2754,6 +2754,16 @@
     {
       "id": 89,
       "nombre": "Angela",
+      "cantidad": 1
+    },
+    {
+      "id": 343,
+      "nombre": "Flazzard 2",
+      "cantidad": 1
+    },
+    {
+      "id": 983,
+      "nombre": "14-ROBBIE-SINCLAIR",
       "cantidad": 1
     }
   ]

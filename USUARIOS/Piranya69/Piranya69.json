@@ -844,7 +844,7 @@
     {
       "id": 434,
       "nombre": "vulcan",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 32,
@@ -2464,7 +2464,7 @@
     {
       "id": 563,
       "nombre": "VADER-JAIL",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 416,
@@ -4464,7 +4464,7 @@
     {
       "id": 982,
       "nombre": "14-FRAN-SINCLAIR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 760,
@@ -4839,7 +4839,7 @@
     {
       "id": 1035,
       "nombre": "CAPITAN BRITANIA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1033,
@@ -5499,6 +5499,16 @@
     {
       "id": 1150,
       "nombre": "BATGIRL",
+      "cantidad": 1
+    },
+    {
+      "id": 1123,
+      "nombre": "EDWARD-&-AI",
+      "cantidad": 1
+    },
+    {
+      "id": 1223,
+      "nombre": "MARCO",
       "cantidad": 1
     }
   ]

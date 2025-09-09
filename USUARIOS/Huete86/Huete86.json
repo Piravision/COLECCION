@@ -39,7 +39,7 @@
     {
       "id": 235,
       "nombre": "Punk Frogs",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 174,
@@ -1104,7 +1104,7 @@
     {
       "id": 165,
       "nombre": "Daredevil",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 357,
@@ -1769,7 +1769,7 @@
     {
       "id": 702,
       "nombre": "DB-090",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 628,
@@ -2489,7 +2489,7 @@
     {
       "id": 698,
       "nombre": "DB-086",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 161,
@@ -2634,7 +2634,7 @@
     {
       "id": 592,
       "nombre": "JASON-DERRICK",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 579,
@@ -3184,7 +3184,7 @@
     {
       "id": 871,
       "nombre": "BLACK-BOLT",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 65,
@@ -4974,11 +4974,21 @@
     {
       "id": 1229,
       "nombre": "MIGHTY-MAX",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1206,
       "nombre": "3a-SONIC",
+      "cantidad": 1
+    },
+    {
+      "id": 1070,
+      "nombre": "UNION JACK",
+      "cantidad": 1
+    },
+    {
+      "id": 1084,
+      "nombre": "YV- WASP",
       "cantidad": 1
     }
   ]

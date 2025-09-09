@@ -419,7 +419,7 @@
     {
       "id": 58,
       "nombre": "rey romos",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 444,
@@ -474,7 +474,7 @@
     {
       "id": 328,
       "nombre": "Juggernaut",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 287,
@@ -669,7 +669,7 @@
     {
       "id": 490,
       "nombre": "spyro1",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 429,
@@ -719,7 +719,7 @@
     {
       "id": 567,
       "nombre": "JAKE-ROBERTS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 376,
@@ -854,7 +854,7 @@
     {
       "id": 117,
       "nombre": "He man",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 135,
@@ -1029,7 +1029,7 @@
     {
       "id": 212,
       "nombre": "Asteroide M",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 550,
@@ -1324,7 +1324,7 @@
     {
       "id": 240,
       "nombre": "Terror Drome",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 252,
@@ -2039,7 +2039,7 @@
     {
       "id": 586,
       "nombre": "ED-WARNER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 468,
@@ -2139,7 +2139,7 @@
     {
       "id": 954,
       "nombre": "2-CHIP",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 963,
@@ -3234,6 +3234,36 @@
     {
       "id": 19,
       "nombre": "Set",
+      "cantidad": 1
+    },
+    {
+      "id": 893,
+      "nombre": "OCTOPUS",
+      "cantidad": 1
+    },
+    {
+      "id": 1024,
+      "nombre": "4FV - SILVER SURFER",
+      "cantidad": 1
+    },
+    {
+      "id": 552,
+      "nombre": "CHEWBACCA-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 800,
+      "nombre": "RAS-AL-GHUL",
+      "cantidad": 1
+    },
+    {
+      "id": 831,
+      "nombre": "BISON",
+      "cantidad": 1
+    },
+    {
+      "id": 899,
+      "nombre": "THANOS",
       "cantidad": 1
     }
   ]
