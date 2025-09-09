@@ -809,7 +809,7 @@
         {
             "id": 164,
             "nombre": "Black Cat",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 464,
@@ -3309,6 +3309,11 @@
         {
             "id": 401,
             "nombre": "cloud",
+            "cantidad": 1
+        },
+        {
+            "id": 400,
+            "nombre": "cid",
             "cantidad": 1
         }
     ]

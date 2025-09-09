@@ -674,7 +674,7 @@
         {
             "id": 400,
             "nombre": "cid",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 317,
@@ -4294,6 +4294,11 @@
         {
             "id": 486,
             "nombre": "gnasty-gnorc",
+            "cantidad": 1
+        },
+        {
+            "id": 164,
+            "nombre": "Black Cat",
             "cantidad": 1
         }
     ]
