@@ -4054,7 +4054,7 @@
         {
             "id": 1128,
             "nombre": "VASH-ESTAMPIDA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1062,
@@ -4304,6 +4304,11 @@
         {
             "id": 198,
             "nombre": "Slammu",
+            "cantidad": 1
+        },
+        {
+            "id": 311,
+            "nombre": "Arcangel",
             "cantidad": 1
         }
     ]
