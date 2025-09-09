@@ -1504,7 +1504,7 @@
         {
             "id": 608,
             "nombre": "SHUN-NITTA",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 3,
@@ -4949,6 +4949,11 @@
         {
             "id": 613,
             "nombre": "DB-001",
+            "cantidad": 1
+        },
+        {
+            "id": 695,
+            "nombre": "DB-083",
             "cantidad": 1
         }
     ]
