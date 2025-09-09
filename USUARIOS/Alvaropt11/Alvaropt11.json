@@ -3674,7 +3674,7 @@
         {
             "id": 968,
             "nombre": "4-WILLY-FOG",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 929,
@@ -5074,6 +5074,11 @@
         {
             "id": 1095,
             "nombre": "CZ-PETER-VENKMAN",
+            "cantidad": 1
+        },
+        {
+            "id": 707,
+            "nombre": "DB-095",
             "cantidad": 1
         }
     ]
