@@ -124,7 +124,7 @@
     {
       "id": 11,
       "nombre": "Greywolf",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 132,
@@ -689,7 +689,7 @@
     {
       "id": 73,
       "nombre": "killvearn",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 250,
@@ -1189,7 +1189,7 @@
     {
       "id": 546,
       "nombre": "MARTY-MCFLY",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 545,
@@ -1349,7 +1349,7 @@
     {
       "id": 215,
       "nombre": "Castillo Grayskull",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 499,
@@ -1989,7 +1989,7 @@
     {
       "id": 598,
       "nombre": "MARGUS-MANFRED",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 22,
@@ -2084,12 +2084,12 @@
     {
       "id": 170,
       "nombre": "J. Jonah Jameson",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 264,
       "nombre": "Donatello",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 711,
@@ -2429,7 +2429,7 @@
     {
       "id": 754,
       "nombre": "Pandora",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 410,
@@ -3039,7 +3039,7 @@
     {
       "id": 824,
       "nombre": "SINDEL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 848,
@@ -3519,7 +3519,7 @@
     {
       "id": 733,
       "nombre": "DB-121",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 962,
@@ -3819,7 +3819,7 @@
     {
       "id": 519,
       "nombre": "Tortugamóvil",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 663,
@@ -4529,6 +4529,26 @@
     {
       "id": 806,
       "nombre": "JADE",
+      "cantidad": 1
+    },
+    {
+      "id": 206,
+      "nombre": "Slash",
+      "cantidad": 1
+    },
+    {
+      "id": 923,
+      "nombre": "REAL-VISITOR",
+      "cantidad": 1
+    },
+    {
+      "id": 473,
+      "nombre": "harry",
+      "cantidad": 1
+    },
+    {
+      "id": 1090,
+      "nombre": "ANIMANIACS",
       "cantidad": 1
     }
   ]

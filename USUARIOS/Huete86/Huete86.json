@@ -1824,7 +1824,7 @@
     {
       "id": 535,
       "nombre": "Venkman-Jail",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 503,
@@ -3774,7 +3774,7 @@
     {
       "id": 977,
       "nombre": "13-ODIE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 976,
@@ -3934,7 +3934,7 @@
     {
       "id": 392,
       "nombre": "roover",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 405,
@@ -4064,7 +4064,7 @@
     {
       "id": 258,
       "nombre": "Mumm Ra",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 939,
@@ -4679,7 +4679,7 @@
     {
       "id": 84,
       "nombre": "zurbon",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 633,
@@ -4874,6 +4874,11 @@
     {
       "id": 1014,
       "nombre": "YUGI",
+      "cantidad": 1
+    },
+    {
+      "id": 1172,
+      "nombre": "SUPERMAN",
       "cantidad": 1
     }
   ]

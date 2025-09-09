@@ -359,7 +359,7 @@
     {
       "id": 56,
       "nombre": "nova",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 252,
@@ -654,7 +654,7 @@
     {
       "id": 522,
       "nombre": "lara",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 424,
@@ -1029,7 +1029,7 @@
     {
       "id": 422,
       "nombre": "meryl",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 497,
@@ -1324,7 +1324,7 @@
     {
       "id": 70,
       "nombre": "hadlar",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 401,
@@ -1499,7 +1499,7 @@
     {
       "id": 570,
       "nombre": "MILLION-DOLLAR-MAN",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 666,
@@ -2184,7 +2184,7 @@
     {
       "id": 539,
       "nombre": "BRUCE-LEE2",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 569,
@@ -2474,7 +2474,7 @@
     {
       "id": 483,
       "nombre": "Spider-Woman",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 797,
@@ -2644,7 +2644,7 @@
     {
       "id": 220,
       "nombre": "DRAGON QUEST",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 639,
@@ -2919,7 +2919,7 @@
     {
       "id": 682,
       "nombre": "DB-070",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 229,
@@ -3029,7 +3029,7 @@
     {
       "id": 899,
       "nombre": "THANOS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 760,
@@ -3169,7 +3169,7 @@
     {
       "id": 679,
       "nombre": "DB-067",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 809,
@@ -3469,7 +3469,7 @@
     {
       "id": 863,
       "nombre": "PREDATOR-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 275,
@@ -3629,7 +3629,7 @@
     {
       "id": 964,
       "nombre": "3-TODD-&-SMILEY",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 966,
@@ -4614,7 +4614,7 @@
     {
       "id": 684,
       "nombre": "DB-072",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 779,
@@ -4949,7 +4949,7 @@
     {
       "id": 894,
       "nombre": "RED-SKULL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 901,
@@ -4994,7 +4994,7 @@
     {
       "id": 486,
       "nombre": "gnasty-gnorc",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 255,
@@ -5274,6 +5274,16 @@
     {
       "id": 1125,
       "nombre": "GON",
+      "cantidad": 1
+    },
+    {
+      "id": 1073,
+      "nombre": "X - CYCLOPS",
+      "cantidad": 1
+    },
+    {
+      "id": 1096,
+      "nombre": "CZ-RAY-STANTZ",
       "cantidad": 1
     }
   ]
