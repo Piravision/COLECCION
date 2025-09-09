@@ -874,7 +874,7 @@
     {
       "id": 549,
       "nombre": "T-1000",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 99,
@@ -1634,7 +1634,7 @@
     {
       "id": 340,
       "nombre": "Poseidón",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 589,
@@ -2534,7 +2534,7 @@
     {
       "id": 795,
       "nombre": "JOKER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 66,
@@ -3174,7 +3174,7 @@
     {
       "id": 270,
       "nombre": "Napoleon Bonafrog",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 448,
@@ -5044,6 +5044,16 @@
     {
       "id": 177,
       "nombre": "Carnage",
+      "cantidad": 1
+    },
+    {
+      "id": 1135,
+      "nombre": "GUARDIAN-DE-LA-CRIPTA",
+      "cantidad": 1
+    },
+    {
+      "id": 1214,
+      "nombre": "5-HAOHMARU",
       "cantidad": 1
     }
   ]

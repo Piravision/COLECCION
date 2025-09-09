@@ -2484,7 +2484,7 @@
         {
             "id": 777,
             "nombre": "Zordon",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 678,
@@ -3264,6 +3264,11 @@
         {
             "id": 687,
             "nombre": "DB-075",
+            "cantidad": 1
+        },
+        {
+            "id": 832,
+            "nombre": "BLANKA",
             "cantidad": 1
         }
     ]
