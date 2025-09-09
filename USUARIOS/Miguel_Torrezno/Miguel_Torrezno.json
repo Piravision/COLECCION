@@ -1409,7 +1409,7 @@
     {
       "id": 96,
       "nombre": "Lexington",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 480,
@@ -1804,7 +1804,7 @@
     {
       "id": 93,
       "nombre": "Elisa Maza",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 783,
@@ -2749,6 +2749,11 @@
     {
       "id": 387,
       "nombre": "Koala",
+      "cantidad": 1
+    },
+    {
+      "id": 89,
+      "nombre": "Angela",
       "cantidad": 1
     }
   ]

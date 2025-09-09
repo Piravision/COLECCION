@@ -14,7 +14,7 @@
         {
             "id": 548,
             "nombre": "Snake-Plissken",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 498,
@@ -329,7 +329,7 @@
         {
             "id": 678,
             "nombre": "DB-066",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 277,
@@ -1064,7 +1064,7 @@
         {
             "id": 442,
             "nombre": "slig2",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 688,
@@ -1584,7 +1584,7 @@
         {
             "id": 336,
             "nombre": "Hyōga de Cisne",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 766,
@@ -1824,11 +1824,6 @@
         {
             "id": 730,
             "nombre": "DB-118",
-            "cantidad": 1
-        },
-        {
-            "id": 912,
-            "nombre": "SINIESTRO",
             "cantidad": 1
         },
         {
@@ -4279,6 +4274,16 @@
         {
             "id": 903,
             "nombre": "BIZARRE",
+            "cantidad": 2
+        },
+        {
+            "id": 852,
+            "nombre": "ZANGIEF",
+            "cantidad": 1
+        },
+        {
+            "id": 478,
+            "nombre": "nurse",
             "cantidad": 1
         }
     ]
