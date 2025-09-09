@@ -969,7 +969,7 @@
         {
             "id": 471,
             "nombre": "Garland",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 647,
@@ -5119,6 +5119,11 @@
         {
             "id": 839,
             "nombre": "DJ",
+            "cantidad": 1
+        },
+        {
+            "id": 205,
+            "nombre": "Shrimp Louie",
             "cantidad": 1
         }
     ]
