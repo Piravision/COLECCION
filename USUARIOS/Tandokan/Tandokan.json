@@ -734,7 +734,7 @@
     {
       "id": 731,
       "nombre": "DB-119",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 509,
@@ -2404,7 +2404,7 @@
     {
       "id": 277,
       "nombre": "Baxter",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 796,
@@ -4129,6 +4129,11 @@
     {
       "id": 258,
       "nombre": "Mumm Ra",
+      "cantidad": 1
+    },
+    {
+      "id": 1003,
+      "nombre": "NINJA-ATORI",
       "cantidad": 1
     }
   ]
