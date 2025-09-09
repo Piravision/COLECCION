@@ -2344,7 +2344,7 @@
         {
             "id": 808,
             "nombre": "JOHNNY-CAGE",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 687,
@@ -4254,6 +4254,11 @@
         {
             "id": 258,
             "nombre": "Mumm Ra",
+            "cantidad": 1
+        },
+        {
+            "id": 827,
+            "nombre": "STRYKER",
             "cantidad": 1
         }
     ]
