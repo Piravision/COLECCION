@@ -2184,7 +2184,7 @@
         {
             "id": 860,
             "nombre": "MAHONEY-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 472,
@@ -3269,6 +3269,11 @@
         {
             "id": 832,
             "nombre": "BLANKA",
+            "cantidad": 1
+        },
+        {
+            "id": 861,
+            "nombre": "MARTY-JAIL",
             "cantidad": 1
         }
     ]
