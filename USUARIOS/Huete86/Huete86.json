@@ -2224,7 +2224,7 @@
         {
             "id": 687,
             "nombre": "DB-075",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 638,
@@ -4904,6 +4904,11 @@
         {
             "id": 271,
             "nombre": "Neutrinos",
+            "cantidad": 1
+        },
+        {
+            "id": 727,
+            "nombre": "DB-115",
             "cantidad": 1
         }
     ]
