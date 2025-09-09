@@ -1579,7 +1579,7 @@
         {
             "id": 410,
             "nombre": "Barón-Ashura",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 388,
@@ -5009,6 +5009,11 @@
         {
             "id": 515,
             "nombre": "Invasión-Saurians",
+            "cantidad": 1
+        },
+        {
+            "id": 290,
+            "nombre": "Tokka",
             "cantidad": 1
         }
     ]
