@@ -2219,7 +2219,7 @@
         {
             "id": 118,
             "nombre": "Man at Arms",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 666,
@@ -4599,6 +4599,11 @@
         {
             "id": 557,
             "nombre": "LUFFY-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 168,
+            "nombre": "Hobgoblin",
             "cantidad": 1
         }
     ]

@@ -489,7 +489,7 @@
     {
       "id": 484,
       "nombre": "Blowhard",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 123,
@@ -729,7 +729,7 @@
     {
       "id": 488,
       "nombre": "metalhead",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 298,
@@ -1344,7 +1344,7 @@
     {
       "id": 193,
       "nombre": "Jab",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 553,
@@ -3204,6 +3204,21 @@
     {
       "id": 1089,
       "nombre": "ACE-VENTURA",
+      "cantidad": 1
+    },
+    {
+      "id": 1202,
+      "nombre": "2Z-MEGAMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1130,
+      "nombre": "MARS-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 485,
+      "nombre": "Dr_Shemp",
       "cantidad": 1
     }
   ]
