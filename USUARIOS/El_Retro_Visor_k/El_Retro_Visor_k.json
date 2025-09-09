@@ -4769,7 +4769,7 @@
         {
             "id": 975,
             "nombre": "7-PENNY",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 964,
@@ -5069,6 +5069,11 @@
         {
             "id": 912,
             "nombre": "SINIESTRO",
+            "cantidad": 1
+        },
+        {
+            "id": 1104,
+            "nombre": "G-AUTILLO",
             "cantidad": 1
         }
     ]
