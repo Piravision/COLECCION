@@ -697,11 +697,6 @@
             "cantidad": 2
         },
         {
-            "id": 510,
-            "nombre": "PAUL",
-            "cantidad": 1
-        },
-        {
             "id": 565,
             "nombre": "ANDRÉ-THE-GIANT",
             "cantidad": 2
@@ -3274,6 +3269,11 @@
         {
             "id": 861,
             "nombre": "MARTY-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 762,
+            "nombre": "bkue",
             "cantidad": 1
         }
     ]
