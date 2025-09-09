@@ -339,7 +339,7 @@
         {
             "id": 486,
             "nombre": "gnasty-gnorc",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 455,
@@ -3304,6 +3304,11 @@
         {
             "id": 305,
             "nombre": "Runamuck",
+            "cantidad": 1
+        },
+        {
+            "id": 401,
+            "nombre": "cloud",
             "cantidad": 1
         }
     ]
