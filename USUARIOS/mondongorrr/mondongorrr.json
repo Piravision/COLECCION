@@ -1674,7 +1674,7 @@
         {
             "id": 754,
             "nombre": "Pandora",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 887,
@@ -4309,6 +4309,11 @@
         {
             "id": 311,
             "nombre": "Arcangel",
+            "cantidad": 1
+        },
+        {
+            "id": 298,
+            "nombre": "Prowl",
             "cantidad": 1
         }
     ]
