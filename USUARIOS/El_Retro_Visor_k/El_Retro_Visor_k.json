@@ -1854,7 +1854,7 @@
         {
             "id": 873,
             "nombre": "BLACK-WIDOW",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 862,
@@ -2699,7 +2699,7 @@
         {
             "id": 599,
             "nombre": "MARK-LENDERS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 205,
@@ -4489,7 +4489,7 @@
         {
             "id": 288,
             "nombre": "Splinter",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 594,
@@ -5039,7 +5039,7 @@
         {
             "id": 177,
             "nombre": "Carnage",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1135,
@@ -5079,6 +5079,11 @@
         {
             "id": 155,
             "nombre": "Lawrence Limburger_",
+            "cantidad": 1
+        },
+        {
+            "id": 583,
+            "nombre": "DANNY-MELOW",
             "cantidad": 1
         }
     ]
