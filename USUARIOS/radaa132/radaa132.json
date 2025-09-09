@@ -69,7 +69,7 @@
     {
       "id": 85,
       "nombre": "Niko",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 380,
@@ -164,7 +164,7 @@
     {
       "id": 134,
       "nombre": "Tri Klops",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 188,
@@ -444,7 +444,7 @@
     {
       "id": 667,
       "nombre": "DB-055",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 531,
@@ -669,7 +669,7 @@
     {
       "id": 724,
       "nombre": "DB-112",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 495,
@@ -819,7 +819,7 @@
     {
       "id": 243,
       "nombre": "Cheetara",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 310,
@@ -829,7 +829,7 @@
     {
       "id": 606,
       "nombre": "SANDY-WINTERS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 683,
@@ -994,7 +994,7 @@
     {
       "id": 78,
       "nombre": "myse",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 845,
@@ -1144,7 +1144,7 @@
     {
       "id": 427,
       "nombre": "psyco",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 583,
@@ -1334,12 +1334,12 @@
     {
       "id": 874,
       "nombre": "CAPTAIN-AMERICA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 217,
       "nombre": "Cobra   H.I.S.S.",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 117,
@@ -1724,7 +1724,7 @@
     {
       "id": 966,
       "nombre": "4-ROMY",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 960,
@@ -1844,7 +1844,7 @@
     {
       "id": 744,
       "nombre": "Dark-Deathmask-de-Cancer",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 532,
@@ -1859,7 +1859,7 @@
     {
       "id": 23,
       "nombre": "Amo del Calabozo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 530,
@@ -2189,7 +2189,7 @@
     {
       "id": 977,
       "nombre": "13-ODIE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 66,
@@ -2384,6 +2384,81 @@
     {
       "id": 938,
       "nombre": "VINCE-MCMAHON",
+      "cantidad": 1
+    },
+    {
+      "id": 1076,
+      "nombre": "X -MAGNETO",
+      "cantidad": 1
+    },
+    {
+      "id": 569,
+      "nombre": "MACHO-MAN",
+      "cantidad": 1
+    },
+    {
+      "id": 592,
+      "nombre": "JASON-DERRICK",
+      "cantidad": 2
+    },
+    {
+      "id": 331,
+      "nombre": "Mente Maestra",
+      "cantidad": 1
+    },
+    {
+      "id": 714,
+      "nombre": "DB-102",
+      "cantidad": 1
+    },
+    {
+      "id": 1056,
+      "nombre": "NOVA-2",
+      "cantidad": 1
+    },
+    {
+      "id": 61,
+      "nombre": "Borahorn",
+      "cantidad": 1
+    },
+    {
+      "id": 1097,
+      "nombre": "CZ-WISTON-ZEDDEMORE",
+      "cantidad": 1
+    },
+    {
+      "id": 15,
+      "nombre": "Zula",
+      "cantidad": 1
+    },
+    {
+      "id": 514,
+      "nombre": "Hálcon-Vigía",
+      "cantidad": 1
+    },
+    {
+      "id": 837,
+      "nombre": "DALSHIM",
+      "cantidad": 1
+    },
+    {
+      "id": 466,
+      "nombre": "Alessa",
+      "cantidad": 1
+    },
+    {
+      "id": 588,
+      "nombre": "FRANZ-SCHESTER",
+      "cantidad": 1
+    },
+    {
+      "id": 800,
+      "nombre": "RAS-AL-GHUL",
+      "cantidad": 1
+    },
+    {
+      "id": 242,
+      "nombre": "Tiger Force",
       "cantidad": 1
     }
   ]

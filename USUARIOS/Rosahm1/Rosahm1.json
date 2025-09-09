@@ -144,7 +144,7 @@
     {
       "id": 39,
       "nombre": "captain",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 167,
@@ -484,7 +484,7 @@
     {
       "id": 385,
       "nombre": "brio",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 67,
@@ -1304,7 +1304,7 @@
     {
       "id": 352,
       "nombre": "septimus",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 322,
@@ -1429,7 +1429,7 @@
     {
       "id": 351,
       "nombre": "reaper",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 424,
@@ -1469,7 +1469,7 @@
     {
       "id": 46,
       "nombre": "gome",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 654,
@@ -2719,7 +2719,7 @@
     {
       "id": 638,
       "nombre": "DB-026",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 851,
@@ -3014,7 +3014,7 @@
     {
       "id": 861,
       "nombre": "MARTY-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 505,
@@ -3024,7 +3024,7 @@
     {
       "id": 161,
       "nombre": "Steelwill",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 810,
@@ -3594,7 +3594,7 @@
     {
       "id": 981,
       "nombre": "14-ETHYL-PHILLIPS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 951,
@@ -4549,6 +4549,21 @@
     {
       "id": 1090,
       "nombre": "ANIMANIACS",
+      "cantidad": 1
+    },
+    {
+      "id": 879,
+      "nombre": "GHOST-RIDER",
+      "cantidad": 1
+    },
+    {
+      "id": 511,
+      "nombre": "YOSHI",
+      "cantidad": 1
+    },
+    {
+      "id": 891,
+      "nombre": "MODOK",
       "cantidad": 1
     }
   ]
