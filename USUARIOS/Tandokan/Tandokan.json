@@ -809,7 +809,7 @@
     {
       "id": 620,
       "nombre": "DB-008",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 118,
@@ -3774,7 +3774,7 @@
     {
       "id": 989,
       "nombre": "CAPITAN-HARLOCK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 872,
@@ -4149,6 +4149,11 @@
     {
       "id": 1030,
       "nombre": "BRUJA Y VISION",
+      "cantidad": 1
+    },
+    {
+      "id": 1015,
+      "nombre": "SHAGGY--&-SCOOBY-DOO",
       "cantidad": 1
     }
   ]
