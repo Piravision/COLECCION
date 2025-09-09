@@ -364,7 +364,7 @@
     {
       "id": 297,
       "nombre": "Optimus Prime",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 305,
@@ -984,7 +984,7 @@
     {
       "id": 375,
       "nombre": "Grobyc",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 318,
@@ -1409,7 +1409,7 @@
     {
       "id": 505,
       "nombre": "Hwoarang",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 543,
@@ -5334,6 +5334,31 @@
     {
       "id": 1023,
       "nombre": "4F- THE-FANTASTIC-4",
+      "cantidad": 1
+    },
+    {
+      "id": 1041,
+      "nombre": "FALCON-2",
+      "cantidad": 1
+    },
+    {
+      "id": 1137,
+      "nombre": "LOS-PICAPIEDRA",
+      "cantidad": 1
+    },
+    {
+      "id": 1110,
+      "nombre": "G-ZOLTAR",
+      "cantidad": 1
+    },
+    {
+      "id": 1059,
+      "nombre": "PUNISHER",
+      "cantidad": 1
+    },
+    {
+      "id": 1181,
+      "nombre": "DEXTER",
       "cantidad": 1
     }
   ]

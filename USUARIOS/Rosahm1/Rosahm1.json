@@ -674,7 +674,7 @@
     {
       "id": 408,
       "nombre": "Elisa--Gárgola",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 142,
@@ -2429,7 +2429,7 @@
     {
       "id": 754,
       "nombre": "Pandora",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 410,
@@ -2719,7 +2719,7 @@
     {
       "id": 638,
       "nombre": "DB-026",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 851,
@@ -3969,7 +3969,7 @@
     {
       "id": 965,
       "nombre": "4-RIGODON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 996,
@@ -4449,6 +4449,16 @@
     {
       "id": 776,
       "nombre": "zedd",
+      "cantidad": 1
+    },
+    {
+      "id": 1018,
+      "nombre": "SUB-MARINER",
+      "cantidad": 1
+    },
+    {
+      "id": 1107,
+      "nombre": "G-MARK",
       "cantidad": 1
     }
   ]

@@ -2094,7 +2094,7 @@
     {
       "id": 678,
       "nombre": "DB-066",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 302,
@@ -3534,7 +3534,7 @@
     {
       "id": 687,
       "nombre": "DB-075",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 279,
@@ -4109,6 +4109,11 @@
     {
       "id": 1140,
       "nombre": "PANTERA-ROSA",
+      "cantidad": 1
+    },
+    {
+      "id": 1102,
+      "nombre": "DENVER",
       "cantidad": 1
     }
   ]
