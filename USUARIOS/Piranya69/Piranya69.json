@@ -1389,7 +1389,7 @@
     {
       "id": 540,
       "nombre": "CHUCK-NORRIS",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 538,
@@ -3454,7 +3454,7 @@
     {
       "id": 620,
       "nombre": "DB-008",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 580,
@@ -4024,7 +4024,7 @@
     {
       "id": 957,
       "nombre": "2-MONTERREY-JACK",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 806,
@@ -5359,6 +5359,31 @@
     {
       "id": 1181,
       "nombre": "DEXTER",
+      "cantidad": 1
+    },
+    {
+      "id": 1036,
+      "nombre": "CAPITAN MARVEL",
+      "cantidad": 1
+    },
+    {
+      "id": 286,
+      "nombre": "Shredder",
+      "cantidad": 1
+    },
+    {
+      "id": 1034,
+      "nombre": "CAPITAN BRITANIA-2",
+      "cantidad": 1
+    },
+    {
+      "id": 1097,
+      "nombre": "CZ-WISTON-ZEDDEMORE",
+      "cantidad": 1
+    },
+    {
+      "id": 1154,
+      "nombre": "CATWOMAN",
       "cantidad": 1
     }
   ]
