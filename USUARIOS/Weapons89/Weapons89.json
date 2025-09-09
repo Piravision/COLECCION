@@ -1664,7 +1664,7 @@
     {
       "id": 888,
       "nombre": "LOKI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 905,
@@ -2094,7 +2094,7 @@
     {
       "id": 146,
       "nombre": "Siege",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 689,
@@ -3064,7 +3064,7 @@
     {
       "id": 938,
       "nombre": "VINCE-MCMAHON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 846,
@@ -3219,6 +3219,21 @@
     {
       "id": 485,
       "nombre": "Dr_Shemp",
+      "cantidad": 1
+    },
+    {
+      "id": 1061,
+      "nombre": "SHANG-CHI",
+      "cantidad": 1
+    },
+    {
+      "id": 216,
+      "nombre": "Centinela",
+      "cantidad": 1
+    },
+    {
+      "id": 19,
+      "nombre": "Set",
       "cantidad": 1
     }
   ]

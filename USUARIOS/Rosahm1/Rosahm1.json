@@ -2774,7 +2774,7 @@
         {
             "id": 903,
             "nombre": "BIZARRE",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 455,
@@ -4604,6 +4604,11 @@
         {
             "id": 168,
             "nombre": "Hobgoblin",
+            "cantidad": 1
+        },
+        {
+            "id": 912,
+            "nombre": "SINIESTRO",
             "cantidad": 1
         }
     ]

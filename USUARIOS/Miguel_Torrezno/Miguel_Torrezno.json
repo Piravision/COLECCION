@@ -854,7 +854,7 @@
     {
       "id": 109,
       "nombre": "Cobra Commander",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 351,
@@ -2629,7 +2629,7 @@
     {
       "id": 1182,
       "nombre": "JAYCE-Y-LOS-GUERREROS-RODANTES",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 989,
@@ -2744,6 +2744,11 @@
     {
       "id": 776,
       "nombre": "zedd",
+      "cantidad": 1
+    },
+    {
+      "id": 387,
+      "nombre": "Koala",
       "cantidad": 1
     }
   ]

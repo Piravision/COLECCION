@@ -1829,7 +1829,7 @@
         {
             "id": 912,
             "nombre": "SINIESTRO",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 627,
@@ -4274,6 +4274,11 @@
         {
             "id": 118,
             "nombre": "Man at Arms",
+            "cantidad": 1
+        },
+        {
+            "id": 903,
+            "nombre": "BIZARRE",
             "cantidad": 1
         }
     ]
