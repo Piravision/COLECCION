@@ -3339,7 +3339,7 @@
         {
             "id": 804,
             "nombre": "BARAKA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 888,
@@ -4929,6 +4929,11 @@
         {
             "id": 811,
             "nombre": "KITANA",
+            "cantidad": 1
+        },
+        {
+            "id": 827,
+            "nombre": "STRYKER",
             "cantidad": 1
         }
     ]
