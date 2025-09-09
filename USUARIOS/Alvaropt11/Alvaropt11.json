@@ -1579,7 +1579,7 @@
         {
             "id": 445,
             "nombre": "claire",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 623,
@@ -5114,6 +5114,11 @@
         {
             "id": 170,
             "nombre": "J. Jonah Jameson",
+            "cantidad": 1
+        },
+        {
+            "id": 839,
+            "nombre": "DJ",
             "cantidad": 1
         }
     ]
