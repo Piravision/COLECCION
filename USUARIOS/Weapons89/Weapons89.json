@@ -619,7 +619,7 @@
         {
             "id": 515,
             "nombre": "Invasión-Saurians",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 55,
@@ -3354,6 +3354,11 @@
         {
             "id": 856,
             "nombre": "BEETLEJUICE-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 772,
+            "nombre": "Rita-Repulsa",
             "cantidad": 1
         }
     ]
