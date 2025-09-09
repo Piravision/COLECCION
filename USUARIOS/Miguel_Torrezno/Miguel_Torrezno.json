@@ -2474,7 +2474,7 @@
         {
             "id": 1089,
             "nombre": "ACE-VENTURA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 591,
@@ -2724,6 +2724,11 @@
         {
             "id": 510,
             "nombre": "PAUL",
+            "cantidad": 1
+        },
+        {
+            "id": 748,
+            "nombre": "HAdes2",
             "cantidad": 1
         }
     ]

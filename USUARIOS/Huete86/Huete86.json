@@ -1689,7 +1689,7 @@
     {
       "id": 224,
       "nombre": "Guarida Tortuga",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 639,
@@ -1859,7 +1859,7 @@
     {
       "id": 611,
       "nombre": "TERRY-DENTON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 538,
@@ -4969,6 +4969,11 @@
     {
       "id": 982,
       "nombre": "14-FRAN-SINCLAIR",
+      "cantidad": 1
+    },
+    {
+      "id": 1229,
+      "nombre": "MIGHTY-MAX",
       "cantidad": 1
     }
   ]
