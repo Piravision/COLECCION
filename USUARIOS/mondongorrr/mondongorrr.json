@@ -909,7 +909,7 @@
         {
             "id": 816,
             "nombre": "QUAN-CHI",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 464,
@@ -4299,6 +4299,11 @@
         {
             "id": 164,
             "nombre": "Black Cat",
+            "cantidad": 1
+        },
+        {
+            "id": 198,
+            "nombre": "Slammu",
             "cantidad": 1
         }
     ]
