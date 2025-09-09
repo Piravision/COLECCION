@@ -1859,7 +1859,7 @@
         {
             "id": 611,
             "nombre": "TERRY-DENTON",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 538,
@@ -4954,6 +4954,11 @@
         {
             "id": 695,
             "nombre": "DB-083",
+            "cantidad": 1
+        },
+        {
+            "id": 714,
+            "nombre": "DB-102",
             "cantidad": 1
         }
     ]
