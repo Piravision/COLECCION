@@ -2714,7 +2714,7 @@
     {
       "id": 199,
       "nombre": "Streex",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 921,
@@ -2879,7 +2879,7 @@
     {
       "id": 364,
       "nombre": "HulkHogan",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 874,
@@ -3189,6 +3189,11 @@
     {
       "id": 274,
       "nombre": "Ray Fillet",
+      "cantidad": 1
+    },
+    {
+      "id": 28,
+      "nombre": "Presto",
       "cantidad": 1
     }
   ]
