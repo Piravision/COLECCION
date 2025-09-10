@@ -2129,7 +2129,7 @@
         {
             "id": 954,
             "nombre": "2-CHIP",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 963,
@@ -3579,6 +3579,11 @@
         {
             "id": 1014,
             "nombre": "YUGI",
+            "cantidad": 1
+        },
+        {
+            "id": 796,
+            "nombre": "MAN-BAT",
             "cantidad": 1
         }
     ]
