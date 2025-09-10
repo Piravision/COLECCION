@@ -1729,7 +1729,7 @@
         {
             "id": 347,
             "nombre": "Lizard",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 709,
@@ -1819,7 +1819,7 @@
         {
             "id": 605,
             "nombre": "ROBERTO-SEDINHO",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 535,
@@ -1849,7 +1849,7 @@
         {
             "id": 443,
             "nombre": "ada",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 4,
@@ -1879,7 +1879,7 @@
         {
             "id": 275,
             "nombre": "Usagi Yojimbo",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 413,
@@ -1919,7 +1919,7 @@
         {
             "id": 396,
             "nombre": "aeris",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 511,
@@ -2074,7 +2074,7 @@
         {
             "id": 133,
             "nombre": "Trap Jaw",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 716,
@@ -2339,7 +2339,7 @@
         {
             "id": 242,
             "nombre": "Tiger Force",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 724,
@@ -2519,7 +2519,7 @@
         {
             "id": 572,
             "nombre": "Sgt.-SLAUGTHER",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 743,
@@ -2849,7 +2849,7 @@
         {
             "id": 782,
             "nombre": "BATMAN",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 799,
@@ -3159,7 +3159,7 @@
         {
             "id": 864,
             "nombre": "RAMBO-JAIL",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 719,
@@ -3864,7 +3864,7 @@
         {
             "id": 199,
             "nombre": "Streex",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 436,
@@ -4414,7 +4414,7 @@
         {
             "id": 1121,
             "nombre": "RUGRATS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 990,
@@ -5054,6 +5054,16 @@
         {
             "id": 1117,
             "nombre": "PF-PITUFINA",
+            "cantidad": 1
+        },
+        {
+            "id": 1064,
+            "nombre": "SP- VENOM-2",
+            "cantidad": 1
+        },
+        {
+            "id": 897,
+            "nombre": "SPIDER-MAN",
             "cantidad": 1
         }
     ]

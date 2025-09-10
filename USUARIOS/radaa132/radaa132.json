@@ -129,7 +129,7 @@
     {
       "id": 233,
       "nombre": "Mutant Tank",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 529,
@@ -2259,7 +2259,7 @@
     {
       "id": 238,
       "nombre": "Snake Mountain",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1111,
@@ -2494,6 +2494,26 @@
     {
       "id": 213,
       "nombre": "Blackbird",
+      "cantidad": 1
+    },
+    {
+      "id": 872,
+      "nombre": "BLACK-PANTHER",
+      "cantidad": 1
+    },
+    {
+      "id": 300,
+      "nombre": "Wheeljack",
+      "cantidad": 1
+    },
+    {
+      "id": 1156,
+      "nombre": "ELONGATE MAN",
+      "cantidad": 1
+    },
+    {
+      "id": 341,
+      "nombre": "Crocodine Malvado",
       "cantidad": 1
     }
   ]
