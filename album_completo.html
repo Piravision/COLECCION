@@ -17356,7 +17356,7 @@
 			modalImg.src = imagenUrl;
 			
 			// LÍNEA A AÑADIR - Aquí está la magia
-			modalCardContainer.style.setProperty('--card-mask', `url("${imagenUrl}")`);
+			modalCardContainer.style.setProperty('--card-mask', `url(${imagenUrl})`);
 			
 			modalInfo.innerHTML = `<h3>Nº: ${cromoId} - ${cromoNombre}</h3>`;
 			modal.classList.add("visible");
