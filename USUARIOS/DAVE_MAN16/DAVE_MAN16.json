@@ -194,7 +194,7 @@
     {
       "id": 1,
       "nombre": "30 30",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 49,
@@ -404,7 +404,7 @@
     {
       "id": 156,
       "nombre": "Lord Camembert",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 542,
@@ -1574,7 +1574,7 @@
     {
       "id": 294,
       "nombre": "Hound",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 824,
@@ -1919,7 +1919,7 @@
     {
       "id": 2,
       "nombre": "Bravestarr",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1114,
@@ -1939,7 +1939,7 @@
     {
       "id": 739,
       "nombre": "Athenea",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 750,
@@ -2054,7 +2054,7 @@
     {
       "id": 855,
       "nombre": "ALIEN-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 116,
@@ -2214,6 +2214,21 @@
     {
       "id": 1195,
       "nombre": "1-LUIGI",
+      "cantidad": 1
+    },
+    {
+      "id": 731,
+      "nombre": "DB-119",
+      "cantidad": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Juez J. Bella",
+      "cantidad": 1
+    },
+    {
+      "id": 89,
+      "nombre": "Angela",
       "cantidad": 1
     }
   ]

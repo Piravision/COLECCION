@@ -53,8 +53,32 @@
         .modal { display: none; position: fixed; z-index: 100; left: 0; top: 0; width: 100%; height: 100%; overflow: auto; background-color: rgba(0,0,0,0.9); align-items: center; justify-content: center; perspective: 1000px; }
         .modal.visible { display: flex; }
         .modal-container-content { display: flex; flex-direction: column; align-items: center; }
-        #modal-card-container { position: relative; transform-style: preserve-3d; transition: transform 0.1s linear, box-shadow 0.4s ease-out, border-color 0.4s ease-out; border-radius: 15px; overflow: hidden; display: inline-block; transform: translateZ(0); }
-        #modal-card-container::before { content: ""; position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0; transition: opacity 0.25s ease-out; mix-blend-mode: color-dodge; pointer-events: none; z-index: 2; }
+        
+		/* Contenedor de la carta para el efecto 3D */
+		#modal-card-container {
+			position: relative;
+			transform-style: preserve-3d;
+			transition: transform 0.1s linear, box-shadow 0.4s ease-out, border-color 0.4s ease-out;
+			/* border-radius: 15px; */ /* Desactivamos el borde redondeado, la máscara define la forma */
+			/* overflow: hidden; */  /* Ya no es necesario con la máscara */
+			display: inline-block;
+			transform: translateZ(0);
+
+			/* --- LÍNEAS NUEVAS Y CLAVE PARA LA MÁSCARA --- */
+			-webkit-mask-image: var(--card-mask); /* Para compatibilidad con Chrome/Safari */
+			mask-image: var(--card-mask);         /* La máscara que usará la forma del cromo */
+			-webkit-mask-size: contain;
+			mask-size: contain;                   /* La máscara se ajusta al tamaño del contenedor */
+			-webkit-mask-repeat: no-repeat;
+			mask-repeat: no-repeat;               /* La máscara no se repite */
+			-webkit-mask-position: center;
+			mask-position: center;                /* La máscara se centra */
+		}
+		
+		
+		
+		
+		#modal-card-container::before { content: ""; position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0; transition: opacity 0.25s ease-out; mix-blend-mode: color-dodge; pointer-events: none; z-index: 2; }
         #modal-card-container:hover::before { opacity: 1; }
         .modal-content { border-radius: 15px; display: block; width: auto; height: auto; max-width: 500px; max-height: 80vh; position: relative; z-index: 1; }
         .modal-info { margin-top: 20px; }
@@ -284,20 +308,12 @@
 
     <div id="myModal" class="modal">
 		<span class="close" onclick="closeModal()">&times;</span>
-
-		<div id="modal-card-container" class="card">
-			<div class="card__translater">
-				<div class="card__rotator">
-
-					<div class="card__holo">
-						<img class="modal-content" id="imgModal">
-					</div>
-
-				</div>
+		<div class="modal-container-content">
+			<div id="modal-card-container">
+				<img class="modal-content" id="imgModal">
 			</div>
+			<div id="modal-info" class="modal-info"></div>
 		</div>
-
-		<div id="modal-info" class="modal-info"></div>
 	</div>
     
     <script>
@@ -367,6 +383,11 @@
 				const serieClassName = 'serie-' + cromoSerie.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
 				modalCardContainer.classList.add(serieClassName);
 			}
+			
+			// --- LÍNEA NUEVA Y CLAVE ---
+			// Le decimos al CSS que use la URL de la imagen del cromo como máscara
+			modalCardContainer.style.setProperty('--card-mask', `url(${imagenUrl})`);
+			
 			
 			// Cargamos datos y mostramos
 			modalImg.src = imagenUrl;

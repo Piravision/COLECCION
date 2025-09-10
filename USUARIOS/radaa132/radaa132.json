@@ -424,7 +424,7 @@
     {
       "id": 68,
       "nombre": "galdandy",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 419,
@@ -749,7 +749,7 @@
     {
       "id": 435,
       "nombre": "vulkan2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 543,
@@ -949,7 +949,7 @@
     {
       "id": 152,
       "nombre": "Dr. Karbunkle",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 201,
@@ -1589,7 +1589,7 @@
     {
       "id": 372,
       "nombre": "RENARD",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 809,
@@ -1694,7 +1694,7 @@
     {
       "id": 727,
       "nombre": "DB-115",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 389,
@@ -2459,6 +2459,41 @@
     {
       "id": 242,
       "nombre": "Tiger Force",
+      "cantidad": 1
+    },
+    {
+      "id": 876,
+      "nombre": "DORMAMMU",
+      "cantidad": 1
+    },
+    {
+      "id": 1203,
+      "nombre": "2Z-PAC-MAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1010,
+      "nombre": "LUPIN-III",
+      "cantidad": 1
+    },
+    {
+      "id": 448,
+      "nombre": "leon1",
+      "cantidad": 1
+    },
+    {
+      "id": 1079,
+      "nombre": "X -ROGUE",
+      "cantidad": 1
+    },
+    {
+      "id": 202,
+      "nombre": "Killamari",
+      "cantidad": 1
+    },
+    {
+      "id": 213,
+      "nombre": "Blackbird",
       "cantidad": 1
     }
   ]
