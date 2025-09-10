@@ -186,7 +186,7 @@
 		background-color: rgba(0,0,0,0.9);
 		align-items: center;
 		justify-content: center;
-		perspective: 1000px;
+		
 	}
 	.modal.visible {
 		display: flex;
@@ -199,6 +199,7 @@
 	#modal-card-container {
 		position: relative;
 		transform-style: preserve-3d;
+		perspective: 1000px;
 		transition: transform 0.1s linear;
 		display: inline-block;
 		transform: translateZ(0);
@@ -17355,7 +17356,7 @@
 			modalImg.src = imagenUrl;
 			
 			// LÍNEA A AÑADIR - Aquí está la magia
-			modalCardContainer.style.setProperty('--card-mask', `url(${imagenUrl})`);
+			modalCardContainer.style.setProperty('--card-mask', `url("${imagenUrl}")`);
 			
 			modalInfo.innerHTML = `<h3>Nº: ${cromoId} - ${cromoNombre}</h3>`;
 			modal.classList.add("visible");
