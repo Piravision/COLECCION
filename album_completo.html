@@ -365,7 +365,6 @@
 		
 		/* ESTA ES LA REGLA CORREGIDA */
 	.modal-content {
-		
 		display: block;
 		
 		/* ---- LÍNEAS NUEVAS Y CRUCIALES ---- */
@@ -584,6 +583,24 @@
 		box-shadow: 0 0 15px #ffeb3b;
 	}
 	/* --- FIN: Estilos para la Selección de Cromos de Intercambio --- */
+	
+	/* --- INICIO: CÓDIGO DE DIAGNÓSTICO TEMPORAL --- */
+
+	#modal-card-container::before {
+		/* Forzamos un fondo rojo simple en lugar del holográfico */
+		background: rgba(255, 0, 0, 0.7) !important; 
+		
+		/* Nos aseguramos de que sea visible al pasar el ratón por encima */
+		opacity: 0 !important;
+	}
+
+	#modal-card-container:hover::before {
+		opacity: 1 !important;
+	}
+
+	/* --- FIN: CÓDIGO DE DIAGNÓSTICO --- */
+	
+	
 	
 	</style>
 </head>
