@@ -4404,7 +4404,7 @@
     {
       "id": 981,
       "nombre": "14-ETHYL-PHILLIPS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 983,
@@ -5174,7 +5174,7 @@
     {
       "id": 975,
       "nombre": "7-PENNY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1019,
@@ -5314,6 +5314,26 @@
     {
       "id": 950,
       "nombre": "1-PORTHOS",
+      "cantidad": 1
+    },
+    {
+      "id": 1111,
+      "nombre": "G1-COMANDO-G",
+      "cantidad": 1
+    },
+    {
+      "id": 1095,
+      "nombre": "CZ-PETER-VENKMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1141,
+      "nombre": "PATOAVENTURAS",
+      "cantidad": 1
+    },
+    {
+      "id": 1182,
+      "nombre": "JAYCE-Y-LOS-GUERREROS-RODANTES",
       "cantidad": 1
     }
   ]

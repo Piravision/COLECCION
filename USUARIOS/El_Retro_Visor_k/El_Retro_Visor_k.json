@@ -4249,7 +4249,7 @@
         {
             "id": 980,
             "nombre": "14-EARL-SINCLAIR",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 800,
@@ -5084,6 +5084,26 @@
         {
             "id": 583,
             "nombre": "DANNY-MELOW",
+            "cantidad": 1
+        },
+        {
+            "id": 1229,
+            "nombre": "MIGHTY-MAX",
+            "cantidad": 2
+        },
+        {
+            "id": 1180,
+            "nombre": "C3PO-R2D2",
+            "cantidad": 1
+        },
+        {
+            "id": 1182,
+            "nombre": "JAYCE-Y-LOS-GUERREROS-RODANTES",
+            "cantidad": 1
+        },
+        {
+            "id": 1109,
+            "nombre": "G-ZARK-7-&-ROBERTO-1",
             "cantidad": 1
         }
     ]
