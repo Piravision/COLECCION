@@ -104,7 +104,7 @@
     {
       "id": 221,
       "nombre": "Espada Atlantean",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 244,
@@ -639,7 +639,7 @@
     {
       "id": 512,
       "nombre": "Dimensión-X",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 523,
@@ -1009,7 +1009,7 @@
     {
       "id": 573,
       "nombre": "ULTIMATE-WARRIOR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 185,
@@ -1419,7 +1419,7 @@
     {
       "id": 682,
       "nombre": "DB-070",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 771,
@@ -2549,7 +2549,7 @@
     {
       "id": 44,
       "nombre": "Fly",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 49,
@@ -2799,6 +2799,26 @@
     {
       "id": 868,
       "nombre": "ANT-MAN",
+      "cantidad": 1
+    },
+    {
+      "id": 840,
+      "nombre": "FEI-LONG",
+      "cantidad": 1
+    },
+    {
+      "id": 1075,
+      "nombre": "X -COLOSO",
+      "cantidad": 1
+    },
+    {
+      "id": 34,
+      "nombre": "Avan",
+      "cantidad": 1
+    },
+    {
+      "id": 82,
+      "nombre": "zaboera",
       "cantidad": 1
     }
   ]
