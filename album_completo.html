@@ -296,42 +296,47 @@
 		background-position: var(--mouse-x) var(--mouse-y), 0 0;
 		background-repeat: no-repeat, repeat;
 	}
-	/* --- INICIO: MARCOS DE NEÓN POR RAREZA (CON ANIMACIÓN PERMANENTE) --- */
+	/* --- INICIO: MARCOS DE NEÓN ADAPTADOS A LA IMAGEN (CON ANIMACIÓN) --- */
 
-	/* 1. Marco plateado para la rareza COMÚN */
-	#modal-card-container.Común {
-		border: 3px solid #E0E0E0;
-		box-shadow: 0 0 15px #C0C0C0, 
-					inset 0 0 10px 2px #FFFFFF;
-		--glow-color: #C0C0C0;
-		
-		/* Animación lenta e infinita */
-		animation: neon-pulse 3s ease-in-out infinite; 
+	/* Aplicamos la animación y definimos las variables de color en el contenedor */
+	#modal-card-container.Común { --glow-color: #C0C0C0; }
+	#modal-card-container.Raro { --glow-color: #3498db; }
+	#modal-card-container.Legendario { --glow-color: #FFD700; }
+
+	/* El objetivo de la animación es la imagen dentro del contenedor */
+	#modal-card-container .modal-content {
+		animation: neon-filter-pulse 3s ease-in-out infinite;
+		/* Estado inicial de la animación para que se vea bien desde el principio */
+		filter: 
+			drop-shadow(0 0 4px var(--glow-color))
+			drop-shadow(0 0 12px var(--glow-color));
 	}
 
-	/* 2. Marco azul metalizado para la rareza RARO */
-	#modal-card-container.Raro {
-		border: 3px solid #77b6e9;
-		box-shadow: 0 0 18px #3498db, 
-					inset 0 0 10px 2px #FFFFFF;
-		--glow-color: #3498db;
-		
-		/* MISMA animación lenta e infinita */
-		animation: neon-pulse 3s ease-in-out infinite; 
+	/* --- FIN: MARCOS DE NEÓN ADAPTADOS A LA IMAGEN --- */
+
+
+	/* --- INICIO: NUEVA ANIMACIÓN DE PULSO CON FILTER --- */
+
+	@keyframes neon-filter-pulse {
+	  0% {
+		filter: 
+			drop-shadow(0 0 4px var(--glow-color))
+			drop-shadow(0 0 12px var(--glow-color));
+	  }
+	  70% {
+		/* En el pico de la animación, el brillo es más intenso y extenso */
+		filter: 
+			drop-shadow(0 0 8px var(--glow-color))
+			drop-shadow(0 0 25px var(--glow-color));
+	  }
+	  100% {
+		filter: 
+			drop-shadow(0 0 4px var(--glow-color))
+			drop-shadow(0 0 12px var(--glow-color));
+	  }
 	}
 
-	/* 3. Marco dorado metalizado para la rareza LEGENDARIO */
-	#modal-card-container.Legendario {
-		border: 3px solid #FFEE75;
-		box-shadow: 0 0 25px #FFD700, 
-					inset 0 0 12px 3px #FFFFFF;
-		--glow-color: #FFD700;
-		
-		/* MISMA animación lenta e infinita */
-		animation: neon-pulse 3s ease-in-out infinite; 
-	}
-
-	/* --- FIN: MARCOS DE NEÓN POR RAREZA --- */
+	/* --- FIN: NUEVA ANIMACIÓN DE PULSO CON FILTER --- */
 		
 		
 		/* ESTA ES LA REGLA CORREGIDA */
@@ -475,25 +480,7 @@
 	}
 
 	/* --- FIN: ESTILOS RESPONSIVE PARA MÓVILES --- */
-	/* --- INICIO: ANIMACIÓN DE PULSO NEÓN PARA MÓVILES --- */
-
-	@keyframes neon-pulse {
-	  0% {
-		/* El brillo empieza como lo tienes ahora */
-		box-shadow: inherit;
-	  }
-	  70% {
-		/* A mitad de la animación, el brillo se vuelve mucho más intenso */
-		box-shadow: 0 0 40px var(--glow-color, #fff), 
-					inset 0 0 15px 4px #FFFFFF;
-	  }
-	  100% {
-		/* Al final, vuelve a su estado normal y se queda fijo */
-		box-shadow: inherit;
-	  }
-	}
-
-	/* --- FIN: ANIMACIÓN DE PULSO NEÓN PARA MÓVILES --- */
+	
 	/* --- INICIO: Estilos para el Comparador de Colecciones --- */
 	.comparison-container {
 		background: rgba(255, 255, 255, 0.07);
