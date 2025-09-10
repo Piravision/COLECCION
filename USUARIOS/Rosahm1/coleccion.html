@@ -243,24 +243,27 @@
 	}
 	
 	#modal-card-container.Legendario::before {
-	  content: "";
-	  position: absolute;
-	  inset: 0;
-	  z-index: 4; /* asegúrate de que va por encima del glow pero debajo de la imagen */
-	  pointer-events: none;
-
-	  /* Patrón animado holográfico estilo Simey */
-	  background: repeating-linear-gradient(
-		60deg,
-		rgba(255, 0, 255, 0.25) 0px,
-		rgba(0, 255, 255, 0.25) 5px,
-		rgba(255, 255, 0, 0.25) 10px
-	  );
-	  background-size: 300% 300%;
-	  animation: holoShift 15s linear infinite;
+	  background-image: 
+		url("https://assets.codepen.io/13471/sparkles.gif"),
+		url("https://assets.codepen.io/13471/holo.png"),
+		linear-gradient(
+		  125deg,
+		  #ff008450 15%,
+		  #fca40040 30%,
+		  #ffff0030 40%,
+		  #00ff8a20 60%,
+		  #00cfff40 70%,
+		  #cc4cfa50 85%
+		);
+	  background-position: 50% 50%;
+	  background-size: 160%;
+	  background-blend-mode: overlay;
 	  mix-blend-mode: color-dodge;
+	  filter: brightness(1) contrast(1);
+	  opacity: .75;
+	  transition: all .33s ease;
 
-	  /* máscara para que se ajuste a la forma del cromo */
+	  /* Mantén la máscara para recortar al cromo */
 	  -webkit-mask-image: var(--card-mask);
 	  -webkit-mask-repeat: no-repeat;
 	  -webkit-mask-size: contain;
@@ -269,12 +272,6 @@
 	  mask-repeat: no-repeat;
 	  mask-size: contain;
 	  mask-position: center;
-	}
-
-	@keyframes holoShift {
-	  0%   { background-position: 0% 50%; }
-	  50%  { background-position: 100% 50%; }
-	  100% { background-position: 0% 50%; }
 	}
 
 	
@@ -2186,7 +2183,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>ED-WARNER (x3)</h3>
+                                                <h3>ED-WARNER (x4)</h3>
                                                 <p>Rareza: Raro</p>
                                             </div>
                                         </div>
@@ -5864,7 +5861,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>DB-121 (x2)</h3>
+                                                <h3>DB-121 (x3)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -12827,7 +12824,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>BRUCE-LEE (x4)</h3>
+                                                <h3>BRUCE-LEE (x5)</h3>
                                                 <p>Rareza: Legendario</p>
                                             </div>
                                         </div>
