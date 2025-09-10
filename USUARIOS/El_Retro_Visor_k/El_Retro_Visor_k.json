@@ -9,7 +9,7 @@
         {
             "id": 438,
             "nombre": "molluck",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 297,
@@ -229,7 +229,7 @@
         {
             "id": 94,
             "nombre": "Goliath",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 202,
@@ -689,7 +689,7 @@
         {
             "id": 50,
             "nombre": "Lonberuk",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 467,
@@ -979,7 +979,7 @@
         {
             "id": 437,
             "nombre": "ellum",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 400,
@@ -1039,7 +1039,7 @@
         {
             "id": 621,
             "nombre": "DB-009",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 421,
@@ -1089,7 +1089,7 @@
         {
             "id": 523,
             "nombre": "lara2",
-            "cantidad": 3
+            "cantidad": 5
         },
         {
             "id": 716,
@@ -1704,7 +1704,7 @@
         {
             "id": 522,
             "nombre": "lara",
-            "cantidad": 1
+            "cantidad": 3
         },
         {
             "id": 195,
@@ -3989,7 +3989,7 @@
         {
             "id": 439,
             "nombre": "mudokons",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 507,
@@ -4539,7 +4539,7 @@
         {
             "id": 937,
             "nombre": "TRIPLE-H",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 803,
@@ -4709,7 +4709,7 @@
         {
             "id": 1119,
             "nombre": "PF-PITUFO-FORTACHON",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1116,
@@ -4759,7 +4759,7 @@
         {
             "id": 1107,
             "nombre": "G-MARK",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1007,
@@ -5119,6 +5119,26 @@
         {
             "id": 1121,
             "nombre": "RUGRATS",
+            "cantidad": 1
+        },
+        {
+            "id": 1225,
+            "nombre": "SORA",
+            "cantidad": 1
+        },
+        {
+            "id": 1227,
+            "nombre": "VIVI",
+            "cantidad": 1
+        },
+        {
+            "id": 674,
+            "nombre": "DB-062",
+            "cantidad": 1
+        },
+        {
+            "id": 914,
+            "nombre": "SUPERMAN",
             "cantidad": 1
         }
     ]

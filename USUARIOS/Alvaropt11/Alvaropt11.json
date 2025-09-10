@@ -424,7 +424,7 @@
     {
       "id": 522,
       "nombre": "lara",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 268,
@@ -2529,7 +2529,7 @@
     {
       "id": 523,
       "nombre": "lara2",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 831,
@@ -5154,6 +5154,26 @@
     {
       "id": 1100,
       "nombre": "D-GOSALYN",
+      "cantidad": 1
+    },
+    {
+      "id": 1205,
+      "nombre": "3-TAILS",
+      "cantidad": 1
+    },
+    {
+      "id": 1199,
+      "nombre": "1Z-WARIO",
+      "cantidad": 1
+    },
+    {
+      "id": 1209,
+      "nombre": "4-DOUBLE-DRAGON",
+      "cantidad": 1
+    },
+    {
+      "id": 1222,
+      "nombre": "LINK",
       "cantidad": 1
     }
   ]
