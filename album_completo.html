@@ -250,8 +250,10 @@
 	#modal-card-container.Común { --glow-color: #C0C0C0; }
 	#modal-card-container.Raro { --glow-color: #3498db; }
 	#modal-card-container.Legendario { --glow-color: #FFD700; }
+	/* === IMAGEN: mantener la animación pero quitar máscara para evitar recortes === */
 	#modal-card-container .modal-content {
 		animation: neon-filter-pulse 3s ease-in-out infinite;
+		/* opcional: keep the drop-shadow as subtle fallback */
 		filter:
 			drop-shadow(0 0 4px var(--glow-color))
 			drop-shadow(0 0 12px var(--glow-color));
@@ -260,20 +262,53 @@
 		height: auto;
 		max-width: 500px;
 		max-height: 80vh;
-		
-		 /* --- LÍNEAS A AÑADIR --- */
-		-webkit-mask-image: var(--card-mask);
-		mask-image: var(--card-mask);
-		-webkit-mask-size: contain;
-		mask-size: contain;
-		-webkit-mask-repeat: no-repeat;
-		mask-repeat: no-repeat;
-		-webkit-mask-position: center;
-		mask-position: center;
-	
-	
-	
+		position: relative;
+		z-index: 3; /* por encima del glow y del overlay */
+		/* desactivar máscara en la imagen — la máscara la usaremos en pseudo-elementos */
+		-webkit-mask-image: none !important;
+		mask-image: none !important;
 	}
+
+	/* === PSEUDO: capa que crea el borde/neón (usa la misma máscara) === */
+	#modal-card-container {
+		position: relative;
+		--card-mask: none; /* valor por defecto */
+	}
+
+	#modal-card-container::after {
+		content: "";
+		position: absolute;
+		/* expandimos hacia fuera para que el blur "fluya" fuera de la silueta */
+		inset: -16px;
+		z-index: 2; /* debajo de la imagen (z-index:3) y encima del fondo */
+		pointer-events: none;
+
+		/* usar la máscara (la variable --card-mask se setea desde JS) */
+		-webkit-mask-image: var(--card-mask);
+		-webkit-mask-size: contain;
+		-webkit-mask-repeat: no-repeat;
+		-webkit-mask-position: center;
+		mask-image: var(--card-mask);
+		mask-size: contain;
+		mask-repeat: no-repeat;
+		mask-position: center;
+
+		/* fondo que será teñido por la rareza */
+		background: radial-gradient(circle at center, var(--glow-color), transparent 45%);
+		filter: blur(12px) saturate(140%);
+		opacity: 0.95;
+		transition: opacity .2s ease;
+		mix-blend-mode: screen;
+	}
+
+	/* ganchos por rareza — ajusta el color y la intensidad como prefieras */
+	#modal-card-container.Común { --glow-color: rgba(192,192,192,0.95); }
+	#modal-card-container.Raro { --glow-color: rgba(52,152,219,0.95); }
+	#modal-card-container.Legendario { --glow-color: rgba(255,215,0,0.95); }
+
+	/* si quieres que el holo/patron quede por encima de la imagen, sube su z-index */
+	#modal-card-container::before { z-index: 4; } /* tu ::before ya tiene z-index:2; ajusta si es necesario */
+
 	@keyframes neon-filter-pulse {
 		0%, 100% {
 			filter:
@@ -17365,10 +17400,13 @@
 			if (cromoRareza) {
 				modalCardContainer.classList.add(cromoRareza);
 			}
+			// intenta evitar problemas CORS si la imagen viene de otro origen
+			modalImg.crossOrigin = "anonymous";
+			// setear máscara (se expandirá en ::after para el glow)
+			modalCardContainer.style.setProperty('--card-mask', `url('${imagenUrl}')`);
+			// cargar imagen después de setear crossOrigin
 			modalImg.src = imagenUrl;
-			
-			// LÍNEA A AÑADIR - Aquí está la magia
-			modalCardContainer.style.setProperty('--card-mask', `url("${imagenUrl}")`);
+
 			
 			modalInfo.innerHTML = `<h3>Nº: ${cromoId} - ${cromoNombre}</h3>`;
 			modal.classList.add("visible");
