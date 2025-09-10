@@ -329,11 +329,18 @@
 
 	/* El objetivo de la animación es la imagen dentro del contenedor */
 	#modal-card-container .modal-content {
+		/* Propiedades de la animación (YA EXISTENTES) */
 		animation: neon-filter-pulse 3s ease-in-out infinite;
-		/* Estado inicial de la animación para que se vea bien desde el principio */
 		filter: 
 			drop-shadow(0 0 4px var(--glow-color))
 			drop-shadow(0 0 12px var(--glow-color));
+
+		/* Propiedades de tamaño (MOVIDAS AQUÍ) */
+		display: block;
+		width: auto;
+		height: auto;
+		max-width: 500px;
+		max-height: 80vh;
 	}
 
 	/* --- FIN: MARCOS DE NEÓN ADAPTADOS A LA IMAGEN --- */
@@ -363,16 +370,7 @@
 	/* --- FIN: NUEVA ANIMACIÓN DE PULSO CON FILTER --- */
 		
 		
-		/* ESTA ES LA REGLA CORREGIDA */
-	.modal-content {
-		display: block;
 		
-		/* ---- LÍNEAS NUEVAS Y CRUCIALES ---- */
-		width: auto;       /* El ancho se ajustará automáticamente */
-		height: auto;      /* El alto se ajustará automáticamente */
-		max-width: 500px;  /* Límite máximo para pantallas de PC */
-		max-height: 80vh;  /* Límite de altura: 80% de la altura de la pantalla */
-	}
 
 	.modal-info {
 		margin-top: 20px;
