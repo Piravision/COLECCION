@@ -173,9 +173,7 @@
 		text-decoration: underline;
 	}
 
-	/* --- INICIO: CÓDIGO FINAL Y DEFINITIVO DEL MODAL (NUEVA ESTRUCTURA) --- */
-
-	/* Contenedor principal del modal */
+	/* --- INICIO: CÓDIGO FINAL Y VERIFICADO DEL MODAL --- */
 	.modal {
 		display: none;
 		position: fixed;
@@ -197,17 +195,13 @@
 		flex-direction: column;
 		align-items: center;
 	}
-
-	/* Contenedor de la carta: 3D y MÁSCARA */
 	#modal-card-container {
 		position: relative;
 		transform-style: preserve-3d;
 		perspective: 1000px;
 		transition: transform 0.1s linear;
-		display: inline-block; /* Se ajusta al tamaño de la imagen */
+		display: inline-block;
 		transform: translateZ(0);
-
-		/* LA MÁSCARA SE APLICA AQUÍ UNA SOLA VEZ Y AFECTA A TODO LO DE DENTRO */
 		-webkit-mask-image: var(--card-mask);
 		mask-image: var(--card-mask);
 		-webkit-mask-size: contain;
@@ -217,19 +211,15 @@
 		-webkit-mask-position: center;
 		mask-position: center;
 	}
-
-	/* La imagen: solo es la imagen, sin efectos */
 	#modal-card-container .modal-content {
 		display: block;
 		width: auto;
 		height: auto;
 		max-width: 500px;
 		max-height: 80vh;
-		position: relative; /* Para controlar el orden de las capas */
-		z-index: 2; /* Capa 2 (en medio) */
+		position: relative;
+		z-index: 2;
 	}
-
-	/* Capa para el brillo de neón (detrás de la imagen) */
 	#modal-card-container .neon-glow {
 		content: '';
 		position: absolute;
@@ -237,38 +227,29 @@
 		left: 0;
 		width: 100%;
 		height: 100%;
-		z-index: 1; /* Capa 1 (detrás) */
-
-		/* LA LÍNEA CLAVE AÑADIDA: */
-		background-color: white; /* Le da un "cuerpo" para que pueda proyectar el brillo */
-		
+		z-index: 1;
+		background-color: white;
 		animation: neon-filter-pulse 3s ease-in-out infinite;
 		filter:
 			drop-shadow(0 0 4px var(--glow-color))
 			drop-shadow(0 0 12px var(--glow-color));
 	}
-
-	/* Capa para el efecto holográfico (delante de la imagen) */
 	#modal-card-container .holo-effect {
-		content: ''; /* <-- AÑADE ESTA LÍNEA */
+		content: '';
 		position: absolute;
 		top: 0;
 		left: 0;
 		width: 100%;
 		height: 100%;
-		z-index: 3; /* Capa 3 (delante) */
-		
+		z-index: 3;
 		opacity: 0;
 		transition: opacity 0.25s ease-out;
 		mix-blend-mode: color-dodge;
 		pointer-events: none;
 	}
-
 	#modal-card-container:hover .holo-effect {
 		opacity: 1;
 	}
-
-	/* Colores y patrones para las capas */
 	#modal-card-container.Común { --glow-color: #C0C0C0; }
 	#modal-card-container.Raro { --glow-color: #3498db; }
 	#modal-card-container.Legendario { --glow-color: #FFD700; }
@@ -325,174 +306,6 @@
 		}
 	}
 	/* --- FIN: CÓDIGO FINAL Y DEFINITIVO DEL MODAL --- */
-	
-	
-	.search-container {
-		background: rgba(255, 255, 255, 0.07);
-		border-radius: 10px;
-		padding: 20px;
-		margin-bottom: 20px;
-		text-align: center;
-	}
-	.search-container input, .search-container button {
-		padding: 10px;
-		border-radius: 5px;
-		border: none;
-		margin: 5px;
-		font-size: 1rem;
-	}
-	.search-container input {
-		background-color: #222;
-		color: #fff;
-	}
-	.search-container button {
-		background-color: #ff9900;
-		color: #111;
-		cursor: pointer;
-		font-weight: bold;
-	}
-	.search-logo-container {
-		text-align: center;
-		margin: 20px 0;
-	}
-	.summary-grid-container {
-		margin-top: 20px;
-		margin-bottom: 30px;
-	}
-	.summary-grid {
-		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
-		gap: 15px;
-		justify-content: center;
-	}
-	.summary-button {
-		position: relative;
-		overflow: hidden;
-		display: flex;
-		justify-content: flex-end;
-		align-items: flex-end;
-		aspect-ratio: 1 / 1;
-		padding: 10px;
-		border: 1px solid #444;
-		border-radius: 10px;
-		transition: transform 0.2s;
-		text-align: center;
-		cursor: pointer;
-		background-color: transparent;
-	}
-	.summary-button:hover {
-		transform: scale(1.05);
-	}
-	.summary-button-image {
-		width: 100%;
-		height: 100%;
-		object-fit: contain;
-		position: absolute;
-		top: 0;
-		left: 0;
-		z-index: 0;
-		border-radius: 10px;
-	}
-	.summary-button-counter {
-		position: relative;
-		z-index: 1;
-		background-color: rgba(0, 0, 0, 0.6);
-		padding: 3px 8px;
-		border-radius: 5px;
-		margin: 2px;
-		font-size: 0.8em;
-		color: #ff9900;
-	}
-	@media (max-width: 600px) {
-		.modal-content {
-			max-width: 90vw;
-			max-height: 85vh;
-		}
-		.modal-container-content {
-			padding: 10px;
-		}
-		.close {
-			font-size: 50px;
-			top: 5px;
-			right: 20px;
-		}
-		.modal-info h3 {
-			font-size: 1.1em;
-		}
-	}
-	.comparison-container {
-		background: rgba(255, 255, 255, 0.07);
-		border-radius: 10px;
-		padding: 20px;
-		margin-bottom: 30px;
-		text-align: center;
-	}
-	.comparison-container h2 {
-		margin-top: 0;
-		color: #ff9900;
-	}
-	.comparison-inputs {
-		display: flex;
-		justify-content: center;
-		align-items: center;
-		gap: 15px;
-		flex-wrap: wrap;
-		margin-bottom: 15px;
-	}
-	.comparison-inputs input {
-		padding: 10px;
-		border-radius: 5px;
-		border: none;
-		font-size: 1rem;
-		background-color: #222;
-		color: #fff;
-		text-align: center;
-	}
-	.comparison-inputs span {
-		font-size: 2rem;
-		color: #ff9900;
-	}
-	.comparison-container button {
-		padding: 10px 20px;
-		border-radius: 5px;
-		border: none;
-		font-size: 1.1rem;
-		background-color: #ff9900;
-		color: #111;
-		cursor: pointer;
-		font-weight: bold;
-		margin-bottom: 20px;
-	}
-	.results-grid {
-		display: grid;
-		grid-template-columns: 1fr;
-		gap: 30px;
-	}
-	@media (min-width: 768px) {
-		.results-grid {
-			grid-template-columns: 1fr 1fr;
-		}
-	}
-	.results-section h3 {
-		border-bottom: 1px solid #ff9900;
-		padding-bottom: 5px;
-		color: #ff9900;
-	}
-	.results-section .coleccion {
-		justify-content: center;
-	}
-	.results-section .cromo-card {
-		cursor: pointer;
-		transition: transform 0.2s, outline 0.2s;
-	}
-	.results-section .cromo-card:hover {
-		transform: scale(1.05);
-	}
-	.results-section .cromo-card.selected {
-		outline: 3px solid #ffeb3b;
-		transform: scale(1.05);
-		box-shadow: 0 0 15px #ffeb3b;
-	}
 	
 	
 	
