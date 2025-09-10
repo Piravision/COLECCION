@@ -241,6 +241,17 @@
 		overflow: hidden; /* Muy importante para recortar el brillo */
 		display: inline-block;
 		transform: translateZ(0); /* Mejora el renderizado en algunos navegadores */
+		
+		/* --- LÍNEAS NUEVAS PARA LA MÁSCARA --- */
+		-webkit-mask-image: var(--card-mask);
+		mask-image: var(--card-mask);
+		-webkit-mask-size: contain;
+		mask-size: contain;
+		-webkit-mask-repeat: no-repeat;
+		mask-repeat: no-repeat;
+		-webkit-mask-position: center;
+		mask-position: center;
+		
 	}
 
 	/* Pseudo-elemento que crea la capa de brillo */
@@ -256,6 +267,19 @@
 		mix-blend-mode: color-dodge; /* La propiedad clave que revela el patrón */
 		pointer-events: none; /* Permite hacer clic a través del efecto */
 		z-index: 2;
+	
+		/* --- LÍNEAS NUEVAS PARA LA MÁSCARA --- */
+		-webkit-mask-image: var(--card-mask);
+		mask-image: var(--card-mask);
+		-webkit-mask-size: contain;
+		mask-size: contain;
+		-webkit-mask-repeat: no-repeat;
+		mask-repeat: no-repeat;
+		-webkit-mask-position: center;
+		mask-position: center;
+	
+	
+	
 	}
 
 	#modal-card-container:hover::before { 
@@ -17460,6 +17484,10 @@
 				modalCardContainer.classList.add(cromoRareza);
 			}
 			modalImg.src = imagenUrl;
+			
+			// LÍNEA A AÑADIR - Aquí está la magia
+			modalCardContainer.style.setProperty('--card-mask', `url(${imagenUrl})`);
+			
 			modalInfo.innerHTML = `<h3>Nº: ${cromoId} - ${cromoNombre}</h3>`;
 			modal.classList.add("visible");
 			modalCardContainer.addEventListener('mousemove', handleCardTilt);
