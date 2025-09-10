@@ -3594,7 +3594,7 @@
         {
             "id": 933,
             "nombre": "REY-MISTERIO",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 506,
@@ -5149,6 +5149,11 @@
         {
             "id": 16,
             "nombre": "Dregs",
+            "cantidad": 1
+        },
+        {
+            "id": 995,
+            "nombre": "H.SAKURAGI",
             "cantidad": 1
         }
     ]
