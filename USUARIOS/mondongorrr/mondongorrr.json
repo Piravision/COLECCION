@@ -49,7 +49,7 @@
     {
       "id": 346,
       "nombre": "jess",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 241,
@@ -64,7 +64,7 @@
     {
       "id": 561,
       "nombre": "MARIO-JAIL",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 142,
@@ -554,7 +554,7 @@
     {
       "id": 424,
       "nombre": "meryl3",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 117,
@@ -644,7 +644,7 @@
     {
       "id": 697,
       "nombre": "DB-085",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 607,
@@ -1454,7 +1454,7 @@
     {
       "id": 783,
       "nombre": "BRUCE-WAYNE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 84,
@@ -1584,7 +1584,7 @@
     {
       "id": 336,
       "nombre": "Hyōga de Cisne",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 766,
@@ -1599,7 +1599,7 @@
     {
       "id": 560,
       "nombre": "MACGYVER-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 70,
@@ -1824,7 +1824,7 @@
     {
       "id": 730,
       "nombre": "DB-118",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 627,
@@ -1844,7 +1844,7 @@
     {
       "id": 345,
       "nombre": "alundra",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 632,
@@ -2139,7 +2139,7 @@
     {
       "id": 244,
       "nombre": "Felina",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 261,
@@ -2309,7 +2309,7 @@
     {
       "id": 693,
       "nombre": "DB-081",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 421,
@@ -2499,7 +2499,7 @@
     {
       "id": 355,
       "nombre": "bayur",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 351,
@@ -2644,7 +2644,7 @@
     {
       "id": 967,
       "nombre": "4-TICO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 954,
@@ -2849,7 +2849,7 @@
     {
       "id": 940,
       "nombre": "GIZMO-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 800,
@@ -2904,7 +2904,7 @@
     {
       "id": 774,
       "nombre": "white",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 870,
@@ -2984,7 +2984,7 @@
     {
       "id": 110,
       "nombre": "Destro",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 517,
@@ -3214,7 +3214,7 @@
     {
       "id": 634,
       "nombre": "DB-022",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1098,
@@ -3269,7 +3269,7 @@
     {
       "id": 1109,
       "nombre": "G-ZARK-7-&-ROBERTO-1",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 973,
@@ -3359,7 +3359,7 @@
     {
       "id": 960,
       "nombre": "3-LESTRADE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 819,
@@ -3769,7 +3769,7 @@
     {
       "id": 864,
       "nombre": "RAMBO-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 324,
@@ -3784,12 +3784,12 @@
     {
       "id": 928,
       "nombre": "JOHN-CENA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 430,
       "nombre": "sniper2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 673,
@@ -4019,7 +4019,7 @@
     {
       "id": 180,
       "nombre": "Electro",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 837,
@@ -4129,7 +4129,7 @@
     {
       "id": 828,
       "nombre": "SUB-ZERO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 123,
@@ -4349,6 +4349,61 @@
     {
       "id": 1142,
       "nombre": "PEPPER-ANN",
+      "cantidad": 1
+    },
+    {
+      "id": 650,
+      "nombre": "DB-038",
+      "cantidad": 1
+    },
+    {
+      "id": 499,
+      "nombre": "seed",
+      "cantidad": 1
+    },
+    {
+      "id": 15,
+      "nombre": "Zula",
+      "cantidad": 2
+    },
+    {
+      "id": 1096,
+      "nombre": "CZ-RAY-STANTZ",
+      "cantidad": 1
+    },
+    {
+      "id": 1050,
+      "nombre": "IRON-MAN-2",
+      "cantidad": 1
+    },
+    {
+      "id": 1216,
+      "nombre": "5-NINJA-GAIDEN",
+      "cantidad": 1
+    },
+    {
+      "id": 1227,
+      "nombre": "VIVI",
+      "cantidad": 1
+    },
+    {
+      "id": 1176,
+      "nombre": "IPPO",
+      "cantidad": 1
+    },
+    {
+      "id": 964,
+      "nombre": "3-TODD-&-SMILEY",
+      "cantidad": 1
+    },
+    {
+      "id": 814,
+      "nombre": "MILENNA",
+      "cantidad": 1
+    },
+    {
+      "id": 226,
+      "nombre": "Guerreros de Piedra",
       "cantidad": 1
     }
   ]

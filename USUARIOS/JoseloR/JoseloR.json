@@ -44,7 +44,7 @@
     {
       "id": 401,
       "nombre": "cloud",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 81,
@@ -614,6 +614,16 @@
     {
       "id": 811,
       "nombre": "KITANA",
+      "cantidad": 1
+    },
+    {
+      "id": 1172,
+      "nombre": "SUPERMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 900,
+      "nombre": "THOR",
       "cantidad": 1
     }
   ]

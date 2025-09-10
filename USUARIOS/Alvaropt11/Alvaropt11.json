@@ -2554,7 +2554,7 @@
         {
             "id": 782,
             "nombre": "BATMAN",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 599,
@@ -5179,6 +5179,11 @@
         {
             "id": 1229,
             "nombre": "MIGHTY-MAX",
+            "cantidad": 1
+        },
+        {
+            "id": 914,
+            "nombre": "SUPERMAN",
             "cantidad": 1
         }
     ]

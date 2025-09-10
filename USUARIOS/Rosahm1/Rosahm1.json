@@ -64,7 +64,7 @@
     {
       "id": 189,
       "nombre": "Shocker",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 54,
@@ -184,7 +184,7 @@
     {
       "id": 260,
       "nombre": "Princesa Luna",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 119,
@@ -674,7 +674,7 @@
     {
       "id": 408,
       "nombre": "Elisa--Gárgola",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 142,
@@ -754,7 +754,7 @@
     {
       "id": 160,
       "nombre": "Steelheart",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 270,
@@ -934,7 +934,7 @@
     {
       "id": 556,
       "nombre": "LEIA-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 4,
@@ -1669,7 +1669,7 @@
     {
       "id": 538,
       "nombre": "BRUCE-LEE",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 85,
@@ -1834,7 +1834,7 @@
     {
       "id": 214,
       "nombre": "Brimstar",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 566,
@@ -2139,7 +2139,7 @@
     {
       "id": 572,
       "nombre": "Sgt.-SLAUGTHER",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 630,
@@ -2319,7 +2319,7 @@
     {
       "id": 743,
       "nombre": "Dark-Afrodita-de-Piscis",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 702,
@@ -3049,7 +3049,7 @@
     {
       "id": 586,
       "nombre": "ED-WARNER",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 904,
@@ -3079,7 +3079,7 @@
     {
       "id": 379,
       "nombre": "lynx",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 718,
@@ -3114,7 +3114,7 @@
     {
       "id": 913,
       "nombre": "SUPERGIRL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 822,
@@ -3519,7 +3519,7 @@
     {
       "id": 733,
       "nombre": "DB-121",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 962,
@@ -3644,7 +3644,7 @@
     {
       "id": 963,
       "nombre": "3-SRA.-HUDSON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 414,
@@ -3844,7 +3844,7 @@
     {
       "id": 761,
       "nombre": "alpha5",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 247,
@@ -3909,7 +3909,7 @@
     {
       "id": 868,
       "nombre": "ANT-MAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 735,
@@ -4214,7 +4214,7 @@
     {
       "id": 773,
       "nombre": "Squatt",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1012,
@@ -4434,7 +4434,7 @@
     {
       "id": 887,
       "nombre": "LOCKJAW",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 890,
@@ -4444,7 +4444,7 @@
     {
       "id": 413,
       "nombre": "campb",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 776,
@@ -4549,7 +4549,7 @@
     {
       "id": 1090,
       "nombre": "ANIMANIACS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 879,
@@ -4724,6 +4724,41 @@
     {
       "id": 208,
       "nombre": "Tentakill",
+      "cantidad": 1
+    },
+    {
+      "id": 1112,
+      "nombre": "LA-MASCARA",
+      "cantidad": 1
+    },
+    {
+      "id": 936,
+      "nombre": "THE-ROCK",
+      "cantidad": 1
+    },
+    {
+      "id": 428,
+      "nombre": "psyco2",
+      "cantidad": 1
+    },
+    {
+      "id": 1076,
+      "nombre": "X -MAGNETO",
+      "cantidad": 1
+    },
+    {
+      "id": 1153,
+      "nombre": "BLACKMANTA",
+      "cantidad": 1
+    },
+    {
+      "id": 1073,
+      "nombre": "X - CYCLOPS",
+      "cantidad": 1
+    },
+    {
+      "id": 896,
+      "nombre": "SHE-HULK",
       "cantidad": 1
     }
   ]
