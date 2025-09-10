@@ -210,41 +210,12 @@
 		mask-repeat: no-repeat;
 		-webkit-mask-position: center;
 		mask-position: center;
+		/* Movemos la animación y el filter base aquí */
+		animation: neon-filter-pulse 3s ease-in-out infinite;
+		filter:
+			drop-shadow(0 0 4px var(--glow-color))
+			drop-shadow(0 0 12px var(--glow-color));
 	}
-
-	/* 🔥 Halo de neón externo animado */
-	#modal-card-container::after {
-		content: "";
-		position: absolute;
-		top: -8px;
-		left: -8px;
-		right: -8px;
-		bottom: -8px;
-		border-radius: 12px;
-		box-shadow: 
-			0 0 10px var(--glow-color),
-			0 0 20px var(--glow-color),
-			0 0 40px var(--glow-color);
-		animation: neon-pulse 2.5s ease-in-out infinite;
-		pointer-events: none;
-		z-index: -1; /* se queda detrás de la carta */
-	}
-
-	@keyframes neon-pulse {
-		0%, 100% {
-			box-shadow: 
-				0 0 8px var(--glow-color),
-				0 0 16px var(--glow-color),
-				0 0 32px var(--glow-color);
-		}
-		50% {
-			box-shadow: 
-				0 0 12px var(--glow-color),
-				0 0 24px var(--glow-color),
-				0 0 48px var(--glow-color);
-		}
-	}
-
 	#modal-card-container::before {
 		content: "";
 		position: absolute;
@@ -287,24 +258,33 @@
 		background-position: var(--mouse-x) var(--mouse-y), 0 0;
 		background-repeat: no-repeat, repeat;
 	}
-
 	#modal-card-container.Común { --glow-color: #C0C0C0; }
 	#modal-card-container.Raro { --glow-color: #3498db; }
 	#modal-card-container.Legendario { --glow-color: #FFD700; }
-
 	#modal-card-container .modal-content {
+		/* Quitamos la animación y filter de aquí */
 		display: block;
 		width: auto;
 		height: auto;
 		max-width: 500px;
 		max-height: 80vh;
 	}
-
+	@keyframes neon-filter-pulse {
+		0%, 100% {
+			filter:
+				drop-shadow(0 0 4px var(--glow-color))
+				drop-shadow(0 0 12px var(--glow-color));
+		}
+		70% {
+			filter:
+				drop-shadow(0 0 8px var(--glow-color))
+				drop-shadow(0 0 25px var(--glow-color));
+		}
+	}
 	.modal-info {
 		margin-top: 20px;
 	}
 	/* --- FIN: CÓDIGO FINAL Y LIMPIO PARA EL MODAL INTERACTIVO --- */
-	/
 	
 	
 	.search-container {
