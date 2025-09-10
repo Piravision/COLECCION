@@ -210,12 +210,24 @@
 		mask-repeat: no-repeat;
 		-webkit-mask-position: center;
 		mask-position: center;
-		/* Movemos la animación y el filter base aquí */
-		animation: neon-filter-pulse 3s ease-in-out infinite;
-		filter:
-			drop-shadow(0 0 4px var(--glow-color))
-			drop-shadow(0 0 12px var(--glow-color));
+		
 	}
+	/* Glow animado en una capa separada */
+	#modal-card-container::after {
+		content: "";
+		position: absolute;
+		inset: 0;
+		border-radius: 12px; /* ajusta al radio real de tu carta */
+		pointer-events: none;
+		animation: neon-filter-pulse 3s ease-in-out infinite;
+		box-shadow:
+			0 0 4px var(--glow-color),
+			0 0 12px var(--glow-color);
+	}
+
+	
+	
+	
 	#modal-card-container::before {
 		content: "";
 		position: absolute;
@@ -8303,7 +8315,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>CAPTAIN-AMERICA (x4)</h3>
+                                                <h3>CAPTAIN-AMERICA (x5)</h3>
                                                 <p>Rareza: Legendario</p>
                                             </div>
                                         </div>
@@ -11381,7 +11393,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>ken2 (x3)</h3>
+                                                <h3>ken2 (x4)</h3>
                                                 <p>Rareza: Legendario</p>
                                             </div>
                                         </div>
@@ -11495,7 +11507,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>Mantaman (x1)</h3>
+                                                <h3>Mantaman (x2)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -14477,7 +14489,8 @@
 			modalImg.src = imagenUrl;
 			
 			// LÍNEA A AÑADIR - Aquí está la magia
-			modalCardContainer.style.setProperty('--card-mask', `url("${imagenUrl}")`);
+			// LÍNEA A AÑADIR - Aquí está la magia
+			modalCardContainer.style.setProperty('--card-mask', `url(${imagenUrl})`);
 			
 			modalInfo.innerHTML = `<h3>Nº: ${cromoId} - ${cromoNombre}</h3>`;
 			modal.classList.add("visible");
