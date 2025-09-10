@@ -186,7 +186,6 @@
 		background-color: rgba(0,0,0,0.9);
 		align-items: center;
 		justify-content: center;
-		
 	}
 	.modal.visible {
 		display: flex;
@@ -211,6 +210,11 @@
 		mask-repeat: no-repeat;
 		-webkit-mask-position: center;
 		mask-position: center;
+		/* Movemos la animación y el filter base aquí */
+		animation: neon-filter-pulse 3s ease-in-out infinite;
+		filter:
+			drop-shadow(0 0 4px var(--glow-color))
+			drop-shadow(0 0 12px var(--glow-color));
 	}
 	#modal-card-container::before {
 		content: "";
@@ -258,10 +262,7 @@
 	#modal-card-container.Raro { --glow-color: #3498db; }
 	#modal-card-container.Legendario { --glow-color: #FFD700; }
 	#modal-card-container .modal-content {
-		animation: neon-filter-pulse 3s ease-in-out infinite;
-		filter:
-			drop-shadow(0 0 4px var(--glow-color))
-			drop-shadow(0 0 12px var(--glow-color));
+		/* Quitamos la animación y filter de aquí */
 		display: block;
 		width: auto;
 		height: auto;
@@ -284,6 +285,8 @@
 		margin-top: 20px;
 	}
 	/* --- FIN: CÓDIGO FINAL Y LIMPIO PARA EL MODAL INTERACTIVO --- */
+	
+	
 	.search-container {
 		background: rgba(255, 255, 255, 0.07);
 		border-radius: 10px;
@@ -3767,7 +3770,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>brokeena (x3)</h3>
+                                                <h3>brokeena (x4)</h3>
                                                 <p>Rareza: Raro</p>
                                             </div>
                                         </div>
@@ -6993,7 +6996,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>HANSOLO-JAIL (x5)</h3>
+                                                <h3>HANSOLO-JAIL (x6)</h3>
                                                 <p>Rareza: Legendario</p>
                                             </div>
                                         </div>
@@ -11876,7 +11879,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>law (x1)</h3>
+                                                <h3>law (x2)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -14409,7 +14412,11 @@
 		
 		<div class="modal-container-content">
 			<div id="modal-card-container">
+				<div class="neon-glow"></div>
+				
 				<img class="modal-content" id="imgModal">
+
+				<div class="holo-effect"></div>
 			</div>
 
 			<div id="modal-info" class="modal-info"></div>
@@ -14457,7 +14464,7 @@
 			modalImg.src = imagenUrl;
 			
 			// LÍNEA A AÑADIR - Aquí está la magia
-			modalCardContainer.style.setProperty('--card-mask', `url(${imagenUrl})`);
+			modalCardContainer.style.setProperty('--card-mask', `url("${imagenUrl}")`);
 			
 			modalInfo.innerHTML = `<h3>Nº: ${cromoId} - ${cromoNombre}</h3>`;
 			modal.classList.add("visible");
