@@ -3384,7 +3384,7 @@
         {
             "id": 927,
             "nombre": "BRET-HART",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 73,
@@ -5115,6 +5115,11 @@
             "id": 1120,
             "nombre": "PF-PITUFO-GRUÑON",
             "cantidad": 2
+        },
+        {
+            "id": 1121,
+            "nombre": "RUGRATS",
+            "cantidad": 1
         }
     ]
 }
