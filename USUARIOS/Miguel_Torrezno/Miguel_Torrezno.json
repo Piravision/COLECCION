@@ -64,7 +64,7 @@
     {
       "id": 32,
       "nombre": "Venger",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 310,
@@ -114,7 +114,7 @@
     {
       "id": 159,
       "nombre": "Quicksilver",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 271,
@@ -234,7 +234,7 @@
     {
       "id": 162,
       "nombre": "Mon Star",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 174,
@@ -459,7 +459,7 @@
     {
       "id": 326,
       "nombre": "Blob",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 84,
@@ -634,7 +634,7 @@
     {
       "id": 101,
       "nombre": "Duke",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 512,
@@ -2199,7 +2199,7 @@
     {
       "id": 952,
       "nombre": "11-HEIDI-&-MARCO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 978,
@@ -2244,7 +2244,7 @@
     {
       "id": 900,
       "nombre": "THOR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 886,
@@ -2304,7 +2304,7 @@
     {
       "id": 982,
       "nombre": "14-FRAN-SINCLAIR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 732,
@@ -2444,7 +2444,7 @@
     {
       "id": 160,
       "nombre": "Steelheart",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 901,
@@ -2474,7 +2474,7 @@
     {
       "id": 1089,
       "nombre": "ACE-VENTURA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 591,
@@ -2839,6 +2839,31 @@
     {
       "id": 1230,
       "nombre": "MORTADELO-Y-FILEMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1069,
+      "nombre": "TIGRA",
+      "cantidad": 1
+    },
+    {
+      "id": 1094,
+      "nombre": "CZ-EGON-SPENGLER",
+      "cantidad": 1
+    },
+    {
+      "id": 956,
+      "nombre": "2-GADGET",
+      "cantidad": 1
+    },
+    {
+      "id": 1067,
+      "nombre": "THUNDERBIRD",
+      "cantidad": 1
+    },
+    {
+      "id": 1135,
+      "nombre": "GUARDIAN-DE-LA-CRIPTA",
       "cantidad": 1
     }
   ]
