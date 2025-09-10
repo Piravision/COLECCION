@@ -1229,7 +1229,7 @@
     {
       "id": 218,
       "nombre": "Cybertron",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 582,
@@ -1754,7 +1754,7 @@
     {
       "id": 797,
       "nombre": "MR-FREEZE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 150,
@@ -2004,7 +2004,7 @@
     {
       "id": 941,
       "nombre": "GREMLIN-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 257,
@@ -3089,7 +3089,7 @@
     {
       "id": 734,
       "nombre": "Afrodita-de-Piscis",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 743,
@@ -3379,6 +3379,31 @@
     {
       "id": 104,
       "nombre": "Lady Jaye",
+      "cantidad": 1
+    },
+    {
+      "id": 636,
+      "nombre": "DB-024",
+      "cantidad": 1
+    },
+    {
+      "id": 430,
+      "nombre": "sniper2",
+      "cantidad": 1
+    },
+    {
+      "id": 1003,
+      "nombre": "NINJA-ATORI",
+      "cantidad": 1
+    },
+    {
+      "id": 837,
+      "nombre": "DALSHIM",
+      "cantidad": 1
+    },
+    {
+      "id": 881,
+      "nombre": "HAWKEYE",
       "cantidad": 1
     }
   ]
