@@ -257,11 +257,14 @@
 	#modal-card-container.Común { --glow-color: #C0C0C0; }
 	#modal-card-container.Raro { --glow-color: #3498db; }
 	#modal-card-container.Legendario { --glow-color: #FFD700; }
-	#modal-card-container .modal-content {
+	#modal-card-container {
 		animation: neon-filter-pulse 3s ease-in-out infinite;
 		filter:
 			drop-shadow(0 0 4px var(--glow-color))
 			drop-shadow(0 0 12px var(--glow-color));
+	}
+
+	#modal-card-container .modal-content {
 		display: block;
 		width: auto;
 		height: auto;
