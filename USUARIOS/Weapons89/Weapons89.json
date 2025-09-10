@@ -1014,7 +1014,7 @@
         {
             "id": 407,
             "nombre": "yuffie",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 326,
@@ -3574,6 +3574,11 @@
         {
             "id": 510,
             "nombre": "PAUL",
+            "cantidad": 1
+        },
+        {
+            "id": 1014,
+            "nombre": "YUGI",
             "cantidad": 1
         }
     ]
