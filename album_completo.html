@@ -203,14 +203,7 @@
 		transition: transform 0.1s linear;
 		display: inline-block;
 		transform: translateZ(0);
-		-webkit-mask-image: var(--card-mask);
-		mask-image: var(--card-mask);
-		-webkit-mask-size: contain;
-		mask-size: contain;
-		-webkit-mask-repeat: no-repeat;
-		mask-repeat: no-repeat;
-		-webkit-mask-position: center;
-		mask-position: center;
+		
 	}
 	#modal-card-container::before {
 		content: "";
@@ -267,6 +260,19 @@
 		height: auto;
 		max-width: 500px;
 		max-height: 80vh;
+		
+		 /* --- LÍNEAS A AÑADIR --- */
+		-webkit-mask-image: var(--card-mask);
+		mask-image: var(--card-mask);
+		-webkit-mask-size: contain;
+		mask-size: contain;
+		-webkit-mask-repeat: no-repeat;
+		mask-repeat: no-repeat;
+		-webkit-mask-position: center;
+		mask-position: center;
+	
+	
+	
 	}
 	@keyframes neon-filter-pulse {
 		0%, 100% {
@@ -17362,7 +17368,7 @@
 			modalImg.src = imagenUrl;
 			
 			// LÍNEA A AÑADIR - Aquí está la magia
-			modalCardContainer.style.setProperty('--card-mask', `url(${imagenUrl})`);
+			modalCardContainer.style.setProperty('--card-mask', `url("${imagenUrl}")`);
 			
 			modalInfo.innerHTML = `<h3>Nº: ${cromoId} - ${cromoNombre}</h3>`;
 			modal.classList.add("visible");
