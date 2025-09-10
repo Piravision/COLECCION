@@ -584,21 +584,7 @@
 	}
 	/* --- FIN: Estilos para la Selección de Cromos de Intercambio --- */
 	
-	/* --- INICIO: CÓDIGO DE DIAGNÓSTICO TEMPORAL --- */
-
-	#modal-card-container::before {
-		/* Forzamos un fondo rojo simple en lugar del holográfico */
-		background: rgba(255, 0, 0, 0.7) !important; 
-		
-		/* Nos aseguramos de que sea visible al pasar el ratón por encima */
-		opacity: 0 !important;
-	}
-
-	#modal-card-container:hover::before {
-		opacity: 1 !important;
-	}
-
-	/* --- FIN: CÓDIGO DE DIAGNÓSTICO --- */
+	
 	
 	
 	
@@ -17503,7 +17489,7 @@
 			modalImg.src = imagenUrl;
 			
 			// LÍNEA A AÑADIR - Aquí está la magia
-			modalCardContainer.style.setProperty('--card-mask', `url(${imagenUrl})`);
+			modalCardContainer.style.setProperty('--card-mask', `url("${imagenUrl}")`);
 			
 			modalInfo.innerHTML = `<h3>Nº: ${cromoId} - ${cromoNombre}</h3>`;
 			modal.classList.add("visible");
