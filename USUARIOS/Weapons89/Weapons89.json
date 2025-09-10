@@ -2614,7 +2614,7 @@
         {
             "id": 939,
             "nombre": "GHOSTFACE-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 434,
@@ -3589,6 +3589,11 @@
         {
             "id": 920,
             "nombre": "HAM-TYLER",
+            "cantidad": 1
+        },
+        {
+            "id": 845,
+            "nombre": "KEN",
             "cantidad": 1
         }
     ]
