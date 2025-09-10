@@ -236,23 +236,37 @@
 		background-repeat: no-repeat, repeat;
 	}
 	#modal-card-container.Raro::before {
-	  background-image: 
-		linear-gradient(
-		  115deg,
-		  transparent 30%,
-		  rgba(170,210,255,0.5) 48%,
-		  rgba(170,210,255,0.5) 52%,
-		  transparent 70%
-		),
-		url("https://assets.codepen.io/13471/holo.png");
-	  background-size: 250% 250%, cover;
-	  background-position: var(--mouse-x) var(--mouse-y), center;
-	  background-repeat: no-repeat, repeat;
-	  opacity: 0.5; /* hazlo más sutil */
-	  filter: brightness(0.8) contrast(0.9); /* reduce intensidad */
+	  background-image: linear-gradient(
+		115deg,
+		transparent 30%,
+		rgba(170,210,255,0.5) 48%,
+		rgba(170,210,255,0.5) 52%,
+		transparent 70%
+	  );
+	  background-size: 250% 250%;
+	  background-position: var(--mouse-x) var(--mouse-y);
+	  background-repeat: no-repeat;
 	}
-
-	
+	#modal-card-container.Raro::after {
+	  content: "";
+	  position: absolute;
+	  inset: 0;
+	  background-image: url("https://assets.codepen.io/13471/holo.png");
+	  background-size: cover;
+	  background-position: center;
+	  background-repeat: repeat;
+	  opacity: 0.3; /* 👈 solo afecta al GIF */
+	  -webkit-mask-image: var(--card-mask);
+	  mask-image: var(--card-mask);
+	  -webkit-mask-repeat: no-repeat;
+	  mask-repeat: no-repeat;
+	  -webkit-mask-size: contain;
+	  mask-size: contain;
+	  -webkit-mask-position: center;
+	  mask-position: center;
+	  pointer-events: none;
+	  z-index: 3; /* ajusta según necesites */
+	}
 	#modal-card-container.Legendario::before {
 	  background-image: 
 		linear-gradient(
