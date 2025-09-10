@@ -654,7 +654,7 @@
     {
       "id": 522,
       "nombre": "lara",
-      "cantidad": 4
+      "cantidad": 6
     },
     {
       "id": 424,
@@ -959,7 +959,7 @@
     {
       "id": 523,
       "nombre": "lara2",
-      "cantidad": 5
+      "cantidad": 7
     },
     {
       "id": 165,
@@ -5349,6 +5349,16 @@
     {
       "id": 1103,
       "nombre": "FRAGGLE-ROCK",
+      "cantidad": 1
+    },
+    {
+      "id": 1218,
+      "nombre": "BATTLETOAD",
+      "cantidad": 1
+    },
+    {
+      "id": 1198,
+      "nombre": "1Z-BOWSER",
       "cantidad": 1
     }
   ]

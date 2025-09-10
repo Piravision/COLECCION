@@ -79,7 +79,7 @@
     {
       "id": 159,
       "nombre": "Quicksilver",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 505,
@@ -189,7 +189,7 @@
     {
       "id": 303,
       "nombre": "Megatron",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 172,
@@ -279,7 +279,7 @@
     {
       "id": 522,
       "nombre": "lara",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 112,
@@ -469,7 +469,7 @@
     {
       "id": 523,
       "nombre": "lara2",
-      "cantidad": 2
+      "cantidad": 4
     },
     {
       "id": 328,
@@ -749,7 +749,7 @@
     {
       "id": 38,
       "nombre": "brokeena",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 558,
@@ -3609,6 +3609,16 @@
     {
       "id": 1072,
       "nombre": "VALKYRIE-2",
+      "cantidad": 1
+    },
+    {
+      "id": 1216,
+      "nombre": "5-NINJA-GAIDEN",
+      "cantidad": 1
+    },
+    {
+      "id": 1205,
+      "nombre": "3-TAILS",
       "cantidad": 1
     }
   ]

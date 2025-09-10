@@ -1089,7 +1089,7 @@
     {
       "id": 523,
       "nombre": "lara2",
-      "cantidad": 5
+      "cantidad": 7
     },
     {
       "id": 716,
@@ -1704,7 +1704,7 @@
     {
       "id": 522,
       "nombre": "lara",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 195,
@@ -5169,6 +5169,21 @@
     {
       "id": 1056,
       "nombre": "NOVA-2",
+      "cantidad": 1
+    },
+    {
+      "id": 1201,
+      "nombre": "2Z-BOMBERMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1216,
+      "nombre": "5-NINJA-GAIDEN",
+      "cantidad": 1
+    },
+    {
+      "id": 1210,
+      "nombre": "4-FINAL-FIGHT",
       "cantidad": 1
     }
   ]
