@@ -231,15 +231,17 @@
 
 	/* Capa para el brillo de neón (detrás de la imagen) */
 	#modal-card-container .neon-glow {
-		content: ''; /* <-- AÑADE ESTA LÍNEA */
+		content: '';
 		position: absolute;
 		top: 0;
 		left: 0;
 		width: 100%;
 		height: 100%;
 		z-index: 1; /* Capa 1 (detrás) */
+
+		/* LA LÍNEA CLAVE AÑADIDA: */
+		background-color: white; /* Le da un "cuerpo" para que pueda proyectar el brillo */
 		
-		/* A ESTA CAPA le aplicamos la animación y el brillo */
 		animation: neon-filter-pulse 3s ease-in-out infinite;
 		filter:
 			drop-shadow(0 0 4px var(--glow-color))
