@@ -186,7 +186,6 @@
 		background-color: rgba(0,0,0,0.9);
 		align-items: center;
 		justify-content: center;
-		
 	}
 	.modal.visible {
 		display: flex;
@@ -211,6 +210,11 @@
 		mask-repeat: no-repeat;
 		-webkit-mask-position: center;
 		mask-position: center;
+		/* Movemos la animación y el filter base aquí */
+		animation: neon-filter-pulse 3s ease-in-out infinite;
+		filter:
+			drop-shadow(0 0 4px var(--glow-color))
+			drop-shadow(0 0 12px var(--glow-color));
 	}
 	#modal-card-container::before {
 		content: "";
@@ -257,14 +261,8 @@
 	#modal-card-container.Común { --glow-color: #C0C0C0; }
 	#modal-card-container.Raro { --glow-color: #3498db; }
 	#modal-card-container.Legendario { --glow-color: #FFD700; }
-	#modal-card-container {
-		animation: neon-filter-pulse 3s ease-in-out infinite;
-		filter:
-			drop-shadow(0 0 4px var(--glow-color))
-			drop-shadow(0 0 12px var(--glow-color));
-	}
-
 	#modal-card-container .modal-content {
+		/* Quitamos la animación y filter de aquí */
 		display: block;
 		width: auto;
 		height: auto;
