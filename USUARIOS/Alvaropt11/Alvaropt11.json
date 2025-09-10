@@ -1584,7 +1584,7 @@
         {
             "id": 768,
             "nombre": "megazord",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 512,
@@ -5184,6 +5184,11 @@
         {
             "id": 914,
             "nombre": "SUPERMAN",
+            "cantidad": 1
+        },
+        {
+            "id": 1005,
+            "nombre": "RANMA-1_2",
             "cantidad": 1
         }
     ]
