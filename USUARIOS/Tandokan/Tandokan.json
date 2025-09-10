@@ -2219,7 +2219,7 @@
         {
             "id": 920,
             "nombre": "HAM-TYLER",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 154,
@@ -4249,6 +4249,11 @@
         {
             "id": 954,
             "nombre": "2-CHIP",
+            "cantidad": 1
+        },
+        {
+            "id": 775,
+            "nombre": "yellow",
             "cantidad": 1
         }
     ]

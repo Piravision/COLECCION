@@ -1454,7 +1454,7 @@
         {
             "id": 775,
             "nombre": "yellow",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 270,
@@ -3584,6 +3584,11 @@
         {
             "id": 796,
             "nombre": "MAN-BAT",
+            "cantidad": 1
+        },
+        {
+            "id": 920,
+            "nombre": "HAM-TYLER",
             "cantidad": 1
         }
     ]
