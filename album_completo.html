@@ -233,37 +233,6 @@
 		-webkit-mask-position: center;
 		mask-position: center;
 	}
-	/* --- NUEVA CAPA PARA EL BRILLO DE NEÓN --- */
-	#modal-card-container::after {
-		/* Crea la capa fantasma */
-		content: '';
-		position: absolute;
-		top: 0;
-		left: 0;
-		width: 100%;
-		height: 100%;
-
-		/* La recortamos con la misma máscara de la imagen */
-		-webkit-mask-image: var(--card-mask);
-		mask-image: var(--card-mask);
-		-webkit-mask-size: contain;
-		mask-size: contain;
-		-webkit-mask-repeat: no-repeat;
-		mask-repeat: no-repeat;
-		-webkit-mask-position: center;
-		mask-position: center;
-
-		/* A ESTA CAPA le aplicamos la animación y el brillo */
-		animation: neon-filter-pulse 3s ease-in-out infinite;
-		filter:
-			drop-shadow(0 0 4px var(--glow-color))
-			drop-shadow(0 0 12px var(--glow-color));
-
-		/* La enviamos detrás de la imagen */
-		z-index: -1;
-	}
-	
-	}
 	#modal-card-container:hover::before {
 		opacity: 1;
 	}
@@ -289,7 +258,10 @@
 	#modal-card-container.Raro { --glow-color: #3498db; }
 	#modal-card-container.Legendario { --glow-color: #FFD700; }
 	#modal-card-container .modal-content {
-		
+		animation: neon-filter-pulse 3s ease-in-out infinite;
+		filter:
+			drop-shadow(0 0 4px var(--glow-color))
+			drop-shadow(0 0 12px var(--glow-color));
 		display: block;
 		width: auto;
 		height: auto;
@@ -17384,7 +17356,7 @@
 			modalImg.src = imagenUrl;
 			
 			// LÍNEA A AÑADIR - Aquí está la magia
-			modalCardContainer.style.setProperty('--card-mask', `url("${imagenUrl}")`);
+		modalCardContainer.style.setProperty('--card-mask', `url(${imagenUrl})`);
 			
 			modalInfo.innerHTML = `<h3>Nº: ${cromoId} - ${cromoNombre}</h3>`;
 			modal.classList.add("visible");
