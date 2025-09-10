@@ -246,20 +246,21 @@
 	  background-image: 
 		linear-gradient(
 		  115deg,
-		  transparent 35%,
+		  transparent 25%,
 		  hsla(0,100%,80%,0.28),
 		  hsla(60,100%,80%,0.28),
 		  hsla(120,100%,80%,0.28),
 		  hsla(180,100%,80%,0.28),
 		  hsla(240,100%,80%,0.28),
-		  transparent 65%
+		  transparent 75%
 		),
 		url("https://assets.codepen.io/13471/sparkles.gif");
 	  background-size: 250% 250%, cover;
 	  background-position: var(--mouse-x) var(--mouse-y), center;
 	  background-repeat: no-repeat, repeat;
-
-	  /* se mantiene todo lo demás (máscara, blend, etc.) */
+	  mix-blend-mode: color-dodge;
+	  opacity: 0.4; /* más sutil */
+	  filter: brightness(0.7) contrast(0.8);
 	}
 
 	
