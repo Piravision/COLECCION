@@ -243,6 +243,7 @@
 	}
 	
 	#modal-card-container.Legendario::before {
+	  opacity: 0.3; /* más sutil */
 	  background-image: 
 		linear-gradient(
 		  115deg,
@@ -258,9 +259,8 @@
 	  background-size: 250% 250%, cover;
 	  background-position: var(--mouse-x) var(--mouse-y), center;
 	  background-repeat: no-repeat, repeat;
-	  mix-blend-mode: color-dodge;
-	  opacity: 0.4; /* más sutil */
-	  filter: brightness(0.7) contrast(0.8);
+
+	  /* se mantiene todo lo demás (máscara, blend, etc.) */
 	}
 
 	
