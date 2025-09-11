@@ -69,7 +69,7 @@
     {
       "id": 54,
       "nombre": "merle",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 123,
@@ -294,7 +294,7 @@
     {
       "id": 63,
       "nombre": "drabaran",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 29,
@@ -1534,7 +1534,7 @@
     {
       "id": 327,
       "nombre": "Dientes de Sable",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 137,
@@ -2284,7 +2284,7 @@
     {
       "id": 712,
       "nombre": "DB-100",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 703,
@@ -2659,7 +2659,7 @@
     {
       "id": 787,
       "nombre": "DOS-CARAS",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 778,
@@ -3589,7 +3589,7 @@
     {
       "id": 949,
       "nombre": "1-DARTACAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 981,
@@ -4639,7 +4639,7 @@
     {
       "id": 594,
       "nombre": "JUAN-DIAZ",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1228,
@@ -4994,6 +4994,16 @@
     {
       "id": 1025,
       "nombre": "4FV -DR.DOOM",
+      "cantidad": 1
+    },
+    {
+      "id": 816,
+      "nombre": "QUAN-CHI",
+      "cantidad": 1
+    },
+    {
+      "id": 977,
+      "nombre": "13-ODIE",
       "cantidad": 1
     }
   ]

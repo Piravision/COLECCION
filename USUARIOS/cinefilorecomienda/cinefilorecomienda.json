@@ -39,7 +39,7 @@
     {
       "id": 671,
       "nombre": "DB-059",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 718,
@@ -289,7 +289,7 @@
     {
       "id": 784,
       "nombre": "BULLOCK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 482,
@@ -534,7 +534,7 @@
     {
       "id": 931,
       "nombre": "RANDY-ORTON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 883,
@@ -1834,6 +1834,51 @@
     {
       "id": 843,
       "nombre": "HONDA",
+      "cantidad": 1
+    },
+    {
+      "id": 1134,
+      "nombre": "DR.-GRANUDO-&-HORRIFIDO",
+      "cantidad": 1
+    },
+    {
+      "id": 710,
+      "nombre": "DB-098",
+      "cantidad": 1
+    },
+    {
+      "id": 1231,
+      "nombre": "POPEYE",
+      "cantidad": 1
+    },
+    {
+      "id": 634,
+      "nombre": "DB-022",
+      "cantidad": 1
+    },
+    {
+      "id": 347,
+      "nombre": "Lizard",
+      "cantidad": 1
+    },
+    {
+      "id": 829,
+      "nombre": "AKUMA",
+      "cantidad": 1
+    },
+    {
+      "id": 88,
+      "nombre": "Zackary Foxx",
+      "cantidad": 1
+    },
+    {
+      "id": 87,
+      "nombre": "Walter _Doc_ Hartford",
+      "cantidad": 1
+    },
+    {
+      "id": 86,
+      "nombre": "Shane Gooseman",
       "cantidad": 1
     }
   ]
