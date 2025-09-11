@@ -644,7 +644,7 @@
     {
       "id": 345,
       "nombre": "alundra",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 370,
@@ -2754,7 +2754,7 @@
     {
       "id": 132,
       "nombre": "Skeletor",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 167,
@@ -4304,6 +4304,11 @@
     {
       "id": 1188,
       "nombre": "CARMEN-SANDIEGO",
+      "cantidad": 1
+    },
+    {
+      "id": 400,
+      "nombre": "cid",
       "cantidad": 1
     }
   ]

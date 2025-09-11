@@ -1189,7 +1189,7 @@
         {
             "id": 343,
             "nombre": "Flazzard 2",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 81,
@@ -3349,7 +3349,7 @@
         {
             "id": 977,
             "nombre": "13-ODIE",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 930,
@@ -3784,7 +3784,7 @@
         {
             "id": 928,
             "nombre": "JOHN-CENA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 430,
@@ -4494,6 +4494,16 @@
         {
             "id": 945,
             "nombre": "MASK-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 1211,
+            "nombre": "4-GOLDEN-AXE",
+            "cantidad": 1
+        },
+        {
+            "id": 941,
+            "nombre": "GREMLIN-JAIL",
             "cantidad": 1
         }
     ]
