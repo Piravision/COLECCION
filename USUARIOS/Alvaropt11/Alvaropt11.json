@@ -3319,7 +3319,7 @@
         {
             "id": 426,
             "nombre": "ocelot2",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 842,
@@ -5339,6 +5339,11 @@
         {
             "id": 1090,
             "nombre": "ANIMANIACS",
+            "cantidad": 1
+        },
+        {
+            "id": 1200,
+            "nombre": "2-DONKEY-KONG",
             "cantidad": 1
         }
     ]

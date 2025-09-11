@@ -4809,7 +4809,7 @@
         {
             "id": 1200,
             "nombre": "2-DONKEY-KONG",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1202,
@@ -4909,6 +4909,11 @@
         {
             "id": 495,
             "nombre": "jowy",
+            "cantidad": 1
+        },
+        {
+            "id": 426,
+            "nombre": "ocelot2",
             "cantidad": 1
         }
     ]
