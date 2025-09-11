@@ -169,7 +169,7 @@
         {
             "id": 403,
             "nombre": "red",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 193,
@@ -249,7 +249,7 @@
         {
             "id": 227,
             "nombre": "Hawks Haven",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 593,
@@ -1954,7 +1954,7 @@
         {
             "id": 529,
             "nombre": "Mística",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 508,
@@ -2194,7 +2194,7 @@
         {
             "id": 134,
             "nombre": "Tri Klops",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 82,
@@ -2239,7 +2239,7 @@
         {
             "id": 886,
             "nombre": "KARNAK",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 372,
@@ -2704,7 +2704,7 @@
         {
             "id": 884,
             "nombre": "IRON-FIST",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 555,
@@ -4029,7 +4029,7 @@
         {
             "id": 1115,
             "nombre": "PF-GARGAMEL-&-AZRAEL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 252,
@@ -4569,6 +4569,11 @@
         {
             "id": 255,
             "nombre": "Ma Mutt",
+            "cantidad": 1
+        },
+        {
+            "id": 525,
+            "nombre": "Cíclope",
             "cantidad": 1
         }
     ]
