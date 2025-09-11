@@ -2509,7 +2509,7 @@
         {
             "id": 604,
             "nombre": "RALF-PETERSON",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 396,
@@ -5264,6 +5264,11 @@
         {
             "id": 807,
             "nombre": "JAX",
+            "cantidad": 1
+        },
+        {
+            "id": 1218,
+            "nombre": "BATTLETOAD",
             "cantidad": 1
         }
     ]

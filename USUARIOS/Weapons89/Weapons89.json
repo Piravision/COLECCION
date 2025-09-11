@@ -539,7 +539,7 @@
     {
       "id": 539,
       "nombre": "BRUCE-LEE2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 450,
@@ -2904,7 +2904,7 @@
     {
       "id": 826,
       "nombre": "SONYA-BLADE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 54,
@@ -3749,6 +3749,11 @@
     {
       "id": 1095,
       "nombre": "CZ-PETER-VENKMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 724,
+      "nombre": "DB-112",
       "cantidad": 1
     }
   ]
