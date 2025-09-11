@@ -3279,7 +3279,7 @@
         {
             "id": 898,
             "nombre": "SUB-MARINER",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 948,
@@ -5234,6 +5234,11 @@
         {
             "id": 185,
             "nombre": "Morbius",
+            "cantidad": 1
+        },
+        {
+            "id": 187,
+            "nombre": "Rhyno",
             "cantidad": 1
         }
     ]

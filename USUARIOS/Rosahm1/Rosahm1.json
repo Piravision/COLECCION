@@ -54,7 +54,7 @@
         {
             "id": 187,
             "nombre": "Rhyno",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 48,
@@ -4959,6 +4959,11 @@
         {
             "id": 884,
             "nombre": "IRON-FIST",
+            "cantidad": 1
+        },
+        {
+            "id": 898,
+            "nombre": "SUB-MARINER",
             "cantidad": 1
         }
     ]
