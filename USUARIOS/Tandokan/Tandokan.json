@@ -1114,7 +1114,7 @@
         {
             "id": 452,
             "nombre": "sherry",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 220,
@@ -4379,6 +4379,11 @@
         {
             "id": 150,
             "nombre": "Throttle",
+            "cantidad": 1
+        },
+        {
+            "id": 134,
+            "nombre": "Tri Klops",
             "cantidad": 1
         }
     ]
