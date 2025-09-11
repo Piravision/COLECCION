@@ -3269,7 +3269,7 @@
         {
             "id": 511,
             "nombre": "YOSHI",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 205,
@@ -4344,6 +4344,11 @@
         {
             "id": 529,
             "nombre": "Mística",
+            "cantidad": 1
+        },
+        {
+            "id": 329,
+            "nombre": "Lady Deadstrike",
             "cantidad": 1
         }
     ]
