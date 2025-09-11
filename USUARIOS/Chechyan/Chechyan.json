@@ -739,7 +739,7 @@
     {
       "id": 476,
       "nombre": "Kaufman",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 254,
@@ -824,7 +824,7 @@
     {
       "id": 1129,
       "nombre": "CRITTER-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 482,
@@ -834,7 +834,7 @@
     {
       "id": 978,
       "nombre": "13-GARFIELD",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 295,
@@ -909,7 +909,7 @@
     {
       "id": 666,
       "nombre": "DB-054",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 836,
@@ -1119,6 +1119,46 @@
     {
       "id": 958,
       "nombre": "2-ZIPPER",
+      "cantidad": 1
+    },
+    {
+      "id": 1086,
+      "nombre": "Z - AVENGERS",
+      "cantidad": 1
+    },
+    {
+      "id": 587,
+      "nombre": "EDDY-BRIGHT",
+      "cantidad": 1
+    },
+    {
+      "id": 1034,
+      "nombre": "CAPITAN BRITANIA-2",
+      "cantidad": 1
+    },
+    {
+      "id": 796,
+      "nombre": "MAN-BAT",
+      "cantidad": 1
+    },
+    {
+      "id": 626,
+      "nombre": "DB-014",
+      "cantidad": 1
+    },
+    {
+      "id": 900,
+      "nombre": "THOR",
+      "cantidad": 1
+    },
+    {
+      "id": 1186,
+      "nombre": "KENSHIRO",
+      "cantidad": 1
+    },
+    {
+      "id": 955,
+      "nombre": "2-CHOP",
       "cantidad": 1
     }
   ]

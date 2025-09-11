@@ -29,7 +29,7 @@
     {
       "id": 330,
       "nombre": "Magneto",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 306,
@@ -84,7 +84,7 @@
     {
       "id": 309,
       "nombre": "Thundercracker",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 107,
@@ -404,7 +404,7 @@
     {
       "id": 532,
       "nombre": "Sarah-Connor-Jail",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 339,
@@ -729,7 +729,7 @@
     {
       "id": 472,
       "nombre": "grey",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 29,
@@ -1049,12 +1049,12 @@
     {
       "id": 428,
       "nombre": "psyco2",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 449,
       "nombre": "leon2",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 560,
@@ -1599,7 +1599,7 @@
     {
       "id": 230,
       "nombre": "Mansion X",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 203,
@@ -1914,7 +1914,7 @@
     {
       "id": 297,
       "nombre": "Optimus Prime",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 745,
@@ -1944,7 +1944,7 @@
     {
       "id": 610,
       "nombre": "TED-CARTER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 349,
@@ -2979,7 +2979,7 @@
     {
       "id": 866,
       "nombre": "SNAKE-JAIL",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 843,
@@ -3189,7 +3189,7 @@
     {
       "id": 371,
       "nombre": "muerte2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 874,
@@ -3544,7 +3544,7 @@
     {
       "id": 889,
       "nombre": "LUKE-CAGE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 931,
@@ -4149,7 +4149,7 @@
     {
       "id": 386,
       "nombre": "CROMO PERSONAJE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 986,
@@ -5084,7 +5084,7 @@
     {
       "id": 817,
       "nombre": "RAIDEN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 761,
@@ -5324,7 +5324,7 @@
     {
       "id": 1095,
       "nombre": "CZ-PETER-VENKMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1141,
@@ -5359,6 +5359,21 @@
     {
       "id": 1198,
       "nombre": "1Z-BOWSER",
+      "cantidad": 1
+    },
+    {
+      "id": 1030,
+      "nombre": "BRUJA Y VISION",
+      "cantidad": 1
+    },
+    {
+      "id": 1130,
+      "nombre": "MARS-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1187,
+      "nombre": "CRIPTA-JAIL",
       "cantidad": 1
     }
   ]
