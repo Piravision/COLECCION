@@ -324,7 +324,7 @@
         {
             "id": 901,
             "nombre": "ULTRON",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 811,
@@ -1899,6 +1899,11 @@
         {
             "id": 763,
             "nombre": "black",
+            "cantidad": 1
+        },
+        {
+            "id": 768,
+            "nombre": "megazord",
             "cantidad": 1
         }
     ]
