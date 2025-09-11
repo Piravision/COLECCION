@@ -139,7 +139,7 @@
         {
             "id": 185,
             "nombre": "Morbius",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 39,
@@ -4954,6 +4954,11 @@
         {
             "id": 876,
             "nombre": "DORMAMMU",
+            "cantidad": 1
+        },
+        {
+            "id": 884,
+            "nombre": "IRON-FIST",
             "cantidad": 1
         }
     ]
