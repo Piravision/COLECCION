@@ -1224,7 +1224,7 @@
     {
       "id": 733,
       "nombre": "DB-121",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 223,
@@ -2879,6 +2879,16 @@
     {
       "id": 1203,
       "nombre": "2Z-PAC-MAN",
+      "cantidad": 1
+    },
+    {
+      "id": 804,
+      "nombre": "BARAKA",
+      "cantidad": 1
+    },
+    {
+      "id": 958,
+      "nombre": "2-ZIPPER",
       "cantidad": 1
     }
   ]

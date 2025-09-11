@@ -2614,7 +2614,7 @@
         {
             "id": 454,
             "nombre": "zombi",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 152,
@@ -4374,6 +4374,11 @@
         {
             "id": 269,
             "nombre": "Mona Lisa",
+            "cantidad": 1
+        },
+        {
+            "id": 150,
+            "nombre": "Throttle",
             "cantidad": 1
         }
     ]

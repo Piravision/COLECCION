@@ -899,7 +899,7 @@
         {
             "id": 150,
             "nombre": "Throttle",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 543,
@@ -4604,6 +4604,11 @@
         {
             "id": 475,
             "nombre": "Incubus",
+            "cantidad": 1
+        },
+        {
+            "id": 454,
+            "nombre": "zombi",
             "cantidad": 1
         }
     ]
