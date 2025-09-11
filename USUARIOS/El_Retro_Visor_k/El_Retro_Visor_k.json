@@ -559,7 +559,7 @@
         {
             "id": 223,
             "nombre": "G.I. JOE Headquarters",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 210,
@@ -5249,6 +5249,11 @@
         {
             "id": 1223,
             "nombre": "MARCO",
+            "cantidad": 1
+        },
+        {
+            "id": 241,
+            "nombre": "Thunder Tank",
             "cantidad": 1
         }
     ]
