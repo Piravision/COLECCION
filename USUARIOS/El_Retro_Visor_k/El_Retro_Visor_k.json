@@ -2439,7 +2439,7 @@
         {
             "id": 832,
             "nombre": "BLANKA",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 889,
@@ -5289,6 +5289,11 @@
         {
             "id": 839,
             "nombre": "DJ",
+            "cantidad": 1
+        },
+        {
+            "id": 850,
+            "nombre": "T-HAWK",
             "cantidad": 1
         }
     ]

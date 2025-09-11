@@ -344,7 +344,7 @@
         {
             "id": 450,
             "nombre": "licker",
-            "cantidad": 6
+            "cantidad": 7
         },
         {
             "id": 533,
@@ -804,7 +804,7 @@
         {
             "id": 488,
             "nombre": "metalhead",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 460,
@@ -819,7 +819,7 @@
         {
             "id": 458,
             "nombre": "hinata",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 149,
@@ -1094,7 +1094,7 @@
         {
             "id": 537,
             "nombre": "BOLO-YEUNG",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 292,
@@ -1644,7 +1644,7 @@
         {
             "id": 602,
             "nombre": "PAUL-DIAMOND",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 728,
@@ -4324,7 +4324,7 @@
         {
             "id": 832,
             "nombre": "BLANKA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 908,
@@ -5229,7 +5229,7 @@
         {
             "id": 850,
             "nombre": "T-HAWK",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 987,
@@ -5434,6 +5434,11 @@
         {
             "id": 1077,
             "nombre": "X -NIGHTCRAWLER",
+            "cantidad": 1
+        },
+        {
+            "id": 923,
+            "nombre": "REAL-VISITOR",
             "cantidad": 1
         }
     ]

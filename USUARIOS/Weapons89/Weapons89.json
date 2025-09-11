@@ -1894,7 +1894,7 @@
     {
       "id": 863,
       "nombre": "PREDATOR-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 210,
@@ -2309,7 +2309,7 @@
     {
       "id": 789,
       "nombre": "ENIGMA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 713,
@@ -3779,6 +3779,11 @@
     {
       "id": 1210,
       "nombre": "4-FINAL-FIGHT",
+      "cantidad": 1
+    },
+    {
+      "id": 708,
+      "nombre": "DB-096",
       "cantidad": 1
     }
   ]
