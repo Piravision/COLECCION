@@ -919,7 +919,7 @@
         {
             "id": 906,
             "nombre": "DR-FATE",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 201,
@@ -4404,6 +4404,11 @@
         {
             "id": 904,
             "nombre": "CLARK-KENT",
+            "cantidad": 1
+        },
+        {
+            "id": 913,
+            "nombre": "SUPERGIRL",
             "cantidad": 1
         }
     ]
