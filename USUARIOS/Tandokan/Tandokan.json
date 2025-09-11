@@ -124,7 +124,7 @@
     {
       "id": 289,
       "nombre": "Tokka",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 87,
@@ -514,7 +514,7 @@
     {
       "id": 560,
       "nombre": "MACGYVER-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 180,
@@ -684,7 +684,7 @@
     {
       "id": 214,
       "nombre": "Brimstar",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 391,
@@ -904,7 +904,7 @@
     {
       "id": 54,
       "nombre": "merle",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 616,
@@ -1344,7 +1344,7 @@
     {
       "id": 570,
       "nombre": "MILLION-DOLLAR-MAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 248,
@@ -1494,7 +1494,7 @@
     {
       "id": 854,
       "nombre": "RIC-FLAIR",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 724,
@@ -1829,7 +1829,7 @@
     {
       "id": 875,
       "nombre": "DARDEVIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 495,
@@ -1854,7 +1854,7 @@
     {
       "id": 353,
       "nombre": "zorgia",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 174,
@@ -2284,7 +2284,7 @@
     {
       "id": 340,
       "nombre": "Poseidón",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 206,
@@ -2449,7 +2449,7 @@
     {
       "id": 264,
       "nombre": "Donatello",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 402,
@@ -2464,7 +2464,7 @@
     {
       "id": 647,
       "nombre": "DB-035",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 483,
@@ -2784,7 +2784,7 @@
     {
       "id": 200,
       "nombre": "Swordo",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 819,
@@ -3209,7 +3209,7 @@
     {
       "id": 874,
       "nombre": "CAPTAIN-AMERICA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 268,
@@ -3274,7 +3274,7 @@
     {
       "id": 205,
       "nombre": "Shrimp Louie",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 466,
@@ -3384,7 +3384,7 @@
     {
       "id": 412,
       "nombre": "big2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 825,
@@ -4239,7 +4239,7 @@
     {
       "id": 746,
       "nombre": "Deathmask-de-Cancer",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 407,
@@ -4439,6 +4439,46 @@
     {
       "id": 1088,
       "nombre": "1-MISTERIOS-SA",
+      "cantidad": 1
+    },
+    {
+      "id": 880,
+      "nombre": "GREEN-GOBLIN",
+      "cantidad": 1
+    },
+    {
+      "id": 878,
+      "nombre": "FALCON",
+      "cantidad": 1
+    },
+    {
+      "id": 1094,
+      "nombre": "CZ-EGON-SPENGLER",
+      "cantidad": 1
+    },
+    {
+      "id": 1190,
+      "nombre": "METEORO",
+      "cantidad": 1
+    },
+    {
+      "id": 1228,
+      "nombre": "BEN-10",
+      "cantidad": 1
+    },
+    {
+      "id": 1025,
+      "nombre": "4FV -DR.DOOM",
+      "cantidad": 1
+    },
+    {
+      "id": 155,
+      "nombre": "Lawrence Limburger_",
+      "cantidad": 1
+    },
+    {
+      "id": 1117,
+      "nombre": "PF-PITUFINA",
       "cantidad": 1
     }
   ]
