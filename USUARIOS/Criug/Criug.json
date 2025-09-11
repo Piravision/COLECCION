@@ -379,7 +379,7 @@
     {
       "id": 319,
       "nombre": "Profesor Xavier",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 194,
@@ -504,7 +504,7 @@
     {
       "id": 545,
       "nombre": "IVAN-DRAGO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 373,
@@ -514,7 +514,7 @@
     {
       "id": 189,
       "nombre": "Shocker",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 21,
@@ -629,7 +629,7 @@
     {
       "id": 492,
       "nombre": "toasty",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 65,
@@ -1329,7 +1329,7 @@
     {
       "id": 401,
       "nombre": "cloud",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 680,
@@ -1944,7 +1944,7 @@
     {
       "id": 610,
       "nombre": "TED-CARTER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 349,
@@ -2019,7 +2019,7 @@
     {
       "id": 608,
       "nombre": "SHUN-NITTA",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 99,
@@ -2134,7 +2134,7 @@
     {
       "id": 742,
       "nombre": "Dark Saga",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 159,
@@ -2874,7 +2874,7 @@
     {
       "id": 796,
       "nombre": "MAN-BAT",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 802,
@@ -3064,7 +3064,7 @@
     {
       "id": 464,
       "nombre": "yamada",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 903,
@@ -3289,7 +3289,7 @@
     {
       "id": 596,
       "nombre": "K.HEINZ-SCHENEIDER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 82,
@@ -3379,7 +3379,7 @@
     {
       "id": 877,
       "nombre": "ENCHANTRESS",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 895,
@@ -4109,7 +4109,7 @@
     {
       "id": 1006,
       "nombre": "REENA-&-GAUDY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 391,
@@ -4929,7 +4929,7 @@
     {
       "id": 963,
       "nombre": "3-SRA.-HUDSON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 976,
@@ -5134,7 +5134,7 @@
     {
       "id": 708,
       "nombre": "DB-096",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1170,
@@ -5294,7 +5294,7 @@
     {
       "id": 1106,
       "nombre": "G-JASON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1016,
@@ -5404,6 +5404,16 @@
     {
       "id": 1179,
       "nombre": "BEETLEJUICE",
+      "cantidad": 1
+    },
+    {
+      "id": 1037,
+      "nombre": "CAPITAN-AMERICA-2",
+      "cantidad": 1
+    },
+    {
+      "id": 1144,
+      "nombre": "SUPERNENAS",
       "cantidad": 1
     }
   ]

@@ -2094,7 +2094,7 @@
     {
       "id": 462,
       "nombre": "sakura",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 717,
@@ -2624,7 +2624,7 @@
     {
       "id": 617,
       "nombre": "DB-005",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 719,
@@ -2804,7 +2804,7 @@
     {
       "id": 271,
       "nombre": "Neutrinos",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 726,
@@ -3664,7 +3664,7 @@
     {
       "id": 885,
       "nombre": "IRON-MAN",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 940,
@@ -4084,7 +4084,7 @@
     {
       "id": 743,
       "nombre": "Dark-Afrodita-de-Piscis",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 950,
@@ -5654,6 +5654,11 @@
     {
       "id": 1220,
       "nombre": "FOX",
+      "cantidad": 1
+    },
+    {
+      "id": 1085,
+      "nombre": "YV-YELLOWJACKET",
       "cantidad": 1
     }
   ]

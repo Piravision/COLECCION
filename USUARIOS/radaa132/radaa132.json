@@ -729,7 +729,7 @@
     {
       "id": 570,
       "nombre": "MILLION-DOLLAR-MAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 699,
@@ -759,7 +759,7 @@
     {
       "id": 511,
       "nombre": "YOSHI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 108,
@@ -874,7 +874,7 @@
     {
       "id": 886,
       "nombre": "KARNAK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 370,
@@ -1839,7 +1839,7 @@
     {
       "id": 348,
       "nombre": "Meia",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 744,
@@ -2654,6 +2654,31 @@
     {
       "id": 94,
       "nombre": "Goliath",
+      "cantidad": 1
+    },
+    {
+      "id": 428,
+      "nombre": "psyco2",
+      "cantidad": 1
+    },
+    {
+      "id": 194,
+      "nombre": "Mantaman",
+      "cantidad": 1
+    },
+    {
+      "id": 518,
+      "nombre": "Tecmódromo",
+      "cantidad": 1
+    },
+    {
+      "id": 823,
+      "nombre": "SHEEVA",
+      "cantidad": 1
+    },
+    {
+      "id": 261,
+      "nombre": "Reptilio",
       "cantidad": 1
     }
   ]
