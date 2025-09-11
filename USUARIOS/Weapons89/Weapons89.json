@@ -1589,7 +1589,7 @@
     {
       "id": 784,
       "nombre": "BULLOCK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 782,
@@ -2629,7 +2629,7 @@
     {
       "id": 632,
       "nombre": "DB-020",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 867,
@@ -3704,6 +3704,11 @@
     {
       "id": 103,
       "nombre": "Gung Ho",
+      "cantidad": 1
+    },
+    {
+      "id": 1146,
+      "nombre": "TROTAMUSICOS",
       "cantidad": 1
     }
   ]
