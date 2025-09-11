@@ -79,7 +79,7 @@
     {
       "id": 308,
       "nombre": "Starscream",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 309,
@@ -314,7 +314,7 @@
     {
       "id": 253,
       "nombre": "Buitro",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 524,
@@ -614,7 +614,7 @@
     {
       "id": 454,
       "nombre": "zombi",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 500,
@@ -679,7 +679,7 @@
     {
       "id": 317,
       "nombre": "Jean Grey",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 183,
@@ -759,7 +759,7 @@
     {
       "id": 143,
       "nombre": "Wildwing Flashblade",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 150,
@@ -989,7 +989,7 @@
     {
       "id": 559,
       "nombre": "MABARRACUS-JAIL",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 397,
@@ -1004,7 +1004,7 @@
     {
       "id": 92,
       "nombre": "Brooklyn",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 363,
@@ -1104,7 +1104,7 @@
     {
       "id": 4,
       "nombre": "Tex Hex",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 147,
@@ -1969,7 +1969,7 @@
     {
       "id": 674,
       "nombre": "DB-062",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 270,
@@ -2189,7 +2189,7 @@
     {
       "id": 569,
       "nombre": "MACHO-MAN",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 118,
@@ -2459,7 +2459,7 @@
     {
       "id": 45,
       "nombre": "garuda",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 591,
@@ -2519,7 +2519,7 @@
     {
       "id": 671,
       "nombre": "DB-059",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 466,
@@ -2794,7 +2794,7 @@
     {
       "id": 655,
       "nombre": "DB-043",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 756,
@@ -3004,7 +3004,7 @@
     {
       "id": 717,
       "nombre": "DB-105",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 337,
@@ -3209,7 +3209,7 @@
     {
       "id": 322,
       "nombre": "Rondador Nocturno",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 87,
@@ -3279,7 +3279,7 @@
     {
       "id": 898,
       "nombre": "SUB-MARINER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 589,
@@ -3404,7 +3404,7 @@
     {
       "id": 910,
       "nombre": "LOIS-LANE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 595,
@@ -3604,12 +3604,12 @@
     {
       "id": 763,
       "nombre": "black",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 584,
       "nombre": "DEUTER-MULLER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 949,
@@ -3894,7 +3894,7 @@
     {
       "id": 849,
       "nombre": "SAGAT",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 732,
@@ -4004,7 +4004,7 @@
     {
       "id": 900,
       "nombre": "THOR",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 879,
@@ -4099,7 +4099,7 @@
     {
       "id": 614,
       "nombre": "DB-002",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 947,
@@ -4199,7 +4199,7 @@
     {
       "id": 875,
       "nombre": "DARDEVIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 878,
@@ -4289,7 +4289,7 @@
     {
       "id": 958,
       "nombre": "2-ZIPPER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 909,
@@ -4669,7 +4669,7 @@
     {
       "id": 944,
       "nombre": "JOKER-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 316,
@@ -5334,7 +5334,7 @@
     {
       "id": 1182,
       "nombre": "JAYCE-Y-LOS-GUERREROS-RODANTES",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1180,
@@ -5374,6 +5374,26 @@
     {
       "id": 1187,
       "nombre": "CRIPTA-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1065,
+      "nombre": "TH - LOKI-2",
+      "cantidad": 1
+    },
+    {
+      "id": 1070,
+      "nombre": "UNION JACK",
+      "cantidad": 1
+    },
+    {
+      "id": 1158,
+      "nombre": "FLASH",
+      "cantidad": 1
+    },
+    {
+      "id": 995,
+      "nombre": "H.SAKURAGI",
       "cantidad": 1
     }
   ]
