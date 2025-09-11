@@ -239,7 +239,7 @@
         {
             "id": 538,
             "nombre": "BRUCE-LEE",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 242,
@@ -2919,7 +2919,7 @@
         {
             "id": 462,
             "nombre": "sakura",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 615,
@@ -4704,7 +4704,7 @@
         {
             "id": 1089,
             "nombre": "ACE-VENTURA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1119,
@@ -4759,7 +4759,7 @@
         {
             "id": 1107,
             "nombre": "G-MARK",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1007,
@@ -4979,7 +4979,7 @@
         {
             "id": 1179,
             "nombre": "BEETLEJUICE",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1038,
@@ -5079,7 +5079,7 @@
         {
             "id": 155,
             "nombre": "Lawrence Limburger_",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 583,
@@ -5269,6 +5269,16 @@
         {
             "id": 1218,
             "nombre": "BATTLETOAD",
+            "cantidad": 1
+        },
+        {
+            "id": 1037,
+            "nombre": "CAPITAN-AMERICA-2",
+            "cantidad": 1
+        },
+        {
+            "id": 216,
+            "nombre": "Centinela",
             "cantidad": 1
         }
     ]

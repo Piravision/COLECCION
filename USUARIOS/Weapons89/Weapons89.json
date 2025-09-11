@@ -984,7 +984,7 @@
     {
       "id": 268,
       "nombre": "Michelangelo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 197,
@@ -1009,7 +1009,7 @@
     {
       "id": 125,
       "nombre": "Teela",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 407,
@@ -1464,7 +1464,7 @@
     {
       "id": 619,
       "nombre": "DB-007",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 285,
@@ -1564,7 +1564,7 @@
     {
       "id": 25,
       "nombre": "Diana",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 854,
@@ -1599,7 +1599,7 @@
     {
       "id": 791,
       "nombre": "GORDON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 848,
@@ -2199,7 +2199,7 @@
     {
       "id": 706,
       "nombre": "DB-094",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 214,
@@ -2284,7 +2284,7 @@
     {
       "id": 439,
       "nombre": "mudokons",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 771,
@@ -2989,7 +2989,7 @@
     {
       "id": 1124,
       "nombre": "GENKI-&-MOCCHI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 979,
@@ -3484,7 +3484,7 @@
     {
       "id": 296,
       "nombre": "Jazz",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 17,
@@ -3554,7 +3554,7 @@
     {
       "id": 1052,
       "nombre": "JOCASTA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 432,
@@ -3754,6 +3754,31 @@
     {
       "id": 724,
       "nombre": "DB-112",
+      "cantidad": 1
+    },
+    {
+      "id": 49,
+      "nombre": "leona",
+      "cantidad": 1
+    },
+    {
+      "id": 300,
+      "nombre": "Wheeljack",
+      "cantidad": 1
+    },
+    {
+      "id": 645,
+      "nombre": "DB-033",
+      "cantidad": 1
+    },
+    {
+      "id": 1143,
+      "nombre": "PINKY-&-CEREBRO",
+      "cantidad": 1
+    },
+    {
+      "id": 1210,
+      "nombre": "4-FINAL-FIGHT",
       "cantidad": 1
     }
   ]
