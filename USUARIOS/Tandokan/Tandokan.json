@@ -309,7 +309,7 @@
     {
       "id": 240,
       "nombre": "Terror Drome",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 460,
@@ -569,7 +569,7 @@
     {
       "id": 719,
       "nombre": "DB-107",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 309,
@@ -1399,7 +1399,7 @@
     {
       "id": 627,
       "nombre": "DB-015",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 679,
@@ -2094,7 +2094,7 @@
     {
       "id": 678,
       "nombre": "DB-066",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 302,
@@ -3764,7 +3764,7 @@
     {
       "id": 252,
       "nombre": "Alluro",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 447,
@@ -4024,7 +4024,7 @@
     {
       "id": 530,
       "nombre": "Axel-Foley-Jail",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 917,
@@ -4164,7 +4164,7 @@
     {
       "id": 1178,
       "nombre": "ZATCH-BELL-&-K.TAKAMINE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 127,
@@ -4294,6 +4294,16 @@
     {
       "id": 1175,
       "nombre": "EREN-YEAGER",
+      "cantidad": 1
+    },
+    {
+      "id": 1187,
+      "nombre": "CRIPTA-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1188,
+      "nombre": "CARMEN-SANDIEGO",
       "cantidad": 1
     }
   ]
