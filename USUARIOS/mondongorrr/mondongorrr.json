@@ -2139,7 +2139,7 @@
         {
             "id": 244,
             "nombre": "Felina",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 261,
@@ -4594,6 +4594,11 @@
         {
             "id": 248,
             "nombre": "Panthro",
+            "cantidad": 1
+        },
+        {
+            "id": 253,
+            "nombre": "Buitro",
             "cantidad": 1
         }
     ]

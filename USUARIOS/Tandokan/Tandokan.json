@@ -389,7 +389,7 @@
         {
             "id": 253,
             "nombre": "Buitro",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 348,
@@ -4364,6 +4364,11 @@
         {
             "id": 260,
             "nombre": "Princesa Luna",
+            "cantidad": 1
+        },
+        {
+            "id": 244,
+            "nombre": "Felina",
             "cantidad": 1
         }
     ]
