@@ -2239,7 +2239,7 @@
         {
             "id": 886,
             "nombre": "KARNAK",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 372,
@@ -4619,6 +4619,11 @@
         {
             "id": 446,
             "nombre": "CUERVOS",
+            "cantidad": 1
+        },
+        {
+            "id": 1017,
+            "nombre": "1-SPIDERWOMAN",
             "cantidad": 1
         }
     ]
