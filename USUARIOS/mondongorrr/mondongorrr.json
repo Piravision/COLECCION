@@ -684,7 +684,7 @@
         {
             "id": 269,
             "nombre": "Mona Lisa",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 156,
@@ -4599,6 +4599,11 @@
         {
             "id": 253,
             "nombre": "Buitro",
+            "cantidad": 1
+        },
+        {
+            "id": 475,
+            "nombre": "Incubus",
             "cantidad": 1
         }
     ]

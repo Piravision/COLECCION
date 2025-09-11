@@ -2714,7 +2714,7 @@
         {
             "id": 475,
             "nombre": "Incubus",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 843,
@@ -4369,6 +4369,11 @@
         {
             "id": 244,
             "nombre": "Felina",
+            "cantidad": 1
+        },
+        {
+            "id": 269,
+            "nombre": "Mona Lisa",
             "cantidad": 1
         }
     ]
