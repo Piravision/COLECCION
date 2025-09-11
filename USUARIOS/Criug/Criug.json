@@ -19,7 +19,7 @@
         {
             "id": 91,
             "nombre": "Bronx",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 246,
@@ -119,7 +119,7 @@
         {
             "id": 9,
             "nombre": "Rhadamanthys",
-            "cantidad": 7
+            "cantidad": 8
         },
         {
             "id": 225,
@@ -459,12 +459,12 @@
         {
             "id": 508,
             "nombre": "law",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 175,
             "nombre": "Buitre",
-            "cantidad": 10
+            "cantidad": 11
         },
         {
             "id": 173,
@@ -654,7 +654,7 @@
         {
             "id": 522,
             "nombre": "lara",
-            "cantidad": 6
+            "cantidad": 7
         },
         {
             "id": 424,
@@ -769,7 +769,7 @@
         {
             "id": 72,
             "nombre": "hynkel malo",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 547,
@@ -1039,7 +1039,7 @@
         {
             "id": 368,
             "nombre": "DRACULA1",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 516,
@@ -1444,7 +1444,7 @@
         {
             "id": 672,
             "nombre": "DB-060",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 455,
@@ -1544,7 +1544,7 @@
         {
             "id": 480,
             "nombre": "Twinfeeler",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 98,
@@ -1829,7 +1829,7 @@
         {
             "id": 271,
             "nombre": "Neutrinos",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 698,
@@ -1944,7 +1944,7 @@
         {
             "id": 610,
             "nombre": "TED-CARTER",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 349,
@@ -1964,7 +1964,7 @@
         {
             "id": 364,
             "nombre": "HulkHogan",
-            "cantidad": 8
+            "cantidad": 9
         },
         {
             "id": 674,
@@ -2214,7 +2214,7 @@
         {
             "id": 184,
             "nombre": "Lizard",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 24,
@@ -2339,7 +2339,7 @@
         {
             "id": 269,
             "nombre": "Mona Lisa",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 487,
@@ -2574,7 +2574,7 @@
         {
             "id": 442,
             "nombre": "slig2",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 764,
@@ -2744,7 +2744,7 @@
         {
             "id": 829,
             "nombre": "AKUMA",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 250,
@@ -2884,7 +2884,7 @@
         {
             "id": 790,
             "nombre": "ESPANTAPAJAROS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 794,
@@ -3074,7 +3074,7 @@
         {
             "id": 839,
             "nombre": "DJ",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 110,
@@ -3129,7 +3129,7 @@
         {
             "id": 890,
             "nombre": "MEDUSA",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 433,
@@ -3679,7 +3679,7 @@
         {
             "id": 941,
             "nombre": "GREMLIN-JAIL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 170,
@@ -4244,7 +4244,7 @@
         {
             "id": 111,
             "nombre": "Dr. Mindbender",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1015,
@@ -4639,7 +4639,7 @@
         {
             "id": 697,
             "nombre": "DB-085",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 120,
@@ -4704,7 +4704,7 @@
         {
             "id": 1038,
             "nombre": "CAPITANA MARVEL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 822,
@@ -4724,7 +4724,7 @@
         {
             "id": 1039,
             "nombre": "DAREDEVIL-2",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1074,
@@ -4844,7 +4844,7 @@
         {
             "id": 1021,
             "nombre": "4F COSA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1035,
@@ -5224,7 +5224,7 @@
         {
             "id": 821,
             "nombre": "SHANG-TSUNG",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 850,
@@ -5334,7 +5334,7 @@
         {
             "id": 1182,
             "nombre": "JAYCE-Y-LOS-GUERREROS-RODANTES",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1180,
@@ -5424,6 +5424,16 @@
         {
             "id": 934,
             "nombre": "SHAWN-MICHAELS",
+            "cantidad": 1
+        },
+        {
+            "id": 1092,
+            "nombre": "CAZAFANTASMAS",
+            "cantidad": 1
+        },
+        {
+            "id": 1077,
+            "nombre": "X -NIGHTCRAWLER",
             "cantidad": 1
         }
     ]
