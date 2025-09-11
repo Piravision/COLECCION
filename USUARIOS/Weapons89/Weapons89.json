@@ -3519,7 +3519,7 @@
         {
             "id": 1049,
             "nombre": "I-MEDUSA-2",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 910,
@@ -3674,6 +3674,11 @@
         {
             "id": 876,
             "nombre": "DORMAMMU",
+            "cantidad": 1
+        },
+        {
+            "id": 171,
+            "nombre": "Mary Jane",
             "cantidad": 1
         }
     ]

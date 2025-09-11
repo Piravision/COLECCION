@@ -1514,7 +1514,7 @@
         {
             "id": 171,
             "nombre": "Mary Jane",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 325,
@@ -4544,6 +4544,11 @@
         {
             "id": 444,
             "nombre": "birki",
+            "cantidad": 1
+        },
+        {
+            "id": 1049,
+            "nombre": "I-MEDUSA-2",
             "cantidad": 1
         }
     ]
