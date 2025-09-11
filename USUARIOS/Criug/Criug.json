@@ -444,7 +444,7 @@
     {
       "id": 358,
       "nombre": "jenny",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 139,
@@ -2324,7 +2324,7 @@
     {
       "id": 577,
       "nombre": "ALAN-PASCAL",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 762,
@@ -4169,7 +4169,7 @@
     {
       "id": 633,
       "nombre": "DB-021",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 993,
@@ -4614,7 +4614,7 @@
     {
       "id": 684,
       "nombre": "DB-072",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 779,
@@ -5394,6 +5394,16 @@
     {
       "id": 995,
       "nombre": "H.SAKURAGI",
+      "cantidad": 1
+    },
+    {
+      "id": 1190,
+      "nombre": "METEORO",
+      "cantidad": 1
+    },
+    {
+      "id": 1179,
+      "nombre": "BEETLEJUICE",
       "cantidad": 1
     }
   ]

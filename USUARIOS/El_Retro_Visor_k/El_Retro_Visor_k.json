@@ -289,7 +289,7 @@
     {
       "id": 149,
       "nombre": "Modo",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 79,
@@ -439,7 +439,7 @@
     {
       "id": 88,
       "nombre": "Zackary Foxx",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 154,
@@ -1164,7 +1164,7 @@
     {
       "id": 712,
       "nombre": "DB-100",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 299,
@@ -1599,7 +1599,7 @@
     {
       "id": 86,
       "nombre": "Shane Gooseman",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 320,
@@ -3069,7 +3069,7 @@
     {
       "id": 85,
       "nombre": "Niko",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 135,
@@ -3739,7 +3739,7 @@
     {
       "id": 730,
       "nombre": "DB-118",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 485,
@@ -3914,7 +3914,7 @@
     {
       "id": 697,
       "nombre": "DB-085",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1003,
@@ -3939,7 +3939,7 @@
     {
       "id": 990,
       "nombre": "CHICHO-TERREMOTO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 11,
@@ -5184,6 +5184,11 @@
     {
       "id": 1210,
       "nombre": "4-FINAL-FIGHT",
+      "cantidad": 1
+    },
+    {
+      "id": 1030,
+      "nombre": "BRUJA Y VISION",
       "cantidad": 1
     }
   ]
