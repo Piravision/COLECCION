@@ -1334,7 +1334,7 @@
         {
             "id": 44,
             "nombre": "Fly",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 64,
@@ -4554,6 +4554,11 @@
         {
             "id": 68,
             "nombre": "galdandy",
+            "cantidad": 1
+        },
+        {
+            "id": 80,
+            "nombre": "robot",
             "cantidad": 1
         }
     ]
