@@ -2269,7 +2269,7 @@
     {
       "id": 916,
       "nombre": "CHUKY-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 474,
@@ -3399,7 +3399,7 @@
     {
       "id": 837,
       "nombre": "DALSHIM",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 881,
@@ -3489,7 +3489,7 @@
     {
       "id": 17,
       "nombre": "Guerrero Serpiente",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 714,
@@ -3714,6 +3714,21 @@
     {
       "id": 21,
       "nombre": "Windfang",
+      "cantidad": 1
+    },
+    {
+      "id": 351,
+      "nombre": "reaper",
+      "cantidad": 1
+    },
+    {
+      "id": 809,
+      "nombre": "KABAL",
+      "cantidad": 1
+    },
+    {
+      "id": 912,
+      "nombre": "SINIESTRO",
       "cantidad": 1
     }
   ]

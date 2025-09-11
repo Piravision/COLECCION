@@ -654,7 +654,7 @@
         {
             "id": 219,
             "nombre": "Dirigible Tortuga",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 645,
@@ -4409,6 +4409,11 @@
         {
             "id": 913,
             "nombre": "SUPERGIRL",
+            "cantidad": 1
+        },
+        {
+            "id": 228,
+            "nombre": "Isla Dermline",
             "cantidad": 1
         }
     ]

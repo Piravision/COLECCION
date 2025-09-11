@@ -589,7 +589,7 @@
         {
             "id": 228,
             "nombre": "Isla Dermline",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 682,
@@ -4639,6 +4639,11 @@
         {
             "id": 906,
             "nombre": "DR-FATE",
+            "cantidad": 1
+        },
+        {
+            "id": 219,
+            "nombre": "Dirigible Tortuga",
             "cantidad": 1
         }
     ]
