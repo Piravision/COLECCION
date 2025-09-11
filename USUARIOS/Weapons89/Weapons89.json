@@ -499,7 +499,7 @@
     {
       "id": 169,
       "nombre": "Hombre de Hielo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 546,
@@ -1659,7 +1659,7 @@
     {
       "id": 888,
       "nombre": "LOKI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 905,
@@ -1674,7 +1674,7 @@
     {
       "id": 768,
       "nombre": "megazord",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 392,
@@ -2469,7 +2469,7 @@
     {
       "id": 842,
       "nombre": "GUILE2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 900,
@@ -2499,7 +2499,7 @@
     {
       "id": 707,
       "nombre": "DB-095",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 929,
@@ -3619,6 +3619,26 @@
     {
       "id": 1205,
       "nombre": "3-TAILS",
+      "cantidad": 1
+    },
+    {
+      "id": 690,
+      "nombre": "DB-078",
+      "cantidad": 1
+    },
+    {
+      "id": 1224,
+      "nombre": "SAMUS",
+      "cantidad": 1
+    },
+    {
+      "id": 738,
+      "nombre": "Aldebarán-de-Tauro",
+      "cantidad": 1
+    },
+    {
+      "id": 180,
+      "nombre": "Electro",
       "cantidad": 1
     }
   ]
