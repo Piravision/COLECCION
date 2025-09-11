@@ -114,7 +114,7 @@
         {
             "id": 83,
             "nombre": "zamza",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 75,
@@ -3689,6 +3689,11 @@
         {
             "id": 44,
             "nombre": "Fly",
+            "cantidad": 1
+        },
+        {
+            "id": 295,
+            "nombre": "Ironhide",
             "cantidad": 1
         }
     ]
