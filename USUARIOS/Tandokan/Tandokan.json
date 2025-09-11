@@ -3084,7 +3084,7 @@
         {
             "id": 911,
             "nombre": "MARTHA-KENT",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 442,
@@ -4399,6 +4399,11 @@
         {
             "id": 900,
             "nombre": "THOR",
+            "cantidad": 1
+        },
+        {
+            "id": 904,
+            "nombre": "CLARK-KENT",
             "cantidad": 1
         }
     ]

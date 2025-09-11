@@ -2134,7 +2134,7 @@
         {
             "id": 904,
             "nombre": "CLARK-KENT",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 244,
@@ -4629,6 +4629,11 @@
         {
             "id": 1030,
             "nombre": "BRUJA Y VISION",
+            "cantidad": 1
+        },
+        {
+            "id": 911,
+            "nombre": "MARTHA-KENT",
             "cantidad": 1
         }
     ]
