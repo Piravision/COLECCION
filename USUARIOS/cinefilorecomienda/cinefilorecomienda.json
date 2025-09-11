@@ -1534,7 +1534,7 @@
     {
       "id": 1090,
       "nombre": "ANIMANIACS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 967,
@@ -1824,6 +1824,16 @@
     {
       "id": 797,
       "nombre": "MR-FREEZE",
+      "cantidad": 1
+    },
+    {
+      "id": 185,
+      "nombre": "Morbius",
+      "cantidad": 1
+    },
+    {
+      "id": 843,
+      "nombre": "HONDA",
       "cantidad": 1
     }
   ]
