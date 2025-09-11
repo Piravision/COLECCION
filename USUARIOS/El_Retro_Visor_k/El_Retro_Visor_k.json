@@ -2694,7 +2694,7 @@
         {
             "id": 406,
             "nombre": "turcos",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 599,
@@ -5209,6 +5209,11 @@
         {
             "id": 682,
             "nombre": "DB-070",
+            "cantidad": 1
+        },
+        {
+            "id": 476,
+            "nombre": "Kaufman",
             "cantidad": 1
         }
     ]
