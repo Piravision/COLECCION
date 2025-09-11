@@ -2004,7 +2004,7 @@
         {
             "id": 876,
             "nombre": "DORMAMMU",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 326,
@@ -5224,6 +5224,11 @@
         {
             "id": 821,
             "nombre": "SHANG-TSUNG",
+            "cantidad": 1
+        },
+        {
+            "id": 184,
+            "nombre": "Lizard",
             "cantidad": 1
         }
     ]

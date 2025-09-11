@@ -114,7 +114,7 @@
         {
             "id": 184,
             "nombre": "Lizard",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 6,
@@ -4949,6 +4949,11 @@
         {
             "id": 823,
             "nombre": "SHEEVA",
+            "cantidad": 1
+        },
+        {
+            "id": 876,
+            "nombre": "DORMAMMU",
             "cantidad": 1
         }
     ]
