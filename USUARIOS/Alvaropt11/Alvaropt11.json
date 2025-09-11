@@ -2374,7 +2374,7 @@
         {
             "id": 881,
             "nombre": "HAWKEYE",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 863,
@@ -5384,6 +5384,11 @@
         {
             "id": 901,
             "nombre": "ULTRON",
+            "cantidad": 1
+        },
+        {
+            "id": 984,
+            "nombre": "14-BABY-SINCLAIR",
             "cantidad": 1
         }
     ]
