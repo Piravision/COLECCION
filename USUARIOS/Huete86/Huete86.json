@@ -999,7 +999,7 @@
     {
       "id": 389,
       "nombre": "neo cortex",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 220,
@@ -1799,7 +1799,7 @@
     {
       "id": 190,
       "nombre": "Spider Woman",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 568,
@@ -1874,7 +1874,7 @@
     {
       "id": 394,
       "nombre": "vsneo",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 275,
@@ -2059,7 +2059,7 @@
     {
       "id": 517,
       "nombre": "Pirámide Negra",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 323,
@@ -2229,7 +2229,7 @@
     {
       "id": 638,
       "nombre": "DB-026",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 398,
@@ -3704,7 +3704,7 @@
     {
       "id": 899,
       "nombre": "THANOS",
-      "cantidad": 2
+      "cantidad": 4
     },
     {
       "id": 384,
@@ -3769,7 +3769,7 @@
     {
       "id": 986,
       "nombre": "15-BALOO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 977,
@@ -3984,7 +3984,7 @@
     {
       "id": 324,
       "nombre": "Wolverine",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 956,
@@ -4004,7 +4004,7 @@
     {
       "id": 328,
       "nombre": "Juggernaut",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 754,
@@ -4079,7 +4079,7 @@
     {
       "id": 578,
       "nombre": "BENJI-PRICE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 845,
@@ -4174,7 +4174,7 @@
     {
       "id": 973,
       "nombre": "8-WILLY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 984,
@@ -4324,7 +4324,7 @@
     {
       "id": 593,
       "nombre": "JOHNNY-MASON",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 747,
@@ -4574,7 +4574,7 @@
     {
       "id": 1019,
       "nombre": "4F - MUJER INVISIBLE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1079,
@@ -4589,7 +4589,7 @@
     {
       "id": 891,
       "nombre": "MODOK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 699,
@@ -4699,7 +4699,7 @@
     {
       "id": 673,
       "nombre": "DB-061",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 675,
@@ -4759,7 +4759,7 @@
     {
       "id": 55,
       "nombre": "mina",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 635,
@@ -5089,7 +5089,7 @@
     {
       "id": 928,
       "nombre": "JOHN-CENA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1125,
@@ -5299,7 +5299,7 @@
     {
       "id": 713,
       "nombre": "DB-101",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1062,
@@ -5354,6 +5354,16 @@
     {
       "id": 1178,
       "nombre": "ZATCH-BELL-&-K.TAKAMINE",
+      "cantidad": 1
+    },
+    {
+      "id": 1191,
+      "nombre": "SPENCER-&-ALLO",
+      "cantidad": 1
+    },
+    {
+      "id": 1000,
+      "nombre": "SON-GOKU",
       "cantidad": 1
     }
   ]
