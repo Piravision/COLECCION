@@ -439,7 +439,7 @@
         {
             "id": 406,
             "nombre": "turcos",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 465,
@@ -2509,7 +2509,7 @@
         {
             "id": 795,
             "nombre": "JOKER",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 810,
@@ -4614,7 +4614,7 @@
         {
             "id": 944,
             "nombre": "JOKER-JAIL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1169,
@@ -5394,11 +5394,16 @@
         {
             "id": 843,
             "nombre": "HONDA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 501,
             "nombre": "SOLON",
+            "cantidad": 1
+        },
+        {
+            "id": 845,
+            "nombre": "KEN",
             "cantidad": 1
         }
     ]

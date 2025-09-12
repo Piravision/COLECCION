@@ -179,7 +179,7 @@
         {
             "id": 44,
             "nombre": "Fly",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 260,
@@ -914,7 +914,7 @@
         {
             "id": 265,
             "nombre": "Leatherhead",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 72,
@@ -1674,7 +1674,7 @@
         {
             "id": 85,
             "nombre": "Niko",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 613,
@@ -1959,7 +1959,7 @@
         {
             "id": 236,
             "nombre": "Shark Tank",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 683,
@@ -2419,7 +2419,7 @@
         {
             "id": 564,
             "nombre": "SLIMER",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 693,
@@ -2989,7 +2989,7 @@
         {
             "id": 317,
             "nombre": "Jean Grey",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 404,
@@ -3139,7 +3139,7 @@
         {
             "id": 18,
             "nombre": "Mesmira",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 874,
@@ -3594,7 +3594,7 @@
         {
             "id": 951,
             "nombre": "10-DANIEL-EL-TRAVIESO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 959,
@@ -3619,7 +3619,7 @@
         {
             "id": 869,
             "nombre": "ARNIM-ZOLA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 940,
@@ -3814,7 +3814,7 @@
         {
             "id": 519,
             "nombre": "Tortugamóvil",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 663,
@@ -4109,7 +4109,7 @@
         {
             "id": 507,
             "nombre": "KING",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 632,
@@ -4199,7 +4199,7 @@
         {
             "id": 986,
             "nombre": "15-BALOO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 644,
@@ -4764,7 +4764,7 @@
         {
             "id": 1116,
             "nombre": "PF-PAPA-PITUFO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 149,
@@ -4854,7 +4854,7 @@
         {
             "id": 1158,
             "nombre": "FLASH",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1163,
@@ -4994,7 +4994,7 @@
         {
             "id": 816,
             "nombre": "QUAN-CHI",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 977,
@@ -5039,11 +5039,31 @@
         {
             "id": 845,
             "nombre": "KEN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 319,
             "nombre": "Profesor Xavier",
+            "cantidad": 1
+        },
+        {
+            "id": 1117,
+            "nombre": "PF-PITUFINA",
+            "cantidad": 1
+        },
+        {
+            "id": 1088,
+            "nombre": "1-MISTERIOS-SA",
+            "cantidad": 1
+        },
+        {
+            "id": 1222,
+            "nombre": "LINK",
+            "cantidad": 1
+        },
+        {
+            "id": 843,
+            "nombre": "HONDA",
             "cantidad": 1
         }
     ]
