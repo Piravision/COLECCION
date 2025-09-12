@@ -269,7 +269,7 @@
     {
       "id": 816,
       "nombre": "QUAN-CHI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 583,
@@ -1599,7 +1599,7 @@
     {
       "id": 357,
       "nombre": "china",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 355,
@@ -1984,6 +1984,11 @@
     {
       "id": 1243,
       "nombre": "EXPEDIENTE-X",
+      "cantidad": 1
+    },
+    {
+      "id": 431,
+      "nombre": "solid",
       "cantidad": 1
     }
   ]
