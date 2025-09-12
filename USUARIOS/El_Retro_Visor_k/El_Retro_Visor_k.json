@@ -2004,7 +2004,7 @@
         {
             "id": 876,
             "nombre": "DORMAMMU",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 326,
@@ -5514,6 +5514,11 @@
         {
             "id": 1019,
             "nombre": "4F - MUJER INVISIBLE",
+            "cantidad": 1
+        },
+        {
+            "id": 1021,
+            "nombre": "4F COSA",
             "cantidad": 1
         }
     ]
