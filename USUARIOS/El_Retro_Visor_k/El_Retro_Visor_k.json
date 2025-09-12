@@ -1694,7 +1694,7 @@
         {
             "id": 855,
             "nombre": "ALIEN-JAIL",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 455,
@@ -5339,6 +5339,11 @@
         {
             "id": 922,
             "nombre": "LYDIA",
+            "cantidad": 1
+        },
+        {
+            "id": 1108,
+            "nombre": "G-PRINCESA",
             "cantidad": 1
         }
     ]
