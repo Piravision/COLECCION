@@ -1159,7 +1159,7 @@
     {
       "id": 955,
       "nombre": "2-CHOP",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 703,
@@ -1319,6 +1319,16 @@
     {
       "id": 1208,
       "nombre": "4-CAPTAIN-COMMANDO",
+      "cantidad": 1
+    },
+    {
+      "id": 1138,
+      "nombre": "LUCKY-LUKE",
+      "cantidad": 1
+    },
+    {
+      "id": 326,
+      "nombre": "Blob",
       "cantidad": 1
     }
   ]
