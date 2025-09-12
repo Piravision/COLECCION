@@ -4484,7 +4484,7 @@
         {
             "id": 1045,
             "nombre": "HAWKEYE-2",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 842,
@@ -5319,6 +5319,11 @@
         {
             "id": 411,
             "nombre": "big",
+            "cantidad": 1
+        },
+        {
+            "id": 423,
+            "nombre": "meryl2",
             "cantidad": 1
         }
     ]

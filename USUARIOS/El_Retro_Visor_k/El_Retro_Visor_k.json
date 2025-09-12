@@ -2579,7 +2579,7 @@
         {
             "id": 423,
             "nombre": "meryl2",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 928,
@@ -5419,6 +5419,11 @@
         {
             "id": 899,
             "nombre": "THANOS",
+            "cantidad": 1
+        },
+        {
+            "id": 1045,
+            "nombre": "HAWKEYE-2",
             "cantidad": 1
         }
     ]
