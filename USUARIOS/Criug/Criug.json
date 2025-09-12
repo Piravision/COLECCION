@@ -1864,7 +1864,7 @@
         {
             "id": 400,
             "nombre": "cid",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 325,
@@ -4074,7 +4074,7 @@
         {
             "id": 946,
             "nombre": "SLOTH-JAIL",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 837,
@@ -5009,7 +5009,7 @@
         {
             "id": 658,
             "nombre": "DB-046",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 750,
@@ -5424,7 +5424,7 @@
         {
             "id": 934,
             "nombre": "SHAWN-MICHAELS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1092,
@@ -5499,6 +5499,11 @@
         {
             "id": 1084,
             "nombre": "YV- WASP",
+            "cantidad": 1
+        },
+        {
+            "id": 1110,
+            "nombre": "G-ZOLTAR",
             "cantidad": 1
         }
     ]
