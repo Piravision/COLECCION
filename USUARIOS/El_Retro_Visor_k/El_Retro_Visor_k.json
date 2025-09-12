@@ -2174,7 +2174,7 @@
         {
             "id": 883,
             "nombre": "HULK",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 206,
@@ -5519,6 +5519,11 @@
         {
             "id": 1021,
             "nombre": "4F COSA",
+            "cantidad": 1
+        },
+        {
+            "id": 1024,
+            "nombre": "4FV - SILVER SURFER",
             "cantidad": 1
         }
     ]
