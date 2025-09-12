@@ -2754,7 +2754,7 @@
         {
             "id": 857,
             "nombre": "DOC-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 880,
@@ -5329,6 +5329,11 @@
         {
             "id": 481,
             "nombre": "Capitán-Stargazer",
+            "cantidad": 1
+        },
+        {
+            "id": 179,
+            "nombre": "Duende Verde",
             "cantidad": 1
         }
     ]
