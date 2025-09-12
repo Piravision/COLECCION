@@ -2994,7 +2994,7 @@
         {
             "id": 660,
             "nombre": "DB-048",
-            "cantidad": 6
+            "cantidad": 5
         },
         {
             "id": 293,
@@ -5379,6 +5379,11 @@
         {
             "id": 231,
             "nombre": "Manual de Avan",
+            "cantidad": 1
+        },
+        {
+            "id": 651,
+            "nombre": "DB-039",
             "cantidad": 1
         }
     ]
