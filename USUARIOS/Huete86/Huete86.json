@@ -3704,7 +3704,7 @@
         {
             "id": 899,
             "nombre": "THANOS",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 384,
@@ -5389,6 +5389,11 @@
         {
             "id": 981,
             "nombre": "14-ETHYL-PHILLIPS",
+            "cantidad": 1
+        },
+        {
+            "id": 1057,
+            "nombre": "PALADIN",
             "cantidad": 1
         }
     ]
