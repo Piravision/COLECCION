@@ -2724,7 +2724,7 @@
         {
             "id": 861,
             "nombre": "MARTY-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 860,
@@ -5334,6 +5334,11 @@
         {
             "id": 179,
             "nombre": "Duende Verde",
+            "cantidad": 1
+        },
+        {
+            "id": 922,
+            "nombre": "LYDIA",
             "cantidad": 1
         }
     ]
