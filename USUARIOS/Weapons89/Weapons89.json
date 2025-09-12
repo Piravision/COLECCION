@@ -1099,7 +1099,7 @@
     {
       "id": 334,
       "nombre": "Siniestro",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 102,
@@ -1429,7 +1429,7 @@
     {
       "id": 556,
       "nombre": "LEIA-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 699,
@@ -1944,7 +1944,7 @@
     {
       "id": 971,
       "nombre": "7-INSPECTOR-GADGET",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 955,
@@ -1954,7 +1954,7 @@
     {
       "id": 949,
       "nombre": "1-DARTACAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 964,
@@ -2709,7 +2709,7 @@
     {
       "id": 921,
       "nombre": "JULIET-PARRISH",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 931,
@@ -2874,7 +2874,7 @@
     {
       "id": 874,
       "nombre": "CAPTAIN-AMERICA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 587,
@@ -3389,7 +3389,7 @@
     {
       "id": 430,
       "nombre": "sniper2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1003,
@@ -3859,6 +3859,46 @@
     {
       "id": 1149,
       "nombre": "ATOM",
+      "cantidad": 1
+    },
+    {
+      "id": 1129,
+      "nombre": "CRITTER-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 278,
+      "nombre": "Bebop",
+      "cantidad": 1
+    },
+    {
+      "id": 1229,
+      "nombre": "MIGHTY-MAX",
+      "cantidad": 1
+    },
+    {
+      "id": 1258,
+      "nombre": "XENA-LA-PRINCESA-GUERRERA",
+      "cantidad": 1
+    },
+    {
+      "id": 923,
+      "nombre": "REAL-VISITOR",
+      "cantidad": 1
+    },
+    {
+      "id": 1249,
+      "nombre": "MATRIMONIO-CON-HIJOS",
+      "cantidad": 1
+    },
+    {
+      "id": 1236,
+      "nombre": "1-PRINCIPE-DE-BEL-AIR",
+      "cantidad": 1
+    },
+    {
+      "id": 925,
+      "nombre": "WILLY-",
       "cantidad": 1
     }
   ]

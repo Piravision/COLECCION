@@ -3154,7 +3154,7 @@
         {
             "id": 792,
             "nombre": "HARLEY-QUEEN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 925,
@@ -4674,6 +4674,11 @@
         {
             "id": 1010,
             "nombre": "LUPIN-III",
+            "cantidad": 1
+        },
+        {
+            "id": 1011,
+            "nombre": "TAI-&-AGUMON",
             "cantidad": 1
         }
     ]

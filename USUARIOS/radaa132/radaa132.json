@@ -1259,7 +1259,7 @@
     {
       "id": 154,
       "nombre": "Grease Pit",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 803,
@@ -2359,7 +2359,7 @@
     {
       "id": 830,
       "nombre": "BALROG",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 542,
@@ -2709,6 +2709,56 @@
     {
       "id": 612,
       "nombre": "TOM-BAKER",
+      "cantidad": 1
+    },
+    {
+      "id": 26,
+      "nombre": "Eric",
+      "cantidad": 1
+    },
+    {
+      "id": 1192,
+      "nombre": "THUNDARR",
+      "cantidad": 1
+    },
+    {
+      "id": 1006,
+      "nombre": "REENA-&-GAUDY",
+      "cantidad": 1
+    },
+    {
+      "id": 749,
+      "nombre": "Hilda",
+      "cantidad": 1
+    },
+    {
+      "id": 216,
+      "nombre": "Centinela",
+      "cantidad": 1
+    },
+    {
+      "id": 218,
+      "nombre": "Cybertron",
+      "cantidad": 1
+    },
+    {
+      "id": 471,
+      "nombre": "Garland",
+      "cantidad": 1
+    },
+    {
+      "id": 920,
+      "nombre": "HAM-TYLER",
+      "cantidad": 1
+    },
+    {
+      "id": 924,
+      "nombre": "VISITOR-SOLDIER",
+      "cantidad": 1
+    },
+    {
+      "id": 1252,
+      "nombre": "PRIMOS-LEJANOS",
       "cantidad": 1
     }
   ]

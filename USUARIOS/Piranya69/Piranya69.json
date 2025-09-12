@@ -1894,7 +1894,7 @@
     {
       "id": 484,
       "nombre": "Blowhard",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 53,
@@ -3839,7 +3839,7 @@
     {
       "id": 924,
       "nombre": "VISITOR-SOLDIER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 814,
@@ -4294,7 +4294,7 @@
     {
       "id": 923,
       "nombre": "REAL-VISITOR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 890,
@@ -5264,7 +5264,7 @@
     {
       "id": 1136,
       "nombre": "JOHNNY-BRAVO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1159,
@@ -5349,7 +5349,7 @@
     {
       "id": 1110,
       "nombre": "G-ZOLTAR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1059,
@@ -5744,6 +5744,11 @@
     {
       "id": 1176,
       "nombre": "IPPO",
+      "cantidad": 1
+    },
+    {
+      "id": 1247,
+      "nombre": "LUZ-DE-LUNA",
       "cantidad": 1
     }
   ]
