@@ -1164,7 +1164,7 @@
         {
             "id": 319,
             "nombre": "Profesor Xavier",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 539,
@@ -5395,6 +5395,11 @@
             "id": 843,
             "nombre": "HONDA",
             "cantidad": 2
+        },
+        {
+            "id": 501,
+            "nombre": "SOLON",
+            "cantidad": 1
         }
     ]
 }

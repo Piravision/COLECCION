@@ -1904,7 +1904,7 @@
         {
             "id": 501,
             "nombre": "SOLON",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 596,
@@ -5040,6 +5040,11 @@
             "id": 845,
             "nombre": "KEN",
             "cantidad": 2
+        },
+        {
+            "id": 319,
+            "nombre": "Profesor Xavier",
+            "cantidad": 1
         }
     ]
 }
