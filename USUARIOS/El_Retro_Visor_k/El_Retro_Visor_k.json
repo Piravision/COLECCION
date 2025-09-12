@@ -2934,7 +2934,7 @@
         {
             "id": 891,
             "nombre": "MODOK",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 45,
@@ -5529,6 +5529,11 @@
         {
             "id": 1035,
             "nombre": "CAPITAN BRITANIA",
+            "cantidad": 1
+        },
+        {
+            "id": 1039,
+            "nombre": "DAREDEVIL-2",
             "cantidad": 1
         }
     ]
