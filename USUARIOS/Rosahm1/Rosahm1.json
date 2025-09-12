@@ -4854,7 +4854,7 @@
         {
             "id": 1158,
             "nombre": "FLASH",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1163,
@@ -5064,6 +5064,11 @@
         {
             "id": 843,
             "nombre": "HONDA",
+            "cantidad": 1
+        },
+        {
+            "id": 254,
+            "nombre": "Chacalo",
             "cantidad": 1
         }
     ]
