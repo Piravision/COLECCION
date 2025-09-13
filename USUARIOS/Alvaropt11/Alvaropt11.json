@@ -959,7 +959,7 @@
     {
       "id": 732,
       "nombre": "DB-120",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 471,
@@ -3004,7 +3004,7 @@
     {
       "id": 810,
       "nombre": "KANO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 586,
@@ -5519,6 +5519,11 @@
     {
       "id": 1164,
       "nombre": "GREEN LANTERN",
+      "cantidad": 1
+    },
+    {
+      "id": 1204,
+      "nombre": "3-KNUCKLES",
       "cantidad": 1
     }
   ]

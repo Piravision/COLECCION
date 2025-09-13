@@ -3099,7 +3099,7 @@
     {
       "id": 97,
       "nombre": "Armadura Xanatos",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 637,
@@ -3434,7 +3434,7 @@
     {
       "id": 779,
       "nombre": "BANE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 724,
@@ -5134,6 +5134,11 @@
     {
       "id": 393,
       "nombre": "Tawna",
+      "cantidad": 1
+    },
+    {
+      "id": 1016,
+      "nombre": "1- VENOM",
       "cantidad": 1
     }
   ]
