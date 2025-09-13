@@ -1864,7 +1864,7 @@
         {
             "id": 1,
             "nombre": "30 30",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 338,
@@ -4004,6 +4004,11 @@
         {
             "id": 307,
             "nombre": "Skywarp",
+            "cantidad": 1
+        },
+        {
+            "id": 882,
+            "nombre": "HELA",
             "cantidad": 1
         }
     ]
