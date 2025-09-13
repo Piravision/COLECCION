@@ -5504,7 +5504,7 @@
         {
             "id": 1070,
             "nombre": "UNION JACK",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 869,
@@ -5659,6 +5659,11 @@
         {
             "id": 1050,
             "nombre": "IRON-MAN-2",
+            "cantidad": 1
+        },
+        {
+            "id": 1057,
+            "nombre": "PALADIN",
             "cantidad": 1
         }
     ]
