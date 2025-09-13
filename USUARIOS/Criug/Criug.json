@@ -3934,7 +3934,7 @@
         {
             "id": 945,
             "nombre": "MASK-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 956,
@@ -5709,6 +5709,11 @@
         {
             "id": 1128,
             "nombre": "VASH-ESTAMPIDA",
+            "cantidad": 1
+        },
+        {
+            "id": 1071,
+            "nombre": "USAGENT",
             "cantidad": 1
         }
     ]
