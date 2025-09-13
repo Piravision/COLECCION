@@ -189,7 +189,7 @@
     {
       "id": 119,
       "nombre": "orko",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 255,
@@ -704,7 +704,7 @@
     {
       "id": 451,
       "nombre": "perros",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 246,
@@ -1979,7 +1979,7 @@
     {
       "id": 487,
       "nombre": "Jacques",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 595,
@@ -2109,7 +2109,7 @@
     {
       "id": 536,
       "nombre": "Xena-Jail",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 381,
@@ -2749,7 +2749,7 @@
     {
       "id": 749,
       "nombre": "Hilda",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 35,
@@ -5124,6 +5124,11 @@
     {
       "id": 1151,
       "nombre": "BATMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1150,
+      "nombre": "BATGIRL",
       "cantidad": 1
     }
   ]
