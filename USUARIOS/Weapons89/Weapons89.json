@@ -594,7 +594,7 @@
         {
             "id": 42,
             "nombre": "dai 2",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 540,
@@ -4034,6 +4034,11 @@
         {
             "id": 1252,
             "nombre": "PRIMOS-LEJANOS",
+            "cantidad": 1
+        },
+        {
+            "id": 521,
+            "nombre": "León-O",
             "cantidad": 1
         }
     ]
