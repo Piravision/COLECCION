@@ -4074,7 +4074,7 @@
         {
             "id": 946,
             "nombre": "SLOTH-JAIL",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 837,
@@ -5624,6 +5624,11 @@
         {
             "id": 1104,
             "nombre": "G-AUTILLO",
+            "cantidad": 1
+        },
+        {
+            "id": 1118,
+            "nombre": "PF-PITUFO FILOSOFO",
             "cantidad": 1
         }
     ]
