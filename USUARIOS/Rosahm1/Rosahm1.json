@@ -1544,7 +1544,7 @@
         {
             "id": 285,
             "nombre": "Rocksteady",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 294,
@@ -2734,7 +2734,7 @@
         {
             "id": 844,
             "nombre": "HONDA2",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 716,
@@ -3159,7 +3159,7 @@
         {
             "id": 146,
             "nombre": "Siege",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 608,
@@ -3279,7 +3279,7 @@
         {
             "id": 578,
             "nombre": "BENJI-PRICE",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 43,
@@ -3829,7 +3829,7 @@
         {
             "id": 432,
             "nombre": "solid2",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 707,
@@ -5164,7 +5164,7 @@
         {
             "id": 1260,
             "nombre": "FA-DRAGON-QUEST-VIII",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1033,
@@ -5404,6 +5404,16 @@
         {
             "id": 812,
             "nombre": "KUNG-LAO",
+            "cantidad": 1
+        },
+        {
+            "id": 1139,
+            "nombre": "MARSUPILAMI",
+            "cantidad": 1
+        },
+        {
+            "id": 815,
+            "nombre": "NIGHTWOLF",
             "cantidad": 1
         }
     ]
