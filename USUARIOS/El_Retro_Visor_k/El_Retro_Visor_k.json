@@ -2289,7 +2289,7 @@
         {
             "id": 895,
             "nombre": "ROCKET-RACOON",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 182,
@@ -5724,6 +5724,11 @@
         {
             "id": 1194,
             "nombre": "COBRA",
+            "cantidad": 1
+        },
+        {
+            "id": 1168,
+            "nombre": "LEX LUTOR",
             "cantidad": 1
         }
     ]

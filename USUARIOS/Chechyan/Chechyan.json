@@ -634,7 +634,7 @@
     {
       "id": 1095,
       "nombre": "CZ-PETER-VENKMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 203,
@@ -839,7 +839,7 @@
     {
       "id": 295,
       "nombre": "Ironhide",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1082,
@@ -1664,6 +1664,26 @@
     {
       "id": 755,
       "nombre": "Poseidon2",
+      "cantidad": 1
+    },
+    {
+      "id": 154,
+      "nombre": "Grease Pit",
+      "cantidad": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Bravestarr",
+      "cantidad": 1
+    },
+    {
+      "id": 277,
+      "nombre": "Baxter",
+      "cantidad": 1
+    },
+    {
+      "id": 1085,
+      "nombre": "YV-YELLOWJACKET",
       "cantidad": 1
     }
   ]
