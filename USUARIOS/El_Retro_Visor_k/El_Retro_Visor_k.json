@@ -3294,7 +3294,7 @@
         {
             "id": 974,
             "nombre": "9-CALIMERO",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 973,
@@ -5634,6 +5634,11 @@
         {
             "id": 1187,
             "nombre": "CRIPTA-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 1231,
+            "nombre": "POPEYE",
             "cantidad": 1
         }
     ]
