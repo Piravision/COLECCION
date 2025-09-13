@@ -574,7 +574,7 @@
         {
             "id": 395,
             "nombre": "DISCÍPULOS-DE-AVAN",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 321,
@@ -5734,6 +5734,11 @@
         {
             "id": 1090,
             "nombre": "ANIMANIACS",
+            "cantidad": 1
+        },
+        {
+            "id": 1148,
+            "nombre": "AQUAMAN",
             "cantidad": 1
         }
     ]
