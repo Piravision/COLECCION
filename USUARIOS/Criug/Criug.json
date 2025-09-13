@@ -324,7 +324,7 @@
         {
             "id": 5,
             "nombre": "Seiya de Pegaso",
-            "cantidad": 6
+            "cantidad": 7
         },
         {
             "id": 462,
@@ -849,7 +849,7 @@
         {
             "id": 126,
             "nombre": "Beastman",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 561,
@@ -2329,7 +2329,7 @@
         {
             "id": 762,
             "nombre": "bkue",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 506,
@@ -2979,7 +2979,7 @@
         {
             "id": 866,
             "nombre": "SNAKE-JAIL",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 843,
@@ -5704,6 +5704,11 @@
         {
             "id": 1164,
             "nombre": "GREEN LANTERN",
+            "cantidad": 1
+        },
+        {
+            "id": 1128,
+            "nombre": "VASH-ESTAMPIDA",
             "cantidad": 1
         }
     ]
