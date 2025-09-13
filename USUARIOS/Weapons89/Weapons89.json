@@ -674,7 +674,7 @@
     {
       "id": 429,
       "nombre": "sniper",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 176,
@@ -979,7 +979,7 @@
     {
       "id": 561,
       "nombre": "MARIO-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 268,
@@ -4059,6 +4059,11 @@
     {
       "id": 672,
       "nombre": "DB-060",
+      "cantidad": 1
+    },
+    {
+      "id": 122,
+      "nombre": "She ra",
       "cantidad": 1
     }
   ]

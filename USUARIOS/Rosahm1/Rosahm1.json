@@ -244,7 +244,7 @@
         {
             "id": 163,
             "nombre": "Ben Parker",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 5,
@@ -259,7 +259,7 @@
         {
             "id": 24,
             "nombre": "Bobby",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 261,
@@ -354,7 +354,7 @@
         {
             "id": 340,
             "nombre": "Poseidón",
-            "cantidad": 7
+            "cantidad": 8
         },
         {
             "id": 506,
@@ -4804,7 +4804,7 @@
         {
             "id": 1200,
             "nombre": "2-DONKEY-KONG",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1202,
@@ -5414,6 +5414,11 @@
         {
             "id": 815,
             "nombre": "NIGHTWOLF",
+            "cantidad": 1
+        },
+        {
+            "id": 517,
+            "nombre": "Pirámide Negra",
             "cantidad": 1
         }
     ]
