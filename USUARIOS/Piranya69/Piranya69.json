@@ -104,7 +104,7 @@
     {
       "id": 285,
       "nombre": "Rocksteady",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 22,
@@ -1189,7 +1189,7 @@
     {
       "id": 351,
       "nombre": "reaper",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 77,
@@ -1404,7 +1404,7 @@
     {
       "id": 241,
       "nombre": "Thunder Tank",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 505,
@@ -1749,7 +1749,7 @@
     {
       "id": 223,
       "nombre": "G.I. JOE Headquarters",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 572,
@@ -2179,7 +2179,7 @@
     {
       "id": 722,
       "nombre": "DB-110",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 560,
@@ -3744,7 +3744,7 @@
     {
       "id": 805,
       "nombre": "GORO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 963,
@@ -3824,7 +3824,7 @@
     {
       "id": 942,
       "nombre": "HANNIBAL-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 840,
@@ -4104,7 +4104,7 @@
     {
       "id": 238,
       "nombre": "Snake Mountain",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 161,
@@ -4399,7 +4399,7 @@
     {
       "id": 960,
       "nombre": "3-LESTRADE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 715,
@@ -4429,7 +4429,7 @@
     {
       "id": 15,
       "nombre": "Zula",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 941,
@@ -5109,7 +5109,7 @@
     {
       "id": 1017,
       "nombre": "1-SPIDERWOMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1029,
@@ -5564,7 +5564,7 @@
     {
       "id": 1094,
       "nombre": "CZ-EGON-SPENGLER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 873,
@@ -5864,6 +5864,31 @@
     {
       "id": 1232,
       "nombre": "TINTIN-&-MILU",
+      "cantidad": 1
+    },
+    {
+      "id": 1050,
+      "nombre": "IRON-MAN-2",
+      "cantidad": 1
+    },
+    {
+      "id": 1164,
+      "nombre": "GREEN LANTERN",
+      "cantidad": 1
+    },
+    {
+      "id": 1000,
+      "nombre": "SON-GOKU",
+      "cantidad": 1
+    },
+    {
+      "id": 1040,
+      "nombre": "DR STRANGE",
+      "cantidad": 1
+    },
+    {
+      "id": 1124,
+      "nombre": "GENKI-&-MOCCHI",
       "cantidad": 1
     }
   ]
