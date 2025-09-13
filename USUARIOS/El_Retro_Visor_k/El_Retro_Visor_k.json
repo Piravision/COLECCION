@@ -5539,7 +5539,7 @@
         {
             "id": 1041,
             "nombre": "FALCON-2",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1000,
@@ -5654,6 +5654,11 @@
         {
             "id": 1034,
             "nombre": "CAPITAN BRITANIA-2",
+            "cantidad": 1
+        },
+        {
+            "id": 1050,
+            "nombre": "IRON-MAN-2",
             "cantidad": 1
         }
     ]
