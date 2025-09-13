@@ -219,7 +219,7 @@
     {
       "id": 123,
       "nombre": "Sorceress",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 543,
@@ -389,7 +389,7 @@
     {
       "id": 253,
       "nombre": "Buitro",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 348,
@@ -504,7 +504,7 @@
     {
       "id": 732,
       "nombre": "DB-120",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 169,
@@ -544,7 +544,7 @@
     {
       "id": 537,
       "nombre": "BOLO-YEUNG",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 558,
@@ -599,7 +599,7 @@
     {
       "id": 720,
       "nombre": "DB-108",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 633,
@@ -1009,12 +1009,12 @@
     {
       "id": 681,
       "nombre": "DB-069",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 468,
       "nombre": "CybilBennett",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 824,
@@ -1334,7 +1334,7 @@
     {
       "id": 590,
       "nombre": "HERMANN-KALTZ",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 524,
@@ -1669,7 +1669,7 @@
     {
       "id": 271,
       "nombre": "Neutrinos",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 396,
@@ -2584,7 +2584,7 @@
     {
       "id": 331,
       "nombre": "Mente Maestra",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 98,
@@ -2689,7 +2689,7 @@
     {
       "id": 903,
       "nombre": "BIZARRE",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 961,
@@ -2744,7 +2744,7 @@
     {
       "id": 2,
       "nombre": "Bravestarr",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 860,
@@ -2879,7 +2879,7 @@
     {
       "id": 967,
       "nombre": "4-TICO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 844,
@@ -3374,7 +3374,7 @@
     {
       "id": 1000,
       "nombre": "SON-GOKU",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 532,
@@ -3729,7 +3729,7 @@
     {
       "id": 1108,
       "nombre": "G-PRINCESA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 413,
@@ -3834,7 +3834,7 @@
     {
       "id": 788,
       "nombre": "EL-FANTASMA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 406,
@@ -3849,7 +3849,7 @@
     {
       "id": 129,
       "nombre": "Hordak",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 767,
@@ -3874,7 +3874,7 @@
     {
       "id": 933,
       "nombre": "REY-MISTERIO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 130,
@@ -3959,7 +3959,7 @@
     {
       "id": 1157,
       "nombre": "FIRESTORM",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 984,
@@ -4154,7 +4154,7 @@
     {
       "id": 1015,
       "nombre": "SHAGGY--&-SCOOBY-DOO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1155,
@@ -4364,7 +4364,7 @@
     {
       "id": 260,
       "nombre": "Princesa Luna",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 244,
@@ -4569,7 +4569,7 @@
     {
       "id": 1041,
       "nombre": "FALCON-2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1049,
@@ -4734,6 +4734,31 @@
     {
       "id": 1019,
       "nombre": "4F - MUJER INVISIBLE",
+      "cantidad": 1
+    },
+    {
+      "id": 869,
+      "nombre": "ARNIM-ZOLA",
+      "cantidad": 1
+    },
+    {
+      "id": 1046,
+      "nombre": "HERCULES",
+      "cantidad": 1
+    },
+    {
+      "id": 1080,
+      "nombre": "X -STORM",
+      "cantidad": 1
+    },
+    {
+      "id": 1159,
+      "nombre": "GOLDENAGE- FLASH",
+      "cantidad": 1
+    },
+    {
+      "id": 1065,
+      "nombre": "TH - LOKI-2",
       "cantidad": 1
     }
   ]

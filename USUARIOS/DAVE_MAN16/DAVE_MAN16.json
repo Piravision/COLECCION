@@ -49,7 +49,7 @@
     {
       "id": 331,
       "nombre": "Mente Maestra",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 241,
@@ -1619,7 +1619,7 @@
     {
       "id": 313,
       "nombre": "Cable",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 961,
@@ -2289,6 +2289,26 @@
     {
       "id": 1252,
       "nombre": "PRIMOS-LEJANOS",
+      "cantidad": 1
+    },
+    {
+      "id": 850,
+      "nombre": "T-HAWK",
+      "cantidad": 1
+    },
+    {
+      "id": 1117,
+      "nombre": "PF-PITUFINA",
+      "cantidad": 1
+    },
+    {
+      "id": 1007,
+      "nombre": "SAILOR-MOON",
+      "cantidad": 1
+    },
+    {
+      "id": 318,
+      "nombre": "Morpho",
       "cantidad": 1
     }
   ]

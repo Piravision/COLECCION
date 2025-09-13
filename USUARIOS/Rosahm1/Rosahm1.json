@@ -39,7 +39,7 @@
     {
       "id": 26,
       "nombre": "Eric",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 8,
@@ -834,7 +834,7 @@
     {
       "id": 405,
       "nombre": "tifa",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 329,
@@ -959,7 +959,7 @@
     {
       "id": 573,
       "nombre": "RODY-PIPPER",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 84,
@@ -1214,7 +1214,7 @@
     {
       "id": 138,
       "nombre": "Dr. Hell",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 533,
@@ -1234,7 +1234,7 @@
     {
       "id": 134,
       "nombre": "Tri Klops",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 457,
@@ -1369,7 +1369,7 @@
     {
       "id": 186,
       "nombre": "Mysterio",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 527,
@@ -1619,7 +1619,7 @@
     {
       "id": 553,
       "nombre": "GOKU-JAIL",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 554,
@@ -2909,7 +2909,7 @@
     {
       "id": 840,
       "nombre": "FEI-LONG",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 894,
@@ -3494,7 +3494,7 @@
     {
       "id": 953,
       "nombre": "12-MARCO-&-AMELIO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 765,
@@ -3514,7 +3514,7 @@
     {
       "id": 733,
       "nombre": "DB-121",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 962,
@@ -3999,7 +3999,7 @@
     {
       "id": 987,
       "nombre": "ARALE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 384,
@@ -5104,6 +5104,26 @@
     {
       "id": 1198,
       "nombre": "1Z-BOWSER",
+      "cantidad": 1
+    },
+    {
+      "id": 1051,
+      "nombre": "JACK-HEARTS",
+      "cantidad": 1
+    },
+    {
+      "id": 1226,
+      "nombre": "TERRY-BOGARD",
+      "cantidad": 1
+    },
+    {
+      "id": 1181,
+      "nombre": "DEXTER",
+      "cantidad": 1
+    },
+    {
+      "id": 1151,
+      "nombre": "BATMAN",
       "cantidad": 1
     }
   ]
