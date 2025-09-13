@@ -1359,7 +1359,7 @@
     {
       "id": 868,
       "nombre": "ANT-MAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 55,
@@ -2334,6 +2334,16 @@
     {
       "id": 427,
       "nombre": "psyco",
+      "cantidad": 1
+    },
+    {
+      "id": 900,
+      "nombre": "THOR",
+      "cantidad": 1
+    },
+    {
+      "id": 873,
+      "nombre": "BLACK-WIDOW",
       "cantidad": 1
     }
   ]
