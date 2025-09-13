@@ -24,7 +24,7 @@
     {
       "id": 236,
       "nombre": "Shark Tank",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 292,
@@ -59,7 +59,7 @@
     {
       "id": 119,
       "nombre": "orko",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 7,
@@ -434,7 +434,7 @@
     {
       "id": 297,
       "nombre": "Optimus Prime",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 406,
@@ -744,7 +744,7 @@
     {
       "id": 176,
       "nombre": "Camaleon",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 201,
@@ -894,12 +894,12 @@
     {
       "id": 269,
       "nombre": "Mona Lisa",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 358,
       "nombre": "jenny",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 427,
@@ -1714,7 +1714,7 @@
     {
       "id": 584,
       "nombre": "DEUTER-MULLER",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 618,
@@ -2069,7 +2069,7 @@
     {
       "id": 771,
       "nombre": "rita",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 133,
@@ -2104,7 +2104,7 @@
     {
       "id": 717,
       "nombre": "DB-105",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 590,
@@ -2189,7 +2189,7 @@
     {
       "id": 708,
       "nombre": "DB-096",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 270,
@@ -2394,7 +2394,7 @@
     {
       "id": 118,
       "nombre": "Man at Arms",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 329,
@@ -2429,7 +2429,7 @@
     {
       "id": 630,
       "nombre": "DB-018",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 652,
@@ -2994,7 +2994,7 @@
     {
       "id": 660,
       "nombre": "DB-048",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 293,
@@ -3199,7 +3199,7 @@
     {
       "id": 240,
       "nombre": "Terror Drome",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 866,
@@ -3624,7 +3624,7 @@
     {
       "id": 965,
       "nombre": "4-RIGODON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 964,
@@ -3869,7 +3869,7 @@
     {
       "id": 436,
       "nombre": "abe",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 959,
@@ -4044,7 +4044,7 @@
     {
       "id": 495,
       "nombre": "jowy",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 502,
@@ -4844,7 +4844,7 @@
     {
       "id": 815,
       "nombre": "NIGHTWOLF",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1040,
@@ -4874,7 +4874,7 @@
     {
       "id": 1172,
       "nombre": "SUPERMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1058,
@@ -5449,6 +5449,31 @@
     {
       "id": 1228,
       "nombre": "BEN-10",
+      "cantidad": 1
+    },
+    {
+      "id": 1164,
+      "nombre": "GREEN LANTERN",
+      "cantidad": 1
+    },
+    {
+      "id": 1231,
+      "nombre": "POPEYE",
+      "cantidad": 1
+    },
+    {
+      "id": 1146,
+      "nombre": "TROTAMUSICOS",
+      "cantidad": 1
+    },
+    {
+      "id": 1240,
+      "nombre": "CHEERS",
+      "cantidad": 1
+    },
+    {
+      "id": 1056,
+      "nombre": "NOVA-2",
       "cantidad": 1
     }
   ]
