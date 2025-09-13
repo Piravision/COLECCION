@@ -304,7 +304,7 @@
     {
       "id": 415,
       "nombre": "emme",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 71,
@@ -4294,7 +4294,7 @@
     {
       "id": 635,
       "nombre": "DB-023",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 939,
@@ -4874,6 +4874,11 @@
     {
       "id": 957,
       "nombre": "2-MONTERREY-JACK",
+      "cantidad": 1
+    },
+    {
+      "id": 1187,
+      "nombre": "CRIPTA-JAIL",
       "cantidad": 1
     }
   ]
