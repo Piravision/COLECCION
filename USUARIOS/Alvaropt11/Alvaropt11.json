@@ -384,7 +384,7 @@
     {
       "id": 327,
       "nombre": "Dientes de Sable",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 19,
@@ -3334,7 +3334,7 @@
     {
       "id": 167,
       "nombre": "Gwen Stacy",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 339,
@@ -5589,6 +5589,11 @@
     {
       "id": 1067,
       "nombre": "THUNDERBIRD",
+      "cantidad": 1
+    },
+    {
+      "id": 1246,
+      "nombre": "LA-NINERA",
       "cantidad": 1
     }
   ]
