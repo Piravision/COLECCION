@@ -5459,7 +5459,7 @@
         {
             "id": 1129,
             "nombre": "CRITTER-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1207,
@@ -5699,6 +5699,11 @@
         {
             "id": 1094,
             "nombre": "CZ-EGON-SPENGLER",
+            "cantidad": 1
+        },
+        {
+            "id": 1164,
+            "nombre": "GREEN LANTERN",
             "cantidad": 1
         }
     ]
