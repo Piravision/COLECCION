@@ -2419,7 +2419,7 @@
     {
       "id": 547,
       "nombre": "ROCKY",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 376,
@@ -3034,7 +3034,7 @@
     {
       "id": 993,
       "nombre": "GATOS-SAMURAI",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 417,
@@ -4764,6 +4764,11 @@
     {
       "id": 126,
       "nombre": "Beastman",
+      "cantidad": 1
+    },
+    {
+      "id": 1121,
+      "nombre": "RUGRATS",
       "cantidad": 1
     }
   ]
