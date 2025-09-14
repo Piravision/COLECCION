@@ -554,7 +554,7 @@
     {
       "id": 449,
       "nombre": "leon2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 33,
@@ -779,7 +779,7 @@
     {
       "id": 367,
       "nombre": "BEMONT",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 7,
@@ -794,7 +794,7 @@
     {
       "id": 192,
       "nombre": "Bends",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 434,
@@ -1434,7 +1434,7 @@
     {
       "id": 291,
       "nombre": "Zorax",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 550,
@@ -2529,7 +2529,7 @@
     {
       "id": 770,
       "nombre": "red",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 876,
@@ -3219,6 +3219,11 @@
     {
       "id": 125,
       "nombre": "Teela",
+      "cantidad": 1
+    },
+    {
+      "id": 249,
+      "nombre": "Pomara",
       "cantidad": 1
     }
   ]

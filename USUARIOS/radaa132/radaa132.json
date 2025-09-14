@@ -414,7 +414,7 @@
     {
       "id": 340,
       "nombre": "Poseidón",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 525,
@@ -2889,7 +2889,7 @@
     {
       "id": 280,
       "nombre": "General Traag",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1087,
@@ -3249,6 +3249,26 @@
     {
       "id": 1294,
       "nombre": "LOS-PROBLEMAS-CRECEN",
+      "cantidad": 1
+    },
+    {
+      "id": 834,
+      "nombre": "CAMMY",
+      "cantidad": 1
+    },
+    {
+      "id": 225,
+      "nombre": "Guarida Felina",
+      "cantidad": 1
+    },
+    {
+      "id": 672,
+      "nombre": "DB-060",
+      "cantidad": 1
+    },
+    {
+      "id": 100,
+      "nombre": "Flint",
       "cantidad": 1
     }
   ]

@@ -299,7 +299,7 @@
     {
       "id": 539,
       "nombre": "BRUCE-LEE2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 275,
@@ -334,7 +334,7 @@
     {
       "id": 753,
       "nombre": "pandora",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 758,
@@ -849,12 +849,12 @@
     {
       "id": 416,
       "nombre": "emme2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 750,
       "nombre": "Milo-de-Escorpio",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 510,
@@ -1454,7 +1454,7 @@
     {
       "id": 765,
       "nombre": "Finster",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 876,
@@ -1584,7 +1584,7 @@
     {
       "id": 710,
       "nombre": "DB-098",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 179,
@@ -1774,7 +1774,7 @@
     {
       "id": 325,
       "nombre": "Apocalipsis",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 352,
@@ -3009,7 +3009,7 @@
     {
       "id": 979,
       "nombre": "14-CHARLENE-SINCLAIR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 960,
@@ -3139,7 +3139,7 @@
     {
       "id": 18,
       "nombre": "Mesmira",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 888,
@@ -3219,7 +3219,7 @@
     {
       "id": 665,
       "nombre": "DB-053",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 846,
@@ -3784,7 +3784,7 @@
     {
       "id": 694,
       "nombre": "DB-082",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1116,
@@ -3889,7 +3889,7 @@
     {
       "id": 455,
       "nombre": "batsu",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 246,
@@ -3999,7 +3999,7 @@
     {
       "id": 363,
       "nombre": "Chuache-DesafioTotal",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 849,
@@ -4394,7 +4394,7 @@
     {
       "id": 900,
       "nombre": "THOR",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 904,
@@ -4514,7 +4514,7 @@
     {
       "id": 706,
       "nombre": "DB-094",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 332,
@@ -4699,7 +4699,7 @@
     {
       "id": 89,
       "nombre": "Angela",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1079,
@@ -5049,6 +5049,16 @@
     {
       "id": 1141,
       "nombre": "PATOAVENTURAS",
+      "cantidad": 1
+    },
+    {
+      "id": 1286,
+      "nombre": "FA-WINDJAMMERS",
+      "cantidad": 1
+    },
+    {
+      "id": 1283,
+      "nombre": "TAKUMI-FUJIWARA",
       "cantidad": 1
     }
   ]
