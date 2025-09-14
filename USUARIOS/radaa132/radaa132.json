@@ -59,7 +59,7 @@
     {
       "id": 546,
       "nombre": "MARTY-MCFLY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 472,
@@ -199,7 +199,7 @@
     {
       "id": 72,
       "nombre": "hynkel malo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 303,
@@ -529,7 +529,7 @@
     {
       "id": 900,
       "nombre": "THOR",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 625,
@@ -729,7 +729,7 @@
     {
       "id": 570,
       "nombre": "MILLION-DOLLAR-MAN",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 699,
@@ -1079,7 +1079,7 @@
     {
       "id": 866,
       "nombre": "SNAKE-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 65,
@@ -1649,12 +1649,12 @@
     {
       "id": 253,
       "nombre": "Buitro",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 179,
       "nombre": "Duende Verde",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 894,
@@ -2629,7 +2629,7 @@
     {
       "id": 1121,
       "nombre": "RUGRATS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 452,
@@ -3074,6 +3074,26 @@
     {
       "id": 735,
       "nombre": "Aiacos",
+      "cantidad": 1
+    },
+    {
+      "id": 902,
+      "nombre": "AQUAMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 813,
+      "nombre": "LIU-KANG",
+      "cantidad": 1
+    },
+    {
+      "id": 127,
+      "nombre": "Evil Lyn",
+      "cantidad": 1
+    },
+    {
+      "id": 1263,
+      "nombre": "SALVADOS-POR-LA-CAMPANA",
       "cantidad": 1
     }
   ]

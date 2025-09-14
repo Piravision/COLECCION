@@ -404,7 +404,7 @@
     {
       "id": 156,
       "nombre": "Lord Camembert",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 542,
@@ -1464,7 +1464,7 @@
     {
       "id": 147,
       "nombre": "Carbine",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 603,
@@ -2349,6 +2349,11 @@
     {
       "id": 577,
       "nombre": "ALAN-PASCAL",
+      "cantidad": 1
+    },
+    {
+      "id": 152,
+      "nombre": "Dr. Karbunkle",
       "cantidad": 1
     }
   ]
