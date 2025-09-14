@@ -364,7 +364,7 @@
     {
       "id": 135,
       "nombre": "Afrodita A",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 434,
@@ -414,7 +414,7 @@
     {
       "id": 86,
       "nombre": "Shane Gooseman",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 459,
@@ -1454,7 +1454,7 @@
     {
       "id": 253,
       "nombre": "Buitro",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 671,
@@ -3044,7 +3044,7 @@
     {
       "id": 848,
       "nombre": "RYU2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 586,
@@ -4154,7 +4154,7 @@
     {
       "id": 1050,
       "nombre": "IRON-MAN-2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 692,
@@ -5504,6 +5504,11 @@
     {
       "id": 1284,
       "nombre": "ALEX-KIDD",
+      "cantidad": 1
+    },
+    {
+      "id": 1257,
+      "nombre": "WALKER-TEXAS-RANGER)",
       "cantidad": 1
     }
   ]
