@@ -314,7 +314,7 @@
     {
       "id": 132,
       "nombre": "Skeletor",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 30,
@@ -764,7 +764,7 @@
     {
       "id": 123,
       "nombre": "Sorceress",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 519,
@@ -3214,6 +3214,11 @@
     {
       "id": 781,
       "nombre": "BATGIRL",
+      "cantidad": 1
+    },
+    {
+      "id": 125,
+      "nombre": "Teela",
       "cantidad": 1
     }
   ]

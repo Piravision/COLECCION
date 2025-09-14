@@ -244,7 +244,7 @@
     {
       "id": 267,
       "nombre": "Metalhead",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 227,
@@ -269,7 +269,7 @@
     {
       "id": 683,
       "nombre": "DB-071",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 567,
@@ -644,7 +644,7 @@
     {
       "id": 697,
       "nombre": "DB-085",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 607,
@@ -964,7 +964,7 @@
     {
       "id": 690,
       "nombre": "DB-078",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 534,
@@ -1599,7 +1599,7 @@
     {
       "id": 560,
       "nombre": "MACGYVER-JAIL",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 70,
@@ -1659,7 +1659,7 @@
     {
       "id": 869,
       "nombre": "ARNIM-ZOLA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 835,
@@ -1749,7 +1749,7 @@
     {
       "id": 308,
       "nombre": "Starscream",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 676,
@@ -1809,7 +1809,7 @@
     {
       "id": 363,
       "nombre": "Chuache-DesafioTotal",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 306,
@@ -1914,7 +1914,7 @@
     {
       "id": 292,
       "nombre": "Bumblebee",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 765,
@@ -1944,7 +1944,7 @@
     {
       "id": 484,
       "nombre": "Blowhard",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 162,
@@ -2039,7 +2039,7 @@
     {
       "id": 637,
       "nombre": "DB-025",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 891,
@@ -2809,7 +2809,7 @@
     {
       "id": 399,
       "nombre": "cait",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1010,
@@ -3119,7 +3119,7 @@
     {
       "id": 359,
       "nombre": "long",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 31,
@@ -3179,12 +3179,12 @@
     {
       "id": 409,
       "nombre": "Kōji-Kabuto",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 944,
       "nombre": "JOKER-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1036,
@@ -3339,7 +3339,7 @@
     {
       "id": 706,
       "nombre": "DB-094",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 457,
@@ -3349,7 +3349,7 @@
     {
       "id": 977,
       "nombre": "13-ODIE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 930,
@@ -3399,7 +3399,7 @@
     {
       "id": 1075,
       "nombre": "X -COLOSO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 896,
@@ -4084,12 +4084,12 @@
     {
       "id": 1182,
       "nombre": "JAYCE-Y-LOS-GUERREROS-RODANTES",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 194,
       "nombre": "Mantaman",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 206,
@@ -4384,7 +4384,7 @@
     {
       "id": 1227,
       "nombre": "VIVI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1176,
@@ -4414,7 +4414,7 @@
     {
       "id": 1084,
       "nombre": "YV- WASP",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 512,
@@ -4494,12 +4494,12 @@
     {
       "id": 945,
       "nombre": "MASK-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1211,
       "nombre": "4-GOLDEN-AXE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 941,
@@ -4719,6 +4719,36 @@
     {
       "id": 989,
       "nombre": "CAPITAN-HARLOCK",
+      "cantidad": 1
+    },
+    {
+      "id": 1239,
+      "nombre": "2-STEVE-URKEL",
+      "cantidad": 1
+    },
+    {
+      "id": 1126,
+      "nombre": "K.RYOTSU",
+      "cantidad": 1
+    },
+    {
+      "id": 1161,
+      "nombre": "GOLDENAGE- SUPERMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 288,
+      "nombre": "Splinter",
+      "cantidad": 1
+    },
+    {
+      "id": 677,
+      "nombre": "DB-065",
+      "cantidad": 1
+    },
+    {
+      "id": 1253,
+      "nombre": "SABRINA-COSAS-DE-BRUJAS",
       "cantidad": 1
     }
   ]
