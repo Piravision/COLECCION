@@ -1614,7 +1614,7 @@
     {
       "id": 217,
       "nombre": "Cobra   H.I.S.S.",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 547,
@@ -2679,7 +2679,7 @@
     {
       "id": 342,
       "nombre": "Flazzard",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 990,
@@ -4134,6 +4134,11 @@
     {
       "id": 51,
       "nombre": "mam",
+      "cantidad": 1
+    },
+    {
+      "id": 973,
+      "nombre": "8-WILLY",
       "cantidad": 1
     }
   ]

@@ -5584,7 +5584,7 @@
         {
             "id": 1221,
             "nombre": "KID-CHAMELEON",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1234,
@@ -5894,6 +5894,11 @@
         {
             "id": 1146,
             "nombre": "TROTAMUSICOS",
+            "cantidad": 1
+        },
+        {
+            "id": 1053,
+            "nombre": "KANG",
             "cantidad": 1
         }
     ]
