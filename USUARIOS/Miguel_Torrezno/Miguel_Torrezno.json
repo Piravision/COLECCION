@@ -1849,7 +1849,7 @@
     {
       "id": 90,
       "nombre": "Broadway",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 52,
@@ -2679,7 +2679,7 @@
     {
       "id": 571,
       "nombre": "RODY-PIPPER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 559,
@@ -3209,6 +3209,11 @@
     {
       "id": 1041,
       "nombre": "FALCON-2",
+      "cantidad": 1
+    },
+    {
+      "id": 781,
+      "nombre": "BATGIRL",
       "cantidad": 1
     }
   ]

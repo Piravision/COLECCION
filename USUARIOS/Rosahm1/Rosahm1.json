@@ -2594,7 +2594,7 @@
     {
       "id": 441,
       "nombre": "slig",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 31,
@@ -2884,7 +2884,7 @@
     {
       "id": 895,
       "nombre": "ROCKET-RACOON",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 842,
@@ -5509,6 +5509,11 @@
     {
       "id": 1257,
       "nombre": "WALKER-TEXAS-RANGER)",
+      "cantidad": 1
+    },
+    {
+      "id": 652,
+      "nombre": "DB-040",
       "cantidad": 1
     }
   ]
