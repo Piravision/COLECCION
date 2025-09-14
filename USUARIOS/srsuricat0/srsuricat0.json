@@ -1854,7 +1854,7 @@
         {
             "id": 475,
             "nombre": "Incubus",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 235,
@@ -4914,6 +4914,11 @@
         {
             "id": 821,
             "nombre": "SHANG-TSUNG",
+            "cantidad": 1
+        },
+        {
+            "id": 761,
+            "nombre": "alpha5",
             "cantidad": 1
         }
     ]
