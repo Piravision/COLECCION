@@ -5339,7 +5339,7 @@
         {
             "id": 1119,
             "nombre": "PF-PITUFO-FORTACHON",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1103,
@@ -5824,6 +5824,11 @@
         {
             "id": 1102,
             "nombre": "DENVER",
+            "cantidad": 1
+        },
+        {
+            "id": 1108,
+            "nombre": "G-PRINCESA",
             "cantidad": 1
         }
     ]
