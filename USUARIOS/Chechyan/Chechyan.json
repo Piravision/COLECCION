@@ -764,7 +764,7 @@
     {
       "id": 742,
       "nombre": "Dark Saga",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 533,
@@ -1054,7 +1054,7 @@
     {
       "id": 201,
       "nombre": "Dr. paradigma",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 530,
@@ -1234,7 +1234,7 @@
     {
       "id": 49,
       "nombre": "leona",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 542,
@@ -1694,6 +1694,21 @@
     {
       "id": 111,
       "nombre": "Dr. Mindbender",
+      "cantidad": 1
+    },
+    {
+      "id": 901,
+      "nombre": "ULTRON",
+      "cantidad": 1
+    },
+    {
+      "id": 817,
+      "nombre": "RAIDEN",
+      "cantidad": 1
+    },
+    {
+      "id": 679,
+      "nombre": "DB-067",
       "cantidad": 1
     }
   ]

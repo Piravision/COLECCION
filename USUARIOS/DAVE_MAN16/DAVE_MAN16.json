@@ -944,7 +944,7 @@
     {
       "id": 601,
       "nombre": "OLIVER-ATOM",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 79,
@@ -2029,7 +2029,7 @@
     {
       "id": 579,
       "nombre": "BOB-DENVER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 392,
@@ -2344,6 +2344,11 @@
     {
       "id": 873,
       "nombre": "BLACK-WIDOW",
+      "cantidad": 1
+    },
+    {
+      "id": 577,
+      "nombre": "ALAN-PASCAL",
       "cantidad": 1
     }
   ]
