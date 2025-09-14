@@ -2844,7 +2844,7 @@
         {
             "id": 1114,
             "nombre": "OSOS-GUMMI",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 589,
@@ -4159,6 +4159,11 @@
         {
             "id": 456,
             "nombre": "boman",
+            "cantidad": 1
+        },
+        {
+            "id": 458,
+            "nombre": "hinata",
             "cantidad": 1
         }
     ]
