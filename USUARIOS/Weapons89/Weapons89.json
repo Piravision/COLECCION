@@ -1304,7 +1304,7 @@
         {
             "id": 626,
             "nombre": "DB-014",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 357,
@@ -4074,6 +4074,11 @@
         {
             "id": 309,
             "nombre": "Thundercracker",
+            "cantidad": 1
+        },
+        {
+            "id": 399,
+            "nombre": "cait",
             "cantidad": 1
         }
     ]
