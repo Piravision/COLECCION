@@ -694,7 +694,7 @@
     {
       "id": 19,
       "nombre": "Set",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 37,
@@ -1134,6 +1134,31 @@
     {
       "id": 174,
       "nombre": "Spiderman",
+      "cantidad": 1
+    },
+    {
+      "id": 456,
+      "nombre": "boman",
+      "cantidad": 1
+    },
+    {
+      "id": 370,
+      "nombre": "muerte",
+      "cantidad": 1
+    },
+    {
+      "id": 218,
+      "nombre": "Cybertron",
+      "cantidad": 1
+    },
+    {
+      "id": 896,
+      "nombre": "SHE-HULK",
+      "cantidad": 1
+    },
+    {
+      "id": 1161,
+      "nombre": "GOLDENAGE- SUPERMAN",
       "cantidad": 1
     }
   ]

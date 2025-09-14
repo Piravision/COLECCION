@@ -539,12 +539,12 @@
     {
       "id": 275,
       "nombre": "Usagi Yojimbo",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 249,
       "nombre": "Pomara",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 266,
@@ -2684,7 +2684,7 @@
     {
       "id": 502,
       "nombre": "viktor",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 63,
@@ -2894,7 +2894,7 @@
     {
       "id": 655,
       "nombre": "DB-043",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 148,
@@ -4294,7 +4294,7 @@
     {
       "id": 741,
       "nombre": "Camus-de-Acuario",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 750,
@@ -4324,7 +4324,7 @@
     {
       "id": 970,
       "nombre": "6-VICKY-EL-VIKINGO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1001,
@@ -5514,7 +5514,7 @@
     {
       "id": 1019,
       "nombre": "4F - MUJER INVISIBLE",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 1021,
@@ -5739,6 +5739,51 @@
     {
       "id": 1261,
       "nombre": "FA-MEGAMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1282,
+      "nombre": "ROBOTECH",
+      "cantidad": 1
+    },
+    {
+      "id": 1127,
+      "nombre": "SHINJI-IKARI",
+      "cantidad": 1
+    },
+    {
+      "id": 999,
+      "nombre": "LUFFY-MONKEY",
+      "cantidad": 1
+    },
+    {
+      "id": 1265,
+      "nombre": "BAYONETTA",
+      "cantidad": 1
+    },
+    {
+      "id": 1196,
+      "nombre": "1-YOSHI",
+      "cantidad": 1
+    },
+    {
+      "id": 1289,
+      "nombre": "KID-ICARUS",
+      "cantidad": 1
+    },
+    {
+      "id": 1215,
+      "nombre": "5-JOE-MUSASHI",
+      "cantidad": 1
+    },
+    {
+      "id": 1076,
+      "nombre": "X -MAGNETO",
+      "cantidad": 1
+    },
+    {
+      "id": 1173,
+      "nombre": "WONDER WOMAN",
       "cantidad": 1
     }
   ]

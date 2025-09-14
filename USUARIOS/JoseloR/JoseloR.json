@@ -189,7 +189,7 @@
     {
       "id": 935,
       "nombre": "STONE-COLD",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 179,
@@ -624,6 +624,16 @@
     {
       "id": 900,
       "nombre": "THOR",
+      "cantidad": 1
+    },
+    {
+      "id": 473,
+      "nombre": "harry",
+      "cantidad": 1
+    },
+    {
+      "id": 232,
+      "nombre": "Mousers",
       "cantidad": 1
     }
   ]

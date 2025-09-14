@@ -49,7 +49,7 @@
     {
       "id": 302,
       "nombre": "Blitzwing",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 492,
@@ -224,7 +224,7 @@
     {
       "id": 870,
       "nombre": "BARON-ZEMO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 129,
@@ -574,7 +574,7 @@
     {
       "id": 798,
       "nombre": "PINGUINO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 256,
@@ -729,7 +729,7 @@
     {
       "id": 402,
       "nombre": "hojo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 454,
@@ -1839,7 +1839,7 @@
     {
       "id": 347,
       "nombre": "Lizard",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 829,
@@ -1939,7 +1939,7 @@
     {
       "id": 161,
       "nombre": "Steelwill",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 845,
@@ -2044,6 +2044,51 @@
     {
       "id": 173,
       "nombre": "Punisher",
+      "cantidad": 1
+    },
+    {
+      "id": 403,
+      "nombre": "red",
+      "cantidad": 1
+    },
+    {
+      "id": 404,
+      "nombre": "sefirot",
+      "cantidad": 1
+    },
+    {
+      "id": 285,
+      "nombre": "Rocksteady",
+      "cantidad": 1
+    },
+    {
+      "id": 345,
+      "nombre": "alundra",
+      "cantidad": 1
+    },
+    {
+      "id": 350,
+      "nombre": "Murgg",
+      "cantidad": 1
+    },
+    {
+      "id": 1139,
+      "nombre": "MARSUPILAMI",
+      "cantidad": 1
+    },
+    {
+      "id": 1248,
+      "nombre": "MACGYVER",
+      "cantidad": 1
+    },
+    {
+      "id": 157,
+      "nombre": "Bluegrass",
+      "cantidad": 1
+    },
+    {
+      "id": 481,
+      "nombre": "Capitán-Stargazer",
       "cantidad": 1
     }
   ]

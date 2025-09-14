@@ -59,7 +59,7 @@
     {
       "id": 316,
       "nombre": "Gambito",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 301,
@@ -469,7 +469,7 @@
     {
       "id": 329,
       "nombre": "Lady Deadstrike",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 42,
@@ -1329,7 +1329,7 @@
     {
       "id": 86,
       "nombre": "Shane Gooseman",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 820,
@@ -1694,7 +1694,7 @@
     {
       "id": 454,
       "nombre": "zombi",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 168,
@@ -2399,6 +2399,46 @@
     {
       "id": 625,
       "nombre": "DB-013",
+      "cantidad": 1
+    },
+    {
+      "id": 312,
+      "nombre": "Bestia",
+      "cantidad": 1
+    },
+    {
+      "id": 85,
+      "nombre": "Niko",
+      "cantidad": 1
+    },
+    {
+      "id": 87,
+      "nombre": "Walter _Doc_ Hartford",
+      "cantidad": 1
+    },
+    {
+      "id": 443,
+      "nombre": "ada",
+      "cantidad": 1
+    },
+    {
+      "id": 444,
+      "nombre": "birki",
+      "cantidad": 1
+    },
+    {
+      "id": 852,
+      "nombre": "ZANGIEF",
+      "cantidad": 1
+    },
+    {
+      "id": 846,
+      "nombre": "ken2",
+      "cantidad": 1
+    },
+    {
+      "id": 839,
+      "nombre": "DJ",
       "cantidad": 1
     }
   ]

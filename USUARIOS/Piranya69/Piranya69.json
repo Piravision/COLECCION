@@ -594,7 +594,7 @@
     {
       "id": 349,
       "nombre": "melzas",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 520,
@@ -1554,7 +1554,7 @@
     {
       "id": 365,
       "nombre": "alucard 1",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 65,
@@ -2759,7 +2759,7 @@
     {
       "id": 771,
       "nombre": "rita",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 487,
@@ -3559,7 +3559,7 @@
     {
       "id": 796,
       "nombre": "MAN-BAT",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 925,
@@ -4114,7 +4114,7 @@
     {
       "id": 813,
       "nombre": "LIU-KANG",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 694,
@@ -4134,7 +4134,7 @@
     {
       "id": 855,
       "nombre": "ALIEN-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 959,
@@ -4149,7 +4149,7 @@
     {
       "id": 685,
       "nombre": "DB-073",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 818,
@@ -4499,7 +4499,7 @@
     {
       "id": 119,
       "nombre": "orko",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 465,
@@ -5039,7 +5039,7 @@
     {
       "id": 1027,
       "nombre": "4FV- GALACTUS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 30,
@@ -5119,7 +5119,7 @@
     {
       "id": 1141,
       "nombre": "PATOAVENTURAS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 288,
@@ -5519,7 +5519,7 @@
     {
       "id": 1084,
       "nombre": "YV- WASP",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1170,
@@ -5959,6 +5959,36 @@
     {
       "id": 1021,
       "nombre": "4F COSA",
+      "cantidad": 1
+    },
+    {
+      "id": 1276,
+      "nombre": "RISTAR",
+      "cantidad": 1
+    },
+    {
+      "id": 1202,
+      "nombre": "2Z-MEGAMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1290,
+      "nombre": "MORRIGAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1063,
+      "nombre": "SP- SPIDERMAN-BLACK",
+      "cantidad": 1
+    },
+    {
+      "id": 1244,
+      "nombre": "HERCULES",
+      "cantidad": 1
+    },
+    {
+      "id": 1200,
+      "nombre": "2-DONKEY-KONG",
       "cantidad": 1
     }
   ]

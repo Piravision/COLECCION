@@ -409,12 +409,12 @@
     {
       "id": 239,
       "nombre": "Stridor",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 340,
       "nombre": "Poseidón",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 525,
@@ -529,7 +529,7 @@
     {
       "id": 900,
       "nombre": "THOR",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 625,
@@ -644,7 +644,7 @@
     {
       "id": 408,
       "nombre": "Elisa--Gárgola",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 671,
@@ -719,7 +719,7 @@
     {
       "id": 652,
       "nombre": "DB-040",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 547,
@@ -809,7 +809,7 @@
     {
       "id": 62,
       "nombre": "derolin",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 414,
@@ -1234,7 +1234,7 @@
     {
       "id": 789,
       "nombre": "ENIGMA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 67,
@@ -1869,7 +1869,7 @@
     {
       "id": 133,
       "nombre": "Trap Jaw",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 888,
@@ -2084,7 +2084,7 @@
     {
       "id": 29,
       "nombre": "Sheila",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 507,
@@ -2304,7 +2304,7 @@
     {
       "id": 665,
       "nombre": "DB-053",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 656,
@@ -3164,6 +3164,46 @@
     {
       "id": 1184,
       "nombre": "TEEN-WOLF",
+      "cantidad": 1
+    },
+    {
+      "id": 616,
+      "nombre": "DB-004",
+      "cantidad": 1
+    },
+    {
+      "id": 447,
+      "nombre": "hunk",
+      "cantidad": 1
+    },
+    {
+      "id": 1273,
+      "nombre": "KINGDOM-HEARTS",
+      "cantidad": 1
+    },
+    {
+      "id": 1185,
+      "nombre": "WICKET",
+      "cantidad": 1
+    },
+    {
+      "id": 939,
+      "nombre": "GHOSTFACE-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 462,
+      "nombre": "sakura",
+      "cantidad": 1
+    },
+    {
+      "id": 1139,
+      "nombre": "MARSUPILAMI",
+      "cantidad": 1
+    },
+    {
+      "id": 267,
+      "nombre": "Metalhead",
       "cantidad": 1
     }
   ]
