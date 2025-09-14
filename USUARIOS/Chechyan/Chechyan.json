@@ -619,7 +619,7 @@
     {
       "id": 333,
       "nombre": "Omega Rojo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 764,
@@ -634,7 +634,7 @@
     {
       "id": 1095,
       "nombre": "CZ-PETER-VENKMAN",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 203,
@@ -934,7 +934,7 @@
     {
       "id": 1119,
       "nombre": "PF-PITUFO-FORTACHON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 527,
@@ -1329,7 +1329,7 @@
     {
       "id": 326,
       "nombre": "Blob",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 513,
@@ -1644,7 +1644,7 @@
     {
       "id": 1012,
       "nombre": "Y.HURAMESHI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 281,
@@ -1754,6 +1754,41 @@
     {
       "id": 220,
       "nombre": "DRAGON QUEST",
+      "cantidad": 1
+    },
+    {
+      "id": 1253,
+      "nombre": "SABRINA-COSAS-DE-BRUJAS",
+      "cantidad": 1
+    },
+    {
+      "id": 848,
+      "nombre": "RYU2",
+      "cantidad": 1
+    },
+    {
+      "id": 239,
+      "nombre": "Stridor",
+      "cantidad": 1
+    },
+    {
+      "id": 17,
+      "nombre": "Guerrero Serpiente",
+      "cantidad": 1
+    },
+    {
+      "id": 549,
+      "nombre": "T-1000",
+      "cantidad": 1
+    },
+    {
+      "id": 385,
+      "nombre": "brio",
+      "cantidad": 1
+    },
+    {
+      "id": 683,
+      "nombre": "DB-071",
       "cantidad": 1
     }
   ]

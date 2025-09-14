@@ -464,7 +464,7 @@
         {
             "id": 162,
             "nombre": "Mon Star",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 60,
@@ -674,7 +674,7 @@
         {
             "id": 408,
             "nombre": "Elisa--Gárgola",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 142,
@@ -869,7 +869,7 @@
         {
             "id": 422,
             "nombre": "meryl",
-            "cantidad": 7
+            "cantidad": 8
         },
         {
             "id": 458,
@@ -1229,7 +1229,7 @@
         {
             "id": 108,
             "nombre": "Baronesa",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 134,
@@ -1504,7 +1504,7 @@
         {
             "id": 583,
             "nombre": "DANNY-MELOW",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 525,
@@ -1659,7 +1659,7 @@
         {
             "id": 307,
             "nombre": "Skywarp",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 356,
@@ -1934,7 +1934,7 @@
         {
             "id": 520,
             "nombre": "BenGalí",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 746,
@@ -1979,7 +1979,7 @@
         {
             "id": 487,
             "nombre": "Jacques",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 595,
@@ -2029,7 +2029,7 @@
         {
             "id": 631,
             "nombre": "DB-019",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 650,
@@ -2149,7 +2149,7 @@
         {
             "id": 769,
             "nombre": "Pink",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 734,
@@ -2434,7 +2434,7 @@
         {
             "id": 410,
             "nombre": "Barón-Ashura",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 274,
@@ -2459,7 +2459,7 @@
         {
             "id": 798,
             "nombre": "PINGUINO",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 508,
@@ -2879,7 +2879,7 @@
         {
             "id": 833,
             "nombre": "blanka2",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 895,
@@ -2889,7 +2889,7 @@
         {
             "id": 842,
             "nombre": "GUILE2",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 452,
@@ -2924,7 +2924,7 @@
         {
             "id": 893,
             "nombre": "OCTOPUS",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 306,
@@ -4054,7 +4054,7 @@
         {
             "id": 91,
             "nombre": "Bronx",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 33,
@@ -4074,7 +4074,7 @@
         {
             "id": 610,
             "nombre": "TED-CARTER",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 967,
@@ -4084,7 +4084,7 @@
         {
             "id": 176,
             "nombre": "Camaleon",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 699,
@@ -4504,7 +4504,7 @@
         {
             "id": 1072,
             "nombre": "VALKYRIE-2",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 836,
@@ -4519,7 +4519,7 @@
         {
             "id": 714,
             "nombre": "DB-102",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 806,
@@ -5164,7 +5164,7 @@
         {
             "id": 1260,
             "nombre": "FA-DRAGON-QUEST-VIII",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1033,
@@ -5204,7 +5204,7 @@
         {
             "id": 820,
             "nombre": "SEKTOR",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1092,
@@ -5264,7 +5264,7 @@
         {
             "id": 1027,
             "nombre": "4FV- GALACTUS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 318,
@@ -5309,7 +5309,7 @@
         {
             "id": 635,
             "nombre": "DB-023",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1171,
@@ -5484,6 +5484,16 @@
         {
             "id": 515,
             "nombre": "Invasión-Saurians",
+            "cantidad": 1
+        },
+        {
+            "id": 1062,
+            "nombre": "SP- SPIDERMAN-2",
+            "cantidad": 1
+        },
+        {
+            "id": 1210,
+            "nombre": "4-FINAL-FIGHT",
             "cantidad": 1
         }
     ]
