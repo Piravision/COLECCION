@@ -439,7 +439,7 @@
     {
       "id": 421,
       "nombre": "mei2",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 444,
@@ -2799,7 +2799,7 @@
     {
       "id": 276,
       "nombre": "Baxter",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 725,
@@ -5499,6 +5499,11 @@
     {
       "id": 982,
       "nombre": "14-FRAN-SINCLAIR",
+      "cantidad": 1
+    },
+    {
+      "id": 1284,
+      "nombre": "ALEX-KIDD",
       "cantidad": 1
     }
   ]
