@@ -1324,7 +1324,7 @@
         {
             "id": 474,
             "nombre": "harry2",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 519,
@@ -4909,6 +4909,11 @@
         {
             "id": 805,
             "nombre": "GORO",
+            "cantidad": 1
+        },
+        {
+            "id": 821,
+            "nombre": "SHANG-TSUNG",
             "cantidad": 1
         }
     ]

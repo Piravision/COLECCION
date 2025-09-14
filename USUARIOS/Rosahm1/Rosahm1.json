@@ -3069,7 +3069,7 @@
         {
             "id": 821,
             "nombre": "SHANG-TSUNG",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 931,
@@ -5459,6 +5459,11 @@
         {
             "id": 467,
             "nombre": "Cheryl",
+            "cantidad": 1
+        },
+        {
+            "id": 474,
+            "nombre": "harry2",
             "cantidad": 1
         }
     ]
