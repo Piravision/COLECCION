@@ -1049,7 +1049,7 @@
         {
             "id": 428,
             "nombre": "psyco2",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 449,
@@ -3059,7 +3059,7 @@
         {
             "id": 566,
             "nombre": "BIG-BOSSMAN",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 464,
@@ -3259,7 +3259,7 @@
         {
             "id": 361,
             "nombre": "uriko",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 861,
@@ -3859,7 +3859,7 @@
         {
             "id": 392,
             "nombre": "roover",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 955,
@@ -4169,7 +4169,7 @@
         {
             "id": 633,
             "nombre": "DB-021",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 993,
@@ -4569,7 +4569,7 @@
         {
             "id": 990,
             "nombre": "CHICHO-TERREMOTO",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 739,
@@ -5239,7 +5239,7 @@
         {
             "id": 1069,
             "nombre": "TIGRA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1056,
@@ -5789,6 +5789,11 @@
         {
             "id": 1172,
             "nombre": "SUPERMAN",
+            "cantidad": 1
+        },
+        {
+            "id": 1086,
+            "nombre": "Z - AVENGERS",
             "cantidad": 1
         }
     ]

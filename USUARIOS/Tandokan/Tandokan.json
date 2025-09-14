@@ -1504,7 +1504,7 @@
     {
       "id": 94,
       "nombre": "Goliath",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 229,
@@ -1999,7 +1999,7 @@
     {
       "id": 907,
       "nombre": "FLASH",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 436,
@@ -3389,7 +3389,7 @@
     {
       "id": 825,
       "nombre": "SMOKE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 951,
@@ -4379,7 +4379,7 @@
     {
       "id": 150,
       "nombre": "Throttle",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 134,
@@ -4864,6 +4864,16 @@
     {
       "id": 1104,
       "nombre": "G-AUTILLO",
+      "cantidad": 1
+    },
+    {
+      "id": 292,
+      "nombre": "Bumblebee",
+      "cantidad": 1
+    },
+    {
+      "id": 1221,
+      "nombre": "KID-CHAMELEON",
       "cantidad": 1
     }
   ]
