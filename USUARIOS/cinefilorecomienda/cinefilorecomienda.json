@@ -894,7 +894,7 @@
     {
       "id": 915,
       "nombre": "WONDER-WOMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 685,
@@ -2089,6 +2089,31 @@
     {
       "id": 481,
       "nombre": "Capitán-Stargazer",
+      "cantidad": 1
+    },
+    {
+      "id": 158,
+      "nombre": "Copper Kid",
+      "cantidad": 1
+    },
+    {
+      "id": 160,
+      "nombre": "Steelheart",
+      "cantidad": 1
+    },
+    {
+      "id": 162,
+      "nombre": "Mon Star",
+      "cantidad": 1
+    },
+    {
+      "id": 1125,
+      "nombre": "GON",
+      "cantidad": 1
+    },
+    {
+      "id": 471,
+      "nombre": "Garland",
       "cantidad": 1
     }
   ]

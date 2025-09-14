@@ -464,7 +464,7 @@
     {
       "id": 84,
       "nombre": "zurbon",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 57,
@@ -549,7 +549,7 @@
     {
       "id": 130,
       "nombre": "Mer Man(",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 449,
@@ -569,7 +569,7 @@
     {
       "id": 236,
       "nombre": "Shark Tank",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 15,
@@ -739,7 +739,7 @@
     {
       "id": 547,
       "nombre": "Snake-Plissken",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 238,
@@ -749,7 +749,7 @@
     {
       "id": 549,
       "nombre": "T-1000",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 273,
@@ -784,7 +784,7 @@
     {
       "id": 7,
       "nombre": "El Patriarca",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 542,
@@ -1094,7 +1094,7 @@
     {
       "id": 145,
       "nombre": "Lord Dragaunus",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 63,
@@ -1159,7 +1159,7 @@
     {
       "id": 507,
       "nombre": "KING",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 624,
@@ -1274,7 +1274,7 @@
     {
       "id": 323,
       "nombre": "Tormenta",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 311,
@@ -1489,7 +1489,7 @@
     {
       "id": 114,
       "nombre": "Storm Shadow",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 566,
@@ -1599,7 +1599,7 @@
     {
       "id": 135,
       "nombre": "Afrodita A",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 712,
@@ -1759,7 +1759,7 @@
     {
       "id": 779,
       "nombre": "BANE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 782,
@@ -1834,7 +1834,7 @@
     {
       "id": 890,
       "nombre": "MEDUSA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 250,
@@ -1949,7 +1949,7 @@
     {
       "id": 603,
       "nombre": "PHILLIP-CALLAHAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 332,
@@ -2409,7 +2409,7 @@
     {
       "id": 444,
       "nombre": "birki",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1009,
@@ -2464,7 +2464,7 @@
     {
       "id": 473,
       "nombre": "harry",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 37,
@@ -2834,7 +2834,7 @@
     {
       "id": 929,
       "nombre": "KANE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1230,
@@ -3114,6 +3114,101 @@
     {
       "id": 1256,
       "nombre": "VIGILANTES-DE-LA-PLAYA",
+      "cantidad": 1
+    },
+    {
+      "id": 1101,
+      "nombre": "D-JOE-MCQUACK",
+      "cantidad": 1
+    },
+    {
+      "id": 896,
+      "nombre": "SHE-HULK",
+      "cantidad": 1
+    },
+    {
+      "id": 142,
+      "nombre": "Tanya Vanderflock",
+      "cantidad": 1
+    },
+    {
+      "id": 141,
+      "nombre": "Nosedive Flashblade",
+      "cantidad": 1
+    },
+    {
+      "id": 792,
+      "nombre": "HARLEY-QUEEN",
+      "cantidad": 1
+    },
+    {
+      "id": 482,
+      "nombre": "Escorpión",
+      "cantidad": 1
+    },
+    {
+      "id": 1264,
+      "nombre": "ARTHUR",
+      "cantidad": 1
+    },
+    {
+      "id": 1241,
+      "nombre": "EL-COCHE-FANTASTICO",
+      "cantidad": 1
+    },
+    {
+      "id": 976,
+      "nombre": "7-SABIONDO",
+      "cantidad": 1
+    },
+    {
+      "id": 975,
+      "nombre": "7-PENNY",
+      "cantidad": 1
+    },
+    {
+      "id": 228,
+      "nombre": "Isla Dermline",
+      "cantidad": 1
+    },
+    {
+      "id": 813,
+      "nombre": "LIU-KANG",
+      "cantidad": 1
+    },
+    {
+      "id": 1118,
+      "nombre": "PF-PITUFO FILOSOFO",
+      "cantidad": 1
+    },
+    {
+      "id": 451,
+      "nombre": "perros",
+      "cantidad": 1
+    },
+    {
+      "id": 454,
+      "nombre": "zombi",
+      "cantidad": 1
+    },
+    {
+      "id": 652,
+      "nombre": "DB-040",
+      "cantidad": 1
+    },
+    {
+      "id": 871,
+      "nombre": "BLACK-BOLT",
+      "cantidad": 1
+    },
+    {
+      "id": 1082,
+      "nombre": "X- PSYLOCKE",
+      "cantidad": 1
+    },
+    {
+      "id": 1041,
+      "nombre": "FALCON-2",
       "cantidad": 1
     }
   ]

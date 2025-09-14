@@ -49,7 +49,7 @@
     {
       "id": 346,
       "nombre": "jess",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 241,
@@ -154,7 +154,7 @@
     {
       "id": 767,
       "nombre": "green",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 34,
@@ -824,7 +824,7 @@
     {
       "id": 573,
       "nombre": "ULTIMATE-WARRIOR",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 680,
@@ -909,7 +909,7 @@
     {
       "id": 816,
       "nombre": "QUAN-CHI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 464,
@@ -1334,7 +1334,7 @@
     {
       "id": 44,
       "nombre": "Fly",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 64,
@@ -1464,7 +1464,7 @@
     {
       "id": 854,
       "nombre": "RIC-FLAIR",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 181,
@@ -1529,7 +1529,7 @@
     {
       "id": 719,
       "nombre": "DB-107",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 558,
@@ -1704,7 +1704,7 @@
     {
       "id": 720,
       "nombre": "DB-108",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 622,
@@ -1714,7 +1714,7 @@
     {
       "id": 542,
       "nombre": "DIE-HARD",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 702,
@@ -1769,7 +1769,7 @@
     {
       "id": 859,
       "nombre": "JASON-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 596,
@@ -2379,7 +2379,7 @@
     {
       "id": 462,
       "nombre": "sakura",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 592,
@@ -2759,7 +2759,7 @@
     {
       "id": 956,
       "nombre": "2-GADGET",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 874,
@@ -2769,7 +2769,7 @@
     {
       "id": 948,
       "nombre": "1-ATHOS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 418,
@@ -2969,7 +2969,7 @@
     {
       "id": 502,
       "nombre": "viktor",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 633,
@@ -3039,7 +3039,7 @@
     {
       "id": 780,
       "nombre": "BARBARA-GORDON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1106,
@@ -3644,7 +3644,7 @@
     {
       "id": 391,
       "nombre": "piretripe",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 394,
@@ -3654,7 +3654,7 @@
     {
       "id": 25,
       "nombre": "Diana",
-      "cantidad": 2
+      "cantidad": 4
     },
     {
       "id": 1002,
@@ -3674,7 +3674,7 @@
     {
       "id": 48,
       "nombre": "Hyunckel",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 55,
@@ -3699,7 +3699,7 @@
     {
       "id": 360,
       "nombre": "stung",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 62,
@@ -4369,7 +4369,7 @@
     {
       "id": 1096,
       "nombre": "CZ-RAY-STANTZ",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1050,
@@ -4689,6 +4689,36 @@
     {
       "id": 1156,
       "nombre": "ELONGATE MAN",
+      "cantidad": 1
+    },
+    {
+      "id": 975,
+      "nombre": "7-PENNY",
+      "cantidad": 1
+    },
+    {
+      "id": 1261,
+      "nombre": "FA-MEGAMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 638,
+      "nombre": "DB-026",
+      "cantidad": 1
+    },
+    {
+      "id": 799,
+      "nombre": "POISON-IVY",
+      "cantidad": 1
+    },
+    {
+      "id": 65,
+      "nombre": "flazzard",
+      "cantidad": 1
+    },
+    {
+      "id": 989,
+      "nombre": "CAPITAN-HARLOCK",
       "cantidad": 1
     }
   ]
