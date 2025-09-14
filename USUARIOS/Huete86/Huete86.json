@@ -2134,7 +2134,7 @@
     {
       "id": 616,
       "nombre": "DB-004",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 752,
@@ -3689,7 +3689,7 @@
     {
       "id": 476,
       "nombre": "Kaufman",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 927,
@@ -5529,6 +5529,11 @@
     {
       "id": 1170,
       "nombre": "RIDDLER",
+      "cantidad": 1
+    },
+    {
+      "id": 1204,
+      "nombre": "3-KNUCKLES",
       "cantidad": 1
     }
   ]

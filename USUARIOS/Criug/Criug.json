@@ -4054,7 +4054,7 @@
         {
             "id": 994,
             "nombre": "GUTS",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 935,
@@ -5804,6 +5804,11 @@
         {
             "id": 1157,
             "nombre": "FIRESTORM",
+            "cantidad": 1
+        },
+        {
+            "id": 1167,
+            "nombre": "JOKER",
             "cantidad": 1
         }
     ]
