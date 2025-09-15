@@ -3249,7 +3249,7 @@
         {
             "id": 894,
             "nombre": "RED-SKULL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 392,
@@ -5149,6 +5149,11 @@
         {
             "id": 1096,
             "nombre": "CZ-RAY-STANTZ",
+            "cantidad": 1
+        },
+        {
+            "id": 1075,
+            "nombre": "X -COLOSO",
             "cantidad": 1
         }
     ]
