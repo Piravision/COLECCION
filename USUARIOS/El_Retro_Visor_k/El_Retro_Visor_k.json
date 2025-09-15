@@ -469,7 +469,7 @@
         {
             "id": 558,
             "nombre": "LUKE-SKYWALKER-JAIL",
-            "cantidad": 6
+            "cantidad": 5
         },
         {
             "id": 515,
@@ -5804,6 +5804,11 @@
         {
             "id": 1092,
             "nombre": "CAZAFANTASMAS",
+            "cantidad": 1
+        },
+        {
+            "id": 1101,
+            "nombre": "D-JOE-MCQUACK",
             "cantidad": 1
         }
     ]
