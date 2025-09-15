@@ -3764,7 +3764,7 @@
         {
             "id": 936,
             "nombre": "THE-ROCK",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 864,
@@ -4894,6 +4894,11 @@
         {
             "id": 482,
             "nombre": "Escorpión",
+            "cantidad": 1
+        },
+        {
+            "id": 199,
+            "nombre": "Streex",
             "cantidad": 1
         }
     ]
