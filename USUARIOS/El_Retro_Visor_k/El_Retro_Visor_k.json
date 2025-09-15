@@ -5599,7 +5599,7 @@
         {
             "id": 1258,
             "nombre": "XENA-LA-PRINCESA-GUERRERA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1205,
@@ -5939,6 +5939,11 @@
         {
             "id": 1264,
             "nombre": "ARTHUR",
+            "cantidad": 1
+        },
+        {
+            "id": 1271,
+            "nombre": "FA-OUT-RUN",
             "cantidad": 1
         }
     ]
