@@ -1692,11 +1692,6 @@
             "cantidad": 1
         },
         {
-            "id": 1189,
-            "nombre": "DRAGON-LAIR",
-            "cantidad": 1
-        },
-        {
             "id": 1228,
             "nombre": "BEN-10",
             "cantidad": 1
@@ -2114,6 +2109,11 @@
         {
             "id": 530,
             "nombre": "Axel-Foley-Jail",
+            "cantidad": 1
+        },
+        {
+            "id": 533,
+            "nombre": "Tony-Montana-Jail",
             "cantidad": 1
         }
     ]
