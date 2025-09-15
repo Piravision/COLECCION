@@ -1517,11 +1517,6 @@
             "cantidad": 2
         },
         {
-            "id": 1068,
-            "nombre": "THUNDRA",
-            "cantidad": 1
-        },
-        {
             "id": 1088,
             "nombre": "1-MISTERIOS-SA",
             "cantidad": 1
@@ -2114,6 +2109,11 @@
         {
             "id": 948,
             "nombre": "1-ATHOS",
+            "cantidad": 1
+        },
+        {
+            "id": 950,
+            "nombre": "1-PORTHOS",
             "cantidad": 1
         }
     ]
