@@ -5459,7 +5459,7 @@
     {
       "id": 1207,
       "nombre": "4-CADILLACS-&-DINOSAURS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1000,
@@ -5669,7 +5669,7 @@
     {
       "id": 1205,
       "nombre": "3-TAILS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1088,
@@ -5814,7 +5814,7 @@
     {
       "id": 1203,
       "nombre": "2Z-PAC-MAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1223,
@@ -5924,6 +5924,21 @@
     {
       "id": 1280,
       "nombre": "JOTARO-KUJO",
+      "cantidad": 1
+    },
+    {
+      "id": 1273,
+      "nombre": "KINGDOM-HEARTS",
+      "cantidad": 1
+    },
+    {
+      "id": 1202,
+      "nombre": "2Z-MEGAMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1260,
+      "nombre": "FA-DRAGON-QUEST-VIII",
       "cantidad": 1
     }
   ]

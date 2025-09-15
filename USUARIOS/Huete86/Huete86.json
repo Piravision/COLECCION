@@ -619,7 +619,7 @@
     {
       "id": 338,
       "nombre": "Shiryū de Dragón",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 67,
@@ -894,7 +894,7 @@
     {
       "id": 269,
       "nombre": "Mona Lisa",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 358,
@@ -1104,7 +1104,7 @@
     {
       "id": 165,
       "nombre": "Daredevil",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 357,
@@ -1134,7 +1134,7 @@
     {
       "id": 485,
       "nombre": "Dr_Shemp",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 267,
@@ -1829,7 +1829,7 @@
     {
       "id": 503,
       "nombre": "gon",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 670,
@@ -1929,7 +1929,7 @@
     {
       "id": 677,
       "nombre": "DB-065",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 492,
@@ -2499,7 +2499,7 @@
     {
       "id": 838,
       "nombre": "dhalsim2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 802,
@@ -2519,7 +2519,7 @@
     {
       "id": 572,
       "nombre": "Sgt.-SLAUGTHER",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 743,
@@ -2734,7 +2734,7 @@
     {
       "id": 89,
       "nombre": "Angela",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 353,
@@ -3099,7 +3099,7 @@
     {
       "id": 362,
       "nombre": "yugo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 707,
@@ -3139,7 +3139,7 @@
     {
       "id": 192,
       "nombre": "Bends",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 606,
@@ -3789,7 +3789,7 @@
     {
       "id": 985,
       "nombre": "ALF-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 881,
@@ -4274,7 +4274,7 @@
     {
       "id": 1004,
       "nombre": "R.KENSHIN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1106,
@@ -4524,7 +4524,7 @@
     {
       "id": 1094,
       "nombre": "CZ-EGON-SPENGLER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1034,
@@ -4644,7 +4644,7 @@
     {
       "id": 20,
       "nombre": "Skulkur",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 793,
@@ -4859,7 +4859,7 @@
     {
       "id": 1025,
       "nombre": "4FV -DR.DOOM",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1193,
@@ -5159,7 +5159,7 @@
     {
       "id": 1198,
       "nombre": "1Z-BOWSER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1208,
@@ -5344,7 +5344,7 @@
     {
       "id": 1102,
       "nombre": "DENVER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1178,
@@ -5669,6 +5669,21 @@
     {
       "id": 1032,
       "nombre": "BV- VISION",
+      "cantidad": 1
+    },
+    {
+      "id": 1097,
+      "nombre": "CZ-WISTON-ZEDDEMORE",
+      "cantidad": 1
+    },
+    {
+      "id": 1126,
+      "nombre": "K.RYOTSU",
+      "cantidad": 1
+    },
+    {
+      "id": 896,
+      "nombre": "SHE-HULK",
       "cantidad": 1
     }
   ]

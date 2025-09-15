@@ -709,7 +709,7 @@
     {
       "id": 136,
       "nombre": "Mazinger Z",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 323,
@@ -1659,7 +1659,7 @@
     {
       "id": 440,
       "nombre": "scrabs",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 377,
@@ -2359,7 +2359,7 @@
     {
       "id": 684,
       "nombre": "DB-072",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 733,
@@ -3734,12 +3734,12 @@
     {
       "id": 661,
       "nombre": "DB-049",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 905,
       "nombre": "DARKSEID",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 805,
@@ -4784,7 +4784,7 @@
     {
       "id": 1121,
       "nombre": "RUGRATS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1120,
@@ -5509,7 +5509,7 @@
     {
       "id": 1223,
       "nombre": "MARCO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1171,
@@ -6069,6 +6069,16 @@
     {
       "id": 1005,
       "nombre": "RANMA-1_2",
+      "cantidad": 1
+    },
+    {
+      "id": 1268,
+      "nombre": "EZIO-AUDITORE",
+      "cantidad": 1
+    },
+    {
+      "id": 1206,
+      "nombre": "3a-SONIC",
       "cantidad": 1
     }
   ]
