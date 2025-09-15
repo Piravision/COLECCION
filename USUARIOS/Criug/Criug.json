@@ -14,7 +14,7 @@
     {
       "id": 94,
       "nombre": "Goliath",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 91,
@@ -474,7 +474,7 @@
     {
       "id": 470,
       "nombre": "Floatstinger",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 340,
@@ -539,7 +539,7 @@
     {
       "id": 314,
       "nombre": "Coloso",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 132,
@@ -874,7 +874,7 @@
     {
       "id": 22,
       "nombre": "Wrath Amon",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 405,
@@ -1744,7 +1744,7 @@
     {
       "id": 365,
       "nombre": "alucard 1",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 642,
@@ -2354,7 +2354,7 @@
     {
       "id": 160,
       "nombre": "Steelheart",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 431,
@@ -2449,7 +2449,7 @@
     {
       "id": 333,
       "nombre": "Omega Rojo",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 754,
@@ -3214,7 +3214,7 @@
     {
       "id": 87,
       "nombre": "Walter _Doc_ Hartford",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 447,
@@ -4484,7 +4484,7 @@
     {
       "id": 888,
       "nombre": "LOKI",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1113,
@@ -4774,7 +4774,7 @@
     {
       "id": 1121,
       "nombre": "RUGRATS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1091,
@@ -5044,7 +5044,7 @@
     {
       "id": 692,
       "nombre": "DB-080",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 967,
@@ -5199,7 +5199,7 @@
     {
       "id": 912,
       "nombre": "SINIESTRO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 727,
@@ -5734,7 +5734,7 @@
     {
       "id": 1148,
       "nombre": "AQUAMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1163,
@@ -5914,6 +5914,16 @@
     {
       "id": 1028,
       "nombre": "BLACK KNIGHT",
+      "cantidad": 1
+    },
+    {
+      "id": 1210,
+      "nombre": "4-FINAL-FIGHT",
+      "cantidad": 1
+    },
+    {
+      "id": 1280,
+      "nombre": "JOTARO-KUJO",
       "cantidad": 1
     }
   ]
