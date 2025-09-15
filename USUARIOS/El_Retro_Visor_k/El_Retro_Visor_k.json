@@ -1869,7 +1869,7 @@
         {
             "id": 573,
             "nombre": "ULTIMATE-WARRIOR",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 544,
@@ -5844,6 +5844,11 @@
         {
             "id": 1243,
             "nombre": "EXPEDIENTE-X",
+            "cantidad": 1
+        },
+        {
+            "id": 1248,
+            "nombre": "MACGYVER",
             "cantidad": 1
         }
     ]
