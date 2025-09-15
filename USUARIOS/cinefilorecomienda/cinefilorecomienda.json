@@ -1967,11 +1967,6 @@
             "cantidad": 1
         },
         {
-            "id": 1183,
-            "nombre": "LOS-DIMINUTOS",
-            "cantidad": 1
-        },
-        {
             "id": 802,
             "nombre": "ROBIN",
             "cantidad": 1
@@ -2114,6 +2109,11 @@
         {
             "id": 552,
             "nombre": "CHEWBACCA-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 530,
+            "nombre": "Axel-Foley-Jail",
             "cantidad": 1
         }
     ]

@@ -1329,7 +1329,7 @@
         {
             "id": 530,
             "nombre": "Axel-Foley-Jail",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 773,
@@ -5814,6 +5814,11 @@
         {
             "id": 1139,
             "nombre": "MARSUPILAMI",
+            "cantidad": 1
+        },
+        {
+            "id": 1183,
+            "nombre": "LOS-DIMINUTOS",
             "cantidad": 1
         }
     ]
