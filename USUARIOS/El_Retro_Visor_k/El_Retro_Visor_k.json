@@ -3284,7 +3284,7 @@
         {
             "id": 948,
             "nombre": "1-ATHOS",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 450,
@@ -5824,6 +5824,11 @@
         {
             "id": 1189,
             "nombre": "DRAGON-LAIR",
+            "cantidad": 1
+        },
+        {
+            "id": 1049,
+            "nombre": "I-MEDUSA-2",
             "cantidad": 1
         }
     ]
