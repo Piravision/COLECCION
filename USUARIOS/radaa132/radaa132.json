@@ -1324,7 +1324,7 @@
     {
       "id": 826,
       "nombre": "SONYA-BLADE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 808,
@@ -3359,6 +3359,16 @@
     {
       "id": 1241,
       "nombre": "EL-COCHE-FANTASTICO",
+      "cantidad": 1
+    },
+    {
+      "id": 171,
+      "nombre": "Mary Jane",
+      "cantidad": 1
+    },
+    {
+      "id": 944,
+      "nombre": "JOKER-JAIL",
       "cantidad": 1
     }
   ]
