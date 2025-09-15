@@ -29,7 +29,7 @@
     {
       "id": 9,
       "nombre": "Rhadamanthys",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 478,
@@ -219,7 +219,7 @@
     {
       "id": 259,
       "nombre": "Ojo Rojo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 253,
@@ -1074,6 +1074,11 @@
     {
       "id": 745,
       "nombre": "Dark-Shura-de-Capricornio",
+      "cantidad": 1
+    },
+    {
+      "id": 963,
+      "nombre": "3-SRA.-HUDSON",
       "cantidad": 1
     }
   ]

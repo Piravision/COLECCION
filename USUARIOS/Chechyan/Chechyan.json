@@ -439,7 +439,7 @@
     {
       "id": 165,
       "nombre": "Daredevil",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 373,
@@ -1819,7 +1819,7 @@
     {
       "id": 54,
       "nombre": "merle",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 826,
@@ -2129,6 +2129,41 @@
     {
       "id": 927,
       "nombre": "BRET-HART",
+      "cantidad": 1
+    },
+    {
+      "id": 1204,
+      "nombre": "3-KNUCKLES",
+      "cantidad": 1
+    },
+    {
+      "id": 1137,
+      "nombre": "LOS-PICAPIEDRA",
+      "cantidad": 1
+    },
+    {
+      "id": 581,
+      "nombre": "CLIFFORD-YUMA",
+      "cantidad": 1
+    },
+    {
+      "id": 1162,
+      "nombre": "GOLDENAGE-BATMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1065,
+      "nombre": "TH - LOKI-2",
+      "cantidad": 1
+    },
+    {
+      "id": 68,
+      "nombre": "galdandy",
+      "cantidad": 1
+    },
+    {
+      "id": 1111,
+      "nombre": "G1-COMANDO-G",
       "cantidad": 1
     }
   ]
