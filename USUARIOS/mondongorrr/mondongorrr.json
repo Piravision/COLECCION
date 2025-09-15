@@ -4364,7 +4364,7 @@
         {
             "id": 15,
             "nombre": "Zula",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1096,
@@ -4864,6 +4864,11 @@
         {
             "id": 658,
             "nombre": "DB-046",
+            "cantidad": 1
+        },
+        {
+            "id": 705,
+            "nombre": "DB-093",
             "cantidad": 1
         }
     ]
