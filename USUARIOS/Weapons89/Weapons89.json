@@ -2019,7 +2019,7 @@
         {
             "id": 729,
             "nombre": "DB-117",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 682,
@@ -4229,6 +4229,11 @@
         {
             "id": 15,
             "nombre": "Zula",
+            "cantidad": 1
+        },
+        {
+            "id": 261,
+            "nombre": "Reptilio",
             "cantidad": 1
         }
     ]

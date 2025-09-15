@@ -2144,7 +2144,7 @@
         {
             "id": 261,
             "nombre": "Reptilio",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 408,
@@ -4869,6 +4869,11 @@
         {
             "id": 705,
             "nombre": "DB-093",
+            "cantidad": 1
+        },
+        {
+            "id": 729,
+            "nombre": "DB-117",
             "cantidad": 1
         }
     ]
