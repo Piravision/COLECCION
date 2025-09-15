@@ -2249,7 +2249,7 @@
         {
             "id": 356,
             "nombre": "busuzima",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 550,
@@ -2309,7 +2309,7 @@
         {
             "id": 45,
             "nombre": "garuda",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 400,
@@ -3089,7 +3089,7 @@
         {
             "id": 861,
             "nombre": "MARTY-JAIL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 746,
@@ -4254,7 +4254,7 @@
         {
             "id": 252,
             "nombre": "Alluro",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1080,
@@ -4479,7 +4479,7 @@
         {
             "id": 1045,
             "nombre": "HAWKEYE-2",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 842,
@@ -4744,7 +4744,7 @@
         {
             "id": 1129,
             "nombre": "CRITTER-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 798,
@@ -5599,6 +5599,16 @@
         {
             "id": 1221,
             "nombre": "KID-CHAMELEON",
+            "cantidad": 1
+        },
+        {
+            "id": 1065,
+            "nombre": "TH - LOKI-2",
+            "cantidad": 1
+        },
+        {
+            "id": 1130,
+            "nombre": "MARS-JAIL",
             "cantidad": 1
         }
     ]
