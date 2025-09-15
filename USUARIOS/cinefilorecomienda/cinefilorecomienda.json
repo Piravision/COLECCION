@@ -1642,11 +1642,6 @@
             "cantidad": 1
         },
         {
-            "id": 1078,
-            "nombre": "X -PHOENIX",
-            "cantidad": 1
-        },
-        {
             "id": 627,
             "nombre": "DB-015",
             "cantidad": 1
@@ -2114,6 +2109,11 @@
         {
             "id": 950,
             "nombre": "1-PORTHOS",
+            "cantidad": 1
+        },
+        {
+            "id": 954,
+            "nombre": "2-CHIP",
             "cantidad": 1
         }
     ]
