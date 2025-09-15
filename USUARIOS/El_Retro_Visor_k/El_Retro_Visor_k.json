@@ -1864,7 +1864,7 @@
         {
             "id": 560,
             "nombre": "MACGYVER-JAIL",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 573,
@@ -5789,6 +5789,11 @@
         {
             "id": 1122,
             "nombre": "BOBOBO-BO",
+            "cantidad": 1
+        },
+        {
+            "id": 1197,
+            "nombre": "1A-MARIO",
             "cantidad": 1
         }
     ]
