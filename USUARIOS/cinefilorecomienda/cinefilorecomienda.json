@@ -2047,11 +2047,6 @@
             "cantidad": 1
         },
         {
-            "id": 1139,
-            "nombre": "MARSUPILAMI",
-            "cantidad": 1
-        },
-        {
             "id": 1248,
             "nombre": "MACGYVER",
             "cantidad": 1
@@ -2114,6 +2109,11 @@
         {
             "id": 558,
             "nombre": "LUKE-SKYWALKER-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 552,
+            "nombre": "CHEWBACCA-JAIL",
             "cantidad": 1
         }
     ]

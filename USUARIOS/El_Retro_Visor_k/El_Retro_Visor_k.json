@@ -844,7 +844,7 @@
         {
             "id": 552,
             "nombre": "CHEWBACCA-JAIL",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 25,
@@ -5809,6 +5809,11 @@
         {
             "id": 1101,
             "nombre": "D-JOE-MCQUACK",
+            "cantidad": 1
+        },
+        {
+            "id": 1139,
+            "nombre": "MARSUPILAMI",
             "cantidad": 1
         }
     ]
