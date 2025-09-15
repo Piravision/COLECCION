@@ -1584,7 +1584,7 @@
         {
             "id": 336,
             "nombre": "Hyōga de Cisne",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 766,
@@ -4944,6 +4944,11 @@
         {
             "id": 481,
             "nombre": "Capitán-Stargazer",
+            "cantidad": 1
+        },
+        {
+            "id": 276,
+            "nombre": "Baxter",
             "cantidad": 1
         }
     ]
