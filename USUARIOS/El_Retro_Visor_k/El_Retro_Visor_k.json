@@ -5944,7 +5944,7 @@
         {
             "id": 1271,
             "nombre": "FA-OUT-RUN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1224,
@@ -6109,6 +6109,11 @@
         {
             "id": 1217,
             "nombre": "5-STRIDER",
+            "cantidad": 1
+        },
+        {
+            "id": 1270,
+            "nombre": "FA-MONKEY-ISLAND",
             "cantidad": 1
         }
     ]
