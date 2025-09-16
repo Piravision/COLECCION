@@ -129,7 +129,7 @@
         {
             "id": 378,
             "nombre": "kid",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 175,
@@ -234,7 +234,7 @@
         {
             "id": 202,
             "nombre": "Killamari",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 538,
@@ -644,7 +644,7 @@
         {
             "id": 92,
             "nombre": "Brooklyn",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 186,
@@ -1229,7 +1229,7 @@
         {
             "id": 451,
             "nombre": "perros",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 524,
@@ -2524,7 +2524,7 @@
         {
             "id": 429,
             "nombre": "sniper",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 355,
@@ -2649,7 +2649,7 @@
         {
             "id": 174,
             "nombre": "Spiderman",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 67,
@@ -2739,7 +2739,7 @@
         {
             "id": 291,
             "nombre": "Zorax",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 36,
@@ -3224,7 +3224,7 @@
         {
             "id": 298,
             "nombre": "Prowl",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 251,
@@ -3689,7 +3689,7 @@
         {
             "id": 143,
             "nombre": "Wildwing Flashblade",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 983,
@@ -3719,7 +3719,7 @@
         {
             "id": 404,
             "nombre": "sefirot",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 399,
@@ -4249,7 +4249,7 @@
         {
             "id": 980,
             "nombre": "14-EARL-SINCLAIR",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 800,
@@ -5429,7 +5429,7 @@
         {
             "id": 1075,
             "nombre": "X -COLOSO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1123,
@@ -5924,7 +5924,7 @@
         {
             "id": 1284,
             "nombre": "ALEX-KIDD",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1211,
@@ -6139,6 +6139,11 @@
         {
             "id": 1036,
             "nombre": "CAPITAN MARVEL",
+            "cantidad": 1
+        },
+        {
+            "id": 1160,
+            "nombre": "GOLDENAGE- GREEN LANTERN",
             "cantidad": 1
         }
     ]

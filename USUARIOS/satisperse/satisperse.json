@@ -614,7 +614,7 @@
     {
       "id": 536,
       "nombre": "Xena-Jail",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 556,
@@ -1299,6 +1299,16 @@
     {
       "id": 780,
       "nombre": "BARBARA-GORDON",
+      "cantidad": 1
+    },
+    {
+      "id": 960,
+      "nombre": "3-LESTRADE",
+      "cantidad": 1
+    },
+    {
+      "id": 677,
+      "nombre": "DB-065",
       "cantidad": 1
     }
   ]

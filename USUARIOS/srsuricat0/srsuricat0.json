@@ -3114,7 +3114,7 @@
     {
       "id": 21,
       "nombre": "Windfang",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 269,
@@ -4549,7 +4549,7 @@
     {
       "id": 710,
       "nombre": "DB-098",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 727,
@@ -5119,6 +5119,11 @@
     {
       "id": 899,
       "nombre": "THANOS",
+      "cantidad": 1
+    },
+    {
+      "id": 1237,
+      "nombre": "1-WILL",
       "cantidad": 1
     }
   ]
