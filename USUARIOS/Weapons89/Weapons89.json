@@ -364,7 +364,7 @@
         {
             "id": 496,
             "nombre": "LUCA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 525,
@@ -4359,6 +4359,11 @@
         {
             "id": 244,
             "nombre": "Felina",
+            "cantidad": 1
+        },
+        {
+            "id": 241,
+            "nombre": "Thunder Tank",
             "cantidad": 1
         }
     ]
