@@ -4349,7 +4349,7 @@
         {
             "id": 943,
             "nombre": "JOHNNY5-JAIL",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 729,
@@ -5759,6 +5759,11 @@
         {
             "id": 821,
             "nombre": "SHANG-TSUNG",
+            "cantidad": 1
+        },
+        {
+            "id": 1211,
+            "nombre": "4-GOLDEN-AXE",
             "cantidad": 1
         }
     ]
