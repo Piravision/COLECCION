@@ -2114,7 +2114,7 @@
         {
             "id": 215,
             "nombre": "Castillo Grayskull",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 628,
@@ -5039,6 +5039,11 @@
         {
             "id": 497,
             "nombre": "nanami",
+            "cantidad": 1
+        },
+        {
+            "id": 500,
+            "nombre": "shu",
             "cantidad": 1
         }
     ]
