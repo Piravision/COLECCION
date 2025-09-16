@@ -879,7 +879,7 @@
     {
       "id": 353,
       "nombre": "zorgia",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 218,
@@ -3119,7 +3119,7 @@
     {
       "id": 1101,
       "nombre": "D-JOE-MCQUACK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 896,
@@ -3344,6 +3344,11 @@
     {
       "id": 168,
       "nombre": "Hobgoblin",
+      "cantidad": 1
+    },
+    {
+      "id": 610,
+      "nombre": "TED-CARTER",
       "cantidad": 1
     }
   ]

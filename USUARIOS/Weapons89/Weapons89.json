@@ -169,7 +169,7 @@
     {
       "id": 272,
       "nombre": "Panda Khan",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 131,
@@ -2854,7 +2854,7 @@
     {
       "id": 560,
       "nombre": "MACGYVER-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 767,
@@ -3799,7 +3799,7 @@
     {
       "id": 347,
       "nombre": "Lizard",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 934,
@@ -4349,7 +4349,7 @@
     {
       "id": 413,
       "nombre": "campb",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 244,
@@ -4479,6 +4479,16 @@
     {
       "id": 1011,
       "nombre": "TAI-&-AGUMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1045,
+      "nombre": "HAWKEYE-2",
+      "cantidad": 1
+    },
+    {
+      "id": 1074,
+      "nombre": "X -BESTIA",
       "cantidad": 1
     }
   ]
