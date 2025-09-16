@@ -679,7 +679,7 @@
     {
       "id": 516,
       "nombre": "LEGIÓN-DEL-DRAGÓN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 938,
@@ -2409,6 +2409,31 @@
     {
       "id": 613,
       "nombre": "DB-001",
+      "cantidad": 1
+    },
+    {
+      "id": 886,
+      "nombre": "KARNAK",
+      "cantidad": 1
+    },
+    {
+      "id": 1126,
+      "nombre": "K.RYOTSU",
+      "cantidad": 1
+    },
+    {
+      "id": 704,
+      "nombre": "DB-092",
+      "cantidad": 1
+    },
+    {
+      "id": 265,
+      "nombre": "Leatherhead",
+      "cantidad": 1
+    },
+    {
+      "id": 1181,
+      "nombre": "DEXTER",
       "cantidad": 1
     }
   ]

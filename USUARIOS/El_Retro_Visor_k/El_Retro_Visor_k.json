@@ -489,7 +489,7 @@
         {
             "id": 31,
             "nombre": "Tiamat",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 382,
@@ -1859,7 +1859,7 @@
         {
             "id": 862,
             "nombre": "NEO-JAIL",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 560,
@@ -4154,7 +4154,7 @@
         {
             "id": 828,
             "nombre": "SUB-ZERO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 346,
@@ -5384,7 +5384,7 @@
         {
             "id": 677,
             "nombre": "DB-065",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 698,
@@ -6084,6 +6084,11 @@
         {
             "id": 1046,
             "nombre": "HERCULES",
+            "cantidad": 1
+        },
+        {
+            "id": 1156,
+            "nombre": "ELONGATE MAN",
             "cantidad": 1
         }
     ]
