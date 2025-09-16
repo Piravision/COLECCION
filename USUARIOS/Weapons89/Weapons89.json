@@ -444,7 +444,7 @@
         {
             "id": 236,
             "nombre": "Shark Tank",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 126,
@@ -4379,6 +4379,11 @@
         {
             "id": 204,
             "nombre": "SharkBot",
+            "cantidad": 1
+        },
+        {
+            "id": 776,
+            "nombre": "zedd",
             "cantidad": 1
         }
     ]

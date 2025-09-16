@@ -2424,7 +2424,7 @@
         {
             "id": 776,
             "nombre": "zedd",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 154,
@@ -5049,6 +5049,11 @@
         {
             "id": 229,
             "nombre": "Last Chance Garage",
+            "cantidad": 1
+        },
+        {
+            "id": 236,
+            "nombre": "Shark Tank",
             "cantidad": 1
         }
     ]
