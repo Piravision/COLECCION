@@ -2129,7 +2129,7 @@
         {
             "id": 954,
             "nombre": "2-CHIP",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 963,
@@ -4494,6 +4494,11 @@
         {
             "id": 350,
             "nombre": "Murgg",
+            "cantidad": 1
+        },
+        {
+            "id": 273,
+            "nombre": "Raphael",
             "cantidad": 1
         }
     ]
