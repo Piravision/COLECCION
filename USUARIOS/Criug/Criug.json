@@ -5359,7 +5359,7 @@
         {
             "id": 1130,
             "nombre": "MARS-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1187,
@@ -6014,6 +6014,11 @@
         {
             "id": 1284,
             "nombre": "ALEX-KIDD",
+            "cantidad": 1
+        },
+        {
+            "id": 1101,
+            "nombre": "D-JOE-MCQUACK",
             "cantidad": 1
         }
     ]
