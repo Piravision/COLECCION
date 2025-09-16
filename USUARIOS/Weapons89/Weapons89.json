@@ -2734,7 +2734,7 @@
         {
             "id": 229,
             "nombre": "Last Chance Garage",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 703,
@@ -4374,6 +4374,11 @@
         {
             "id": 215,
             "nombre": "Castillo Grayskull",
+            "cantidad": 1
+        },
+        {
+            "id": 204,
+            "nombre": "SharkBot",
             "cantidad": 1
         }
     ]
