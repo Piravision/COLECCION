@@ -754,7 +754,7 @@
     {
       "id": 543,
       "nombre": "DIE-HARD-III",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 511,
@@ -1284,7 +1284,7 @@
     {
       "id": 360,
       "nombre": "stung",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 490,
@@ -2054,7 +2054,7 @@
     {
       "id": 734,
       "nombre": "Afrodita-de-Piscis",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 368,
@@ -3424,6 +3424,36 @@
     {
       "id": 680,
       "nombre": "DB-068",
+      "cantidad": 1
+    },
+    {
+      "id": 169,
+      "nombre": "Hombre de Hielo",
+      "cantidad": 1
+    },
+    {
+      "id": 1110,
+      "nombre": "G-ZOLTAR",
+      "cantidad": 1
+    },
+    {
+      "id": 1075,
+      "nombre": "X -COLOSO",
+      "cantidad": 1
+    },
+    {
+      "id": 1244,
+      "nombre": "HERCULES",
+      "cantidad": 1
+    },
+    {
+      "id": 325,
+      "nombre": "Apocalipsis",
+      "cantidad": 1
+    },
+    {
+      "id": 454,
+      "nombre": "zombi",
       "cantidad": 1
     }
   ]

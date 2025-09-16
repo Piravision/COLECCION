@@ -304,7 +304,7 @@
     {
       "id": 538,
       "nombre": "BRUCE-LEE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 717,
@@ -1774,7 +1774,7 @@
     {
       "id": 1134,
       "nombre": "DR.-GRANUDO-&-HORRIFIDO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 710,
@@ -2264,7 +2264,7 @@
     {
       "id": 1224,
       "nombre": "SAMUS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 202,
@@ -2509,6 +2509,51 @@
     {
       "id": 306,
       "nombre": "Shockwave",
+      "cantidad": 1
+    },
+    {
+      "id": 435,
+      "nombre": "vulkan2",
+      "cantidad": 1
+    },
+    {
+      "id": 507,
+      "nombre": "KING",
+      "cantidad": 1
+    },
+    {
+      "id": 1259,
+      "nombre": "FA-CHRONO-TRIGGER",
+      "cantidad": 1
+    },
+    {
+      "id": 391,
+      "nombre": "piretripe",
+      "cantidad": 1
+    },
+    {
+      "id": 645,
+      "nombre": "DB-033",
+      "cantidad": 1
+    },
+    {
+      "id": 95,
+      "nombre": "Hudson",
+      "cantidad": 1
+    },
+    {
+      "id": 631,
+      "nombre": "DB-019",
+      "cantidad": 1
+    },
+    {
+      "id": 301,
+      "nombre": "Astrotrain",
+      "cantidad": 1
+    },
+    {
+      "id": 16,
+      "nombre": "Dregs",
       "cantidad": 1
     }
   ]
