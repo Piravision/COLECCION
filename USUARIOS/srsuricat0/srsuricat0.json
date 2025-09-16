@@ -9,7 +9,7 @@
         {
             "id": 366,
             "nombre": "alucard 2",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 487,
@@ -644,7 +644,7 @@
         {
             "id": 435,
             "nombre": "vulkan2",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 236,
@@ -2779,7 +2779,7 @@
         {
             "id": 258,
             "nombre": "Mumm Ra",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 603,
@@ -3654,7 +3654,7 @@
         {
             "id": 885,
             "nombre": "IRON-MAN",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 807,
@@ -5114,6 +5114,11 @@
         {
             "id": 902,
             "nombre": "AQUAMAN",
+            "cantidad": 1
+        },
+        {
+            "id": 899,
+            "nombre": "THANOS",
             "cantidad": 1
         }
     ]
