@@ -1249,7 +1249,7 @@
         {
             "id": 550,
             "nombre": "AceVentura-JAIL",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 278,
@@ -6079,6 +6079,11 @@
         {
             "id": 1133,
             "nombre": "AGALLAS",
+            "cantidad": 1
+        },
+        {
+            "id": 1046,
+            "nombre": "HERCULES",
             "cantidad": 1
         }
     ]
