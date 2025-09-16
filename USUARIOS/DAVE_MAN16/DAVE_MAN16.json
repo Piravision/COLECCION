@@ -109,7 +109,7 @@
     {
       "id": 202,
       "nombre": "Killamari",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 256,
@@ -274,7 +274,7 @@
     {
       "id": 204,
       "nombre": "SharkBot",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 451,
@@ -2549,6 +2549,11 @@
     {
       "id": 575,
       "nombre": "A.GALVAN",
+      "cantidad": 1
+    },
+    {
+      "id": 200,
+      "nombre": "Swordo",
       "cantidad": 1
     }
   ]
