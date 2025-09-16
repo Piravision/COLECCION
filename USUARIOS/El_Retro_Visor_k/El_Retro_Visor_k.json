@@ -724,7 +724,7 @@
         {
             "id": 511,
             "nombre": "YOSHI",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 41,
@@ -1064,7 +1064,7 @@
         {
             "id": 116,
             "nombre": "Cringer",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 751,
@@ -3409,7 +3409,7 @@
         {
             "id": 971,
             "nombre": "7-INSPECTOR-GADGET",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 737,
@@ -3964,7 +3964,7 @@
         {
             "id": 627,
             "nombre": "DB-015",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 813,
@@ -4919,7 +4919,7 @@
         {
             "id": 257,
             "nombre": "Mumm Ra",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 878,
@@ -4984,7 +4984,7 @@
         {
             "id": 1038,
             "nombre": "CAPITANA MARVEL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1147,
@@ -5579,7 +5579,7 @@
         {
             "id": 1169,
             "nombre": "RED TORNADO",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1054,
@@ -6094,6 +6094,11 @@
         {
             "id": 1087,
             "nombre": "1-LA-BANDA-DEL-PATIO",
+            "cantidad": 1
+        },
+        {
+            "id": 1158,
+            "nombre": "FLASH",
             "cantidad": 1
         }
     ]
