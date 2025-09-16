@@ -629,7 +629,7 @@
         {
             "id": 388,
             "nombre": "koala2",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 121,
@@ -5109,6 +5109,11 @@
         {
             "id": 781,
             "nombre": "BATGIRL",
+            "cantidad": 1
+        },
+        {
+            "id": 902,
+            "nombre": "AQUAMAN",
             "cantidad": 1
         }
     ]
