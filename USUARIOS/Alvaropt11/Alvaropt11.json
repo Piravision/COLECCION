@@ -2449,7 +2449,7 @@
         {
             "id": 563,
             "nombre": "VADER-JAIL",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 299,
@@ -4094,7 +4094,7 @@
         {
             "id": 21,
             "nombre": "Windfang",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 27,
@@ -4874,7 +4874,7 @@
         {
             "id": 905,
             "nombre": "DARKSEID",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 907,
@@ -5649,7 +5649,7 @@
         {
             "id": 1220,
             "nombre": "FOX",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1206,
@@ -5719,6 +5719,61 @@
         {
             "id": 1258,
             "nombre": "XENA-LA-PRINCESA-GUERRERA",
+            "cantidad": 1
+        },
+        {
+            "id": 1300,
+            "nombre": "FA-TOKI",
+            "cantidad": 1
+        },
+        {
+            "id": 633,
+            "nombre": "DB-021",
+            "cantidad": 1
+        },
+        {
+            "id": 1243,
+            "nombre": "EXPEDIENTE-X",
+            "cantidad": 1
+        },
+        {
+            "id": 1201,
+            "nombre": "2Z-BOMBERMAN",
+            "cantidad": 1
+        },
+        {
+            "id": 1248,
+            "nombre": "MACGYVER",
+            "cantidad": 1
+        },
+        {
+            "id": 1027,
+            "nombre": "4FV- GALACTUS",
+            "cantidad": 1
+        },
+        {
+            "id": 1053,
+            "nombre": "KANG",
+            "cantidad": 1
+        },
+        {
+            "id": 279,
+            "nombre": "Cuerpo Androide",
+            "cantidad": 1
+        },
+        {
+            "id": 1261,
+            "nombre": "FA-MEGAMAN",
+            "cantidad": 1
+        },
+        {
+            "id": 1250,
+            "nombre": "MIAMI-VICE",
+            "cantidad": 1
+        },
+        {
+            "id": 1290,
+            "nombre": "MORRIGAN",
             "cantidad": 1
         }
     ]
