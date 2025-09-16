@@ -399,7 +399,7 @@
     {
       "id": 116,
       "nombre": "Cringer",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 404,
@@ -919,7 +919,7 @@
     {
       "id": 384,
       "nombre": "aku aku",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 308,
@@ -1654,7 +1654,7 @@
     {
       "id": 179,
       "nombre": "Duende Verde",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 894,
@@ -2364,7 +2364,7 @@
     {
       "id": 542,
       "nombre": "DIE-HARD",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 710,
@@ -3014,7 +3014,7 @@
     {
       "id": 790,
       "nombre": "ESPANTAPAJAROS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1066,
@@ -3369,6 +3369,41 @@
     {
       "id": 944,
       "nombre": "JOKER-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 887,
+      "nombre": "LOCKJAW",
+      "cantidad": 1
+    },
+    {
+      "id": 415,
+      "nombre": "emme",
+      "cantidad": 1
+    },
+    {
+      "id": 1028,
+      "nombre": "BLACK KNIGHT",
+      "cantidad": 1
+    },
+    {
+      "id": 1064,
+      "nombre": "SP- VENOM-2",
+      "cantidad": 1
+    },
+    {
+      "id": 1157,
+      "nombre": "FIRESTORM",
+      "cantidad": 1
+    },
+    {
+      "id": 1274,
+      "nombre": "KIRBY",
+      "cantidad": 1
+    },
+    {
+      "id": 797,
+      "nombre": "MR-FREEZE",
       "cantidad": 1
     }
   ]

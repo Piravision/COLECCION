@@ -74,7 +74,7 @@
     {
       "id": 246,
       "nombre": "Jaga",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 21,
@@ -739,7 +739,7 @@
     {
       "id": 251,
       "nombre": "Tigro",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 697,
@@ -1354,7 +1354,7 @@
     {
       "id": 249,
       "nombre": "Pomara",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 868,
@@ -2369,17 +2369,17 @@
     {
       "id": 439,
       "nombre": "mudokons",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 441,
       "nombre": "slig",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 442,
       "nombre": "slig2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 508,
@@ -2519,6 +2519,21 @@
     {
       "id": 1196,
       "nombre": "1-YOSHI",
+      "cantidad": 1
+    },
+    {
+      "id": 905,
+      "nombre": "DARKSEID",
+      "cantidad": 1
+    },
+    {
+      "id": 597,
+      "nombre": "LOUIS-NAPOLEON",
+      "cantidad": 1
+    },
+    {
+      "id": 638,
+      "nombre": "DB-026",
       "cantidad": 1
     }
   ]

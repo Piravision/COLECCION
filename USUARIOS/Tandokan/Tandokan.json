@@ -154,7 +154,7 @@
     {
       "id": 725,
       "nombre": "DB-113",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 538,
@@ -234,7 +234,7 @@
     {
       "id": 741,
       "nombre": "Camus-de-Acuario",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 120,
@@ -369,7 +369,7 @@
     {
       "id": 542,
       "nombre": "DIE-HARD",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 310,
@@ -839,7 +839,7 @@
     {
       "id": 57,
       "nombre": "pop",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 125,
@@ -1729,7 +1729,7 @@
     {
       "id": 393,
       "nombre": "Tawna",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 809,
@@ -1844,7 +1844,7 @@
     {
       "id": 684,
       "nombre": "DB-072",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 513,
@@ -2409,7 +2409,7 @@
     {
       "id": 796,
       "nombre": "MAN-BAT",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 259,
@@ -2719,7 +2719,7 @@
     {
       "id": 843,
       "nombre": "HONDA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 408,
@@ -2844,7 +2844,7 @@
     {
       "id": 162,
       "nombre": "Mon Star",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 288,
@@ -3719,7 +3719,7 @@
     {
       "id": 587,
       "nombre": "EDDY-BRIGHT",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 812,
@@ -4294,7 +4294,7 @@
     {
       "id": 1187,
       "nombre": "CRIPTA-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1188,
@@ -4359,7 +4359,7 @@
     {
       "id": 260,
       "nombre": "Princesa Luna",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 244,
@@ -4649,7 +4649,7 @@
     {
       "id": 1057,
       "nombre": "PALADIN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1248,
@@ -4749,7 +4749,7 @@
     {
       "id": 1159,
       "nombre": "GOLDENAGE- FLASH",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1065,
@@ -5164,6 +5164,26 @@
     {
       "id": 48,
       "nombre": "Hyunckel",
+      "cantidad": 1
+    },
+    {
+      "id": 1113,
+      "nombre": "LOS-FRUITIS",
+      "cantidad": 1
+    },
+    {
+      "id": 1232,
+      "nombre": "TINTIN-&-MILU",
+      "cantidad": 1
+    },
+    {
+      "id": 1126,
+      "nombre": "K.RYOTSU",
+      "cantidad": 1
+    },
+    {
+      "id": 997,
+      "nombre": "IKKI-&-METABEE",
       "cantidad": 1
     }
   ]

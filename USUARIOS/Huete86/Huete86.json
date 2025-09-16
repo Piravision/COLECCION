@@ -769,7 +769,7 @@
     {
       "id": 541,
       "nombre": "COBRA-1986",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 547,
@@ -4134,7 +4134,7 @@
     {
       "id": 728,
       "nombre": "DB-116",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 952,
@@ -5699,6 +5699,11 @@
     {
       "id": 1061,
       "nombre": "SHANG-CHI",
+      "cantidad": 1
+    },
+    {
+      "id": 1263,
+      "nombre": "SALVADOS-POR-LA-CAMPANA",
       "cantidad": 1
     }
   ]

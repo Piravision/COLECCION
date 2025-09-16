@@ -219,7 +219,7 @@
     {
       "id": 337,
       "nombre": "Ikki de Fénix",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 588,
@@ -229,7 +229,7 @@
     {
       "id": 861,
       "nombre": "MARTY-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 485,
@@ -244,7 +244,7 @@
     {
       "id": 174,
       "nombre": "Spiderman",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 91,
@@ -414,7 +414,7 @@
     {
       "id": 261,
       "nombre": "Reptilio",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 391,
@@ -449,7 +449,7 @@
     {
       "id": 991,
       "nombre": "CONAN-EDOGAWA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 715,
@@ -474,7 +474,7 @@
     {
       "id": 598,
       "nombre": "MARGUS-MANFRED",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 543,
@@ -549,7 +549,7 @@
     {
       "id": 883,
       "nombre": "HULK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 256,
@@ -629,7 +629,7 @@
     {
       "id": 517,
       "nombre": "Pirámide Negra",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1095,
@@ -679,7 +679,7 @@
     {
       "id": 645,
       "nombre": "DB-033",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 984,
@@ -704,7 +704,7 @@
     {
       "id": 1117,
       "nombre": "PF-PITUFINA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 340,
@@ -949,7 +949,7 @@
     {
       "id": 336,
       "nombre": "Hyōga de Cisne",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 917,
@@ -989,7 +989,7 @@
     {
       "id": 1046,
       "nombre": "HERCULES",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 60,
@@ -1234,7 +1234,7 @@
     {
       "id": 49,
       "nombre": "leona",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 542,
@@ -1434,7 +1434,7 @@
     {
       "id": 824,
       "nombre": "SINDEL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 655,
@@ -1644,7 +1644,7 @@
     {
       "id": 1012,
       "nombre": "Y.HURAMESHI",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 281,
@@ -1734,7 +1734,7 @@
     {
       "id": 708,
       "nombre": "DB-096",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 366,
@@ -1944,7 +1944,7 @@
     {
       "id": 538,
       "nombre": "BRUCE-LEE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1092,
@@ -2119,7 +2119,7 @@
     {
       "id": 120,
       "nombre": "Principe Adam",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 316,
@@ -2129,7 +2129,7 @@
     {
       "id": 927,
       "nombre": "BRET-HART",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1204,
@@ -2179,6 +2179,206 @@
     {
       "id": 188,
       "nombre": "Sandman",
+      "cantidad": 1
+    },
+    {
+      "id": 967,
+      "nombre": "4-TICO",
+      "cantidad": 1
+    },
+    {
+      "id": 590,
+      "nombre": "HERMANN-KALTZ",
+      "cantidad": 1
+    },
+    {
+      "id": 1247,
+      "nombre": "LUZ-DE-LUNA",
+      "cantidad": 1
+    },
+    {
+      "id": 206,
+      "nombre": "Slash",
+      "cantidad": 1
+    },
+    {
+      "id": 1210,
+      "nombre": "4-FINAL-FIGHT",
+      "cantidad": 1
+    },
+    {
+      "id": 338,
+      "nombre": "Shiryū de Dragón",
+      "cantidad": 1
+    },
+    {
+      "id": 532,
+      "nombre": "Sarah-Connor-Jail",
+      "cantidad": 1
+    },
+    {
+      "id": 139,
+      "nombre": "Duke L'Orange",
+      "cantidad": 1
+    },
+    {
+      "id": 617,
+      "nombre": "DB-005",
+      "cantidad": 1
+    },
+    {
+      "id": 805,
+      "nombre": "GORO",
+      "cantidad": 1
+    },
+    {
+      "id": 870,
+      "nombre": "BARON-ZEMO",
+      "cantidad": 1
+    },
+    {
+      "id": 916,
+      "nombre": "CHUKY-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 638,
+      "nombre": "DB-026",
+      "cantidad": 1
+    },
+    {
+      "id": 142,
+      "nombre": "Tanya Vanderflock",
+      "cantidad": 1
+    },
+    {
+      "id": 493,
+      "nombre": "flik",
+      "cantidad": 1
+    },
+    {
+      "id": 1211,
+      "nombre": "4-GOLDEN-AXE",
+      "cantidad": 1
+    },
+    {
+      "id": 323,
+      "nombre": "Tormenta",
+      "cantidad": 1
+    },
+    {
+      "id": 469,
+      "nombre": "Dahlia Gillespie",
+      "cantidad": 1
+    },
+    {
+      "id": 913,
+      "nombre": "SUPERGIRL",
+      "cantidad": 1
+    },
+    {
+      "id": 1216,
+      "nombre": "5-NINJA-GAIDEN",
+      "cantidad": 1
+    },
+    {
+      "id": 408,
+      "nombre": "Elisa--Gárgola",
+      "cantidad": 1
+    },
+    {
+      "id": 192,
+      "nombre": "Bends",
+      "cantidad": 1
+    },
+    {
+      "id": 938,
+      "nombre": "VINCE-MCMAHON",
+      "cantidad": 1
+    },
+    {
+      "id": 646,
+      "nombre": "DB-034",
+      "cantidad": 1
+    },
+    {
+      "id": 496,
+      "nombre": "LUCA",
+      "cantidad": 1
+    },
+    {
+      "id": 251,
+      "nombre": "Tigro",
+      "cantidad": 1
+    },
+    {
+      "id": 355,
+      "nombre": "bayur",
+      "cantidad": 1
+    },
+    {
+      "id": 525,
+      "nombre": "Cíclope",
+      "cantidad": 1
+    },
+    {
+      "id": 754,
+      "nombre": "Pandora",
+      "cantidad": 1
+    },
+    {
+      "id": 843,
+      "nombre": "HONDA",
+      "cantidad": 1
+    },
+    {
+      "id": 987,
+      "nombre": "ARALE",
+      "cantidad": 1
+    },
+    {
+      "id": 1010,
+      "nombre": "LUPIN-III",
+      "cantidad": 1
+    },
+    {
+      "id": 759,
+      "nombre": "Shion",
+      "cantidad": 1
+    },
+    {
+      "id": 961,
+      "nombre": "3-MORIARTY",
+      "cantidad": 1
+    },
+    {
+      "id": 648,
+      "nombre": "DB-036",
+      "cantidad": 1
+    },
+    {
+      "id": 1079,
+      "nombre": "X -ROGUE",
+      "cantidad": 1
+    },
+    {
+      "id": 1277,
+      "nombre": "BATMAN-&-ROBIN",
+      "cantidad": 1
+    },
+    {
+      "id": 253,
+      "nombre": "Buitro",
+      "cantidad": 1
+    },
+    {
+      "id": 604,
+      "nombre": "RALF-PETERSON",
+      "cantidad": 1
+    },
+    {
+      "id": 1156,
+      "nombre": "ELONGATE MAN",
       "cantidad": 1
     }
   ]
