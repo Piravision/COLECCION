@@ -229,7 +229,7 @@
         {
             "id": 230,
             "nombre": "Mansion X",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 162,
@@ -3434,6 +3434,11 @@
         {
             "id": 240,
             "nombre": "Terror Drome",
+            "cantidad": 1
+        },
+        {
+            "id": 209,
+            "nombre": "Sovereign Rock Castle",
             "cantidad": 1
         }
     ]

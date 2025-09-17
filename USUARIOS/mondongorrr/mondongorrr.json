@@ -134,7 +134,7 @@
         {
             "id": 209,
             "nombre": "Sovereign Rock Castle",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 107,
@@ -5304,6 +5304,11 @@
         {
             "id": 519,
             "nombre": "Tortugamóvil",
+            "cantidad": 1
+        },
+        {
+            "id": 230,
+            "nombre": "Mansion X",
             "cantidad": 1
         }
     ]
