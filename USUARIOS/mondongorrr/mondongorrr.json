@@ -1499,7 +1499,7 @@
         {
             "id": 866,
             "nombre": "SNAKE-JAIL",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 524,
@@ -5309,6 +5309,11 @@
         {
             "id": 230,
             "nombre": "Mansion X",
+            "cantidad": 1
+        },
+        {
+            "id": 951,
+            "nombre": "10-DANIEL-EL-TRAVIESO",
             "cantidad": 1
         }
     ]
