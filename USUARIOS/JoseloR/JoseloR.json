@@ -179,7 +179,7 @@
     {
       "id": 248,
       "nombre": "Panthro",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 294,
@@ -209,7 +209,7 @@
     {
       "id": 120,
       "nombre": "Principe Adam",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 265,
@@ -884,6 +884,11 @@
     {
       "id": 1282,
       "nombre": "ROBOTECH",
+      "cantidad": 1
+    },
+    {
+      "id": 1174,
+      "nombre": "ZATANA",
       "cantidad": 1
     }
   ]
