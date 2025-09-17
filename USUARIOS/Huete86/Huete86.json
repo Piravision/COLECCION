@@ -819,7 +819,7 @@
     {
       "id": 180,
       "nombre": "Electro",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 139,
@@ -1534,7 +1534,7 @@
     {
       "id": 137,
       "nombre": "Sayaka Yumi",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 540,
@@ -1714,7 +1714,7 @@
     {
       "id": 584,
       "nombre": "DEUTER-MULLER",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 618,
@@ -2209,7 +2209,7 @@
     {
       "id": 629,
       "nombre": "DB-017",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 262,
@@ -2254,7 +2254,7 @@
     {
       "id": 550,
       "nombre": "AceVentura-JAIL",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 184,
@@ -2794,7 +2794,7 @@
     {
       "id": 168,
       "nombre": "Hobgoblin",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 898,
@@ -3524,7 +3524,7 @@
     {
       "id": 941,
       "nombre": "GREMLIN-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 85,
@@ -3724,7 +3724,7 @@
     {
       "id": 813,
       "nombre": "LIU-KANG",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1011,
@@ -4089,7 +4089,7 @@
     {
       "id": 786,
       "nombre": "DICK-GRAYSON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 778,
@@ -5044,7 +5044,7 @@
     {
       "id": 1215,
       "nombre": "5-JOE-MUSASHI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1117,
@@ -5099,7 +5099,7 @@
     {
       "id": 1067,
       "nombre": "THUNDERBIRD",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1099,
@@ -5824,6 +5824,11 @@
     {
       "id": 1068,
       "nombre": "THUNDRA",
+      "cantidad": 1
+    },
+    {
+      "id": 1110,
+      "nombre": "G-ZOLTAR",
       "cantidad": 1
     }
   ]
