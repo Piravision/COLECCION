@@ -514,7 +514,7 @@
         {
             "id": 516,
             "nombre": "LEGIÓN-DEL-DRAGÓN",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 561,
@@ -1569,7 +1569,7 @@
         {
             "id": 427,
             "nombre": "psyco",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 445,
@@ -2309,7 +2309,7 @@
         {
             "id": 404,
             "nombre": "sefirot",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 812,
@@ -4759,7 +4759,7 @@
         {
             "id": 272,
             "nombre": "Panda Khan",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 302,
@@ -5774,6 +5774,36 @@
         {
             "id": 1290,
             "nombre": "MORRIGAN",
+            "cantidad": 1
+        },
+        {
+            "id": 1274,
+            "nombre": "KIRBY",
+            "cantidad": 1
+        },
+        {
+            "id": 1270,
+            "nombre": "FA-MONKEY-ISLAND",
+            "cantidad": 1
+        },
+        {
+            "id": 1161,
+            "nombre": "GOLDENAGE- SUPERMAN",
+            "cantidad": 1
+        },
+        {
+            "id": 1176,
+            "nombre": "IPPO",
+            "cantidad": 1
+        },
+        {
+            "id": 1236,
+            "nombre": "1-PRINCIPE-DE-BEL-AIR",
+            "cantidad": 1
+        },
+        {
+            "id": 1189,
+            "nombre": "DRAGON-LAIR",
             "cantidad": 1
         }
     ]

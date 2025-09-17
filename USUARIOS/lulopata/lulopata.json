@@ -184,7 +184,7 @@
     {
       "id": 116,
       "nombre": "Cringer",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1158,
@@ -294,7 +294,7 @@
     {
       "id": 296,
       "nombre": "Jazz",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 34,
@@ -464,6 +464,26 @@
     {
       "id": 822,
       "nombre": "SHAO-KAHN",
+      "cantidad": 1
+    },
+    {
+      "id": 302,
+      "nombre": "Blitzwing",
+      "cantidad": 1
+    },
+    {
+      "id": 303,
+      "nombre": "Megatron",
+      "cantidad": 1
+    },
+    {
+      "id": 132,
+      "nombre": "Skeletor",
+      "cantidad": 1
+    },
+    {
+      "id": 120,
+      "nombre": "Principe Adam",
       "cantidad": 1
     }
   ]
