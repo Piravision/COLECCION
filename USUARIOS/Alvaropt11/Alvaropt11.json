@@ -1859,7 +1859,7 @@
         {
             "id": 359,
             "nombre": "long",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 364,
@@ -5889,6 +5889,11 @@
         {
             "id": 1000,
             "nombre": "SON-GOKU",
+            "cantidad": 1
+        },
+        {
+            "id": 90,
+            "nombre": "Broadway",
             "cantidad": 1
         }
     ]

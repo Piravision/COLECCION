@@ -1849,7 +1849,7 @@
         {
             "id": 90,
             "nombre": "Broadway",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 52,
@@ -3394,6 +3394,11 @@
         {
             "id": 747,
             "nombre": "Dohko-de-Libra",
+            "cantidad": 1
+        },
+        {
+            "id": 359,
+            "nombre": "long",
             "cantidad": 1
         }
     ]
