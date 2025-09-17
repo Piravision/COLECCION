@@ -1729,7 +1729,7 @@
         {
             "id": 895,
             "nombre": "ROCKET-RACOON",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 111,
@@ -5084,6 +5084,11 @@
         {
             "id": 427,
             "nombre": "psyco",
+            "cantidad": 1
+        },
+        {
+            "id": 423,
+            "nombre": "meryl2",
             "cantidad": 1
         }
     ]
