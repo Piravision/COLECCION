@@ -634,7 +634,7 @@
         {
             "id": 121,
             "nombre": "Ram Man(",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 75,
@@ -5204,6 +5204,11 @@
         {
             "id": 944,
             "nombre": "JOKER-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 945,
+            "nombre": "MASK-JAIL",
             "cantidad": 1
         }
     ]
