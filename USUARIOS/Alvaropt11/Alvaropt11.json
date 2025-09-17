@@ -284,7 +284,7 @@
         {
             "id": 129,
             "nombre": "Hordak",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 284,
@@ -5839,6 +5839,11 @@
         {
             "id": 1120,
             "nombre": "PF-PITUFO-GRUÑON",
+            "cantidad": 1
+        },
+        {
+            "id": 1135,
+            "nombre": "GUARDIAN-DE-LA-CRIPTA",
             "cantidad": 1
         }
     ]
