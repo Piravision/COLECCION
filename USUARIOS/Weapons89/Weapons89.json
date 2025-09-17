@@ -1539,7 +1539,7 @@
         {
             "id": 577,
             "nombre": "ALAN-PASCAL",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 78,
@@ -4569,6 +4569,11 @@
         {
             "id": 178,
             "nombre": "Dr. Octopus",
+            "cantidad": 1
+        },
+        {
+            "id": 820,
+            "nombre": "SEKTOR",
             "cantidad": 1
         }
     ]
