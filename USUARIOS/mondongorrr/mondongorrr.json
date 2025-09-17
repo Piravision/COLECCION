@@ -1264,7 +1264,7 @@
         {
             "id": 146,
             "nombre": "Siege",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 855,
@@ -5234,6 +5234,11 @@
         {
             "id": 850,
             "nombre": "T-HAWK",
+            "cantidad": 1
+        },
+        {
+            "id": 208,
+            "nombre": "Tentakill",
             "cantidad": 1
         }
     ]

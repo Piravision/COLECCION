@@ -1874,7 +1874,7 @@
         {
             "id": 208,
             "nombre": "Tentakill",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 9,
@@ -5249,6 +5249,11 @@
         {
             "id": 293,
             "nombre": "Hot Rod",
+            "cantidad": 1
+        },
+        {
+            "id": 146,
+            "nombre": "Siege",
             "cantidad": 1
         }
     ]
