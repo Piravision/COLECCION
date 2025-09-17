@@ -2634,7 +2634,7 @@
         {
             "id": 506,
             "nombre": "jin",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 349,
@@ -3394,7 +3394,7 @@
         {
             "id": 644,
             "nombre": "DB-032",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 67,
@@ -3954,7 +3954,7 @@
         {
             "id": 612,
             "nombre": "TOM-BAKER",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 702,
@@ -4039,7 +4039,7 @@
         {
             "id": 936,
             "nombre": "THE-ROCK",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 985,
@@ -5179,6 +5179,11 @@
         {
             "id": 972,
             "nombre": "8-MAYA",
+            "cantidad": 1
+        },
+        {
+            "id": 1000,
+            "nombre": "SON-GOKU",
             "cantidad": 1
         }
     ]

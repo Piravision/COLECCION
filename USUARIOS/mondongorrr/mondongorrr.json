@@ -119,7 +119,7 @@
         {
             "id": 589,
             "nombre": "GENTILE-SALVATORE",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 265,
@@ -729,7 +729,7 @@
         {
             "id": 791,
             "nombre": "GORDON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 350,
@@ -1249,7 +1249,7 @@
         {
             "id": 865,
             "nombre": "ROBOCOP-JAIL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 333,
@@ -1544,7 +1544,7 @@
         {
             "id": 160,
             "nombre": "Steelheart",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 94,
@@ -1834,7 +1834,7 @@
         {
             "id": 807,
             "nombre": "JAX",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 186,
@@ -1874,7 +1874,7 @@
         {
             "id": 888,
             "nombre": "LOKI",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 684,
@@ -2794,7 +2794,7 @@
         {
             "id": 922,
             "nombre": "LYDIA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 577,
@@ -3054,7 +3054,7 @@
         {
             "id": 173,
             "nombre": "Punisher",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1078,
@@ -3084,7 +3084,7 @@
         {
             "id": 97,
             "nombre": "Armadura Xanatos",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1057,
@@ -3964,7 +3964,7 @@
         {
             "id": 1000,
             "nombre": "SON-GOKU",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1091,
@@ -4649,7 +4649,7 @@
         {
             "id": 172,
             "nombre": "May Parker",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1222,
@@ -4854,7 +4854,7 @@
         {
             "id": 1135,
             "nombre": "GUARDIAN-DE-LA-CRIPTA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 658,
@@ -5109,6 +5109,16 @@
         {
             "id": 983,
             "nombre": "14-ROBBIE-SINCLAIR",
+            "cantidad": 1
+        },
+        {
+            "id": 659,
+            "nombre": "DB-047",
+            "cantidad": 1
+        },
+        {
+            "id": 644,
+            "nombre": "DB-032",
             "cantidad": 1
         }
     ]
