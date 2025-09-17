@@ -234,7 +234,7 @@
         {
             "id": 332,
             "nombre": "Mojo",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 492,
@@ -5194,6 +5194,11 @@
         {
             "id": 1128,
             "nombre": "VASH-ESTAMPIDA",
+            "cantidad": 1
+        },
+        {
+            "id": 943,
+            "nombre": "JOHNNY5-JAIL",
             "cantidad": 1
         }
     ]
