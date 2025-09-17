@@ -1524,7 +1524,7 @@
         {
             "id": 416,
             "nombre": "emme2",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 56,
@@ -5159,6 +5159,11 @@
         {
             "id": 895,
             "nombre": "ROCKET-RACOON",
+            "cantidad": 1
+        },
+        {
+            "id": 888,
+            "nombre": "LOKI",
             "cantidad": 1
         }
     ]
