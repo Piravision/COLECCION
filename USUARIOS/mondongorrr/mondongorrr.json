@@ -4624,7 +4624,7 @@
         {
             "id": 1030,
             "nombre": "BRUJA Y VISION",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 911,
@@ -5079,6 +5079,11 @@
         {
             "id": 434,
             "nombre": "vulcan",
+            "cantidad": 1
+        },
+        {
+            "id": 427,
+            "nombre": "psyco",
             "cantidad": 1
         }
     ]
