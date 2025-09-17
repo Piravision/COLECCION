@@ -329,7 +329,7 @@
         {
             "id": 872,
             "nombre": "BLACK-PANTHER",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 726,
@@ -2604,6 +2604,11 @@
         {
             "id": 577,
             "nombre": "ALAN-PASCAL",
+            "cantidad": 1
+        },
+        {
+            "id": 756,
+            "nombre": "Rhadamantis2",
             "cantidad": 1
         }
     ]
