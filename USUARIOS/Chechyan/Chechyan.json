@@ -1459,7 +1459,7 @@
         {
             "id": 1207,
             "nombre": "4-CADILLACS-&-DINOSAURS",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 130,
@@ -2623,6 +2623,11 @@
         },
         {
             "id": 7,
+            "nombre": "El Patriarca",
+            "cantidad": 1
+        },
+        {
+            "id": 6,
             "nombre": "El Patriarca",
             "cantidad": 1
         }
