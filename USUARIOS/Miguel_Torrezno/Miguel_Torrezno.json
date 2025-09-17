@@ -2014,7 +2014,7 @@
         {
             "id": 969,
             "nombre": "5-DAVID-EL-GNOMO",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 971,
@@ -3444,6 +3444,11 @@
         {
             "id": 866,
             "nombre": "SNAKE-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 967,
+            "nombre": "4-TICO",
             "cantidad": 1
         }
     ]

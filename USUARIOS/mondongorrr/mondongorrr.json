@@ -2644,7 +2644,7 @@
         {
             "id": 967,
             "nombre": "4-TICO",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 954,
@@ -5314,6 +5314,11 @@
         {
             "id": 951,
             "nombre": "10-DANIEL-EL-TRAVIESO",
+            "cantidad": 1
+        },
+        {
+            "id": 969,
+            "nombre": "5-DAVID-EL-GNOMO",
             "cantidad": 1
         }
     ]
