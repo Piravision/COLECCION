@@ -2174,7 +2174,7 @@
         {
             "id": 1000,
             "nombre": "SON-GOKU",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1001,
@@ -3389,6 +3389,11 @@
         {
             "id": 558,
             "nombre": "LUKE-SKYWALKER-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 747,
+            "nombre": "Dohko-de-Libra",
             "cantidad": 1
         }
     ]
