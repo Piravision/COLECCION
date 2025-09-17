@@ -84,7 +84,7 @@
         {
             "id": 313,
             "nombre": "Cable",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 417,
@@ -1349,7 +1349,7 @@
         {
             "id": 558,
             "nombre": "LUKE-SKYWALKER-JAIL",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 293,
@@ -2319,7 +2319,7 @@
         {
             "id": 217,
             "nombre": "Cobra   H.I.S.S.",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 844,
@@ -4919,7 +4919,7 @@
         {
             "id": 1056,
             "nombre": "NOVA-2",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1024,
@@ -5854,6 +5854,36 @@
         {
             "id": 1078,
             "nombre": "X -PHOENIX",
+            "cantidad": 1
+        },
+        {
+            "id": 1060,
+            "nombre": "QUICKSILVER",
+            "cantidad": 1
+        },
+        {
+            "id": 1168,
+            "nombre": "LEX LUTOR",
+            "cantidad": 1
+        },
+        {
+            "id": 1179,
+            "nombre": "BEETLEJUICE",
+            "cantidad": 1
+        },
+        {
+            "id": 1136,
+            "nombre": "JOHNNY-BRAVO",
+            "cantidad": 1
+        },
+        {
+            "id": 1281,
+            "nombre": "KOJI-&-MAZINGER-Z",
+            "cantidad": 1
+        },
+        {
+            "id": 1104,
+            "nombre": "G-AUTILLO",
             "cantidad": 1
         }
     ]

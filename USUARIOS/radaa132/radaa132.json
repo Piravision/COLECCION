@@ -1789,7 +1789,7 @@
     {
       "id": 963,
       "nombre": "3-SRA.-HUDSON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 855,
@@ -2344,7 +2344,7 @@
     {
       "id": 479,
       "nombre": "Split Head",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1057,
@@ -3539,6 +3539,11 @@
     {
       "id": 1129,
       "nombre": "CRITTER-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 791,
+      "nombre": "GORDON",
       "cantidad": 1
     }
   ]

@@ -29,7 +29,7 @@
     {
       "id": 233,
       "nombre": "Mutant Tank",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 292,
@@ -54,7 +54,7 @@
     {
       "id": 84,
       "nombre": "zurbon",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 480,
@@ -324,7 +324,7 @@
     {
       "id": 157,
       "nombre": "Bluegrass",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 119,
@@ -769,7 +769,7 @@
     {
       "id": 56,
       "nombre": "nova",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 92,
@@ -1044,7 +1044,7 @@
     {
       "id": 416,
       "nombre": "emme2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 365,
@@ -1129,7 +1129,7 @@
     {
       "id": 337,
       "nombre": "Ikki de Fénix",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 568,
@@ -1174,7 +1174,7 @@
     {
       "id": 219,
       "nombre": "Dirigible Tortuga",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 284,
@@ -1319,7 +1319,7 @@
     {
       "id": 240,
       "nombre": "Terror Drome",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 252,
@@ -1424,7 +1424,7 @@
     {
       "id": 572,
       "nombre": "Sgt.-SLAUGTHER",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 556,
@@ -1509,7 +1509,7 @@
     {
       "id": 288,
       "nombre": "Splinter",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 460,
@@ -2264,12 +2264,12 @@
     {
       "id": 916,
       "nombre": "CHUKY-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 474,
       "nombre": "harry2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 234,
@@ -2459,7 +2459,7 @@
     {
       "id": 750,
       "nombre": "Milo-de-Escorpio",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 842,
@@ -2584,7 +2584,7 @@
     {
       "id": 763,
       "nombre": "black",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 557,
@@ -2604,7 +2604,7 @@
     {
       "id": 805,
       "nombre": "GORO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 939,
@@ -2719,7 +2719,7 @@
     {
       "id": 1041,
       "nombre": "FALCON-2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 835,
@@ -2799,7 +2799,7 @@
     {
       "id": 982,
       "nombre": "14-FRAN-SINCLAIR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 82,
@@ -2999,7 +2999,7 @@
     {
       "id": 358,
       "nombre": "jenny",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 2,
@@ -3009,7 +3009,7 @@
     {
       "id": 770,
       "nombre": "red",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 864,
@@ -3339,7 +3339,7 @@
     {
       "id": 754,
       "nombre": "Pandora",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 883,
@@ -3574,7 +3574,7 @@
     {
       "id": 1014,
       "nombre": "YUGI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 796,
@@ -3809,7 +3809,7 @@
     {
       "id": 935,
       "nombre": "STONE-COLD",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 145,
@@ -3819,7 +3819,7 @@
     {
       "id": 142,
       "nombre": "Tanya Vanderflock",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 965,
@@ -3934,7 +3934,7 @@
     {
       "id": 1170,
       "nombre": "RIDDLER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1138,
@@ -4594,7 +4594,7 @@
     {
       "id": 130,
       "nombre": "Mer Man(",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1207,
@@ -4604,6 +4604,61 @@
     {
       "id": 1173,
       "nombre": "WONDER WOMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1092,
+      "nombre": "CAZAFANTASMAS",
+      "cantidad": 1
+    },
+    {
+      "id": 478,
+      "nombre": "nurse",
+      "cantidad": 1
+    },
+    {
+      "id": 1185,
+      "nombre": "WICKET",
+      "cantidad": 1
+    },
+    {
+      "id": 1150,
+      "nombre": "BATGIRL",
+      "cantidad": 1
+    },
+    {
+      "id": 1232,
+      "nombre": "TINTIN-&-MILU",
+      "cantidad": 1
+    },
+    {
+      "id": 1107,
+      "nombre": "G-MARK",
+      "cantidad": 1
+    },
+    {
+      "id": 817,
+      "nombre": "RAIDEN",
+      "cantidad": 1
+    },
+    {
+      "id": 86,
+      "nombre": "Shane Gooseman",
+      "cantidad": 1
+    },
+    {
+      "id": 1120,
+      "nombre": "PF-PITUFO-GRUÑON",
+      "cantidad": 1
+    },
+    {
+      "id": 869,
+      "nombre": "ARNIM-ZOLA",
+      "cantidad": 1
+    },
+    {
+      "id": 1268,
+      "nombre": "EZIO-AUDITORE",
       "cantidad": 1
     }
   ]

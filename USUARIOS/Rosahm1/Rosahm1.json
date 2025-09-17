@@ -319,7 +319,7 @@
     {
       "id": 130,
       "nombre": "Mer Man(",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 372,
@@ -559,7 +559,7 @@
     {
       "id": 152,
       "nombre": "Dr. Karbunkle",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 240,
@@ -989,7 +989,7 @@
     {
       "id": 47,
       "nombre": "hynkel2bueno",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 539,
@@ -1199,7 +1199,7 @@
     {
       "id": 540,
       "nombre": "CHUCK-NORRIS",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 257,
@@ -1454,7 +1454,7 @@
     {
       "id": 253,
       "nombre": "Buitro",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 671,
@@ -1739,7 +1739,7 @@
     {
       "id": 728,
       "nombre": "DB-116",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 575,
@@ -2424,7 +2424,7 @@
     {
       "id": 693,
       "nombre": "DB-081",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 754,
@@ -2694,7 +2694,7 @@
     {
       "id": 831,
       "nombre": "BISON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 797,
@@ -2759,7 +2759,7 @@
     {
       "id": 700,
       "nombre": "DB-088",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 122,
@@ -2889,7 +2889,7 @@
     {
       "id": 842,
       "nombre": "GUILE2",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 452,
@@ -3144,7 +3144,7 @@
     {
       "id": 874,
       "nombre": "CAPTAIN-AMERICA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 846,
@@ -5644,6 +5644,11 @@
     {
       "id": 1267,
       "nombre": "DARKSTALKERS",
+      "cantidad": 1
+    },
+    {
+      "id": 1091,
+      "nombre": "CAT&DOG",
       "cantidad": 1
     }
   ]
