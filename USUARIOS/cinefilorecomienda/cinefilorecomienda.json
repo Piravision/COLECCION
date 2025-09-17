@@ -1064,7 +1064,7 @@
     {
       "id": 325,
       "nombre": "Apocalipsis",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 707,
@@ -2749,6 +2749,16 @@
     {
       "id": 866,
       "nombre": "SNAKE-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 869,
+      "nombre": "ARNIM-ZOLA",
+      "cantidad": 1
+    },
+    {
+      "id": 945,
+      "nombre": "MASK-JAIL",
       "cantidad": 1
     }
   ]
