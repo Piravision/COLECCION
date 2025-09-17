@@ -4054,7 +4054,7 @@
         {
             "id": 1128,
             "nombre": "VASH-ESTAMPIDA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1062,
@@ -5124,6 +5124,11 @@
         {
             "id": 647,
             "nombre": "DB-035",
+            "cantidad": 1
+        },
+        {
+            "id": 708,
+            "nombre": "DB-096",
             "cantidad": 1
         }
     ]
