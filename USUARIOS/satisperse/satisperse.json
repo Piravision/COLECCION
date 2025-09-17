@@ -774,7 +774,7 @@
     {
       "id": 924,
       "nombre": "VISITOR-SOLDIER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 297,
@@ -1364,6 +1364,16 @@
     {
       "id": 1210,
       "nombre": "4-FINAL-FIGHT",
+      "cantidad": 1
+    },
+    {
+      "id": 1240,
+      "nombre": "CHEERS",
+      "cantidad": 1
+    },
+    {
+      "id": 1237,
+      "nombre": "1-WILL",
       "cantidad": 1
     }
   ]
