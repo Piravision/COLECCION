@@ -1534,7 +1534,7 @@
         {
             "id": 143,
             "nombre": "Wildwing Flashblade",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 763,
@@ -5849,6 +5849,11 @@
         {
             "id": 875,
             "nombre": "DARDEVIL",
+            "cantidad": 1
+        },
+        {
+            "id": 1078,
+            "nombre": "X -PHOENIX",
             "cantidad": 1
         }
     ]
