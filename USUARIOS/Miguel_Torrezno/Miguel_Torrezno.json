@@ -264,7 +264,7 @@
         {
             "id": 411,
             "nombre": "big",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 191,
@@ -3424,6 +3424,11 @@
         {
             "id": 339,
             "nombre": "Shun de Andrómeda",
+            "cantidad": 1
+        },
+        {
+            "id": 759,
+            "nombre": "Shion",
             "cantidad": 1
         }
     ]
