@@ -784,7 +784,7 @@
         {
             "id": 513,
             "nombre": "DISCÍPULOS-DE-AVAN",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 264,
@@ -5214,6 +5214,11 @@
         {
             "id": 1182,
             "nombre": "JAYCE-Y-LOS-GUERREROS-RODANTES",
+            "cantidad": 1
+        },
+        {
+            "id": 922,
+            "nombre": "LYDIA",
             "cantidad": 1
         }
     ]
