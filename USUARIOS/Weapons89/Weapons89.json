@@ -1379,7 +1379,7 @@
         {
             "id": 601,
             "nombre": "OLIVER-ATOM",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 467,
@@ -4544,6 +4544,11 @@
         {
             "id": 265,
             "nombre": "Leatherhead",
+            "cantidad": 1
+        },
+        {
+            "id": 517,
+            "nombre": "Pirámide Negra",
             "cantidad": 1
         }
     ]
