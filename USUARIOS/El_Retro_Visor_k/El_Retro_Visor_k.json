@@ -5714,7 +5714,7 @@
         {
             "id": 1151,
             "nombre": "BATMAN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1014,
@@ -6204,6 +6204,11 @@
         {
             "id": 1244,
             "nombre": "HERCULES",
+            "cantidad": 1
+        },
+        {
+            "id": 1077,
+            "nombre": "X -NIGHTCRAWLER",
             "cantidad": 1
         }
     ]
