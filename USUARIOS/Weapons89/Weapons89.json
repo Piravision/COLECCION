@@ -3144,7 +3144,7 @@
         {
             "id": 600,
             "nombre": "NATUREZA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 127,
@@ -4549,6 +4549,11 @@
         {
             "id": 517,
             "nombre": "Pirámide Negra",
+            "cantidad": 1
+        },
+        {
+            "id": 924,
+            "nombre": "VISITOR-SOLDIER",
             "cantidad": 1
         }
     ]

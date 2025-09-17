@@ -524,7 +524,7 @@
         {
             "id": 924,
             "nombre": "VISITOR-SOLDIER",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 351,
@@ -2579,6 +2579,11 @@
         {
             "id": 601,
             "nombre": "OLIVER-ATOM",
+            "cantidad": 1
+        },
+        {
+            "id": 600,
+            "nombre": "NATUREZA",
             "cantidad": 1
         }
     ]
