@@ -3119,7 +3119,7 @@
         {
             "id": 1101,
             "nombre": "D-JOE-MCQUACK",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 896,
@@ -3399,6 +3399,11 @@
         {
             "id": 359,
             "nombre": "long",
+            "cantidad": 1
+        },
+        {
+            "id": 362,
+            "nombre": "yugo",
             "cantidad": 1
         }
     ]
