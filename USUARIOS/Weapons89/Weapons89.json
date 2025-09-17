@@ -4394,7 +4394,7 @@
     {
       "id": 1245,
       "nombre": "PUNKY-BREWSTER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1215,
@@ -4549,7 +4549,7 @@
     {
       "id": 924,
       "nombre": "VISITOR-SOLDIER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 834,
@@ -4669,6 +4669,21 @@
     {
       "id": 33,
       "nombre": "Apollo",
+      "cantidad": 1
+    },
+    {
+      "id": 1277,
+      "nombre": "BATMAN-&-ROBIN",
+      "cantidad": 2
+    },
+    {
+      "id": 1242,
+      "nombre": "EQUIPO-A",
+      "cantidad": 1
+    },
+    {
+      "id": 1263,
+      "nombre": "SALVADOS-POR-LA-CAMPANA",
       "cantidad": 1
     }
   ]

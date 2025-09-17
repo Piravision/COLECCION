@@ -99,7 +99,7 @@
         {
             "id": 137,
             "nombre": "Sayaka Yumi",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 221,
@@ -1094,7 +1094,7 @@
         {
             "id": 145,
             "nombre": "Lord Dragaunus",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 63,
@@ -1599,7 +1599,7 @@
         {
             "id": 135,
             "nombre": "Afrodita A",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 712,
@@ -2794,7 +2794,7 @@
         {
             "id": 410,
             "nombre": "Barón-Ashura",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 868,
@@ -2999,7 +2999,7 @@
         {
             "id": 1245,
             "nombre": "KNIGHT-RIDER",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1142,
@@ -3154,7 +3154,7 @@
         {
             "id": 1241,
             "nombre": "EL-COCHE-FANTASTICO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 976,
@@ -3404,6 +3404,26 @@
         {
             "id": 362,
             "nombre": "yugo",
+            "cantidad": 1
+        },
+        {
+            "id": 923,
+            "nombre": "REAL-VISITOR",
+            "cantidad": 2
+        },
+        {
+            "id": 1279,
+            "nombre": "GRAN-HEROE-AMERICANO",
+            "cantidad": 1
+        },
+        {
+            "id": 1244,
+            "nombre": "HERCULES",
+            "cantidad": 1
+        },
+        {
+            "id": 339,
+            "nombre": "Shun de Andrómeda",
             "cantidad": 1
         }
     ]
