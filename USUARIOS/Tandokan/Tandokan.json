@@ -4934,7 +4934,7 @@
         {
             "id": 1244,
             "nombre": "HERCULES",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1150,
@@ -5274,6 +5274,11 @@
         {
             "id": 215,
             "nombre": "Castillo Grayskull",
+            "cantidad": 1
+        },
+        {
+            "id": 1179,
+            "nombre": "BEETLEJUICE",
             "cantidad": 1
         }
     ]
