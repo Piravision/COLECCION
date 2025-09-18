@@ -4479,7 +4479,7 @@
         {
             "id": 1258,
             "nombre": "XENA-LA-PRINCESA-GUERRERA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1037,
@@ -5459,6 +5459,11 @@
         {
             "id": 1189,
             "nombre": "DRAGON-LAIR",
+            "cantidad": 1
+        },
+        {
+            "id": 1300,
+            "nombre": "FA-TOKI",
             "cantidad": 1
         }
     ]
