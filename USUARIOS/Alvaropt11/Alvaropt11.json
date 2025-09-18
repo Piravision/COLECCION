@@ -4344,7 +4344,7 @@
         {
             "id": 1114,
             "nombre": "OSOS-GUMMI",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 982,
@@ -5944,6 +5944,11 @@
         {
             "id": 1180,
             "nombre": "C3PO-R2D2",
+            "cantidad": 1
+        },
+        {
+            "id": 1041,
+            "nombre": "FALCON-2",
             "cantidad": 1
         }
     ]
