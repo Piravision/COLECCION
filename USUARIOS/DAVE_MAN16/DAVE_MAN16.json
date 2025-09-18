@@ -139,7 +139,7 @@
     {
       "id": 304,
       "nombre": "Runabout",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 13,
@@ -269,7 +269,7 @@
     {
       "id": 306,
       "nombre": "Shockwave",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 204,
@@ -2359,7 +2359,7 @@
     {
       "id": 756,
       "nombre": "Rhadamantis2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 744,
@@ -2619,6 +2619,36 @@
     {
       "id": 1228,
       "nombre": "BEN-10",
+      "cantidad": 1
+    },
+    {
+      "id": 1198,
+      "nombre": "1Z-BOWSER",
+      "cantidad": 1
+    },
+    {
+      "id": 1284,
+      "nombre": "ALEX-KIDD",
+      "cantidad": 1
+    },
+    {
+      "id": 1288,
+      "nombre": "JAK-&-DAXTER",
+      "cantidad": 1
+    },
+    {
+      "id": 298,
+      "nombre": "Prowl",
+      "cantidad": 1
+    },
+    {
+      "id": 32,
+      "nombre": "Venger",
+      "cantidad": 1
+    },
+    {
+      "id": 1160,
+      "nombre": "GOLDENAGE- GREEN LANTERN",
       "cantidad": 1
     }
   ]
