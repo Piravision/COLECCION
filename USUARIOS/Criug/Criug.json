@@ -979,7 +979,7 @@
         {
             "id": 441,
             "nombre": "slig",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 68,
@@ -1319,7 +1319,7 @@
         {
             "id": 414,
             "nombre": "campb2",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 70,
@@ -1399,7 +1399,7 @@
         {
             "id": 696,
             "nombre": "DB-084",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 444,
@@ -1749,7 +1749,7 @@
         {
             "id": 642,
             "nombre": "DB-030",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 201,
@@ -1964,7 +1964,7 @@
         {
             "id": 364,
             "nombre": "HulkHogan",
-            "cantidad": 10
+            "cantidad": 11
         },
         {
             "id": 674,
@@ -2019,7 +2019,7 @@
         {
             "id": 608,
             "nombre": "SHUN-NITTA",
-            "cantidad": 8
+            "cantidad": 9
         },
         {
             "id": 99,
@@ -2249,7 +2249,7 @@
         {
             "id": 64,
             "nombre": "evil crocodine",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 694,
@@ -2314,7 +2314,7 @@
         {
             "id": 416,
             "nombre": "emme2",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 518,
@@ -3119,7 +3119,7 @@
         {
             "id": 425,
             "nombre": "ocelot",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 777,
@@ -3329,7 +3329,7 @@
         {
             "id": 277,
             "nombre": "Baxter",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 419,
@@ -3364,7 +3364,7 @@
         {
             "id": 514,
             "nombre": "Hálcon-Vigía",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 882,
@@ -3579,7 +3579,7 @@
         {
             "id": 630,
             "nombre": "DB-018",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 767,
@@ -3599,7 +3599,7 @@
         {
             "id": 158,
             "nombre": "Copper Kid",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 763,
@@ -4949,7 +4949,7 @@
         {
             "id": 901,
             "nombre": "ULTRON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 411,
@@ -5469,7 +5469,7 @@
         {
             "id": 1222,
             "nombre": "LINK",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 918,
@@ -5534,7 +5534,7 @@
         {
             "id": 1059,
             "nombre": "PUNISHER",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1249,
@@ -6119,6 +6119,16 @@
         {
             "id": 1248,
             "nombre": "MACGYVER",
+            "cantidad": 1
+        },
+        {
+            "id": 1060,
+            "nombre": "QUICKSILVER",
+            "cantidad": 1
+        },
+        {
+            "id": 1256,
+            "nombre": "VIGILANTES-DE-LA-PLAYA",
             "cantidad": 1
         }
     ]
