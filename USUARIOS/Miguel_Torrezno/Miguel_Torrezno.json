@@ -844,7 +844,7 @@
     {
       "id": 175,
       "nombre": "Buitre",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 70,
@@ -1014,7 +1014,7 @@
     {
       "id": 185,
       "nombre": "Morbius",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 476,
@@ -3504,6 +3504,11 @@
     {
       "id": 1296,
       "nombre": "CANDY",
+      "cantidad": 1
+    },
+    {
+      "id": 281,
+      "nombre": "Granitor",
       "cantidad": 1
     }
   ]
