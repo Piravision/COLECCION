@@ -989,7 +989,7 @@
     {
       "id": 100,
       "nombre": "Flint",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 280,
@@ -1179,7 +1179,7 @@
     {
       "id": 136,
       "nombre": "Mazinger Z",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 31,
@@ -3419,7 +3419,7 @@
     {
       "id": 36,
       "nombre": "baduck",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 118,
@@ -3769,7 +3769,7 @@
     {
       "id": 841,
       "nombre": "GUILE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 892,
@@ -4089,7 +4089,7 @@
     {
       "id": 202,
       "nombre": "Killamari",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 931,
@@ -5289,6 +5289,11 @@
     {
       "id": 1265,
       "nombre": "BAYONETTA",
+      "cantidad": 1
+    },
+    {
+      "id": 1186,
+      "nombre": "KENSHIRO",
       "cantidad": 1
     }
   ]

@@ -1009,7 +1009,7 @@
     {
       "id": 125,
       "nombre": "Teela",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 407,
@@ -1064,7 +1064,7 @@
     {
       "id": 6,
       "nombre": "El Patriarca",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 7,
@@ -1869,7 +1869,7 @@
     {
       "id": 850,
       "nombre": "T-HAWK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 705,
@@ -1894,7 +1894,7 @@
     {
       "id": 210,
       "nombre": "AEROWING",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 865,
@@ -2219,7 +2219,7 @@
     {
       "id": 322,
       "nombre": "Rondador Nocturno",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 341,
@@ -2359,7 +2359,7 @@
     {
       "id": 627,
       "nombre": "DB-015",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 704,
@@ -3744,7 +3744,7 @@
     {
       "id": 1095,
       "nombre": "CZ-PETER-VENKMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 724,
@@ -4694,6 +4694,31 @@
     {
       "id": 1015,
       "nombre": "SHAGGY--&-SCOOBY-DOO",
+      "cantidad": 1
+    },
+    {
+      "id": 889,
+      "nombre": "LUKE-CAGE",
+      "cantidad": 1
+    },
+    {
+      "id": 1237,
+      "nombre": "1-WILL",
+      "cantidad": 1
+    },
+    {
+      "id": 1257,
+      "nombre": "WALKER-TEXAS-RANGER)",
+      "cantidad": 1
+    },
+    {
+      "id": 1118,
+      "nombre": "PF-PITUFO FILOSOFO",
+      "cantidad": 1
+    },
+    {
+      "id": 465,
+      "nombre": "air",
       "cantidad": 1
     }
   ]

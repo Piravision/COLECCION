@@ -354,7 +354,7 @@
     {
       "id": 529,
       "nombre": "Mística",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 150,
@@ -1174,7 +1174,7 @@
     {
       "id": 101,
       "nombre": "Duke",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 63,
@@ -1224,7 +1224,7 @@
     {
       "id": 936,
       "nombre": "THE-ROCK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 926,
@@ -1604,7 +1604,7 @@
     {
       "id": 941,
       "nombre": "GREMLIN-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 589,
@@ -1764,7 +1764,7 @@
     {
       "id": 848,
       "nombre": "RYU2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 239,
@@ -2624,7 +2624,7 @@
     {
       "id": 7,
       "nombre": "El Patriarca",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 6,
@@ -2754,6 +2754,36 @@
     {
       "id": 860,
       "nombre": "MAHONEY-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 629,
+      "nombre": "DB-017",
+      "cantidad": 1
+    },
+    {
+      "id": 1146,
+      "nombre": "TROTAMUSICOS",
+      "cantidad": 1
+    },
+    {
+      "id": 1172,
+      "nombre": "SUPERMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 276,
+      "nombre": "Baxter",
+      "cantidad": 1
+    },
+    {
+      "id": 868,
+      "nombre": "ANT-MAN",
+      "cantidad": 1
+    },
+    {
+      "id": 242,
+      "nombre": "Tiger Force",
       "cantidad": 1
     }
   ]
