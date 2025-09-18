@@ -1329,7 +1329,7 @@
         {
             "id": 530,
             "nombre": "Axel-Foley-Jail",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 773,
@@ -2944,7 +2944,7 @@
         {
             "id": 113,
             "nombre": "Serpentor",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 475,
@@ -3694,7 +3694,7 @@
         {
             "id": 983,
             "nombre": "14-ROBBIE-SINCLAIR",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 978,
@@ -3899,7 +3899,7 @@
         {
             "id": 924,
             "nombre": "VISITOR-SOLDIER",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 667,
@@ -6234,6 +6234,11 @@
         {
             "id": 1032,
             "nombre": "BV- VISION",
+            "cantidad": 1
+        },
+        {
+            "id": 1263,
+            "nombre": "SALVADOS-POR-LA-CAMPANA",
             "cantidad": 1
         }
     ]
