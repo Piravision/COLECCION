@@ -1309,7 +1309,7 @@
     {
       "id": 968,
       "nombre": "4-WILLY-FOG",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 956,
@@ -1319,7 +1319,7 @@
     {
       "id": 984,
       "nombre": "14-BABY-SINCLAIR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 413,
@@ -1489,7 +1489,7 @@
     {
       "id": 1097,
       "nombre": "CZ-WISTON-ZEDDEMORE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1105,
@@ -1514,7 +1514,7 @@
     {
       "id": 967,
       "nombre": "4-TICO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1088,
@@ -1664,7 +1664,7 @@
     {
       "id": 947,
       "nombre": "1-ARAMIS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1192,
@@ -2799,6 +2799,11 @@
     {
       "id": 1255,
       "nombre": "STARGATE-SG-1",
+      "cantidad": 1
+    },
+    {
+      "id": 1087,
+      "nombre": "1-LA-BANDA-DEL-PATIO",
       "cantidad": 1
     }
   ]

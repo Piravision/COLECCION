@@ -5329,7 +5329,7 @@
         {
             "id": 1182,
             "nombre": "JAYCE-Y-LOS-GUERREROS-RODANTES",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1180,
@@ -5419,7 +5419,7 @@
         {
             "id": 1092,
             "nombre": "CAZAFANTASMAS",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1077,
@@ -5854,7 +5854,7 @@
         {
             "id": 1139,
             "nombre": "MARSUPILAMI",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1275,
@@ -6079,6 +6079,21 @@
         {
             "id": 1251,
             "nombre": "PADRES-FORZOSOS",
+            "cantidad": 1
+        },
+        {
+            "id": 1230,
+            "nombre": "MORTADELO-Y-FILEMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1183,
+            "nombre": "LOS-DIMINUTOS",
+            "cantidad": 1
+        },
+        {
+            "id": 1097,
+            "nombre": "CZ-WISTON-ZEDDEMORE",
             "cantidad": 1
         }
     ]

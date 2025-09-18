@@ -3874,7 +3874,7 @@
     {
       "id": 973,
       "nombre": "8-WILLY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 749,
@@ -4209,7 +4209,7 @@
     {
       "id": 983,
       "nombre": "14-ROBBIE-SINCLAIR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 929,
@@ -4634,7 +4634,7 @@
     {
       "id": 967,
       "nombre": "4-TICO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 978,
@@ -4849,7 +4849,7 @@
     {
       "id": 979,
       "nombre": "14-CHARLENE-SINCLAIR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 959,
@@ -4874,7 +4874,7 @@
     {
       "id": 957,
       "nombre": "2-MONTERREY-JACK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1187,
@@ -5249,6 +5249,11 @@
     {
       "id": 1021,
       "nombre": "4F COSA",
+      "cantidad": 1
+    },
+    {
+      "id": 1121,
+      "nombre": "RUGRATS",
       "cantidad": 1
     }
   ]

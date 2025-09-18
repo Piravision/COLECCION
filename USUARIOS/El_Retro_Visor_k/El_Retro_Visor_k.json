@@ -3309,12 +3309,12 @@
         {
             "id": 960,
             "nombre": "3-LESTRADE",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 969,
             "nombre": "5-DAVID-EL-GNOMO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 817,
@@ -4359,7 +4359,7 @@
         {
             "id": 984,
             "nombre": "14-BABY-SINCLAIR",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 967,
@@ -4859,7 +4859,7 @@
         {
             "id": 977,
             "nombre": "13-ODIE",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1072,
@@ -5099,7 +5099,7 @@
         {
             "id": 1182,
             "nombre": "JAYCE-Y-LOS-GUERREROS-RODANTES",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1109,
@@ -6219,6 +6219,11 @@
         {
             "id": 1266,
             "nombre": "CHRONO",
+            "cantidad": 1
+        },
+        {
+            "id": 1145,
+            "nombre": "TIMON-&-PUMBA",
             "cantidad": 1
         }
     ]

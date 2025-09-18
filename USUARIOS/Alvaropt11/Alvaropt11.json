@@ -3819,7 +3819,7 @@
     {
       "id": 949,
       "nombre": "1-DARTACAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 976,
@@ -4344,7 +4344,7 @@
     {
       "id": 1114,
       "nombre": "OSOS-GUMMI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 982,
@@ -4844,7 +4844,7 @@
     {
       "id": 1092,
       "nombre": "CAZAFANTASMAS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1146,
@@ -5199,7 +5199,7 @@
     {
       "id": 975,
       "nombre": "7-PENNY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 806,
@@ -5899,7 +5899,7 @@
     {
       "id": 1101,
       "nombre": "D-JOE-MCQUACK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1030,
@@ -5914,6 +5914,11 @@
     {
       "id": 1245,
       "nombre": "PUNKY-BREWSTER",
+      "cantidad": 1
+    },
+    {
+      "id": 1143,
+      "nombre": "PINKY-&-CEREBRO",
       "cantidad": 1
     }
   ]
