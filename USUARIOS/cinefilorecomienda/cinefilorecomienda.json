@@ -59,7 +59,7 @@
     {
       "id": 354,
       "nombre": "alice",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 394,
@@ -394,7 +394,7 @@
     {
       "id": 865,
       "nombre": "ROBOCOP-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 131,
@@ -809,7 +809,7 @@
     {
       "id": 846,
       "nombre": "ken2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 369,
@@ -1014,7 +1014,7 @@
     {
       "id": 759,
       "nombre": "Shion",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 152,
@@ -1649,7 +1649,7 @@
     {
       "id": 7,
       "nombre": "El Patriarca",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 453,
@@ -2174,7 +2174,7 @@
     {
       "id": 1,
       "nombre": "30 30",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 3,
@@ -2229,7 +2229,7 @@
     {
       "id": 512,
       "nombre": "Dimensión-X",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 483,
@@ -2784,7 +2784,7 @@
     {
       "id": 1253,
       "nombre": "SABRINA-COSAS-DE-BRUJAS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1246,
@@ -2804,6 +2804,86 @@
     {
       "id": 1087,
       "nombre": "1-LA-BANDA-DEL-PATIO",
+      "cantidad": 1
+    },
+    {
+      "id": 621,
+      "nombre": "DB-009",
+      "cantidad": 1
+    },
+    {
+      "id": 751,
+      "nombre": "Minos",
+      "cantidad": 1
+    },
+    {
+      "id": 597,
+      "nombre": "LOUIS-NAPOLEON",
+      "cantidad": 1
+    },
+    {
+      "id": 884,
+      "nombre": "IRON-FIST",
+      "cantidad": 1
+    },
+    {
+      "id": 1173,
+      "nombre": "WONDER WOMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 939,
+      "nombre": "GHOSTFACE-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 61,
+      "nombre": "Borahorn",
+      "cantidad": 1
+    },
+    {
+      "id": 848,
+      "nombre": "RYU2",
+      "cantidad": 1
+    },
+    {
+      "id": 546,
+      "nombre": "MARTY-MCFLY",
+      "cantidad": 1
+    },
+    {
+      "id": 841,
+      "nombre": "GUILE",
+      "cantidad": 1
+    },
+    {
+      "id": 659,
+      "nombre": "DB-047",
+      "cantidad": 1
+    },
+    {
+      "id": 568,
+      "nombre": "LOS-SACAMANTECAS",
+      "cantidad": 1
+    },
+    {
+      "id": 648,
+      "nombre": "DB-036",
+      "cantidad": 1
+    },
+    {
+      "id": 1024,
+      "nombre": "4FV - SILVER SURFER",
+      "cantidad": 1
+    },
+    {
+      "id": 517,
+      "nombre": "Pirámide Negra",
+      "cantidad": 1
+    },
+    {
+      "id": 818,
+      "nombre": "REPTILE",
       "cantidad": 1
     }
   ]
