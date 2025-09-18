@@ -3794,7 +3794,7 @@
         {
             "id": 1099,
             "nombre": "D-DARKWING-DUCK",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 1021,
@@ -5374,6 +5374,11 @@
         {
             "id": 1249,
             "nombre": "MATRIMONIO-CON-HIJOS",
+            "cantidad": 1
+        },
+        {
+            "id": 1101,
+            "nombre": "D-JOE-MCQUACK",
             "cantidad": 1
         }
     ]
