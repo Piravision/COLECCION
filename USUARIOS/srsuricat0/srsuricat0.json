@@ -3724,7 +3724,7 @@
     {
       "id": 924,
       "nombre": "VISITOR-SOLDIER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 878,
@@ -5294,6 +5294,16 @@
     {
       "id": 1186,
       "nombre": "KENSHIRO",
+      "cantidad": 1
+    },
+    {
+      "id": 894,
+      "nombre": "RED-SKULL",
+      "cantidad": 1
+    },
+    {
+      "id": 995,
+      "nombre": "H.SAKURAGI",
       "cantidad": 1
     }
   ]
