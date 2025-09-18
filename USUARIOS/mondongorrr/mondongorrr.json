@@ -2689,7 +2689,7 @@
         {
             "id": 516,
             "nombre": "LEGIÓN-DEL-DRAGÓN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1001,
@@ -5409,6 +5409,11 @@
         {
             "id": 1258,
             "nombre": "XENA-LA-PRINCESA-GUERRERA",
+            "cantidad": 1
+        },
+        {
+            "id": 1193,
+            "nombre": "ULISES-31",
             "cantidad": 1
         }
     ]
