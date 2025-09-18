@@ -5979,7 +5979,7 @@
         {
             "id": 1271,
             "nombre": "FA-OUT-RUN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1193,
@@ -6154,6 +6154,11 @@
         {
             "id": 1189,
             "nombre": "DRAGON-LAIR",
+            "cantidad": 1
+        },
+        {
+            "id": 1049,
+            "nombre": "I-MEDUSA-2",
             "cantidad": 1
         }
     ]
