@@ -2772,11 +2772,6 @@
             "cantidad": 1
         },
         {
-            "id": 1292,
-            "nombre": "ALF-FAMILY",
-            "cantidad": 1
-        },
-        {
             "id": 1253,
             "nombre": "SABRINA-COSAS-DE-BRUJAS",
             "cantidad": 2
@@ -2884,6 +2879,11 @@
         {
             "id": 924,
             "nombre": "VISITOR-SOLDIER",
+            "cantidad": 1
+        },
+        {
+            "id": 1235,
+            "nombre": "0-LOS-VISITANTES",
             "cantidad": 1
         }
     ]
