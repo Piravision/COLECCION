@@ -714,7 +714,7 @@
     {
       "id": 567,
       "nombre": "JAKE-ROBERTS",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 376,
@@ -1449,7 +1449,7 @@
     {
       "id": 507,
       "nombre": "KING",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 775,
@@ -1724,7 +1724,7 @@
     {
       "id": 40,
       "nombre": "chiu",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 747,
@@ -1969,7 +1969,7 @@
     {
       "id": 683,
       "nombre": "DB-071",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 786,
@@ -2839,7 +2839,7 @@
     {
       "id": 1114,
       "nombre": "OSOS-GUMMI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 589,
@@ -3879,7 +3879,7 @@
     {
       "id": 923,
       "nombre": "REAL-VISITOR",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1249,
@@ -3949,7 +3949,7 @@
     {
       "id": 1035,
       "nombre": "CAPITAN BRITANIA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 406,
@@ -4264,7 +4264,7 @@
     {
       "id": 1081,
       "nombre": "X -WOLVERINE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 803,
@@ -4609,7 +4609,7 @@
     {
       "id": 1092,
       "nombre": "CAZAFANTASMAS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 478,
@@ -4699,7 +4699,7 @@
     {
       "id": 889,
       "nombre": "LUKE-CAGE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1237,
@@ -4719,6 +4719,31 @@
     {
       "id": 465,
       "nombre": "air",
+      "cantidad": 1
+    },
+    {
+      "id": 378,
+      "nombre": "kid",
+      "cantidad": 1
+    },
+    {
+      "id": 732,
+      "nombre": "DB-120",
+      "cantidad": 1
+    },
+    {
+      "id": 1125,
+      "nombre": "GON",
+      "cantidad": 1
+    },
+    {
+      "id": 646,
+      "nombre": "DB-034",
+      "cantidad": 1
+    },
+    {
+      "id": 271,
+      "nombre": "Neutrinos",
       "cantidad": 1
     }
   ]

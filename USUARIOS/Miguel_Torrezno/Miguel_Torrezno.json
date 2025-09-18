@@ -864,7 +864,7 @@
     {
       "id": 312,
       "nombre": "Bestia",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 29,
@@ -924,7 +924,7 @@
     {
       "id": 511,
       "nombre": "YOSHI",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 380,
@@ -1164,7 +1164,7 @@
     {
       "id": 624,
       "nombre": "DB-012",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 556,
@@ -1199,7 +1199,7 @@
     {
       "id": 400,
       "nombre": "cid",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 639,
@@ -1569,7 +1569,7 @@
     {
       "id": 435,
       "nombre": "vulkan2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 762,
@@ -1604,7 +1604,7 @@
     {
       "id": 712,
       "nombre": "DB-100",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 667,
@@ -1694,7 +1694,7 @@
     {
       "id": 45,
       "nombre": "garuda",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 495,
@@ -2119,7 +2119,7 @@
     {
       "id": 711,
       "nombre": "DB-099",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 475,
@@ -2674,7 +2674,7 @@
     {
       "id": 348,
       "nombre": "Meia",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 571,
@@ -3489,6 +3489,21 @@
     {
       "id": 826,
       "nombre": "SONYA-BLADE",
+      "cantidad": 1
+    },
+    {
+      "id": 883,
+      "nombre": "HULK",
+      "cantidad": 1
+    },
+    {
+      "id": 634,
+      "nombre": "DB-022",
+      "cantidad": 1
+    },
+    {
+      "id": 1296,
+      "nombre": "CANDY",
       "cantidad": 1
     }
   ]
