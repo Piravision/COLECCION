@@ -2474,7 +2474,7 @@
         {
             "id": 1089,
             "nombre": "ACE-VENTURA",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 591,
@@ -3579,6 +3579,11 @@
         {
             "id": 531,
             "nombre": "McClane-Jail",
+            "cantidad": 1
+        },
+        {
+            "id": 554,
+            "nombre": "HANSOLO-JAIL",
             "cantidad": 1
         }
     ]

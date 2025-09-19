@@ -1764,7 +1764,7 @@
         {
             "id": 554,
             "nombre": "HANSOLO-JAIL",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 363,
@@ -5369,6 +5369,11 @@
         {
             "id": 982,
             "nombre": "14-FRAN-SINCLAIR",
+            "cantidad": 1
+        },
+        {
+            "id": 1089,
+            "nombre": "ACE-VENTURA",
             "cantidad": 1
         }
     ]
