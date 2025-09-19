@@ -5374,7 +5374,7 @@
         {
             "id": 1070,
             "nombre": "UNION JACK",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1158,
@@ -6234,6 +6234,11 @@
         {
             "id": 1196,
             "nombre": "1-YOSHI",
+            "cantidad": 1
+        },
+        {
+            "id": 1265,
+            "nombre": "BAYONETTA",
             "cantidad": 1
         }
     ]
