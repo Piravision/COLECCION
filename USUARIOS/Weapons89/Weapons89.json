@@ -1239,7 +1239,7 @@
     {
       "id": 637,
       "nombre": "DB-025",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 389,
@@ -1509,7 +1509,7 @@
     {
       "id": 288,
       "nombre": "Splinter",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 460,
@@ -1714,7 +1714,7 @@
     {
       "id": 828,
       "nombre": "SUB-ZERO",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 245,
@@ -2399,7 +2399,7 @@
     {
       "id": 153,
       "nombre": "Fred _El Mutante_",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 356,
@@ -2449,7 +2449,7 @@
     {
       "id": 695,
       "nombre": "DB-083",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 283,
@@ -2624,7 +2624,7 @@
     {
       "id": 632,
       "nombre": "DB-020",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 867,
@@ -3049,7 +3049,7 @@
     {
       "id": 938,
       "nombre": "VINCE-MCMAHON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 846,
@@ -3329,7 +3329,7 @@
     {
       "id": 1036,
       "nombre": "CAPITAN MARVEL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 441,
@@ -3994,7 +3994,7 @@
     {
       "id": 1132,
       "nombre": "AB-OBELIX",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 307,
@@ -4314,7 +4314,7 @@
     {
       "id": 1059,
       "nombre": "PUNISHER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1020,
@@ -4774,6 +4774,16 @@
     {
       "id": 1078,
       "nombre": "X -PHOENIX",
+      "cantidad": 1
+    },
+    {
+      "id": 1233,
+      "nombre": "CONTRA",
+      "cantidad": 1
+    },
+    {
+      "id": 991,
+      "nombre": "CONAN-EDOGAWA",
       "cantidad": 1
     }
   ]
