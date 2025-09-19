@@ -144,7 +144,7 @@
     {
       "id": 281,
       "nombre": "Granitor",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 211,
@@ -524,7 +524,7 @@
     {
       "id": 285,
       "nombre": "Rocksteady",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 362,
@@ -954,7 +954,7 @@
     {
       "id": 270,
       "nombre": "Napoleon Bonafrog",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 443,
@@ -1244,7 +1244,7 @@
     {
       "id": 262,
       "nombre": "April O'Neil",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 643,
@@ -2084,7 +2084,7 @@
     {
       "id": 283,
       "nombre": "Lord Dregg",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 766,
@@ -5494,6 +5494,11 @@
     {
       "id": 608,
       "nombre": "SHUN-NITTA",
+      "cantidad": 1
+    },
+    {
+      "id": 282,
+      "nombre": "Krang",
       "cantidad": 1
     }
   ]

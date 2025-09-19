@@ -309,7 +309,7 @@
     {
       "id": 484,
       "nombre": "Blowhard",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 401,
@@ -494,7 +494,7 @@
     {
       "id": 267,
       "nombre": "Metalhead",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 151,
@@ -564,7 +564,7 @@
     {
       "id": 240,
       "nombre": "Terror Drome",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 425,
@@ -854,7 +854,7 @@
     {
       "id": 277,
       "nombre": "Baxter",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 471,
@@ -1479,7 +1479,7 @@
     {
       "id": 289,
       "nombre": "Tokka",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 524,
@@ -1594,7 +1594,7 @@
     {
       "id": 273,
       "nombre": "Raphael",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 715,
@@ -1969,7 +1969,7 @@
     {
       "id": 550,
       "nombre": "AceVentura-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 591,
@@ -2439,7 +2439,7 @@
     {
       "id": 274,
       "nombre": "Ray Fillet",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 27,
@@ -4499,7 +4499,7 @@
     {
       "id": 1072,
       "nombre": "VALKYRIE-2",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 836,
@@ -4899,7 +4899,7 @@
     {
       "id": 495,
       "nombre": "jowy",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 426,
@@ -5649,6 +5649,41 @@
     {
       "id": 1091,
       "nombre": "CAT&DOG",
+      "cantidad": 1
+    },
+    {
+      "id": 1280,
+      "nombre": "JOTARO-KUJO",
+      "cantidad": 1
+    },
+    {
+      "id": 1282,
+      "nombre": "ROBOTECH",
+      "cantidad": 1
+    },
+    {
+      "id": 1215,
+      "nombre": "5-JOE-MUSASHI",
+      "cantidad": 1
+    },
+    {
+      "id": 1048,
+      "nombre": "I- CRYSTAL",
+      "cantidad": 1
+    },
+    {
+      "id": 1083,
+      "nombre": "YELLOWJACKET & WASP",
+      "cantidad": 1
+    },
+    {
+      "id": 1288,
+      "nombre": "JAK-&-DAXTER",
+      "cantidad": 1
+    },
+    {
+      "id": 282,
+      "nombre": "Krang",
       "cantidad": 1
     }
   ]

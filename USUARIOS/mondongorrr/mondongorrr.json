@@ -1099,7 +1099,7 @@
     {
       "id": 902,
       "nombre": "AQUAMAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 125,
@@ -1449,7 +1449,7 @@
     {
       "id": 635,
       "nombre": "DB-023",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 783,
@@ -2879,7 +2879,7 @@
     {
       "id": 933,
       "nombre": "REY-MISTERIO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 158,
@@ -4049,7 +4049,7 @@
     {
       "id": 997,
       "nombre": "IKKI-&-METABEE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1128,
@@ -5164,7 +5164,7 @@
     {
       "id": 1260,
       "nombre": "FA-DRAGON-QUEST-VIII",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 785,
@@ -5469,6 +5469,11 @@
     {
       "id": 1291,
       "nombre": "SPARKSTER",
+      "cantidad": 1
+    },
+    {
+      "id": 1181,
+      "nombre": "DEXTER",
       "cantidad": 1
     }
   ]
