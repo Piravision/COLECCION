@@ -1054,7 +1054,7 @@
     {
       "id": 96,
       "nombre": "Lexington",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 108,
@@ -1364,7 +1364,7 @@
     {
       "id": 404,
       "nombre": "sefirot",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 433,
@@ -1514,7 +1514,7 @@
     {
       "id": 21,
       "nombre": "Windfang",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 355,
@@ -1839,7 +1839,7 @@
     {
       "id": 603,
       "nombre": "PHILLIP-CALLAHAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 432,
@@ -1954,7 +1954,7 @@
     {
       "id": 200,
       "nombre": "Swordo",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 19,
@@ -1964,7 +1964,7 @@
     {
       "id": 760,
       "nombre": "Shura-de-Capricornio",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 643,
@@ -3224,7 +3224,7 @@
     {
       "id": 624,
       "nombre": "DB-012",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 922,
@@ -3234,7 +3234,7 @@
     {
       "id": 934,
       "nombre": "SHAWN-MICHAELS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 783,
@@ -5114,7 +5114,7 @@
     {
       "id": 1120,
       "nombre": "PF-PITUFO-GRUÑON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1039,
@@ -5589,7 +5589,7 @@
     {
       "id": 1271,
       "nombre": "FA-OUT-RUN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1207,
@@ -5999,6 +5999,16 @@
     {
       "id": 1266,
       "nombre": "CHRONO",
+      "cantidad": 1
+    },
+    {
+      "id": 1286,
+      "nombre": "FA-WINDJAMMERS",
+      "cantidad": 1
+    },
+    {
+      "id": 1285,
+      "nombre": "BANJO-KAZOOIE",
       "cantidad": 1
     }
   ]

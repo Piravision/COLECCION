@@ -69,7 +69,7 @@
     {
       "id": 1,
       "nombre": "30 30",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 353,
@@ -89,7 +89,7 @@
     {
       "id": 131,
       "nombre": "Scare Glow(",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 548,
@@ -504,7 +504,7 @@
     {
       "id": 202,
       "nombre": "Killamari",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 779,
@@ -844,7 +844,7 @@
     {
       "id": 1082,
       "nombre": "X- PSYLOCKE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 87,
@@ -1119,7 +1119,7 @@
     {
       "id": 958,
       "nombre": "2-ZIPPER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1086,
@@ -1254,7 +1254,7 @@
     {
       "id": 653,
       "nombre": "DB-041",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 10,
@@ -1599,7 +1599,7 @@
     {
       "id": 1110,
       "nombre": "G-ZOLTAR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 941,
@@ -1894,7 +1894,7 @@
     {
       "id": 879,
       "nombre": "GHOST-RIDER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 400,
@@ -2059,7 +2059,7 @@
     {
       "id": 416,
       "nombre": "emme2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 324,
@@ -2684,7 +2684,7 @@
     {
       "id": 935,
       "nombre": "STONE-COLD",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 61,
@@ -2719,7 +2719,7 @@
     {
       "id": 477,
       "nombre": "mumb",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1170,
@@ -2804,7 +2804,7 @@
     {
       "id": 1089,
       "nombre": "ACE-VENTURA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 413,
@@ -2834,12 +2834,12 @@
     {
       "id": 215,
       "nombre": "Castillo Grayskull",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 176,
       "nombre": "Camaleon",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1072,
@@ -2924,6 +2924,86 @@
     {
       "id": 233,
       "nombre": "Mutant Tank",
+      "cantidad": 1
+    },
+    {
+      "id": 897,
+      "nombre": "SPIDER-MAN",
+      "cantidad": 1
+    },
+    {
+      "id": 856,
+      "nombre": "BEETLEJUICE-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1239,
+      "nombre": "2-STEVE-URKEL",
+      "cantidad": 1
+    },
+    {
+      "id": 761,
+      "nombre": "alpha5",
+      "cantidad": 1
+    },
+    {
+      "id": 1169,
+      "nombre": "RED TORNADO",
+      "cantidad": 1
+    },
+    {
+      "id": 1222,
+      "nombre": "LINK",
+      "cantidad": 1
+    },
+    {
+      "id": 85,
+      "nombre": "Niko",
+      "cantidad": 1
+    },
+    {
+      "id": 637,
+      "nombre": "DB-025",
+      "cantidad": 1
+    },
+    {
+      "id": 910,
+      "nombre": "LOIS-LANE",
+      "cantidad": 1
+    },
+    {
+      "id": 330,
+      "nombre": "Magneto",
+      "cantidad": 1
+    },
+    {
+      "id": 953,
+      "nombre": "12-MARCO-&-AMELIO",
+      "cantidad": 1
+    },
+    {
+      "id": 1040,
+      "nombre": "DR STRANGE",
+      "cantidad": 1
+    },
+    {
+      "id": 71,
+      "nombre": "herhero",
+      "cantidad": 1
+    },
+    {
+      "id": 992,
+      "nombre": "DORAEMON",
+      "cantidad": 1
+    },
+    {
+      "id": 986,
+      "nombre": "15-BALOO",
+      "cantidad": 1
+    },
+    {
+      "id": 920,
+      "nombre": "HAM-TYLER",
       "cantidad": 1
     }
   ]
