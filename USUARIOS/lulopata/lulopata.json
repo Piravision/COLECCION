@@ -614,7 +614,7 @@
     {
       "id": 372,
       "nombre": "RENARD",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 253,
@@ -629,6 +629,31 @@
     {
       "id": 252,
       "nombre": "Alluro",
+      "cantidad": 1
+    },
+    {
+      "id": 368,
+      "nombre": "DRACULA1",
+      "cantidad": 1
+    },
+    {
+      "id": 365,
+      "nombre": "alucard 1",
+      "cantidad": 1
+    },
+    {
+      "id": 376,
+      "nombre": "guile",
+      "cantidad": 1
+    },
+    {
+      "id": 377,
+      "nombre": "harle",
+      "cantidad": 1
+    },
+    {
+      "id": 383,
+      "nombre": "viper",
       "cantidad": 1
     }
   ]

@@ -84,12 +84,12 @@
     {
       "id": 252,
       "nombre": "Alluro",
-      "cantidad": 2
+      "cantidad": 4
     },
     {
       "id": 132,
       "nombre": "Skeletor",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 108,
@@ -279,7 +279,7 @@
     {
       "id": 451,
       "nombre": "perros",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 456,
@@ -354,7 +354,7 @@
     {
       "id": 275,
       "nombre": "Usagi Yojimbo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 482,
@@ -379,7 +379,7 @@
     {
       "id": 330,
       "nombre": "Magneto",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 526,
@@ -609,7 +609,7 @@
     {
       "id": 267,
       "nombre": "Metalhead",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 500,
@@ -1049,7 +1049,7 @@
     {
       "id": 786,
       "nombre": "DICK-GRAYSON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 801,
@@ -1459,7 +1459,7 @@
     {
       "id": 541,
       "nombre": "COBRA-1986",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 147,
@@ -1744,7 +1744,7 @@
     {
       "id": 867,
       "nombre": "SONNY-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 695,
@@ -1799,7 +1799,7 @@
     {
       "id": 778,
       "nombre": "ALFRED",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 980,
@@ -2229,7 +2229,7 @@
     {
       "id": 89,
       "nombre": "Angela",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1217,
@@ -2369,7 +2369,7 @@
     {
       "id": 439,
       "nombre": "mudokons",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 441,
@@ -2404,7 +2404,7 @@
     {
       "id": 312,
       "nombre": "Bestia",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 85,
@@ -2419,12 +2419,12 @@
     {
       "id": 443,
       "nombre": "ada",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 444,
       "nombre": "birki",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 852,
@@ -2659,6 +2659,101 @@
     {
       "id": 889,
       "nombre": "LUKE-CAGE",
+      "cantidad": 1
+    },
+    {
+      "id": 437,
+      "nombre": "ellum",
+      "cantidad": 1
+    },
+    {
+      "id": 440,
+      "nombre": "scrabs",
+      "cantidad": 1
+    },
+    {
+      "id": 1224,
+      "nombre": "SAMUS",
+      "cantidad": 1
+    },
+    {
+      "id": 376,
+      "nombre": "guile",
+      "cantidad": 1
+    },
+    {
+      "id": 772,
+      "nombre": "Rita-Repulsa",
+      "cantidad": 1
+    },
+    {
+      "id": 283,
+      "nombre": "Lord Dregg",
+      "cantidad": 1
+    },
+    {
+      "id": 274,
+      "nombre": "Ray Fillet",
+      "cantidad": 1
+    },
+    {
+      "id": 815,
+      "nombre": "NIGHTWOLF",
+      "cantidad": 1
+    },
+    {
+      "id": 641,
+      "nombre": "DB-029",
+      "cantidad": 2
+    },
+    {
+      "id": 907,
+      "nombre": "FLASH",
+      "cantidad": 1
+    },
+    {
+      "id": 1030,
+      "nombre": "BRUJA Y VISION",
+      "cantidad": 1
+    },
+    {
+      "id": 320,
+      "nombre": "Psylocke",
+      "cantidad": 1
+    },
+    {
+      "id": 293,
+      "nombre": "Hot Rod",
+      "cantidad": 1
+    },
+    {
+      "id": 1085,
+      "nombre": "YV-YELLOWJACKET",
+      "cantidad": 1
+    },
+    {
+      "id": 99,
+      "nombre": "Demona",
+      "cantidad": 1
+    },
+    {
+      "id": 98,
+      "nombre": "David Xanatos",
+      "cantidad": 1
+    },
+    {
+      "id": 525,
+      "nombre": "Cíclope",
+      "cantidad": 1
+    },
+    {
+      "id": 1064,
+      "nombre": "SP- VENOM-2",
+      "cantidad": 1
+    },
+    {
+      "id": 1063,
+      "nombre": "SP- SPIDERMAN-BLACK",
       "cantidad": 1
     }
   ]
