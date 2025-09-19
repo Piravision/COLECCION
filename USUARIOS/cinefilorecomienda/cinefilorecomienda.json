@@ -2294,7 +2294,7 @@
     {
       "id": 57,
       "nombre": "pop",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 720,
@@ -2999,7 +2999,7 @@
     {
       "id": 850,
       "nombre": "T-HAWK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1270,
@@ -3039,6 +3039,11 @@
     {
       "id": 319,
       "nombre": "Profesor Xavier",
+      "cantidad": 1
+    },
+    {
+      "id": 106,
+      "nombre": "Scarlett",
       "cantidad": 1
     }
   ]

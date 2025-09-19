@@ -3744,7 +3744,7 @@
     {
       "id": 890,
       "nombre": "MEDUSA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 840,
@@ -4094,7 +4094,7 @@
     {
       "id": 931,
       "nombre": "RANDY-ORTON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 763,
@@ -5344,6 +5344,11 @@
     {
       "id": 1273,
       "nombre": "KINGDOM-HEARTS",
+      "cantidad": 1
+    },
+    {
+      "id": 639,
+      "nombre": "DB-027",
       "cantidad": 1
     }
   ]

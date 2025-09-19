@@ -1659,7 +1659,7 @@
         {
             "id": 627,
             "nombre": "DB-015",
-            "cantidad": 6
+            "cantidad": 7
         },
         {
             "id": 418,
@@ -1829,7 +1829,7 @@
         {
             "id": 271,
             "nombre": "Neutrinos",
-            "cantidad": 6
+            "cantidad": 7
         },
         {
             "id": 698,
@@ -1874,7 +1874,7 @@
         {
             "id": 426,
             "nombre": "ocelot2",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 168,
@@ -4099,7 +4099,7 @@
         {
             "id": 947,
             "nombre": "1-ARAMIS",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1006,
@@ -4109,7 +4109,7 @@
         {
             "id": 391,
             "nombre": "piretripe",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 637,
@@ -5844,7 +5844,7 @@
         {
             "id": 1155,
             "nombre": "DETECTIVE MARCIANO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1277,
@@ -5949,7 +5949,7 @@
         {
             "id": 1204,
             "nombre": "3-KNUCKLES",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1294,
@@ -6224,6 +6224,11 @@
         {
             "id": 1293,
             "nombre": "ALF",
+            "cantidad": 1
+        },
+        {
+            "id": 1166,
+            "nombre": "HAWKWOMAN",
             "cantidad": 1
         }
     ]

@@ -9,7 +9,7 @@
     {
       "id": 323,
       "nombre": "Tormenta",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 106,
@@ -89,7 +89,7 @@
     {
       "id": 94,
       "nombre": "Goliath",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 100,
@@ -429,7 +429,7 @@
     {
       "id": 534,
       "nombre": "T800-Jail",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 4,
@@ -1394,7 +1394,7 @@
     {
       "id": 3,
       "nombre": "Juez J. Bella",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 76,
@@ -1469,7 +1469,7 @@
     {
       "id": 285,
       "nombre": "Rocksteady",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 405,
@@ -2524,7 +2524,7 @@
     {
       "id": 701,
       "nombre": "DB-089",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 890,
@@ -2809,7 +2809,7 @@
     {
       "id": 857,
       "nombre": "DOC-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 336,
@@ -2859,7 +2859,7 @@
     {
       "id": 549,
       "nombre": "T-1000",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 364,
@@ -3634,7 +3634,7 @@
     {
       "id": 180,
       "nombre": "Electro",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 928,
@@ -3769,12 +3769,12 @@
     {
       "id": 1143,
       "nombre": "PINKY-&-CEREBRO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1210,
       "nombre": "4-FINAL-FIGHT",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 708,
@@ -4209,7 +4209,7 @@
     {
       "id": 625,
       "nombre": "DB-013",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 673,
@@ -4679,7 +4679,7 @@
     {
       "id": 1242,
       "nombre": "EQUIPO-A",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1263,
@@ -4739,11 +4739,41 @@
     {
       "id": 646,
       "nombre": "DB-034",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 271,
       "nombre": "Neutrinos",
+      "cantidad": 1
+    },
+    {
+      "id": 801,
+      "nombre": "RED-CLAW",
+      "cantidad": 1
+    },
+    {
+      "id": 676,
+      "nombre": "DB-064",
+      "cantidad": 2
+    },
+    {
+      "id": 976,
+      "nombre": "7-SABIONDO",
+      "cantidad": 1
+    },
+    {
+      "id": 745,
+      "nombre": "Dark-Shura-de-Capricornio",
+      "cantidad": 1
+    },
+    {
+      "id": 1177,
+      "nombre": "LIGHT-&-RYUK",
+      "cantidad": 1
+    },
+    {
+      "id": 1078,
+      "nombre": "X -PHOENIX",
       "cantidad": 1
     }
   ]
