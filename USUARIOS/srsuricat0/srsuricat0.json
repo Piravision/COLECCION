@@ -5204,7 +5204,7 @@
         {
             "id": 944,
             "nombre": "JOKER-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 945,
@@ -5389,6 +5389,11 @@
         {
             "id": 918,
             "nombre": "DIANA",
+            "cantidad": 1
+        },
+        {
+            "id": 923,
+            "nombre": "REAL-VISITOR",
             "cantidad": 1
         }
     ]

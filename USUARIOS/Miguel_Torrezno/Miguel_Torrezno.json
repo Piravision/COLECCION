@@ -3409,7 +3409,7 @@
         {
             "id": 923,
             "nombre": "REAL-VISITOR",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1279,
@@ -3599,6 +3599,11 @@
         {
             "id": 557,
             "nombre": "LUFFY-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 944,
+            "nombre": "JOKER-JAIL",
             "cantidad": 1
         }
     ]
