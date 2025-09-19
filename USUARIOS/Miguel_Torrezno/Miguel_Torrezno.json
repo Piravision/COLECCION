@@ -2239,7 +2239,7 @@
         {
             "id": 882,
             "nombre": "HELA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 900,
@@ -3589,6 +3589,11 @@
         {
             "id": 538,
             "nombre": "BRUCE-LEE",
+            "cantidad": 1
+        },
+        {
+            "id": 539,
+            "nombre": "BRUCE-LEE2",
             "cantidad": 1
         }
     ]

@@ -1489,7 +1489,7 @@
         {
             "id": 539,
             "nombre": "BRUCE-LEE2",
-            "cantidad": 7
+            "cantidad": 6
         },
         {
             "id": 62,
@@ -5379,6 +5379,11 @@
         {
             "id": 1146,
             "nombre": "TROTAMUSICOS",
+            "cantidad": 1
+        },
+        {
+            "id": 882,
+            "nombre": "HELA",
             "cantidad": 1
         }
     ]
