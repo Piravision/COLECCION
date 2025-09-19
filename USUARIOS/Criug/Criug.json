@@ -5714,7 +5714,7 @@
         {
             "id": 1242,
             "nombre": "EQUIPO-A",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1184,
@@ -6239,6 +6239,11 @@
         {
             "id": 1265,
             "nombre": "BAYONETTA",
+            "cantidad": 1
+        },
+        {
+            "id": 1138,
+            "nombre": "LUCKY-LUKE",
             "cantidad": 1
         }
     ]

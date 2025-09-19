@@ -5319,7 +5319,7 @@
         {
             "id": 1138,
             "nombre": "LUCKY-LUKE",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 688,
@@ -6264,6 +6264,11 @@
         {
             "id": 1070,
             "nombre": "UNION JACK",
+            "cantidad": 1
+        },
+        {
+            "id": 1242,
+            "nombre": "EQUIPO-A",
             "cantidad": 1
         }
     ]
