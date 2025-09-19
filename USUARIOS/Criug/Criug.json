@@ -374,7 +374,7 @@
         {
             "id": 81,
             "nombre": "vearn",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 319,
@@ -619,7 +619,7 @@
         {
             "id": 500,
             "nombre": "shu",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 332,
@@ -834,7 +834,7 @@
         {
             "id": 413,
             "nombre": "campb",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 3,
@@ -2334,7 +2334,7 @@
         {
             "id": 506,
             "nombre": "jin",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 269,
@@ -2454,7 +2454,7 @@
         {
             "id": 754,
             "nombre": "Pandora",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 45,
@@ -2534,7 +2534,7 @@
         {
             "id": 326,
             "nombre": "Blob",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 758,
@@ -2579,7 +2579,7 @@
         {
             "id": 764,
             "nombre": "Dragonzord",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 661,
@@ -2944,7 +2944,7 @@
         {
             "id": 609,
             "nombre": "STEFAN-LEVI",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 350,
@@ -3459,7 +3459,7 @@
         {
             "id": 605,
             "nombre": "ROBERTO-SEDINHO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 399,
@@ -3694,7 +3694,7 @@
         {
             "id": 954,
             "nombre": "2-CHIP",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 948,
@@ -4029,7 +4029,7 @@
         {
             "id": 911,
             "nombre": "MARTHA-KENT",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 847,
@@ -4174,7 +4174,7 @@
         {
             "id": 504,
             "nombre": "HEICHAI",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 940,
@@ -4324,7 +4324,7 @@
         {
             "id": 908,
             "nombre": "KARA-",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 824,
@@ -4344,7 +4344,7 @@
         {
             "id": 1014,
             "nombre": "YUGI",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1100,
@@ -4539,7 +4539,7 @@
         {
             "id": 996,
             "nombre": "I.KUROSAKI",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1009,
@@ -5199,7 +5199,7 @@
         {
             "id": 912,
             "nombre": "SINIESTRO",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 727,
@@ -5854,7 +5854,7 @@
         {
             "id": 1139,
             "nombre": "MARSUPILAMI",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1275,
@@ -6084,7 +6084,7 @@
         {
             "id": 1230,
             "nombre": "MORTADELO-Y-FILEMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1183,
@@ -6189,6 +6189,16 @@
         {
             "id": 1253,
             "nombre": "SABRINA-COSAS-DE-BRUJAS",
+            "cantidad": 1
+        },
+        {
+            "id": 1298,
+            "nombre": "FA-ALTERED BEAST",
+            "cantidad": 1
+        },
+        {
+            "id": 1269,
+            "nombre": "FA-KINGDOM-HEARTS",
             "cantidad": 1
         }
     ]
