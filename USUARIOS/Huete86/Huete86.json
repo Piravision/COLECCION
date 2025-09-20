@@ -2559,7 +2559,7 @@
         {
             "id": 289,
             "nombre": "Tokka",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 789,
@@ -6094,6 +6094,11 @@
         {
             "id": 1035,
             "nombre": "CAPITAN BRITANIA",
+            "cantidad": 1
+        },
+        {
+            "id": 1036,
+            "nombre": "CAPITAN MARVEL",
             "cantidad": 1
         }
     ]
