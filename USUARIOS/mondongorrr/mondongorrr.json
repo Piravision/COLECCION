@@ -4904,7 +4904,7 @@
         {
             "id": 274,
             "nombre": "Ray Fillet",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1138,
@@ -5614,6 +5614,11 @@
         {
             "id": 231,
             "nombre": "Manual de Avan",
+            "cantidad": 1
+        },
+        {
+            "id": 214,
+            "nombre": "Brimstar",
             "cantidad": 1
         }
     ]
