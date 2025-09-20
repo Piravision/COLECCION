@@ -4479,7 +4479,7 @@
         {
             "id": 1103,
             "nombre": "FRAGGLE-ROCK",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1187,
@@ -5579,6 +5579,11 @@
         {
             "id": 957,
             "nombre": "2-MONTERREY-JACK",
+            "cantidad": 1
+        },
+        {
+            "id": 905,
+            "nombre": "DARKSEID",
             "cantidad": 1
         }
     ]
