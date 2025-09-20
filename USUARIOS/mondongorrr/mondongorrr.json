@@ -2889,7 +2889,7 @@
         {
             "id": 927,
             "nombre": "BRET-HART",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 963,
@@ -5519,6 +5519,11 @@
         {
             "id": 856,
             "nombre": "BEETLEJUICE-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 1235,
+            "nombre": "0-LOS-VISITANTES",
             "cantidad": 1
         }
     ]
