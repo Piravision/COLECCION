@@ -1919,7 +1919,7 @@
         {
             "id": 765,
             "nombre": "Finster",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 12,
@@ -5539,6 +5539,11 @@
         {
             "id": 187,
             "nombre": "Rhyno",
+            "cantidad": 1
+        },
+        {
+            "id": 465,
+            "nombre": "air",
             "cantidad": 1
         }
     ]

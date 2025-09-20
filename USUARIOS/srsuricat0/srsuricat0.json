@@ -244,7 +244,7 @@
         {
             "id": 465,
             "nombre": "air",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 436,
@@ -5495,6 +5495,11 @@
             "id": 845,
             "nombre": "KEN",
             "cantidad": 2
+        },
+        {
+            "id": 765,
+            "nombre": "Finster",
+            "cantidad": 1
         }
     ]
 }
