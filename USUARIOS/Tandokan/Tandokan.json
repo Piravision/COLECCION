@@ -2459,7 +2459,7 @@
         {
             "id": 801,
             "nombre": "RED-CLAW",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 647,
@@ -5534,6 +5534,11 @@
         {
             "id": 699,
             "nombre": "DB-087",
+            "cantidad": 1
+        },
+        {
+            "id": 15,
+            "nombre": "Zula",
             "cantidad": 1
         }
     ]
