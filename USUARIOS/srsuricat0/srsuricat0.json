@@ -1489,7 +1489,7 @@
     {
       "id": 539,
       "nombre": "BRUCE-LEE2",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 62,
@@ -1579,7 +1579,7 @@
     {
       "id": 106,
       "nombre": "Scarlett",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 468,
@@ -1744,7 +1744,7 @@
     {
       "id": 115,
       "nombre": "Zartan",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 50,
@@ -2409,7 +2409,7 @@
     {
       "id": 536,
       "nombre": "Xena-Jail",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 165,
@@ -5139,7 +5139,7 @@
     {
       "id": 828,
       "nombre": "SUB-ZERO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 837,
@@ -5564,6 +5564,11 @@
     {
       "id": 1173,
       "nombre": "WONDER WOMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1181,
+      "nombre": "DEXTER",
       "cantidad": 1
     }
   ]

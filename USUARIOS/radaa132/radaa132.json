@@ -9,7 +9,7 @@
     {
       "id": 401,
       "nombre": "cloud",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 189,
@@ -189,7 +189,7 @@
     {
       "id": 190,
       "nombre": "Vandame-Bloodsport",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 475,
@@ -239,7 +239,7 @@
     {
       "id": 658,
       "nombre": "DB-046",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 533,
@@ -1139,7 +1139,7 @@
     {
       "id": 146,
       "nombre": "Siege",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 427,
@@ -1349,7 +1349,7 @@
     {
       "id": 804,
       "nombre": "BARAKA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 801,
@@ -1394,7 +1394,7 @@
     {
       "id": 281,
       "nombre": "Granitor",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 559,
@@ -2574,7 +2574,7 @@
     {
       "id": 579,
       "nombre": "BOB-DENVER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 142,
@@ -3059,7 +3059,7 @@
     {
       "id": 1140,
       "nombre": "PANTERA-ROSA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 434,
@@ -3079,12 +3079,12 @@
     {
       "id": 902,
       "nombre": "AQUAMAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 813,
       "nombre": "LIU-KANG",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 127,
@@ -3269,7 +3269,7 @@
     {
       "id": 100,
       "nombre": "Flint",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1047,
@@ -3334,7 +3334,7 @@
     {
       "id": 1163,
       "nombre": "GREEN ARROW",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 63,
@@ -3469,7 +3469,7 @@
     {
       "id": 564,
       "nombre": "SLIMER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 558,
@@ -3564,7 +3564,7 @@
     {
       "id": 1135,
       "nombre": "GUARDIAN-DE-LA-CRIPTA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1150,
@@ -3639,6 +3639,41 @@
     {
       "id": 164,
       "nombre": "Black Cat",
+      "cantidad": 1
+    },
+    {
+      "id": 878,
+      "nombre": "FALCON",
+      "cantidad": 1
+    },
+    {
+      "id": 761,
+      "nombre": "alpha5",
+      "cantidad": 1
+    },
+    {
+      "id": 468,
+      "nombre": "CybilBennett",
+      "cantidad": 1
+    },
+    {
+      "id": 1288,
+      "nombre": "JAK-&-DAXTER",
+      "cantidad": 1
+    },
+    {
+      "id": 317,
+      "nombre": "Jean Grey",
+      "cantidad": 1
+    },
+    {
+      "id": 1261,
+      "nombre": "FA-MEGAMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1167,
+      "nombre": "JOKER",
       "cantidad": 1
     }
   ]
