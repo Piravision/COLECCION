@@ -2849,7 +2849,7 @@
     {
       "id": 940,
       "nombre": "GIZMO-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 800,
@@ -2859,7 +2859,7 @@
     {
       "id": 793,
       "nombre": "HIEDRA-",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 33,
@@ -5684,6 +5684,11 @@
     {
       "id": 1281,
       "nombre": "KOJI-&-MAZINGER-Z",
+      "cantidad": 1
+    },
+    {
+      "id": 1172,
+      "nombre": "SUPERMAN",
       "cantidad": 1
     }
   ]
