@@ -134,7 +134,7 @@
     {
       "id": 529,
       "nombre": "Mística",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 329,
@@ -3529,7 +3529,7 @@
     {
       "id": 1272,
       "nombre": "FA-SUNSET-RIDERS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 355,
@@ -3634,6 +3634,11 @@
     {
       "id": 147,
       "nombre": "Carbine",
+      "cantidad": 1
+    },
+    {
+      "id": 164,
+      "nombre": "Black Cat",
       "cantidad": 1
     }
   ]
