@@ -274,7 +274,7 @@
     {
       "id": 224,
       "nombre": "Guarida Tortuga",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 23,
@@ -614,7 +614,7 @@
     {
       "id": 297,
       "nombre": "Optimus Prime",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 427,
@@ -1054,7 +1054,7 @@
     {
       "id": 268,
       "nombre": "Michelangelo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 200,
@@ -1149,7 +1149,7 @@
     {
       "id": 222,
       "nombre": "Espada de Metal Estrella",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 460,
@@ -1159,7 +1159,7 @@
     {
       "id": 157,
       "nombre": "Bluegrass",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 156,
@@ -1264,7 +1264,7 @@
     {
       "id": 567,
       "nombre": "JAKE-ROBERTS",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 440,
@@ -2209,7 +2209,7 @@
     {
       "id": 722,
       "nombre": "DB-110",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 528,
@@ -2814,7 +2814,7 @@
     {
       "id": 809,
       "nombre": "KABAL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 915,
@@ -2839,7 +2839,7 @@
     {
       "id": 688,
       "nombre": "DB-076",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 121,
@@ -3144,7 +3144,7 @@
     {
       "id": 874,
       "nombre": "CAPTAIN-AMERICA",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 846,
@@ -3449,7 +3449,7 @@
     {
       "id": 383,
       "nombre": "viper",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 347,
@@ -3854,7 +3854,7 @@
     {
       "id": 653,
       "nombre": "DB-041",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 342,
@@ -3904,7 +3904,7 @@
     {
       "id": 735,
       "nombre": "Aiacos",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 784,
@@ -4029,7 +4029,7 @@
     {
       "id": 785,
       "nombre": "CATWOMAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 221,
@@ -4119,7 +4119,7 @@
     {
       "id": 90,
       "nombre": "Broadway",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 112,
@@ -4464,7 +4464,7 @@
     {
       "id": 1082,
       "nombre": "X- PSYLOCKE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1125,
@@ -4869,7 +4869,7 @@
     {
       "id": 1085,
       "nombre": "YV-YELLOWJACKET",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1060,
@@ -4879,12 +4879,12 @@
     {
       "id": 1100,
       "nombre": "D-GOSALYN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1055,
       "nombre": "NIGHTHAWK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 888,
@@ -5299,7 +5299,7 @@
     {
       "id": 1135,
       "nombre": "GUARDIAN-DE-LA-CRIPTA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 635,
@@ -5434,7 +5434,7 @@
     {
       "id": 1206,
       "nombre": "3a-SONIC",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1246,
@@ -5679,11 +5679,21 @@
     {
       "id": 1288,
       "nombre": "JAK-&-DAXTER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 282,
       "nombre": "Krang",
+      "cantidad": 1
+    },
+    {
+      "id": 1098,
+      "nombre": "CZA-MOQUETE",
+      "cantidad": 1
+    },
+    {
+      "id": 935,
+      "nombre": "STONE-COLD",
       "cantidad": 1
     }
   ]

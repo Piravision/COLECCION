@@ -189,7 +189,7 @@
         {
             "id": 310,
             "nombre": "Dan",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 384,
@@ -909,7 +909,7 @@
         {
             "id": 482,
             "nombre": "Escorpión",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 67,
@@ -1599,7 +1599,7 @@
         {
             "id": 230,
             "nombre": "Mansion X",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 203,
@@ -1709,7 +1709,7 @@
         {
             "id": 231,
             "nombre": "Manual de Avan",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 474,
@@ -1829,7 +1829,7 @@
         {
             "id": 271,
             "nombre": "Neutrinos",
-            "cantidad": 7
+            "cantidad": 8
         },
         {
             "id": 698,
@@ -1984,7 +1984,7 @@
         {
             "id": 665,
             "nombre": "DB-053",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 295,
@@ -2269,7 +2269,7 @@
         {
             "id": 499,
             "nombre": "seed",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 714,
@@ -2314,7 +2314,7 @@
         {
             "id": 416,
             "nombre": "emme2",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 518,
@@ -3389,7 +3389,7 @@
         {
             "id": 261,
             "nombre": "Reptilio",
-            "cantidad": 7
+            "cantidad": 8
         },
         {
             "id": 285,
@@ -3684,7 +3684,7 @@
         {
             "id": 170,
             "nombre": "J. Jonah Jameson",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 974,
@@ -3744,7 +3744,7 @@
         {
             "id": 864,
             "nombre": "RAMBO-JAIL",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 886,
@@ -3844,7 +3844,7 @@
         {
             "id": 654,
             "nombre": "DB-042",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 603,
@@ -4074,7 +4074,7 @@
         {
             "id": 837,
             "nombre": "DALSHIM",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 871,
@@ -4544,12 +4544,12 @@
         {
             "id": 1009,
             "nombre": "SHIN-CHAN",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 1007,
             "nombre": "SAILOR-MOON",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 989,
@@ -4654,7 +4654,7 @@
         {
             "id": 490,
             "nombre": "spyro1",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 929,
@@ -4724,7 +4724,7 @@
         {
             "id": 1074,
             "nombre": "X -BESTIA",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 951,
@@ -4929,7 +4929,7 @@
         {
             "id": 976,
             "nombre": "7-SABIONDO",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 980,
@@ -6274,6 +6274,16 @@
         {
             "id": 1078,
             "nombre": "X -PHOENIX",
+            "cantidad": 1
+        },
+        {
+            "id": 1259,
+            "nombre": "FA-CHRONO-TRIGGER",
+            "cantidad": 1
+        },
+        {
+            "id": 1127,
+            "nombre": "SHINJI-IKARI",
             "cantidad": 1
         }
     ]

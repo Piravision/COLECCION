@@ -234,7 +234,7 @@
     {
       "id": 298,
       "nombre": "Prowl",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 658,
@@ -749,7 +749,7 @@
     {
       "id": 435,
       "nombre": "vulkan2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 543,
@@ -1029,7 +1029,7 @@
     {
       "id": 631,
       "nombre": "DB-019",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 393,
@@ -1239,7 +1239,7 @@
     {
       "id": 67,
       "nombre": "flazzard3",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 385,
@@ -1644,7 +1644,7 @@
     {
       "id": 409,
       "nombre": "Kōji-Kabuto",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 253,
@@ -1789,7 +1789,7 @@
     {
       "id": 963,
       "nombre": "3-SRA.-HUDSON",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 855,
@@ -2859,7 +2859,7 @@
     {
       "id": 1198,
       "nombre": "1Z-BOWSER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 366,
@@ -2959,7 +2959,7 @@
     {
       "id": 917,
       "nombre": "MYERS-JAIL",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 896,
@@ -3299,7 +3299,7 @@
     {
       "id": 87,
       "nombre": "Walter _Doc_ Hartford",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1067,
@@ -3394,7 +3394,7 @@
     {
       "id": 1157,
       "nombre": "FIRESTORM",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1274,
@@ -3599,6 +3599,41 @@
     {
       "id": 1015,
       "nombre": "SHAGGY--&-SCOOBY-DOO",
+      "cantidad": 1
+    },
+    {
+      "id": 1246,
+      "nombre": "LA-NINERA",
+      "cantidad": 1
+    },
+    {
+      "id": 446,
+      "nombre": "CUERVOS",
+      "cantidad": 1
+    },
+    {
+      "id": 601,
+      "nombre": "OLIVER-ATOM",
+      "cantidad": 1
+    },
+    {
+      "id": 1199,
+      "nombre": "1Z-WARIO",
+      "cantidad": 1
+    },
+    {
+      "id": 321,
+      "nombre": "Quicksilver",
+      "cantidad": 1
+    },
+    {
+      "id": 183,
+      "nombre": "Kraven",
+      "cantidad": 1
+    },
+    {
+      "id": 147,
+      "nombre": "Carbine",
       "cantidad": 1
     }
   ]
