@@ -644,7 +644,7 @@
         {
             "id": 435,
             "nombre": "vulkan2",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 236,
@@ -939,7 +939,7 @@
         {
             "id": 467,
             "nombre": "Cheryl",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 271,
@@ -1144,7 +1144,7 @@
         {
             "id": 175,
             "nombre": "Buitre",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 503,
@@ -2829,7 +2829,7 @@
         {
             "id": 757,
             "nombre": "Saga-de-Géminis_",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 205,
@@ -5524,6 +5524,11 @@
         {
             "id": 997,
             "nombre": "IKKI-&-METABEE",
+            "cantidad": 1
+        },
+        {
+            "id": 843,
+            "nombre": "HONDA",
             "cantidad": 1
         }
     ]

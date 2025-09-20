@@ -664,7 +664,7 @@
         {
             "id": 382,
             "nombre": "serge",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 614,
@@ -744,7 +744,7 @@
         {
             "id": 569,
             "nombre": "MACHO-MAN",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 251,
@@ -1929,7 +1929,7 @@
         {
             "id": 264,
             "nombre": "Donatello",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 352,
@@ -2019,7 +2019,7 @@
         {
             "id": 337,
             "nombre": "Ikki de Fénix",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 295,
@@ -3324,7 +3324,7 @@
         {
             "id": 958,
             "nombre": "2-ZIPPER",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 834,
@@ -4024,7 +4024,7 @@
         {
             "id": 837,
             "nombre": "DALSHIM",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1115,
@@ -4074,7 +4074,7 @@
         {
             "id": 843,
             "nombre": "HONDA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 710,
@@ -5569,6 +5569,11 @@
         {
             "id": 992,
             "nombre": "DORAEMON",
+            "cantidad": 1
+        },
+        {
+            "id": 175,
+            "nombre": "Buitre",
             "cantidad": 1
         }
     ]
