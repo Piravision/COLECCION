@@ -164,7 +164,7 @@
     {
       "id": 153,
       "nombre": "Fred _El Mutante_",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 403,
@@ -334,7 +334,7 @@
     {
       "id": 277,
       "nombre": "Baxter",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 128,
@@ -604,7 +604,7 @@
     {
       "id": 777,
       "nombre": "Zordon",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 669,
@@ -704,7 +704,7 @@
     {
       "id": 243,
       "nombre": "Cheetara",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 752,
@@ -1054,7 +1054,7 @@
     {
       "id": 663,
       "nombre": "DB-051",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 536,
@@ -1724,7 +1724,7 @@
     {
       "id": 291,
       "nombre": "Zorax",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 895,
@@ -1799,7 +1799,7 @@
     {
       "id": 273,
       "nombre": "Raphael",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 77,
@@ -1889,7 +1889,7 @@
     {
       "id": 685,
       "nombre": "DB-073",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 9,
@@ -3844,7 +3844,7 @@
     {
       "id": 278,
       "nombre": "Bebop",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 96,
@@ -4749,7 +4749,7 @@
     {
       "id": 494,
       "nombre": "jillia",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1111,
@@ -4904,7 +4904,7 @@
     {
       "id": 274,
       "nombre": "Ray Fillet",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1138,
@@ -5169,7 +5169,7 @@
     {
       "id": 785,
       "nombre": "CATWOMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1131,
@@ -5474,6 +5474,21 @@
     {
       "id": 1181,
       "nombre": "DEXTER",
+      "cantidad": 1
+    },
+    {
+      "id": 279,
+      "nombre": "Cuerpo Androide",
+      "cantidad": 1
+    },
+    {
+      "id": 731,
+      "nombre": "DB-119",
+      "cantidad": 1
+    },
+    {
+      "id": 1283,
+      "nombre": "TAKUMI-FUJIWARA",
       "cantidad": 1
     }
   ]

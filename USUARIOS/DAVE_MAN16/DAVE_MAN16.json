@@ -114,7 +114,7 @@
     {
       "id": 256,
       "nombre": "Mandrilo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 157,
@@ -549,7 +549,7 @@
     {
       "id": 555,
       "nombre": "INDIANA-JONES-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 205,
@@ -2764,6 +2764,11 @@
     {
       "id": 103,
       "nombre": "Gung Ho",
+      "cantidad": 1
+    },
+    {
+      "id": 490,
+      "nombre": "spyro1",
       "cantidad": 1
     }
   ]

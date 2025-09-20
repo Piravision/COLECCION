@@ -389,7 +389,7 @@
     {
       "id": 337,
       "nombre": "Ikki de Fénix",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 112,
@@ -1344,7 +1344,7 @@
     {
       "id": 535,
       "nombre": "Venkman-Jail",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 758,
@@ -3544,7 +3544,7 @@
     {
       "id": 251,
       "nombre": "Tigro",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 991,
@@ -3619,6 +3619,21 @@
     {
       "id": 270,
       "nombre": "Napoleon Bonafrog",
+      "cantidad": 1
+    },
+    {
+      "id": 1134,
+      "nombre": "DR.-GRANUDO-&-HORRIFIDO",
+      "cantidad": 1
+    },
+    {
+      "id": 262,
+      "nombre": "April O'Neil",
+      "cantidad": 1
+    },
+    {
+      "id": 395,
+      "nombre": "SPIKE-SPIEGEL",
       "cantidad": 1
     }
   ]

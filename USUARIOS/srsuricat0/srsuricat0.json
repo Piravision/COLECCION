@@ -994,7 +994,7 @@
     {
       "id": 280,
       "nombre": "General Traag",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 34,
@@ -1024,7 +1024,7 @@
     {
       "id": 504,
       "nombre": "HEICHAI",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 423,
@@ -1274,7 +1274,7 @@
     {
       "id": 568,
       "nombre": "LOS-SACAMANTECAS",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 59,
@@ -1444,7 +1444,7 @@
     {
       "id": 528,
       "nombre": "Fénix-Oscura",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 79,
@@ -2069,7 +2069,7 @@
     {
       "id": 273,
       "nombre": "Raphael",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 374,
@@ -2189,7 +2189,7 @@
     {
       "id": 288,
       "nombre": "Splinter",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 508,
@@ -3374,7 +3374,7 @@
     {
       "id": 817,
       "nombre": "RAIDEN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 874,
@@ -3579,7 +3579,7 @@
     {
       "id": 697,
       "nombre": "DB-085",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 835,
@@ -3604,7 +3604,7 @@
     {
       "id": 877,
       "nombre": "ENCHANTRESS",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 756,
@@ -3619,7 +3619,7 @@
     {
       "id": 642,
       "nombre": "DB-030",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 864,
@@ -3664,7 +3664,7 @@
     {
       "id": 933,
       "nombre": "REY-MISTERIO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 826,
@@ -4309,7 +4309,7 @@
     {
       "id": 1057,
       "nombre": "PALADIN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1054,
@@ -4584,7 +4584,7 @@
     {
       "id": 879,
       "nombre": "GHOST-RIDER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 883,
@@ -4634,7 +4634,7 @@
     {
       "id": 967,
       "nombre": "4-TICO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 978,
@@ -5154,12 +5154,12 @@
     {
       "id": 1030,
       "nombre": "BRUJA Y VISION",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 895,
       "nombre": "ROCKET-RACOON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 888,
@@ -5395,6 +5395,91 @@
       "id": 923,
       "nombre": "REAL-VISITOR",
       "cantidad": 1
+    },
+    {
+      "id": 1147,
+      "nombre": "VACA-&-POLLO",
+      "cantidad": 1
+    },
+    {
+      "id": 617,
+      "nombre": "DB-005",
+      "cantidad": 1
+    },
+    {
+      "id": 989,
+      "nombre": "CAPITAN-HARLOCK",
+      "cantidad": 1
+    },
+    {
+      "id": 1184,
+      "nombre": "TEEN-WOLF",
+      "cantidad": 1
+    },
+    {
+      "id": 1005,
+      "nombre": "RANMA-1_2",
+      "cantidad": 1
+    },
+    {
+      "id": 901,
+      "nombre": "ULTRON",
+      "cantidad": 1
+    },
+    {
+      "id": 1282,
+      "nombre": "ROBOTECH",
+      "cantidad": 1
+    },
+    {
+      "id": 1051,
+      "nombre": "JACK-HEARTS",
+      "cantidad": 1
+    },
+    {
+      "id": 1210,
+      "nombre": "4-FINAL-FIGHT",
+      "cantidad": 1
+    },
+    {
+      "id": 1171,
+      "nombre": "ROBIN",
+      "cantidad": 1
+    },
+    {
+      "id": 1285,
+      "nombre": "BANJO-KAZOOIE",
+      "cantidad": 1
+    },
+    {
+      "id": 1062,
+      "nombre": "SP- SPIDERMAN-2",
+      "cantidad": 1
+    },
+    {
+      "id": 1288,
+      "nombre": "JAK-&-DAXTER",
+      "cantidad": 1
+    },
+    {
+      "id": 1087,
+      "nombre": "1-LA-BANDA-DEL-PATIO",
+      "cantidad": 1
+    },
+    {
+      "id": 1232,
+      "nombre": "TINTIN-&-MILU",
+      "cantidad": 1
+    },
+    {
+      "id": 1281,
+      "nombre": "KOJI-&-MAZINGER-Z",
+      "cantidad": 1
+    },
+    {
+      "id": 1266,
+      "nombre": "CHRONO",
+      "cantidad": 2
     }
   ]
 }
