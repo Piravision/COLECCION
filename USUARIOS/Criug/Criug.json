@@ -5449,7 +5449,7 @@
         {
             "id": 1129,
             "nombre": "CRITTER-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1207,
@@ -6284,6 +6284,11 @@
         {
             "id": 1127,
             "nombre": "SHINJI-IKARI",
+            "cantidad": 1
+        },
+        {
+            "id": 1287,
+            "nombre": "IORI-YAGAMI",
             "cantidad": 1
         }
     ]
