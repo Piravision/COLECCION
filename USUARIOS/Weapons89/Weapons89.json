@@ -3949,7 +3949,7 @@
         {
             "id": 1035,
             "nombre": "CAPITAN BRITANIA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 406,
@@ -4874,6 +4874,11 @@
         {
             "id": 1250,
             "nombre": "MIAMI-VICE",
+            "cantidad": 1
+        },
+        {
+            "id": 1293,
+            "nombre": "ALF",
             "cantidad": 1
         }
     ]
