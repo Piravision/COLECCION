@@ -3839,7 +3839,7 @@
         {
             "id": 406,
             "nombre": "turcos",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 850,
@@ -4299,7 +4299,7 @@
         {
             "id": 1188,
             "nombre": "CARMEN-SANDIEGO",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 400,
@@ -4359,7 +4359,7 @@
         {
             "id": 260,
             "nombre": "Princesa Luna",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 244,
@@ -5559,6 +5559,16 @@
         {
             "id": 1064,
             "nombre": "SP- VENOM-2",
+            "cantidad": 1
+        },
+        {
+            "id": 427,
+            "nombre": "psyco",
+            "cantidad": 1
+        },
+        {
+            "id": 39,
+            "nombre": "captain",
             "cantidad": 1
         }
     ]
