@@ -234,7 +234,7 @@
         {
             "id": 276,
             "nombre": "Baxter",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 260,
@@ -6104,6 +6104,11 @@
         {
             "id": 1059,
             "nombre": "PUNISHER",
+            "cantidad": 1
+        },
+        {
+            "id": 1081,
+            "nombre": "X -WOLVERINE",
             "cantidad": 1
         }
     ]
