@@ -1574,7 +1574,7 @@
     {
       "id": 119,
       "nombre": "orko",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 213,
@@ -3119,7 +3119,7 @@
     {
       "id": 425,
       "nombre": "ocelot",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 777,
@@ -6289,6 +6289,11 @@
     {
       "id": 1287,
       "nombre": "IORI-YAGAMI",
+      "cantidad": 1
+    },
+    {
+      "id": 1255,
+      "nombre": "STARGATE-SG-1",
       "cantidad": 1
     }
   ]
