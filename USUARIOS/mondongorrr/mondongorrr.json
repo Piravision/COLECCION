@@ -754,7 +754,7 @@
         {
             "id": 217,
             "nombre": "Cobra   H.I.S.S.",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 666,
@@ -5619,6 +5619,11 @@
         {
             "id": 214,
             "nombre": "Brimstar",
+            "cantidad": 1
+        },
+        {
+            "id": 210,
+            "nombre": "AEROWING",
             "cantidad": 1
         }
     ]
