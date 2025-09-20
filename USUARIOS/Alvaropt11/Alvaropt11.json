@@ -1114,7 +1114,7 @@
         {
             "id": 668,
             "nombre": "DB-056",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 728,
@@ -6069,6 +6069,11 @@
         {
             "id": 1188,
             "nombre": "CARMEN-SANDIEGO",
+            "cantidad": 1
+        },
+        {
+            "id": 1139,
+            "nombre": "MARSUPILAMI",
             "cantidad": 1
         }
     ]
