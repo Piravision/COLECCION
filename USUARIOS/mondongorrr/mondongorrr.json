@@ -1619,7 +1619,7 @@
         {
             "id": 242,
             "nombre": "Tiger Force",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 781,
@@ -5609,6 +5609,11 @@
         {
             "id": 822,
             "nombre": "SHAO-KAHN",
+            "cantidad": 1
+        },
+        {
+            "id": 231,
+            "nombre": "Manual de Avan",
             "cantidad": 1
         }
     ]
