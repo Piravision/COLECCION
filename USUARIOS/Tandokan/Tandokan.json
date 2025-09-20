@@ -2104,7 +2104,7 @@
         {
             "id": 889,
             "nombre": "LUKE-CAGE",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 736,
@@ -5549,6 +5549,11 @@
         {
             "id": 575,
             "nombre": "A.GALVAN",
+            "cantidad": 1
+        },
+        {
+            "id": 884,
+            "nombre": "IRON-FIST",
             "cantidad": 1
         }
     ]
