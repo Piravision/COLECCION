@@ -5634,7 +5634,7 @@
         {
             "id": 1243,
             "nombre": "EXPEDIENTE-X",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1157,
@@ -6079,6 +6079,11 @@
         {
             "id": 1210,
             "nombre": "4-FINAL-FIGHT",
+            "cantidad": 1
+        },
+        {
+            "id": 1092,
+            "nombre": "CAZAFANTASMAS",
             "cantidad": 1
         }
     ]
