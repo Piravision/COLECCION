@@ -3679,7 +3679,7 @@
         {
             "id": 277,
             "nombre": "Baxter",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 807,
@@ -6099,6 +6099,11 @@
         {
             "id": 1036,
             "nombre": "CAPITAN MARVEL",
+            "cantidad": 1
+        },
+        {
+            "id": 1059,
+            "nombre": "PUNISHER",
             "cantidad": 1
         }
     ]
