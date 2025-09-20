@@ -4394,7 +4394,7 @@
         {
             "id": 1245,
             "nombre": "PUNKY-BREWSTER",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1215,
@@ -4894,6 +4894,11 @@
         {
             "id": 276,
             "nombre": "Baxter",
+            "cantidad": 1
+        },
+        {
+            "id": 578,
+            "nombre": "BENJI-PRICE",
             "cantidad": 1
         }
     ]
