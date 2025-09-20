@@ -2804,7 +2804,7 @@
         {
             "id": 58,
             "nombre": "rey romos",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 399,
@@ -5639,6 +5639,11 @@
         {
             "id": 801,
             "nombre": "RED-CLAW",
+            "cantidad": 1
+        },
+        {
+            "id": 907,
+            "nombre": "FLASH",
             "cantidad": 1
         }
     ]

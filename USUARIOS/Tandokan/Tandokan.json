@@ -1999,7 +1999,7 @@
         {
             "id": 907,
             "nombre": "FLASH",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 436,
@@ -5539,6 +5539,11 @@
         {
             "id": 15,
             "nombre": "Zula",
+            "cantidad": 1
+        },
+        {
+            "id": 58,
+            "nombre": "rey romos",
             "cantidad": 1
         }
     ]
