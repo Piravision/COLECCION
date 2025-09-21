@@ -3794,7 +3794,7 @@
         {
             "id": 347,
             "nombre": "Lizard",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 934,
@@ -5054,6 +5054,11 @@
         {
             "id": 71,
             "nombre": "herhero",
+            "cantidad": 1
+        },
+        {
+            "id": 634,
+            "nombre": "DB-022",
             "cantidad": 1
         }
     ]
