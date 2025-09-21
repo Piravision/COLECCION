@@ -4104,7 +4104,7 @@
         {
             "id": 1271,
             "nombre": "FA-OUT-RUN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 815,
@@ -4994,6 +4994,11 @@
         {
             "id": 1187,
             "nombre": "CRIPTA-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 740,
+            "nombre": "Athenea2",
             "cantidad": 1
         }
     ]
