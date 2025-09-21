@@ -1214,7 +1214,7 @@
         {
             "id": 574,
             "nombre": "UNDERTAKER",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 696,
@@ -5039,6 +5039,11 @@
         {
             "id": 154,
             "nombre": "Grease Pit",
+            "cantidad": 1
+        },
+        {
+            "id": 609,
+            "nombre": "STEFAN-LEVI",
             "cantidad": 1
         }
     ]
