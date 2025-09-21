@@ -1599,7 +1599,7 @@
         {
             "id": 715,
             "nombre": "DB-103",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 417,
@@ -5759,6 +5759,11 @@
         {
             "id": 657,
             "nombre": "DB-045",
+            "cantidad": 1
+        },
+        {
+            "id": 696,
+            "nombre": "DB-084",
             "cantidad": 1
         }
     ]
