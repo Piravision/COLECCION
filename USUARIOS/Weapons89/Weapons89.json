@@ -2689,7 +2689,7 @@
         {
             "id": 1001,
             "nombre": "MUSCULMAN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 597,
@@ -3979,7 +3979,7 @@
         {
             "id": 911,
             "nombre": "MARTHA-KENT",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1007,
@@ -4679,7 +4679,7 @@
         {
             "id": 1242,
             "nombre": "EQUIPO-A",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1263,
@@ -5024,6 +5024,16 @@
         {
             "id": 140,
             "nombre": "Mallory McMallard",
+            "cantidad": 1
+        },
+        {
+            "id": 1151,
+            "nombre": "BATMAN",
+            "cantidad": 1
+        },
+        {
+            "id": 63,
+            "nombre": "drabaran",
             "cantidad": 1
         }
     ]
