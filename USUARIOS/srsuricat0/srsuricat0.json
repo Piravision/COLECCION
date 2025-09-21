@@ -994,7 +994,7 @@
     {
       "id": 280,
       "nombre": "General Traag",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 34,
@@ -1299,7 +1299,7 @@
     {
       "id": 400,
       "nombre": "cid",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 274,
@@ -1564,7 +1564,7 @@
     {
       "id": 331,
       "nombre": "Mente Maestra",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 493,
@@ -1819,7 +1819,7 @@
     {
       "id": 181,
       "nombre": "Hydro man",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 489,
@@ -2964,7 +2964,7 @@
     {
       "id": 743,
       "nombre": "Dark-Afrodita-de-Piscis",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 607,
@@ -5669,6 +5669,11 @@
     {
       "id": 937,
       "nombre": "TRIPLE-H",
+      "cantidad": 1
+    },
+    {
+      "id": 1268,
+      "nombre": "EZIO-AUDITORE",
       "cantidad": 1
     }
   ]

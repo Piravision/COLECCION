@@ -404,7 +404,7 @@
         {
             "id": 540,
             "nombre": "CHUCK-NORRIS",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 12,
@@ -3664,7 +3664,7 @@
         {
             "id": 483,
             "nombre": "Spider-Woman",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 968,
@@ -6184,6 +6184,86 @@
         {
             "id": 1128,
             "nombre": "VASH-ESTAMPIDA",
+            "cantidad": 1
+        },
+        {
+            "id": 1296,
+            "nombre": "CANDY",
+            "cantidad": 1
+        },
+        {
+            "id": 1279,
+            "nombre": "GRAN-HEROE-AMERICANO",
+            "cantidad": 1
+        },
+        {
+            "id": 1294,
+            "nombre": "LOS-PROBLEMAS-CRECEN",
+            "cantidad": 1
+        },
+        {
+            "id": 1259,
+            "nombre": "FA-CHRONO-TRIGGER",
+            "cantidad": 1
+        },
+        {
+            "id": 1065,
+            "nombre": "TH - LOKI-2",
+            "cantidad": 1
+        },
+        {
+            "id": 1054,
+            "nombre": "MSMARVEL",
+            "cantidad": 1
+        },
+        {
+            "id": 1287,
+            "nombre": "IORI-YAGAMI",
+            "cantidad": 1
+        },
+        {
+            "id": 1131,
+            "nombre": "AB-ASTERIX",
+            "cantidad": 1
+        },
+        {
+            "id": 1255,
+            "nombre": "STARGATE-SG-1",
+            "cantidad": 1
+        },
+        {
+            "id": 1138,
+            "nombre": "LUCKY-LUKE",
+            "cantidad": 1
+        },
+        {
+            "id": 1262,
+            "nombre": "FA-SONIC",
+            "cantidad": 1
+        },
+        {
+            "id": 1181,
+            "nombre": "DEXTER",
+            "cantidad": 1
+        },
+        {
+            "id": 1112,
+            "nombre": "LA-MASCARA",
+            "cantidad": 1
+        },
+        {
+            "id": 1263,
+            "nombre": "SALVADOS-POR-LA-CAMPANA",
+            "cantidad": 1
+        },
+        {
+            "id": 1151,
+            "nombre": "BATMAN",
+            "cantidad": 1
+        },
+        {
+            "id": 1267,
+            "nombre": "DARKSTALKERS",
             "cantidad": 1
         }
     ]

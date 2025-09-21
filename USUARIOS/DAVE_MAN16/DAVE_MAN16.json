@@ -314,7 +314,7 @@
     {
       "id": 358,
       "nombre": "jenny",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 413,
@@ -1449,7 +1449,7 @@
     {
       "id": 139,
       "nombre": "Duke L'Orange",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 237,
@@ -2119,7 +2119,7 @@
     {
       "id": 1056,
       "nombre": "NOVA-2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1125,
@@ -2479,7 +2479,7 @@
     {
       "id": 360,
       "nombre": "stung",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1279,
@@ -2814,6 +2814,16 @@
     {
       "id": 874,
       "nombre": "CAPTAIN-AMERICA",
+      "cantidad": 1
+    },
+    {
+      "id": 359,
+      "nombre": "long",
+      "cantidad": 1
+    },
+    {
+      "id": 705,
+      "nombre": "DB-093",
       "cantidad": 1
     }
   ]
