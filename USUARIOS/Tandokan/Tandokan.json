@@ -4294,7 +4294,7 @@
         {
             "id": 1187,
             "nombre": "CRIPTA-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1188,
@@ -5894,6 +5894,11 @@
         {
             "id": 716,
             "nombre": "DB-104",
+            "cantidad": 1
+        },
+        {
+            "id": 1206,
+            "nombre": "3a-SONIC",
             "cantidad": 1
         }
     ]
