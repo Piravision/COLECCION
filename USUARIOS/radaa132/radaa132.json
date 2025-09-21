@@ -1364,7 +1364,7 @@
     {
       "id": 383,
       "nombre": "viper",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 928,
@@ -2789,7 +2789,7 @@
     {
       "id": 732,
       "nombre": "DB-120",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 516,
@@ -3809,6 +3809,11 @@
     {
       "id": 1243,
       "nombre": "EXPEDIENTE-X",
+      "cantidad": 1
+    },
+    {
+      "id": 1061,
+      "nombre": "SHANG-CHI",
       "cantidad": 1
     }
   ]
