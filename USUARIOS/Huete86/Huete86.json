@@ -5634,7 +5634,7 @@
         {
             "id": 1243,
             "nombre": "EXPEDIENTE-X",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1157,
@@ -6184,6 +6184,11 @@
         {
             "id": 1135,
             "nombre": "GUARDIAN-DE-LA-CRIPTA",
+            "cantidad": 1
+        },
+        {
+            "id": 1235,
+            "nombre": "0-LOS-VISITANTES",
             "cantidad": 1
         }
     ]
