@@ -5324,7 +5324,7 @@
         {
             "id": 1128,
             "nombre": "VASH-ESTAMPIDA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1081,
@@ -5774,6 +5774,11 @@
         {
             "id": 1243,
             "nombre": "EXPEDIENTE-X",
+            "cantidad": 1
+        },
+        {
+            "id": 1180,
+            "nombre": "C3PO-R2D2",
             "cantidad": 1
         }
     ]
