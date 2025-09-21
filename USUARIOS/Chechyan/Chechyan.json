@@ -144,7 +144,7 @@
     {
       "id": 255,
       "nombre": "Ma Mutt",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 795,
@@ -1239,12 +1239,12 @@
     {
       "id": 542,
       "nombre": "DIE-HARD",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 693,
       "nombre": "DB-081",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 422,
@@ -2379,7 +2379,7 @@
     {
       "id": 1156,
       "nombre": "ELONGATE MAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 858,
@@ -2874,7 +2874,7 @@
     {
       "id": 619,
       "nombre": "DB-007",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 454,
@@ -3144,7 +3144,7 @@
     {
       "id": 345,
       "nombre": "alundra",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 346,
@@ -3269,6 +3269,36 @@
     {
       "id": 1115,
       "nombre": "PF-GARGAMEL-&-AZRAEL",
+      "cantidad": 1
+    },
+    {
+      "id": 184,
+      "nombre": "Lizard",
+      "cantidad": 1
+    },
+    {
+      "id": 1090,
+      "nombre": "ANIMANIACS",
+      "cantidad": 1
+    },
+    {
+      "id": 783,
+      "nombre": "BRUCE-WAYNE",
+      "cantidad": 1
+    },
+    {
+      "id": 1273,
+      "nombre": "KINGDOM-HEARTS",
+      "cantidad": 1
+    },
+    {
+      "id": 448,
+      "nombre": "leon1",
+      "cantidad": 1
+    },
+    {
+      "id": 163,
+      "nombre": "Ben Parker",
       "cantidad": 1
     }
   ]

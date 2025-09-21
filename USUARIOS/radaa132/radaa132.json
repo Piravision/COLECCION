@@ -1839,7 +1839,7 @@
     {
       "id": 348,
       "nombre": "Meia",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 744,
@@ -2089,7 +2089,7 @@
     {
       "id": 507,
       "nombre": "KING",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 698,
@@ -2584,7 +2584,7 @@
     {
       "id": 946,
       "nombre": "SLOTH-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 644,
@@ -3574,7 +3574,7 @@
     {
       "id": 455,
       "nombre": "batsu",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 730,
@@ -3754,6 +3754,61 @@
     {
       "id": 1143,
       "nombre": "PINKY-&-CEREBRO",
+      "cantidad": 1
+    },
+    {
+      "id": 935,
+      "nombre": "STONE-COLD",
+      "cantidad": 1
+    },
+    {
+      "id": 50,
+      "nombre": "Lonberuk",
+      "cantidad": 1
+    },
+    {
+      "id": 953,
+      "nombre": "12-MARCO-&-AMELIO",
+      "cantidad": 1
+    },
+    {
+      "id": 492,
+      "nombre": "toasty",
+      "cantidad": 1
+    },
+    {
+      "id": 1255,
+      "nombre": "STARGATE-SG-1",
+      "cantidad": 1
+    },
+    {
+      "id": 278,
+      "nombre": "Bebop",
+      "cantidad": 1
+    },
+    {
+      "id": 1270,
+      "nombre": "FA-MONKEY-ISLAND",
+      "cantidad": 1
+    },
+    {
+      "id": 587,
+      "nombre": "EDDY-BRIGHT",
+      "cantidad": 1
+    },
+    {
+      "id": 640,
+      "nombre": "DB-028",
+      "cantidad": 1
+    },
+    {
+      "id": 336,
+      "nombre": "Hyōga de Cisne",
+      "cantidad": 1
+    },
+    {
+      "id": 1243,
+      "nombre": "EXPEDIENTE-X",
       "cantidad": 1
     }
   ]

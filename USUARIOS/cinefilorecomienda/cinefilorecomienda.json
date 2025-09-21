@@ -259,7 +259,7 @@
     {
       "id": 877,
       "nombre": "ENCHANTRESS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 862,
@@ -709,7 +709,7 @@
     {
       "id": 221,
       "nombre": "Espada Atlantean",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 681,
@@ -784,7 +784,7 @@
     {
       "id": 859,
       "nombre": "JASON-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 563,
@@ -1064,7 +1064,7 @@
     {
       "id": 325,
       "nombre": "Apocalipsis",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 707,
@@ -1624,7 +1624,7 @@
     {
       "id": 333,
       "nombre": "Omega Rojo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 853,
@@ -1639,7 +1639,7 @@
     {
       "id": 230,
       "nombre": "Mansion X",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 627,
@@ -1749,7 +1749,7 @@
     {
       "id": 180,
       "nombre": "Electro",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1000,
@@ -1834,7 +1834,7 @@
     {
       "id": 763,
       "nombre": "black",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 768,
@@ -1964,7 +1964,7 @@
     {
       "id": 1021,
       "nombre": "4F COSA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1015,
@@ -2084,7 +2084,7 @@
     {
       "id": 530,
       "nombre": "Axel-Foley-Jail",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 533,
@@ -2154,7 +2154,7 @@
     {
       "id": 92,
       "nombre": "Brooklyn",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 98,
@@ -2224,7 +2224,7 @@
     {
       "id": 165,
       "nombre": "Daredevil",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 512,
@@ -3064,7 +3064,7 @@
     {
       "id": 382,
       "nombre": "serge",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1265,
@@ -3094,6 +3094,61 @@
     {
       "id": 125,
       "nombre": "Teela",
+      "cantidad": 1
+    },
+    {
+      "id": 651,
+      "nombre": "DB-039",
+      "cantidad": 1
+    },
+    {
+      "id": 100,
+      "nombre": "Flint",
+      "cantidad": 1
+    },
+    {
+      "id": 1039,
+      "nombre": "DAREDEVIL-2",
+      "cantidad": 1
+    },
+    {
+      "id": 1050,
+      "nombre": "IRON-MAN-2",
+      "cantidad": 1
+    },
+    {
+      "id": 625,
+      "nombre": "DB-013",
+      "cantidad": 1
+    },
+    {
+      "id": 918,
+      "nombre": "DIANA",
+      "cantidad": 1
+    },
+    {
+      "id": 1193,
+      "nombre": "ULISES-31",
+      "cantidad": 1
+    },
+    {
+      "id": 1216,
+      "nombre": "5-NINJA-GAIDEN",
+      "cantidad": 1
+    },
+    {
+      "id": 1250,
+      "nombre": "MIAMI-VICE",
+      "cantidad": 1
+    },
+    {
+      "id": 951,
+      "nombre": "10-DANIEL-EL-TRAVIESO",
+      "cantidad": 1
+    },
+    {
+      "id": 1206,
+      "nombre": "3a-SONIC",
       "cantidad": 1
     }
   ]
