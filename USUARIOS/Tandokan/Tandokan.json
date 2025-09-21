@@ -929,7 +929,7 @@
         {
             "id": 232,
             "nombre": "Mousers",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 836,
@@ -5884,6 +5884,11 @@
         {
             "id": 625,
             "nombre": "DB-013",
+            "cantidad": 1
+        },
+        {
+            "id": 693,
+            "nombre": "DB-081",
             "cantidad": 1
         }
     ]

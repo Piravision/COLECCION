@@ -1844,7 +1844,7 @@
         {
             "id": 693,
             "nombre": "DB-081",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 457,
@@ -4979,6 +4979,11 @@
         {
             "id": 253,
             "nombre": "Buitro",
+            "cantidad": 1
+        },
+        {
+            "id": 232,
+            "nombre": "Mousers",
             "cantidad": 1
         }
     ]
