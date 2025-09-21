@@ -1,0 +1,2176 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colección de Cromos de rafael_antunez</title>
+    <style>
+    body {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #0c0c0c;
+        color: #f4f4f4;
+        position: relative;
+    }
+
+    .header {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background: #1f1f1f;
+        padding: 10px 20px;
+    }
+
+    .logo-container {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .logo {
+        max-height: 160px;
+        height: auto;
+        width: auto;
+    }
+
+    @media (max-width: 600px) {
+        .logo {
+            max-height: 120px;
+        }
+    }
+
+    .social-icons {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-bottom: 10px;
+    }
+
+    .social-icons img {
+        width: 35px;
+        height: 35px;
+        transition: transform 0.2s;
+    }
+
+    .social-icons img:hover {
+        transform: scale(1.1);
+    }
+
+    .container {
+        width: 90%;
+        max-width: 1200px;
+        margin: auto;
+        padding: 20px;
+        position: relative;
+        z-index: 2;
+    }
+
+    /* Fondo atenuado con la nueva imagen */
+    .background {
+        position: fixed;
+        top: 0; left: 0;
+        width: 100%; height: 100%;
+        z-index: -1;
+        filter: blur(15px) brightness(0.3);
+        background: url('https://piravision.github.io/COLECCION/dorsocarta.png') no-repeat center center;
+        background-size: cover;
+    }
+
+    .content {
+        background: rgba(255, 255, 255, 0.07);
+        border-radius: 10px;
+        padding: 20px;
+        margin-bottom: 30px;
+    }
+
+    .section-title-1 {
+        border-bottom: 2px solid #ff9900;
+        margin-bottom: 10px;
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+    }
+
+    .section-title-1 h2 {
+        margin: 0;
+        font-size: 1.4rem;
+        color: #ff9900;
+    }
+    
+    .section-title-1 span {
+        font-size: 1.2rem;
+        color: #fff;
+    }
+
+    .section-title-2 {
+        margin-top: 20px;
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+    }
+
+    .section-title-2 h2 {
+        margin: 0;
+        font-size: 1.2rem;
+    }
+
+    .section-title-2 span {
+        font-size: 1rem;
+        color: #ccc;
+    }
+
+    .coleccion {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+        padding: 20px 0;
+        justify-content: flex-start;
+    }
+
+    .cromo-card {
+        flex: 0 0 auto;
+        width: 200px;
+        border: 2px solid #555;
+        border-radius: 10px;
+        padding: 10px;
+        background-color: #333;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+        text-align: center;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .cromo-card a {
+        cursor: pointer;
+        text-decoration: none;
+        color: inherit;
+    }
+
+    .cromo-img-container {
+        width: 100%;
+        aspect-ratio: 1 / 1;
+        overflow: hidden;
+        border-radius: 5px;
+        margin-bottom: 10px;
+    }
+
+    .cromo-img-container img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .cromo-card h3 {
+        margin: auto 0 5px;
+        font-size: 1.2em;
+    }
+
+    .cromo-card p {
+        margin: 5px 0 0;
+        font-size: 0.9em;
+        color: #ccc;
+    }
+
+    .cromo-numero {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        background-color: #ff9900;
+        color: #111;
+        padding: 5px 10px;
+        border-radius: 5px;
+        font-weight: bold;
+    }
+
+    .footer {
+        text-align: center;
+        padding: 10px;
+        background: #111;
+        color: #fff;
+    }
+
+    a {
+        color: #ff9900;
+        text-decoration: none;
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+    /* Estilos del modal */
+    .modal {
+        display: none;
+        position: fixed;
+        z-index: 100;
+        padding-top: 50px;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        overflow: auto;
+        background-color: rgba(0,0,0,0.9);
+    }
+
+    .modal-content {
+        margin: auto;
+        display: block;
+        width: 80%;
+        max-width: 700px;
+    }
+
+    .modal-info {
+        text-align: center;
+        color: #fff;
+        margin-top: 10px;
+    }
+
+    .modal-content, .modal-info {
+        animation-name: zoom;
+        animation-duration: 0.6s;
+    }
+
+    @keyframes zoom {
+        from {transform: scale(0)}
+        to {transform: scale(1)}
+    }
+
+    .close {
+        position: absolute;
+        top: 15px;
+        right: 35px;
+        color: #f1f1f1;
+        font-size: 40px;
+        font-weight: bold;
+        transition: 0.3s;
+        cursor: pointer;
+    }
+
+    .close:hover,
+    .close:focus {
+        color: #bbb;
+        text-decoration: none;
+        cursor: pointer;
+    }
+    
+    /* Estilos del buscador de usuario */
+    .search-container {
+        background: rgba(255, 255, 255, 0.07);
+        border-radius: 10px;
+        padding: 20px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    
+    .search-container input, .search-container button {
+        padding: 10px;
+        border-radius: 5px;
+        border: none;
+        margin: 5px;
+        font-size: 1rem;
+    }
+    
+    .search-container input {
+        background-color: #222;
+        color: #fff;
+    }
+    
+    .search-container button {
+        background-color: #ff9900;
+        color: #111;
+        cursor: pointer;
+        font-weight: bold;
+    }
+    
+    /* Logo antes del buscador */
+    .search-logo-container {
+        text-align: center;
+        margin: 20px 0;
+    }
+	
+	
+	
+	
+    /* ESTILOS DE LA CUADRÍCULA DE SERIES */
+	.summary-grid-container {
+		margin-top: 20px;
+		margin-bottom: 30px;
+	}
+
+	.summary-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+		gap: 15px;
+		justify-content: center;
+	}
+
+	.summary-button {
+		position: relative;
+		overflow: hidden;
+		display: flex;
+		justify-content: flex-end; /* Alinea los elementos al final del contenedor */
+		align-items: flex-end; /* Alinea los elementos a la derecha del contenedor */
+		aspect-ratio: 1 / 1;
+		padding: 10px;
+		border: 1px solid #444;
+		border-radius: 10px;
+		transition: transform 0.2s;
+		text-align: center;
+		cursor: pointer;
+		background-color: transparent;
+	}
+
+	.summary-button:hover {
+		transform: scale(1.05);
+	}
+
+	/* Estilos de la imagen como fondo */
+	.summary-button-image {
+		width: 100%;
+		height: 100%;
+		object-fit: contain;
+		position: absolute;
+		top: 0;
+		left: 0;
+		z-index: 0;
+		border-radius: 10px;
+	}
+
+	/* Estilos para el texto del contador */
+	.summary-button-counter {
+		position: relative; /* Lo eleva por encima de la imagen */
+		z-index: 1; /* Valor mayor que el de la imagen */
+		background-color: rgba(0, 0, 0, 0.6);
+		padding: 3px 8px;
+		border-radius: 5px;
+		margin: 2px;
+		font-size: 0.8em;
+		color: #ff9900;
+	}
+</style>
+</head>
+<body>
+    <div class="header">
+        <div class="logo-container">
+            <a href="https://piravision.github.io/App/" target="_blank">
+                <img src="https://cdn.streamelements.com/uploads/fa3fe2b3-134b-4288-bfef-29948befc05f.png" alt="Logo" class="logo">
+            </a>
+        </div>
+        <div class="social-icons">
+            <a href="https://www.twitch.tv/piravision" target="_blank">
+                <img src="https://cdn.streamelements.com/uploads/4e340b43-7b0e-4bad-81d4-197c233827c4.png" alt="Twitch">
+            </a>
+            <a href="https://kick.com/piravision" target="_blank">
+                <img src="https://cdn.streamelements.com/uploads/9e660f91-49cb-476f-b328-8a1e5d9706ae.png" alt="Kick">
+            </a>
+            <a href="https://discord.gg/7VEzeTy55R" target="_blank">
+                <img src="https://cdn.streamelements.com/uploads/e731c1a0-344f-432d-bbf8-0590844f7e25.png" alt="Discord">
+            </a>
+            <a href="https://x.com/PiraVision" target="_blank">
+                <img src="https://cdn.streamelements.com/uploads/aecdfafd-fb1e-41d7-91ff-cc7d5cb34a32.png" alt="X (Twitter)">
+            </a>
+            <a href="https://t.me/+UD7ZygM3MrlhNjg0" target="_blank">
+                <img src="https://cdn.streamelements.com/uploads/16594692-335f-470e-9beb-fd542023ec96.png" alt="Telegram">
+            </a>
+        </div>
+    </div>
+
+    <div class="background"></div>
+    
+	 <div class="container">
+        <div class="search-logo-container">
+            <img src="https://piravision.github.io/COLECCION/logo.png" alt="Colección de Cromos" class="search-logo">
+        </div>
+	
+	<div class="container">
+
+        <div class="search-container">
+            <label for="usernameInput"><h2>Buscar colección de usuario</h2></label>
+            <input type="text" id="usernameInput" placeholder="Introduce el nombre de usuario">
+            <button onclick="buscarColeccion()">Buscar</button>
+            <p style="font-size: 0.9em; color: #aaa; margin-top: 10px;">¡Hola Piraviewer! Introduce tu usuario de Kick para ver tu álbum personal.</p>
+        </div>
+
+        <div class="content">
+            <div class="section-title-1">
+                <h2>Colección de Cromos de rafael_antunez</h2>
+                <span>Cartas obtenidas: 92 / 549</span>
+            </div>
+            
+            <div class="details">
+                <div class="info">
+                    <div class="summary-grid-container">
+    <h2>Resumen por Serie</h2>
+					<div class="summary-grid">
+						
+							<div class="summary-button" onclick="mostrarCartas('Alundra')">
+								<img src="/COLECCION/botones/alundra.png" alt="Alundra" class="summary-button-image">
+								<span class="summary-button-counter">1 / 9</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('BraveStarr')">
+								<img src="/COLECCION/botones/bravestarr.png" alt="BraveStarr" class="summary-button-image">
+								<span class="summary-button-counter">1 / 4</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Caballeros del Zodiaco')">
+								<img src="/COLECCION/botones/caballeros-del-zodiaco.png" alt="Caballeros del Zodiaco" class="summary-button-image">
+								<span class="summary-button-counter">4 / 10</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Castlevania')">
+								<img src="/COLECCION/botones/castlevania.png" alt="Castlevania" class="summary-button-image">
+								<span class="summary-button-counter">1 / 10</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Chrono Cross')">
+								<img src="/COLECCION/botones/chrono-cross.png" alt="Chrono Cross" class="summary-button-image">
+								<span class="summary-button-counter">1 / 9</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Conan El Bárbaro')">
+								<img src="/COLECCION/botones/conan-el-bárbaro.png" alt="Conan El Bárbaro" class="summary-button-image">
+								<span class="summary-button-counter">3 / 13</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Crash Bandicoot')">
+								<img src="/COLECCION/botones/crash-bandicoot.png" alt="Crash Bandicoot" class="summary-button-image">
+								<span class="summary-button-counter">1 / 11</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Dragon Quest')">
+								<img src="/COLECCION/botones/dragon-quest.png" alt="Dragon Quest" class="summary-button-image">
+								<span class="summary-button-counter">13 / 57</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('FFVII')">
+								<img src="/COLECCION/botones/ffvii.png" alt="FFVII" class="summary-button-image">
+								<span class="summary-button-counter">3 / 13</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Galaxy Rangers')">
+								<img src="/COLECCION/botones/galaxy-rangers.png" alt="Galaxy Rangers" class="summary-button-image">
+								<span class="summary-button-counter">2 / 4</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Gargoyles')">
+								<img src="/COLECCION/botones/gargoyles.png" alt="Gargoyles" class="summary-button-image">
+								<span class="summary-button-counter">3 / 12</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Gijoe')">
+								<img src="/COLECCION/botones/gijoe.png" alt="Gijoe" class="summary-button-image">
+								<span class="summary-button-counter">6 / 16</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Heman')">
+								<img src="/COLECCION/botones/heman.png" alt="Heman" class="summary-button-image">
+								<span class="summary-button-counter">1 / 19</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Metal Gear Solid')">
+								<img src="/COLECCION/botones/metal-gear-solid.png" alt="Metal Gear Solid" class="summary-button-image">
+								<span class="summary-button-counter">2 / 24</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Motorratones')">
+								<img src="/COLECCION/botones/motorratones.png" alt="Motorratones" class="summary-button-image">
+								<span class="summary-button-counter">1 / 10</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Resident Evil')">
+								<img src="/COLECCION/botones/resident-evil.png" alt="Resident Evil" class="summary-button-image">
+								<span class="summary-button-counter">2 / 12</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Rival School')">
+								<img src="/COLECCION/botones/rival-school.png" alt="Rival School" class="summary-button-image">
+								<span class="summary-button-counter">1 / 9</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Silent Hill')">
+								<img src="/COLECCION/botones/silent-hill.png" alt="Silent Hill" class="summary-button-image">
+								<span class="summary-button-counter">3 / 16</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Silverhawks')">
+								<img src="/COLECCION/botones/silverhawks.png" alt="Silverhawks" class="summary-button-image">
+								<span class="summary-button-counter">1 / 7</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Spiderman')">
+								<img src="/COLECCION/botones/spiderman.png" alt="Spiderman" class="summary-button-image">
+								<span class="summary-button-counter">3 / 30</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Street Sharks')">
+								<img src="/COLECCION/botones/street-sharks.png" alt="Street Sharks" class="summary-button-image">
+								<span class="summary-button-counter">5 / 17</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Terrenos&Objetos')">
+								<img src="/COLECCION/botones/terrenos&objetos.png" alt="Terrenos&Objetos" class="summary-button-image">
+								<span class="summary-button-counter">11 / 42</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('ThunderCats')">
+								<img src="/COLECCION/botones/thundercats.png" alt="ThunderCats" class="summary-button-image">
+								<span class="summary-button-counter">3 / 21</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Tortugas Ninja')">
+								<img src="/COLECCION/botones/tortugas-ninja.png" alt="Tortugas Ninja" class="summary-button-image">
+								<span class="summary-button-counter">4 / 30</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Transformers')">
+								<img src="/COLECCION/botones/transformers.png" alt="Transformers" class="summary-button-image">
+								<span class="summary-button-counter">6 / 18</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('Varios')">
+								<img src="/COLECCION/botones/varios.png" alt="Varios" class="summary-button-image">
+								<span class="summary-button-counter">5 / 26</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('X-Men')">
+								<img src="/COLECCION/botones/x-men.png" alt="X-Men" class="summary-button-image">
+								<span class="summary-button-counter">5 / 30</span>
+							</div>
+						
+					</div>
+				</div>
+                    
+                    <div id="cards-container">
+                        
+                            <div class="series-cards" id="series-Alundra" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Alundra</h2>
+                                    <span>Cartas obtenidas: 1 / 9</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 346</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '346', 'jess'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Alundra/PERSONAJE/jess.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Alundra/PERSONAJE/jess.png" alt="jess">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>jess (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-BraveStarr" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>BraveStarr</h2>
+                                    <span>Cartas obtenidas: 1 / 4</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 2</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '2', 'Bravestarr'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/BraveStarr/HERO/Bravestarr(5-12-2023-20_0).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/BraveStarr/HERO/Bravestarr(5-12-2023-20_0).png" alt="Bravestarr">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Bravestarr (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Caballeros-del-Zodiaco" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Caballeros del Zodiaco</h2>
+                                    <span>Cartas obtenidas: 4 / 10</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 5</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '5', 'Seiya de Pegaso'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Caballeros Zodiaco/HERO/Seiya-de-Pegaso(14-12-2023-21_19).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Caballeros Zodiaco/HERO/Seiya-de-Pegaso(14-12-2023-21_19).png" alt="Seiya de Pegaso">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Seiya de Pegaso (x1)</h3>
+                                                <p>Rareza: Legendario</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 6</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '6', 'El Patriarca'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Caballeros Zodiaco/VILLANO/El Patriarca.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Caballeros Zodiaco/VILLANO/El Patriarca.png" alt="El Patriarca">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>El Patriarca (x1)</h3>
+                                                <p>Rareza: Legendario</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 7</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '7', 'El Patriarca'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Caballeros Zodiaco/VILLANO/El-Patriarca(17-12-2023-18_10).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Caballeros Zodiaco/VILLANO/El-Patriarca(17-12-2023-18_10).png" alt="El Patriarca">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>El Patriarca (x1)</h3>
+                                                <p>Rareza: Legendario</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 8</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '8', 'Hades'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Caballeros Zodiaco/VILLANO/Hades(15-12-2023-2_47).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Caballeros Zodiaco/VILLANO/Hades(15-12-2023-2_47).png" alt="Hades">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Hades (x1)</h3>
+                                                <p>Rareza: Legendario</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Castlevania" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Castlevania</h2>
+                                    <span>Cartas obtenidas: 1 / 10</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 370</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '370', 'muerte'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Castlevania/PERSONAJE/muerte.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Castlevania/PERSONAJE/muerte.png" alt="muerte">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>muerte (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Chrono-Cross" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Chrono Cross</h2>
+                                    <span>Cartas obtenidas: 1 / 9</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 381</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '381', 'pj Chrono cross'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Chrono Cross/PERSONAJE/pj Chrono cross.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Chrono Cross/PERSONAJE/pj Chrono cross.png" alt="pj Chrono cross">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>pj Chrono cross (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Conan-El-Bárbaro" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Conan El Bárbaro</h2>
+                                    <span>Cartas obtenidas: 3 / 13</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 12</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '12', 'Jezmine'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Conan/HERO/Jezmine(5-12-2023-20_41).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Conan/HERO/Jezmine(5-12-2023-20_41).png" alt="Jezmine">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Jezmine (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 16</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '16', 'Dregs'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Conan/VILLANO/Dregs(5-12-2023-20_57).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Conan/VILLANO/Dregs(5-12-2023-20_57).png" alt="Dregs">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Dregs (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 22</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '22', 'Wrath Amon'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Conan/VILLANO/Wrath-Amon(5-12-2023-20_44).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Conan/VILLANO/Wrath-Amon(5-12-2023-20_44).png" alt="Wrath Amon">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Wrath Amon (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Crash-Bandicoot" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Crash Bandicoot</h2>
+                                    <span>Cartas obtenidas: 1 / 11</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 384</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '384', 'aku aku'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Crash Bandicoot/PERSONAJE/aku aku.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Crash Bandicoot/PERSONAJE/aku aku.png" alt="aku aku">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>aku aku (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Dragon-Quest" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Dragon Quest</h2>
+                                    <span>Cartas obtenidas: 13 / 57</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 36</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '36', 'baduck'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/HERO/baduck(24-3-2024-21_22).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/HERO/baduck(24-3-2024-21_22).png" alt="baduck">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>baduck (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 42</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '42', 'dai 2'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/HERO/dai 2(25-3-2024-2_26).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/HERO/dai 2(25-3-2024-2_26).png" alt="dai 2">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>dai 2 (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 43</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '43', 'eimi'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/HERO/eimi(24-3-2024-21_24) (1).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/HERO/eimi(24-3-2024-21_24) (1).png" alt="eimi">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>eimi (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 44</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '44', 'Fly'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/HERO/Fly(24-3-2024-21_12).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/HERO/Fly(24-3-2024-21_12).png" alt="Fly">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Fly (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 46</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '46', 'gome'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/HERO/gome(24-3-2024-21_27) (1).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/HERO/gome(24-3-2024-21_27) (1).png" alt="gome">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>gome (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 52</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '52', 'marin'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/HERO/marin(24-3-2024-21_31).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/HERO/marin(24-3-2024-21_31).png" alt="marin">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>marin (x2)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 54</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '54', 'merle'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/HERO/merle(24-3-2024-21_32) (1).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/HERO/merle(24-3-2024-21_32) (1).png" alt="merle">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>merle (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 55</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '55', 'mina'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/HERO/mina(25-3-2024-16_13).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/HERO/mina(25-3-2024-16_13).png" alt="mina">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>mina (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 57</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '57', 'pop'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/HERO/pop(24-3-2024-21_19).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/HERO/pop(24-3-2024-21_19).png" alt="pop">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>pop (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 62</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '62', 'derolin'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/VILLANO/derolin(25-3-2024-15_58).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/VILLANO/derolin(25-3-2024-15_58).png" alt="derolin">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>derolin (x2)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 68</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '68', 'galdandy'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/VILLANO/galdandy(25-3-2024-23_1).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/VILLANO/galdandy(25-3-2024-23_1).png" alt="galdandy">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>galdandy (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 74</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '74', 'larhart'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/VILLANO/larhart(25-3-2024-19_41).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/VILLANO/larhart(25-3-2024-19_41).png" alt="larhart">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>larhart (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 83</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '83', 'zamza'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/VILLANO/zamza(25-3-2024-23_5).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DRAGONQUEST/VILLANO/zamza(25-3-2024-23_5).png" alt="zamza">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>zamza (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-FFVII" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>FFVII</h2>
+                                    <span>Cartas obtenidas: 3 / 13</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 397</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '397', 'avalanche'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/FFVII/PERSONAJE/avalanche.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/FFVII/PERSONAJE/avalanche.png" alt="avalanche">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>avalanche (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 399</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '399', 'cait'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/FFVII/PERSONAJE/cait.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/FFVII/PERSONAJE/cait.png" alt="cait">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>cait (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 407</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '407', 'yuffie'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/FFVII/PERSONAJE/yuffie.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/FFVII/PERSONAJE/yuffie.png" alt="yuffie">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>yuffie (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Galaxy-Rangers" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Galaxy Rangers</h2>
+                                    <span>Cartas obtenidas: 2 / 4</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 85</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '85', 'Niko'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Galaxy Rangers/HERO/Niko(9-12-2023-5_26).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Galaxy Rangers/HERO/Niko(9-12-2023-5_26).png" alt="Niko">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Niko (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 87</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '87', 'Walter _Doc_ Hartford'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Galaxy Rangers/HERO/Walter-_Doc_-Hartford(9-12-2023-5_33).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Galaxy Rangers/HERO/Walter-_Doc_-Hartford(9-12-2023-5_33).png" alt="Walter _Doc_ Hartford">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Walter _Doc_ Hartford (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Gargoyles" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Gargoyles</h2>
+                                    <span>Cartas obtenidas: 3 / 12</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 91</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '91', 'Bronx'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Gargoyles/HERO/Bronx(5-12-2023-23_2).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Gargoyles/HERO/Bronx(5-12-2023-23_2).png" alt="Bronx">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Bronx (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 94</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '94', 'Goliath'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Gargoyles/HERO/Goliath(5-12-2023-22_44).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Gargoyles/HERO/Goliath(5-12-2023-22_44).png" alt="Goliath">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Goliath (x1)</h3>
+                                                <p>Rareza: Legendario</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 97</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '97', 'Armadura Xanatos'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Gargoyles/VILLANO/Armadura-Xanatos(5-12-2023-23_7).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Gargoyles/VILLANO/Armadura-Xanatos(5-12-2023-23_7).png" alt="Armadura Xanatos">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Armadura Xanatos (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Gijoe" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Gijoe</h2>
+                                    <span>Cartas obtenidas: 6 / 16</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 102</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '102', 'General Hawk'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Gijoe/HERO/General-Hawk(5-12-2023-0_13).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Gijoe/HERO/General-Hawk(5-12-2023-0_13).png" alt="General Hawk">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>General Hawk (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 103</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '103', 'Gung Ho'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Gijoe/HERO/Gung-Ho(4-12-2023-23_50).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Gijoe/HERO/Gung-Ho(4-12-2023-23_50).png" alt="Gung Ho">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Gung Ho (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 107</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '107', 'Snake Eyes'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Gijoe/HERO/Snake-Eyes(4-12-2023-23_37).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Gijoe/HERO/Snake-Eyes(4-12-2023-23_37).png" alt="Snake Eyes">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Snake Eyes (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 109</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '109', 'Cobra Commander'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Gijoe/VILLANO/Cobra-Commander(4-12-2023-23_1).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Gijoe/VILLANO/Cobra-Commander(4-12-2023-23_1).png" alt="Cobra Commander">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Cobra Commander (x2)</h3>
+                                                <p>Rareza: Legendario</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 114</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '114', 'Storm Shadow'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Gijoe/VILLANO/Storm-Shadow(4-12-2023-23_17).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Gijoe/VILLANO/Storm-Shadow(4-12-2023-23_17).png" alt="Storm Shadow">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Storm Shadow (x2)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 115</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '115', 'Zartan'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Gijoe/VILLANO/Zartan(4-12-2023-23_32).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Gijoe/VILLANO/Zartan(4-12-2023-23_32).png" alt="Zartan">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Zartan (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Heman" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Heman</h2>
+                                    <span>Cartas obtenidas: 1 / 19</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 132</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '132', 'Skeletor'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Heman/VILLANO/Skeletor(4-12-2023-13_23).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Heman/VILLANO/Skeletor(4-12-2023-13_23).png" alt="Skeletor">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Skeletor (x1)</h3>
+                                                <p>Rareza: Legendario</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Metal-Gear-Solid" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Metal Gear Solid</h2>
+                                    <span>Cartas obtenidas: 2 / 24</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 420</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '420', 'mei'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Metal Gear Solid/PERSONAJE/mei.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Metal Gear Solid/PERSONAJE/mei.png" alt="mei">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>mei (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 434</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '434', 'vulcan'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Metal Gear Solid/PERSONAJE/vulcan.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Metal Gear Solid/PERSONAJE/vulcan.png" alt="vulcan">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>vulcan (x2)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Motorratones" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Motorratones</h2>
+                                    <span>Cartas obtenidas: 1 / 10</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 147</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '147', 'Carbine'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Motorratones/HERO/Carbine(8-12-2023-0_33).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Motorratones/HERO/Carbine(8-12-2023-0_33).png" alt="Carbine">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Carbine (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Resident-Evil" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Resident Evil</h2>
+                                    <span>Cartas obtenidas: 2 / 12</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 447</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '447', 'hunk'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Resident Evil/PERSONAJE/hunk.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Resident Evil/PERSONAJE/hunk.png" alt="hunk">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>hunk (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 452</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '452', 'sherry'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Resident Evil/PERSONAJE/sherry.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Resident Evil/PERSONAJE/sherry.png" alt="sherry">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>sherry (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Rival-School" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Rival School</h2>
+                                    <span>Cartas obtenidas: 1 / 9</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 464</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '464', 'yamada'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Rival School/PERSONAJE/yamada.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Rival School/PERSONAJE/yamada.png" alt="yamada">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>yamada (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Silent-Hill" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Silent Hill</h2>
+                                    <span>Cartas obtenidas: 3 / 16</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 465</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '465', 'air'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Silent Hill/PERSONAJE/air.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Silent Hill/PERSONAJE/air.png" alt="air">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>air (x2)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 470</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '470', 'Floatstinger'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Silent Hill/PERSONAJE/Floatstinger.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Silent Hill/PERSONAJE/Floatstinger.png" alt="Floatstinger">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Floatstinger (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 476</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '476', 'Kaufman'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Silent Hill/PERSONAJE/Kaufman.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Silent Hill/PERSONAJE/Kaufman.png" alt="Kaufman">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Kaufman (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Silverhawks" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Silverhawks</h2>
+                                    <span>Cartas obtenidas: 1 / 7</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 481</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '481', 'Capitán-Stargazer'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Silverhawks/HERO/Capitán-Stargazer(9-12-2023-18_41).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Silverhawks/HERO/Capitán-Stargazer(9-12-2023-18_41).png" alt="Capitán-Stargazer">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Capitán-Stargazer (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Spiderman" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Spiderman</h2>
+                                    <span>Cartas obtenidas: 3 / 30</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 167</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '167', 'Gwen Stacy'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Spiderman/HERO/Gwen-Stacy(17-12-2023-19_30).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Spiderman/HERO/Gwen-Stacy(17-12-2023-19_30).png" alt="Gwen Stacy">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Gwen Stacy (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 184</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '184', 'Lizard'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Spiderman/VILLANO/Lizard(17-12-2023-17_34).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Spiderman/VILLANO/Lizard(17-12-2023-17_34).png" alt="Lizard">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Lizard (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 187</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '187', 'Rhyno'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Spiderman/VILLANO/Rhyno(17-12-2023-20_26).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Spiderman/VILLANO/Rhyno(17-12-2023-20_26).png" alt="Rhyno">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Rhyno (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Street-Sharks" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Street Sharks</h2>
+                                    <span>Cartas obtenidas: 5 / 17</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 192</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '192', 'Bends'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Street Sharks/HERO/Bends(7-12-2023-20_33).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Street Sharks/HERO/Bends(7-12-2023-20_33).png" alt="Bends">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Bends (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 194</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '194', 'Mantaman'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Street Sharks/HERO/Mantaman(7-12-2023-23_13).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Street Sharks/HERO/Mantaman(7-12-2023-23_13).png" alt="Mantaman">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Mantaman (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 196</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '196', 'Ripster'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Street Sharks/HERO/Ripster-(7-12-2023-20_42).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Street Sharks/HERO/Ripster-(7-12-2023-20_42).png" alt="Ripster">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Ripster (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 206</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '206', 'Slash'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Street Sharks/VILLANO/Slash(7-12-2023-23_43).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Street Sharks/VILLANO/Slash(7-12-2023-23_43).png" alt="Slash">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Slash (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 207</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '207', 'Slobster'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Street Sharks/VILLANO/Slobster(8-12-2023-1_22).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Street Sharks/VILLANO/Slobster(8-12-2023-1_22).png" alt="Slobster">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Slobster (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-TerrenosandObjetos" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Terrenos&Objetos</h2>
+                                    <span>Cartas obtenidas: 11 / 42</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 210</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '210', 'AEROWING'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Terreno y objetos/AEROWING(12-12-2023-21_23).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Terreno y objetos/AEROWING(12-12-2023-21_23).png" alt="AEROWING">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>AEROWING (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 212</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '212', 'Asteroide M'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Terreno y objetos/Asteroide-M(23-12-2023-14_46).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Terreno y objetos/Asteroide-M(23-12-2023-14_46).png" alt="Asteroide M">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Asteroide M (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 213</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '213', 'Blackbird'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Terreno y objetos/Blackbird(23-12-2023-14_56).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Terreno y objetos/Blackbird(23-12-2023-14_56).png" alt="Blackbird">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Blackbird (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 215</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '215', 'Castillo Grayskull'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Terreno y objetos/Castillo Grayskull.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Terreno y objetos/Castillo Grayskull.png" alt="Castillo Grayskull">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Castillo Grayskull (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 218</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '218', 'Cybertron'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Terreno y objetos/Cybertron.png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Terreno y objetos/Cybertron.png" alt="Cybertron">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Cybertron (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 220</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '220', 'DRAGON QUEST'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Terreno y objetos/DRAGON-QUEST(27-3-2024-0_38).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Terreno y objetos/DRAGON-QUEST(27-3-2024-0_38).png" alt="DRAGON QUEST">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>DRAGON QUEST (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 221</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '221', 'Espada Atlantean'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Terreno y objetos/Espada-Atlantean(12-12-2023-22_45).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Terreno y objetos/Espada-Atlantean(12-12-2023-22_45).png" alt="Espada Atlantean">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Espada Atlantean (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 222</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '222', 'Espada de Metal Estrella'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Terreno y objetos/Espada-de-Metal-Estrella(12-12-2023-22_48).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Terreno y objetos/Espada-de-Metal-Estrella(12-12-2023-22_48).png" alt="Espada de Metal Estrella">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Espada de Metal Estrella (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 230</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '230', 'Mansion X'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Terreno y objetos/Mansion-X(23-12-2023-14_45).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Terreno y objetos/Mansion-X(23-12-2023-14_45).png" alt="Mansion X">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Mansion X (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 239</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '239', 'Stridor'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Terreno y objetos/Stridor(12-12-2023-21_28).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Terreno y objetos/Stridor(12-12-2023-21_28).png" alt="Stridor">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Stridor (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 241</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '241', 'Thunder Tank'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Terreno y objetos/Thunder-Tank(12-12-2023-22_35).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Terreno y objetos/Thunder-Tank(12-12-2023-22_35).png" alt="Thunder Tank">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Thunder Tank (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-ThunderCats" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>ThunderCats</h2>
+                                    <span>Cartas obtenidas: 3 / 21</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 244</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '244', 'Felina'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/ThunderCats/HERO/Felina(4-12-2023-1_51).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/ThunderCats/HERO/Felina(4-12-2023-1_51).png" alt="Felina">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Felina (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 245</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '245', 'Felino'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/ThunderCats/HERO/Felino(4-12-2023-1_54).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/ThunderCats/HERO/Felino(4-12-2023-1_54).png" alt="Felino">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Felino (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 252</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '252', 'Alluro'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/ThunderCats/VILLANO/Alluro(9-12-2023-15_18).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/ThunderCats/VILLANO/Alluro(9-12-2023-15_18).png" alt="Alluro">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Alluro (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Tortugas-Ninja" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Tortugas Ninja</h2>
+                                    <span>Cartas obtenidas: 4 / 30</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 273</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '273', 'Raphael'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/TMNT/HERO/Raphael-(5-12-2023-9_39).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/TMNT/HERO/Raphael-(5-12-2023-9_39).png" alt="Raphael">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Raphael (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 281</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '281', 'Granitor'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/TMNT/VILLANO/Granitor(17-12-2023-22_47).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/TMNT/VILLANO/Granitor(17-12-2023-22_47).png" alt="Granitor">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Granitor (x2)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 287</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '287', 'Soldado del Pie'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/TMNT/VILLANO/Soldado-del-Pie-(5-12-2023-10_30).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/TMNT/VILLANO/Soldado-del-Pie-(5-12-2023-10_30).png" alt="Soldado del Pie">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Soldado del Pie (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 291</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '291', 'Zorax'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/TMNT/VILLANO/Zorax-(5-12-2023-10_36).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/TMNT/VILLANO/Zorax-(5-12-2023-10_36).png" alt="Zorax">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Zorax (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Transformers" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Transformers</h2>
+                                    <span>Cartas obtenidas: 6 / 18</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 293</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '293', 'Hot Rod'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Transformers/HERO/Hot-Rod(5-12-2023-1_0).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Transformers/HERO/Hot-Rod(5-12-2023-1_0).png" alt="Hot Rod">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Hot Rod (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 294</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '294', 'Hound'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Transformers/HERO/Hound(5-12-2023-1_26).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Transformers/HERO/Hound(5-12-2023-1_26).png" alt="Hound">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Hound (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 297</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '297', 'Optimus Prime'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Transformers/HERO/Optimus-Prime(5-12-2023-1_15).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Transformers/HERO/Optimus-Prime(5-12-2023-1_15).png" alt="Optimus Prime">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Optimus Prime (x1)</h3>
+                                                <p>Rareza: Legendario</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 303</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '303', 'Megatron'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Transformers/VILLANO/Megatron(5-12-2023-1_17).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Transformers/VILLANO/Megatron(5-12-2023-1_17).png" alt="Megatron">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Megatron (x1)</h3>
+                                                <p>Rareza: Legendario</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 306</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '306', 'Shockwave'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Transformers/VILLANO/Shockwave(5-12-2023-0_50).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Transformers/VILLANO/Shockwave(5-12-2023-0_50).png" alt="Shockwave">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Shockwave (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 309</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '309', 'Thundercracker'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Transformers/VILLANO/Thundercracker(5-12-2023-1_34).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Transformers/VILLANO/Thundercracker(5-12-2023-1_34).png" alt="Thundercracker">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Thundercracker (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-Varios" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>Varios</h2>
+                                    <span>Cartas obtenidas: 5 / 26</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 364</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '364', 'HulkHogan'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/VARIOS/Hulk-Hogan(9-8-2025-22_53).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/VARIOS/Hulk-Hogan(9-8-2025-22_53).png" alt="HulkHogan">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>HulkHogan (x1)</h3>
+                                                <p>Rareza: Legendario</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 537</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '537', 'BOLO-YEUNG'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/VARIOS/BOLO-YEUNG(12-8-2025-17_56).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/VARIOS/BOLO-YEUNG(12-8-2025-17_56).png" alt="BOLO-YEUNG">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>BOLO-YEUNG (x1)</h3>
+                                                <p>Rareza: Legendario</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 538</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '538', 'BRUCE-LEE'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/VARIOS/BRUCE-LEE(12-8-2025-15_34).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/VARIOS/BRUCE-LEE(12-8-2025-15_34).png" alt="BRUCE-LEE">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>BRUCE-LEE (x1)</h3>
+                                                <p>Rareza: Legendario</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 541</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '541', 'COBRA-1986'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/VARIOS/COBRA-(1986)(12-8-2025-18_22).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/VARIOS/COBRA-(1986)(12-8-2025-18_22).png" alt="COBRA-1986">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>COBRA-1986 (x1)</h3>
+                                                <p>Rareza: Legendario</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 547</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '547', 'ROCKY'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/VARIOS/ROCKY(12-8-2025-16_1).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/VARIOS/ROCKY(12-8-2025-16_1).png" alt="ROCKY">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>ROCKY (x1)</h3>
+                                                <p>Rareza: Legendario</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-X-Men" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>X-Men</h2>
+                                    <span>Cartas obtenidas: 5 / 30</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 326</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '326', 'Blob'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/X-MEN/VILLANO/Blob(23-12-2023-15_40).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/X-MEN/VILLANO/Blob(23-12-2023-15_40).png" alt="Blob">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Blob (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 327</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '327', 'Dientes de Sable'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/X-MEN/VILLANO/Dientes-de-Sable(23-12-2023-3_39).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/X-MEN/VILLANO/Dientes-de-Sable(23-12-2023-3_39).png" alt="Dientes de Sable">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Dientes de Sable (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 332</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '332', 'Mojo'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/X-MEN/VILLANO/Mojo(23-12-2023-15_21).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/X-MEN/VILLANO/Mojo(23-12-2023-15_21).png" alt="Mojo">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Mojo (x1)</h3>
+                                                <p>Rareza: Raro</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 335</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '335', 'Toad'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/X-MEN/VILLANO/Toad(23-12-2023-15_42).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/X-MEN/VILLANO/Toad(23-12-2023-15_42).png" alt="Toad">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Toad (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 529</span>
+                                            <a href="#" onclick="openModal(this.dataset.imgSrc, '529', 'Mística'); return false;"
+                                               data-img-src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/X-MEN/VILLANO/Mística(23-12-2023-15_25).png">
+                                                <div class="cromo-img-container">
+                                                    <img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/X-MEN/VILLANO/Mística(23-12-2023-15_25).png" alt="Mística">
+                                                </div>
+                                            </a>
+                                            <div class="cromo-details">
+                                                <h3>Mística (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="footer">
+        <p>PIRAVISION APP</p>
+    </div>
+
+    <div id="myModal" class="modal">
+        <span class="close" onclick="closeModal()">&times;</span>
+        <div id="modal-info" class="modal-info"></div>
+        <img class="modal-content" id="imgModal">
+    </div>
+    
+    <script>
+        function openModal(imagenUrl, cromoId, cromoNombre) {
+            const modal = document.getElementById("myModal");
+            const modalImg = document.getElementById("imgModal");
+            const modalInfo = document.getElementById("modal-info");
+
+            modalImg.src = imagenUrl;
+            modalInfo.innerHTML = `<h3>Nº: ${cromoId} - ${cromoNombre}</h3>`;
+            modal.style.display = "block";
+        }
+
+        function closeModal() {
+            document.getElementById("myModal").style.display = "none";
+        }
+
+        window.onclick = function(event) {
+            const modal = document.getElementById("myModal");
+            if (event.target == modal) {
+                closeModal();
+            }
+        }
+        
+        function buscarColeccion() {
+            const username = document.getElementById("usernameInput").value.trim();
+            if (username) {
+                const url = `https://piravision.github.io/COLECCION/USUARIOS/${encodeURIComponent(username)}/coleccion.html`;
+                window.location.href = url;
+            } else {
+                alert("Por favor, introduce un nombre de usuario.");
+            }
+        }
+
+        document.getElementById("usernameInput").addEventListener("keyup", function(event) {
+            if (event.key === "Enter") {
+                event.preventDefault();
+                document.querySelector(".search-container button").click();
+            }
+        });
+
+        function mostrarCartas(serie) {
+            // Oculta todas las series
+            const todasLasSeries = document.querySelectorAll('.series-cards');
+            todasLasSeries.forEach(s => s.style.display = 'none');
+            
+            // Muestra solo la serie seleccionada
+            const serieId = `series-${serie.replace(/ /g, '-').replace(/&/g, 'and').replace(/'/g, '')}`;
+            const serieSeleccionada = document.getElementById(serieId);
+            if (serieSeleccionada) {
+                serieSeleccionada.style.display = 'block';
+            }
+        }
+    </script>
+</body>
+</html>
