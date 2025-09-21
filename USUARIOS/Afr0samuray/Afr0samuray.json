@@ -54,7 +54,7 @@
         {
             "id": 71,
             "nombre": "herhero",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 94,
@@ -2639,6 +2639,11 @@
         {
             "id": 1014,
             "nombre": "YUGI",
+            "cantidad": 1
+        },
+        {
+            "id": 345,
+            "nombre": "alundra",
             "cantidad": 1
         }
     ]
