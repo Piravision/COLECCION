@@ -3529,7 +3529,7 @@
         {
             "id": 709,
             "nombre": "DB-097",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 687,
@@ -5939,6 +5939,11 @@
         {
             "id": 1044,
             "nombre": "HAVOK",
+            "cantidad": 1
+        },
+        {
+            "id": 649,
+            "nombre": "DB-037",
             "cantidad": 1
         }
     ]

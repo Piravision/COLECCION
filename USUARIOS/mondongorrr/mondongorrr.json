@@ -1299,7 +1299,7 @@
         {
             "id": 649,
             "nombre": "DB-037",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 566,
@@ -5849,6 +5849,11 @@
         {
             "id": 1054,
             "nombre": "MSMARVEL",
+            "cantidad": 1
+        },
+        {
+            "id": 709,
+            "nombre": "DB-097",
             "cantidad": 1
         }
     ]
