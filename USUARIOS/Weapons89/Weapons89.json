@@ -1049,7 +1049,7 @@
         {
             "id": 365,
             "nombre": "alucard 1",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 22,
@@ -5059,6 +5059,11 @@
         {
             "id": 634,
             "nombre": "DB-022",
+            "cantidad": 1
+        },
+        {
+            "id": 108,
+            "nombre": "Baronesa",
             "cantidad": 1
         }
     ]
