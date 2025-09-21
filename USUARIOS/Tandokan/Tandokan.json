@@ -3794,7 +3794,7 @@
         {
             "id": 1099,
             "nombre": "D-DARKWING-DUCK",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1021,
@@ -5949,6 +5949,11 @@
         {
             "id": 1103,
             "nombre": "FRAGGLE-ROCK",
+            "cantidad": 1
+        },
+        {
+            "id": 1120,
+            "nombre": "PF-PITUFO-GRUÑON",
             "cantidad": 1
         }
     ]
