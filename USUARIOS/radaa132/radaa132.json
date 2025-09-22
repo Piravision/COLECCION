@@ -1354,7 +1354,7 @@
     {
       "id": 801,
       "nombre": "RED-CLAW",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 615,
@@ -1439,7 +1439,7 @@
     {
       "id": 364,
       "nombre": "HulkHogan",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 330,
@@ -3844,6 +3844,11 @@
     {
       "id": 1205,
       "nombre": "3-TAILS",
+      "cantidad": 1
+    },
+    {
+      "id": 584,
+      "nombre": "DEUTER-MULLER",
       "cantidad": 1
     }
   ]
