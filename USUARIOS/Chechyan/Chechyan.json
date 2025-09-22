@@ -1169,7 +1169,7 @@
     {
       "id": 427,
       "nombre": "psyco",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 101,
@@ -1594,7 +1594,7 @@
     {
       "id": 962,
       "nombre": "3-SHERLOK-HOLMES",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1110,
@@ -2774,7 +2774,7 @@
     {
       "id": 276,
       "nombre": "Baxter",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 868,
@@ -2964,7 +2964,7 @@
     {
       "id": 637,
       "nombre": "DB-025",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 910,
@@ -3539,6 +3539,16 @@
     {
       "id": 605,
       "nombre": "ROBERTO-SEDINHO",
+      "cantidad": 1
+    },
+    {
+      "id": 853,
+      "nombre": "Zangief2",
+      "cantidad": 1
+    },
+    {
+      "id": 138,
+      "nombre": "Dr. Hell",
       "cantidad": 1
     }
   ]
