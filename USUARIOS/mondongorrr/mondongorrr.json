@@ -1734,7 +1734,7 @@
         {
             "id": 111,
             "nombre": "Dr. Mindbender",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 49,
@@ -5909,6 +5909,11 @@
         {
             "id": 1198,
             "nombre": "1Z-BOWSER",
+            "cantidad": 1
+        },
+        {
+            "id": 912,
+            "nombre": "SINIESTRO",
             "cantidad": 1
         }
     ]
