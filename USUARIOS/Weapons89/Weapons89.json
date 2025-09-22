@@ -3134,7 +3134,7 @@
         {
             "id": 1102,
             "nombre": "DENVER",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 600,
@@ -5209,6 +5209,11 @@
         {
             "id": 114,
             "nombre": "Storm Shadow",
+            "cantidad": 1
+        },
+        {
+            "id": 1246,
+            "nombre": "LA-NINERA",
             "cantidad": 1
         }
     ]
