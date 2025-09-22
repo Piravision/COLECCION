@@ -349,7 +349,7 @@
         {
             "id": 385,
             "nombre": "brio",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 544,
@@ -499,7 +499,7 @@
         {
             "id": 169,
             "nombre": "Hombre de Hielo",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 546,
@@ -1069,7 +1069,7 @@
         {
             "id": 7,
             "nombre": "El Patriarca",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 527,
@@ -1929,7 +1929,7 @@
         {
             "id": 917,
             "nombre": "MYERS-JAIL",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 862,
@@ -2149,7 +2149,7 @@
         {
             "id": 972,
             "nombre": "8-MAYA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 487,
@@ -2499,7 +2499,7 @@
         {
             "id": 929,
             "nombre": "KANE",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 591,
@@ -3174,7 +3174,7 @@
         {
             "id": 274,
             "nombre": "Ray Fillet",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 28,
@@ -3494,7 +3494,7 @@
         {
             "id": 953,
             "nombre": "12-MARCO-&-AMELIO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 960,
@@ -4074,7 +4074,7 @@
         {
             "id": 399,
             "nombre": "cait",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1253,
@@ -4494,7 +4494,7 @@
         {
             "id": 273,
             "nombre": "Raphael",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 737,
@@ -4714,7 +4714,7 @@
         {
             "id": 1118,
             "nombre": "PF-PITUFO FILOSOFO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 465,
@@ -4854,7 +4854,7 @@
         {
             "id": 1225,
             "nombre": "SORA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1065,
@@ -4954,7 +4954,7 @@
         {
             "id": 1002,
             "nombre": "NARUTO-UZUMAKI",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 213,
@@ -5104,6 +5104,51 @@
         {
             "id": 208,
             "nombre": "Tentakill",
+            "cantidad": 1
+        },
+        {
+            "id": 611,
+            "nombre": "TERRY-DENTON",
+            "cantidad": 1
+        },
+        {
+            "id": 849,
+            "nombre": "SAGAT",
+            "cantidad": 1
+        },
+        {
+            "id": 640,
+            "nombre": "DB-028",
+            "cantidad": 1
+        },
+        {
+            "id": 691,
+            "nombre": "DB-079",
+            "cantidad": 1
+        },
+        {
+            "id": 642,
+            "nombre": "DB-030",
+            "cantidad": 1
+        },
+        {
+            "id": 1108,
+            "nombre": "G-PRINCESA",
+            "cantidad": 1
+        },
+        {
+            "id": 821,
+            "nombre": "SHANG-TSUNG",
+            "cantidad": 1
+        },
+        {
+            "id": 1260,
+            "nombre": "FA-DRAGON-QUEST-VIII",
+            "cantidad": 1
+        },
+        {
+            "id": 741,
+            "nombre": "Camus-de-Acuario",
             "cantidad": 1
         }
     ]

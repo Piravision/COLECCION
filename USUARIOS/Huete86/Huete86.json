@@ -614,7 +614,7 @@
     {
       "id": 230,
       "nombre": "Mansion X",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 338,
@@ -3824,7 +3824,7 @@
     {
       "id": 926,
       "nombre": "BATISTA",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 954,
@@ -5159,7 +5159,7 @@
     {
       "id": 1198,
       "nombre": "1Z-BOWSER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1208,
@@ -6249,6 +6249,31 @@
     {
       "id": 1159,
       "nombre": "GOLDENAGE- FLASH",
+      "cantidad": 1
+    },
+    {
+      "id": 286,
+      "nombre": "Shredder",
+      "cantidad": 1
+    },
+    {
+      "id": 1150,
+      "nombre": "BATGIRL",
+      "cantidad": 1
+    },
+    {
+      "id": 1276,
+      "nombre": "RISTAR",
+      "cantidad": 1
+    },
+    {
+      "id": 1186,
+      "nombre": "KENSHIRO",
+      "cantidad": 1
+    },
+    {
+      "id": 1252,
+      "nombre": "PRIMOS-LEJANOS",
       "cantidad": 1
     }
   ]
