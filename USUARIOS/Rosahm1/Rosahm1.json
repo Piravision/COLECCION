@@ -1649,7 +1649,7 @@
     {
       "id": 17,
       "nombre": "Guerrero Serpiente",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 375,
@@ -1829,7 +1829,7 @@
     {
       "id": 115,
       "nombre": "Zartan",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 214,
@@ -1894,7 +1894,7 @@
     {
       "id": 645,
       "nombre": "DB-033",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 454,
@@ -2299,7 +2299,7 @@
     {
       "id": 271,
       "nombre": "Neutrinos",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 281,
@@ -2559,7 +2559,7 @@
     {
       "id": 232,
       "nombre": "Mousers",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1,
@@ -2849,7 +2849,7 @@
     {
       "id": 436,
       "nombre": "abe",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 488,
@@ -3154,7 +3154,7 @@
     {
       "id": 230,
       "nombre": "Mansion X",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 146,
@@ -3789,7 +3789,7 @@
     {
       "id": 239,
       "nombre": "Stridor",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 883,
@@ -4819,7 +4819,7 @@
     {
       "id": 1068,
       "nombre": "THUNDRA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1034,
@@ -5189,7 +5189,7 @@
     {
       "id": 1221,
       "nombre": "KID-CHAMELEON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1099,
@@ -5519,7 +5519,7 @@
     {
       "id": 1129,
       "nombre": "CRITTER-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1271,
@@ -5809,6 +5809,11 @@
     {
       "id": 1136,
       "nombre": "JOHNNY-BRAVO",
+      "cantidad": 1
+    },
+    {
+      "id": 804,
+      "nombre": "BARAKA",
       "cantidad": 1
     }
   ]

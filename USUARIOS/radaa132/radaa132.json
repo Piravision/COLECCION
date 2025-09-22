@@ -634,7 +634,7 @@
     {
       "id": 717,
       "nombre": "DB-105",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 502,
@@ -1409,7 +1409,7 @@
     {
       "id": 182,
       "nombre": "Kingpin",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 937,
@@ -2219,7 +2219,7 @@
     {
       "id": 1090,
       "nombre": "ANIMANIACS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 676,
@@ -2264,7 +2264,7 @@
     {
       "id": 1111,
       "nombre": "G1-COMANDO-G",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1088,
@@ -2964,7 +2964,7 @@
     {
       "id": 896,
       "nombre": "SHE-HULK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 128,
@@ -3849,6 +3849,11 @@
     {
       "id": 584,
       "nombre": "DEUTER-MULLER",
+      "cantidad": 1
+    },
+    {
+      "id": 1126,
+      "nombre": "K.RYOTSU",
       "cantidad": 1
     }
   ]

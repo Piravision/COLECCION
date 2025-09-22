@@ -274,7 +274,7 @@
     {
       "id": 583,
       "nombre": "DANNY-MELOW",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 808,
@@ -934,7 +934,7 @@
     {
       "id": 181,
       "nombre": "Hydro man",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 343,
@@ -1304,7 +1304,7 @@
     {
       "id": 981,
       "nombre": "14-ETHYL-PHILLIPS",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 968,
@@ -1534,7 +1534,7 @@
     {
       "id": 992,
       "nombre": "DORAEMON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 990,
@@ -2224,7 +2224,7 @@
     {
       "id": 165,
       "nombre": "Daredevil",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 512,
@@ -2819,7 +2819,7 @@
     {
       "id": 939,
       "nombre": "GHOSTFACE-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 61,
@@ -3079,12 +3079,12 @@
     {
       "id": 29,
       "nombre": "Sheila",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1261,
       "nombre": "FA-MEGAMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 734,
@@ -3249,6 +3249,51 @@
     {
       "id": 101,
       "nombre": "Duke",
+      "cantidad": 1
+    },
+    {
+      "id": 679,
+      "nombre": "DB-067",
+      "cantidad": 2
+    },
+    {
+      "id": 1185,
+      "nombre": "WICKET",
+      "cantidad": 1
+    },
+    {
+      "id": 467,
+      "nombre": "Cheryl",
+      "cantidad": 1
+    },
+    {
+      "id": 692,
+      "nombre": "DB-080",
+      "cantidad": 1
+    },
+    {
+      "id": 329,
+      "nombre": "Lady Deadstrike",
+      "cantidad": 1
+    },
+    {
+      "id": 146,
+      "nombre": "Siege",
+      "cantidad": 1
+    },
+    {
+      "id": 55,
+      "nombre": "mina",
+      "cantidad": 1
+    },
+    {
+      "id": 739,
+      "nombre": "Athenea",
+      "cantidad": 1
+    },
+    {
+      "id": 279,
+      "nombre": "Cuerpo Androide",
       "cantidad": 1
     }
   ]

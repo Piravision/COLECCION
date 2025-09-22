@@ -59,7 +59,7 @@
     {
       "id": 297,
       "nombre": "Optimus Prime",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 561,
@@ -169,7 +169,7 @@
     {
       "id": 403,
       "nombre": "red",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 193,
@@ -559,12 +559,12 @@
     {
       "id": 117,
       "nombre": "He man",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 538,
       "nombre": "BRUCE-LEE",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 109,
@@ -1039,7 +1039,7 @@
     {
       "id": 840,
       "nombre": "FEI-LONG",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 99,
@@ -4434,7 +4434,7 @@
     {
       "id": 1189,
       "nombre": "DRAGON-LAIR",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 234,
@@ -5534,7 +5534,7 @@
     {
       "id": 192,
       "nombre": "Bends",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 187,
@@ -5889,6 +5889,16 @@
     {
       "id": 1070,
       "nombre": "UNION JACK",
+      "cantidad": 1
+    },
+    {
+      "id": 1190,
+      "nombre": "METEORO",
+      "cantidad": 1
+    },
+    {
+      "id": 1167,
+      "nombre": "JOKER",
       "cantidad": 1
     }
   ]

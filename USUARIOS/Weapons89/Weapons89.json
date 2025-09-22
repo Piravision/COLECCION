@@ -244,7 +244,7 @@
     {
       "id": 235,
       "nombre": "Punk Frogs",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 107,
@@ -319,7 +319,7 @@
     {
       "id": 211,
       "nombre": "Anillo Serpiente",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 157,
@@ -499,7 +499,7 @@
     {
       "id": 169,
       "nombre": "Hombre de Hielo",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 546,
@@ -714,7 +714,7 @@
     {
       "id": 567,
       "nombre": "JAKE-ROBERTS",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 376,
@@ -954,7 +954,7 @@
     {
       "id": 200,
       "nombre": "Swordo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 428,
@@ -1519,7 +1519,7 @@
     {
       "id": 735,
       "nombre": "Aiacos",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 398,
@@ -1584,7 +1584,7 @@
     {
       "id": 793,
       "nombre": "HIEDRA-",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 784,
@@ -1689,7 +1689,7 @@
     {
       "id": 748,
       "nombre": "HAdes2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 716,
@@ -1924,7 +1924,7 @@
     {
       "id": 859,
       "nombre": "JASON-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 917,
@@ -2129,7 +2129,7 @@
     {
       "id": 963,
       "nombre": "3-SRA.-HUDSON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 966,
@@ -2689,7 +2689,7 @@
     {
       "id": 1001,
       "nombre": "MUSCULMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 597,
@@ -2809,7 +2809,7 @@
     {
       "id": 857,
       "nombre": "DOC-JAIL",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 336,
@@ -3044,7 +3044,7 @@
     {
       "id": 541,
       "nombre": "COBRA-1986",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 938,
@@ -3134,7 +3134,7 @@
     {
       "id": 1102,
       "nombre": "DENVER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 600,
@@ -3514,7 +3514,7 @@
     {
       "id": 1049,
       "nombre": "I-MEDUSA-2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 910,
@@ -5169,6 +5169,36 @@
     {
       "id": 612,
       "nombre": "TOM-BAKER",
+      "cantidad": 1
+    },
+    {
+      "id": 1159,
+      "nombre": "GOLDENAGE- FLASH",
+      "cantidad": 1
+    },
+    {
+      "id": 620,
+      "nombre": "DB-008",
+      "cantidad": 1
+    },
+    {
+      "id": 1286,
+      "nombre": "FA-WINDJAMMERS",
+      "cantidad": 1
+    },
+    {
+      "id": 1212,
+      "nombre": "4-SKETCH-TURNER",
+      "cantidad": 1
+    },
+    {
+      "id": 580,
+      "nombre": "BRUCE-HARPER",
+      "cantidad": 1
+    },
+    {
+      "id": 1022,
+      "nombre": "4F- MR FANTASTIC",
       "cantidad": 1
     }
   ]
