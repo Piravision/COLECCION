@@ -159,7 +159,7 @@
     {
       "id": 340,
       "nombre": "Poseidón",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 105,
@@ -354,7 +354,7 @@
     {
       "id": 91,
       "nombre": "Bronx",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 302,
@@ -714,7 +714,7 @@
     {
       "id": 438,
       "nombre": "molluck",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 510,
@@ -2229,7 +2229,7 @@
     {
       "id": 485,
       "nombre": "Dr_Shemp",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 428,
@@ -2254,7 +2254,7 @@
     {
       "id": 227,
       "nombre": "Hawks Haven",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 58,
@@ -2494,7 +2494,7 @@
     {
       "id": 451,
       "nombre": "perros",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 521,
@@ -2639,7 +2639,7 @@
     {
       "id": 349,
       "nombre": "melzas",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 434,
@@ -2989,7 +2989,7 @@
     {
       "id": 609,
       "nombre": "STEFAN-LEVI",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 430,
@@ -2999,7 +2999,7 @@
     {
       "id": 634,
       "nombre": "DB-022",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 680,
@@ -3514,7 +3514,7 @@
     {
       "id": 856,
       "nombre": "BEETLEJUICE-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 737,
@@ -4234,7 +4234,7 @@
     {
       "id": 1066,
       "nombre": "TH - THOR-2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 636,
@@ -4439,7 +4439,7 @@
     {
       "id": 990,
       "nombre": "CHICHO-TERREMOTO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 993,
@@ -4674,7 +4674,7 @@
     {
       "id": 614,
       "nombre": "DB-002",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 988,
@@ -4789,7 +4789,7 @@
     {
       "id": 638,
       "nombre": "DB-026",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 1126,
@@ -4879,7 +4879,7 @@
     {
       "id": 1187,
       "nombre": "CRIPTA-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1227,
@@ -5014,7 +5014,7 @@
     {
       "id": 1042,
       "nombre": "H- HULK-2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1131,
@@ -5199,7 +5199,7 @@
     {
       "id": 943,
       "nombre": "JOHNNY5-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 944,
@@ -5524,7 +5524,7 @@
     {
       "id": 997,
       "nombre": "IKKI-&-METABEE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 843,
@@ -5674,6 +5674,56 @@
     {
       "id": 1268,
       "nombre": "EZIO-AUDITORE",
+      "cantidad": 1
+    },
+    {
+      "id": 1058,
+      "nombre": "POWERMAN & IRON FIST",
+      "cantidad": 1
+    },
+    {
+      "id": 1032,
+      "nombre": "BV- VISION",
+      "cantidad": 1
+    },
+    {
+      "id": 1248,
+      "nombre": "MACGYVER",
+      "cantidad": 1
+    },
+    {
+      "id": 1136,
+      "nombre": "JOHNNY-BRAVO",
+      "cantidad": 1
+    },
+    {
+      "id": 991,
+      "nombre": "CONAN-EDOGAWA",
+      "cantidad": 1
+    },
+    {
+      "id": 1111,
+      "nombre": "G1-COMANDO-G",
+      "cantidad": 1
+    },
+    {
+      "id": 1225,
+      "nombre": "SORA",
+      "cantidad": 1
+    },
+    {
+      "id": 1078,
+      "nombre": "X -PHOENIX",
+      "cantidad": 1
+    },
+    {
+      "id": 1175,
+      "nombre": "EREN-YEAGER",
+      "cantidad": 1
+    },
+    {
+      "id": 1201,
+      "nombre": "2Z-BOMBERMAN",
       "cantidad": 1
     }
   ]

@@ -4469,7 +4469,7 @@
         {
             "id": 994,
             "nombre": "GUTS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 490,
@@ -4484,7 +4484,7 @@
         {
             "id": 61,
             "nombre": "Borahorn",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 80,
@@ -6269,6 +6269,36 @@
         {
             "id": 1253,
             "nombre": "SABRINA-COSAS-DE-BRUJAS",
+            "cantidad": 1
+        },
+        {
+            "id": 1230,
+            "nombre": "MORTADELO-Y-FILEMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1226,
+            "nombre": "TERRY-BOGARD",
+            "cantidad": 1
+        },
+        {
+            "id": 1280,
+            "nombre": "JOTARO-KUJO",
+            "cantidad": 1
+        },
+        {
+            "id": 1208,
+            "nombre": "4-CAPTAIN-COMMANDO",
+            "cantidad": 1
+        },
+        {
+            "id": 1121,
+            "nombre": "RUGRATS",
+            "cantidad": 1
+        },
+        {
+            "id": 1237,
+            "nombre": "1-WILL",
             "cantidad": 1
         }
     ]

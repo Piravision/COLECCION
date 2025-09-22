@@ -934,7 +934,7 @@
     {
       "id": 1119,
       "nombre": "PF-PITUFO-FORTACHON",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 527,
@@ -1019,7 +1019,7 @@
     {
       "id": 210,
       "nombre": "AEROWING",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1036,
@@ -1699,7 +1699,7 @@
     {
       "id": 901,
       "nombre": "ULTRON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 817,
@@ -2064,7 +2064,7 @@
     {
       "id": 324,
       "nombre": "Wolverine",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 200,
@@ -2329,7 +2329,7 @@
     {
       "id": 843,
       "nombre": "HONDA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 987,
@@ -2409,7 +2409,7 @@
     {
       "id": 940,
       "nombre": "GIZMO-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 946,
@@ -3024,7 +3024,7 @@
     {
       "id": 194,
       "nombre": "Mantaman",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1193,
@@ -3204,7 +3204,7 @@
     {
       "id": 912,
       "nombre": "SINIESTRO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 240,
@@ -3269,7 +3269,7 @@
     {
       "id": 1115,
       "nombre": "PF-GARGAMEL-&-AZRAEL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 184,
@@ -3479,6 +3479,51 @@
     {
       "id": 799,
       "nombre": "POISON-IVY",
+      "cantidad": 1
+    },
+    {
+      "id": 1018,
+      "nombre": "SUB-MARINER",
+      "cantidad": 1
+    },
+    {
+      "id": 1286,
+      "nombre": "FA-WINDJAMMERS",
+      "cantidad": 1
+    },
+    {
+      "id": 979,
+      "nombre": "14-CHARLENE-SINCLAIR",
+      "cantidad": 1
+    },
+    {
+      "id": 888,
+      "nombre": "LOKI",
+      "cantidad": 1
+    },
+    {
+      "id": 954,
+      "nombre": "2-CHIP",
+      "cantidad": 1
+    },
+    {
+      "id": 1078,
+      "nombre": "X -PHOENIX",
+      "cantidad": 1
+    },
+    {
+      "id": 186,
+      "nombre": "Mysterio",
+      "cantidad": 1
+    },
+    {
+      "id": 850,
+      "nombre": "T-HAWK",
+      "cantidad": 1
+    },
+    {
+      "id": 488,
+      "nombre": "metalhead",
       "cantidad": 1
     }
   ]

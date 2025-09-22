@@ -54,7 +54,7 @@
     {
       "id": 492,
       "nombre": "toasty",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 354,
@@ -64,7 +64,7 @@
     {
       "id": 394,
       "nombre": "vsneo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 542,
@@ -304,7 +304,7 @@
     {
       "id": 538,
       "nombre": "BRUCE-LEE",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 717,
@@ -769,7 +769,7 @@
     {
       "id": 562,
       "nombre": "PETER-GRIFFIN-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 535,
@@ -1149,7 +1149,7 @@
     {
       "id": 926,
       "nombre": "BATISTA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 949,
@@ -1639,7 +1639,7 @@
     {
       "id": 230,
       "nombre": "Mansion X",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 627,
@@ -1709,7 +1709,7 @@
     {
       "id": 462,
       "nombre": "sakura",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 458,
@@ -1719,7 +1719,7 @@
     {
       "id": 618,
       "nombre": "DB-006",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1072,
@@ -2009,7 +2009,7 @@
     {
       "id": 345,
       "nombre": "alundra",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 350,
@@ -2119,7 +2119,7 @@
     {
       "id": 446,
       "nombre": "CUERVOS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 449,
@@ -2794,7 +2794,7 @@
     {
       "id": 621,
       "nombre": "DB-009",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 751,
@@ -2809,12 +2809,12 @@
     {
       "id": 884,
       "nombre": "IRON-FIST",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1173,
       "nombre": "WONDER WOMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 939,
@@ -2894,7 +2894,7 @@
     {
       "id": 1241,
       "nombre": "EL-COCHE-FANTASTICO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 115,
@@ -2999,7 +2999,7 @@
     {
       "id": 850,
       "nombre": "T-HAWK",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1270,
@@ -3149,6 +3149,106 @@
     {
       "id": 1206,
       "nombre": "3a-SONIC",
+      "cantidad": 1
+    },
+    {
+      "id": 1017,
+      "nombre": "1-SPIDERWOMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 313,
+      "nombre": "Cable",
+      "cantidad": 1
+    },
+    {
+      "id": 351,
+      "nombre": "reaper",
+      "cantidad": 1
+    },
+    {
+      "id": 220,
+      "nombre": "DRAGON QUEST",
+      "cantidad": 1
+    },
+    {
+      "id": 459,
+      "nombre": "Kyosuke",
+      "cantidad": 1
+    },
+    {
+      "id": 1123,
+      "nombre": "EDWARD-&-AI",
+      "cantidad": 2
+    },
+    {
+      "id": 1232,
+      "nombre": "TINTIN-&-MILU",
+      "cantidad": 1
+    },
+    {
+      "id": 776,
+      "nombre": "zedd",
+      "cantidad": 1
+    },
+    {
+      "id": 400,
+      "nombre": "cid",
+      "cantidad": 1
+    },
+    {
+      "id": 1070,
+      "nombre": "UNION JACK",
+      "cantidad": 1
+    },
+    {
+      "id": 1237,
+      "nombre": "1-WILL",
+      "cantidad": 1
+    },
+    {
+      "id": 903,
+      "nombre": "BIZARRE",
+      "cantidad": 1
+    },
+    {
+      "id": 1275,
+      "nombre": "RAYMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 973,
+      "nombre": "8-WILLY",
+      "cantidad": 1
+    },
+    {
+      "id": 663,
+      "nombre": "DB-051",
+      "cantidad": 1
+    },
+    {
+      "id": 822,
+      "nombre": "SHAO-KAHN",
+      "cantidad": 1
+    },
+    {
+      "id": 753,
+      "nombre": "pandora",
+      "cantidad": 1
+    },
+    {
+      "id": 1187,
+      "nombre": "CRIPTA-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 497,
+      "nombre": "nanami",
+      "cantidad": 1
+    },
+    {
+      "id": 101,
+      "nombre": "Duke",
       "cantidad": 1
     }
   ]

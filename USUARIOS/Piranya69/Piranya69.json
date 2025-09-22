@@ -2129,7 +2129,7 @@
     {
       "id": 630,
       "nombre": "DB-018",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 600,
@@ -4294,7 +4294,7 @@
     {
       "id": 923,
       "nombre": "REAL-VISITOR",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 890,
@@ -6404,6 +6404,36 @@
     {
       "id": 1266,
       "nombre": "CHRONO",
+      "cantidad": 1
+    },
+    {
+      "id": 1271,
+      "nombre": "FA-OUT-RUN",
+      "cantidad": 1
+    },
+    {
+      "id": 1236,
+      "nombre": "1-PRINCIPE-DE-BEL-AIR",
+      "cantidad": 1
+    },
+    {
+      "id": 1199,
+      "nombre": "1Z-WARIO",
+      "cantidad": 1
+    },
+    {
+      "id": 1289,
+      "nombre": "KID-ICARUS",
+      "cantidad": 1
+    },
+    {
+      "id": 1149,
+      "nombre": "ATOM",
+      "cantidad": 1
+    },
+    {
+      "id": 1295,
+      "nombre": "UN-CHAPUZAS-EN-CASA",
       "cantidad": 1
     }
   ]

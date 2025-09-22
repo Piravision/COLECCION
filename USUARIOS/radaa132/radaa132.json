@@ -189,7 +189,7 @@
     {
       "id": 190,
       "nombre": "Vandame-Bloodsport",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 475,
@@ -594,7 +594,7 @@
     {
       "id": 352,
       "nombre": "septimus",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 379,
@@ -1179,7 +1179,7 @@
     {
       "id": 785,
       "nombre": "CATWOMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 423,
@@ -1264,7 +1264,7 @@
     {
       "id": 803,
       "nombre": "SELINA-KYLE",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 723,
@@ -1499,7 +1499,7 @@
     {
       "id": 539,
       "nombre": "BRUCE-LEE2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 21,
@@ -1564,7 +1564,7 @@
     {
       "id": 42,
       "nombre": "dai 2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 149,
@@ -2079,7 +2079,7 @@
     {
       "id": 880,
       "nombre": "GREEN-GOBLIN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 29,
@@ -2634,7 +2634,7 @@
     {
       "id": 452,
       "nombre": "sherry",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1029,
@@ -3049,7 +3049,7 @@
     {
       "id": 264,
       "nombre": "Donatello",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1043,
@@ -3814,6 +3814,36 @@
     {
       "id": 1061,
       "nombre": "SHANG-CHI",
+      "cantidad": 1
+    },
+    {
+      "id": 7,
+      "nombre": "El Patriarca",
+      "cantidad": 1
+    },
+    {
+      "id": 898,
+      "nombre": "1-VALKYRIE",
+      "cantidad": 1
+    },
+    {
+      "id": 598,
+      "nombre": "MARGUS-MANFRED",
+      "cantidad": 1
+    },
+    {
+      "id": 1138,
+      "nombre": "LUCKY-LUKE",
+      "cantidad": 1
+    },
+    {
+      "id": 984,
+      "nombre": "14-BABY-SINCLAIR",
+      "cantidad": 1
+    },
+    {
+      "id": 1205,
+      "nombre": "3-TAILS",
       "cantidad": 1
     }
   ]
