@@ -349,7 +349,7 @@
         {
             "id": 114,
             "nombre": "Storm Shadow",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 5,
@@ -5914,6 +5914,11 @@
         {
             "id": 912,
             "nombre": "SINIESTRO",
+            "cantidad": 1
+        },
+        {
+            "id": 965,
+            "nombre": "4-RIGODON",
             "cantidad": 1
         }
     ]

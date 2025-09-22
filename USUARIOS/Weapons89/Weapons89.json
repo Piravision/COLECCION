@@ -3824,7 +3824,7 @@
         {
             "id": 965,
             "nombre": "4-RIGODON",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 81,
@@ -5204,6 +5204,11 @@
         {
             "id": 111,
             "nombre": "Dr. Mindbender",
+            "cantidad": 1
+        },
+        {
+            "id": 114,
+            "nombre": "Storm Shadow",
             "cantidad": 1
         }
     ]
