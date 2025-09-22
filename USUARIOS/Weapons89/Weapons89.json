@@ -4679,7 +4679,7 @@
         {
             "id": 1242,
             "nombre": "EQUIPO-A",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1263,
@@ -5164,6 +5164,11 @@
         {
             "id": 87,
             "nombre": "Walter _Doc_ Hartford",
+            "cantidad": 1
+        },
+        {
+            "id": 612,
+            "nombre": "TOM-BAKER",
             "cantidad": 1
         }
     ]

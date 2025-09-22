@@ -1039,7 +1039,7 @@
         {
             "id": 612,
             "nombre": "TOM-BAKER",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 745,
@@ -5989,6 +5989,11 @@
         {
             "id": 1052,
             "nombre": "JOCASTA",
+            "cantidad": 1
+        },
+        {
+            "id": 1242,
+            "nombre": "EQUIPO-A",
             "cantidad": 1
         }
     ]
