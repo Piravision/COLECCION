@@ -4304,7 +4304,7 @@
     {
       "id": 636,
       "nombre": "DB-024",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 639,
@@ -4434,7 +4434,7 @@
     {
       "id": 413,
       "nombre": "campb",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 776,
@@ -4649,7 +4649,7 @@
     {
       "id": 1229,
       "nombre": "MIGHTY-MAX",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1134,
@@ -5009,7 +5009,7 @@
     {
       "id": 864,
       "nombre": "RAMBO-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 513,
@@ -5809,11 +5809,16 @@
     {
       "id": 1136,
       "nombre": "JOHNNY-BRAVO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 804,
       "nombre": "BARAKA",
+      "cantidad": 1
+    },
+    {
+      "id": 1160,
+      "nombre": "GOLDENAGE- GREEN LANTERN",
       "cantidad": 1
     }
   ]
