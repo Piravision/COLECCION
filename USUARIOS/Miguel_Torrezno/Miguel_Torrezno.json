@@ -1239,7 +1239,7 @@
     {
       "id": 565,
       "nombre": "ANDRÉ-THE-GIANT",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 561,
@@ -3339,7 +3339,7 @@
     {
       "id": 168,
       "nombre": "Hobgoblin",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 610,
@@ -3769,6 +3769,11 @@
     {
       "id": 746,
       "nombre": "Deathmask-de-Cancer",
+      "cantidad": 1
+    },
+    {
+      "id": 1293,
+      "nombre": "ALF",
       "cantidad": 1
     }
   ]
