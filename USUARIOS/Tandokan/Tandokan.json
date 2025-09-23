@@ -4484,7 +4484,7 @@
         {
             "id": 1037,
             "nombre": "CAPITAN-AMERICA-2",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 497,
@@ -6114,6 +6114,11 @@
         {
             "id": 1146,
             "nombre": "TROTAMUSICOS",
+            "cantidad": 1
+        },
+        {
+            "id": 901,
+            "nombre": "ULTRON",
             "cantidad": 1
         }
     ]

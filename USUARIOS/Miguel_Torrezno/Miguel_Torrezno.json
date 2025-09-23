@@ -924,7 +924,7 @@
     {
       "id": 511,
       "nombre": "YOSHI",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 380,
@@ -1529,7 +1529,7 @@
     {
       "id": 505,
       "nombre": "Hwoarang",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 386,
@@ -3924,6 +3924,11 @@
     {
       "id": 575,
       "nombre": "A.GALVAN",
+      "cantidad": 1
+    },
+    {
+      "id": 506,
+      "nombre": "jin",
       "cantidad": 1
     }
   ]
