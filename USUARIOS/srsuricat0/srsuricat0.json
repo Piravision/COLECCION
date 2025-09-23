@@ -5014,7 +5014,7 @@
         {
             "id": 1042,
             "nombre": "H- HULK-2",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1131,
@@ -5854,6 +5854,11 @@
         {
             "id": 1041,
             "nombre": "FALCON-2",
+            "cantidad": 1
+        },
+        {
+            "id": 1085,
+            "nombre": "YV-YELLOWJACKET",
             "cantidad": 1
         }
     ]
