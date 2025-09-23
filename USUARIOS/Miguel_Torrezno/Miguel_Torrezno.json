@@ -1219,7 +1219,7 @@
         {
             "id": 733,
             "nombre": "DB-121",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 223,
@@ -3794,6 +3794,11 @@
         {
             "id": 996,
             "nombre": "I.KUROSAKI",
+            "cantidad": 1
+        },
+        {
+            "id": 751,
+            "nombre": "Minos",
             "cantidad": 1
         }
     ]
