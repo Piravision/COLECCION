@@ -2619,7 +2619,7 @@
         {
             "id": 937,
             "nombre": "TRIPLE-H",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 632,
@@ -5314,6 +5314,11 @@
         {
             "id": 603,
             "nombre": "PHILLIP-CALLAHAN",
+            "cantidad": 1
+        },
+        {
+            "id": 1244,
+            "nombre": "HERCULES",
             "cantidad": 1
         }
     ]
