@@ -5284,7 +5284,7 @@
         {
             "id": 1247,
             "nombre": "LUZ-DE-LUNA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1251,
@@ -6074,6 +6074,11 @@
         {
             "id": 1279,
             "nombre": "GRAN-HEROE-AMERICANO",
+            "cantidad": 1
+        },
+        {
+            "id": 1285,
+            "nombre": "BANJO-KAZOOIE",
             "cantidad": 1
         }
     ]
