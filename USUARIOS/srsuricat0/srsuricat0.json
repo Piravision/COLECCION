@@ -2589,7 +2589,7 @@
         {
             "id": 579,
             "nombre": "BOB-DENVER",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 721,
@@ -5789,6 +5789,11 @@
         {
             "id": 891,
             "nombre": "MODOK",
+            "cantidad": 1
+        },
+        {
+            "id": 1033,
+            "nombre": "CABALLERO LUNA",
             "cantidad": 1
         }
     ]
