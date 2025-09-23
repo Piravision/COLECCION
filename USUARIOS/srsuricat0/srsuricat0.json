@@ -214,7 +214,7 @@
         {
             "id": 98,
             "nombre": "David Xanatos",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 138,
@@ -5870,6 +5870,11 @@
             "id": 1132,
             "nombre": "AB-OBELIX",
             "cantidad": 2
+        },
+        {
+            "id": 1049,
+            "nombre": "I-MEDUSA-2",
+            "cantidad": 1
         }
     ]
 }
