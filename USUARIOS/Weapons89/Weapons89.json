@@ -2664,7 +2664,7 @@
         {
             "id": 904,
             "nombre": "CLARK-KENT",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1008,
@@ -5439,6 +5439,11 @@
         {
             "id": 873,
             "nombre": "BLACK-WIDOW",
+            "cantidad": 1
+        },
+        {
+            "id": 97,
+            "nombre": "Armadura Xanatos",
             "cantidad": 1
         }
     ]

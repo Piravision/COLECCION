@@ -1864,7 +1864,7 @@
         {
             "id": 97,
             "nombre": "Armadura Xanatos",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 88,
@@ -3949,6 +3949,11 @@
         {
             "id": 789,
             "nombre": "ENIGMA",
+            "cantidad": 1
+        },
+        {
+            "id": 904,
+            "nombre": "CLARK-KENT",
             "cantidad": 1
         }
     ]
