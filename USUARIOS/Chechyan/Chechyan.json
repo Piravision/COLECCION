@@ -1439,7 +1439,7 @@
         {
             "id": 655,
             "nombre": "DB-043",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 613,
@@ -3729,6 +3729,11 @@
         {
             "id": 359,
             "nombre": "long",
+            "cantidad": 1
+        },
+        {
+            "id": 3,
+            "nombre": "Juez J. Bella",
             "cantidad": 1
         }
     ]
