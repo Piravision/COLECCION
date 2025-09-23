@@ -2599,7 +2599,7 @@
         {
             "id": 931,
             "nombre": "RANDY-ORTON",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 655,
@@ -6119,6 +6119,11 @@
         {
             "id": 901,
             "nombre": "ULTRON",
+            "cantidad": 1
+        },
+        {
+            "id": 1255,
+            "nombre": "STARGATE-SG-1",
             "cantidad": 1
         }
     ]
