@@ -1014,7 +1014,7 @@
         {
             "id": 571,
             "nombre": "RODY-PIPPER",
-            "cantidad": 6
+            "cantidad": 5
         },
         {
             "id": 630,
@@ -6049,6 +6049,11 @@
         {
             "id": 1045,
             "nombre": "HAWKEYE-2",
+            "cantidad": 1
+        },
+        {
+            "id": 1146,
+            "nombre": "TROTAMUSICOS",
             "cantidad": 1
         }
     ]
