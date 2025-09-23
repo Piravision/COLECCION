@@ -1314,7 +1314,7 @@
         {
             "id": 8,
             "nombre": "Hades",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 272,
@@ -6029,6 +6029,11 @@
         {
             "id": 1110,
             "nombre": "G-ZOLTAR",
+            "cantidad": 1
+        },
+        {
+            "id": 727,
+            "nombre": "DB-115",
             "cantidad": 1
         }
     ]
