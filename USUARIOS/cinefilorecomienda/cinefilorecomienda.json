@@ -2264,7 +2264,7 @@
         {
             "id": 1224,
             "nombre": "SAMUS",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 202,
@@ -3629,6 +3629,11 @@
         {
             "id": 630,
             "nombre": "DB-018",
+            "cantidad": 1
+        },
+        {
+            "id": 1012,
+            "nombre": "Y.HURAMESHI",
             "cantidad": 1
         }
     ]
