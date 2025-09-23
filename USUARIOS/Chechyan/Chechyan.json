@@ -674,7 +674,7 @@
     {
       "id": 453,
       "nombre": "tyrant",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 645,
@@ -2029,7 +2029,7 @@
     {
       "id": 945,
       "nombre": "MASK-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1219,
@@ -2169,7 +2169,7 @@
     {
       "id": 780,
       "nombre": "BARBARA-GORDON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 932,
@@ -2764,7 +2764,7 @@
     {
       "id": 1146,
       "nombre": "TROTAMUSICOS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1172,
@@ -2859,7 +2859,7 @@
     {
       "id": 782,
       "nombre": "BATMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1261,
@@ -2904,7 +2904,7 @@
     {
       "id": 1013,
       "nombre": "YAIBA-KUROGAME",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 996,
@@ -3019,7 +3019,7 @@
     {
       "id": 177,
       "nombre": "Carnage",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 194,
@@ -3209,7 +3209,7 @@
     {
       "id": 240,
       "nombre": "Terror Drome",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 65,
@@ -3369,7 +3369,7 @@
     {
       "id": 639,
       "nombre": "DB-027",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 18,
@@ -3549,6 +3549,51 @@
     {
       "id": 138,
       "nombre": "Dr. Hell",
+      "cantidad": 1
+    },
+    {
+      "id": 685,
+      "nombre": "DB-073",
+      "cantidad": 1
+    },
+    {
+      "id": 1094,
+      "nombre": "CZ-EGON-SPENGLER",
+      "cantidad": 1
+    },
+    {
+      "id": 911,
+      "nombre": "MARTHA-KENT",
+      "cantidad": 1
+    },
+    {
+      "id": 207,
+      "nombre": "Slobster",
+      "cantidad": 1
+    },
+    {
+      "id": 921,
+      "nombre": "JULIET-PARRISH",
+      "cantidad": 1
+    },
+    {
+      "id": 690,
+      "nombre": "DB-078",
+      "cantidad": 1
+    },
+    {
+      "id": 1249,
+      "nombre": "MATRIMONIO-CON-HIJOS",
+      "cantidad": 1
+    },
+    {
+      "id": 1174,
+      "nombre": "ZATANA",
+      "cantidad": 1
+    },
+    {
+      "id": 492,
+      "nombre": "toasty",
       "cantidad": 1
     }
   ]

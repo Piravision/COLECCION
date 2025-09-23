@@ -349,12 +349,12 @@
     {
       "id": 83,
       "nombre": "zamza",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 227,
       "nombre": "Hawks Haven",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 190,
@@ -2164,7 +2164,7 @@
     {
       "id": 1014,
       "nombre": "YUGI",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1000,
@@ -3774,6 +3774,21 @@
     {
       "id": 1293,
       "nombre": "ALF",
+      "cantidad": 1
+    },
+    {
+      "id": 215,
+      "nombre": "Castillo Grayskull",
+      "cantidad": 1
+    },
+    {
+      "id": 329,
+      "nombre": "Lady Deadstrike",
+      "cantidad": 1
+    },
+    {
+      "id": 832,
+      "nombre": "BLANKA",
       "cantidad": 1
     }
   ]

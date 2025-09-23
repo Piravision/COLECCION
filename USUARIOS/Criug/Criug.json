@@ -2224,7 +2224,7 @@
         {
             "id": 27,
             "nombre": "Hank",
-            "cantidad": 6
+            "cantidad": 5
         },
         {
             "id": 423,
@@ -6319,6 +6319,11 @@
         {
             "id": 1087,
             "nombre": "1-LA-BANDA-DEL-PATIO",
+            "cantidad": 1
+        },
+        {
+            "id": 1169,
+            "nombre": "RED TORNADO",
             "cantidad": 1
         }
     ]

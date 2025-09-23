@@ -449,7 +449,7 @@
     {
       "id": 325,
       "nombre": "Apocalipsis",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 133,
@@ -1009,7 +1009,7 @@
     {
       "id": 825,
       "nombre": "SMOKE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 720,
@@ -1409,7 +1409,7 @@
     {
       "id": 910,
       "nombre": "LOIS-LANE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 414,
@@ -2264,7 +2264,7 @@
     {
       "id": 221,
       "nombre": "Espada Atlantean",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 940,
@@ -2884,6 +2884,16 @@
     {
       "id": 149,
       "nombre": "Modo",
+      "cantidad": 1
+    },
+    {
+      "id": 950,
+      "nombre": "1-PORTHOS",
+      "cantidad": 1
+    },
+    {
+      "id": 520,
+      "nombre": "BenGalí",
       "cantidad": 1
     }
   ]
