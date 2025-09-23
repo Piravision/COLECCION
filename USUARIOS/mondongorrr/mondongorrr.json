@@ -5329,7 +5329,7 @@
         {
             "id": 1300,
             "nombre": "FA-TOKI",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 183,
@@ -5999,6 +5999,11 @@
         {
             "id": 170,
             "nombre": "J. Jonah Jameson",
+            "cantidad": 1
+        },
+        {
+            "id": 829,
+            "nombre": "AKUMA",
             "cantidad": 1
         }
     ]
