@@ -809,7 +809,7 @@
     {
       "id": 198,
       "nombre": "Slammu",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 497,
@@ -2129,7 +2129,7 @@
     {
       "id": 220,
       "nombre": "DRAGON QUEST",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 713,
@@ -3929,6 +3929,11 @@
     {
       "id": 506,
       "nombre": "jin",
+      "cantidad": 1
+    },
+    {
+      "id": 1300,
+      "nombre": "FA-TOKI",
       "cantidad": 1
     }
   ]

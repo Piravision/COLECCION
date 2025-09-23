@@ -1599,7 +1599,7 @@
         {
             "id": 1110,
             "nombre": "G-ZOLTAR",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 941,
@@ -3744,6 +3744,11 @@
         {
             "id": 599,
             "nombre": "MARK-LENDERS",
+            "cantidad": 1
+        },
+        {
+            "id": 368,
+            "nombre": "DRACULA1",
             "cantidad": 1
         }
     ]
