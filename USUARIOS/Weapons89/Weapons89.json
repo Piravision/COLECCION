@@ -329,7 +329,7 @@
         {
             "id": 119,
             "nombre": "orko",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 230,
@@ -5454,6 +5454,11 @@
         {
             "id": 702,
             "nombre": "DB-090",
+            "cantidad": 1
+        },
+        {
+            "id": 668,
+            "nombre": "DB-056",
             "cantidad": 1
         }
     ]
