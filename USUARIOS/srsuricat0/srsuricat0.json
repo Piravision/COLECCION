@@ -4444,7 +4444,7 @@
         {
             "id": 993,
             "nombre": "GATOS-SAMURAI",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 783,
@@ -5729,6 +5729,11 @@
         {
             "id": 1007,
             "nombre": "SAILOR-MOON",
+            "cantidad": 1
+        },
+        {
+            "id": 1010,
+            "nombre": "LUPIN-III",
             "cantidad": 1
         }
     ]
