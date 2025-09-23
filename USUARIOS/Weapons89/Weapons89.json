@@ -2604,7 +2604,7 @@
         {
             "id": 805,
             "nombre": "GORO",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 939,
@@ -5469,6 +5469,11 @@
         {
             "id": 79,
             "nombre": "pororo",
+            "cantidad": 1
+        },
+        {
+            "id": 787,
+            "nombre": "DOS-CARAS",
             "cantidad": 1
         }
     ]
