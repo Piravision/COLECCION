@@ -5129,7 +5129,7 @@
         {
             "id": 1129,
             "nombre": "CRITTER-JAIL",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1174,
@@ -6144,6 +6144,11 @@
         {
             "id": 1224,
             "nombre": "SAMUS",
+            "cantidad": 1
+        },
+        {
+            "id": 981,
+            "nombre": "14-ETHYL-PHILLIPS",
             "cantidad": 1
         }
     ]

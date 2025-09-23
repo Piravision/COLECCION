@@ -1304,7 +1304,7 @@
         {
             "id": 981,
             "nombre": "14-ETHYL-PHILLIPS",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 968,
@@ -3634,6 +3634,11 @@
         {
             "id": 1012,
             "nombre": "Y.HURAMESHI",
+            "cantidad": 1
+        },
+        {
+            "id": 1129,
+            "nombre": "CRITTER-JAIL",
             "cantidad": 1
         }
     ]
