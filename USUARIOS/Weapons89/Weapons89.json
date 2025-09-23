@@ -1704,7 +1704,7 @@
         {
             "id": 653,
             "nombre": "DB-041",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 726,
@@ -5444,6 +5444,11 @@
         {
             "id": 97,
             "nombre": "Armadura Xanatos",
+            "cantidad": 1
+        },
+        {
+            "id": 711,
+            "nombre": "DB-099",
             "cantidad": 1
         }
     ]

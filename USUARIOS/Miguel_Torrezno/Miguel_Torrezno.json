@@ -2114,7 +2114,7 @@
         {
             "id": 711,
             "nombre": "DB-099",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 475,
@@ -3954,6 +3954,11 @@
         {
             "id": 904,
             "nombre": "CLARK-KENT",
+            "cantidad": 1
+        },
+        {
+            "id": 653,
+            "nombre": "DB-041",
             "cantidad": 1
         }
     ]
