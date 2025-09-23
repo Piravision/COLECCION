@@ -3169,7 +3169,7 @@
         {
             "id": 919,
             "nombre": "DONOVAN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 940,
@@ -6154,6 +6154,11 @@
         {
             "id": 1090,
             "nombre": "ANIMANIACS",
+            "cantidad": 1
+        },
+        {
+            "id": 1241,
+            "nombre": "EL-COCHE-FANTASTICO",
             "cantidad": 1
         }
     ]

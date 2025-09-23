@@ -2894,7 +2894,7 @@
         {
             "id": 1241,
             "nombre": "EL-COCHE-FANTASTICO",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 115,
@@ -3644,6 +3644,11 @@
         {
             "id": 1142,
             "nombre": "PEPPER-ANN",
+            "cantidad": 1
+        },
+        {
+            "id": 919,
+            "nombre": "DONOVAN",
             "cantidad": 1
         }
     ]
