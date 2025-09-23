@@ -2304,7 +2304,7 @@
         {
             "id": 789,
             "nombre": "ENIGMA",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 713,
@@ -5434,6 +5434,11 @@
         {
             "id": 825,
             "nombre": "SMOKE",
+            "cantidad": 1
+        },
+        {
+            "id": 873,
+            "nombre": "BLACK-WIDOW",
             "cantidad": 1
         }
     ]

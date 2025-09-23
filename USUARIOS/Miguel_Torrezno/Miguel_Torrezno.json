@@ -1899,7 +1899,7 @@
         {
             "id": 873,
             "nombre": "BLACK-WIDOW",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 707,
@@ -3944,6 +3944,11 @@
         {
             "id": 790,
             "nombre": "ESPANTAPAJAROS",
+            "cantidad": 1
+        },
+        {
+            "id": 789,
+            "nombre": "ENIGMA",
             "cantidad": 1
         }
     ]
