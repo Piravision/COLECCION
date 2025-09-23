@@ -3404,7 +3404,7 @@
         {
             "id": 26,
             "nombre": "Eric",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 267,
@@ -5334,6 +5334,11 @@
         {
             "id": 186,
             "nombre": "Mysterio",
+            "cantidad": 1
+        },
+        {
+            "id": 185,
+            "nombre": "Morbius",
             "cantidad": 1
         }
     ]
