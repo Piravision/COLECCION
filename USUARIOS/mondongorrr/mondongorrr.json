@@ -64,7 +64,7 @@
         {
             "id": 561,
             "nombre": "MARIO-JAIL",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 142,
@@ -6034,6 +6034,11 @@
         {
             "id": 727,
             "nombre": "DB-115",
+            "cantidad": 1
+        },
+        {
+            "id": 1268,
+            "nombre": "EZIO-AUDITORE",
             "cantidad": 1
         }
     ]

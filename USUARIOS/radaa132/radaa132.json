@@ -3559,7 +3559,7 @@
         {
             "id": 1268,
             "nombre": "EZIO-AUDITORE",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1135,
@@ -3954,6 +3954,11 @@
         {
             "id": 8,
             "nombre": "Hades",
+            "cantidad": 1
+        },
+        {
+            "id": 561,
+            "nombre": "MARIO-JAIL",
             "cantidad": 1
         }
     ]
