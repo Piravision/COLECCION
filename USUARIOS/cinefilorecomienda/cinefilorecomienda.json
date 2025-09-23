@@ -1509,7 +1509,7 @@
         {
             "id": 1090,
             "nombre": "ANIMANIACS",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 967,
@@ -3639,6 +3639,11 @@
         {
             "id": 1129,
             "nombre": "CRITTER-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 1142,
+            "nombre": "PEPPER-ANN",
             "cantidad": 1
         }
     ]
