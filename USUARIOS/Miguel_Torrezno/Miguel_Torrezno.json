@@ -234,7 +234,7 @@
         {
             "id": 162,
             "nombre": "Mon Star",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 174,
@@ -3914,6 +3914,11 @@
         {
             "id": 26,
             "nombre": "Eric",
+            "cantidad": 1
+        },
+        {
+            "id": 60,
+            "nombre": "baran",
             "cantidad": 1
         }
     ]
