@@ -479,7 +479,7 @@
         {
             "id": 287,
             "nombre": "Soldado del Pie",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 396,
@@ -514,7 +514,7 @@
         {
             "id": 35,
             "nombre": "AVAN DRAGON",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 497,
@@ -574,7 +574,7 @@
         {
             "id": 500,
             "nombre": "shu",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 327,
@@ -684,7 +684,7 @@
         {
             "id": 318,
             "nombre": "Morpho",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 177,
@@ -1124,7 +1124,7 @@
         {
             "id": 355,
             "nombre": "bayur",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 337,
@@ -1174,7 +1174,7 @@
         {
             "id": 219,
             "nombre": "Dirigible Tortuga",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 284,
@@ -1564,7 +1564,7 @@
         {
             "id": 25,
             "nombre": "Diana",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 854,
@@ -2789,7 +2789,7 @@
         {
             "id": 1013,
             "nombre": "YAIBA-KUROGAME",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 168,
@@ -3339,7 +3339,7 @@
         {
             "id": 754,
             "nombre": "Pandora",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 883,
@@ -3429,7 +3429,7 @@
         {
             "id": 12,
             "nombre": "Jezmine",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 1048,
@@ -5274,6 +5274,16 @@
         {
             "id": 408,
             "nombre": "Elisa--Gárgola",
+            "cantidad": 1
+        },
+        {
+            "id": 1018,
+            "nombre": "SUB-MARINER",
+            "cantidad": 1
+        },
+        {
+            "id": 501,
+            "nombre": "SOLON",
             "cantidad": 1
         }
     ]
