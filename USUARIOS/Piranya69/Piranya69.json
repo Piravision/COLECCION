@@ -3094,7 +3094,7 @@
     {
       "id": 710,
       "nombre": "DB-098",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 683,
@@ -4709,7 +4709,7 @@
     {
       "id": 841,
       "nombre": "GUILE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1016,
@@ -6489,6 +6489,11 @@
     {
       "id": 1291,
       "nombre": "SPARKSTER",
+      "cantidad": 1
+    },
+    {
+      "id": 1178,
+      "nombre": "ZATCH-BELL-&-K.TAKAMINE",
       "cantidad": 1
     }
   ]
