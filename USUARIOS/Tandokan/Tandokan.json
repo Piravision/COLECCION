@@ -1424,7 +1424,7 @@
         {
             "id": 713,
             "nombre": "DB-101",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 862,
@@ -5029,7 +5029,7 @@
         {
             "id": 1222,
             "nombre": "LINK",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1028,
@@ -5934,7 +5934,7 @@
         {
             "id": 183,
             "nombre": "Kraven",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1044,
@@ -6009,6 +6009,16 @@
         {
             "id": 213,
             "nombre": "Blackbird",
+            "cantidad": 1
+        },
+        {
+            "id": 1016,
+            "nombre": "1- VENOM",
+            "cantidad": 1
+        },
+        {
+            "id": 1160,
+            "nombre": "GOLDENAGE- GREEN LANTERN",
             "cantidad": 1
         }
     ]
