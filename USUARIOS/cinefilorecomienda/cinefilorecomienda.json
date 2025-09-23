@@ -1549,7 +1549,7 @@
         {
             "id": 1007,
             "nombre": "SAILOR-MOON",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 988,
@@ -3404,6 +3404,26 @@
         {
             "id": 27,
             "nombre": "Hank",
+            "cantidad": 1
+        },
+        {
+            "id": 1284,
+            "nombre": "ALEX-KIDD",
+            "cantidad": 1
+        },
+        {
+            "id": 96,
+            "nombre": "Lexington",
+            "cantidad": 1
+        },
+        {
+            "id": 774,
+            "nombre": "white",
+            "cantidad": 1
+        },
+        {
+            "id": 395,
+            "nombre": "DISCÍPULOS-DE-AVAN",
             "cantidad": 1
         }
     ]
