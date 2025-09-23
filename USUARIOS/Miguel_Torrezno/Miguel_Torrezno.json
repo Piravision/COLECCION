@@ -34,7 +34,7 @@
     {
       "id": 296,
       "nombre": "Jazz",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 303,
@@ -749,7 +749,7 @@
     {
       "id": 549,
       "nombre": "T-1000",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 273,
@@ -774,7 +774,7 @@
     {
       "id": 146,
       "nombre": "Siege",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 367,
@@ -934,7 +934,7 @@
     {
       "id": 59,
       "nombre": "balios",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 442,
@@ -2719,7 +2719,7 @@
     {
       "id": 510,
       "nombre": "PAUL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 748,
@@ -3789,6 +3789,11 @@
     {
       "id": 832,
       "nombre": "BLANKA",
+      "cantidad": 1
+    },
+    {
+      "id": 399,
+      "nombre": "cait",
       "cantidad": 1
     }
   ]
