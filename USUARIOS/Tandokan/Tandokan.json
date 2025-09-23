@@ -4564,7 +4564,7 @@
         {
             "id": 1041,
             "nombre": "FALCON-2",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1049,
@@ -6024,6 +6024,11 @@
         {
             "id": 658,
             "nombre": "DB-046",
+            "cantidad": 1
+        },
+        {
+            "id": 685,
+            "nombre": "DB-073",
             "cantidad": 1
         }
     ]
