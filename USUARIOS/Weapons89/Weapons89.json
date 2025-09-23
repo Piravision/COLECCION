@@ -4,7 +4,7 @@
         {
             "id": 321,
             "nombre": "Quicksilver",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 323,
@@ -5424,6 +5424,11 @@
         {
             "id": 1083,
             "nombre": "YELLOWJACKET & WASP",
+            "cantidad": 1
+        },
+        {
+            "id": 451,
+            "nombre": "perros",
             "cantidad": 1
         }
     ]
