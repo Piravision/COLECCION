@@ -1499,7 +1499,7 @@
         {
             "id": 790,
             "nombre": "ESPANTAPAJAROS",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 722,
@@ -5429,6 +5429,11 @@
         {
             "id": 451,
             "nombre": "perros",
+            "cantidad": 1
+        },
+        {
+            "id": 825,
+            "nombre": "SMOKE",
             "cantidad": 1
         }
     ]

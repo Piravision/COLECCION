@@ -2934,7 +2934,7 @@
         {
             "id": 825,
             "nombre": "SMOKE",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 211,
@@ -3939,6 +3939,11 @@
         {
             "id": 321,
             "nombre": "Quicksilver",
+            "cantidad": 1
+        },
+        {
+            "id": 790,
+            "nombre": "ESPANTAPAJAROS",
             "cantidad": 1
         }
     ]
