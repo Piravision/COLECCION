@@ -3069,7 +3069,7 @@
         {
             "id": 1265,
             "nombre": "BAYONETTA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1004,
@@ -3499,6 +3499,11 @@
         {
             "id": 944,
             "nombre": "JOKER-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 917,
+            "nombre": "MYERS-JAIL",
             "cantidad": 1
         }
     ]
