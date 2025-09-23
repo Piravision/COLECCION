@@ -1509,7 +1509,7 @@
         {
             "id": 288,
             "nombre": "Splinter",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 460,
@@ -5324,6 +5324,11 @@
         {
             "id": 196,
             "nombre": "Ripster",
+            "cantidad": 1
+        },
+        {
+            "id": 192,
+            "nombre": "Bends",
             "cantidad": 1
         }
     ]
