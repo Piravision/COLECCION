@@ -404,7 +404,7 @@
         {
             "id": 714,
             "nombre": "DB-102",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 21,
@@ -3684,6 +3684,11 @@
         {
             "id": 739,
             "nombre": "Athenea",
+            "cantidad": 1
+        },
+        {
+            "id": 939,
+            "nombre": "GHOSTFACE-JAIL",
             "cantidad": 1
         }
     ]

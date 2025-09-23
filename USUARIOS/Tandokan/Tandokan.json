@@ -4254,7 +4254,7 @@
         {
             "id": 939,
             "nombre": "GHOSTFACE-JAIL",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1223,
@@ -6104,6 +6104,11 @@
         {
             "id": 1156,
             "nombre": "ELONGATE MAN",
+            "cantidad": 1
+        },
+        {
+            "id": 714,
+            "nombre": "DB-102",
             "cantidad": 1
         }
     ]
