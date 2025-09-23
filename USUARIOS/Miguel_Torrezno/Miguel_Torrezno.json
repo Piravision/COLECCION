@@ -714,7 +714,7 @@
         {
             "id": 186,
             "nombre": "Mysterio",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 455,
@@ -3904,6 +3904,11 @@
         {
             "id": 288,
             "nombre": "Splinter",
+            "cantidad": 1
+        },
+        {
+            "id": 778,
+            "nombre": "ALFRED",
             "cantidad": 1
         }
     ]

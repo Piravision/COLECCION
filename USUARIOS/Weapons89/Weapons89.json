@@ -3599,7 +3599,7 @@
         {
             "id": 778,
             "nombre": "ALFRED",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1072,
@@ -5329,6 +5329,11 @@
         {
             "id": 192,
             "nombre": "Bends",
+            "cantidad": 1
+        },
+        {
+            "id": 186,
+            "nombre": "Mysterio",
             "cantidad": 1
         }
     ]
