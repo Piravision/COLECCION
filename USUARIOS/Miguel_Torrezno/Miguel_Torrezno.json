@@ -2219,7 +2219,7 @@
         {
             "id": 985,
             "nombre": "ALF-JAIL",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 889,
@@ -3824,6 +3824,11 @@
         {
             "id": 946,
             "nombre": "SLOTH-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 867,
+            "nombre": "SONNY-JAIL",
             "cantidad": 1
         }
     ]
