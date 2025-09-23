@@ -124,7 +124,7 @@
     {
       "id": 11,
       "nombre": "Greywolf",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 132,
@@ -1039,7 +1039,7 @@
     {
       "id": 561,
       "nombre": "MARIO-JAIL",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 462,
@@ -1074,7 +1074,7 @@
     {
       "id": 541,
       "nombre": "COBRA-1986",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 470,
@@ -1634,7 +1634,7 @@
     {
       "id": 87,
       "nombre": "Walter _Doc_ Hartford",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 266,
@@ -2504,7 +2504,7 @@
     {
       "id": 521,
       "nombre": "León-O",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 12,
@@ -3139,7 +3139,7 @@
     {
       "id": 18,
       "nombre": "Mesmira",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 874,
@@ -5134,7 +5134,7 @@
     {
       "id": 1016,
       "nombre": "1- VENOM",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1131,
@@ -5649,7 +5649,7 @@
     {
       "id": 1091,
       "nombre": "CAT&DOG",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1280,
@@ -5839,6 +5839,26 @@
     {
       "id": 1101,
       "nombre": "D-JOE-MCQUACK",
+      "cantidad": 1
+    },
+    {
+      "id": 626,
+      "nombre": "DB-014",
+      "cantidad": 1
+    },
+    {
+      "id": 1245,
+      "nombre": "PUNKY-BREWSTER",
+      "cantidad": 1
+    },
+    {
+      "id": 1053,
+      "nombre": "KANG",
+      "cantidad": 1
+    },
+    {
+      "id": 1118,
+      "nombre": "PF-PITUFO FILOSOFO",
       "cantidad": 1
     }
   ]
