@@ -459,7 +459,7 @@
     {
       "id": 156,
       "nombre": "Lord Camembert",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 40,
@@ -649,7 +649,7 @@
     {
       "id": 671,
       "nombre": "DB-059",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 719,
@@ -874,7 +874,7 @@
     {
       "id": 886,
       "nombre": "KARNAK",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 370,
@@ -1954,7 +1954,7 @@
     {
       "id": 684,
       "nombre": "DB-072",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 119,
@@ -2409,7 +2409,7 @@
     {
       "id": 714,
       "nombre": "DB-102",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1056,
@@ -3029,7 +3029,7 @@
     {
       "id": 1113,
       "nombre": "LOS-FRUITIS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1096,
@@ -3339,7 +3339,7 @@
     {
       "id": 63,
       "nombre": "drabaran",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 357,
@@ -3559,7 +3559,7 @@
     {
       "id": 1268,
       "nombre": "EZIO-AUDITORE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1135,
@@ -3909,6 +3909,41 @@
     {
       "id": 770,
       "nombre": "red",
+      "cantidad": 1
+    },
+    {
+      "id": 638,
+      "nombre": "DB-026",
+      "cantidad": 1
+    },
+    {
+      "id": 405,
+      "nombre": "tifa",
+      "cantidad": 1
+    },
+    {
+      "id": 911,
+      "nombre": "MARTHA-KENT",
+      "cantidad": 1
+    },
+    {
+      "id": 1196,
+      "nombre": "1-YOSHI",
+      "cantidad": 1
+    },
+    {
+      "id": 1036,
+      "nombre": "CAPITAN MARVEL",
+      "cantidad": 1
+    },
+    {
+      "id": 1089,
+      "nombre": "ACE-VENTURA",
+      "cantidad": 1
+    },
+    {
+      "id": 392,
+      "nombre": "roover",
       "cantidad": 1
     }
   ]

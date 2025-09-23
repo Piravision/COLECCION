@@ -2309,7 +2309,7 @@
     {
       "id": 542,
       "nombre": "DIE-HARD",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 185,
@@ -2494,7 +2494,7 @@
     {
       "id": 451,
       "nombre": "perros",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 521,
@@ -5934,6 +5934,11 @@
     {
       "id": 1048,
       "nombre": "I- CRYSTAL",
+      "cantidad": 1
+    },
+    {
+      "id": 1274,
+      "nombre": "KIRBY",
       "cantidad": 1
     }
   ]
