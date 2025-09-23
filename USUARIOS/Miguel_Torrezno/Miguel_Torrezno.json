@@ -174,7 +174,7 @@
         {
             "id": 266,
             "nombre": "Leonardo",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 300,
@@ -239,7 +239,7 @@
         {
             "id": 174,
             "nombre": "Spiderman",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 479,
@@ -369,7 +369,7 @@
         {
             "id": 179,
             "nombre": "Duende Verde",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 104,
@@ -719,7 +719,7 @@
         {
             "id": 455,
             "nombre": "batsu",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 38,
@@ -914,7 +914,7 @@
         {
             "id": 460,
             "nombre": "miura",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 546,
@@ -1939,7 +1939,7 @@
         {
             "id": 576,
             "nombre": "ALAN-CROCKET",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 603,
@@ -3004,7 +3004,7 @@
         {
             "id": 870,
             "nombre": "BARON-ZEMO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 980,
@@ -3179,7 +3179,7 @@
         {
             "id": 451,
             "nombre": "perros",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 454,
@@ -3304,7 +3304,7 @@
         {
             "id": 1277,
             "nombre": "BATMAN-&-ROBIN",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1079,
@@ -3829,6 +3829,56 @@
         {
             "id": 867,
             "nombre": "SONNY-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 1289,
+            "nombre": "KID-ICARUS",
+            "cantidad": 1
+        },
+        {
+            "id": 1224,
+            "nombre": "SAMUS",
+            "cantidad": 1
+        },
+        {
+            "id": 1291,
+            "nombre": "SPARKSTER",
+            "cantidad": 1
+        },
+        {
+            "id": 459,
+            "nombre": "Kyosuke",
+            "cantidad": 1
+        },
+        {
+            "id": 915,
+            "nombre": "WONDER-WOMAN",
+            "cantidad": 1
+        },
+        {
+            "id": 346,
+            "nombre": "jess",
+            "cantidad": 1
+        },
+        {
+            "id": 258,
+            "nombre": "Mumm Ra",
+            "cantidad": 1
+        },
+        {
+            "id": 945,
+            "nombre": "MASK-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 1024,
+            "nombre": "4FV - SILVER SURFER",
+            "cantidad": 1
+        },
+        {
+            "id": 1002,
+            "nombre": "NARUTO-UZUMAKI",
             "cantidad": 1
         }
     ]

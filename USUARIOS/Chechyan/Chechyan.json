@@ -1299,7 +1299,7 @@
     {
       "id": 866,
       "nombre": "SNAKE-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1163,
@@ -1484,7 +1484,7 @@
     {
       "id": 14,
       "nombre": "Snagg",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1206,
@@ -1804,7 +1804,7 @@
     {
       "id": 1043,
       "nombre": "H- SHE-HULK-2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1051,
@@ -1914,7 +1914,7 @@
     {
       "id": 1255,
       "nombre": "STARGATE-SG-1",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 389,
@@ -1994,7 +1994,7 @@
     {
       "id": 547,
       "nombre": "ROCKY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1077,
@@ -2379,7 +2379,7 @@
     {
       "id": 1156,
       "nombre": "ELONGATE MAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 858,
@@ -2759,7 +2759,7 @@
     {
       "id": 629,
       "nombre": "DB-017",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1146,
@@ -3164,7 +3164,7 @@
     {
       "id": 352,
       "nombre": "septimus",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 354,
@@ -3549,7 +3549,7 @@
     {
       "id": 138,
       "nombre": "Dr. Hell",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 685,
@@ -3664,6 +3664,21 @@
     {
       "id": 97,
       "nombre": "Armadura Xanatos",
+      "cantidad": 1
+    },
+    {
+      "id": 226,
+      "nombre": "Guerreros de Piedra",
+      "cantidad": 1
+    },
+    {
+      "id": 1103,
+      "nombre": "FRAGGLE-ROCK",
+      "cantidad": 1
+    },
+    {
+      "id": 785,
+      "nombre": "CATWOMAN",
       "cantidad": 1
     }
   ]
