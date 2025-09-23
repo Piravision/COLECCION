@@ -854,7 +854,7 @@
         {
             "id": 750,
             "nombre": "Milo-de-Escorpio",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 510,
@@ -6084,6 +6084,11 @@
         {
             "id": 733,
             "nombre": "DB-121",
+            "cantidad": 1
+        },
+        {
+            "id": 166,
+            "nombre": "Estrella de Fuego",
             "cantidad": 1
         }
     ]

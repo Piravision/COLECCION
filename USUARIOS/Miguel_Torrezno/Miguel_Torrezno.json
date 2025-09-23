@@ -79,7 +79,7 @@
         {
             "id": 166,
             "nombre": "Estrella de Fuego",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 283,
@@ -3799,6 +3799,11 @@
         {
             "id": 751,
             "nombre": "Minos",
+            "cantidad": 1
+        },
+        {
+            "id": 750,
+            "nombre": "Milo-de-Escorpio",
             "cantidad": 1
         }
     ]
