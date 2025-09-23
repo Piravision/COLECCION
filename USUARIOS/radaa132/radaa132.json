@@ -2219,7 +2219,7 @@
         {
             "id": 1090,
             "nombre": "ANIMANIACS",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 676,
@@ -3959,6 +3959,11 @@
         {
             "id": 561,
             "nombre": "MARIO-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 958,
+            "nombre": "2-ZIPPER",
             "cantidad": 1
         }
     ]
