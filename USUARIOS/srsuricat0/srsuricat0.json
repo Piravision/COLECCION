@@ -1919,7 +1919,7 @@
         {
             "id": 534,
             "nombre": "T800-Jail",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 23,
@@ -5764,6 +5764,11 @@
         {
             "id": 1215,
             "nombre": "5-JOE-MUSASHI",
+            "cantidad": 1
+        },
+        {
+            "id": 1261,
+            "nombre": "FA-MEGAMAN",
             "cantidad": 1
         }
     ]
