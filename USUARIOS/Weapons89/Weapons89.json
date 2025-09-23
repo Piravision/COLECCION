@@ -4949,7 +4949,7 @@
         {
             "id": 1060,
             "nombre": "QUICKSILVER",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1002,
@@ -5354,6 +5354,11 @@
         {
             "id": 160,
             "nombre": "Steelheart",
+            "cantidad": 1
+        },
+        {
+            "id": 161,
+            "nombre": "Steelwill",
             "cantidad": 1
         }
     ]
