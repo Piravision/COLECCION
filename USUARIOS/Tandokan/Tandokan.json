@@ -1539,7 +1539,7 @@
         {
             "id": 160,
             "nombre": "Steelheart",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 112,
@@ -6124,6 +6124,11 @@
         {
             "id": 1255,
             "nombre": "STARGATE-SG-1",
+            "cantidad": 1
+        },
+        {
+            "id": 1152,
+            "nombre": "BLACK CANNARY",
             "cantidad": 1
         }
     ]
