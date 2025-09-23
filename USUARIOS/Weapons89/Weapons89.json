@@ -844,7 +844,7 @@
         {
             "id": 379,
             "nombre": "lynx",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 117,
@@ -5409,6 +5409,11 @@
         {
             "id": 1115,
             "nombre": "PF-GARGAMEL-&-AZRAEL",
+            "cantidad": 1
+        },
+        {
+            "id": 1181,
+            "nombre": "DEXTER",
             "cantidad": 1
         }
     ]
