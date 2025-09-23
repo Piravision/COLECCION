@@ -3324,7 +3324,7 @@
         {
             "id": 1034,
             "nombre": "CAPITAN BRITANIA-2",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 769,
@@ -3484,6 +3484,11 @@
         {
             "id": 579,
             "nombre": "BOB-DENVER",
+            "cantidad": 1
+        },
+        {
+            "id": 587,
+            "nombre": "EDDY-BRIGHT",
             "cantidad": 1
         }
     ]
