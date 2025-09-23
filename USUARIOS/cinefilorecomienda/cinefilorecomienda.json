@@ -874,7 +874,7 @@
         {
             "id": 819,
             "nombre": "SCORPION",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 567,
@@ -3429,6 +3429,11 @@
         {
             "id": 993,
             "nombre": "GATOS-SAMURAI",
+            "cantidad": 1
+        },
+        {
+            "id": 997,
+            "nombre": "IKKI-&-METABEE",
             "cantidad": 1
         }
     ]
