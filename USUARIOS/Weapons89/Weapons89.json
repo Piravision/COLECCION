@@ -1419,7 +1419,7 @@
         {
             "id": 371,
             "nombre": "muerte2",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 572,
@@ -5404,6 +5404,11 @@
         {
             "id": 1110,
             "nombre": "G-ZOLTAR",
+            "cantidad": 1
+        },
+        {
+            "id": 1115,
+            "nombre": "PF-GARGAMEL-&-AZRAEL",
             "cantidad": 1
         }
     ]
