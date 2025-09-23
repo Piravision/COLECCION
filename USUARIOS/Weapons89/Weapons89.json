@@ -3744,7 +3744,7 @@
         {
             "id": 1095,
             "nombre": "CZ-PETER-VENKMAN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 724,
@@ -5459,6 +5459,11 @@
         {
             "id": 668,
             "nombre": "DB-056",
+            "cantidad": 1
+        },
+        {
+            "id": 616,
+            "nombre": "DB-004",
             "cantidad": 1
         }
     ]
