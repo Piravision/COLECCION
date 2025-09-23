@@ -2024,7 +2024,7 @@
         {
             "id": 352,
             "nombre": "septimus",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 552,
@@ -5739,6 +5739,11 @@
         {
             "id": 819,
             "nombre": "SCORPION",
+            "cantidad": 1
+        },
+        {
+            "id": 909,
+            "nombre": "LOBO",
             "cantidad": 1
         }
     ]
