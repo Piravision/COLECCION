@@ -2129,7 +2129,7 @@
         {
             "id": 630,
             "nombre": "DB-018",
-            "cantidad": 6
+            "cantidad": 5
         },
         {
             "id": 338,
@@ -6134,6 +6134,11 @@
         {
             "id": 1060,
             "nombre": "QUICKSILVER",
+            "cantidad": 1
+        },
+        {
+            "id": 656,
+            "nombre": "DB-044",
             "cantidad": 1
         }
     ]
