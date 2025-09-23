@@ -3179,7 +3179,7 @@
         {
             "id": 1123,
             "nombre": "EDWARD-&-AI",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1232,
@@ -3504,6 +3504,11 @@
         {
             "id": 917,
             "nombre": "MYERS-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 941,
+            "nombre": "GREMLIN-JAIL",
             "cantidad": 1
         }
     ]
