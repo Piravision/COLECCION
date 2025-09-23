@@ -2474,7 +2474,7 @@
         {
             "id": 213,
             "nombre": "Blackbird",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 13,
@@ -6344,6 +6344,11 @@
         {
             "id": 1018,
             "nombre": "SUB-MARINER",
+            "cantidad": 1
+        },
+        {
+            "id": 1115,
+            "nombre": "PF-GARGAMEL-&-AZRAEL",
             "cantidad": 1
         }
     ]
