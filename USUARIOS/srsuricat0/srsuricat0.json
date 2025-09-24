@@ -1384,7 +1384,7 @@
     {
       "id": 125,
       "nombre": "Teela",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 462,
@@ -1614,7 +1614,7 @@
     {
       "id": 318,
       "nombre": "Morpho",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 530,
@@ -2404,7 +2404,7 @@
     {
       "id": 569,
       "nombre": "MACHO-MAN",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 536,
@@ -3239,7 +3239,7 @@
     {
       "id": 254,
       "nombre": "Chacalo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 786,
@@ -5174,7 +5174,7 @@
     {
       "id": 1094,
       "nombre": "CZ-EGON-SPENGLER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 972,
@@ -5964,6 +5964,11 @@
     {
       "id": 1098,
       "nombre": "CZA-MOQUETE",
+      "cantidad": 1
+    },
+    {
+      "id": 1233,
+      "nombre": "CONTRA",
       "cantidad": 1
     }
   ]

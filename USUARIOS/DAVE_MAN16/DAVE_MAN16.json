@@ -1694,7 +1694,7 @@
     {
       "id": 454,
       "nombre": "zombi",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 168,
@@ -3009,6 +3009,16 @@
     {
       "id": 1246,
       "nombre": "LA-NINERA",
+      "cantidad": 1
+    },
+    {
+      "id": 894,
+      "nombre": "RED-SKULL",
+      "cantidad": 1
+    },
+    {
+      "id": 470,
+      "nombre": "Floatstinger",
       "cantidad": 1
     }
   ]

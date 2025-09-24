@@ -149,7 +149,7 @@
         {
             "id": 74,
             "nombre": "larhart",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 387,
@@ -924,7 +924,7 @@
         {
             "id": 409,
             "nombre": "Kōji-Kabuto",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 361,
@@ -1099,7 +1099,7 @@
         {
             "id": 334,
             "nombre": "Siniestro",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 102,
@@ -1239,7 +1239,7 @@
         {
             "id": 637,
             "nombre": "DB-025",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 389,
@@ -1354,7 +1354,7 @@
         {
             "id": 629,
             "nombre": "DB-017",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 623,
@@ -1434,7 +1434,7 @@
         {
             "id": 699,
             "nombre": "DB-087",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 721,
@@ -3044,7 +3044,7 @@
         {
             "id": 541,
             "nombre": "COBRA-1986",
-            "cantidad": 6
+            "cantidad": 7
         },
         {
             "id": 938,
@@ -3904,7 +3904,7 @@
         {
             "id": 945,
             "nombre": "MASK-JAIL",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1094,
@@ -4254,7 +4254,7 @@
         {
             "id": 936,
             "nombre": "THE-ROCK",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 843,
@@ -4864,7 +4864,7 @@
         {
             "id": 766,
             "nombre": "goldar",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1243,
@@ -5529,6 +5529,26 @@
         {
             "id": 1162,
             "nombre": "GOLDENAGE-BATMAN",
+            "cantidad": 1
+        },
+        {
+            "id": 1300,
+            "nombre": "FA-TOKI",
+            "cantidad": 1
+        },
+        {
+            "id": 1023,
+            "nombre": "4F- THE-FANTASTIC-4",
+            "cantidad": 1
+        },
+        {
+            "id": 1139,
+            "nombre": "MARSUPILAMI",
+            "cantidad": 1
+        },
+        {
+            "id": 1222,
+            "nombre": "LINK",
             "cantidad": 1
         }
     ]

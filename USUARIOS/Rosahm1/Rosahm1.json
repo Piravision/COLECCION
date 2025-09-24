@@ -204,7 +204,7 @@
     {
       "id": 228,
       "nombre": "Isla Dermline",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 164,
@@ -284,7 +284,7 @@
     {
       "id": 145,
       "nombre": "Lord Dragaunus",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 114,
@@ -479,7 +479,7 @@
     {
       "id": 143,
       "nombre": "Wildwing Flashblade",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 385,
@@ -759,7 +759,7 @@
     {
       "id": 270,
       "nombre": "Napoleon Bonafrog",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 20,
@@ -2444,7 +2444,7 @@
     {
       "id": 27,
       "nombre": "Hank",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 223,
@@ -2634,7 +2634,7 @@
     {
       "id": 78,
       "nombre": "myse",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 878,
@@ -2949,7 +2949,7 @@
     {
       "id": 782,
       "nombre": "BATMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 607,
@@ -3014,7 +3014,7 @@
     {
       "id": 861,
       "nombre": "MARTY-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 505,
@@ -3059,7 +3059,7 @@
     {
       "id": 917,
       "nombre": "MYERS-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 747,
@@ -3334,7 +3334,7 @@
     {
       "id": 139,
       "nombre": "Duke L'Orange",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 382,
@@ -3709,7 +3709,7 @@
     {
       "id": 241,
       "nombre": "Thunder Tank",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 957,
@@ -5054,7 +5054,7 @@
     {
       "id": 1222,
       "nombre": "LINK",
-      "cantidad": 2
+      "cantidad": 1
     },
     {
       "id": 843,
@@ -5479,7 +5479,7 @@
     {
       "id": 1062,
       "nombre": "SP- SPIDERMAN-2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1210,
@@ -5509,7 +5509,7 @@
     {
       "id": 1157,
       "nombre": "FIRESTORM",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1102,
@@ -5584,7 +5584,7 @@
     {
       "id": 1227,
       "nombre": "VIVI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1212,
@@ -5909,6 +5909,16 @@
     {
       "id": 1142,
       "nombre": "PEPPER-ANN",
+      "cantidad": 1
+    },
+    {
+      "id": 945,
+      "nombre": "MASK-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1266,
+      "nombre": "CHRONO",
       "cantidad": 1
     }
   ]

@@ -39,7 +39,7 @@
     {
       "id": 303,
       "nombre": "Megatron",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 316,
@@ -864,7 +864,7 @@
     {
       "id": 312,
       "nombre": "Bestia",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 29,
@@ -3084,7 +3084,7 @@
     {
       "id": 75,
       "nombre": "mac",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 529,
@@ -3129,7 +3129,7 @@
     {
       "id": 141,
       "nombre": "Nosedive Flashblade",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 792,
@@ -3274,7 +3274,7 @@
     {
       "id": 354,
       "nombre": "alice",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 157,
@@ -3344,7 +3344,7 @@
     {
       "id": 134,
       "nombre": "Tri Klops",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 726,
@@ -3389,7 +3389,7 @@
     {
       "id": 359,
       "nombre": "long",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 362,
@@ -3584,7 +3584,7 @@
     {
       "id": 539,
       "nombre": "BRUCE-LEE2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 557,
@@ -3759,7 +3759,7 @@
     {
       "id": 766,
       "nombre": "goldar",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 746,
@@ -3809,7 +3809,7 @@
     {
       "id": 360,
       "nombre": "stung",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 743,
@@ -3854,7 +3854,7 @@
     {
       "id": 915,
       "nombre": "WONDER-WOMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 346,
@@ -3939,7 +3939,7 @@
     {
       "id": 321,
       "nombre": "Quicksilver",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 790,
@@ -4009,6 +4009,21 @@
     {
       "id": 1188,
       "nombre": "CARMEN-SANDIEGO",
+      "cantidad": 1
+    },
+    {
+      "id": 133,
+      "nombre": "Trap Jaw",
+      "cantidad": 1
+    },
+    {
+      "id": 1025,
+      "nombre": "4FV -DR.DOOM",
+      "cantidad": 1
+    },
+    {
+      "id": 1034,
+      "nombre": "CAPITAN BRITANIA-2",
       "cantidad": 1
     }
   ]
