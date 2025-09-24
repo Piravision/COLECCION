@@ -1104,7 +1104,7 @@
     {
       "id": 317,
       "nombre": "Jean Grey",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 539,
@@ -2129,7 +2129,7 @@
     {
       "id": 927,
       "nombre": "BRET-HART",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1204,
@@ -2269,7 +2269,7 @@
     {
       "id": 469,
       "nombre": "Dahlia Gillespie",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 913,
@@ -2679,7 +2679,7 @@
     {
       "id": 935,
       "nombre": "STONE-COLD",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 61,
@@ -3804,6 +3804,31 @@
     {
       "id": 500,
       "nombre": "shu",
+      "cantidad": 1
+    },
+    {
+      "id": 677,
+      "nombre": "DB-065",
+      "cantidad": 1
+    },
+    {
+      "id": 135,
+      "nombre": "Afrodita A",
+      "cantidad": 1
+    },
+    {
+      "id": 406,
+      "nombre": "turcos",
+      "cantidad": 1
+    },
+    {
+      "id": 478,
+      "nombre": "nurse",
+      "cantidad": 1
+    },
+    {
+      "id": 889,
+      "nombre": "LUKE-CAGE",
       "cantidad": 1
     }
   ]

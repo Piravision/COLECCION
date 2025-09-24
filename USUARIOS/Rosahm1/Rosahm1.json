@@ -19,7 +19,7 @@
     {
       "id": 301,
       "nombre": "Astrotrain",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 107,
@@ -89,7 +89,7 @@
     {
       "id": 9,
       "nombre": "Rhadamanthys",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 220,
@@ -194,7 +194,7 @@
     {
       "id": 255,
       "nombre": "Ma Mutt",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 104,
@@ -259,7 +259,7 @@
     {
       "id": 24,
       "nombre": "Bobby",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 261,
@@ -529,7 +529,7 @@
     {
       "id": 363,
       "nombre": "Chuache-DesafioTotal",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 480,
@@ -949,7 +949,7 @@
     {
       "id": 498,
       "nombre": "riou",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 562,
@@ -1544,7 +1544,7 @@
     {
       "id": 285,
       "nombre": "Rocksteady",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 294,
@@ -1824,7 +1824,7 @@
     {
       "id": 582,
       "nombre": "CONTI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 115,
@@ -2119,7 +2119,7 @@
     {
       "id": 756,
       "nombre": "Rhadamantis2",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 102,
@@ -2184,7 +2184,7 @@
     {
       "id": 697,
       "nombre": "DB-085",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 748,
@@ -2264,7 +2264,7 @@
     {
       "id": 144,
       "nombre": "Grin-Hardwing",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 767,
@@ -2324,7 +2324,7 @@
     {
       "id": 702,
       "nombre": "DB-090",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 58,
@@ -3084,7 +3084,7 @@
     {
       "id": 718,
       "nombre": "DB-106",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 880,
@@ -3119,7 +3119,7 @@
     {
       "id": 822,
       "nombre": "SHAO-KAHN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 503,
@@ -3254,7 +3254,7 @@
     {
       "id": 407,
       "nombre": "yuffie",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 523,
@@ -3424,7 +3424,7 @@
     {
       "id": 856,
       "nombre": "BEETLEJUICE-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 555,
@@ -3769,7 +3769,7 @@
     {
       "id": 805,
       "nombre": "GORO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 862,
@@ -3849,7 +3849,7 @@
     {
       "id": 921,
       "nombre": "JULIET-PARRISH",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 653,
@@ -4619,7 +4619,7 @@
     {
       "id": 860,
       "nombre": "MAHONEY-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 510,
@@ -4749,7 +4749,7 @@
     {
       "id": 896,
       "nombre": "SHE-HULK",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1172,
@@ -5209,7 +5209,7 @@
     {
       "id": 1066,
       "nombre": "TH - THOR-2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1021,
@@ -5339,7 +5339,7 @@
     {
       "id": 1278,
       "nombre": "BUFFY-CAZAVAMPIROS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1087,
@@ -5809,7 +5809,7 @@
     {
       "id": 1136,
       "nombre": "JOHNNY-BRAVO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 804,
@@ -5839,7 +5839,7 @@
     {
       "id": 1101,
       "nombre": "D-JOE-MCQUACK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 626,
@@ -5869,11 +5869,46 @@
     {
       "id": 1268,
       "nombre": "EZIO-AUDITORE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1152,
       "nombre": "BLACK CANNARY",
+      "cantidad": 1
+    },
+    {
+      "id": 1298,
+      "nombre": "FA-ALTERED BEAST",
+      "cantidad": 1
+    },
+    {
+      "id": 1119,
+      "nombre": "PF-PITUFO-FORTACHON",
+      "cantidad": 1
+    },
+    {
+      "id": 1254,
+      "nombre": "SEINFELD",
+      "cantidad": 1
+    },
+    {
+      "id": 1026,
+      "nombre": "4FV -SUPERSKRULL",
+      "cantidad": 1
+    },
+    {
+      "id": 1159,
+      "nombre": "GOLDENAGE- FLASH",
+      "cantidad": 1
+    },
+    {
+      "id": 1065,
+      "nombre": "TH - LOKI-2",
+      "cantidad": 1
+    },
+    {
+      "id": 1142,
+      "nombre": "PEPPER-ANN",
       "cantidad": 1
     }
   ]

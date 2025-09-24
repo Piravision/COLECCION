@@ -2384,7 +2384,7 @@
         {
             "id": 95,
             "nombre": "Hudson",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 614,
@@ -6419,6 +6419,11 @@
         {
             "id": 1045,
             "nombre": "HAWKEYE-2",
+            "cantidad": 1
+        },
+        {
+            "id": 1071,
+            "nombre": "USAGENT",
             "cantidad": 1
         }
     ]
