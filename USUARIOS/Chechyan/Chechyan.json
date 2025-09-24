@@ -444,7 +444,7 @@
     {
       "id": 373,
       "nombre": "SHAFT",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 991,
@@ -1244,7 +1244,7 @@
     {
       "id": 693,
       "nombre": "DB-081",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 422,
@@ -1444,7 +1444,7 @@
     {
       "id": 613,
       "nombre": "DB-001",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 225,
@@ -2134,7 +2134,7 @@
     {
       "id": 1204,
       "nombre": "3-KNUCKLES",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1137,
@@ -2634,7 +2634,7 @@
     {
       "id": 1143,
       "nombre": "PINKY-&-CEREBRO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 887,
@@ -3269,7 +3269,7 @@
     {
       "id": 184,
       "nombre": "Lizard",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1090,
@@ -3774,6 +3774,36 @@
     {
       "id": 420,
       "nombre": "mei",
+      "cantidad": 1
+    },
+    {
+      "id": 288,
+      "nombre": "Splinter",
+      "cantidad": 1
+    },
+    {
+      "id": 663,
+      "nombre": "DB-051",
+      "cantidad": 1
+    },
+    {
+      "id": 1039,
+      "nombre": "DAREDEVIL-2",
+      "cantidad": 1
+    },
+    {
+      "id": 721,
+      "nombre": "DB-109",
+      "cantidad": 1
+    },
+    {
+      "id": 1270,
+      "nombre": "FA-MONKEY-ISLAND",
+      "cantidad": 1
+    },
+    {
+      "id": 500,
+      "nombre": "shu",
       "cantidad": 1
     }
   ]
