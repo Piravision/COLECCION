@@ -1444,7 +1444,7 @@
     {
       "id": 357,
       "nombre": "china",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 678,
@@ -2969,7 +2969,7 @@
     {
       "id": 358,
       "nombre": "jenny",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 742,
@@ -4014,7 +4014,7 @@
     {
       "id": 359,
       "nombre": "long",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 529,
@@ -5919,6 +5919,31 @@
     {
       "id": 1266,
       "nombre": "CHRONO",
+      "cantidad": 1
+    },
+    {
+      "id": 1203,
+      "nombre": "2Z-PAC-MAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1250,
+      "nombre": "MIAMI-VICE",
+      "cantidad": 1
+    },
+    {
+      "id": 1113,
+      "nombre": "LOS-FRUITIS",
+      "cantidad": 1
+    },
+    {
+      "id": 1265,
+      "nombre": "BAYONETTA",
+      "cantidad": 1
+    },
+    {
+      "id": 1275,
+      "nombre": "RAYMAN",
       "cantidad": 1
     }
   ]

@@ -184,7 +184,7 @@
         {
             "id": 275,
             "nombre": "Usagi Yojimbo",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 303,
@@ -984,7 +984,7 @@
         {
             "id": 268,
             "nombre": "Michelangelo",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 197,
@@ -1864,7 +1864,7 @@
         {
             "id": 338,
             "nombre": "Shiryū de Dragón",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 850,
@@ -2449,7 +2449,7 @@
         {
             "id": 695,
             "nombre": "DB-083",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 283,
@@ -2949,7 +2949,7 @@
         {
             "id": 1000,
             "nombre": "SON-GOKU",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 757,
@@ -3179,7 +3179,7 @@
         {
             "id": 28,
             "nombre": "Presto",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 774,
@@ -3264,7 +3264,7 @@
         {
             "id": 861,
             "nombre": "MARTY-JAIL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 762,
@@ -4339,7 +4339,7 @@
         {
             "id": 1267,
             "nombre": "DARKSTALKERS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 413,
@@ -4684,7 +4684,7 @@
         {
             "id": 1263,
             "nombre": "SALVADOS-POR-LA-CAMPANA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 986,
@@ -4739,7 +4739,7 @@
         {
             "id": 646,
             "nombre": "DB-034",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 271,
@@ -5234,7 +5234,7 @@
         {
             "id": 657,
             "nombre": "DB-045",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 479,
@@ -5549,6 +5549,66 @@
         {
             "id": 1222,
             "nombre": "LINK",
+            "cantidad": 1
+        },
+        {
+            "id": 613,
+            "nombre": "DB-001",
+            "cantidad": 1
+        },
+        {
+            "id": 617,
+            "nombre": "DB-005",
+            "cantidad": 1
+        },
+        {
+            "id": 1172,
+            "nombre": "SUPERMAN",
+            "cantidad": 1
+        },
+        {
+            "id": 1192,
+            "nombre": "THUNDARR",
+            "cantidad": 1
+        },
+        {
+            "id": 1032,
+            "nombre": "BV- VISION",
+            "cantidad": 1
+        },
+        {
+            "id": 1069,
+            "nombre": "TIGRA",
+            "cantidad": 1
+        },
+        {
+            "id": 1073,
+            "nombre": "X - CYCLOPS",
+            "cantidad": 1
+        },
+        {
+            "id": 422,
+            "nombre": "meryl",
+            "cantidad": 1
+        },
+        {
+            "id": 830,
+            "nombre": "BALROG",
+            "cantidad": 1
+        },
+        {
+            "id": 1190,
+            "nombre": "METEORO",
+            "cantidad": 1
+        },
+        {
+            "id": 1104,
+            "nombre": "G-AUTILLO",
+            "cantidad": 1
+        },
+        {
+            "id": 1209,
+            "nombre": "4-DOUBLE-DRAGON",
             "cantidad": 1
         }
     ]
