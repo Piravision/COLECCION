@@ -449,7 +449,7 @@
         {
             "id": 389,
             "nombre": "neo cortex",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 415,
@@ -1294,7 +1294,7 @@
         {
             "id": 873,
             "nombre": "BLACK-WIDOW",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 649,
@@ -1464,7 +1464,7 @@
         {
             "id": 854,
             "nombre": "RIC-FLAIR",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 181,
@@ -4214,7 +4214,7 @@
         {
             "id": 608,
             "nombre": "SHUN-NITTA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 611,
@@ -4689,7 +4689,7 @@
         {
             "id": 975,
             "nombre": "7-PENNY",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1261,
@@ -4754,7 +4754,7 @@
         {
             "id": 1111,
             "nombre": "G1-COMANDO-G",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 645,
@@ -5494,7 +5494,7 @@
         {
             "id": 1007,
             "nombre": "SAILOR-MOON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1129,
@@ -6069,6 +6069,11 @@
         {
             "id": 1141,
             "nombre": "PATOAVENTURAS",
+            "cantidad": 1
+        },
+        {
+            "id": 1013,
+            "nombre": "YAIBA-KUROGAME",
             "cantidad": 1
         }
     ]
