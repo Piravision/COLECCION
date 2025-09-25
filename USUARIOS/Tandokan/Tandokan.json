@@ -1209,7 +1209,7 @@
         {
             "id": 795,
             "nombre": "JOKER",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 783,
@@ -6239,6 +6239,11 @@
         {
             "id": 1200,
             "nombre": "2-DONKEY-KONG",
+            "cantidad": 1
+        },
+        {
+            "id": 1209,
+            "nombre": "4-DOUBLE-DRAGON",
             "cantidad": 1
         }
     ]
