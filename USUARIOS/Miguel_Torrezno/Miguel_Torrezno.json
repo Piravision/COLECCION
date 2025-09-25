@@ -2974,7 +2974,7 @@
     {
       "id": 842,
       "nombre": "GUILE2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1250,
@@ -3359,7 +3359,7 @@
     {
       "id": 833,
       "nombre": "blanka2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 849,
@@ -4079,6 +4079,11 @@
     {
       "id": 1255,
       "nombre": "STARGATE-SG-1",
+      "cantidad": 1
+    },
+    {
+      "id": 834,
+      "nombre": "CAMMY",
       "cantidad": 1
     }
   ]
