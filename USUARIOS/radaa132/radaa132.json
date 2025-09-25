@@ -1349,7 +1349,7 @@
         {
             "id": 804,
             "nombre": "BARAKA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 801,
@@ -4134,6 +4134,11 @@
         {
             "id": 17,
             "nombre": "Guerrero Serpiente",
+            "cantidad": 1
+        },
+        {
+            "id": 32,
+            "nombre": "Venger",
             "cantidad": 1
         }
     ]
