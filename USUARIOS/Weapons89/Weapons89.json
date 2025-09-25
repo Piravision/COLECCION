@@ -3579,7 +3579,7 @@
         {
             "id": 796,
             "nombre": "MAN-BAT",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 920,
@@ -5734,6 +5734,11 @@
         {
             "id": 182,
             "nombre": "Kingpin",
+            "cantidad": 1
+        },
+        {
+            "id": 183,
+            "nombre": "Kraven",
             "cantidad": 1
         }
     ]
