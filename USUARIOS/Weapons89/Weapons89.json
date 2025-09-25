@@ -3429,7 +3429,7 @@
         {
             "id": 12,
             "nombre": "Jezmine",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 1048,
@@ -5699,6 +5699,11 @@
         {
             "id": 886,
             "nombre": "KARNAK",
+            "cantidad": 1
+        },
+        {
+            "id": 1057,
+            "nombre": "PALADIN",
             "cantidad": 1
         }
     ]
