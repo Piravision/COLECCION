@@ -34,7 +34,7 @@
     {
       "id": 488,
       "nombre": "metalhead",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 35,
@@ -1739,7 +1739,7 @@
     {
       "id": 49,
       "nombre": "leona",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 133,
@@ -2974,7 +2974,7 @@
     {
       "id": 633,
       "nombre": "DB-021",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 583,
@@ -3244,7 +3244,7 @@
     {
       "id": 546,
       "nombre": "MARTY-MCFLY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 375,
@@ -5054,7 +5054,7 @@
     {
       "id": 236,
       "nombre": "Shark Tank",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1227,
@@ -6129,6 +6129,11 @@
     {
       "id": 1238,
       "nombre": "2-COSAS-DE-CASA",
+      "cantidad": 1
+    },
+    {
+      "id": 1125,
+      "nombre": "GON",
       "cantidad": 1
     }
   ]

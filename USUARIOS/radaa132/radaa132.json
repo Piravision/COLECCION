@@ -1869,7 +1869,7 @@
         {
             "id": 133,
             "nombre": "Trap Jaw",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 888,
@@ -4099,6 +4099,11 @@
         {
             "id": 4,
             "nombre": "Tex Hex",
+            "cantidad": 1
+        },
+        {
+            "id": 373,
+            "nombre": "SHAFT",
             "cantidad": 1
         }
     ]

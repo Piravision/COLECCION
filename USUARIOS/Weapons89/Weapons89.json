@@ -4244,7 +4244,7 @@
         {
             "id": 373,
             "nombre": "SHAFT",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1221,
@@ -5674,6 +5674,11 @@
         {
             "id": 128,
             "nombre": "Faker",
+            "cantidad": 1
+        },
+        {
+            "id": 133,
+            "nombre": "Trap Jaw",
             "cantidad": 1
         }
     ]
