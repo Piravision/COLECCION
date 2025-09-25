@@ -1584,7 +1584,7 @@
         {
             "id": 793,
             "nombre": "HIEDRA-",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 784,
@@ -5724,6 +5724,11 @@
         {
             "id": 819,
             "nombre": "SCORPION",
+            "cantidad": 1
+        },
+        {
+            "id": 827,
+            "nombre": "STRYKER",
             "cantidad": 1
         }
     ]
