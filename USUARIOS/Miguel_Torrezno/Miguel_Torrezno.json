@@ -344,7 +344,7 @@
         {
             "id": 163,
             "nombre": "Ben Parker",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 83,
@@ -2959,7 +2959,7 @@
         {
             "id": 1237,
             "nombre": "1-WILL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1008,
@@ -3189,7 +3189,7 @@
         {
             "id": 652,
             "nombre": "DB-040",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 871,
@@ -4104,6 +4104,16 @@
         {
             "id": 1207,
             "nombre": "4-CADILLACS-&-DINOSAURS",
+            "cantidad": 1
+        },
+        {
+            "id": 803,
+            "nombre": "SELINA-KYLE",
+            "cantidad": 1
+        },
+        {
+            "id": 753,
+            "nombre": "pandora",
             "cantidad": 1
         }
     ]

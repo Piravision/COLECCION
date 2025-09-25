@@ -64,7 +64,7 @@
         {
             "id": 561,
             "nombre": "MARIO-JAIL",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 142,
@@ -1034,7 +1034,7 @@
         {
             "id": 426,
             "nombre": "ocelot2",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 840,
@@ -1824,7 +1824,7 @@
         {
             "id": 730,
             "nombre": "DB-118",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 627,
@@ -1989,7 +1989,7 @@
         {
             "id": 474,
             "nombre": "harry2",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 643,
@@ -2369,7 +2369,7 @@
         {
             "id": 753,
             "nombre": "pandora",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 275,
@@ -2764,7 +2764,7 @@
         {
             "id": 874,
             "nombre": "CAPTAIN-AMERICA",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 948,
@@ -4029,7 +4029,7 @@
         {
             "id": 1115,
             "nombre": "PF-GARGAMEL-&-AZRAEL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 252,
@@ -5129,7 +5129,7 @@
         {
             "id": 708,
             "nombre": "DB-096",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 332,
@@ -6104,7 +6104,7 @@
         {
             "id": 1061,
             "nombre": "SHANG-CHI",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1226,
@@ -6179,6 +6179,16 @@
         {
             "id": 1264,
             "nombre": "ARTHUR",
+            "cantidad": 1
+        },
+        {
+            "id": 1212,
+            "nombre": "4-SKETCH-TURNER",
+            "cantidad": 1
+        },
+        {
+            "id": 1237,
+            "nombre": "1-WILL",
             "cantidad": 1
         }
     ]
