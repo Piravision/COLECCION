@@ -1154,7 +1154,7 @@
     {
       "id": 368,
       "nombre": "DRACULA1",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 507,
@@ -1724,7 +1724,7 @@
     {
       "id": 365,
       "nombre": "alucard 1",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 78,
@@ -4124,6 +4124,11 @@
     {
       "id": 708,
       "nombre": "DB-096",
+      "cantidad": 1
+    },
+    {
+      "id": 370,
+      "nombre": "muerte",
       "cantidad": 1
     }
   ]

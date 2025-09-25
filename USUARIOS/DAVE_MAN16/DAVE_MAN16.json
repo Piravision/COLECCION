@@ -689,7 +689,7 @@
     {
       "id": 568,
       "nombre": "LOS-SACAMANTECAS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 689,
@@ -1429,7 +1429,7 @@
     {
       "id": 276,
       "nombre": "Baxter",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 752,
@@ -3044,6 +3044,11 @@
     {
       "id": 269,
       "nombre": "Mona Lisa",
+      "cantidad": 1
+    },
+    {
+      "id": 970,
+      "nombre": "6-VICKY-EL-VIKINGO",
       "cantidad": 1
     }
   ]
