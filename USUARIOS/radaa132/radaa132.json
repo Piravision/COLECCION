@@ -2549,7 +2549,7 @@
         {
             "id": 1200,
             "nombre": "2-DONKEY-KONG",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 523,
@@ -4044,6 +4044,11 @@
         {
             "id": 987,
             "nombre": "ARALE",
+            "cantidad": 1
+        },
+        {
+            "id": 1001,
+            "nombre": "MUSCULMAN",
             "cantidad": 1
         }
     ]

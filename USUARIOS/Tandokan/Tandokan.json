@@ -3499,7 +3499,7 @@
         {
             "id": 1001,
             "nombre": "MUSCULMAN",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 641,
@@ -6234,6 +6234,11 @@
         {
             "id": 677,
             "nombre": "DB-065",
+            "cantidad": 1
+        },
+        {
+            "id": 1200,
+            "nombre": "2-DONKEY-KONG",
             "cantidad": 1
         }
     ]
