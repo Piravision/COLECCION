@@ -2219,7 +2219,7 @@
         {
             "id": 1090,
             "nombre": "ANIMANIACS",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 676,
@@ -4109,6 +4109,11 @@
         {
             "id": 374,
             "nombre": "Succubus",
+            "cantidad": 1
+        },
+        {
+            "id": 742,
+            "nombre": "Dark Saga",
             "cantidad": 1
         }
     ]
