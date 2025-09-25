@@ -2204,7 +2204,7 @@
         {
             "id": 618,
             "nombre": "DB-006",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 751,
@@ -4079,6 +4079,11 @@
         {
             "id": 1127,
             "nombre": "SHINJI-IKARI",
+            "cantidad": 1
+        },
+        {
+            "id": 347,
+            "nombre": "Lizard",
             "cantidad": 1
         }
     ]
