@@ -1589,7 +1589,7 @@
         {
             "id": 784,
             "nombre": "BULLOCK",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 782,
@@ -5719,6 +5719,11 @@
         {
             "id": 813,
             "nombre": "LIU-KANG",
+            "cantidad": 1
+        },
+        {
+            "id": 819,
+            "nombre": "SCORPION",
             "cantidad": 1
         }
     ]

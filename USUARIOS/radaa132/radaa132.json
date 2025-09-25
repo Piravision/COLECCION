@@ -1069,7 +1069,7 @@
         {
             "id": 819,
             "nombre": "SCORPION",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 485,
@@ -4144,6 +4144,11 @@
         {
             "id": 781,
             "nombre": "BATGIRL",
+            "cantidad": 1
+        },
+        {
+            "id": 784,
+            "nombre": "BULLOCK",
             "cantidad": 1
         }
     ]
