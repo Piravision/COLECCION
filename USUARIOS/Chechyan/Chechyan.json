@@ -184,7 +184,7 @@
     {
       "id": 654,
       "nombre": "DB-042",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 670,
@@ -554,7 +554,7 @@
     {
       "id": 256,
       "nombre": "Mandrilo",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 145,
@@ -644,7 +644,7 @@
     {
       "id": 363,
       "nombre": "Chuache-DesafioTotal",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 675,
@@ -2704,7 +2704,7 @@
     {
       "id": 1083,
       "nombre": "YELLOWJACKET & WASP",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 523,
@@ -3974,7 +3974,7 @@
     {
       "id": 26,
       "nombre": "Eric",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 905,
@@ -4034,6 +4034,11 @@
     {
       "id": 950,
       "nombre": "1-PORTHOS",
+      "cantidad": 1
+    },
+    {
+      "id": 1080,
+      "nombre": "X -STORM",
       "cantidad": 1
     }
   ]
