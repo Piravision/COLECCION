@@ -2299,7 +2299,7 @@
         {
             "id": 560,
             "nombre": "MACGYVER-JAIL",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 38,
@@ -5979,6 +5979,11 @@
         {
             "id": 1003,
             "nombre": "NINJA-ATORI",
+            "cantidad": 1
+        },
+        {
+            "id": 1202,
+            "nombre": "2Z-MEGAMAN",
             "cantidad": 1
         }
     ]

@@ -1969,7 +1969,7 @@
         {
             "id": 1202,
             "nombre": "2Z-MEGAMAN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1292,
@@ -3904,6 +3904,11 @@
         {
             "id": 559,
             "nombre": "MABARRACUS-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 560,
+            "nombre": "MACGYVER-JAIL",
             "cantidad": 1
         }
     ]
