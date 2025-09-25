@@ -899,7 +899,7 @@
         {
             "id": 628,
             "nombre": "DB-016",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 9,
@@ -4084,6 +4084,11 @@
         {
             "id": 347,
             "nombre": "Lizard",
+            "cantidad": 1
+        },
+        {
+            "id": 358,
+            "nombre": "jenny",
             "cantidad": 1
         }
     ]
