@@ -1264,7 +1264,7 @@
     {
       "id": 706,
       "nombre": "DB-094",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 323,
@@ -3484,7 +3484,7 @@
     {
       "id": 883,
       "nombre": "HULK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 634,
@@ -4074,6 +4074,11 @@
     {
       "id": 1036,
       "nombre": "CAPITAN MARVEL",
+      "cantidad": 1
+    },
+    {
+      "id": 1255,
+      "nombre": "STARGATE-SG-1",
       "cantidad": 1
     }
   ]
