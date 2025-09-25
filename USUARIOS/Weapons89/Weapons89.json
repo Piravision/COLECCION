@@ -3484,7 +3484,7 @@
         {
             "id": 17,
             "nombre": "Guerrero Serpiente",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 714,
@@ -5704,6 +5704,11 @@
         {
             "id": 1057,
             "nombre": "PALADIN",
+            "cantidad": 1
+        },
+        {
+            "id": 1079,
+            "nombre": "X -ROGUE",
             "cantidad": 1
         }
     ]
