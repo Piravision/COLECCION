@@ -434,7 +434,7 @@
         {
             "id": 4,
             "nombre": "Tex Hex",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 209,
@@ -5669,6 +5669,11 @@
         {
             "id": 1272,
             "nombre": "FA-SUNSET-RIDERS",
+            "cantidad": 1
+        },
+        {
+            "id": 128,
+            "nombre": "Faker",
             "cantidad": 1
         }
     ]

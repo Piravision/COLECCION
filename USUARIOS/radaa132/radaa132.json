@@ -2964,7 +2964,7 @@
         {
             "id": 128,
             "nombre": "Faker",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 851,
@@ -4094,6 +4094,11 @@
         {
             "id": 6,
             "nombre": "El Patriarca",
+            "cantidad": 1
+        },
+        {
+            "id": 4,
+            "nombre": "Tex Hex",
             "cantidad": 1
         }
     ]
