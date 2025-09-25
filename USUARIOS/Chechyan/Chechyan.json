@@ -1239,7 +1239,7 @@
     {
       "id": 542,
       "nombre": "DIE-HARD",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 693,
@@ -4024,6 +4024,16 @@
     {
       "id": 480,
       "nombre": "Twinfeeler",
+      "cantidad": 1
+    },
+    {
+      "id": 881,
+      "nombre": "HAWKEYE",
+      "cantidad": 1
+    },
+    {
+      "id": 950,
+      "nombre": "1-PORTHOS",
       "cantidad": 1
     }
   ]
