@@ -14,7 +14,7 @@
     {
       "id": 179,
       "nombre": "Duende Verde",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 301,
@@ -874,7 +874,7 @@
     {
       "id": 458,
       "nombre": "hinata",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 494,
@@ -984,7 +984,7 @@
     {
       "id": 370,
       "nombre": "muerte",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 47,
@@ -1134,7 +1134,7 @@
     {
       "id": 165,
       "nombre": "Daredevil",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 522,
@@ -1229,7 +1229,7 @@
     {
       "id": 108,
       "nombre": "Baronesa",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 134,
@@ -1279,7 +1279,7 @@
     {
       "id": 537,
       "nombre": "BOLO-YEUNG",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 339,
@@ -1739,7 +1739,7 @@
     {
       "id": 728,
       "nombre": "DB-116",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 575,
@@ -1879,7 +1879,7 @@
     {
       "id": 199,
       "nombre": "Streex",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 684,
@@ -2044,7 +2044,7 @@
     {
       "id": 560,
       "nombre": "MACGYVER-JAIL",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 646,
@@ -2064,7 +2064,7 @@
     {
       "id": 89,
       "nombre": "Angela",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 355,
@@ -2094,7 +2094,7 @@
     {
       "id": 711,
       "nombre": "DB-099",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 597,
@@ -2419,7 +2419,7 @@
     {
       "id": 564,
       "nombre": "SLIMER",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 693,
@@ -2904,7 +2904,7 @@
     {
       "id": 140,
       "nombre": "Mallory McMallard",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 840,
@@ -3044,7 +3044,7 @@
     {
       "id": 848,
       "nombre": "RYU2",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 586,
@@ -3129,7 +3129,7 @@
     {
       "id": 497,
       "nombre": "nanami",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 847,
@@ -3339,7 +3339,7 @@
     {
       "id": 382,
       "nombre": "serge",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 68,
@@ -3414,7 +3414,7 @@
     {
       "id": 202,
       "nombre": "Killamari",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 902,
@@ -4734,7 +4734,7 @@
     {
       "id": 1076,
       "nombre": "X -MAGNETO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1153,
@@ -4939,7 +4939,7 @@
     {
       "id": 823,
       "nombre": "SHEEVA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 876,
@@ -5254,7 +5254,7 @@
     {
       "id": 1146,
       "nombre": "TROTAMUSICOS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1027,
@@ -5329,7 +5329,7 @@
     {
       "id": 1081,
       "nombre": "X -WOLVERINE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1183,
@@ -5484,7 +5484,7 @@
     {
       "id": 1210,
       "nombre": "4-FINAL-FIGHT",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 982,
@@ -5704,7 +5704,7 @@
     {
       "id": 1300,
       "nombre": "FA-TOKI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 877,
@@ -5944,6 +5944,11 @@
     {
       "id": 1275,
       "nombre": "RAYMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1236,
+      "nombre": "1-PRINCIPE-DE-BEL-AIR",
       "cantidad": 1
     }
   ]

@@ -104,7 +104,7 @@
     {
       "id": 682,
       "nombre": "DB-070",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 614,
@@ -779,7 +779,7 @@
     {
       "id": 856,
       "nombre": "BEETLEJUICE-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 859,
@@ -994,7 +994,7 @@
     {
       "id": 733,
       "nombre": "DB-121",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 297,
@@ -1034,7 +1034,7 @@
     {
       "id": 470,
       "nombre": "Floatstinger",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 416,
@@ -1594,7 +1594,7 @@
     {
       "id": 487,
       "nombre": "Jacques",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1148,
@@ -1944,7 +1944,7 @@
     {
       "id": 802,
       "nombre": "ROBIN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 401,
@@ -2324,7 +2324,7 @@
     {
       "id": 1094,
       "nombre": "CZ-EGON-SPENGLER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1013,
@@ -2429,7 +2429,7 @@
     {
       "id": 265,
       "nombre": "Leatherhead",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1181,
@@ -2559,7 +2559,7 @@
     {
       "id": 976,
       "nombre": "7-SABIONDO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 868,
@@ -2759,7 +2759,7 @@
     {
       "id": 166,
       "nombre": "Estrella de Fuego",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 464,
@@ -3049,7 +3049,7 @@
     {
       "id": 321,
       "nombre": "Quicksilver",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 547,
@@ -3209,7 +3209,7 @@
     {
       "id": 903,
       "nombre": "BIZARRE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1275,
@@ -3489,7 +3489,7 @@
     {
       "id": 587,
       "nombre": "EDDY-BRIGHT",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 539,
@@ -3504,7 +3504,7 @@
     {
       "id": 917,
       "nombre": "MYERS-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 941,
@@ -3769,6 +3769,71 @@
     {
       "id": 1108,
       "nombre": "G-PRINCESA",
+      "cantidad": 1
+    },
+    {
+      "id": 619,
+      "nombre": "DB-007",
+      "cantidad": 1
+    },
+    {
+      "id": 310,
+      "nombre": "Dan",
+      "cantidad": 1
+    },
+    {
+      "id": 991,
+      "nombre": "CONAN-EDOGAWA",
+      "cantidad": 1
+    },
+    {
+      "id": 641,
+      "nombre": "DB-029",
+      "cantidad": 1
+    },
+    {
+      "id": 270,
+      "nombre": "Napoleon Bonafrog",
+      "cantidad": 1
+    },
+    {
+      "id": 316,
+      "nombre": "Gambito",
+      "cantidad": 1
+    },
+    {
+      "id": 662,
+      "nombre": "DB-050",
+      "cantidad": 1
+    },
+    {
+      "id": 252,
+      "nombre": "Alluro",
+      "cantidad": 1
+    },
+    {
+      "id": 399,
+      "nombre": "cait",
+      "cantidad": 1
+    },
+    {
+      "id": 299,
+      "nombre": "Sunstreaker",
+      "cantidad": 1
+    },
+    {
+      "id": 1073,
+      "nombre": "X - CYCLOPS",
+      "cantidad": 1
+    },
+    {
+      "id": 1061,
+      "nombre": "SHANG-CHI",
+      "cantidad": 1
+    },
+    {
+      "id": 1084,
+      "nombre": "YV- WASP",
       "cantidad": 1
     }
   ]

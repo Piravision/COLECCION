@@ -434,7 +434,7 @@
     {
       "id": 4,
       "nombre": "Tex Hex",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 209,
@@ -1274,7 +1274,7 @@
     {
       "id": 191,
       "nombre": "Venom",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 453,
@@ -1734,7 +1734,7 @@
     {
       "id": 669,
       "nombre": "DB-057",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 744,
@@ -1834,7 +1834,7 @@
     {
       "id": 896,
       "nombre": "SHE-HULK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 590,
@@ -2484,7 +2484,7 @@
     {
       "id": 654,
       "nombre": "DB-042",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 946,
@@ -2839,7 +2839,7 @@
     {
       "id": 1114,
       "nombre": "OSOS-GUMMI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 589,
@@ -2919,7 +2919,7 @@
     {
       "id": 1043,
       "nombre": "H- SHE-HULK-2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 570,
@@ -3664,7 +3664,7 @@
     {
       "id": 967,
       "nombre": "4-TICO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 876,
@@ -3744,7 +3744,7 @@
     {
       "id": 1095,
       "nombre": "CZ-PETER-VENKMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 724,
@@ -3799,7 +3799,7 @@
     {
       "id": 934,
       "nombre": "SHAWN-MICHAELS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1157,
@@ -3879,7 +3879,7 @@
     {
       "id": 923,
       "nombre": "REAL-VISITOR",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1249,
@@ -4174,7 +4174,7 @@
     {
       "id": 1135,
       "nombre": "GUARDIAN-DE-LA-CRIPTA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1029,
@@ -4214,7 +4214,7 @@
     {
       "id": 673,
       "nombre": "DB-061",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 346,
@@ -4294,7 +4294,7 @@
     {
       "id": 224,
       "nombre": "Guarida Tortuga",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1189,
@@ -4609,7 +4609,7 @@
     {
       "id": 1092,
       "nombre": "CAZAFANTASMAS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 478,
@@ -5064,7 +5064,7 @@
     {
       "id": 108,
       "nombre": "Baronesa",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 203,
@@ -5404,7 +5404,7 @@
     {
       "id": 1110,
       "nombre": "G-ZOLTAR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1115,
@@ -5614,6 +5614,26 @@
     {
       "id": 1088,
       "nombre": "1-MISTERIOS-SA",
+      "cantidad": 1
+    },
+    {
+      "id": 1273,
+      "nombre": "KINGDOM-HEARTS",
+      "cantidad": 1
+    },
+    {
+      "id": 839,
+      "nombre": "DJ",
+      "cantidad": 1
+    },
+    {
+      "id": 1004,
+      "nombre": "R.KENSHIN",
+      "cantidad": 1
+    },
+    {
+      "id": 1191,
+      "nombre": "SPENCER-&-ALLO",
       "cantidad": 1
     }
   ]
