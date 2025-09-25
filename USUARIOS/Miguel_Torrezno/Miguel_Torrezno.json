@@ -99,7 +99,7 @@
     {
       "id": 137,
       "nombre": "Sayaka Yumi",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 221,
@@ -1394,7 +1394,7 @@
     {
       "id": 657,
       "nombre": "DB-045",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 524,
@@ -1939,7 +1939,7 @@
     {
       "id": 576,
       "nombre": "ALAN-CROCKET",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 603,
@@ -2584,7 +2584,7 @@
     {
       "id": 305,
       "nombre": "Runamuck",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 681,
@@ -2609,7 +2609,7 @@
     {
       "id": 138,
       "nombre": "Dr. Hell",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 668,
@@ -2789,7 +2789,7 @@
     {
       "id": 410,
       "nombre": "Barón-Ashura",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 868,
@@ -2844,7 +2844,7 @@
     {
       "id": 1094,
       "nombre": "CZ-EGON-SPENGLER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 956,
@@ -3434,7 +3434,7 @@
     {
       "id": 866,
       "nombre": "SNAKE-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 967,
@@ -3869,7 +3869,7 @@
     {
       "id": 945,
       "nombre": "MASK-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1024,
@@ -4044,6 +4044,36 @@
     {
       "id": 1015,
       "nombre": "SHAGGY--&-SCOOBY-DOO",
+      "cantidad": 1
+    },
+    {
+      "id": 719,
+      "nombre": "DB-107",
+      "cantidad": 1
+    },
+    {
+      "id": 1044,
+      "nombre": "HAVOK",
+      "cantidad": 1
+    },
+    {
+      "id": 1133,
+      "nombre": "AGALLAS",
+      "cantidad": 1
+    },
+    {
+      "id": 1045,
+      "nombre": "HAWKEYE-2",
+      "cantidad": 1
+    },
+    {
+      "id": 1163,
+      "nombre": "GREEN ARROW",
+      "cantidad": 1
+    },
+    {
+      "id": 1036,
+      "nombre": "CAPITAN MARVEL",
       "cantidad": 1
     }
   ]
