@@ -704,7 +704,7 @@
         {
             "id": 429,
             "nombre": "sniper",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 110,
@@ -2679,6 +2679,11 @@
         {
             "id": 736,
             "nombre": "Aioria-de-Leo",
+            "cantidad": 1
+        },
+        {
+            "id": 742,
+            "nombre": "Dark Saga",
             "cantidad": 1
         }
     ]
