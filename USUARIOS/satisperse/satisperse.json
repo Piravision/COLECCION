@@ -1399,7 +1399,7 @@
     {
       "id": 1121,
       "nombre": "RUGRATS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 984,
@@ -1694,6 +1694,16 @@
     {
       "id": 1234,
       "nombre": "GHOSTS-GOBLINS",
+      "cantidad": 1
+    },
+    {
+      "id": 649,
+      "nombre": "DB-037",
+      "cantidad": 1
+    },
+    {
+      "id": 1214,
+      "nombre": "5-HAOHMARU",
       "cantidad": 1
     }
   ]
