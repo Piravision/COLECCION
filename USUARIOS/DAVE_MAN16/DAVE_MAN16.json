@@ -1754,7 +1754,7 @@
     {
       "id": 558,
       "nombre": "LUKE-SKYWALKER-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 698,
@@ -3049,6 +3049,16 @@
     {
       "id": 970,
       "nombre": "6-VICKY-EL-VIKINGO",
+      "cantidad": 1
+    },
+    {
+      "id": 863,
+      "nombre": "PREDATOR-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 562,
+      "nombre": "PETER-GRIFFIN-JAIL",
       "cantidad": 1
     }
   ]

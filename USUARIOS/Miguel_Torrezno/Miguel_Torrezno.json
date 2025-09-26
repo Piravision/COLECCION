@@ -14,7 +14,7 @@
     {
       "id": 307,
       "nombre": "Skywarp",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 331,
@@ -2274,7 +2274,7 @@
     {
       "id": 184,
       "nombre": "Lizard",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 829,
@@ -2444,7 +2444,7 @@
     {
       "id": 901,
       "nombre": "ULTRON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 581,
@@ -2899,7 +2899,7 @@
     {
       "id": 1027,
       "nombre": "4FV- GALACTUS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 177,
@@ -2949,7 +2949,7 @@
     {
       "id": 616,
       "nombre": "DB-004",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 278,
@@ -4129,6 +4129,11 @@
     {
       "id": 370,
       "nombre": "muerte",
+      "cantidad": 1
+    },
+    {
+      "id": 912,
+      "nombre": "SINIESTRO",
       "cantidad": 1
     }
   ]

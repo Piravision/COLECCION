@@ -214,7 +214,7 @@
     {
       "id": 514,
       "nombre": "Hálcon-Vigía",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 112,
@@ -544,7 +544,7 @@
     {
       "id": 272,
       "nombre": "Panda Khan",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 110,
@@ -584,7 +584,7 @@
     {
       "id": 62,
       "nombre": "derolin",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 433,
@@ -874,7 +874,7 @@
     {
       "id": 499,
       "nombre": "seed",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 411,
@@ -1424,7 +1424,7 @@
     {
       "id": 319,
       "nombre": "Profesor Xavier",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 199,
@@ -1484,7 +1484,7 @@
     {
       "id": 184,
       "nombre": "Lizard",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 460,
@@ -1539,7 +1539,7 @@
     {
       "id": 131,
       "nombre": "Scare Glow(",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 329,
@@ -1754,7 +1754,7 @@
     {
       "id": 572,
       "nombre": "Sgt.-SLAUGTHER",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 159,
@@ -2359,7 +2359,7 @@
     {
       "id": 684,
       "nombre": "DB-072",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 733,
@@ -2599,7 +2599,7 @@
     {
       "id": 246,
       "nombre": "Jaga",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 86,
@@ -2829,7 +2829,7 @@
     {
       "id": 742,
       "nombre": "Dark Saga",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 566,
@@ -2899,7 +2899,7 @@
     {
       "id": 260,
       "nombre": "Princesa Luna",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 268,
@@ -2979,7 +2979,7 @@
     {
       "id": 583,
       "nombre": "DANNY-MELOW",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 519,
@@ -3234,7 +3234,7 @@
     {
       "id": 902,
       "nombre": "AQUAMAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 763,
@@ -3414,7 +3414,7 @@
     {
       "id": 497,
       "nombre": "nanami",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 795,
@@ -3634,7 +3634,7 @@
     {
       "id": 918,
       "nombre": "DIANA",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 772,
@@ -3729,7 +3729,7 @@
     {
       "id": 453,
       "nombre": "tyrant",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 661,
@@ -3739,7 +3739,7 @@
     {
       "id": 905,
       "nombre": "DARKSEID",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 805,
@@ -5154,7 +5154,7 @@
     {
       "id": 1046,
       "nombre": "HERCULES",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 633,
@@ -5194,7 +5194,7 @@
     {
       "id": 1051,
       "nombre": "JACK-HEARTS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1072,
@@ -5484,7 +5484,7 @@
     {
       "id": 1030,
       "nombre": "BRUJA Y VISION",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1188,
@@ -6499,6 +6499,61 @@
     {
       "id": 1287,
       "nombre": "IORI-YAGAMI",
+      "cantidad": 1
+    },
+    {
+      "id": 1320,
+      "nombre": "3B-TSUNOMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1344,
+      "nombre": "5H-FA-SORA",
+      "cantidad": 1
+    },
+    {
+      "id": 1372,
+      "nombre": "8I-KARI-FOIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1311,
+      "nombre": "2B-BUKAMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1378,
+      "nombre": "9-DEMIDEVIMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1358,
+      "nombre": "7D-ANGEMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1340,
+      "nombre": "5D-BIRDRAMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1381,
+      "nombre": "9-GOTTSUMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1382,
+      "nombre": "9-LADY-DEVIMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1336,
+      "nombre": "4I-MIMI-FOIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1384,
+      "nombre": "9-MACHINEDRAMON",
       "cantidad": 1
     }
   ]
