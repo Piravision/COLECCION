@@ -1024,7 +1024,7 @@
         {
             "id": 268,
             "nombre": "Michelangelo",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 540,
@@ -2669,6 +2669,11 @@
         {
             "id": 578,
             "nombre": "BENJI-PRICE",
+            "cantidad": 1
+        },
+        {
+            "id": 990,
+            "nombre": "CHICHO-TERREMOTO",
             "cantidad": 1
         }
     ]
