@@ -1009,7 +1009,7 @@
         {
             "id": 573,
             "nombre": "ULTIMATE-WARRIOR",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 185,
@@ -4264,6 +4264,11 @@
         {
             "id": 372,
             "nombre": "RENARD",
+            "cantidad": 1
+        },
+        {
+            "id": 11,
+            "nombre": "Greywolf",
             "cantidad": 1
         }
     ]
