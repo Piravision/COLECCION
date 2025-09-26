@@ -874,7 +874,7 @@
         {
             "id": 372,
             "nombre": "RENARD",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 214,
@@ -2694,6 +2694,11 @@
         {
             "id": 537,
             "nombre": "BOLO-YEUNG",
+            "cantidad": 1
+        },
+        {
+            "id": 355,
+            "nombre": "bayur",
             "cantidad": 1
         }
     ]
