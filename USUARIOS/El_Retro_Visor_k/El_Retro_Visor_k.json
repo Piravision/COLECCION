@@ -904,7 +904,7 @@
     {
       "id": 453,
       "nombre": "tyrant",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 635,
@@ -1079,12 +1079,12 @@
     {
       "id": 684,
       "nombre": "DB-072",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 770,
       "nombre": "red",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 523,
@@ -1189,7 +1189,7 @@
     {
       "id": 345,
       "nombre": "alundra",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 457,
@@ -1409,7 +1409,7 @@
     {
       "id": 376,
       "nombre": "guile",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 509,
@@ -2559,7 +2559,7 @@
     {
       "id": 658,
       "nombre": "DB-046",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 388,
@@ -2589,7 +2589,7 @@
     {
       "id": 726,
       "nombre": "DB-114",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 592,
@@ -2639,7 +2639,7 @@
     {
       "id": 300,
       "nombre": "Wheeljack",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 909,
@@ -2819,7 +2819,7 @@
     {
       "id": 930,
       "nombre": "MANKIND",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 902,
@@ -2979,7 +2979,7 @@
     {
       "id": 459,
       "nombre": "Kyosuke",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 714,
@@ -3324,7 +3324,7 @@
     {
       "id": 739,
       "nombre": "Athenea",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 134,
@@ -4079,7 +4079,7 @@
     {
       "id": 797,
       "nombre": "MR-FREEZE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 232,
@@ -4119,7 +4119,7 @@
     {
       "id": 626,
       "nombre": "DB-014",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 956,
@@ -4344,7 +4344,7 @@
     {
       "id": 397,
       "nombre": "avalanche",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 57,
@@ -4439,7 +4439,7 @@
     {
       "id": 654,
       "nombre": "DB-042",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 660,
@@ -4469,7 +4469,7 @@
     {
       "id": 810,
       "nombre": "KANO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 488,
@@ -4529,12 +4529,12 @@
     {
       "id": 945,
       "nombre": "MASK-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 936,
       "nombre": "THE-ROCK",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 937,
@@ -5954,7 +5954,7 @@
     {
       "id": 1171,
       "nombre": "ROBIN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1259,
@@ -5984,7 +5984,7 @@
     {
       "id": 814,
       "nombre": "MILENNA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1069,
@@ -6534,6 +6534,36 @@
     {
       "id": 1359,
       "nombre": "7E-MAGNA-ANGEMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1386,
+      "nombre": "9-METAL-SEADRAMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1377,
+      "nombre": "9-CHERRYMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1400,
+      "nombre": "9-YUKIDARUMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1350,
+      "nombre": "6E-MEGAKABUTERIMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1315,
+      "nombre": "2F-VIKEMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1327,
+      "nombre": "3I-MAT-FOIL",
       "cantidad": 1
     }
   ]

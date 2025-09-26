@@ -239,7 +239,7 @@
     {
       "id": 188,
       "nombre": "Sandman",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 163,
@@ -619,7 +619,7 @@
     {
       "id": 427,
       "nombre": "psyco",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 169,
@@ -4099,7 +4099,7 @@
     {
       "id": 293,
       "nombre": "Hot Rod",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 507,
@@ -4284,7 +4284,7 @@
     {
       "id": 66,
       "nombre": "flazzard2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 614,
@@ -5459,7 +5459,7 @@
     {
       "id": 475,
       "nombre": "Incubus",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 771,
@@ -5519,7 +5519,7 @@
     {
       "id": 1129,
       "nombre": "CRITTER-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1271,
@@ -5899,7 +5899,7 @@
     {
       "id": 1159,
       "nombre": "GOLDENAGE- FLASH",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1065,
@@ -5999,6 +5999,46 @@
     {
       "id": 1049,
       "nombre": "I-MEDUSA-2",
+      "cantidad": 1
+    },
+    {
+      "id": 1313,
+      "nombre": "2D-IKKAKUMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1312,
+      "nombre": "2C-GOMAMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1370,
+      "nombre": "8G-GATOMON-EVO",
+      "cantidad": 1
+    },
+    {
+      "id": 1331,
+      "nombre": "4D-TOGEMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1326,
+      "nombre": "3H-FA-MATT",
+      "cantidad": 1
+    },
+    {
+      "id": 1329,
+      "nombre": "4B-TANEMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1359,
+      "nombre": "7E-MAGNA-ANGEMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1302,
+      "nombre": "1B-KOROMON",
       "cantidad": 1
     }
   ]

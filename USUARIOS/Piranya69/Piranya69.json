@@ -1259,7 +1259,7 @@
     {
       "id": 208,
       "nombre": "Tentakill",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 414,
@@ -3279,7 +3279,7 @@
     {
       "id": 865,
       "nombre": "ROBOCOP-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 261,
@@ -3784,7 +3784,7 @@
     {
       "id": 972,
       "nombre": "8-MAYA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 970,
@@ -3864,7 +3864,7 @@
     {
       "id": 990,
       "nombre": "CHICHO-TERREMOTO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 623,
@@ -5409,7 +5409,7 @@
     {
       "id": 1183,
       "nombre": "LOS-DIMINUTOS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1152,
@@ -5609,7 +5609,7 @@
     {
       "id": 1037,
       "nombre": "CAPITAN-AMERICA-2",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1092,
@@ -5809,7 +5809,7 @@
     {
       "id": 1117,
       "nombre": "PF-PITUFINA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1262,
@@ -5839,7 +5839,7 @@
     {
       "id": 899,
       "nombre": "THANOS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 868,
@@ -6519,7 +6519,7 @@
     {
       "id": 1311,
       "nombre": "2B-BUKAMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1378,
@@ -6554,6 +6554,36 @@
     {
       "id": 1384,
       "nombre": "9-MACHINEDRAMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1349,
+      "nombre": "6D-KABUTERIMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1360,
+      "nombre": "7F-SERAPHIMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1343,
+      "nombre": "5G-PIYOMON-EVO",
+      "cantidad": 1
+    },
+    {
+      "id": 1302,
+      "nombre": "1B-KOROMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1379,
+      "nombre": "9-DEVYMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1389,
+      "nombre": "9-MYOTISMON",
       "cantidad": 1
     }
   ]

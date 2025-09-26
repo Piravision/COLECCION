@@ -554,7 +554,7 @@
     {
       "id": 739,
       "nombre": "Athenea",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 359,
@@ -1284,7 +1284,7 @@
     {
       "id": 656,
       "nombre": "DB-044",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1077,
@@ -1674,6 +1674,26 @@
     {
       "id": 936,
       "nombre": "THE-ROCK",
+      "cantidad": 1
+    },
+    {
+      "id": 1206,
+      "nombre": "3a-SONIC",
+      "cantidad": 1
+    },
+    {
+      "id": 1004,
+      "nombre": "R.KENSHIN",
+      "cantidad": 1
+    },
+    {
+      "id": 891,
+      "nombre": "MODOK",
+      "cantidad": 1
+    },
+    {
+      "id": 1234,
+      "nombre": "GHOSTS-GOBLINS",
       "cantidad": 1
     }
   ]

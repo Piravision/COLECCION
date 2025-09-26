@@ -2084,7 +2084,7 @@
         {
             "id": 610,
             "nombre": "TED-CARTER",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 645,
@@ -2664,6 +2664,11 @@
         {
             "id": 865,
             "nombre": "ROBOCOP-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 578,
+            "nombre": "BENJI-PRICE",
             "cantidad": 1
         }
     ]

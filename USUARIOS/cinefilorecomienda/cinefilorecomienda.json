@@ -204,7 +204,7 @@
     {
       "id": 213,
       "nombre": "Blackbird",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 895,
@@ -394,7 +394,7 @@
     {
       "id": 865,
       "nombre": "ROBOCOP-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 131,
@@ -1114,7 +1114,7 @@
     {
       "id": 964,
       "nombre": "3-TODD-&-SMILEY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 962,
@@ -1199,7 +1199,7 @@
     {
       "id": 1009,
       "nombre": "SHIN-CHAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1010,
@@ -1349,7 +1349,7 @@
     {
       "id": 147,
       "nombre": "Carbine",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 894,
@@ -1619,7 +1619,7 @@
     {
       "id": 54,
       "nombre": "merle",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 333,
@@ -1949,7 +1949,7 @@
     {
       "id": 401,
       "nombre": "cloud",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 84,
@@ -2224,7 +2224,7 @@
     {
       "id": 165,
       "nombre": "Daredevil",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 512,
@@ -2259,7 +2259,7 @@
     {
       "id": 284,
       "nombre": "Roadkill",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1224,
@@ -2274,7 +2274,7 @@
     {
       "id": 959,
       "nombre": "3-DR.WATSON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 574,
@@ -3039,7 +3039,7 @@
     {
       "id": 319,
       "nombre": "Profesor Xavier",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 106,
@@ -3409,7 +3409,7 @@
     {
       "id": 96,
       "nombre": "Lexington",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 774,
@@ -3654,7 +3654,7 @@
     {
       "id": 1143,
       "nombre": "PINKY-&-CEREBRO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 499,
@@ -3819,7 +3819,7 @@
     {
       "id": 299,
       "nombre": "Sunstreaker",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1073,
@@ -3894,7 +3894,7 @@
     {
       "id": 219,
       "nombre": "Dirigible Tortuga",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1161,
@@ -3924,7 +3924,7 @@
     {
       "id": 1263,
       "nombre": "SALVADOS-POR-LA-CAMPANA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1267,
@@ -3999,6 +3999,91 @@
     {
       "id": 1144,
       "nombre": "SUPERNENAS",
+      "cantidad": 1
+    },
+    {
+      "id": 136,
+      "nombre": "Mazinger Z",
+      "cantidad": 1
+    },
+    {
+      "id": 241,
+      "nombre": "Thunder Tank",
+      "cantidad": 1
+    },
+    {
+      "id": 1086,
+      "nombre": "Z - AVENGERS",
+      "cantidad": 1
+    },
+    {
+      "id": 793,
+      "nombre": "HIEDRA-",
+      "cantidad": 1
+    },
+    {
+      "id": 1248,
+      "nombre": "MACGYVER",
+      "cantidad": 1
+    },
+    {
+      "id": 501,
+      "nombre": "SOLON",
+      "cantidad": 1
+    },
+    {
+      "id": 243,
+      "nombre": "Cheetara",
+      "cantidad": 1
+    },
+    {
+      "id": 785,
+      "nombre": "CATWOMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 246,
+      "nombre": "Jaga",
+      "cantidad": 1
+    },
+    {
+      "id": 1311,
+      "nombre": "2B-BUKAMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1053,
+      "nombre": "KANG",
+      "cantidad": 1
+    },
+    {
+      "id": 1095,
+      "nombre": "CZ-PETER-VENKMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1287,
+      "nombre": "IORI-YAGAMI",
+      "cantidad": 1
+    },
+    {
+      "id": 360,
+      "nombre": "stung",
+      "cantidad": 1
+    },
+    {
+      "id": 461,
+      "nombre": "Stalone-RamboIII",
+      "cantidad": 1
+    },
+    {
+      "id": 667,
+      "nombre": "DB-055",
+      "cantidad": 1
+    },
+    {
+      "id": 390,
+      "nombre": "papu",
       "cantidad": 1
     }
   ]

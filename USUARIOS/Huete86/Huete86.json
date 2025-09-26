@@ -49,7 +49,7 @@
     {
       "id": 205,
       "nombre": "Shrimp Louie",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 171,
@@ -744,7 +744,7 @@
     {
       "id": 176,
       "nombre": "Camaleon",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 201,
@@ -1139,7 +1139,7 @@
     {
       "id": 267,
       "nombre": "Metalhead",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 234,
@@ -1189,7 +1189,7 @@
     {
       "id": 559,
       "nombre": "MABARRACUS-JAIL",
-      "cantidad": 10
+      "cantidad": 11
     },
     {
       "id": 548,
@@ -1229,7 +1229,7 @@
     {
       "id": 401,
       "nombre": "cloud",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 305,
@@ -1434,7 +1434,7 @@
     {
       "id": 555,
       "nombre": "INDIANA-JONES-JAIL",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 145,
@@ -1634,7 +1634,7 @@
     {
       "id": 631,
       "nombre": "DB-019",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 557,
@@ -1959,7 +1959,7 @@
     {
       "id": 19,
       "nombre": "Set",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 760,
@@ -2814,7 +2814,7 @@
     {
       "id": 509,
       "nombre": "NINA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 883,
@@ -3029,7 +3029,7 @@
     {
       "id": 844,
       "nombre": "HONDA2",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 102,
@@ -3199,7 +3199,7 @@
     {
       "id": 240,
       "nombre": "Terror Drome",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 866,
@@ -4464,12 +4464,12 @@
     {
       "id": 1007,
       "nombre": "SAILOR-MOON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1013,
       "nombre": "YAIBA-KUROGAME",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 841,
@@ -4594,7 +4594,7 @@
     {
       "id": 818,
       "nombre": "REPTILE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 890,
@@ -4674,7 +4674,7 @@
     {
       "id": 84,
       "nombre": "zurbon",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 633,
@@ -4889,7 +4889,7 @@
     {
       "id": 968,
       "nombre": "4-WILLY-FOG",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 441,
@@ -4939,7 +4939,7 @@
     {
       "id": 471,
       "nombre": "Garland",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 613,
@@ -5174,7 +5174,7 @@
     {
       "id": 1052,
       "nombre": "JOCASTA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 851,
@@ -5234,7 +5234,7 @@
     {
       "id": 1075,
       "nombre": "X -COLOSO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1163,
@@ -5689,12 +5689,12 @@
     {
       "id": 1033,
       "nombre": "CABALLERO LUNA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1238,
       "nombre": "2-COSAS-DE-CASA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1061,
@@ -5854,7 +5854,7 @@
     {
       "id": 1140,
       "nombre": "PANTERA-ROSA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1254,
@@ -6164,7 +6164,7 @@
     {
       "id": 1105,
       "nombre": "G-AVECILLA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1112,
@@ -6204,7 +6204,7 @@
     {
       "id": 1270,
       "nombre": "FA-MONKEY-ISLAND",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1230,
@@ -6289,7 +6289,7 @@
     {
       "id": 1269,
       "nombre": "FA-KINGDOM-HEARTS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1136,
@@ -6549,6 +6549,41 @@
     {
       "id": 1365,
       "nombre": "8B-NYAROMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1347,
+      "nombre": "6B-MOCHIMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1352,
+      "nombre": "6G-TENTOMON-EVO",
+      "cantidad": 1
+    },
+    {
+      "id": 1362,
+      "nombre": "7H-FA-TK",
+      "cantidad": 1
+    },
+    {
+      "id": 1305,
+      "nombre": "1E-METAL-GREYMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1304,
+      "nombre": "1D-GREYMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1312,
+      "nombre": "2C-GOMAMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1315,
+      "nombre": "2F-VIKEMON",
       "cantidad": 1
     }
   ]
