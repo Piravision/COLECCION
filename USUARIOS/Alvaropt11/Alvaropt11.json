@@ -1174,7 +1174,7 @@
         {
             "id": 535,
             "nombre": "Venkman-Jail",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 8,
@@ -6704,6 +6704,11 @@
         {
             "id": 1392,
             "nombre": "9-OTAMAMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1400,
+            "nombre": "9-YUKIDARUMON",
             "cantidad": 1
         }
     ]
