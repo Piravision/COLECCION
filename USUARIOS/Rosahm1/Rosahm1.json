@@ -369,7 +369,7 @@
         {
             "id": 434,
             "nombre": "vulcan",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 431,
@@ -1949,7 +1949,7 @@
         {
             "id": 662,
             "nombre": "DB-050",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 651,
@@ -2369,7 +2369,7 @@
         {
             "id": 81,
             "nombre": "vearn",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 324,
@@ -6044,7 +6044,7 @@
         {
             "id": 1309,
             "nombre": "1I-TAI-FOIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1323,
@@ -6184,6 +6184,11 @@
         {
             "id": 943,
             "nombre": "JOHNNY5-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 1317,
+            "nombre": "2H-FA-JOE",
             "cantidad": 1
         }
     ]

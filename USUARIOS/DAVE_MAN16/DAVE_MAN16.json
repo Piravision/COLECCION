@@ -1854,7 +1854,7 @@
     {
       "id": 93,
       "nombre": "Elisa Maza",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 90,
@@ -1989,7 +1989,7 @@
     {
       "id": 740,
       "nombre": "Athenea2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 551,
@@ -3114,6 +3114,11 @@
     {
       "id": 1301,
       "nombre": "1A-TAI",
+      "cantidad": 1
+    },
+    {
+      "id": 1243,
+      "nombre": "EXPEDIENTE-X",
       "cantidad": 1
     }
   ]

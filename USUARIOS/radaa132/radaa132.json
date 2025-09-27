@@ -1694,7 +1694,7 @@
     {
       "id": 389,
       "nombre": "neo cortex",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 519,
@@ -1999,7 +1999,7 @@
     {
       "id": 873,
       "nombre": "BLACK-WIDOW",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 477,
@@ -4214,6 +4214,11 @@
     {
       "id": 1337,
       "nombre": "5A-SORA",
+      "cantidad": 1
+    },
+    {
+      "id": 1149,
+      "nombre": "ATOM",
       "cantidad": 1
     }
   ]
