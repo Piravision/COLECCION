@@ -2629,7 +2629,7 @@
         {
             "id": 729,
             "nombre": "DB-117",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1143,
@@ -4464,6 +4464,11 @@
         {
             "id": 401,
             "nombre": "cloud",
+            "cantidad": 1
+        },
+        {
+            "id": 403,
+            "nombre": "red",
             "cantidad": 1
         }
     ]

@@ -1619,7 +1619,7 @@
         {
             "id": 403,
             "nombre": "red",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 831,
@@ -4514,6 +4514,11 @@
         {
             "id": 703,
             "nombre": "DB-091",
+            "cantidad": 1
+        },
+        {
+            "id": 729,
+            "nombre": "DB-117",
             "cantidad": 1
         }
     ]
