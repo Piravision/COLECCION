@@ -1139,7 +1139,7 @@
         {
             "id": 796,
             "nombre": "MAN-BAT",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 626,
@@ -4374,6 +4374,11 @@
         {
             "id": 39,
             "nombre": "captain",
+            "cantidad": 1
+        },
+        {
+            "id": 40,
+            "nombre": "chiu",
             "cantidad": 1
         }
     ]

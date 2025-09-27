@@ -499,7 +499,7 @@
         {
             "id": 40,
             "nombre": "chiu",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 493,
@@ -4419,6 +4419,11 @@
         {
             "id": 1010,
             "nombre": "LUPIN-III",
+            "cantidad": 1
+        },
+        {
+            "id": 796,
+            "nombre": "MAN-BAT",
             "cantidad": 1
         }
     ]
