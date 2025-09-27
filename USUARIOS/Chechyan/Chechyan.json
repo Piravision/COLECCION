@@ -2404,7 +2404,7 @@
         {
             "id": 940,
             "nombre": "GIZMO-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 946,
@@ -4319,6 +4319,11 @@
         {
             "id": 535,
             "nombre": "Venkman-Jail",
+            "cantidad": 1
+        },
+        {
+            "id": 556,
+            "nombre": "LEIA-JAIL",
             "cantidad": 1
         }
     ]

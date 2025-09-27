@@ -1169,7 +1169,7 @@
         {
             "id": 556,
             "nombre": "LEIA-JAIL",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 695,
@@ -4364,6 +4364,11 @@
         {
             "id": 861,
             "nombre": "MARTY-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 940,
+            "nombre": "GIZMO-JAIL",
             "cantidad": 1
         }
     ]
