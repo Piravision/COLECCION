@@ -9,7 +9,7 @@
     {
       "id": 290,
       "nombre": "Tokka",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 94,
@@ -374,7 +374,7 @@
     {
       "id": 528,
       "nombre": "Fénix-Oscura",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 607,
@@ -614,7 +614,7 @@
     {
       "id": 219,
       "nombre": "Dirigible Tortuga",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 333,
@@ -1529,7 +1529,7 @@
     {
       "id": 531,
       "nombre": "McClane-Jail",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 378,
@@ -2204,12 +2204,12 @@
     {
       "id": 1210,
       "nombre": "4-FINAL-FIGHT",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 338,
       "nombre": "Shiryū de Dragón",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 532,
@@ -2239,7 +2239,7 @@
     {
       "id": 916,
       "nombre": "CHUKY-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 638,
@@ -2309,7 +2309,7 @@
     {
       "id": 251,
       "nombre": "Tigro",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 355,
@@ -2629,7 +2629,7 @@
     {
       "id": 729,
       "nombre": "DB-117",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1143,
@@ -2984,7 +2984,7 @@
     {
       "id": 71,
       "nombre": "herhero",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 992,
@@ -3419,7 +3419,7 @@
     {
       "id": 1121,
       "nombre": "RUGRATS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 558,
@@ -4054,7 +4054,7 @@
     {
       "id": 1368,
       "nombre": "8E-ANGEWOMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1302,
@@ -4219,6 +4219,21 @@
     {
       "id": 160,
       "nombre": "Steelheart",
+      "cantidad": 1
+    },
+    {
+      "id": 334,
+      "nombre": "Siniestro",
+      "cantidad": 1
+    },
+    {
+      "id": 596,
+      "nombre": "K.HEINZ-SCHENEIDER",
+      "cantidad": 1
+    },
+    {
+      "id": 48,
+      "nombre": "Hyunckel",
       "cantidad": 1
     }
   ]

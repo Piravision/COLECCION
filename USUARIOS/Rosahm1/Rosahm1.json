@@ -559,7 +559,7 @@
     {
       "id": 152,
       "nombre": "Dr. Karbunkle",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 240,
@@ -719,7 +719,7 @@
     {
       "id": 400,
       "nombre": "cid",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 547,
@@ -1414,7 +1414,7 @@
     {
       "id": 305,
       "nombre": "Runamuck",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 346,
@@ -1429,7 +1429,7 @@
     {
       "id": 351,
       "nombre": "reaper",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 424,
@@ -1489,7 +1489,7 @@
     {
       "id": 514,
       "nombre": "Hálcon-Vigía",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 416,
@@ -1539,7 +1539,7 @@
     {
       "id": 137,
       "nombre": "Sayaka Yumi",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 285,
@@ -1754,7 +1754,7 @@
     {
       "id": 275,
       "nombre": "Usagi Yojimbo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 190,
@@ -2074,7 +2074,7 @@
     {
       "id": 207,
       "nombre": "Slobster",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 606,
@@ -2229,7 +2229,7 @@
     {
       "id": 296,
       "nombre": "Jazz",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 601,
@@ -2784,7 +2784,7 @@
     {
       "id": 760,
       "nombre": "Shura-de-Capricornio",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 897,
@@ -3224,7 +3224,7 @@
     {
       "id": 726,
       "nombre": "DB-114",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 720,
@@ -3444,7 +3444,7 @@
     {
       "id": 916,
       "nombre": "CHUKY-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 383,
@@ -3549,7 +3549,7 @@
     {
       "id": 1013,
       "nombre": "YAIBA-KUROGAME",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 990,
@@ -3869,7 +3869,7 @@
     {
       "id": 197,
       "nombre": "Rox",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1111,
@@ -4414,17 +4414,17 @@
     {
       "id": 911,
       "nombre": "MARTHA-KENT",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 397,
       "nombre": "avalanche",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 887,
       "nombre": "LOCKJAW",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 890,
@@ -5004,7 +5004,7 @@
     {
       "id": 852,
       "nombre": "ZANGIEF",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 864,
@@ -5144,7 +5144,7 @@
     {
       "id": 1258,
       "nombre": "XENA-LA-PRINCESA-GUERRERA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 939,
@@ -5229,7 +5229,7 @@
     {
       "id": 1122,
       "nombre": "BOBOBO-BO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1067,
@@ -5879,7 +5879,7 @@
     {
       "id": 1298,
       "nombre": "FA-ALTERED BEAST",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1119,
@@ -5954,7 +5954,7 @@
     {
       "id": 1079,
       "nombre": "X -ROGUE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1096,
@@ -6059,7 +6059,7 @@
     {
       "id": 1396,
       "nombre": "9-PUPPETMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1369,
@@ -6209,6 +6209,51 @@
     {
       "id": 1301,
       "nombre": "1A-TAI",
+      "cantidad": 1
+    },
+    {
+      "id": 1325,
+      "nombre": "3G-GABUMON-EVO",
+      "cantidad": 1
+    },
+    {
+      "id": 1028,
+      "nombre": "BLACK KNIGHT",
+      "cantidad": 1
+    },
+    {
+      "id": 1395,
+      "nombre": "9-PUMPKINMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1256,
+      "nombre": "VIGILANTES-DE-LA-PLAYA",
+      "cantidad": 1
+    },
+    {
+      "id": 1017,
+      "nombre": "1-SPIDERWOMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1316,
+      "nombre": "2G-GOMAMON-EVO",
+      "cantidad": 1
+    },
+    {
+      "id": 1381,
+      "nombre": "9-GOTTSUMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1286,
+      "nombre": "FA-WINDJAMMERS",
+      "cantidad": 1
+    },
+    {
+      "id": 1195,
+      "nombre": "1-LUIGI",
       "cantidad": 1
     }
   ]
