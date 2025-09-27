@@ -694,7 +694,7 @@
         {
             "id": 516,
             "nombre": "LEGIÓN-DEL-DRAGÓN",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 189,
@@ -1109,7 +1109,7 @@
         {
             "id": 614,
             "nombre": "DB-002",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 551,
@@ -4259,7 +4259,7 @@
         {
             "id": 686,
             "nombre": "DB-074",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 372,
@@ -4464,6 +4464,16 @@
         {
             "id": 637,
             "nombre": "DB-025",
+            "cantidad": 1
+        },
+        {
+            "id": 1017,
+            "nombre": "1-SPIDERWOMAN",
+            "cantidad": 1
+        },
+        {
+            "id": 645,
+            "nombre": "DB-033",
             "cantidad": 1
         }
     ]
