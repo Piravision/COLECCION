@@ -2204,7 +2204,7 @@
         {
             "id": 1210,
             "nombre": "4-FINAL-FIGHT",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 338,
@@ -4469,6 +4469,11 @@
         {
             "id": 403,
             "nombre": "red",
+            "cantidad": 1
+        },
+        {
+            "id": 90,
+            "nombre": "Broadway",
             "cantidad": 1
         }
     ]

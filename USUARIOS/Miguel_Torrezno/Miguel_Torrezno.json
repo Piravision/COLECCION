@@ -1844,7 +1844,7 @@
         {
             "id": 90,
             "nombre": "Broadway",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 52,
@@ -4519,6 +4519,11 @@
         {
             "id": 729,
             "nombre": "DB-117",
+            "cantidad": 1
+        },
+        {
+            "id": 1210,
+            "nombre": "4-FINAL-FIGHT",
             "cantidad": 1
         }
     ]
