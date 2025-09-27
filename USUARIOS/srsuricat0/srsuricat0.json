@@ -5074,7 +5074,7 @@
         {
             "id": 1216,
             "nombre": "5-NINJA-GAIDEN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1234,
@@ -6109,6 +6109,11 @@
         {
             "id": 1070,
             "nombre": "UNION JACK",
+            "cantidad": 1
+        },
+        {
+            "id": 1068,
+            "nombre": "THUNDRA",
             "cantidad": 1
         }
     ]
