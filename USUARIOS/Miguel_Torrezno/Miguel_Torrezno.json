@@ -764,7 +764,7 @@
         {
             "id": 123,
             "nombre": "Sorceress",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 519,
@@ -4679,6 +4679,11 @@
         {
             "id": 1111,
             "nombre": "G1-COMANDO-G",
+            "cantidad": 1
+        },
+        {
+            "id": 1117,
+            "nombre": "PF-PITUFINA",
             "cantidad": 1
         }
     ]
