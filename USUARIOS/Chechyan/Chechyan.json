@@ -1609,7 +1609,7 @@
         {
             "id": 589,
             "nombre": "GENTILE-SALVATORE",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 722,
@@ -4329,6 +4329,11 @@
         {
             "id": 23,
             "nombre": "Amo del Calabozo",
+            "cantidad": 1
+        },
+        {
+            "id": 30,
+            "nombre": "Uni",
             "cantidad": 1
         }
     ]
