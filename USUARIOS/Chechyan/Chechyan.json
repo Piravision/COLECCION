@@ -2169,7 +2169,7 @@
         {
             "id": 780,
             "nombre": "BARBARA-GORDON",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 932,
@@ -4349,6 +4349,11 @@
         {
             "id": 902,
             "nombre": "AQUAMAN",
+            "cantidad": 1
+        },
+        {
+            "id": 33,
+            "nombre": "Apollo",
             "cantidad": 1
         }
     ]

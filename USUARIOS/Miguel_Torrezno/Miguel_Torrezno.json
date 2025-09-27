@@ -559,7 +559,7 @@
         {
             "id": 33,
             "nombre": "Apollo",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 407,
@@ -4394,6 +4394,11 @@
         {
             "id": 385,
             "nombre": "brio",
+            "cantidad": 1
+        },
+        {
+            "id": 780,
+            "nombre": "BARBARA-GORDON",
             "cantidad": 1
         }
     ]
