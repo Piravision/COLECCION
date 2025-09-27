@@ -374,7 +374,7 @@
         {
             "id": 104,
             "nombre": "Lady Jaye",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 47,
@@ -4524,6 +4524,11 @@
         {
             "id": 1210,
             "nombre": "4-FINAL-FIGHT",
+            "cantidad": 1
+        },
+        {
+            "id": 1233,
+            "nombre": "CONTRA",
             "cantidad": 1
         }
     ]

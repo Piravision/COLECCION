@@ -3609,7 +3609,7 @@
         {
             "id": 1233,
             "nombre": "CONTRA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 461,
@@ -4474,6 +4474,11 @@
         {
             "id": 90,
             "nombre": "Broadway",
+            "cantidad": 1
+        },
+        {
+            "id": 104,
+            "nombre": "Lady Jaye",
             "cantidad": 1
         }
     ]
