@@ -14,7 +14,7 @@
     {
       "id": 174,
       "nombre": "Spiderman",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 513,
@@ -139,7 +139,7 @@
     {
       "id": 52,
       "nombre": "marin",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 155,
@@ -864,7 +864,7 @@
     {
       "id": 393,
       "nombre": "Tawna",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 551,
@@ -1264,7 +1264,7 @@
     {
       "id": 985,
       "nombre": "ALF-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 536,
@@ -3589,7 +3589,7 @@
     {
       "id": 107,
       "nombre": "Snake Eyes",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 381,
@@ -4154,6 +4154,26 @@
     {
       "id": 255,
       "nombre": "Ma Mutt",
+      "cantidad": 1
+    },
+    {
+      "id": 526,
+      "nombre": "Júbilo",
+      "cantidad": 1
+    },
+    {
+      "id": 1092,
+      "nombre": "CAZAFANTASMAS",
+      "cantidad": 1
+    },
+    {
+      "id": 1150,
+      "nombre": "BATGIRL",
+      "cantidad": 1
+    },
+    {
+      "id": 807,
+      "nombre": "JAX",
       "cantidad": 1
     }
   ]

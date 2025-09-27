@@ -149,12 +149,12 @@
     {
       "id": 1010,
       "nombre": "LUPIN-III",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1128,
       "nombre": "VASH-ESTAMPIDA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1126,
@@ -644,6 +644,11 @@
     {
       "id": 457,
       "nombre": "hayato",
+      "cantidad": 1
+    },
+    {
+      "id": 1011,
+      "nombre": "TAI-&-AGUMON",
       "cantidad": 1
     }
   ]

@@ -29,7 +29,7 @@
     {
       "id": 174,
       "nombre": "Spiderman",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 496,
@@ -99,7 +99,7 @@
     {
       "id": 14,
       "nombre": "Snagg",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 168,
@@ -1269,12 +1269,12 @@
     {
       "id": 326,
       "nombre": "Blob",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 204,
       "nombre": "SharkBot",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 360,
@@ -2069,7 +2069,7 @@
     {
       "id": 956,
       "nombre": "2-GADGET",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 880,
@@ -2194,7 +2194,7 @@
     {
       "id": 975,
       "nombre": "7-PENNY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 618,
@@ -3409,7 +3409,7 @@
     {
       "id": 418,
       "nombre": "grayfox2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 680,
@@ -4219,6 +4219,31 @@
     {
       "id": 1149,
       "nombre": "ATOM",
+      "cantidad": 1
+    },
+    {
+      "id": 378,
+      "nombre": "kid",
+      "cantidad": 1
+    },
+    {
+      "id": 639,
+      "nombre": "DB-027",
+      "cantidad": 1
+    },
+    {
+      "id": 198,
+      "nombre": "Slammu",
+      "cantidad": 1
+    },
+    {
+      "id": 895,
+      "nombre": "ROCKET-RACOON",
+      "cantidad": 1
+    },
+    {
+      "id": 965,
+      "nombre": "4-RIGODON",
       "cantidad": 1
     }
   ]

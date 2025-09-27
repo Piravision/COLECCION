@@ -49,7 +49,7 @@
     {
       "id": 134,
       "nombre": "Tri Klops",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 403,
@@ -544,7 +544,7 @@
     {
       "id": 141,
       "nombre": "Nosedive Flashblade",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 211,
@@ -1314,7 +1314,7 @@
     {
       "id": 151,
       "nombre": "Vinnie Cooper",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 157,
@@ -3169,7 +3169,7 @@
     {
       "id": 600,
       "nombre": "NATUREZA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 559,
@@ -3299,7 +3299,7 @@
     {
       "id": 886,
       "nombre": "KARNAK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 866,
@@ -3809,7 +3809,7 @@
     {
       "id": 260,
       "nombre": "Princesa Luna",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 910,
@@ -4299,7 +4299,7 @@
     {
       "id": 939,
       "nombre": "GHOSTFACE-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1117,
@@ -5224,7 +5224,7 @@
     {
       "id": 1158,
       "nombre": "FLASH",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1256,
@@ -5494,7 +5494,7 @@
     {
       "id": 845,
       "nombre": "KEN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 765,
@@ -5769,7 +5769,7 @@
     {
       "id": 1261,
       "nombre": "FA-MEGAMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 981,
@@ -6129,6 +6129,16 @@
     {
       "id": 1221,
       "nombre": "KID-CHAMELEON",
+      "cantidad": 1
+    },
+    {
+      "id": 1195,
+      "nombre": "1-LUIGI",
+      "cantidad": 1
+    },
+    {
+      "id": 1254,
+      "nombre": "SEINFELD",
       "cantidad": 1
     }
   ]

@@ -1714,7 +1714,7 @@
     {
       "id": 985,
       "nombre": "ALF-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 878,
@@ -3119,6 +3119,16 @@
     {
       "id": 1243,
       "nombre": "EXPEDIENTE-X",
+      "cantidad": 1
+    },
+    {
+      "id": 789,
+      "nombre": "ENIGMA",
+      "cantidad": 1
+    },
+    {
+      "id": 78,
+      "nombre": "myse",
       "cantidad": 1
     }
   ]

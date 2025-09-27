@@ -89,7 +89,7 @@
     {
       "id": 283,
       "nombre": "Lord Dregg",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 238,
@@ -184,7 +184,7 @@
     {
       "id": 671,
       "nombre": "DB-059",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 470,
@@ -489,7 +489,7 @@
     {
       "id": 700,
       "nombre": "DB-088",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 368,
@@ -524,7 +524,7 @@
     {
       "id": 318,
       "nombre": "Morpho",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 414,
@@ -534,7 +534,7 @@
     {
       "id": 456,
       "nombre": "boman",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 32,
@@ -609,7 +609,7 @@
     {
       "id": 669,
       "nombre": "DB-057",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 750,
@@ -654,7 +654,7 @@
     {
       "id": 449,
       "nombre": "leon2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 667,
@@ -1099,7 +1099,7 @@
     {
       "id": 902,
       "nombre": "AQUAMAN",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 125,
@@ -1394,7 +1394,7 @@
     {
       "id": 177,
       "nombre": "Carnage",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 246,
@@ -1679,7 +1679,7 @@
     {
       "id": 887,
       "nombre": "LOCKJAW",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 868,
@@ -1729,7 +1729,7 @@
     {
       "id": 895,
       "nombre": "ROCKET-RACOON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 111,
@@ -2249,7 +2249,7 @@
     {
       "id": 652,
       "nombre": "DB-040",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 312,
@@ -2559,7 +2559,7 @@
     {
       "id": 221,
       "nombre": "Espada Atlantean",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 961,
@@ -3034,7 +3034,7 @@
     {
       "id": 890,
       "nombre": "MEDUSA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 780,
@@ -4354,7 +4354,7 @@
     {
       "id": 650,
       "nombre": "DB-038",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 499,
@@ -5564,7 +5564,7 @@
     {
       "id": 1082,
       "nombre": "X- PSYLOCKE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 992,
@@ -5589,7 +5589,7 @@
     {
       "id": 1275,
       "nombre": "RAYMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 661,
@@ -5974,7 +5974,7 @@
     {
       "id": 1298,
       "nombre": "FA-ALTERED BEAST",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1077,
@@ -6164,7 +6164,7 @@
     {
       "id": 1092,
       "nombre": "CAZAFANTASMAS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1043,
@@ -6364,6 +6364,16 @@
     {
       "id": 1340,
       "nombre": "5D-BIRDRAMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1035,
+      "nombre": "CAPITAN BRITANIA",
+      "cantidad": 1
+    },
+    {
+      "id": 626,
+      "nombre": "DB-014",
       "cantidad": 1
     }
   ]
