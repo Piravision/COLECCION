@@ -2339,7 +2339,7 @@
         {
             "id": 1010,
             "nombre": "LUPIN-III",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 759,
@@ -4369,6 +4369,11 @@
         {
             "id": 38,
             "nombre": "brokeena",
+            "cantidad": 1
+        },
+        {
+            "id": 39,
+            "nombre": "captain",
             "cantidad": 1
         }
     ]
