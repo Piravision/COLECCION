@@ -1004,7 +1004,7 @@
         {
             "id": 556,
             "nombre": "LEIA-JAIL",
-            "cantidad": 7
+            "cantidad": 6
         },
         {
             "id": 430,
@@ -6694,6 +6694,11 @@
         {
             "id": 1359,
             "nombre": "7E-MAGNA-ANGEMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1380,
+            "nombre": "9-ETERMON",
             "cantidad": 1
         }
     ]
