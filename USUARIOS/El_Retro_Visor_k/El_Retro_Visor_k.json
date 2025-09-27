@@ -5544,7 +5544,7 @@
         {
             "id": 1000,
             "nombre": "SON-GOKU",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1249,
@@ -6649,6 +6649,11 @@
         {
             "id": 1370,
             "nombre": "8G-GATOMON-EVO",
+            "cantidad": 1
+        },
+        {
+            "id": 1352,
+            "nombre": "6G-TENTOMON-EVO",
             "cantidad": 1
         }
     ]
