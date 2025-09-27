@@ -984,7 +984,7 @@
     {
       "id": 370,
       "nombre": "muerte",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 47,
@@ -1219,7 +1219,7 @@
     {
       "id": 533,
       "nombre": "Tony-Montana-Jail",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 180,
@@ -3194,7 +3194,7 @@
     {
       "id": 641,
       "nombre": "DB-029",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 82,
@@ -3724,7 +3724,7 @@
     {
       "id": 129,
       "nombre": "Hordak",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 793,
@@ -4414,7 +4414,7 @@
     {
       "id": 911,
       "nombre": "MARTHA-KENT",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 397,
@@ -4969,7 +4969,7 @@
     {
       "id": 412,
       "nombre": "big2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1231,
@@ -5369,7 +5369,7 @@
     {
       "id": 103,
       "nombre": "Gung Ho",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1041,
@@ -6264,6 +6264,16 @@
     {
       "id": 1069,
       "nombre": "TIGRA",
+      "cantidad": 1
+    },
+    {
+      "id": 1061,
+      "nombre": "SHANG-CHI",
+      "cantidad": 1
+    },
+    {
+      "id": 1365,
+      "nombre": "8B-NYAROMON",
       "cantidad": 1
     }
   ]
