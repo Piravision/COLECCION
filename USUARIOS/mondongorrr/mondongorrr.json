@@ -1489,7 +1489,7 @@
     {
       "id": 364,
       "nombre": "HulkHogan",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 861,
@@ -4889,7 +4889,7 @@
     {
       "id": 166,
       "nombre": "Estrella de Fuego",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 482,
@@ -6054,7 +6054,7 @@
     {
       "id": 1146,
       "nombre": "TROTAMUSICOS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1113,
@@ -6229,7 +6229,7 @@
     {
       "id": 1377,
       "nombre": "9-CHERRYMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1350,
@@ -6249,7 +6249,7 @@
     {
       "id": 1392,
       "nombre": "9-OTAMAMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1335,
@@ -6259,7 +6259,7 @@
     {
       "id": 1365,
       "nombre": "8B-NYAROMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1369,
@@ -6279,7 +6279,7 @@
     {
       "id": 1314,
       "nombre": "2E-ZUDOMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1323,
@@ -6299,7 +6299,7 @@
     {
       "id": 1333,
       "nombre": "4F-ROSEMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1364,
@@ -6409,6 +6409,56 @@
     {
       "id": 1073,
       "nombre": "X - CYCLOPS",
+      "cantidad": 1
+    },
+    {
+      "id": 1225,
+      "nombre": "SORA",
+      "cantidad": 1
+    },
+    {
+      "id": 1353,
+      "nombre": "6H-FA-IZZY",
+      "cantidad": 1
+    },
+    {
+      "id": 1292,
+      "nombre": "ALF-FAMILY",
+      "cantidad": 1
+    },
+    {
+      "id": 1339,
+      "nombre": "5C-PIYOMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1307,
+      "nombre": "1G-AGUMON-EVO",
+      "cantidad": 1
+    },
+    {
+      "id": 1384,
+      "nombre": "9-MACHINEDRAMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1376,
+      "nombre": "9-CENTALMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1330,
+      "nombre": "4C-PALMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1354,
+      "nombre": "6I-IZZY-FOIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1396,
+      "nombre": "9-PUPPETMON",
       "cantidad": 1
     }
   ]

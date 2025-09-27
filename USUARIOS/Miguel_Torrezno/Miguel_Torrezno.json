@@ -1749,7 +1749,7 @@
         {
             "id": 788,
             "nombre": "EL-FANTASMA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 779,
@@ -3164,7 +3164,7 @@
         {
             "id": 228,
             "nombre": "Isla Dermline",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 813,
@@ -4239,7 +4239,7 @@
         {
             "id": 1393,
             "nombre": "9-PIEDMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1335,
@@ -4279,12 +4279,12 @@
         {
             "id": 1343,
             "nombre": "5G-PIYOMON-EVO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1333,
             "nombre": "4F-ROSEMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1301,
@@ -4574,6 +4574,41 @@
         {
             "id": 369,
             "nombre": "DRACULA2",
+            "cantidad": 1
+        },
+        {
+            "id": 187,
+            "nombre": "Rhyno",
+            "cantidad": 1
+        },
+        {
+            "id": 1357,
+            "nombre": "7C-PATAMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1329,
+            "nombre": "4B-TANEMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1351,
+            "nombre": "6F-HERCULES-KABUTERIMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1350,
+            "nombre": "6E-MEGAKABUTERIMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1362,
+            "nombre": "7H-FA-TK",
+            "cantidad": 1
+        },
+        {
+            "id": 398,
+            "nombre": "barret",
             "cantidad": 1
         }
     ]

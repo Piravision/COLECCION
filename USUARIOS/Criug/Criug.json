@@ -979,7 +979,7 @@
     {
       "id": 441,
       "nombre": "slig",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 68,
@@ -1219,7 +1219,7 @@
     {
       "id": 548,
       "nombre": "Snake-Plissken",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 227,
@@ -1384,7 +1384,7 @@
     {
       "id": 276,
       "nombre": "Baxter",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 240,
@@ -2264,7 +2264,7 @@
     {
       "id": 549,
       "nombre": "T-1000",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 499,
@@ -3144,7 +3144,7 @@
     {
       "id": 664,
       "nombre": "DB-052",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 702,
@@ -3579,7 +3579,7 @@
     {
       "id": 630,
       "nombre": "DB-018",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 767,
@@ -4589,7 +4589,7 @@
     {
       "id": 896,
       "nombre": "SHE-HULK",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 915,
@@ -6574,7 +6574,7 @@
     {
       "id": 1392,
       "nombre": "9-OTAMAMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1383,
@@ -6594,7 +6594,7 @@
     {
       "id": 1376,
       "nombre": "9-CENTALMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1356,
@@ -6604,7 +6604,7 @@
     {
       "id": 1334,
       "nombre": "4G-PALMON-EVO",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 1304,
@@ -6614,6 +6614,41 @@
     {
       "id": 1371,
       "nombre": "8H-FA-KARI",
+      "cantidad": 1
+    },
+    {
+      "id": 1345,
+      "nombre": "5I-SORA-FOIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1310,
+      "nombre": "2A-JOE",
+      "cantidad": 1
+    },
+    {
+      "id": 1339,
+      "nombre": "5C-PIYOMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1353,
+      "nombre": "6H-FA-IZZY",
+      "cantidad": 1
+    },
+    {
+      "id": 1340,
+      "nombre": "5D-BIRDRAMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1391,
+      "nombre": "9-OGREMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1393,
+      "nombre": "9-PIEDMON",
       "cantidad": 1
     }
   ]

@@ -3454,7 +3454,7 @@
         {
             "id": 398,
             "nombre": "barret",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 822,
@@ -6519,7 +6519,7 @@
         {
             "id": 1328,
             "nombre": "4A-MIMI",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1389,
@@ -6544,12 +6544,12 @@
         {
             "id": 1315,
             "nombre": "2F-VIKEMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1357,
             "nombre": "7C-PATAMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1318,
@@ -6669,7 +6669,7 @@
         {
             "id": 1366,
             "nombre": "8C-SALAMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1368,
@@ -6709,6 +6709,36 @@
         {
             "id": 1400,
             "nombre": "9-YUKIDARUMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1335,
+            "nombre": "4H-FA-MIMI",
+            "cantidad": 1
+        },
+        {
+            "id": 1344,
+            "nombre": "5H-FA-SORA",
+            "cantidad": 1
+        },
+        {
+            "id": 1339,
+            "nombre": "5C-PIYOMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1345,
+            "nombre": "5I-SORA-FOIL",
+            "cantidad": 1
+        },
+        {
+            "id": 1383,
+            "nombre": "9-LEOMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1301,
+            "nombre": "1A-TAI",
             "cantidad": 1
         }
     ]

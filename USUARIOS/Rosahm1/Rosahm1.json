@@ -2489,7 +2489,7 @@
     {
       "id": 789,
       "nombre": "ENIGMA",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 827,
@@ -3684,7 +3684,7 @@
     {
       "id": 468,
       "nombre": "CybilBennett",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 349,
@@ -4844,7 +4844,7 @@
     {
       "id": 1194,
       "nombre": "COBRA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1158,
@@ -6104,7 +6104,7 @@
     {
       "id": 1400,
       "nombre": "9-YUKIDARUMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1308,
@@ -6284,6 +6284,16 @@
     {
       "id": 1213,
       "nombre": "4-STREET-OF-RAGE",
+      "cantidad": 1
+    },
+    {
+      "id": 1351,
+      "nombre": "6F-HERCULES-KABUTERIMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1378,
+      "nombre": "9-DEMIDEVIMON",
       "cantidad": 1
     }
   ]
