@@ -269,7 +269,7 @@
         {
             "id": 102,
             "nombre": "General Hawk",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 221,
@@ -6689,6 +6689,11 @@
         {
             "id": 1321,
             "nombre": "3C-GABUMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1359,
+            "nombre": "7E-MAGNA-ANGEMON",
             "cantidad": 1
         }
     ]
