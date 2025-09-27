@@ -5869,7 +5869,7 @@
         {
             "id": 1132,
             "nombre": "AB-OBELIX",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1049,
@@ -6104,6 +6104,11 @@
         {
             "id": 1072,
             "nombre": "VALKYRIE-2",
+            "cantidad": 1
+        },
+        {
+            "id": 1070,
+            "nombre": "UNION JACK",
             "cantidad": 1
         }
     ]
