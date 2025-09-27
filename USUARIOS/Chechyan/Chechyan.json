@@ -779,7 +779,7 @@
     {
       "id": 458,
       "nombre": "hinata",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 894,
@@ -819,7 +819,7 @@
     {
       "id": 882,
       "nombre": "HELA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1129,
@@ -1909,7 +1909,7 @@
     {
       "id": 230,
       "nombre": "Mansion X",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1255,
@@ -1994,7 +1994,7 @@
     {
       "id": 547,
       "nombre": "ROCKY",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1077,
@@ -2389,7 +2389,7 @@
     {
       "id": 862,
       "nombre": "NEO-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1113,
@@ -4234,6 +4234,11 @@
     {
       "id": 48,
       "nombre": "Hyunckel",
+      "cantidad": 1
+    },
+    {
+      "id": 1265,
+      "nombre": "BAYONETTA",
       "cantidad": 1
     }
   ]
