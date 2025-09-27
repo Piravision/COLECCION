@@ -844,7 +844,7 @@
         {
             "id": 379,
             "nombre": "lynx",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 117,
@@ -5994,6 +5994,11 @@
         {
             "id": 1365,
             "nombre": "8B-NYAROMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1379,
+            "nombre": "9-DEVYMON",
             "cantidad": 1
         }
     ]
