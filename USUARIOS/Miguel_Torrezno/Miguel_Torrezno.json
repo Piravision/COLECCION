@@ -2599,7 +2599,7 @@
         {
             "id": 105,
             "nombre": "Sargento Slaughter",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 208,
@@ -4529,6 +4529,11 @@
         {
             "id": 1233,
             "nombre": "CONTRA",
+            "cantidad": 1
+        },
+        {
+            "id": 1273,
+            "nombre": "KINGDOM-HEARTS",
             "cantidad": 1
         }
     ]
