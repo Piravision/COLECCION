@@ -2219,7 +2219,7 @@
         {
             "id": 985,
             "nombre": "ALF-JAIL",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 889,
@@ -4354,6 +4354,11 @@
         {
             "id": 1400,
             "nombre": "9-YUKIDARUMON",
+            "cantidad": 1
+        },
+        {
+            "id": 941,
+            "nombre": "GREMLIN-JAIL",
             "cantidad": 1
         }
     ]

@@ -1604,7 +1604,7 @@
         {
             "id": 941,
             "nombre": "GREMLIN-JAIL",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 589,
@@ -4309,6 +4309,11 @@
         {
             "id": 20,
             "nombre": "Skulkur",
+            "cantidad": 1
+        },
+        {
+            "id": 985,
+            "nombre": "ALF-JAIL",
             "cantidad": 1
         }
     ]
