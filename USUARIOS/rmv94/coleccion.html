@@ -6,206 +6,176 @@
     <title>Colección de Cromos de rmv94</title>
     <style>
     body {
-        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-        margin: 0;
-        padding: 0;
-        background-color: #0c0c0c;
-        color: #f4f4f4;
-        position: relative;
-    }
+		font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+		margin: 0;
+		padding: 0;
+		background-color: #0c0c0c;
+		color: #f4f4f4;
+		position: relative;
+	}
+	.header {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		background: #1f1f1f;
+		padding: 10px 20px;
+	}
+	.logo-container {
+		text-align: center;
+		margin-bottom: 10px;
+	}
+	.logo {
+		max-height: 160px;
+		height: auto;
+		width: auto;
+	}
+	@media (max-width: 600px) {
+		.logo {
+			max-height: 120px;
+		}
+	}
+	.social-icons {
+		display: flex;
+		gap: 10px;
+		flex-wrap: wrap;
+		justify-content: center;
+		margin-bottom: 10px;
+	}
+	.social-icons img {
+		width: 35px;
+		height: 35px;
+		transition: transform 0.2s;
+	}
+	.social-icons img:hover {
+		transform: scale(1.1);
+	}
+	.container {
+		width: 90%;
+		max-width: 1200px;
+		margin: auto;
+		padding: 20px;
+		position: relative;
+		z-index: 2;
+	}
+	.background {
+		position: fixed;
+		top: 0; left: 0;
+		width: 100%; height: 100%;
+		z-index: -1;
+		filter: blur(15px) brightness(0.3);
+		background: url('https://piravision.github.io/COLECCION/dorsocarta.png') no-repeat center center;
+		background-size: cover;
+	}
+	.content {
+		background: rgba(255, 255, 255, 0.07);
+		border-radius: 10px;
+		padding: 20px;
+		margin-bottom: 30px;
+	}
+	.section-title-1 {
+		border-bottom: 2px solid #ff9900;
+		margin-bottom: 10px;
+		display: flex;
+		justify-content: space-between;
+		align-items: baseline;
+	}
+	.section-title-1 h2 {
+		margin: 0;
+		font-size: 1.4rem;
+		color: #ff9900;
+	}
+	.section-title-1 span {
+		font-size: 1.2rem;
+		color: #fff;
+	}
+	.section-title-2 {
+		margin-top: 20px;
+		display: flex;
+		justify-content: space-between;
+		align-items: baseline;
+	}
+	.section-title-2 h2 {
+		margin: 0;
+		font-size: 1.2rem;
+	}
+	.section-title-2 span {
+		font-size: 1rem;
+		color: #ccc;
+	}
+	.coleccion {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 20px;
+		padding: 20px 0;
+		justify-content: flex-start;
+	}
+	.cromo-card {
+		flex: 0 0 auto;
+		width: 200px;
+		border: 2px solid #555;
+		border-radius: 10px;
+		padding: 10px;
+		background-color: #333;
+		box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+		text-align: center;
+		position: relative;
+		display: flex;
+		flex-direction: column;
+	}
+	.cromo-card a {
+		cursor: pointer;
+		text-decoration: none;
+		color: inherit;
+	}
+	.cromo-img-container {
+		width: 100%;
+		aspect-ratio: 1 / 1;
+		overflow: hidden;
+		border-radius: 5px;
+		margin-bottom: 10px;
+	}
+	.cromo-img-container img {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+	}
+	.cromo-card h3 {
+		margin: auto 0 5px;
+		font-size: 1.2em;
+	}
+	.cromo-card p {
+		margin: 5px 0 0;
+		font-size: 0.9em;
+		color: #ccc;
+	}
+	.cromo-numero {
+		position: absolute;
+		top: 10px;
+		left: 10px;
+		background-color: #ff9900;
+		color: #111;
+		padding: 5px 10px;
+		border-radius: 5px;
+		font-weight: bold;
+	}
+	.footer {
+		text-align: center;
+		padding: 10px;
+		background: #111;
+		color: #fff;
+	}
+	a {
+		color: #ff9900;
+		text-decoration: none;
+	}
+	a:hover {
+		text-decoration: underline;
+	}
 
-    .header {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        background: #1f1f1f;
-        padding: 10px 20px;
-    }
-
-    .logo-container {
-        text-align: center;
-        margin-bottom: 10px;
-    }
-
-    .logo {
-        max-height: 160px;
-        height: auto;
-        width: auto;
-    }
-
-    @media (max-width: 600px) {
-        .logo {
-            max-height: 120px;
-        }
-    }
-
-    .social-icons {
-        display: flex;
-        gap: 10px;
-        flex-wrap: wrap;
-        justify-content: center;
-        margin-bottom: 10px;
-    }
-
-    .social-icons img {
-        width: 35px;
-        height: 35px;
-        transition: transform 0.2s;
-    }
-
-    .social-icons img:hover {
-        transform: scale(1.1);
-    }
-
-    .container {
-        width: 90%;
-        max-width: 1200px;
-        margin: auto;
-        padding: 20px;
-        position: relative;
-        z-index: 2;
-    }
-
-    /* Fondo atenuado con la nueva imagen */
-    .background {
-        position: fixed;
-        top: 0; left: 0;
-        width: 100%; height: 100%;
-        z-index: -1;
-        filter: blur(15px) brightness(0.3);
-        background: url('https://piravision.github.io/COLECCION/dorsocarta.png') no-repeat center center;
-        background-size: cover;
-    }
-
-    .content {
-        background: rgba(255, 255, 255, 0.07);
-        border-radius: 10px;
-        padding: 20px;
-        margin-bottom: 30px;
-    }
-
-    .section-title-1 {
-        border-bottom: 2px solid #ff9900;
-        margin-bottom: 10px;
-        display: flex;
-        justify-content: space-between;
-        align-items: baseline;
-    }
-
-    .section-title-1 h2 {
-        margin: 0;
-        font-size: 1.4rem;
-        color: #ff9900;
-    }
-    
-    .section-title-1 span {
-        font-size: 1.2rem;
-        color: #fff;
-    }
-
-    .section-title-2 {
-        margin-top: 20px;
-        display: flex;
-        justify-content: space-between;
-        align-items: baseline;
-    }
-
-    .section-title-2 h2 {
-        margin: 0;
-        font-size: 1.2rem;
-    }
-
-    .section-title-2 span {
-        font-size: 1rem;
-        color: #ccc;
-    }
-
-    .coleccion {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 20px;
-        padding: 20px 0;
-        justify-content: flex-start;
-    }
-
-    .cromo-card {
-        flex: 0 0 auto;
-        width: 200px;
-        border: 2px solid #555;
-        border-radius: 10px;
-        padding: 10px;
-        background-color: #333;
-        box-shadow: 0 4px 8px rgba(0,0,0,0.5);
-        text-align: center;
-        position: relative;
-        display: flex;
-        flex-direction: column;
-    }
-
-    .cromo-card a {
-        cursor: pointer;
-        text-decoration: none;
-        color: inherit;
-    }
-
-    .cromo-img-container {
-        width: 100%;
-        aspect-ratio: 1 / 1;
-        overflow: hidden;
-        border-radius: 5px;
-        margin-bottom: 10px;
-    }
-
-    .cromo-img-container img {
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-    }
-
-    .cromo-card h3 {
-        margin: auto 0 5px;
-        font-size: 1.2em;
-    }
-
-    .cromo-card p {
-        margin: 5px 0 0;
-        font-size: 0.9em;
-        color: #ccc;
-    }
-
-    .cromo-numero {
-        position: absolute;
-        top: 10px;
-        left: 10px;
-        background-color: #ff9900;
-        color: #111;
-        padding: 5px 10px;
-        border-radius: 5px;
-        font-weight: bold;
-    }
-
-    .footer {
-        text-align: center;
-        padding: 10px;
-        background: #111;
-        color: #fff;
-    }
-
-    a {
-        color: #ff9900;
-        text-decoration: none;
-    }
-
-    a:hover {
-        text-decoration: underline;
-    }
-
-    /* --- INICIO: NUEVOS ESTILOS PARA EL MODAL INTERACTIVO --- */
-
-	/* Actualizamos .modal para que use flexbox y centre todo perfectamente */
+	/* --- INICIO: CÓDIGO FINAL Y LIMPIO PARA EL MODAL INTERACTIVO --- */
 	.modal {
-		display: none; /* Oculto por defecto */
+		display: none;
 		position: fixed;
 		z-index: 100;
 		left: 0;
@@ -214,36 +184,27 @@
 		height: 100%;
 		overflow: auto;
 		background-color: rgba(0,0,0,0.9);
-		
-		/* Propiedades flex para centrar */
 		align-items: center;
 		justify-content: center;
-		perspective: 1000px; /* Necesario para el efecto 3D */
+		
 	}
-
-	/* Clase que se añadirá con JS para mostrar el modal */
 	.modal.visible {
 		display: flex;
 	}
-
 	.modal-container-content {
 		display: flex;
 		flex-direction: column;
 		align-items: center;
 	}
-
-	/* Contenedor de la carta para el efecto 3D */
 	#modal-card-container {
 		position: relative;
 		transform-style: preserve-3d;
-		transition: transform 0.1s linear, box-shadow 0.4s ease-out, border-color 0.4s ease-out;
-		border-radius: 15px;
-		overflow: hidden; /* Muy importante para recortar el brillo */
+		perspective: 1000px;
+		transition: transform 0.1s linear;
 		display: inline-block;
-		transform: translateZ(0); /* Mejora el renderizado en algunos navegadores */
+		transform: translateZ(0);
+		
 	}
-
-	/* Pseudo-elemento que crea la capa de brillo */
 	#modal-card-container::before {
 		content: "";
 		position: absolute;
@@ -253,161 +214,186 @@
 		height: 100%;
 		opacity: 0;
 		transition: opacity 0.25s ease-out;
-		mix-blend-mode: color-dodge; /* La propiedad clave que revela el patrón */
-		pointer-events: none; /* Permite hacer clic a través del efecto */
+		mix-blend-mode: color-dodge;
+		pointer-events: none;
 		z-index: 2;
+		-webkit-mask-image: var(--card-mask);
+		mask-image: var(--card-mask);
+		-webkit-mask-size: contain;
+		mask-size: contain;
+		-webkit-mask-repeat: no-repeat;
+		mask-repeat: no-repeat;
+		-webkit-mask-position: center;
+		mask-position: center;
 	}
-
-	#modal-card-container:hover::before { 
-		opacity: 1; 
+	#modal-card-container:hover::before {
+		opacity: 1;
 	}
-
-	/* --- EFECTOS DE BRILLO Y PATRONES HOLOGRÁFICOS POR RAREZA (VERSIÓN CON SVG EMBEBIDO) --- */
-
 	#modal-card-container.Común::before {
-		/* Capa 1: Reflejo de luz + Capa 2: Patrón SVG de Hero Patterns */
-		background-image: linear-gradient(115deg, transparent 30%, rgba(255,255,255,0.4) 48%, rgba(255,255,255,0.4) 52%, transparent 70%),
-						  url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'%3E%3Cg fill-rule='evenodd'%3E%3Cg fill='%239C92AC' fill-opacity='0.12'%3E%3Cpath d='M0 38.59l2.83-2.83 1.41 1.41L1.41 40H0v-1.41zM0 1.4l2.83 2.83 1.41-1.41L1.41 0H0v1.41zM38.59 40l-2.83-2.83 1.41-1.41L40 38.59V40h-1.41zM40 1.41l-2.83 2.83-1.41-1.41L38.59 0H40v1.41zM20 18.6l2.83-2.83 1.41 1.41L21.41 20l2.83 2.83-1.41 1.41L20 21.41l-2.83 2.83-1.41-1.41L18.59 20l-2.83-2.83 1.41-1.41L20 18.59z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
-
-		/* Controlamos cada capa por separado */
+		background-image: linear-gradient(115deg, transparent 30%, rgba(255,255,255,0.4) 48%, rgba(255,255,255,0.4) 52%, transparent 70%), url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'%3E%3Cg fill-rule='evenodd'%3E%3Cg fill='%239C92AC' fill-opacity='0.12'%3E%3Cpath d='M0 38.59l2.83-2.83 1.41 1.41L1.41 40H0v-1.41zM0 1.4l2.83 2.83 1.41-1.41L1.41 0H0v1.41zM38.59 40l-2.83-2.83 1.41-1.41L40 38.59V40h-1.41zM40 1.41l-2.83 2.83-1.41-1.41L38.59 0H40v1.41zM20 18.6l2.83-2.83 1.41 1.41L21.41 20l2.83 2.83-1.41 1.41L20 21.41l-2.83 2.83-1.41-1.41L18.59 20l-2.83-2.83 1.41-1.41L20 18.59z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
 		background-size: 250% 250%, auto;
 		background-position: var(--mouse-x) var(--mouse-y), 0 0;
 		background-repeat: no-repeat, repeat;
 	}
-
 	#modal-card-container.Raro::before {
-		/* Capa 1: Reflejo de luz + Capa 2: Patrón SVG de Hero Patterns */
-		background-image: linear-gradient(115deg, transparent 30%, rgba(170,210,255,0.5) 48%, rgba(170,210,255,0.5) 52%, transparent 70%),
-						  url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox='0 0 80 80' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%239C92AC' fill-opacity='0.18'%3E%3Cpath d='M50 50c0-5.523 4.477-10 10-10s10 4.477 10 10-4.477 10-10 10c0 5.523-4.477 10-10 10s-10-4.477-10-10 4.477-10 10-10zM10 10c0-5.523 4.477-10 10-10s10 4.477 10 10-4.477 10-10 10c0 5.523-4.477 10-10 10S0 25.523 0 20s4.477-10 10-10zm10 8c4.418 0 8-3.582 8-8s-3.582-8-8-8-8 3.582-8 8 3.582 8 8 8zm40 40c4.418 0 8-3.582 8-8s-3.582-8-8-8-8 3.582-8 8 3.582 8 8 8z' /%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
-
-		/* Controlamos cada capa por separado */
-		background-size: 250% 250%, auto;
-		background-position: var(--mouse-x) var(--mouse-y), 0 0;
-		background-repeat: no-repeat, repeat;
+	  background-image: linear-gradient(
+		115deg,
+		transparent 30%,
+		rgba(170,210,255,0.5) 48%,
+		rgba(170,210,255,0.5) 52%,
+		transparent 70%
+		
+	  );
+	  
+	  background-size: 250% 250%;
+	  background-position: var(--mouse-x) var(--mouse-y);
+	  background-repeat: no-repeat;
 	}
-
+	
 	#modal-card-container.Legendario::before {
-		/* Capa 1: Reflejo de luz + Capa 2: Patrón SVG de Hero Patterns */
-		background-image: linear-gradient(115deg, transparent 25%, hsla(0,100%,80%,0.28), hsla(60,100%,80%,0.28), hsla(120,100%,80%,0.28), hsla(180,100%,80%,0.28), hsla(240,100%,80%,0.28), transparent 75%),
-						  url("data:image/svg+xml,%3Csvg width='180' height='180' viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M81.28 88H68.413l19.298 19.298L81.28 88zm2.107 0h13.226L90 107.838 83.387 88zm15.334 0h12.866l-19.298 19.298L98.72 88zm-32.927-2.207L73.586 78h32.827l.5.5 7.294 7.293L115.414 87l-24.707 24.707-.707.707L64.586 87l1.207-1.207zm2.62.207L74 80.414 79.586 86H68.414zm16 0L90 80.414 95.586 86H84.414zm16 0L106 80.414 111.586 86h-11.172zm-8-6h11.173L98 85.586 92.414 80zM82 85.586L87.586 80H76.414L82 85.586zM17.414 0L.707 16.707 0 17.414V0h17.414zM4.28 0L0 12.838V0h4.28zm10.306 0L2.288 12.298 6.388 0h8.198zM180 17.414L162.586 0H180v17.414zM165.414 0l12.298 12.298L173.612 0h-8.198zM180 12.838L175.72 0H180v12.838zM0 163h16.413l.5.5 7.294 7.293L25.414 172l-8 8H0v-17zm0 10h6.613l-2.334 7H0v-7zm14.586 7l7-7H8.72l-2.333 7h8.2zM0 165.414L5.586 171H0v-5.586zM10.414 171L16 165.414 21.586 171H10.414zm-8-6h11.172L8 170.586 2.414 165zM180 163h-16.413l-7.794 7.793-1.207 1.207 8 8H180v-17zm-14.586 17l-7-7h12.865l2.333 7h-8.2zM180 173h-6.613l2.334 7H180v-7zm-21.586-2l5.586-5.586 5.586 5.586h-11.172zM180 165.414L174.414 171H180v-5.586zm-8 5.172l5.586-5.586h-11.172l5.586 5.586zM152.933 25.653l1.414 1.414-33.94 33.942-1.416-1.416 33.943-33.94zm1.414 127.28l-1.414 1.414-33.942-33.94 1.416-1.416 33.94 33.943zm-127.28 1.414l-1.414-1.414 33.94-33.942 1.416 1.416-33.943 33.94zm-1.414-127.28l1.414-1.414 33.942 33.94-1.416 1.416-33.94-33.943zM0 85c2.21 0 4 1.79 4 4s-1.79 4-4 4v-8zm180 0c-2.21 0-4 1.79-4 4s1.79 4 4 4v-8zM94 0c0 2.21-1.79 4-4 4s-4-1.79-4-4h8zm0 180c0-2.21-1.79-4-4-4s-4 1.79-4 4h8z' fill='%239C92AC' fill-opacity='0.14' fill-rule='evenodd'/%3E%3C/svg%3E");
-
-		/* Controlamos cada capa por separado */
-		background-size: 250% 250%, auto;
-		background-position: var(--mouse-x) var(--mouse-y), 0 0;
-		background-repeat: no-repeat, repeat;
-	}
-	/* --- INICIO: MARCOS DE NEÓN POR RAREZA (CON ANIMACIÓN PERMANENTE) --- */
-
-	/* 1. Marco plateado para la rareza COMÚN */
-	#modal-card-container.Común {
-		border: 3px solid #E0E0E0;
-		box-shadow: 0 0 15px #C0C0C0, 
-					inset 0 0 10px 2px #FFFFFF;
-		--glow-color: #C0C0C0;
-		
-		/* Animación lenta e infinita */
-		animation: neon-pulse 3s ease-in-out infinite; 
+	  background-image: 
+		linear-gradient(
+		  115deg,
+		  transparent 30%,
+		  hsla(0,100%,80%,0.28),
+		  hsla(60,100%,80%,0.28),
+		  hsla(120,100%,80%,0.28),
+		  hsla(180,100%,80%,0.28),
+		  hsla(240,100%,80%,0.28),
+		  transparent 70%
+		),
+		url("https://assets.codepen.io/13471/sparkles.gif");
+	  background-size: 250% 250%, cover;
+	  filter: brightness(0.8) contrast(0.8);
+	  background-position: var(--mouse-x) var(--mouse-y), center;
+	  background-repeat: no-repeat, repeat;
+	
+	  /* se mantiene todo lo demás (máscara, blend, etc.) */
 	}
 
-	/* 2. Marco azul metalizado para la rareza RARO */
-	#modal-card-container.Raro {
-		border: 3px solid #77b6e9;
-		box-shadow: 0 0 18px #3498db, 
-					inset 0 0 10px 2px #FFFFFF;
-		--glow-color: #3498db;
-		
-		/* MISMA animación lenta e infinita */
-		animation: neon-pulse 3s ease-in-out infinite; 
-	}
-
-	/* 3. Marco dorado metalizado para la rareza LEGENDARIO */
-	#modal-card-container.Legendario {
-		border: 3px solid #FFEE75;
-		box-shadow: 0 0 25px #FFD700, 
-					inset 0 0 12px 3px #FFFFFF;
-		--glow-color: #FFD700;
-		
-		/* MISMA animación lenta e infinita */
-		animation: neon-pulse 3s ease-in-out infinite; 
-	}
-
-	/* --- FIN: MARCOS DE NEÓN POR RAREZA --- */
-		
-		
-		/* ESTA ES LA REGLA CORREGIDA */
-	.modal-content {
-		border-radius: 15px;
+	
+	#modal-card-container.Común { --glow-color: #C0C0C0; }
+	#modal-card-container.Raro { --glow-color: #3498db; }
+	#modal-card-container.Legendario { --glow-color: #FFD700; }
+	/* === IMAGEN: mantener la animación pero quitar máscara para evitar recortes === */
+	#modal-card-container .modal-content {
+		animation: neon-filter-pulse 3s ease-in-out infinite;
+		/* opcional: keep the drop-shadow as subtle fallback */
+		filter:
+			drop-shadow(0 0 4px var(--glow-color))
+			drop-shadow(0 0 12px var(--glow-color));
 		display: block;
-		
-		/* ---- LÍNEAS NUEVAS Y CRUCIALES ---- */
-		width: auto;       /* El ancho se ajustará automáticamente */
-		height: auto;      /* El alto se ajustará automáticamente */
-		max-width: 500px;  /* Límite máximo para pantallas de PC */
-		max-height: 80vh;  /* Límite de altura: 80% de la altura de la pantalla */
+		width: auto;
+		height: auto;
+		max-width: 500px;
+		max-height: 80vh;
+		position: relative;
+		z-index: 3; /* por encima del glow y del overlay */
+		/* desactivar máscara en la imagen — la máscara la usaremos en pseudo-elementos */
+		-webkit-mask-image: none !important;
+		mask-image: none !important;
 	}
 
+	/* === PSEUDO: capa que crea el borde/neón (usa la misma máscara) === */
+	#modal-card-container {
+		position: relative;
+		--card-mask: none; /* valor por defecto */
+	}
+
+	#modal-card-container::after {
+		content: "";
+		position: absolute;
+		/* expandimos hacia fuera para que el blur "fluya" fuera de la silueta */
+		inset: -16px;
+		z-index: 2; /* debajo de la imagen (z-index:3) y encima del fondo */
+		pointer-events: none;
+
+		/* usar la máscara (la variable --card-mask se setea desde JS) */
+		-webkit-mask-image: var(--card-mask);
+		-webkit-mask-size: contain;
+		-webkit-mask-repeat: no-repeat;
+		-webkit-mask-position: center;
+		mask-image: var(--card-mask);
+		mask-size: contain;
+		mask-repeat: no-repeat;
+		mask-position: center;
+
+		/* fondo que será teñido por la rareza */
+		background: radial-gradient(circle at center, var(--glow-color), transparent 45%);
+		filter: blur(12px) saturate(140%);
+		opacity: 0.95;
+		transition: opacity .2s ease;
+		mix-blend-mode: screen;
+	}
+
+	/* ganchos por rareza — ajusta el color y la intensidad como prefieras */
+	#modal-card-container.Común { --glow-color: rgba(192,192,192,0.95); }
+	#modal-card-container.Raro { --glow-color: rgba(52,152,219,0.95); }
+	#modal-card-container.Legendario { --glow-color: rgba(255,215,0,0.95); }
+
+	/* si quieres que el holo/patron quede por encima de la imagen, sube su z-index */
+	#modal-card-container::before { z-index: 4; } /* tu ::before ya tiene z-index:2; ajusta si es necesario */
+
+	@keyframes neon-filter-pulse {
+		0%, 100% {
+			filter:
+				drop-shadow(0 0 4px var(--glow-color))
+				drop-shadow(0 0 12px var(--glow-color));
+		}
+		70% {
+			filter:
+				drop-shadow(0 0 8px var(--glow-color))
+				drop-shadow(0 0 25px var(--glow-color));
+		}
+	}
 	.modal-info {
 		margin-top: 20px;
 	}
-	/* --- FIN: NUEVOS ESTILOS PARA EL MODAL INTERACTIVO --- */
-    
-    /* Estilos del buscador de usuario */
-    .search-container {
-        background: rgba(255, 255, 255, 0.07);
-        border-radius: 10px;
-        padding: 20px;
-        margin-bottom: 20px;
-        text-align: center;
-    }
-    
-    .search-container input, .search-container button {
-        padding: 10px;
-        border-radius: 5px;
-        border: none;
-        margin: 5px;
-        font-size: 1rem;
-    }
-    
-    .search-container input {
-        background-color: #222;
-        color: #fff;
-    }
-    
-    .search-container button {
-        background-color: #ff9900;
-        color: #111;
-        cursor: pointer;
-        font-weight: bold;
-    }
-    
-    /* Logo antes del buscador */
-    .search-logo-container {
-        text-align: center;
-        margin: 20px 0;
-    }
-	
-	
-	
-	
-    /* ESTILOS DE LA CUADRÍCULA DE SERIES */
+	/* --- FIN: CÓDIGO FINAL Y LIMPIO PARA EL MODAL INTERACTIVO --- */
+	.search-container {
+		background: rgba(255, 255, 255, 0.07);
+		border-radius: 10px;
+		padding: 20px;
+		margin-bottom: 20px;
+		text-align: center;
+	}
+	.search-container input, .search-container button {
+		padding: 10px;
+		border-radius: 5px;
+		border: none;
+		margin: 5px;
+		font-size: 1rem;
+	}
+	.search-container input {
+		background-color: #222;
+		color: #fff;
+	}
+	.search-container button {
+		background-color: #ff9900;
+		color: #111;
+		cursor: pointer;
+		font-weight: bold;
+	}
+	.search-logo-container {
+		text-align: center;
+		margin: 20px 0;
+	}
 	.summary-grid-container {
 		margin-top: 20px;
 		margin-bottom: 30px;
 	}
-
 	.summary-grid {
 		display: grid;
 		grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
 		gap: 15px;
 		justify-content: center;
 	}
-
 	.summary-button {
 		position: relative;
 		overflow: hidden;
 		display: flex;
-		justify-content: flex-end; /* Alinea los elementos al final del contenedor */
-		align-items: flex-end; /* Alinea los elementos a la derecha del contenedor */
+		justify-content: flex-end;
+		align-items: flex-end;
 		aspect-ratio: 1 / 1;
 		padding: 10px;
 		border: 1px solid #444;
@@ -417,12 +403,9 @@
 		cursor: pointer;
 		background-color: transparent;
 	}
-
 	.summary-button:hover {
 		transform: scale(1.05);
 	}
-
-	/* Estilos de la imagen como fondo */
 	.summary-button-image {
 		width: 100%;
 		height: 100%;
@@ -433,11 +416,9 @@
 		z-index: 0;
 		border-radius: 10px;
 	}
-
-	/* Estilos para el texto del contador */
 	.summary-button-counter {
-		position: relative; /* Lo eleva por encima de la imagen */
-		z-index: 1; /* Valor mayor que el de la imagen */
+		position: relative;
+		z-index: 1;
 		background-color: rgba(0, 0, 0, 0.6);
 		padding: 3px 8px;
 		border-radius: 5px;
@@ -445,55 +426,101 @@
 		font-size: 0.8em;
 		color: #ff9900;
 	}
-	/* --- INICIO: ESTILOS RESPONSIVE PARA MÓVILES --- */
-
 	@media (max-width: 600px) {
-	  
-	  /* Hacemos que la imagen nunca sea más ancha ni más alta que la pantalla */
-	  .modal-content {
-		max-width: 90vw;  /* Límite de ANCHO: 90% del ancho de la pantalla */
-		max-height: 85vh; /* Límite de ALTURA: 85% de la altura de la pantalla */
-	  }
-
-	  /* Ajustamos el contenedor principal para que no se pegue a los bordes */
-	  .modal-container-content {
+		.modal-content {
+			max-width: 90vw;
+			max-height: 85vh;
+		}
+		.modal-container-content {
+			padding: 10px;
+		}
+		.close {
+			font-size: 50px;
+			top: 5px;
+			right: 20px;
+		}
+		.modal-info h3 {
+			font-size: 1.1em;
+		}
+	}
+	.comparison-container {
+		background: rgba(255, 255, 255, 0.07);
+		border-radius: 10px;
+		padding: 20px;
+		margin-bottom: 30px;
+		text-align: center;
+	}
+	.comparison-container h2 {
+		margin-top: 0;
+		color: #ff9900;
+	}
+	.comparison-inputs {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		gap: 15px;
+		flex-wrap: wrap;
+		margin-bottom: 15px;
+	}
+	.comparison-inputs input {
 		padding: 10px;
-	  }
-
-	  /* Hacemos el botón de cerrar más grande y accesible */
-	  .close {
-		font-size: 50px;
-		top: 5px;
-		right: 20px;
-	  }
-	  
-	  /* Reducimos el tamaño del texto de info */
-	  .modal-info h3 {
-		  font-size: 1.1em;
-	  }
-
+		border-radius: 5px;
+		border: none;
+		font-size: 1rem;
+		background-color: #222;
+		color: #fff;
+		text-align: center;
 	}
-
-	/* --- FIN: ESTILOS RESPONSIVE PARA MÓVILES --- */
-	/* --- INICIO: ANIMACIÓN DE PULSO NEÓN PARA MÓVILES --- */
-
-	@keyframes neon-pulse {
-	  0% {
-		/* El brillo empieza como lo tienes ahora */
-		box-shadow: inherit;
-	  }
-	  70% {
-		/* A mitad de la animación, el brillo se vuelve mucho más intenso */
-		box-shadow: 0 0 40px var(--glow-color, #fff), 
-					inset 0 0 15px 4px #FFFFFF;
-	  }
-	  100% {
-		/* Al final, vuelve a su estado normal y se queda fijo */
-		box-shadow: inherit;
-	  }
+	.comparison-inputs span {
+		font-size: 2rem;
+		color: #ff9900;
 	}
-
-	/* --- FIN: ANIMACIÓN DE PULSO NEÓN PARA MÓVILES --- */
+	.comparison-container button {
+		padding: 10px 20px;
+		border-radius: 5px;
+		border: none;
+		font-size: 1.1rem;
+		background-color: #ff9900;
+		color: #111;
+		cursor: pointer;
+		font-weight: bold;
+		margin-bottom: 20px;
+	}
+	.results-grid {
+		display: grid;
+		grid-template-columns: 1fr;
+		gap: 30px;
+	}
+	@media (min-width: 768px) {
+		.results-grid {
+			grid-template-columns: 1fr 1fr;
+		}
+	}
+	.results-section h3 {
+		border-bottom: 1px solid #ff9900;
+		padding-bottom: 5px;
+		color: #ff9900;
+	}
+	.results-section .coleccion {
+		justify-content: center;
+	}
+	.results-section .cromo-card {
+		cursor: pointer;
+		transition: transform 0.2s, outline 0.2s;
+	}
+	.results-section .cromo-card:hover {
+		transform: scale(1.05);
+	}
+	.results-section .cromo-card.selected {
+		outline: 3px solid #ffeb3b;
+		transform: scale(1.05);
+		box-shadow: 0 0 15px #ffeb3b;
+	}
+	
+	
+	
+	
+	
 	</style>
 </head>
 <body>
@@ -537,11 +564,38 @@
             <button onclick="buscarColeccion()">Buscar</button>
             <p style="font-size: 0.9em; color: #aaa; margin-top: 10px;">¡Hola Piraviewer! Introduce tu usuario de Kick para ver tu álbum personal.</p>
         </div>
-
+		<div class="comparison-container">
+			<h2>Comparar Colecciones para Intercambio</h2>
+			<div class="comparison-inputs">
+				<input type="text" id="userA_input" placeholder="Tu nombre de usuario">
+				<span>↔️</span>
+				<input type="text" id="userB_input" placeholder="Usuario a comparar">
+			</div>
+			<button onclick="compararColecciones()">Comparar</button>
+			
+			<div id="command-container" style="display: none; margin-top: 20px; background-color: #1a1a1a; padding: 15px; border-radius: 8px; border: 1px solid #444;">
+				<h4>¡Comando listo para el chat! 📋</h4>
+				<code id="trade-command" style="background-color: #0c0c0c; padding: 10px; border-radius: 5px; display: block; margin-bottom: 10px; color: #f4f4f4; white-space: pre-wrap; word-wrap: break-word;"></code>
+				<button onclick="copyCommand()">Copiar Comando</button>
+			</div>
+			
+			<div id="comparison-results" class="results-grid">
+				<div id="offer-results"></div>
+				<div id="request-results"></div>
+			</div>
+		</div>
+		
+		
+		
+		
+		
+		
+		
+		
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de rmv94</h2>
-                <span>Cartas obtenidas: 6 / 1121</span>
+                <span>Cartas obtenidas: 9 / 1400</span>
             </div>
             
             <div class="details">
@@ -550,9 +604,9 @@
     <h2>Resumen por Serie</h2>
 					<div class="summary-grid">
 						
-							<div class="summary-button" onclick="mostrarCartas('Batman')">
-								<img src="/COLECCION/botones/batman.png" alt="Batman" class="summary-button-image">
-								<span class="summary-button-counter">1 / 26</span>
+							<div class="summary-button" onclick="mostrarCartas('Bloody Roar')">
+								<img src="/COLECCION/botones/bloody-roar.png" alt="Bloody Roar" class="summary-button-image">
+								<span class="summary-button-counter">1 / 9</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Castlevania')">
@@ -560,9 +614,24 @@
 								<span class="summary-button-counter">1 / 10</span>
 							</div>
 						
+							<div class="summary-button" onclick="mostrarCartas('DC-Animated')">
+								<img src="/COLECCION/botones/dc-animated.png" alt="DC-Animated" class="summary-button-image">
+								<span class="summary-button-counter">1 / 40</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('DragonBall CombatCards 92')">
+								<img src="/COLECCION/botones/dragonball-combatcards-92.png" alt="DragonBall CombatCards 92" class="summary-button-image">
+								<span class="summary-button-counter">1 / 120</span>
+							</div>
+						
 							<div class="summary-button" onclick="mostrarCartas('Heman')">
 								<img src="/COLECCION/botones/heman.png" alt="Heman" class="summary-button-image">
 								<span class="summary-button-counter">1 / 19</span>
+							</div>
+						
+							<div class="summary-button" onclick="mostrarCartas('LEGENDIBUS')">
+								<img src="/COLECCION/botones/legendibus.png" alt="LEGENDIBUS" class="summary-button-image">
+								<span class="summary-button-counter">1 / 110</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Spiderman')">
@@ -580,22 +649,22 @@
                     
                     <div id="cards-container">
                         
-                            <div class="series-cards" id="series-Batman" style="display: none;">
+                            <div class="series-cards" id="series-Bloody-Roar" style="display: none;">
                                 <div class="section-title-2">
-                                    <h2>Batman</h2>
-                                    <span>Cartas obtenidas: 1 / 26</span>
+                                    <h2>Bloody Roar</h2>
+                                    <span>Cartas obtenidas: 1 / 9</span>
                                 </div>
                                 <div class="coleccion">
                                     
                                         <div class="cromo-card">
-                                            <span class="cromo-numero">Nº: 794</span>
-                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Batman/HUGO-STRANGE(27-8-2025-4_39).png', '794', 'HUGO-STRANGE', 'Común'); return false;">
+                                            <span class="cromo-numero">Nº: 354</span>
+                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Bloody Roar/PERSONAJE/alice.png', '354', 'alice', 'Común'); return false;">
 												<div class="cromo-img-container">
-													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Batman/HUGO-STRANGE(27-8-2025-4_39).png" alt="HUGO-STRANGE">
+													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Bloody Roar/PERSONAJE/alice.png" alt="alice">
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>HUGO-STRANGE (x1)</h3>
+                                                <h3>alice (x1)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -626,6 +695,52 @@
                                 </div>
                             </div>
                         
+                            <div class="series-cards" id="series-DC-Animated" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>DC-Animated</h2>
+                                    <span>Cartas obtenidas: 1 / 40</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 794</span>
+                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DC-Animated/HUGO-STRANGE(27-8-2025-4_39).png', '794', 'HUGO-STRANGE', 'Común'); return false;">
+												<div class="cromo-img-container">
+													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DC-Animated/HUGO-STRANGE(27-8-2025-4_39).png" alt="HUGO-STRANGE">
+												</div>
+											</a>
+																						<div class="cromo-details">
+                                                <h3>HUGO-STRANGE (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-DragonBall-CombatCards-92" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>DragonBall CombatCards 92</h2>
+                                    <span>Cartas obtenidas: 1 / 120</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 625</span>
+                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DragonBall CombatCards 92/DB-013.jpg', '625', 'DB-013', 'Común'); return false;">
+												<div class="cromo-img-container">
+													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/DragonBall CombatCards 92/DB-013.jpg" alt="DB-013">
+												</div>
+											</a>
+																						<div class="cromo-details">
+                                                <h3>DB-013 (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
                             <div class="series-cards" id="series-Heman" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Heman</h2>
@@ -643,6 +758,29 @@
 																						<div class="cromo-details">
                                                 <h3>He man (x1)</h3>
                                                 <p>Rareza: Legendario</p>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                        
+                            <div class="series-cards" id="series-LEGENDIBUS" style="display: none;">
+                                <div class="section-title-2">
+                                    <h2>LEGENDIBUS</h2>
+                                    <span>Cartas obtenidas: 1 / 110</span>
+                                </div>
+                                <div class="coleccion">
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 1094</span>
+                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/LEGENDIBUS/CZ-EGON-SPENGLER.png', '1094', 'CZ-EGON-SPENGLER', 'Común'); return false;">
+												<div class="cromo-img-container">
+													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/LEGENDIBUS/CZ-EGON-SPENGLER.png" alt="CZ-EGON-SPENGLER">
+												</div>
+											</a>
+																						<div class="cromo-details">
+                                                <h3>CZ-EGON-SPENGLER (x1)</h3>
+                                                <p>Rareza: Común</p>
                                             </div>
                                         </div>
                                     
@@ -722,7 +860,13 @@
 		
 		<div class="modal-container-content">
 			<div id="modal-card-container">
+				<div class="card-background"></div>
+
+				<div class="neon-glow"></div>
+				
 				<img class="modal-content" id="imgModal">
+
+				<div class="holo-effect"></div>
 			</div>
 
 			<div id="modal-info" class="modal-info"></div>
@@ -738,6 +882,11 @@
 		const modalImg = document.getElementById("imgModal");
 		const modalInfo = document.getElementById("modal-info");
 		const modalCardContainer = document.getElementById('modal-card-container');
+
+		// --- VARIABLES GLOBALES PARA EL INTERCAMBIO ---
+		let selectedOfferId = null;
+		let selectedRequestId = null;
+		let userToTradeWith = null;
 
 		// --- LÓGICA PARA EL EFECTO 3D DE LA CARTA ---
 		const handleCardTilt = (e) => {
@@ -756,47 +905,40 @@
 			e.currentTarget.style.transform = 'rotateX(0deg) rotateY(0deg)';
 		};
 
-		// --- NUEVAS FUNCIONES PARA ABRIR Y CERRAR EL MODAL ---
+		// --- FUNCIONES PARA ABRIR Y CERRAR EL MODAL ---
 		function openModal(linkElement, imagenUrl, cromoId, cromoNombre, cromoRareza) {
-			// 1. Limpiamos clases de rareza de una apertura anterior
 			modalCardContainer.classList.remove('Común', 'Raro', 'Legendario');
-			
-			// 2. Añadimos la clase de la rareza actual del cromo
 			if (cromoRareza) {
 				modalCardContainer.classList.add(cromoRareza);
 			}
-
-			// 3. Cargamos la información del cromo
+			// intenta evitar problemas CORS si la imagen viene de otro origen
+			modalImg.crossOrigin = "anonymous";
+			// setear máscara (se expandirá en ::after para el glow)
+			modalCardContainer.style.setProperty('--card-mask', `url('${imagenUrl}')`);
+			// cargar imagen después de setear crossOrigin
 			modalImg.src = imagenUrl;
-			modalInfo.innerHTML = `<h3>Nº: ${cromoId} - ${cromoNombre}</h3>`;
-			
-			// 4. Mostramos el modal AÑADIENDO una clase
-			modal.classList.add("visible");
 
-			// 5. Activamos los listeners del ratón para el efecto 3D
+			
+			modalInfo.innerHTML = `<h3>Nº: ${cromoId} - ${cromoNombre}</h3>`;
+			modal.classList.add("visible");
 			modalCardContainer.addEventListener('mousemove', handleCardTilt);
 			modalCardContainer.addEventListener('mouseleave', resetCardTilt);
 		}
 
 		function closeModal() {
-			// 1. Ocultamos el modal QUITANDO la clase
 			modal.classList.remove("visible");
-			
-			// 2. Desactivamos los listeners para no consumir recursos
 			modalCardContainer.removeEventListener('mousemove', handleCardTilt);
 			modalCardContainer.removeEventListener('mouseleave', resetCardTilt);
-			
-			// 3. Reseteamos la posición de la carta por si se quedó inclinada
 			resetCardTilt({currentTarget: modalCardContainer}); 
 		}
 
-		// --- LÓGICA EXISTENTE (SE MANTIENE IGUAL) ---
+		// --- LÓGICA ADICIONAL ---
 		window.onclick = function(event) {
 			if (event.target == modal) {
 				closeModal();
 			}
 		}
-		
+
 		function buscarColeccion() {
 			const username = document.getElementById("usernameInput").value.trim();
 			if (username) {
@@ -824,6 +966,135 @@
 				serieSeleccionada.style.display = 'block';
 				serieSeleccionada.scrollIntoView({ behavior: 'smooth', block: 'start' });
 			}
+		}
+
+		// --- LÓGICA PARA LA COMPARACIÓN ---
+		function extraerCromosDesdeHTML(htmlString) {
+			const cromos = [];
+			const parser = new DOMParser();
+			const doc = parser.parseFromString(htmlString, "text/html");
+			const cromoCards = doc.querySelectorAll('.cromo-card');
+			cromoCards.forEach(card => {
+				try {
+					const numeroSpan = card.querySelector('.cromo-numero');
+					const nombreH3 = card.querySelector('h3');
+					const rarezaP = card.querySelector('p');
+					const img = card.querySelector('img');
+					if (numeroSpan && nombreH3 && rarezaP && img) {
+						const id = parseInt(numeroSpan.textContent.split('Nº: ')[1]);
+						const cantidadMatch = nombreH3.textContent.match(/\(x(\d+)\)/);
+						const cantidad = cantidadMatch ? parseInt(cantidadMatch[1]) : 1;
+						const nombre = nombreH3.textContent.replace(/\s\(x\d+\)$/, '').trim();
+						const rareza = rarezaP.textContent.replace('Rareza: ', '').trim();
+						const imagen_url_web = img.src;
+						cromos.push({ id, nombre, cantidad, rareza, imagen_url_web });
+					}
+				} catch (e) { console.error("Error parseando una tarjeta de cromo:", e); }
+			});
+			return cromos;
+		}
+
+		function renderResultados(elementId, titulo, cromos, usuarioBase, tipo) {
+			const container = document.getElementById(elementId);
+			let contenidoHtml = `<div class="results-section"><h3>${titulo} (${cromos.length})</h3>`;
+			if (cromos.length === 0) {
+				contenidoHtml += `<p>No se encontraron cromos para este intercambio.</p>`;
+			} else {
+				const cromosHtml = cromos.map(cromo => `
+					<div class="cromo-card" onclick="selectCard(this, ${cromo.id}, '${tipo}')">
+						<span class="cromo-numero">Nº: ${cromo.id}</span>
+						<div class="cromo-img-container">
+							<img src="${cromo.imagen_url_web}" alt="${cromo.nombre}" loading="lazy">
+						</div>
+						<div class="cromo-details">
+							<h3>${cromo.nombre} (x${cromo.cantidad})</h3>
+							<p>Rareza: ${cromo.rareza}</p>
+						</div>
+					</div>
+				`).join('');
+				contenidoHtml += `<p style="font-size:0.9em; color:#ccc;">${usuarioBase} tiene estos repetidos:</p><div class="coleccion">${cromosHtml}</div>`;
+			}
+			contenidoHtml += `</div>`;
+			container.innerHTML = contenidoHtml;
+		}
+
+		async function compararColecciones() {
+			selectedOfferId = null;
+			selectedRequestId = null;
+			userToTradeWith = null;
+			document.getElementById('command-container').style.display = 'none';
+			const usuarioOrigen = document.getElementById('userA_input').value.trim();
+			const usuarioDestino = document.getElementById('userB_input').value.trim();
+			const offerContainer = document.getElementById('offer-results');
+			const requestContainer = document.getElementById('request-results');
+			const resultsContainer = document.getElementById('comparison-results');
+			if (!usuarioOrigen || !usuarioDestino) {
+				alert("Por favor, introduce ambos nombres de usuario.");
+				return;
+			}
+			offerContainer.innerHTML = '<p>Buscando y comparando...</p>';
+			requestContainer.innerHTML = ''; 
+			userToTradeWith = usuarioDestino;
+			const GITHUB_BASE_URL = "https://piravision.github.io/COLECCION/USUARIOS/";
+			const urlOrigen = `${GITHUB_BASE_URL}${encodeURIComponent(usuarioOrigen)}/coleccion.html`;
+			const urlDestino = `${GITHUB_BASE_URL}${encodeURIComponent(usuarioDestino)}/coleccion.html`;
+			try {
+				const [respuestaOrigen, respuestaDestino] = await Promise.all([fetch(urlOrigen), fetch(urlDestino)]);
+				if (!respuestaOrigen.ok) throw new Error(`No se encontró la colección de ${usuarioOrigen}`);
+				if (!respuestaDestino.ok) throw new Error(`No se encontró la colección de ${usuarioDestino}`);
+				const htmlOrigen = await respuestaOrigen.text();
+				const htmlDestino = await respuestaDestino.text();
+				const coleccionOrigen = extraerCromosDesdeHTML(htmlOrigen);
+				const coleccionDestino = extraerCromosDesdeHTML(htmlDestino);
+				const idsOrigen = new Set(coleccionOrigen.map(c => c.id));
+				const idsDestino = new Set(coleccionDestino.map(c => c.id));
+				const repetidosOrigen = coleccionOrigen.filter(c => c.cantidad >= 2);
+				const repetidosDestino = coleccionDestino.filter(c => c.cantidad >= 2);
+				const cromosParaOfrecer = repetidosOrigen.filter(cromo => !idsDestino.has(cromo.id));
+				const cromosParaSolicitar = repetidosDestino.filter(cromo => !idsOrigen.has(cromo.id));
+				renderResultados('offer-results', 'Cromos que puedes OFRECER', cromosParaOfrecer, usuarioOrigen, 'offer');
+				renderResultados('request-results', 'Cromos que puedes SOLICITAR', cromosParaSolicitar, usuarioDestino, 'request');
+			} catch (error) {
+				console.error("Error en la comparación:", error);
+				resultsContainer.innerHTML = `<p style="color: #ff6b6b;">Error: ${error.message}. Asegúrate de que los nombres de usuario son correctos y existen.</p>`;
+			}
+		}
+
+		function selectCard(cardElement, cromoId, type) {
+			const listContainer = type === 'offer' ? document.getElementById('offer-results') : document.getElementById('request-results');
+			const otherSelected = listContainer.querySelector('.cromo-card.selected');
+			if (otherSelected) {
+				otherSelected.classList.remove('selected');
+			}
+			cardElement.classList.add('selected');
+			if (type === 'offer') {
+				selectedOfferId = cromoId;
+			} else {
+				selectedRequestId = cromoId;
+			}
+			generateCommand();
+		}
+
+		function generateCommand() {
+			const commandContainer = document.getElementById('command-container');
+			const commandCode = document.getElementById('trade-command');
+			if (selectedOfferId && selectedRequestId && userToTradeWith) {
+				const commandText = `!intercambiar ofrezco ${selectedOfferId} a cambio de ${selectedRequestId} a @${userToTradeWith}`;
+				commandCode.textContent = commandText;
+				commandContainer.style.display = 'block';
+			} else {
+				commandContainer.style.display = 'none';
+			}
+		}
+
+		function copyCommand() {
+			const commandText = document.getElementById('trade-command').textContent;
+			navigator.clipboard.writeText(commandText).then(() => {
+				alert('¡Comando copiado al portapapeles!');
+			}).catch(err => {
+				console.error('Error al copiar el comando: ', err);
+				alert('No se pudo copiar el comando.');
+			});
 		}
 	</script>
 </body>
