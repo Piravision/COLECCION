@@ -524,7 +524,7 @@
     {
       "id": 900,
       "nombre": "THOR",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 625,
@@ -879,7 +879,7 @@
     {
       "id": 44,
       "nombre": "Fly",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 43,
@@ -3194,7 +3194,7 @@
     {
       "id": 267,
       "nombre": "Metalhead",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1225,
@@ -3299,7 +3299,7 @@
     {
       "id": 234,
       "nombre": "Nueva Texas",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 381,
@@ -4204,6 +4204,16 @@
     {
       "id": 817,
       "nombre": "RAIDEN",
+      "cantidad": 1
+    },
+    {
+      "id": 1207,
+      "nombre": "4-CADILLACS-&-DINOSAURS",
+      "cantidad": 1
+    },
+    {
+      "id": 1337,
+      "nombre": "5A-SORA",
       "cantidad": 1
     }
   ]

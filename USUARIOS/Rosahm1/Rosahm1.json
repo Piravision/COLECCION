@@ -9,7 +9,7 @@
         {
             "id": 211,
             "nombre": "Anillo Serpiente",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 179,
@@ -434,7 +434,7 @@
         {
             "id": 50,
             "nombre": "Lonberuk",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 421,
@@ -1129,7 +1129,7 @@
         {
             "id": 259,
             "nombre": "Ojo Rojo",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 165,
@@ -1179,7 +1179,7 @@
         {
             "id": 376,
             "nombre": "guile",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 411,
@@ -1679,7 +1679,7 @@
         {
             "id": 613,
             "nombre": "DB-001",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 621,
@@ -2149,7 +2149,7 @@
         {
             "id": 769,
             "nombre": "Pink",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 734,
@@ -3334,7 +3334,7 @@
         {
             "id": 139,
             "nombre": "Duke L'Orange",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 382,
@@ -3469,7 +3469,7 @@
         {
             "id": 960,
             "nombre": "3-LESTRADE",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 955,
@@ -3629,7 +3629,7 @@
         {
             "id": 950,
             "nombre": "1-PORTHOS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 963,
@@ -5249,7 +5249,7 @@
         {
             "id": 984,
             "nombre": "14-BABY-SINCLAIR",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 1146,
@@ -5329,7 +5329,7 @@
         {
             "id": 1081,
             "nombre": "X -WOLVERINE",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1183,
@@ -5954,7 +5954,7 @@
         {
             "id": 1079,
             "nombre": "X -ROGUE",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1096,
@@ -6044,7 +6044,7 @@
         {
             "id": 1309,
             "nombre": "1I-TAI-FOIL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1323,
@@ -6149,6 +6149,11 @@
         {
             "id": 1000,
             "nombre": "SON-GOKU",
+            "cantidad": 1
+        },
+        {
+            "id": 918,
+            "nombre": "DIANA",
             "cantidad": 1
         }
     ]
