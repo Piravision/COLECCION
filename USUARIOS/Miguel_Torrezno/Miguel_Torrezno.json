@@ -64,7 +64,7 @@
         {
             "id": 32,
             "nombre": "Venger",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 310,
@@ -4379,6 +4379,11 @@
         {
             "id": 589,
             "nombre": "GENTILE-SALVATORE",
+            "cantidad": 1
+        },
+        {
+            "id": 593,
+            "nombre": "JOHNNY-MASON",
             "cantidad": 1
         }
     ]

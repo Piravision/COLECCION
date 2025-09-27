@@ -804,7 +804,7 @@
         {
             "id": 593,
             "nombre": "JOHNNY-MASON",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 442,
@@ -4334,6 +4334,11 @@
         {
             "id": 30,
             "nombre": "Uni",
+            "cantidad": 1
+        },
+        {
+            "id": 32,
+            "nombre": "Venger",
             "cantidad": 1
         }
     ]
