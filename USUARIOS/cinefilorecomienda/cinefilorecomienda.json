@@ -459,7 +459,7 @@
     {
       "id": 928,
       "nombre": "JOHN-CENA",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 389,
@@ -574,7 +574,7 @@
     {
       "id": 798,
       "nombre": "PINGUINO",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 256,
@@ -604,7 +604,7 @@
     {
       "id": 322,
       "nombre": "Rondador Nocturno",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 358,
@@ -1674,7 +1674,7 @@
     {
       "id": 1182,
       "nombre": "JAYCE-Y-LOS-GUERREROS-RODANTES",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1228,
@@ -2249,7 +2249,7 @@
     {
       "id": 564,
       "nombre": "SLIMER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 443,
@@ -2594,7 +2594,7 @@
     {
       "id": 134,
       "nombre": "Tri Klops",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 781,
@@ -2954,7 +2954,7 @@
     {
       "id": 130,
       "nombre": "Mer Man(",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 892,
@@ -3259,7 +3259,7 @@
     {
       "id": 1185,
       "nombre": "WICKET",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 467,
@@ -4059,7 +4059,7 @@
     {
       "id": 1095,
       "nombre": "CZ-PETER-VENKMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1287,
@@ -4139,6 +4139,21 @@
     {
       "id": 1383,
       "nombre": "9-LEOMON",
+      "cantidad": 1
+    },
+    {
+      "id": 150,
+      "nombre": "Throttle",
+      "cantidad": 1
+    },
+    {
+      "id": 674,
+      "nombre": "DB-062",
+      "cantidad": 1
+    },
+    {
+      "id": 255,
+      "nombre": "Ma Mutt",
       "cantidad": 1
     }
   ]

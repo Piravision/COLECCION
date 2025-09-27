@@ -764,7 +764,7 @@
     {
       "id": 150,
       "nombre": "Throttle",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 72,
@@ -954,7 +954,7 @@
     {
       "id": 238,
       "nombre": "Snake Mountain",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 523,
@@ -1289,7 +1289,7 @@
     {
       "id": 57,
       "nombre": "pop",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 538,
@@ -1524,7 +1524,7 @@
     {
       "id": 556,
       "nombre": "LEIA-JAIL",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 85,
@@ -2299,7 +2299,7 @@
     {
       "id": 162,
       "nombre": "Mon Star",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 469,
@@ -2889,7 +2889,7 @@
     {
       "id": 794,
       "nombre": "HUGO-STRANGE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 200,
@@ -3084,7 +3084,7 @@
     {
       "id": 743,
       "nombre": "Dark-Afrodita-de-Piscis",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 873,
@@ -3224,7 +3224,7 @@
     {
       "id": 356,
       "nombre": "busuzima",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 360,
@@ -4079,7 +4079,7 @@
     {
       "id": 871,
       "nombre": "BLACK-BOLT",
-      "cantidad": 4
+      "cantidad": 6
     },
     {
       "id": 505,
@@ -4154,7 +4154,7 @@
     {
       "id": 409,
       "nombre": "Kōji-Kabuto",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1002,
@@ -4199,7 +4199,7 @@
     {
       "id": 878,
       "nombre": "FALCON",
-      "cantidad": 4
+      "cantidad": 6
     },
     {
       "id": 114,
@@ -5079,7 +5079,7 @@
     {
       "id": 817,
       "nombre": "RAIDEN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 761,
@@ -5254,7 +5254,7 @@
     {
       "id": 1057,
       "nombre": "PALADIN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1160,
@@ -5449,7 +5449,7 @@
     {
       "id": 1129,
       "nombre": "CRITTER-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1207,
@@ -5499,7 +5499,7 @@
     {
       "id": 1194,
       "nombre": "COBRA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1217,
@@ -6579,6 +6579,11 @@
     {
       "id": 1383,
       "nombre": "9-LEOMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1328,
+      "nombre": "4A-MIMI",
       "cantidad": 1
     }
   ]
