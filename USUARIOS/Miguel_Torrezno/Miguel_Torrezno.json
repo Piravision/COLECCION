@@ -2084,7 +2084,7 @@
         {
             "id": 902,
             "nombre": "AQUAMAN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 572,
@@ -4389,6 +4389,11 @@
         {
             "id": 14,
             "nombre": "Snagg",
+            "cantidad": 1
+        },
+        {
+            "id": 385,
+            "nombre": "brio",
             "cantidad": 1
         }
     ]
