@@ -3084,7 +3084,7 @@
         {
             "id": 75,
             "nombre": "mac",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 529,
@@ -4449,6 +4449,11 @@
         {
             "id": 622,
             "nombre": "DB-010",
+            "cantidad": 1
+        },
+        {
+            "id": 626,
+            "nombre": "DB-014",
             "cantidad": 1
         }
     ]

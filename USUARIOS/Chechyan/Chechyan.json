@@ -1144,7 +1144,7 @@
         {
             "id": 626,
             "nombre": "DB-014",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 900,
@@ -4404,6 +4404,11 @@
         {
             "id": 64,
             "nombre": "evil crocodine",
+            "cantidad": 1
+        },
+        {
+            "id": 75,
+            "nombre": "mac",
             "cantidad": 1
         }
     ]
