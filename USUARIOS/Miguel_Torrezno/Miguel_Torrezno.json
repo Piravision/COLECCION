@@ -934,7 +934,7 @@
         {
             "id": 59,
             "nombre": "balios",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 442,
@@ -4439,6 +4439,11 @@
         {
             "id": 613,
             "nombre": "DB-001",
+            "cantidad": 1
+        },
+        {
+            "id": 615,
+            "nombre": "DB-003",
             "cantidad": 1
         }
     ]

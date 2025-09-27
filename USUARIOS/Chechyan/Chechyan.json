@@ -2439,7 +2439,7 @@
         {
             "id": 615,
             "nombre": "DB-003",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 510,
@@ -4394,6 +4394,11 @@
         {
             "id": 55,
             "nombre": "mina",
+            "cantidad": 1
+        },
+        {
+            "id": 59,
+            "nombre": "balios",
             "cantidad": 1
         }
     ]
