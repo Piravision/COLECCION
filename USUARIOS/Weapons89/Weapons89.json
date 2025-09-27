@@ -2464,7 +2464,7 @@
         {
             "id": 842,
             "nombre": "GUILE2",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 900,
@@ -5954,6 +5954,11 @@
         {
             "id": 1270,
             "nombre": "FA-MONKEY-ISLAND",
+            "cantidad": 1
+        },
+        {
+            "id": 1325,
+            "nombre": "3G-GABUMON-EVO",
             "cantidad": 1
         }
     ]
