@@ -3129,7 +3129,7 @@
         {
             "id": 383,
             "nombre": "viper",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 1102,
@@ -5964,6 +5964,11 @@
         {
             "id": 1320,
             "nombre": "3B-TSUNOMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1322,
+            "nombre": "3D-GARURUMON",
             "cantidad": 1
         }
     ]
