@@ -4149,7 +4149,7 @@
         {
             "id": 1018,
             "nombre": "SUB-MARINER",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1127,
@@ -6399,6 +6399,11 @@
         {
             "id": 1194,
             "nombre": "COBRA",
+            "cantidad": 1
+        },
+        {
+            "id": 1155,
+            "nombre": "DETECTIVE MARCIANO",
             "cantidad": 1
         }
     ]
