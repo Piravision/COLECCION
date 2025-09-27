@@ -229,7 +229,7 @@
     {
       "id": 217,
       "nombre": "Cobra   H.I.S.S.",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 291,
@@ -879,7 +879,7 @@
     {
       "id": 494,
       "nombre": "jillia",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 485,
@@ -3054,7 +3054,7 @@
     {
       "id": 904,
       "nombre": "CLARK-KENT",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 917,
@@ -3699,7 +3699,7 @@
     {
       "id": 828,
       "nombre": "SUB-ZERO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 892,
@@ -4039,7 +4039,7 @@
     {
       "id": 1007,
       "nombre": "SAILOR-MOON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 433,
@@ -4504,7 +4504,7 @@
     {
       "id": 836,
       "nombre": "Chunli2",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1126,
@@ -5214,7 +5214,7 @@
     {
       "id": 1021,
       "nombre": "4F COSA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1075,
@@ -5539,7 +5539,7 @@
     {
       "id": 1253,
       "nombre": "SABRINA-COSAS-DE-BRUJAS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1037,
@@ -6259,6 +6259,11 @@
     {
       "id": 1064,
       "nombre": "SP- VENOM-2",
+      "cantidad": 1
+    },
+    {
+      "id": 1069,
+      "nombre": "TIGRA",
       "cantidad": 1
     }
   ]
