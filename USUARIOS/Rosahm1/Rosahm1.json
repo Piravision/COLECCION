@@ -1159,7 +1159,7 @@
     {
       "id": 157,
       "nombre": "Bluegrass",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 156,
@@ -1319,7 +1319,7 @@
     {
       "id": 79,
       "nombre": "pororo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 570,
@@ -1814,7 +1814,7 @@
     {
       "id": 589,
       "nombre": "GENTILE-SALVATORE",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 472,
@@ -4404,7 +4404,7 @@
     {
       "id": 796,
       "nombre": "MAN-BAT",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 906,
@@ -6139,7 +6139,7 @@
     {
       "id": 914,
       "nombre": "SUPERMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1327,
@@ -6254,6 +6254,11 @@
     {
       "id": 1195,
       "nombre": "1-LUIGI",
+      "cantidad": 1
+    },
+    {
+      "id": 1064,
+      "nombre": "SP- VENOM-2",
       "cantidad": 1
     }
   ]
