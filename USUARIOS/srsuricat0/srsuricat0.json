@@ -2879,7 +2879,7 @@
         {
             "id": 708,
             "nombre": "DB-096",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 711,
@@ -6114,6 +6114,11 @@
         {
             "id": 1068,
             "nombre": "THUNDRA",
+            "cantidad": 1
+        },
+        {
+            "id": 1050,
+            "nombre": "IRON-MAN-2",
             "cantidad": 1
         }
     ]

@@ -4149,7 +4149,7 @@
         {
             "id": 1050,
             "nombre": "IRON-MAN-2",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 692,
@@ -6169,6 +6169,11 @@
         {
             "id": 1216,
             "nombre": "5-NINJA-GAIDEN",
+            "cantidad": 1
+        },
+        {
+            "id": 708,
+            "nombre": "DB-096",
             "cantidad": 1
         }
     ]
