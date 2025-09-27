@@ -339,7 +339,7 @@
         {
             "id": 622,
             "nombre": "DB-010",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 951,
@@ -4399,6 +4399,11 @@
         {
             "id": 59,
             "nombre": "balios",
+            "cantidad": 1
+        },
+        {
+            "id": 64,
+            "nombre": "evil crocodine",
             "cantidad": 1
         }
     ]
