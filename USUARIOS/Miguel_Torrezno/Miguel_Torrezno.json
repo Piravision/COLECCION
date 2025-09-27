@@ -419,7 +419,7 @@
         {
             "id": 55,
             "nombre": "mina",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 390,
@@ -4434,6 +4434,11 @@
         {
             "id": 71,
             "nombre": "herhero",
+            "cantidad": 1
+        },
+        {
+            "id": 613,
+            "nombre": "DB-001",
             "cantidad": 1
         }
     ]
