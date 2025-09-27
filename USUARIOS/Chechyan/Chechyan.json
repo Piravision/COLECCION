@@ -3454,7 +3454,7 @@
         {
             "id": 1152,
             "nombre": "BLACK CANNARY",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1232,
@@ -4379,6 +4379,11 @@
         {
             "id": 40,
             "nombre": "chiu",
+            "cantidad": 1
+        },
+        {
+            "id": 51,
+            "nombre": "mam",
             "cantidad": 1
         }
     ]
