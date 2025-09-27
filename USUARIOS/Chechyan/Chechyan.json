@@ -4089,7 +4089,7 @@
         {
             "id": 1400,
             "nombre": "9-YUKIDARUMON",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1392,
@@ -4304,6 +4304,11 @@
         {
             "id": 13,
             "nombre": "Needle",
+            "cantidad": 1
+        },
+        {
+            "id": 20,
+            "nombre": "Skulkur",
             "cantidad": 1
         }
     ]

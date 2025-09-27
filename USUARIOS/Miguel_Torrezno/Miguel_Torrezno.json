@@ -2374,7 +2374,7 @@
         {
             "id": 20,
             "nombre": "Skulkur",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 990,
@@ -4349,6 +4349,11 @@
         {
             "id": 1380,
             "nombre": "9-ETERMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1400,
+            "nombre": "9-YUKIDARUMON",
             "cantidad": 1
         }
     ]
