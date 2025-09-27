@@ -909,7 +909,7 @@
         {
             "id": 666,
             "nombre": "DB-054",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 836,
@@ -4269,6 +4269,11 @@
         {
             "id": 392,
             "nombre": "roover",
+            "cantidad": 1
+        },
+        {
+            "id": 24,
+            "nombre": "Bobby",
             "cantidad": 1
         }
     ]
