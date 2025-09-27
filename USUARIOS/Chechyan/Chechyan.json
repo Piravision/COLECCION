@@ -1159,7 +1159,7 @@
         {
             "id": 955,
             "nombre": "2-CHOP",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 703,
@@ -4514,6 +4514,26 @@
         {
             "id": 719,
             "nombre": "DB-107",
+            "cantidad": 1
+        },
+        {
+            "id": 1376,
+            "nombre": "9-CENTALMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1350,
+            "nombre": "6E-MEGAKABUTERIMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1332,
+            "nombre": "4E-LILLYMON",
+            "cantidad": 1
+        },
+        {
+            "id": 108,
+            "nombre": "Baronesa",
             "cantidad": 1
         }
     ]
