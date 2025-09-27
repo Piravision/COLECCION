@@ -2754,7 +2754,7 @@
         {
             "id": 629,
             "nombre": "DB-017",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1146,
@@ -4409,6 +4409,11 @@
         {
             "id": 75,
             "nombre": "mac",
+            "cantidad": 1
+        },
+        {
+            "id": 343,
+            "nombre": "Flazzard 2",
             "cantidad": 1
         }
     ]
