@@ -1339,7 +1339,7 @@
         {
             "id": 535,
             "nombre": "Venkman-Jail",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 758,
@@ -4359,6 +4359,11 @@
         {
             "id": 941,
             "nombre": "GREMLIN-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 861,
+            "nombre": "MARTY-JAIL",
             "cantidad": 1
         }
     ]
