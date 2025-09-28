@@ -529,7 +529,7 @@
     {
       "id": 410,
       "nombre": "Barón-Ashura",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 324,
@@ -679,7 +679,7 @@
     {
       "id": 566,
       "nombre": "BIG-BOSSMAN",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 543,
@@ -1559,7 +1559,7 @@
     {
       "id": 463,
       "nombre": "shoma",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 85,
@@ -1794,7 +1794,7 @@
     {
       "id": 176,
       "nombre": "Camaleon",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 115,
@@ -2059,7 +2059,7 @@
     {
       "id": 238,
       "nombre": "Snake Mountain",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 321,
@@ -2394,7 +2394,7 @@
     {
       "id": 358,
       "nombre": "jenny",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 142,
@@ -3124,7 +3124,7 @@
     {
       "id": 527,
       "nombre": "Pícara",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 185,
@@ -4799,7 +4799,7 @@
     {
       "id": 861,
       "nombre": "MARTY-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 979,
@@ -6784,6 +6784,11 @@
     {
       "id": 1365,
       "nombre": "8B-NYAROMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1348,
+      "nombre": "6C-TENTOMON",
       "cantidad": 1
     }
   ]

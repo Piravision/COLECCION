@@ -764,7 +764,7 @@
     {
       "id": 742,
       "nombre": "Dark Saga",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 533,
@@ -2719,7 +2719,7 @@
     {
       "id": 1170,
       "nombre": "RIDDLER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 124,
@@ -3919,7 +3919,7 @@
     {
       "id": 190,
       "nombre": "Spider Woman",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1084,
@@ -4039,7 +4039,7 @@
     {
       "id": 1080,
       "nombre": "X -STORM",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 526,
@@ -4614,6 +4614,16 @@
     {
       "id": 1324,
       "nombre": "3F-METALGARURUMON",
+      "cantidad": 1
+    },
+    {
+      "id": 136,
+      "nombre": "Mazinger Z",
+      "cantidad": 1
+    },
+    {
+      "id": 972,
+      "nombre": "8-MAYA",
       "cantidad": 1
     }
   ]

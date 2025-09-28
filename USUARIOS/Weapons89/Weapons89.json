@@ -724,7 +724,7 @@
     {
       "id": 488,
       "nombre": "metalhead",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 298,
@@ -2244,7 +2244,7 @@
     {
       "id": 970,
       "nombre": "6-VICKY-EL-VIKINGO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 46,
@@ -2829,7 +2829,7 @@
     {
       "id": 404,
       "nombre": "sefirot",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 526,
@@ -4569,7 +4569,7 @@
     {
       "id": 901,
       "nombre": "ULTRON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 872,
@@ -4829,7 +4829,7 @@
     {
       "id": 30,
       "nombre": "Uni",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1201,
@@ -6054,6 +6054,11 @@
     {
       "id": 1308,
       "nombre": "1H-FA-TAI",
+      "cantidad": 1
+    },
+    {
+      "id": 664,
+      "nombre": "DB-052",
       "cantidad": 1
     }
   ]
