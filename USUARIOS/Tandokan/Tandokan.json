@@ -1979,7 +1979,7 @@
         {
             "id": 354,
             "nombre": "alice",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 346,
@@ -2569,7 +2569,7 @@
         {
             "id": 73,
             "nombre": "killvearn",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 522,
@@ -2849,7 +2849,7 @@
         {
             "id": 288,
             "nombre": "Splinter",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 705,
@@ -6454,7 +6454,7 @@
         {
             "id": 1352,
             "nombre": "6G-TENTOMON-EVO",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1263,
@@ -6704,6 +6704,11 @@
         {
             "id": 1055,
             "nombre": "NIGHTHAWK",
+            "cantidad": 1
+        },
+        {
+            "id": 1231,
+            "nombre": "POPEYE",
             "cantidad": 1
         }
     ]
