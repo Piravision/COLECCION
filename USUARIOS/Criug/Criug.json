@@ -3844,7 +3844,7 @@
         {
             "id": 654,
             "nombre": "DB-042",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 603,
@@ -4694,7 +4694,7 @@
         {
             "id": 1001,
             "nombre": "MUSCULMAN",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1038,
@@ -6109,7 +6109,7 @@
         {
             "id": 1300,
             "nombre": "FA-TOKI",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1276,
@@ -6689,7 +6689,7 @@
         {
             "id": 1370,
             "nombre": "8G-GATOMON-EVO",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1311,
@@ -6759,6 +6759,11 @@
         {
             "id": 1343,
             "nombre": "5G-PIYOMON-EVO",
+            "cantidad": 1
+        },
+        {
+            "id": 1325,
+            "nombre": "3G-GABUMON-EVO",
             "cantidad": 1
         }
     ]
