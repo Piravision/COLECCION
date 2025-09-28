@@ -264,7 +264,7 @@
     {
       "id": 261,
       "nombre": "Reptilio",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 117,
@@ -324,7 +324,7 @@
     {
       "id": 372,
       "nombre": "RENARD",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 490,
@@ -454,7 +454,7 @@
     {
       "id": 300,
       "nombre": "Wheeljack",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 7,
@@ -639,7 +639,7 @@
     {
       "id": 106,
       "nombre": "Scarlett",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 309,
@@ -924,7 +924,7 @@
     {
       "id": 377,
       "nombre": "harle",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 331,
@@ -994,7 +994,7 @@
     {
       "id": 539,
       "nombre": "BRUCE-LEE2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 315,
@@ -1084,7 +1084,7 @@
     {
       "id": 110,
       "nombre": "Destro",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 326,
@@ -1264,7 +1264,7 @@
     {
       "id": 567,
       "nombre": "JAKE-ROBERTS",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 440,
@@ -1629,7 +1629,7 @@
     {
       "id": 21,
       "nombre": "Windfang",
-      "cantidad": 4
+      "cantidad": 6
     },
     {
       "id": 87,
@@ -1949,7 +1949,7 @@
     {
       "id": 662,
       "nombre": "DB-050",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 651,
@@ -2694,7 +2694,7 @@
     {
       "id": 831,
       "nombre": "BISON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 797,
@@ -2704,7 +2704,7 @@
     {
       "id": 737,
       "nombre": "Aioros-de-Sagitario",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 870,
@@ -3069,7 +3069,7 @@
     {
       "id": 821,
       "nombre": "SHANG-TSUNG",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 931,
@@ -3144,7 +3144,7 @@
     {
       "id": 874,
       "nombre": "CAPTAIN-AMERICA",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 846,
@@ -3164,7 +3164,7 @@
     {
       "id": 608,
       "nombre": "SHUN-NITTA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 687,
@@ -3174,7 +3174,7 @@
     {
       "id": 834,
       "nombre": "CAMMY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 905,
@@ -3209,7 +3209,7 @@
     {
       "id": 932,
       "nombre": "RAZOR-RAMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 829,
@@ -3839,7 +3839,7 @@
     {
       "id": 247,
       "nombre": "Linx O",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 227,
@@ -4349,7 +4349,7 @@
     {
       "id": 98,
       "nombre": "David Xanatos",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 99,
@@ -4364,7 +4364,7 @@
     {
       "id": 124,
       "nombre": "Stratos",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 775,
@@ -5114,7 +5114,7 @@
     {
       "id": 1181,
       "nombre": "DEXTER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1151,
@@ -5129,7 +5129,7 @@
     {
       "id": 393,
       "nombre": "Tawna",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1016,
@@ -5239,7 +5239,7 @@
     {
       "id": 1161,
       "nombre": "GOLDENAGE- SUPERMAN",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1233,
@@ -5249,7 +5249,7 @@
     {
       "id": 984,
       "nombre": "14-BABY-SINCLAIR",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1146,
@@ -5389,7 +5389,7 @@
     {
       "id": 192,
       "nombre": "Bends",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 812,
@@ -5544,7 +5544,7 @@
     {
       "id": 1037,
       "nombre": "CAPITAN-AMERICA-2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 466,
@@ -6209,7 +6209,7 @@
     {
       "id": 1301,
       "nombre": "1A-TAI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1325,
@@ -6334,7 +6334,7 @@
     {
       "id": 1165,
       "nombre": "HAWKMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1272,
@@ -6374,6 +6374,41 @@
     {
       "id": 1334,
       "nombre": "4G-PALMON-EVO",
+      "cantidad": 1
+    },
+    {
+      "id": 1375,
+      "nombre": "9-BAKEMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1248,
+      "nombre": "MACGYVER",
+      "cantidad": 1
+    },
+    {
+      "id": 1339,
+      "nombre": "5C-PIYOMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1373,
+      "nombre": "9-ANDROMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1356,
+      "nombre": "7B-TOKOMON",
+      "cantidad": 1
+    },
+    {
+      "id": 971,
+      "nombre": "9-CALIMERO",
+      "cantidad": 1
+    },
+    {
+      "id": 1133,
+      "nombre": "AGALLAS",
       "cantidad": 1
     }
   ]
