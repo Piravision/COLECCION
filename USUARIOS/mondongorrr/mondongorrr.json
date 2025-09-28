@@ -789,7 +789,7 @@
         {
             "id": 568,
             "nombre": "LOS-SACAMANTECAS",
-            "cantidad": 2
+            "cantidad": 4
         },
         {
             "id": 701,
@@ -1089,7 +1089,7 @@
         {
             "id": 867,
             "nombre": "SONNY-JAIL",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 738,
@@ -1259,7 +1259,7 @@
         {
             "id": 910,
             "nombre": "LOIS-LANE",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 146,
@@ -1679,7 +1679,7 @@
         {
             "id": 887,
             "nombre": "LOCKJAW",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 868,
@@ -3944,7 +3944,7 @@
         {
             "id": 439,
             "nombre": "mudokons",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 857,
@@ -4139,7 +4139,7 @@
         {
             "id": 913,
             "nombre": "SUPERGIRL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 326,
@@ -5414,7 +5414,7 @@
         {
             "id": 1193,
             "nombre": "ULISES-31",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1290,
@@ -5514,7 +5514,7 @@
         {
             "id": 1145,
             "nombre": "TIMON-&-PUMBA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 856,
@@ -5679,7 +5679,7 @@
         {
             "id": 1026,
             "nombre": "4FV -SUPERSKRULL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1281,
@@ -6534,6 +6534,11 @@
         {
             "id": 1286,
             "nombre": "FA-WINDJAMMERS",
+            "cantidad": 1
+        },
+        {
+            "id": 1391,
+            "nombre": "9-OGREMON",
             "cantidad": 1
         }
     ]
