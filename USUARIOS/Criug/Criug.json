@@ -2284,7 +2284,7 @@
     {
       "id": 621,
       "nombre": "DB-009",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 716,
@@ -4364,7 +4364,7 @@
     {
       "id": 770,
       "nombre": "red",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 828,
@@ -6794,6 +6794,11 @@
     {
       "id": 1359,
       "nombre": "7E-MAGNA-ANGEMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1355,
+      "nombre": "7A-TK",
       "cantidad": 1
     }
   ]
