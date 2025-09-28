@@ -84,7 +84,7 @@
     {
       "id": 61,
       "nombre": "Borahorn",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 9,
@@ -314,7 +314,7 @@
     {
       "id": 401,
       "nombre": "cloud",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 130,
@@ -914,7 +914,7 @@
     {
       "id": 265,
       "nombre": "Leatherhead",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 72,
@@ -974,7 +974,7 @@
     {
       "id": 532,
       "nombre": "Sarah-Connor-Jail",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 120,
@@ -1449,7 +1449,7 @@
     {
       "id": 678,
       "nombre": "DB-066",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 253,
@@ -1544,7 +1544,7 @@
     {
       "id": 285,
       "nombre": "Rocksteady",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 294,
@@ -1564,7 +1564,7 @@
     {
       "id": 690,
       "nombre": "DB-078",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 616,
@@ -1989,7 +1989,7 @@
     {
       "id": 598,
       "nombre": "MARGUS-MANFRED",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 22,
@@ -2244,7 +2244,7 @@
     {
       "id": 633,
       "nombre": "DB-021",
-      "cantidad": 2
+      "cantidad": 4
     },
     {
       "id": 615,
@@ -3294,7 +3294,7 @@
     {
       "id": 181,
       "nombre": "Hydro man",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 100,
@@ -4439,7 +4439,7 @@
     {
       "id": 776,
       "nombre": "zedd",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1018,
@@ -4459,7 +4459,7 @@
     {
       "id": 1170,
       "nombre": "RIDDLER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1082,
@@ -4619,7 +4619,7 @@
     {
       "id": 860,
       "nombre": "MAHONEY-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 510,
@@ -5859,7 +5859,7 @@
     {
       "id": 1118,
       "nombre": "PF-PITUFO FILOSOFO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1154,
@@ -6004,7 +6004,7 @@
     {
       "id": 1313,
       "nombre": "2D-IKKAKUMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1312,
@@ -6029,7 +6029,7 @@
     {
       "id": 1329,
       "nombre": "4B-TANEMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1359,
@@ -6274,7 +6274,7 @@
     {
       "id": 1365,
       "nombre": "8B-NYAROMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1209,
@@ -6294,6 +6294,31 @@
     {
       "id": 1378,
       "nombre": "9-DEMIDEVIMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1371,
+      "nombre": "8H-FA-KARI",
+      "cantidad": 1
+    },
+    {
+      "id": 1345,
+      "nombre": "5I-SORA-FOIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1337,
+      "nombre": "5A-SORA",
+      "cantidad": 1
+    },
+    {
+      "id": 1343,
+      "nombre": "5G-PIYOMON-EVO",
+      "cantidad": 2
+    },
+    {
+      "id": 1366,
+      "nombre": "8C-SALAMON",
       "cantidad": 1
     }
   ]
