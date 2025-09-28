@@ -414,7 +414,7 @@
     {
       "id": 261,
       "nombre": "Reptilio",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 391,
@@ -2379,7 +2379,7 @@
     {
       "id": 858,
       "nombre": "FREDDY-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 550,
@@ -4564,6 +4564,11 @@
     {
       "id": 1009,
       "nombre": "SHIN-CHAN",
+      "cantidad": 1
+    },
+    {
+      "id": 623,
+      "nombre": "DB-011",
       "cantidad": 1
     }
   ]
