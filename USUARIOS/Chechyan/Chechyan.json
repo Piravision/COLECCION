@@ -619,7 +619,7 @@
         {
             "id": 333,
             "nombre": "Omega Rojo",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 764,
@@ -4574,6 +4574,11 @@
         {
             "id": 537,
             "nombre": "BOLO-YEUNG",
+            "cantidad": 1
+        },
+        {
+            "id": 1400,
+            "nombre": "9-YUKIDARUMON",
             "cantidad": 1
         }
     ]
