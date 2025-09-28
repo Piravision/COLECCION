@@ -309,7 +309,7 @@
     {
       "id": 267,
       "nombre": "Metalhead",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 628,
@@ -1074,7 +1074,7 @@
     {
       "id": 1029,
       "nombre": "BLACK-PHANTER-2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 7,
@@ -1744,6 +1744,41 @@
     {
       "id": 487,
       "nombre": "Jacques",
+      "cantidad": 1
+    },
+    {
+      "id": 947,
+      "nombre": "1-ARAMIS",
+      "cantidad": 1
+    },
+    {
+      "id": 251,
+      "nombre": "Tigro",
+      "cantidad": 1
+    },
+    {
+      "id": 981,
+      "nombre": "14-ETHYL-PHILLIPS",
+      "cantidad": 1
+    },
+    {
+      "id": 903,
+      "nombre": "BIZARRE",
+      "cantidad": 1
+    },
+    {
+      "id": 1303,
+      "nombre": "1C-AGUMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1200,
+      "nombre": "2-DONKEY-KONG",
+      "cantidad": 1
+    },
+    {
+      "id": 252,
+      "nombre": "Alluro",
       "cantidad": 1
     }
   ]

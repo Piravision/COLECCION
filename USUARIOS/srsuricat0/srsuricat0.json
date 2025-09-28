@@ -294,7 +294,7 @@
     {
       "id": 2,
       "nombre": "Bravestarr",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 407,
@@ -649,7 +649,7 @@
     {
       "id": 236,
       "nombre": "Shark Tank",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 546,
@@ -1829,7 +1829,7 @@
     {
       "id": 481,
       "nombre": "Capitán-Stargazer",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 563,
@@ -1989,7 +1989,7 @@
     {
       "id": 523,
       "nombre": "lara2",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 85,
@@ -2664,7 +2664,7 @@
     {
       "id": 683,
       "nombre": "DB-071",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 650,
@@ -4364,7 +4364,7 @@
     {
       "id": 701,
       "nombre": "DB-089",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 704,
@@ -6249,6 +6249,31 @@
     {
       "id": 1359,
       "nombre": "7E-MAGNA-ANGEMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1291,
+      "nombre": "SPARKSTER",
+      "cantidad": 1
+    },
+    {
+      "id": 1317,
+      "nombre": "2H-FA-JOE",
+      "cantidad": 1
+    },
+    {
+      "id": 1122,
+      "nombre": "BOBOBO-BO",
+      "cantidad": 1
+    },
+    {
+      "id": 1154,
+      "nombre": "CATWOMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1315,
+      "nombre": "2F-VIKEMON",
       "cantidad": 1
     }
   ]

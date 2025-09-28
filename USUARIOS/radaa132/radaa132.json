@@ -334,7 +334,7 @@
     {
       "id": 593,
       "nombre": "JOHNNY-MASON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 740,
@@ -1474,7 +1474,7 @@
     {
       "id": 643,
       "nombre": "DB-031",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 163,
@@ -3699,7 +3699,7 @@
     {
       "id": 1292,
       "nombre": "ALF-FAMILY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 981,
@@ -4154,7 +4154,7 @@
     {
       "id": 794,
       "nombre": "HUGO-STRANGE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 796,
@@ -4244,6 +4244,16 @@
     {
       "id": 965,
       "nombre": "4-RIGODON",
+      "cantidad": 1
+    },
+    {
+      "id": 1310,
+      "nombre": "2A-JOE",
+      "cantidad": 1
+    },
+    {
+      "id": 1379,
+      "nombre": "9-DEVYMON",
       "cantidad": 1
     }
   ]

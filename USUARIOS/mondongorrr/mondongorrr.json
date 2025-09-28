@@ -2829,7 +2829,7 @@
     {
       "id": 249,
       "nombre": "Pomara",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 931,
@@ -3534,7 +3534,7 @@
     {
       "id": 810,
       "nombre": "KANO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1112,
@@ -3769,7 +3769,7 @@
     {
       "id": 864,
       "nombre": "RAMBO-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 324,
@@ -4314,7 +4314,7 @@
     {
       "id": 298,
       "nombre": "Prowl",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 159,
@@ -4654,7 +4654,7 @@
     {
       "id": 1222,
       "nombre": "LINK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 920,
@@ -5064,7 +5064,7 @@
     {
       "id": 914,
       "nombre": "SUPERMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 818,
@@ -5864,7 +5864,7 @@
     {
       "id": 1099,
       "nombre": "D-DARKWING-DUCK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 955,
@@ -5874,7 +5874,7 @@
     {
       "id": 1165,
       "nombre": "HAWKMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1192,
@@ -6559,6 +6559,11 @@
     {
       "id": 1321,
       "nombre": "3C-GABUMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1361,
+      "nombre": "7G-PATAMON-EVO",
       "cantidad": 1
     }
   ]
