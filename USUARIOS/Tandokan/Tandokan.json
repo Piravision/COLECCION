@@ -5584,7 +5584,7 @@
         {
             "id": 1039,
             "nombre": "DAREDEVIL-2",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 892,
@@ -6689,6 +6689,11 @@
         {
             "id": 1070,
             "nombre": "UNION JACK",
+            "cantidad": 1
+        },
+        {
+            "id": 1170,
+            "nombre": "RIDDLER",
             "cantidad": 1
         }
     ]

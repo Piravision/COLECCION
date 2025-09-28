@@ -69,7 +69,7 @@
     {
       "id": 93,
       "nombre": "Elisa Maza",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 181,
@@ -209,7 +209,7 @@
     {
       "id": 25,
       "nombre": "Diana",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 398,
@@ -239,7 +239,7 @@
     {
       "id": 305,
       "nombre": "Runamuck",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 53,
@@ -569,7 +569,7 @@
     {
       "id": 88,
       "nombre": "Zackary Foxx",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 395,
@@ -784,7 +784,7 @@
     {
       "id": 552,
       "nombre": "CHEWBACCA-JAIL",
-      "cantidad": 17
+      "cantidad": 18
     },
     {
       "id": 448,
@@ -894,7 +894,7 @@
     {
       "id": 197,
       "nombre": "Rox",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 208,
@@ -969,7 +969,7 @@
     {
       "id": 232,
       "nombre": "Mousers",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 323,
@@ -1259,7 +1259,7 @@
     {
       "id": 112,
       "nombre": "Mayor Bludd",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 515,
@@ -3469,7 +3469,7 @@
     {
       "id": 863,
       "nombre": "PREDATOR-JAIL",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 275,
@@ -3859,7 +3859,7 @@
     {
       "id": 392,
       "nombre": "roover",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 955,
@@ -4094,7 +4094,7 @@
     {
       "id": 614,
       "nombre": "DB-002",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 947,
@@ -4379,7 +4379,7 @@
     {
       "id": 1098,
       "nombre": "CZA-MOQUETE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 971,
@@ -4409,7 +4409,7 @@
     {
       "id": 968,
       "nombre": "4-WILLY-FOG",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1082,
@@ -4469,7 +4469,7 @@
     {
       "id": 785,
       "nombre": "CATWOMAN",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1011,
@@ -6414,7 +6414,7 @@
     {
       "id": 1195,
       "nombre": "1-LUIGI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1200,
@@ -6609,7 +6609,7 @@
     {
       "id": 1304,
       "nombre": "1D-GREYMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1371,
@@ -6704,7 +6704,7 @@
     {
       "id": 1365,
       "nombre": "8B-NYAROMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1377,
@@ -6789,6 +6789,11 @@
     {
       "id": 1394,
       "nombre": "9-PIXIMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1359,
+      "nombre": "7E-MAGNA-ANGEMON",
       "cantidad": 1
     }
   ]
