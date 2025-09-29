@@ -114,7 +114,7 @@
     {
       "id": 265,
       "nombre": "Leatherhead",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 140,
@@ -409,12 +409,12 @@
     {
       "id": 340,
       "nombre": "Poseidón",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 525,
       "nombre": "Cíclope",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 68,
@@ -519,7 +519,7 @@
     {
       "id": 534,
       "nombre": "T800-Jail",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 900,
@@ -674,7 +674,7 @@
     {
       "id": 609,
       "nombre": "STEFAN-LEVI",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 550,
@@ -1054,7 +1054,7 @@
     {
       "id": 150,
       "nombre": "Throttle",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 99,
@@ -1064,7 +1064,7 @@
     {
       "id": 819,
       "nombre": "SCORPION",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 485,
@@ -1419,7 +1419,7 @@
     {
       "id": 771,
       "nombre": "rita",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 833,
@@ -1549,12 +1549,12 @@
     {
       "id": 135,
       "nombre": "Afrodita A",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 594,
       "nombre": "JUAN-DIAZ",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 42,
@@ -2259,7 +2259,7 @@
     {
       "id": 1111,
       "nombre": "G1-COMANDO-G",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1088,
@@ -2749,7 +2749,7 @@
     {
       "id": 1252,
       "nombre": "PRIMOS-LEJANOS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 272,
@@ -2789,7 +2789,7 @@
     {
       "id": 657,
       "nombre": "DB-045",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 121,
@@ -4034,7 +4034,7 @@
     {
       "id": 987,
       "nombre": "ARALE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1001,
@@ -4259,6 +4259,56 @@
     {
       "id": 1344,
       "nombre": "5H-FA-SORA",
+      "cantidad": 1
+    },
+    {
+      "id": 1101,
+      "nombre": "D-JOE-MCQUACK",
+      "cantidad": 1
+    },
+    {
+      "id": 889,
+      "nombre": "LUKE-CAGE",
+      "cantidad": 1
+    },
+    {
+      "id": 865,
+      "nombre": "ROBOCOP-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1103,
+      "nombre": "FRAGGLE-ROCK",
+      "cantidad": 1
+    },
+    {
+      "id": 187,
+      "nombre": "Rhyno",
+      "cantidad": 1
+    },
+    {
+      "id": 1251,
+      "nombre": "PADRES-FORZOSOS",
+      "cantidad": 1
+    },
+    {
+      "id": 779,
+      "nombre": "BANE",
+      "cantidad": 1
+    },
+    {
+      "id": 248,
+      "nombre": "Panthro",
+      "cantidad": 1
+    },
+    {
+      "id": 1355,
+      "nombre": "7A-TK",
+      "cantidad": 1
+    },
+    {
+      "id": 1282,
+      "nombre": "ROBOTECH",
       "cantidad": 1
     }
   ]
