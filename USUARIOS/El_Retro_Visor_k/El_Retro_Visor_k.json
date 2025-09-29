@@ -2864,7 +2864,7 @@
         {
             "id": 864,
             "nombre": "RAMBO-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 917,
@@ -6774,6 +6774,11 @@
         {
             "id": 1305,
             "nombre": "1E-METAL-GREYMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1306,
+            "nombre": "1FA-WARGREYMON",
             "cantidad": 1
         }
     ]
