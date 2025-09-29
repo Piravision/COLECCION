@@ -309,7 +309,7 @@
     {
       "id": 637,
       "nombre": "DB-025",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 599,
@@ -659,7 +659,7 @@
     {
       "id": 531,
       "nombre": "McClane-Jail",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 698,
@@ -1604,7 +1604,7 @@
     {
       "id": 449,
       "nombre": "leon2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1384,
@@ -1934,6 +1934,21 @@
     {
       "id": 1375,
       "nombre": "9-BAKEMON",
+      "cantidad": 1
+    },
+    {
+      "id": 514,
+      "nombre": "Hálcon-Vigía",
+      "cantidad": 1
+    },
+    {
+      "id": 217,
+      "nombre": "Cobra   H.I.S.S.",
+      "cantidad": 1
+    },
+    {
+      "id": 515,
+      "nombre": "Invasión-Saurians",
       "cantidad": 1
     }
   ]
