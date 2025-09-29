@@ -164,7 +164,7 @@
         {
             "id": 192,
             "nombre": "Bends",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 136,
@@ -969,7 +969,7 @@
         {
             "id": 232,
             "nombre": "Mousers",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 323,
@@ -2869,7 +2869,7 @@
         {
             "id": 787,
             "nombre": "DOS-CARAS",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 796,
@@ -6624,7 +6624,7 @@
         {
             "id": 1310,
             "nombre": "2A-JOE",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1339,
@@ -6824,6 +6824,11 @@
         {
             "id": 1384,
             "nombre": "9-MACHINEDRAMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1378,
+            "nombre": "9-DEMIDEVIMON",
             "cantidad": 1
         }
     ]
