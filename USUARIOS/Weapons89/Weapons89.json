@@ -469,7 +469,7 @@
         {
             "id": 523,
             "nombre": "lara2",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 328,
@@ -6114,6 +6114,11 @@
         {
             "id": 369,
             "nombre": "DRACULA2",
+            "cantidad": 1
+        },
+        {
+            "id": 841,
+            "nombre": "GUILE",
             "cantidad": 1
         }
     ]
