@@ -609,7 +609,7 @@
     {
       "id": 486,
       "nombre": "gnasty-gnorc",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 74,
@@ -2524,7 +2524,7 @@
     {
       "id": 443,
       "nombre": "ada",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 545,
@@ -3529,7 +3529,7 @@
     {
       "id": 855,
       "nombre": "ALIEN-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 847,
@@ -3744,7 +3744,7 @@
     {
       "id": 890,
       "nombre": "MEDUSA",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 840,
@@ -4744,7 +4744,7 @@
     {
       "id": 1206,
       "nombre": "3a-SONIC",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1095,
@@ -6274,6 +6274,11 @@
     {
       "id": 1315,
       "nombre": "2F-VIKEMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1375,
+      "nombre": "9-BAKEMON",
       "cantidad": 1
     }
   ]

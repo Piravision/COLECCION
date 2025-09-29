@@ -834,7 +834,7 @@
     {
       "id": 190,
       "nombre": "Vandame-Bloodsport",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 294,
@@ -5064,7 +5064,7 @@
     {
       "id": 950,
       "nombre": "1-PORTHOS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1095,
@@ -6789,6 +6789,11 @@
     {
       "id": 1348,
       "nombre": "6C-TENTOMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1349,
+      "nombre": "6D-KABUTERIMON",
       "cantidad": 1
     }
   ]

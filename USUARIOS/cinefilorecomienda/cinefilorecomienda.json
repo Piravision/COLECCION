@@ -489,7 +489,7 @@
         {
             "id": 112,
             "nombre": "Mayor Bludd",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 937,
@@ -1299,7 +1299,7 @@
         {
             "id": 961,
             "nombre": "3-MORIARTY",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 981,
@@ -1969,7 +1969,7 @@
         {
             "id": 1015,
             "nombre": "SHAGGY--&-SCOOBY-DOO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1164,
@@ -2044,7 +2044,7 @@
         {
             "id": 1125,
             "nombre": "GON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 471,
@@ -2439,7 +2439,7 @@
         {
             "id": 303,
             "nombre": "Megatron",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1081,
@@ -2749,7 +2749,7 @@
         {
             "id": 869,
             "nombre": "ARNIM-ZOLA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 945,
@@ -3194,7 +3194,7 @@
         {
             "id": 400,
             "nombre": "cid",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1070,
@@ -3434,7 +3434,7 @@
         {
             "id": 352,
             "nombre": "septimus",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 353,
@@ -3689,7 +3689,7 @@
         {
             "id": 696,
             "nombre": "DB-084",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 472,
@@ -3829,7 +3829,7 @@
         {
             "id": 1061,
             "nombre": "SHANG-CHI",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1084,
@@ -4117,11 +4117,6 @@
             "cantidad": 1
         },
         {
-            "id": 1305,
-            "nombre": "1E-METAL-GREYMON",
-            "cantidad": 1
-        },
-        {
             "id": 1344,
             "nombre": "5H-FA-SORA",
             "cantidad": 2
@@ -4294,6 +4289,36 @@
         {
             "id": 1006,
             "nombre": "REENA-&-GAUDY",
+            "cantidad": 1
+        },
+        {
+            "id": 1376,
+            "nombre": "9-CENTALMON",
+            "cantidad": 1
+        },
+        {
+            "id": 85,
+            "nombre": "Niko",
+            "cantidad": 1
+        },
+        {
+            "id": 489,
+            "nombre": "sparx",
+            "cantidad": 1
+        },
+        {
+            "id": 1395,
+            "nombre": "9-PUMPKINMON",
+            "cantidad": 1
+        },
+        {
+            "id": 593,
+            "nombre": "JOHNNY-MASON",
+            "cantidad": 1
+        },
+        {
+            "id": 554,
+            "nombre": "HANSOLO-JAIL",
             "cantidad": 1
         }
     ]
