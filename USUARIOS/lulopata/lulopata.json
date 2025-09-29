@@ -284,12 +284,12 @@
     {
       "id": 926,
       "nombre": "BATISTA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 569,
       "nombre": "MACHO-MAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 570,
@@ -759,6 +759,26 @@
     {
       "id": 549,
       "nombre": "T-1000",
+      "cantidad": 1
+    },
+    {
+      "id": 364,
+      "nombre": "HulkHogan",
+      "cantidad": 1
+    },
+    {
+      "id": 34,
+      "nombre": "Avan",
+      "cantidad": 1
+    },
+    {
+      "id": 35,
+      "nombre": "AVAN DRAGON",
+      "cantidad": 1
+    },
+    {
+      "id": 69,
+      "nombre": "gargola",
       "cantidad": 1
     }
   ]

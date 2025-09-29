@@ -1634,7 +1634,7 @@
     {
       "id": 95,
       "nombre": "Hudson",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 173,
@@ -2739,7 +2739,7 @@
     {
       "id": 98,
       "nombre": "David Xanatos",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 525,
@@ -3344,6 +3344,11 @@
     {
       "id": 400,
       "nombre": "cid",
+      "cantidad": 1
+    },
+    {
+      "id": 97,
+      "nombre": "Armadura Xanatos",
       "cantidad": 1
     }
   ]
