@@ -4117,11 +4117,6 @@
             "cantidad": 2
         },
         {
-            "id": 1338,
-            "nombre": "5B-PYOCOMON",
-            "cantidad": 1
-        },
-        {
             "id": 1383,
             "nombre": "9-LEOMON",
             "cantidad": 1
@@ -4319,6 +4314,11 @@
         {
             "id": 28,
             "nombre": "Presto",
+            "cantidad": 1
+        },
+        {
+            "id": 30,
+            "nombre": "Uni",
             "cantidad": 1
         }
     ]
