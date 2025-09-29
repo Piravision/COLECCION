@@ -6589,12 +6589,12 @@
         {
             "id": 1395,
             "nombre": "9-PUMPKINMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1376,
             "nombre": "9-CENTALMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1356,
@@ -6614,7 +6614,7 @@
         {
             "id": 1371,
             "nombre": "8H-FA-KARI",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1345,
@@ -6774,7 +6774,7 @@
         {
             "id": 1397,
             "nombre": "9-SCUMON",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1338,
@@ -6794,7 +6794,7 @@
         {
             "id": 1359,
             "nombre": "7E-MAGNA-ANGEMON",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1355,
@@ -6864,6 +6864,21 @@
         {
             "id": 1332,
             "nombre": "4E-LILLYMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1335,
+            "nombre": "4H-FA-MIMI",
+            "cantidad": 1
+        },
+        {
+            "id": 1354,
+            "nombre": "6I-IZZY-FOIL",
+            "cantidad": 1
+        },
+        {
+            "id": 1317,
+            "nombre": "2H-FA-JOE",
             "cantidad": 1
         }
     ]
