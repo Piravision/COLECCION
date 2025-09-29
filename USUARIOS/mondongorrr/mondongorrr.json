@@ -444,7 +444,7 @@
         {
             "id": 574,
             "nombre": "UNDERTAKER",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 389,
@@ -764,7 +764,7 @@
         {
             "id": 612,
             "nombre": "TOM-BAKER",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 17,
@@ -889,7 +889,7 @@
         {
             "id": 831,
             "nombre": "BISON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 330,
@@ -1169,7 +1169,7 @@
         {
             "id": 407,
             "nombre": "yuffie",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 453,
@@ -1584,7 +1584,7 @@
         {
             "id": 336,
             "nombre": "Hyōga de Cisne",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 766,
@@ -2234,12 +2234,12 @@
         {
             "id": 695,
             "nombre": "DB-083",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 886,
             "nombre": "KARNAK",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 372,
@@ -2529,7 +2529,7 @@
         {
             "id": 388,
             "nombre": "koala2",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 380,
@@ -2814,7 +2814,7 @@
         {
             "id": 1010,
             "nombre": "LUPIN-III",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 662,
@@ -3309,7 +3309,7 @@
         {
             "id": 978,
             "nombre": "13-GARFIELD",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 131,
@@ -4639,7 +4639,7 @@
         {
             "id": 219,
             "nombre": "Dirigible Tortuga",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 830,
@@ -5469,7 +5469,7 @@
         {
             "id": 1291,
             "nombre": "SPARKSTER",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1181,
@@ -6099,7 +6099,7 @@
         {
             "id": 1083,
             "nombre": "YELLOWJACKET & WASP",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1061,
@@ -6204,7 +6204,7 @@
         {
             "id": 1134,
             "nombre": "DR.-GRANUDO-&-HORRIFIDO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1060,
@@ -6584,6 +6584,21 @@
         {
             "id": 1345,
             "nombre": "5I-SORA-FOIL",
+            "cantidad": 1
+        },
+        {
+            "id": 1398,
+            "nombre": "9-SKULLGREYMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1304,
+            "nombre": "1D-GREYMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1175,
+            "nombre": "EREN-YEAGER",
             "cantidad": 1
         }
     ]

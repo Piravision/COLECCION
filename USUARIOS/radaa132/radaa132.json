@@ -194,7 +194,7 @@
     {
       "id": 72,
       "nombre": "hynkel malo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 303,
@@ -889,7 +889,7 @@
     {
       "id": 296,
       "nombre": "Jazz",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 628,
@@ -1399,7 +1399,7 @@
     {
       "id": 95,
       "nombre": "Hudson",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 182,
@@ -3024,7 +3024,7 @@
     {
       "id": 1096,
       "nombre": "CZ-RAY-STANTZ",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 442,
@@ -3484,7 +3484,7 @@
     {
       "id": 1290,
       "nombre": "MORRIGAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1197,
@@ -4309,6 +4309,26 @@
     {
       "id": 1282,
       "nombre": "ROBOTECH",
+      "cantidad": 1
+    },
+    {
+      "id": 271,
+      "nombre": "Neutrinos",
+      "cantidad": 1
+    },
+    {
+      "id": 906,
+      "nombre": "DR-FATE",
+      "cantidad": 1
+    },
+    {
+      "id": 1307,
+      "nombre": "1G-AGUMON-EVO",
+      "cantidad": 1
+    },
+    {
+      "id": 1118,
+      "nombre": "PF-PITUFO FILOSOFO",
       "cantidad": 1
     }
   ]

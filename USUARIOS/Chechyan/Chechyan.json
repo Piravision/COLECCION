@@ -2629,7 +2629,7 @@
     {
       "id": 729,
       "nombre": "DB-117",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1143,
@@ -3269,7 +3269,7 @@
     {
       "id": 184,
       "nombre": "Lizard",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1090,
@@ -4734,6 +4734,11 @@
     {
       "id": 1242,
       "nombre": "EQUIPO-A",
+      "cantidad": 1
+    },
+    {
+      "id": 867,
+      "nombre": "SONNY-JAIL",
       "cantidad": 1
     }
   ]
