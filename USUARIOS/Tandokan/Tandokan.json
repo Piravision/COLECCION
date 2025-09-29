@@ -574,7 +574,7 @@
         {
             "id": 309,
             "nombre": "Thundercracker",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 233,
@@ -604,7 +604,7 @@
         {
             "id": 633,
             "nombre": "DB-021",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 634,
@@ -664,7 +664,7 @@
         {
             "id": 592,
             "nombre": "JASON-DERRICK",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 638,
@@ -834,7 +834,7 @@
         {
             "id": 490,
             "nombre": "spyro1",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 57,
@@ -889,7 +889,7 @@
         {
             "id": 434,
             "nombre": "vulcan",
-            "cantidad": 6
+            "cantidad": 7
         },
         {
             "id": 564,
@@ -919,7 +919,7 @@
         {
             "id": 906,
             "nombre": "DR-FATE",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 201,
@@ -2354,7 +2354,7 @@
         {
             "id": 602,
             "nombre": "PAUL-DIAMOND",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 35,
@@ -4644,7 +4644,7 @@
         {
             "id": 1073,
             "nombre": "X - CYCLOPS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1057,
@@ -4729,7 +4729,7 @@
         {
             "id": 1019,
             "nombre": "4F - MUJER INVISIBLE",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 869,
@@ -5049,7 +5049,7 @@
         {
             "id": 1141,
             "nombre": "PATOAVENTURAS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1286,
@@ -5334,7 +5334,7 @@
         {
             "id": 1217,
             "nombre": "5-STRIDER",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1123,
@@ -5549,7 +5549,7 @@
         {
             "id": 575,
             "nombre": "A.GALVAN",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 884,
@@ -5699,7 +5699,7 @@
         {
             "id": 420,
             "nombre": "mei",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 107,
@@ -6769,6 +6769,16 @@
         {
             "id": 1370,
             "nombre": "8G-GATOMON-EVO",
+            "cantidad": 1
+        },
+        {
+            "id": 1392,
+            "nombre": "9-OTAMAMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1299,
+            "nombre": "FA-GOLDEN-AXE",
             "cantidad": 1
         }
     ]
