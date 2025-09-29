@@ -89,7 +89,7 @@
     {
       "id": 537,
       "nombre": "BOLO-YEUNG",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 808,
@@ -429,7 +429,7 @@
     {
       "id": 310,
       "nombre": "Dan",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 3,
@@ -754,6 +754,11 @@
     {
       "id": 597,
       "nombre": "LOUIS-NAPOLEON",
+      "cantidad": 1
+    },
+    {
+      "id": 549,
+      "nombre": "T-1000",
       "cantidad": 1
     }
   ]
