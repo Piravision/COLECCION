@@ -4644,7 +4644,7 @@
     {
       "id": 807,
       "nombre": "JAX",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 479,
@@ -5169,7 +5169,7 @@
     {
       "id": 975,
       "nombre": "7-PENNY",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1019,
@@ -6839,6 +6839,11 @@
     {
       "id": 1342,
       "nombre": "5F-PHOENIXMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1341,
+      "nombre": "5E-GARUDAMON",
       "cantidad": 1
     }
   ]
