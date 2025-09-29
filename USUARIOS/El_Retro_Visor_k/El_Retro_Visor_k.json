@@ -489,7 +489,7 @@
         {
             "id": 31,
             "nombre": "Tiamat",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 382,
@@ -6794,6 +6794,11 @@
         {
             "id": 1338,
             "nombre": "5B-PYOCOMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1347,
+            "nombre": "6B-MOCHIMON",
             "cantidad": 1
         }
     ]
