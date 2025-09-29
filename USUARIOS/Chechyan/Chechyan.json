@@ -1604,7 +1604,7 @@
     {
       "id": 941,
       "nombre": "GREMLIN-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 589,
@@ -1869,7 +1869,7 @@
     {
       "id": 223,
       "nombre": "G.I. JOE Headquarters",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1231,
@@ -2409,7 +2409,7 @@
     {
       "id": 946,
       "nombre": "SLOTH-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 189,
@@ -4084,7 +4084,7 @@
     {
       "id": 1392,
       "nombre": "9-OTAMAMON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1381,
@@ -4129,7 +4129,7 @@
     {
       "id": 1386,
       "nombre": "9-METAL-SEADRAMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1330,
@@ -4739,6 +4739,26 @@
     {
       "id": 867,
       "nombre": "SONNY-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1375,
+      "nombre": "9-BAKEMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1334,
+      "nombre": "4G-PALMON-EVO",
+      "cantidad": 1
+    },
+    {
+      "id": 1387,
+      "nombre": "9-MOJYAMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1333,
+      "nombre": "4F-ROSEMON",
       "cantidad": 1
     }
   ]

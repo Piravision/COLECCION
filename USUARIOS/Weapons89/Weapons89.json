@@ -5899,12 +5899,12 @@
         {
             "id": 1398,
             "nombre": "9-SKULLGREYMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1380,
             "nombre": "9-ETERMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1317,
@@ -5989,7 +5989,7 @@
         {
             "id": 1365,
             "nombre": "8B-NYAROMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1379,
@@ -6119,6 +6119,21 @@
         {
             "id": 841,
             "nombre": "GUILE",
+            "cantidad": 1
+        },
+        {
+            "id": 1388,
+            "nombre": "9-MONZAEMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1333,
+            "nombre": "4F-ROSEMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1280,
+            "nombre": "JOTARO-KUJO",
             "cantidad": 1
         }
     ]
