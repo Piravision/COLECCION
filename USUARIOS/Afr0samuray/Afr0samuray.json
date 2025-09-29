@@ -2189,7 +2189,7 @@
         {
             "id": 918,
             "nombre": "DIANA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 710,
@@ -2704,6 +2704,11 @@
         {
             "id": 573,
             "nombre": "ULTIMATE-WARRIOR",
+            "cantidad": 1
+        },
+        {
+            "id": 560,
+            "nombre": "MACGYVER-JAIL",
             "cantidad": 1
         }
     ]

@@ -1599,7 +1599,7 @@
         {
             "id": 560,
             "nombre": "MACGYVER-JAIL",
-            "cantidad": 6
+            "cantidad": 5
         },
         {
             "id": 70,
@@ -6599,6 +6599,11 @@
         {
             "id": 1175,
             "nombre": "EREN-YEAGER",
+            "cantidad": 1
+        },
+        {
+            "id": 918,
+            "nombre": "DIANA",
             "cantidad": 1
         }
     ]
