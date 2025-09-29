@@ -314,7 +314,7 @@
         {
             "id": 877,
             "nombre": "ENCHANTRESS",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 769,
@@ -4784,6 +4784,11 @@
         {
             "id": 29,
             "nombre": "Sheila",
+            "cantidad": 1
+        },
+        {
+            "id": 784,
+            "nombre": "BULLOCK",
             "cantidad": 1
         }
     ]

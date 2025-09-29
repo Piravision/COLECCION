@@ -1589,7 +1589,7 @@
         {
             "id": 784,
             "nombre": "BULLOCK",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 782,
@@ -6154,6 +6154,11 @@
         {
             "id": 1080,
             "nombre": "X -STORM",
+            "cantidad": 1
+        },
+        {
+            "id": 877,
+            "nombre": "ENCHANTRESS",
             "cantidad": 1
         }
     ]
