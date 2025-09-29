@@ -684,7 +684,7 @@
     {
       "id": 938,
       "nombre": "VINCE-MCMAHON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 274,
@@ -994,7 +994,7 @@
     {
       "id": 733,
       "nombre": "DB-121",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 297,
@@ -1399,7 +1399,7 @@
     {
       "id": 294,
       "nombre": "Hound",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 259,
@@ -3409,7 +3409,7 @@
     {
       "id": 96,
       "nombre": "Lexington",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 774,
@@ -4364,6 +4364,16 @@
     {
       "id": 97,
       "nombre": "Armadura Xanatos",
+      "cantidad": 1
+    },
+    {
+      "id": 1151,
+      "nombre": "BATMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1351,
+      "nombre": "6F-HERCULES-KABUTERIMON",
       "cantidad": 1
     }
   ]
