@@ -279,7 +279,7 @@
         {
             "id": 69,
             "nombre": "gargola",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 262,
@@ -499,7 +499,7 @@
         {
             "id": 771,
             "nombre": "rita",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 648,
@@ -1874,7 +1874,7 @@
         {
             "id": 888,
             "nombre": "LOKI",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 684,
@@ -2644,7 +2644,7 @@
         {
             "id": 967,
             "nombre": "4-TICO",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 954,
@@ -3914,7 +3914,7 @@
         {
             "id": 36,
             "nombre": "baduck",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 72,
@@ -4274,7 +4274,7 @@
         {
             "id": 903,
             "nombre": "BIZARRE",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 852,
@@ -4354,7 +4354,7 @@
         {
             "id": 650,
             "nombre": "DB-038",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 499,
@@ -4959,7 +4959,7 @@
         {
             "id": 987,
             "nombre": "ARALE",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 970,
@@ -5409,7 +5409,7 @@
         {
             "id": 1258,
             "nombre": "XENA-LA-PRINCESA-GUERRERA",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1193,
@@ -5834,7 +5834,7 @@
         {
             "id": 1025,
             "nombre": "4FV -DR.DOOM",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1037,
@@ -6229,7 +6229,7 @@
         {
             "id": 1377,
             "nombre": "9-CHERRYMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1350,
@@ -6269,7 +6269,7 @@
         {
             "id": 1319,
             "nombre": "3A-MATT",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1370,
@@ -6349,7 +6349,7 @@
         {
             "id": 282,
             "nombre": "Krang",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1347,
@@ -6379,7 +6379,7 @@
         {
             "id": 1373,
             "nombre": "9-ANDROMON",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1171,
@@ -6619,7 +6619,7 @@
         {
             "id": 1334,
             "nombre": "4G-PALMON-EVO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1322,
@@ -6659,6 +6659,16 @@
         {
             "id": 1308,
             "nombre": "1H-FA-TAI",
+            "cantidad": 1
+        },
+        {
+            "id": 1151,
+            "nombre": "BATMAN",
+            "cantidad": 1
+        },
+        {
+            "id": 1310,
+            "nombre": "2A-JOE",
             "cantidad": 1
         }
     ]
