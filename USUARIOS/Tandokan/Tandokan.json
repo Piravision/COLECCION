@@ -19,7 +19,7 @@
         {
             "id": 476,
             "nombre": "Kaufman",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 355,
@@ -3729,7 +3729,7 @@
         {
             "id": 1108,
             "nombre": "G-PRINCESA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 413,
@@ -5169,7 +5169,7 @@
         {
             "id": 1113,
             "nombre": "LOS-FRUITIS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1232,
@@ -6809,7 +6809,7 @@
         {
             "id": 1337,
             "nombre": "5A-SORA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1389,
@@ -6859,6 +6859,11 @@
         {
             "id": 1353,
             "nombre": "6H-FA-IZZY",
+            "cantidad": 1
+        },
+        {
+            "id": 1334,
+            "nombre": "4G-PALMON-EVO",
             "cantidad": 1
         }
     ]
