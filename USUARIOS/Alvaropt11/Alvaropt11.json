@@ -1144,7 +1144,7 @@
         {
             "id": 218,
             "nombre": "Cybertron",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 591,
@@ -3904,7 +3904,7 @@
         {
             "id": 917,
             "nombre": "MYERS-JAIL",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 407,
@@ -6514,7 +6514,7 @@
         {
             "id": 1353,
             "nombre": "6H-FA-IZZY",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1328,
@@ -6714,7 +6714,7 @@
         {
             "id": 1335,
             "nombre": "4H-FA-MIMI",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1344,
@@ -6849,6 +6849,11 @@
         {
             "id": 1373,
             "nombre": "9-ANDROMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1386,
+            "nombre": "9-METAL-SEADRAMON",
             "cantidad": 1
         }
     ]
