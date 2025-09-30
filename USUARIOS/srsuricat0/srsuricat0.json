@@ -479,7 +479,7 @@
     {
       "id": 101,
       "nombre": "Duke",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 307,
@@ -744,7 +744,7 @@
     {
       "id": 440,
       "nombre": "scrabs",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 103,
@@ -1319,7 +1319,7 @@
     {
       "id": 157,
       "nombre": "Bluegrass",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 474,
@@ -3134,7 +3134,7 @@
     {
       "id": 703,
       "nombre": "DB-091",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 621,
@@ -3534,7 +3534,7 @@
     {
       "id": 847,
       "nombre": "RYU",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 812,
@@ -4039,7 +4039,7 @@
     {
       "id": 936,
       "nombre": "THE-ROCK",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 985,
@@ -4559,7 +4559,7 @@
     {
       "id": 729,
       "nombre": "DB-117",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 731,
@@ -4794,7 +4794,7 @@
     {
       "id": 1126,
       "nombre": "K.RYOTSU",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1039,
@@ -6404,6 +6404,11 @@
     {
       "id": 1370,
       "nombre": "8G-GATOMON-EVO",
+      "cantidad": 1
+    },
+    {
+      "id": 1172,
+      "nombre": "SUPERMAN",
       "cantidad": 1
     }
   ]
