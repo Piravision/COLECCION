@@ -374,7 +374,7 @@
     {
       "id": 906,
       "nombre": "DR-FATE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 915,
@@ -829,6 +829,16 @@
     {
       "id": 446,
       "nombre": "CUERVOS",
+      "cantidad": 1
+    },
+    {
+      "id": 914,
+      "nombre": "SUPERMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 784,
+      "nombre": "BULLOCK",
       "cantidad": 1
     }
   ]
