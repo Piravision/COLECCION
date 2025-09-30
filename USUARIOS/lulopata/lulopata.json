@@ -699,7 +699,7 @@
     {
       "id": 451,
       "nombre": "perros",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 452,
@@ -804,6 +804,31 @@
     {
       "id": 347,
       "nombre": "Lizard",
+      "cantidad": 1
+    },
+    {
+      "id": 96,
+      "nombre": "Lexington",
+      "cantidad": 1
+    },
+    {
+      "id": 94,
+      "nombre": "Goliath",
+      "cantidad": 1
+    },
+    {
+      "id": 97,
+      "nombre": "Armadura Xanatos",
+      "cantidad": 1
+    },
+    {
+      "id": 454,
+      "nombre": "zombi",
+      "cantidad": 1
+    },
+    {
+      "id": 446,
+      "nombre": "CUERVOS",
       "cantidad": 1
     }
   ]

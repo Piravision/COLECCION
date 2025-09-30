@@ -1514,7 +1514,7 @@
     {
       "id": 183,
       "nombre": "Kraven",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 590,
@@ -2569,7 +2569,7 @@
     {
       "id": 367,
       "nombre": "BEMONT",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 409,
@@ -4774,7 +4774,7 @@
     {
       "id": 1030,
       "nombre": "BRUJA Y VISION",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1063,
@@ -4859,7 +4859,7 @@
     {
       "id": 922,
       "nombre": "LYDIA",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1085,
@@ -6514,7 +6514,7 @@
     {
       "id": 1374,
       "nombre": "9-APOCALYMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1389,
@@ -6554,6 +6554,11 @@
     {
       "id": 1338,
       "nombre": "5B-PYOCOMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1397,
+      "nombre": "9-SCUMON",
       "cantidad": 1
     }
   ]

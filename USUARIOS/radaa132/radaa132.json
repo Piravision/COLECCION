@@ -284,7 +284,7 @@
     {
       "id": 586,
       "nombre": "ED-WARNER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 97,
@@ -864,7 +864,7 @@
     {
       "id": 737,
       "nombre": "Aioros-de-Sagitario",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 886,
@@ -1594,7 +1594,7 @@
     {
       "id": 847,
       "nombre": "RYU",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 856,
@@ -1619,7 +1619,7 @@
     {
       "id": 760,
       "nombre": "Shura-de-Capricornio",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 151,
@@ -1874,7 +1874,7 @@
     {
       "id": 285,
       "nombre": "Rocksteady",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 89,
@@ -2019,7 +2019,7 @@
     {
       "id": 538,
       "nombre": "BRUCE-LEE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 420,
@@ -3369,7 +3369,7 @@
     {
       "id": 415,
       "nombre": "emme",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1028,
@@ -3394,7 +3394,7 @@
     {
       "id": 797,
       "nombre": "MR-FREEZE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 973,
@@ -4354,6 +4354,41 @@
     {
       "id": 1349,
       "nombre": "6D-KABUTERIMON",
+      "cantidad": 1
+    },
+    {
+      "id": 915,
+      "nombre": "WONDER-WOMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 327,
+      "nombre": "Dientes de Sable",
+      "cantidad": 1
+    },
+    {
+      "id": 1224,
+      "nombre": "SAMUS",
+      "cantidad": 1
+    },
+    {
+      "id": 1084,
+      "nombre": "YV- WASP",
+      "cantidad": 1
+    },
+    {
+      "id": 1348,
+      "nombre": "6C-TENTOMON",
+      "cantidad": 1
+    },
+    {
+      "id": 968,
+      "nombre": "4-WILLY-FOG",
+      "cantidad": 1
+    },
+    {
+      "id": 1339,
+      "nombre": "5C-PIYOMON",
       "cantidad": 1
     }
   ]
