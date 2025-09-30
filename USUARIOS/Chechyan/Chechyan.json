@@ -2854,7 +2854,7 @@
     {
       "id": 782,
       "nombre": "BATMAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1261,
@@ -4284,7 +4284,7 @@
     {
       "id": 13,
       "nombre": "Needle",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 20,
@@ -4894,6 +4894,11 @@
     {
       "id": 499,
       "nombre": "seed",
+      "cantidad": 1
+    },
+    {
+      "id": 907,
+      "nombre": "FLASH",
       "cantidad": 1
     }
   ]
