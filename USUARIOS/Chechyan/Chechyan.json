@@ -54,7 +54,7 @@
     {
       "id": 292,
       "nombre": "Bumblebee",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 561,
@@ -659,7 +659,7 @@
     {
       "id": 676,
       "nombre": "DB-064",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 374,
@@ -2429,7 +2429,7 @@
     {
       "id": 443,
       "nombre": "ada",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 497,
@@ -4749,7 +4749,7 @@
     {
       "id": 1387,
       "nombre": "9-MOJYAMON",
-      "cantidad": 2
+      "cantidad": 1
     },
     {
       "id": 1333,
@@ -4819,6 +4819,11 @@
     {
       "id": 732,
       "nombre": "DB-120",
+      "cantidad": 1
+    },
+    {
+      "id": 1011,
+      "nombre": "TAI-&-AGUMON",
       "cantidad": 1
     }
   ]
