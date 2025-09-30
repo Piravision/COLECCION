@@ -1329,7 +1329,7 @@
     {
       "id": 312,
       "nombre": "Bestia",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 209,
@@ -3484,7 +3484,7 @@
     {
       "id": 972,
       "nombre": "8-MAYA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 953,
@@ -5059,7 +5059,7 @@
     {
       "id": 254,
       "nombre": "Chacalo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1235,
@@ -6369,7 +6369,7 @@
     {
       "id": 1334,
       "nombre": "4G-PALMON-EVO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1375,
@@ -6439,7 +6439,7 @@
     {
       "id": 1350,
       "nombre": "6E-MEGAKABUTERIMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1104,
@@ -6594,6 +6594,11 @@
     {
       "id": 1220,
       "nombre": "FOX",
+      "cantidad": 1
+    },
+    {
+      "id": 1394,
+      "nombre": "9-PIXIMON",
       "cantidad": 1
     }
   ]
