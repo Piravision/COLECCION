@@ -304,7 +304,7 @@
         {
             "id": 149,
             "nombre": "Modo",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 406,
@@ -2834,7 +2834,7 @@
         {
             "id": 1069,
             "nombre": "TIGRA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1094,
@@ -3919,7 +3919,7 @@
         {
             "id": 575,
             "nombre": "A.GALVAN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 506,
@@ -4169,7 +4169,7 @@
         {
             "id": 1138,
             "nombre": "LUCKY-LUKE",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 756,
@@ -4894,6 +4894,11 @@
         {
             "id": 1194,
             "nombre": "COBRA",
+            "cantidad": 1
+        },
+        {
+            "id": 586,
+            "nombre": "ED-WARNER",
             "cantidad": 1
         }
     ]
