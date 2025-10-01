@@ -279,7 +279,7 @@
     {
       "id": 208,
       "nombre": "Tentakill",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 212,
@@ -1734,7 +1734,7 @@
     {
       "id": 708,
       "nombre": "DB-096",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 366,
@@ -2119,7 +2119,7 @@
     {
       "id": 120,
       "nombre": "Principe Adam",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 316,
@@ -4849,7 +4849,7 @@
     {
       "id": 809,
       "nombre": "KABAL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1365,
@@ -4924,6 +4924,16 @@
     {
       "id": 884,
       "nombre": "IRON-FIST",
+      "cantidad": 1
+    },
+    {
+      "id": 167,
+      "nombre": "Gwen Stacy",
+      "cantidad": 1
+    },
+    {
+      "id": 1005,
+      "nombre": "RANMA-1_2",
       "cantidad": 1
     }
   ]
