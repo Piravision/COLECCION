@@ -274,7 +274,7 @@
         {
             "id": 567,
             "nombre": "JAKE-ROBERTS",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 69,
@@ -1054,7 +1054,7 @@
         {
             "id": 663,
             "nombre": "DB-051",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 536,
@@ -3649,7 +3649,7 @@
         {
             "id": 394,
             "nombre": "vsneo",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 25,
@@ -3944,7 +3944,7 @@
         {
             "id": 439,
             "nombre": "mudokons",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 857,
@@ -6784,6 +6784,11 @@
         {
             "id": 1273,
             "nombre": "KINGDOM-HEARTS",
+            "cantidad": 1
+        },
+        {
+            "id": 1069,
+            "nombre": "TIGRA",
             "cantidad": 1
         }
     ]
