@@ -34,7 +34,7 @@
         {
             "id": 488,
             "nombre": "metalhead",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 35,
@@ -374,7 +374,7 @@
         {
             "id": 293,
             "nombre": "Hot Rod",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 532,
@@ -554,7 +554,7 @@
         {
             "id": 424,
             "nombre": "meryl3",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 117,
@@ -579,7 +579,7 @@
         {
             "id": 7,
             "nombre": "El Patriarca",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 344,
@@ -979,7 +979,7 @@
         {
             "id": 681,
             "nombre": "DB-069",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 809,
@@ -1819,7 +1819,7 @@
         {
             "id": 740,
             "nombre": "Athenea2",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 730,
@@ -2089,7 +2089,7 @@
         {
             "id": 327,
             "nombre": "Dientes de Sable",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 833,
@@ -3709,7 +3709,7 @@
         {
             "id": 900,
             "nombre": "THOR",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 788,
@@ -4034,7 +4034,7 @@
         {
             "id": 252,
             "nombre": "Alluro",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1148,
@@ -4049,7 +4049,7 @@
         {
             "id": 997,
             "nombre": "IKKI-&-METABEE",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1128,
@@ -4079,7 +4079,7 @@
         {
             "id": 710,
             "nombre": "DB-098",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1182,
@@ -4309,7 +4309,7 @@
         {
             "id": 311,
             "nombre": "Arcangel",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 298,
@@ -4414,7 +4414,7 @@
         {
             "id": 512,
             "nombre": "Dimensión-X",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1101,
@@ -4704,7 +4704,7 @@
         {
             "id": 799,
             "nombre": "POISON-IVY",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 65,
@@ -4929,7 +4929,7 @@
         {
             "id": 1267,
             "nombre": "DARKSTALKERS",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1215,
@@ -5564,7 +5564,7 @@
         {
             "id": 1082,
             "nombre": "X- PSYLOCKE",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 992,
@@ -5604,7 +5604,7 @@
         {
             "id": 1160,
             "nombre": "GOLDENAGE- GREEN LANTERN",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 822,
@@ -6219,7 +6219,7 @@
         {
             "id": 1371,
             "nombre": "8H-FA-KARI",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1383,
@@ -6289,7 +6289,7 @@
         {
             "id": 1315,
             "nombre": "2F-VIKEMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1358,
@@ -6719,6 +6719,11 @@
         {
             "id": 1047,
             "nombre": "I- BLACK-BOLT-2",
+            "cantidad": 1
+        },
+        {
+            "id": 1327,
+            "nombre": "3I-MAT-FOIL",
             "cantidad": 1
         }
     ]
