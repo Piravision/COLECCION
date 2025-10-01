@@ -1069,7 +1069,7 @@
         {
             "id": 345,
             "nombre": "alundra",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 568,
@@ -4884,6 +4884,11 @@
         {
             "id": 1004,
             "nombre": "R.KENSHIN",
+            "cantidad": 1
+        },
+        {
+            "id": 1125,
+            "nombre": "GON",
             "cantidad": 1
         }
     ]
