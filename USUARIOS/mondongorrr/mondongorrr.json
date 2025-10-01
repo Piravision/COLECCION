@@ -719,7 +719,7 @@
         {
             "id": 223,
             "nombre": "G.I. JOE Headquarters",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 640,
@@ -1239,7 +1239,7 @@
         {
             "id": 168,
             "nombre": "Hobgoblin",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 878,
@@ -2644,7 +2644,7 @@
         {
             "id": 967,
             "nombre": "4-TICO",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 954,
@@ -3404,7 +3404,7 @@
         {
             "id": 896,
             "nombre": "SHE-HULK",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 300,
@@ -3434,7 +3434,7 @@
         {
             "id": 609,
             "nombre": "STEFAN-LEVI",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 161,
@@ -6269,7 +6269,7 @@
         {
             "id": 1319,
             "nombre": "3A-MATT",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1370,
@@ -6359,7 +6359,7 @@
         {
             "id": 286,
             "nombre": "Shredder",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1340,
@@ -6714,6 +6714,11 @@
         {
             "id": 1379,
             "nombre": "9-DEVYMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1047,
+            "nombre": "I- BLACK-BOLT-2",
             "cantidad": 1
         }
     ]
