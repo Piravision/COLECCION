@@ -1124,7 +1124,7 @@
         {
             "id": 17,
             "nombre": "Guerrero Serpiente",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 503,
@@ -4929,6 +4929,11 @@
         {
             "id": 394,
             "nombre": "vsneo",
+            "cantidad": 1
+        },
+        {
+            "id": 16,
+            "nombre": "Dregs",
             "cantidad": 1
         }
     ]
