@@ -544,7 +544,7 @@
         {
             "id": 537,
             "nombre": "BOLO-YEUNG",
-            "cantidad": 9
+            "cantidad": 8
         },
         {
             "id": 558,
@@ -1569,7 +1569,7 @@
         {
             "id": 322,
             "nombre": "Rondador Nocturno",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 662,
@@ -3209,7 +3209,7 @@
         {
             "id": 874,
             "nombre": "CAPTAIN-AMERICA",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 268,
@@ -6584,7 +6584,7 @@
         {
             "id": 1335,
             "nombre": "4H-FA-MIMI",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1078,
@@ -6949,6 +6949,11 @@
         {
             "id": 1385,
             "nombre": "9-MERAMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1205,
+            "nombre": "3-TAILS",
             "cantidad": 1
         }
     ]

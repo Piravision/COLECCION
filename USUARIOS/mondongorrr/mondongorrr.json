@@ -129,7 +129,7 @@
         {
             "id": 329,
             "nombre": "Lady Deadstrike",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 209,
@@ -384,7 +384,7 @@
         {
             "id": 301,
             "nombre": "Astrotrain",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 576,
@@ -609,7 +609,7 @@
         {
             "id": 669,
             "nombre": "DB-057",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 750,
@@ -799,7 +799,7 @@
         {
             "id": 358,
             "nombre": "jenny",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 28,
@@ -1049,7 +1049,7 @@
         {
             "id": 386,
             "nombre": "CROMO PERSONAJE",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 663,
@@ -1124,7 +1124,7 @@
         {
             "id": 629,
             "nombre": "DB-017",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 544,
@@ -1284,7 +1284,7 @@
         {
             "id": 259,
             "nombre": "Ojo Rojo",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 240,
@@ -1729,7 +1729,7 @@
         {
             "id": 895,
             "nombre": "ROCKET-RACOON",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 111,
@@ -1979,12 +1979,12 @@
         {
             "id": 537,
             "nombre": "BOLO-YEUNG",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 528,
             "nombre": "Fénix-Oscura",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 474,
@@ -1999,7 +1999,7 @@
         {
             "id": 197,
             "nombre": "Rox",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 504,
@@ -2239,7 +2239,7 @@
         {
             "id": 886,
             "nombre": "KARNAK",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 372,
@@ -2639,7 +2639,7 @@
         {
             "id": 759,
             "nombre": "Shion",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 967,
@@ -2779,7 +2779,7 @@
         {
             "id": 433,
             "nombre": "vincent",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 126,
@@ -3064,7 +3064,7 @@
         {
             "id": 239,
             "nombre": "Stridor",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 976,
@@ -3679,7 +3679,7 @@
         {
             "id": 55,
             "nombre": "mina",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 56,
@@ -3704,7 +3704,7 @@
         {
             "id": 62,
             "nombre": "derolin",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 900,
@@ -4054,7 +4054,7 @@
         {
             "id": 1128,
             "nombre": "VASH-ESTAMPIDA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1062,
@@ -4159,7 +4159,7 @@
         {
             "id": 213,
             "nombre": "Blackbird",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 982,
@@ -4794,7 +4794,7 @@
         {
             "id": 1139,
             "nombre": "MARSUPILAMI",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 1246,
@@ -4819,7 +4819,7 @@
         {
             "id": 89,
             "nombre": "Angela",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 74,
@@ -4899,7 +4899,7 @@
         {
             "id": 199,
             "nombre": "Streex",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 274,
@@ -5214,7 +5214,7 @@
         {
             "id": 129,
             "nombre": "Hordak",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1051,
@@ -5274,7 +5274,7 @@
         {
             "id": 919,
             "nombre": "DONOVAN",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1278,
@@ -6264,7 +6264,7 @@
         {
             "id": 1369,
             "nombre": "8F-MAGNADRAMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1319,
@@ -6299,7 +6299,7 @@
         {
             "id": 1333,
             "nombre": "4F-ROSEMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1364,
@@ -6364,7 +6364,7 @@
         {
             "id": 1340,
             "nombre": "5D-BIRDRAMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1035,
@@ -6759,7 +6759,7 @@
         {
             "id": 1205,
             "nombre": "3-TAILS",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1301,
@@ -6769,6 +6769,11 @@
         {
             "id": 1169,
             "nombre": "RED TORNADO",
+            "cantidad": 1
+        },
+        {
+            "id": 1256,
+            "nombre": "VIGILANTES-DE-LA-PLAYA",
             "cantidad": 1
         }
     ]
