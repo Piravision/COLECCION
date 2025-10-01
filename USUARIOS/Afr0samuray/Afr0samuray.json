@@ -369,7 +369,7 @@
     {
       "id": 340,
       "nombre": "Poseidón",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 306,
@@ -684,7 +684,7 @@
     {
       "id": 59,
       "nombre": "balios",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 78,
@@ -954,7 +954,7 @@
     {
       "id": 363,
       "nombre": "Chuache-DesafioTotal",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 172,
@@ -1714,12 +1714,12 @@
     {
       "id": 545,
       "nombre": "IVAN-DRAGO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 403,
       "nombre": "red",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 462,
@@ -2139,7 +2139,7 @@
     {
       "id": 832,
       "nombre": "BLANKA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 658,
@@ -2454,12 +2454,12 @@
     {
       "id": 501,
       "nombre": "SOLON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 874,
       "nombre": "CAPTAIN-AMERICA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 623,
@@ -2569,7 +2569,7 @@
     {
       "id": 14,
       "nombre": "Snagg",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 898,
@@ -2594,7 +2594,7 @@
     {
       "id": 989,
       "nombre": "CAPITAN-HARLOCK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 993,
@@ -2879,6 +2879,46 @@
     {
       "id": 1347,
       "nombre": "6B-MOCHIMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1340,
+      "nombre": "5D-BIRDRAMON",
+      "cantidad": 1
+    },
+    {
+      "id": 603,
+      "nombre": "PHILLIP-CALLAHAN",
+      "cantidad": 1
+    },
+    {
+      "id": 607,
+      "nombre": "SANDY-WINTERS",
+      "cantidad": 1
+    },
+    {
+      "id": 660,
+      "nombre": "DB-048",
+      "cantidad": 1
+    },
+    {
+      "id": 213,
+      "nombre": "Blackbird",
+      "cantidad": 1
+    },
+    {
+      "id": 1255,
+      "nombre": "STARGATE-SG-1",
+      "cantidad": 1
+    },
+    {
+      "id": 650,
+      "nombre": "DB-038",
+      "cantidad": 1
+    },
+    {
+      "id": 1239,
+      "nombre": "2-STEVE-URKEL",
       "cantidad": 1
     }
   ]
