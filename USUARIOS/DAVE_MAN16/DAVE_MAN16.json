@@ -14,7 +14,7 @@
     {
       "id": 8,
       "nombre": "Hades",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 260,
@@ -129,7 +129,7 @@
     {
       "id": 179,
       "nombre": "Duende Verde",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 257,
@@ -139,7 +139,7 @@
     {
       "id": 304,
       "nombre": "Runabout",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 13,
@@ -184,7 +184,7 @@
     {
       "id": 31,
       "nombre": "Tiamat",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 343,
@@ -654,7 +654,7 @@
     {
       "id": 435,
       "nombre": "vulkan2",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 549,
@@ -834,7 +834,7 @@
     {
       "id": 255,
       "nombre": "Ma Mutt",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 512,
@@ -1364,7 +1364,7 @@
     {
       "id": 55,
       "nombre": "mina",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 933,
@@ -1374,7 +1374,7 @@
     {
       "id": 463,
       "nombre": "shoma",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 690,
@@ -1789,7 +1789,7 @@
     {
       "id": 462,
       "nombre": "sakura",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 532,
@@ -1824,7 +1824,7 @@
     {
       "id": 699,
       "nombre": "DB-087",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 531,
@@ -1904,7 +1904,7 @@
     {
       "id": 24,
       "nombre": "Bobby",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 723,
@@ -2924,7 +2924,7 @@
     {
       "id": 186,
       "nombre": "Mysterio",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 357,
@@ -3004,12 +3004,12 @@
     {
       "id": 485,
       "nombre": "Dr_Shemp",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1246,
       "nombre": "LA-NINERA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 894,
@@ -3264,7 +3264,7 @@
     {
       "id": 808,
       "nombre": "JOHNNY-CAGE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1066,
@@ -3384,7 +3384,7 @@
     {
       "id": 189,
       "nombre": "Shocker",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1318,
@@ -3394,7 +3394,7 @@
     {
       "id": 166,
       "nombre": "Estrella de Fuego",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1141,
@@ -3449,6 +3449,71 @@
     {
       "id": 1130,
       "nombre": "MARS-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 596,
+      "nombre": "K.HEINZ-SCHENEIDER",
+      "cantidad": 1
+    },
+    {
+      "id": 1184,
+      "nombre": "TEEN-WOLF",
+      "cantidad": 1
+    },
+    {
+      "id": 458,
+      "nombre": "hinata",
+      "cantidad": 1
+    },
+    {
+      "id": 1298,
+      "nombre": "FA-ALTERED BEAST",
+      "cantidad": 1
+    },
+    {
+      "id": 1145,
+      "nombre": "TIMON-&-PUMBA",
+      "cantidad": 1
+    },
+    {
+      "id": 26,
+      "nombre": "Eric",
+      "cantidad": 1
+    },
+    {
+      "id": 580,
+      "nombre": "BRUCE-HARPER",
+      "cantidad": 1
+    },
+    {
+      "id": 704,
+      "nombre": "DB-092",
+      "cantidad": 1
+    },
+    {
+      "id": 1168,
+      "nombre": "LEX LUTOR",
+      "cantidad": 1
+    },
+    {
+      "id": 475,
+      "nombre": "Incubus",
+      "cantidad": 1
+    },
+    {
+      "id": 271,
+      "nombre": "Neutrinos",
+      "cantidad": 1
+    },
+    {
+      "id": 576,
+      "nombre": "ALAN-CROCKET",
+      "cantidad": 1
+    },
+    {
+      "id": 651,
+      "nombre": "DB-039",
       "cantidad": 1
     }
   ]

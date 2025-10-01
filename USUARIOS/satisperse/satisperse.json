@@ -754,7 +754,7 @@
     {
       "id": 640,
       "nombre": "DB-028",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 415,
@@ -1694,7 +1694,7 @@
     {
       "id": 1234,
       "nombre": "GHOSTS-GOBLINS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 649,
@@ -1819,6 +1819,26 @@
     {
       "id": 1110,
       "nombre": "G-ZOLTAR",
+      "cantidad": 1
+    },
+    {
+      "id": 796,
+      "nombre": "MAN-BAT",
+      "cantidad": 1
+    },
+    {
+      "id": 978,
+      "nombre": "13-GARFIELD",
+      "cantidad": 1
+    },
+    {
+      "id": 1114,
+      "nombre": "OSOS-GUMMI",
+      "cantidad": 1
+    },
+    {
+      "id": 330,
+      "nombre": "Magneto",
       "cantidad": 1
     }
   ]

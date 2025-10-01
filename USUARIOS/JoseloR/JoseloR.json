@@ -324,7 +324,7 @@
     {
       "id": 26,
       "nombre": "Eric",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 750,
@@ -344,7 +344,7 @@
     {
       "id": 33,
       "nombre": "Apollo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 990,
@@ -754,7 +754,7 @@
     {
       "id": 732,
       "nombre": "DB-120",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 28,
@@ -1389,6 +1389,21 @@
     {
       "id": 978,
       "nombre": "13-GARFIELD",
+      "cantidad": 1
+    },
+    {
+      "id": 1337,
+      "nombre": "5A-SORA",
+      "cantidad": 1
+    },
+    {
+      "id": 1205,
+      "nombre": "3-TAILS",
+      "cantidad": 1
+    },
+    {
+      "id": 1167,
+      "nombre": "JOKER",
       "cantidad": 1
     }
   ]

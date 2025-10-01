@@ -304,7 +304,7 @@
     {
       "id": 157,
       "nombre": "Bluegrass",
-      "cantidad": 2
+      "cantidad": 4
     },
     {
       "id": 159,
@@ -349,7 +349,7 @@
     {
       "id": 113,
       "nombre": "Serpentor",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 111,
@@ -404,7 +404,7 @@
     {
       "id": 158,
       "nombre": "Copper Kid",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 802,
@@ -609,7 +609,7 @@
     {
       "id": 822,
       "nombre": "SHAO-KAHN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 118,
@@ -840,6 +840,31 @@
       "id": 784,
       "nombre": "BULLOCK",
       "cantidad": 1
+    },
+    {
+      "id": 108,
+      "nombre": "Baronesa",
+      "cantidad": 1
+    },
+    {
+      "id": 109,
+      "nombre": "Cobra Commander",
+      "cantidad": 1
+    },
+    {
+      "id": 813,
+      "nombre": "LIU-KANG",
+      "cantidad": 1
+    },
+    {
+      "id": 828,
+      "nombre": "SUB-ZERO",
+      "cantidad": 1
+    },
+    {
+      "id": 162,
+      "nombre": "Mon Star",
+      "cantidad": 2
     }
   ]
 }
