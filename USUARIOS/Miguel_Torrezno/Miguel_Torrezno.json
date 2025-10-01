@@ -2164,7 +2164,7 @@
         {
             "id": 1014,
             "nombre": "YUGI",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1000,
@@ -4879,6 +4879,11 @@
         {
             "id": 998,
             "nombre": "INUYASHA",
+            "cantidad": 1
+        },
+        {
+            "id": 1004,
+            "nombre": "R.KENSHIN",
             "cantidad": 1
         }
     ]
