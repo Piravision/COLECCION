@@ -324,7 +324,7 @@
         {
             "id": 758,
             "nombre": "Shaka-de-Virgo",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 678,
@@ -429,7 +429,7 @@
         {
             "id": 22,
             "nombre": "Wrath Amon",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 127,
@@ -934,7 +934,7 @@
         {
             "id": 304,
             "nombre": "Runabout",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 784,
@@ -1049,7 +1049,7 @@
         {
             "id": 386,
             "nombre": "CROMO PERSONAJE",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 663,
@@ -1104,7 +1104,7 @@
         {
             "id": 125,
             "nombre": "Teela",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 280,
@@ -1169,7 +1169,7 @@
         {
             "id": 407,
             "nombre": "yuffie",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 453,
@@ -2099,7 +2099,7 @@
         {
             "id": 779,
             "nombre": "BANE",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 746,
@@ -2429,7 +2429,7 @@
         {
             "id": 154,
             "nombre": "Grease Pit",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 247,
@@ -2879,7 +2879,7 @@
         {
             "id": 933,
             "nombre": "REY-MISTERIO",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 158,
@@ -3449,7 +3449,7 @@
         {
             "id": 384,
             "nombre": "aku aku",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 46,
@@ -3919,7 +3919,7 @@
         {
             "id": 72,
             "nombre": "hynkel malo",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 73,
@@ -4379,7 +4379,7 @@
         {
             "id": 1216,
             "nombre": "5-NINJA-GAIDEN",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1176,
@@ -5489,7 +5489,7 @@
         {
             "id": 1283,
             "nombre": "TAKUMI-FUJIWARA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1007,
@@ -5724,7 +5724,7 @@
         {
             "id": 953,
             "nombre": "12-MARCO-&-AMELIO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1185,
@@ -5839,7 +5839,7 @@
         {
             "id": 1037,
             "nombre": "CAPITAN-AMERICA-2",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 514,
@@ -6259,7 +6259,7 @@
         {
             "id": 1365,
             "nombre": "8B-NYAROMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1369,
@@ -6284,7 +6284,7 @@
         {
             "id": 1323,
             "nombre": "3E-WEREGARURUMON",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1315,
@@ -6819,6 +6819,21 @@
         {
             "id": 1381,
             "nombre": "9-GOTTSUMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1282,
+            "nombre": "ROBOTECH",
+            "cantidad": 1
+        },
+        {
+            "id": 1313,
+            "nombre": "2D-IKKAKUMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1349,
+            "nombre": "6D-KABUTERIMON",
             "cantidad": 1
         }
     ]
