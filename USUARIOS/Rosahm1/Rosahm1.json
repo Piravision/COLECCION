@@ -564,7 +564,7 @@
     {
       "id": 240,
       "nombre": "Terror Drome",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 425,
@@ -1004,7 +1004,7 @@
     {
       "id": 109,
       "nombre": "Cobra Commander",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 256,
@@ -1974,7 +1974,7 @@
     {
       "id": 591,
       "nombre": "JAMES-DERRICK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 487,
@@ -4674,7 +4674,7 @@
     {
       "id": 1187,
       "nombre": "CRIPTA-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1167,
@@ -5029,7 +5029,7 @@
     {
       "id": 845,
       "nombre": "KEN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 319,
@@ -6199,7 +6199,7 @@
     {
       "id": 1301,
       "nombre": "1A-TAI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1325,
@@ -6619,6 +6619,31 @@
     {
       "id": 1080,
       "nombre": "X -STORM",
+      "cantidad": 1
+    },
+    {
+      "id": 1347,
+      "nombre": "6B-MOCHIMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1219,
+      "nombre": "EARTHWORM-JIM",
+      "cantidad": 1
+    },
+    {
+      "id": 1045,
+      "nombre": "HAWKEYE-2",
+      "cantidad": 1
+    },
+    {
+      "id": 1247,
+      "nombre": "LUZ-DE-LUNA",
+      "cantidad": 1
+    },
+    {
+      "id": 1310,
+      "nombre": "2A-JOE",
       "cantidad": 1
     }
   ]

@@ -1689,7 +1689,7 @@
     {
       "id": 228,
       "nombre": "Isla Dermline",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 111,
@@ -1809,7 +1809,7 @@
     {
       "id": 1051,
       "nombre": "JACK-HEARTS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 450,
@@ -1839,7 +1839,7 @@
     {
       "id": 602,
       "nombre": "PAUL-DIAMOND",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1185,
@@ -3304,7 +3304,7 @@
     {
       "id": 1056,
       "nombre": "NOVA-2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 904,
@@ -3439,7 +3439,7 @@
     {
       "id": 555,
       "nombre": "INDIANA-JONES-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1197,
@@ -5024,6 +5024,11 @@
     {
       "id": 1246,
       "nombre": "LA-NINERA",
+      "cantidad": 1
+    },
+    {
+      "id": 300,
+      "nombre": "Wheeljack",
       "cantidad": 1
     }
   ]
