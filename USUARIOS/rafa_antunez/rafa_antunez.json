@@ -939,7 +939,7 @@
     {
       "id": 210,
       "nombre": "AEROWING",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 713,
@@ -1539,7 +1539,7 @@
     {
       "id": 1194,
       "nombre": "COBRA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 32,
@@ -1679,7 +1679,7 @@
     {
       "id": 16,
       "nombre": "Dregs",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1147,
@@ -2029,7 +2029,7 @@
     {
       "id": 392,
       "nombre": "roover",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 293,
@@ -2094,7 +2094,7 @@
     {
       "id": 1339,
       "nombre": "5C-PIYOMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1334,
@@ -2159,7 +2159,7 @@
     {
       "id": 117,
       "nombre": "He man",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1321,
@@ -2174,6 +2174,21 @@
     {
       "id": 1283,
       "nombre": "TAKUMI-FUJIWARA",
+      "cantidad": 1
+    },
+    {
+      "id": 227,
+      "nombre": "Hawks Haven",
+      "cantidad": 1
+    },
+    {
+      "id": 878,
+      "nombre": "FALCON",
+      "cantidad": 1
+    },
+    {
+      "id": 207,
+      "nombre": "Slobster",
       "cantidad": 1
     }
   ]

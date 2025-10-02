@@ -254,7 +254,7 @@
     {
       "id": 6,
       "nombre": "El Patriarca",
-      "cantidad": 4
+      "cantidad": 6
     },
     {
       "id": 496,
@@ -384,7 +384,7 @@
     {
       "id": 526,
       "nombre": "Júbilo",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 33,
@@ -589,7 +589,7 @@
     {
       "id": 335,
       "nombre": "Toad",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 386,
@@ -859,7 +859,7 @@
     {
       "id": 469,
       "nombre": "Dahlia Gillespie",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 388,
@@ -1239,7 +1239,7 @@
     {
       "id": 817,
       "nombre": "RAIDEN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 471,
@@ -1864,7 +1864,7 @@
     {
       "id": 323,
       "nombre": "Tormenta",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 813,
@@ -2649,7 +2649,7 @@
     {
       "id": 1160,
       "nombre": "GOLDENAGE- GREEN LANTERN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1069,
@@ -2824,12 +2824,12 @@
     {
       "id": 705,
       "nombre": "DB-093",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 466,
       "nombre": "Alessa",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 467,
@@ -2899,7 +2899,7 @@
     {
       "id": 696,
       "nombre": "DB-084",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1169,
@@ -3039,7 +3039,7 @@
     {
       "id": 268,
       "nombre": "Michelangelo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 269,
@@ -3074,7 +3074,7 @@
     {
       "id": 1159,
       "nombre": "GOLDENAGE- FLASH",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1039,
@@ -3219,7 +3219,7 @@
     {
       "id": 476,
       "nombre": "Kaufman",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 473,
@@ -3534,6 +3534,26 @@
     {
       "id": 410,
       "nombre": "Barón-Ashura",
+      "cantidad": 1
+    },
+    {
+      "id": 710,
+      "nombre": "DB-098",
+      "cantidad": 1
+    },
+    {
+      "id": 1142,
+      "nombre": "PEPPER-ANN",
+      "cantidad": 1
+    },
+    {
+      "id": 459,
+      "nombre": "Kyosuke",
+      "cantidad": 1
+    },
+    {
+      "id": 967,
+      "nombre": "4-TICO",
       "cantidad": 1
     }
   ]

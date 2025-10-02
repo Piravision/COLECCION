@@ -724,7 +724,7 @@
     {
       "id": 146,
       "nombre": "Siege",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 617,
@@ -789,7 +789,7 @@
     {
       "id": 353,
       "nombre": "zorgia",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 352,
@@ -799,7 +799,7 @@
     {
       "id": 350,
       "nombre": "Murgg",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 347,
@@ -879,6 +879,36 @@
     {
       "id": 847,
       "nombre": "RYU",
+      "cantidad": 1
+    },
+    {
+      "id": 303,
+      "nombre": "Megatron",
+      "cantidad": 1
+    },
+    {
+      "id": 299,
+      "nombre": "Sunstreaker",
+      "cantidad": 1
+    },
+    {
+      "id": 297,
+      "nombre": "Optimus Prime",
+      "cantidad": 1
+    },
+    {
+      "id": 348,
+      "nombre": "Meia",
+      "cantidad": 1
+    },
+    {
+      "id": 140,
+      "nombre": "Mallory McMallard",
+      "cantidad": 1
+    },
+    {
+      "id": 139,
+      "nombre": "Duke L'Orange",
       "cantidad": 1
     }
   ]

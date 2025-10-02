@@ -444,7 +444,7 @@
     {
       "id": 857,
       "nombre": "DOC-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 939,
@@ -589,7 +589,7 @@
     {
       "id": 535,
       "nombre": "Venkman-Jail",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 602,
@@ -769,7 +769,7 @@
     {
       "id": 269,
       "nombre": "Mona Lisa",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 164,
@@ -814,7 +814,7 @@
     {
       "id": 830,
       "nombre": "BALROG",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 38,
@@ -1079,7 +1079,7 @@
     {
       "id": 913,
       "nombre": "SUPERGIRL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 76,
@@ -1234,7 +1234,7 @@
     {
       "id": 792,
       "nombre": "HARLEY-QUEEN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1391,
@@ -1404,6 +1404,126 @@
     {
       "id": 1167,
       "nombre": "JOKER",
+      "cantidad": 1
+    },
+    {
+      "id": 1333,
+      "nombre": "4F-ROSEMON",
+      "cantidad": 1
+    },
+    {
+      "id": 797,
+      "nombre": "MR-FREEZE",
+      "cantidad": 1
+    },
+    {
+      "id": 437,
+      "nombre": "ellum",
+      "cantidad": 1
+    },
+    {
+      "id": 657,
+      "nombre": "DB-045",
+      "cantidad": 1
+    },
+    {
+      "id": 1030,
+      "nombre": "BRUJA Y VISION",
+      "cantidad": 1
+    },
+    {
+      "id": 292,
+      "nombre": "Bumblebee",
+      "cantidad": 1
+    },
+    {
+      "id": 555,
+      "nombre": "INDIANA-JONES-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 887,
+      "nombre": "LOCKJAW",
+      "cantidad": 1
+    },
+    {
+      "id": 1199,
+      "nombre": "1Z-WARIO",
+      "cantidad": 1
+    },
+    {
+      "id": 1226,
+      "nombre": "TERRY-BOGARD",
+      "cantidad": 1
+    },
+    {
+      "id": 828,
+      "nombre": "SUB-ZERO",
+      "cantidad": 1
+    },
+    {
+      "id": 99,
+      "nombre": "Demona",
+      "cantidad": 1
+    },
+    {
+      "id": 718,
+      "nombre": "DB-106",
+      "cantidad": 1
+    },
+    {
+      "id": 996,
+      "nombre": "I.KUROSAKI",
+      "cantidad": 1
+    },
+    {
+      "id": 898,
+      "nombre": "1-VALKYRIE",
+      "cantidad": 1
+    },
+    {
+      "id": 686,
+      "nombre": "DB-074",
+      "cantidad": 1
+    },
+    {
+      "id": 7,
+      "nombre": "El Patriarca",
+      "cantidad": 1
+    },
+    {
+      "id": 17,
+      "nombre": "Guerrero Serpiente",
+      "cantidad": 1
+    },
+    {
+      "id": 328,
+      "nombre": "Juggernaut",
+      "cantidad": 1
+    },
+    {
+      "id": 1375,
+      "nombre": "9-BAKEMON",
+      "cantidad": 1
+    },
+    {
+      "id": 906,
+      "nombre": "DR-FATE",
+      "cantidad": 1
+    },
+    {
+      "id": 1377,
+      "nombre": "9-CHERRYMON",
+      "cantidad": 1
+    },
+    {
+      "id": 345,
+      "nombre": "alundra",
+      "cantidad": 1
+    },
+    {
+      "id": 826,
+      "nombre": "SONYA-BLADE",
       "cantidad": 1
     }
   ]

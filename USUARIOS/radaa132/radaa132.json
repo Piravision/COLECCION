@@ -59,7 +59,7 @@
     {
       "id": 546,
       "nombre": "MARTY-MCFLY",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 472,
@@ -174,7 +174,7 @@
     {
       "id": 52,
       "nombre": "marin",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 76,
@@ -1109,7 +1109,7 @@
     {
       "id": 629,
       "nombre": "DB-017",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 871,
@@ -1519,7 +1519,7 @@
     {
       "id": 512,
       "nombre": "Dimensión-X",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 619,
@@ -2849,7 +2849,7 @@
     {
       "id": 1198,
       "nombre": "1Z-BOWSER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 366,
@@ -3459,7 +3459,7 @@
     {
       "id": 564,
       "nombre": "SLIMER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 558,
@@ -3509,7 +3509,7 @@
     {
       "id": 890,
       "nombre": "MEDUSA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 947,
@@ -3824,7 +3824,7 @@
     {
       "id": 984,
       "nombre": "14-BABY-SINCLAIR",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1205,
@@ -3964,7 +3964,7 @@
     {
       "id": 363,
       "nombre": "Chuache-DesafioTotal",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 929,
@@ -4474,6 +4474,21 @@
     {
       "id": 449,
       "nombre": "leon2",
+      "cantidad": 1
+    },
+    {
+      "id": 933,
+      "nombre": "REY-MISTERIO",
+      "cantidad": 1
+    },
+    {
+      "id": 1232,
+      "nombre": "TINTIN-&-MILU",
+      "cantidad": 1
+    },
+    {
+      "id": 1164,
+      "nombre": "GREEN LANTERN",
       "cantidad": 1
     }
   ]
