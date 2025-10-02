@@ -479,7 +479,7 @@
     {
       "id": 543,
       "nombre": "DIE-HARD-III",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 923,
@@ -554,7 +554,7 @@
     {
       "id": 256,
       "nombre": "Mandrilo",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 145,
@@ -704,7 +704,7 @@
     {
       "id": 1117,
       "nombre": "PF-PITUFINA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 340,
@@ -744,7 +744,7 @@
     {
       "id": 254,
       "nombre": "Chacalo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 495,
@@ -1014,7 +1014,7 @@
     {
       "id": 8,
       "nombre": "Hades",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 210,
@@ -2844,7 +2844,7 @@
     {
       "id": 508,
       "nombre": "law",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1104,
@@ -2899,7 +2899,7 @@
     {
       "id": 1013,
       "nombre": "YAIBA-KUROGAME",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 996,
@@ -3624,7 +3624,7 @@
     {
       "id": 976,
       "nombre": "7-SABIONDO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 86,
@@ -4074,7 +4074,7 @@
     {
       "id": 1346,
       "nombre": "6A-IZZY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1307,
@@ -4249,7 +4249,7 @@
     {
       "id": 392,
       "nombre": "roover",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 24,
@@ -4829,7 +4829,7 @@
     {
       "id": 414,
       "nombre": "campb2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 943,
@@ -4954,6 +4954,26 @@
     {
       "id": 143,
       "nombre": "Wildwing Flashblade",
+      "cantidad": 1
+    },
+    {
+      "id": 34,
+      "nombre": "Avan",
+      "cantidad": 1
+    },
+    {
+      "id": 1380,
+      "nombre": "9-ETERMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1244,
+      "nombre": "HERCULES",
+      "cantidad": 1
+    },
+    {
+      "id": 484,
+      "nombre": "Blowhard",
       "cantidad": 1
     }
   ]

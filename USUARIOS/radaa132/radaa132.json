@@ -459,7 +459,7 @@
     {
       "id": 40,
       "nombre": "chiu",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 679,
@@ -1309,7 +1309,7 @@
     {
       "id": 294,
       "nombre": "Hound",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 736,
@@ -2424,7 +2424,7 @@
     {
       "id": 15,
       "nombre": "Zula",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 514,
@@ -4324,7 +4324,7 @@
     {
       "id": 1307,
       "nombre": "1G-AGUMON-EVO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1118,
@@ -4489,6 +4489,16 @@
     {
       "id": 1164,
       "nombre": "GREEN LANTERN",
+      "cantidad": 1
+    },
+    {
+      "id": 879,
+      "nombre": "GHOST-RIDER",
+      "cantidad": 1
+    },
+    {
+      "id": 266,
+      "nombre": "Leonardo",
       "cantidad": 1
     }
   ]
