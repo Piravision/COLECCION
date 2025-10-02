@@ -114,7 +114,7 @@
         {
             "id": 448,
             "nombre": "leon1",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 589,
@@ -559,7 +559,7 @@
         {
             "id": 117,
             "nombre": "He man",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 538,
@@ -1054,7 +1054,7 @@
         {
             "id": 663,
             "nombre": "DB-051",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 536,
@@ -1414,7 +1414,7 @@
         {
             "id": 778,
             "nombre": "ALFRED",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 798,
@@ -2099,7 +2099,7 @@
         {
             "id": 779,
             "nombre": "BANE",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 746,
@@ -2284,7 +2284,7 @@
         {
             "id": 734,
             "nombre": "Afrodita-de-Piscis",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 575,
@@ -2409,7 +2409,7 @@
         {
             "id": 743,
             "nombre": "Dark-Afrodita-de-Piscis",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 348,
@@ -2709,7 +2709,7 @@
         {
             "id": 555,
             "nombre": "INDIANA-JONES-JAIL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1012,
@@ -2829,7 +2829,7 @@
         {
             "id": 249,
             "nombre": "Pomara",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 931,
@@ -3054,7 +3054,7 @@
         {
             "id": 173,
             "nombre": "Punisher",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 1078,
@@ -3189,7 +3189,7 @@
         {
             "id": 1036,
             "nombre": "CAPITAN MARVEL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 996,
@@ -3614,7 +3614,7 @@
         {
             "id": 606,
             "nombre": "SANDY-WINTERS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 374,
@@ -4239,7 +4239,7 @@
         {
             "id": 86,
             "nombre": "Shane Gooseman",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 769,
@@ -4374,7 +4374,7 @@
         {
             "id": 1050,
             "nombre": "IRON-MAN-2",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1216,
@@ -5289,7 +5289,7 @@
         {
             "id": 1293,
             "nombre": "ALF",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 145,
@@ -6099,7 +6099,7 @@
         {
             "id": 1083,
             "nombre": "YELLOWJACKET & WASP",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 1061,
@@ -6224,7 +6224,7 @@
         {
             "id": 1383,
             "nombre": "9-LEOMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1377,
@@ -6519,7 +6519,7 @@
         {
             "id": 1385,
             "nombre": "9-MERAMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1034,
@@ -6549,7 +6549,7 @@
         {
             "id": 1378,
             "nombre": "9-DEMIDEVIMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1368,
@@ -6809,6 +6809,11 @@
         {
             "id": 1249,
             "nombre": "MATRIMONIO-CON-HIJOS",
+            "cantidad": 1
+        },
+        {
+            "id": 1320,
+            "nombre": "3B-TSUNOMON",
             "cantidad": 1
         }
     ]

@@ -884,7 +884,7 @@
     {
       "id": 326,
       "nombre": "Blob",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 482,
@@ -3164,6 +3164,16 @@
     {
       "id": 804,
       "nombre": "BARAKA",
+      "cantidad": 1
+    },
+    {
+      "id": 629,
+      "nombre": "DB-017",
+      "cantidad": 1
+    },
+    {
+      "id": 1197,
+      "nombre": "1A-MARIO",
       "cantidad": 1
     }
   ]
