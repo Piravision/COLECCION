@@ -869,7 +869,7 @@
         {
             "id": 29,
             "nombre": "Sheila",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 424,
@@ -4319,7 +4319,7 @@
         {
             "id": 28,
             "nombre": "Presto",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1359,
@@ -4334,7 +4334,7 @@
         {
             "id": 1380,
             "nombre": "9-ETERMON",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1400,
@@ -4919,7 +4919,7 @@
         {
             "id": 27,
             "nombre": "Hank",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 784,
@@ -4979,6 +4979,11 @@
         {
             "id": 408,
             "nombre": "Elisa--Gárgola",
+            "cantidad": 1
+        },
+        {
+            "id": 502,
+            "nombre": "viktor",
             "cantidad": 1
         }
     ]
