@@ -4179,7 +4179,7 @@
         {
             "id": 785,
             "nombre": "CATWOMAN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1348,
@@ -4969,6 +4969,11 @@
         {
             "id": 501,
             "nombre": "SOLON",
+            "cantidad": 1
+        },
+        {
+            "id": 621,
+            "nombre": "DB-009",
             "cantidad": 1
         }
     ]
