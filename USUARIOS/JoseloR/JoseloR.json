@@ -144,7 +144,7 @@
     {
       "id": 362,
       "nombre": "yugo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 332,
@@ -794,7 +794,7 @@
     {
       "id": 356,
       "nombre": "busuzima",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 892,
@@ -1529,6 +1529,11 @@
     {
       "id": 97,
       "nombre": "Armadura Xanatos",
+      "cantidad": 1
+    },
+    {
+      "id": 354,
+      "nombre": "alice",
       "cantidad": 1
     }
   ]
