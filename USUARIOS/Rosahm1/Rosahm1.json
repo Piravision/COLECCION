@@ -5224,7 +5224,7 @@
         {
             "id": 1122,
             "nombre": "BOBOBO-BO",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1067,
@@ -6004,7 +6004,7 @@
         {
             "id": 1370,
             "nombre": "8G-GATOMON-EVO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1331,
@@ -6054,7 +6054,7 @@
         {
             "id": 1369,
             "nombre": "8F-MAGNADRAMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1342,
@@ -6064,7 +6064,7 @@
         {
             "id": 1352,
             "nombre": "6G-TENTOMON-EVO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1362,
@@ -6319,7 +6319,7 @@
         {
             "id": 1392,
             "nombre": "9-OTAMAMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1165,
@@ -6344,7 +6344,7 @@
         {
             "id": 1315,
             "nombre": "2F-VIKEMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 835,
@@ -6614,7 +6614,7 @@
         {
             "id": 1380,
             "nombre": "9-ETERMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1080,
@@ -6624,7 +6624,7 @@
         {
             "id": 1347,
             "nombre": "6B-MOCHIMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1219,
@@ -6649,6 +6649,36 @@
         {
             "id": 1190,
             "nombre": "METEORO",
+            "cantidad": 1
+        },
+        {
+            "id": 1387,
+            "nombre": "9-MOJYAMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1322,
+            "nombre": "3D-GARURUMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1307,
+            "nombre": "1G-AGUMON-EVO",
+            "cantidad": 1
+        },
+        {
+            "id": 1349,
+            "nombre": "6D-KABUTERIMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1314,
+            "nombre": "2E-ZUDOMON",
+            "cantidad": 1
+        },
+        {
+            "id": 995,
+            "nombre": "H.SAKURAGI",
             "cantidad": 1
         }
     ]
