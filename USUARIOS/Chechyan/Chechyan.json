@@ -239,7 +239,7 @@
     {
       "id": 263,
       "nombre": "Casey Jones",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 174,
@@ -339,7 +339,7 @@
     {
       "id": 622,
       "nombre": "DB-010",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 951,
@@ -549,7 +549,7 @@
     {
       "id": 883,
       "nombre": "HULK",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 256,
@@ -1029,7 +1029,7 @@
     {
       "id": 651,
       "nombre": "DB-039",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 815,
@@ -1879,7 +1879,7 @@
     {
       "id": 684,
       "nombre": "DB-072",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 773,
@@ -2289,7 +2289,7 @@
     {
       "id": 192,
       "nombre": "Bends",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 938,
@@ -4424,7 +4424,7 @@
     {
       "id": 624,
       "nombre": "DB-012",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 652,
@@ -4884,7 +4884,7 @@
     {
       "id": 1374,
       "nombre": "9-APOCALYMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1308,
@@ -5009,7 +5009,7 @@
     {
       "id": 1360,
       "nombre": "7F-SERAPHIMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 125,
@@ -5029,6 +5029,31 @@
     {
       "id": 300,
       "nombre": "Wheeljack",
+      "cantidad": 2
+    },
+    {
+      "id": 1396,
+      "nombre": "9-PUPPETMON",
+      "cantidad": 1
+    },
+    {
+      "id": 37,
+      "nombre": "brass",
+      "cantidad": 1
+    },
+    {
+      "id": 247,
+      "nombre": "Linx O",
+      "cantidad": 1
+    },
+    {
+      "id": 149,
+      "nombre": "Modo",
+      "cantidad": 1
+    },
+    {
+      "id": 433,
+      "nombre": "vincent",
       "cantidad": 1
     }
   ]

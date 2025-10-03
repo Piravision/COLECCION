@@ -114,7 +114,7 @@
     {
       "id": 212,
       "nombre": "Asteroide M",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 404,
@@ -484,7 +484,7 @@
     {
       "id": 211,
       "nombre": "Anillo Serpiente",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 870,
@@ -499,7 +499,7 @@
     {
       "id": 1202,
       "nombre": "2Z-MEGAMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 293,
@@ -669,6 +669,66 @@
     {
       "id": 473,
       "nombre": "harry",
+      "cantidad": 1
+    },
+    {
+      "id": 190,
+      "nombre": "Vandame-Bloodsport",
+      "cantidad": 1
+    },
+    {
+      "id": 900,
+      "nombre": "THOR",
+      "cantidad": 1
+    },
+    {
+      "id": 1399,
+      "nombre": "9-WIZARDMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1149,
+      "nombre": "ATOM",
+      "cantidad": 1
+    },
+    {
+      "id": 1169,
+      "nombre": "RED TORNADO",
+      "cantidad": 1
+    },
+    {
+      "id": 1167,
+      "nombre": "JOKER",
+      "cantidad": 1
+    },
+    {
+      "id": 742,
+      "nombre": "Dark Saga",
+      "cantidad": 1
+    },
+    {
+      "id": 17,
+      "nombre": "Guerrero Serpiente",
+      "cantidad": 1
+    },
+    {
+      "id": 1240,
+      "nombre": "CHEERS",
+      "cantidad": 1
+    },
+    {
+      "id": 290,
+      "nombre": "Tokka",
+      "cantidad": 1
+    },
+    {
+      "id": 204,
+      "nombre": "SharkBot",
+      "cantidad": 1
+    },
+    {
+      "id": 237,
+      "nombre": "Sky Shadow",
       "cantidad": 1
     }
   ]

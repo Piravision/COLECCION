@@ -269,7 +269,7 @@
     {
       "id": 199,
       "nombre": "Streex",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 203,
@@ -344,12 +344,12 @@
     {
       "id": 106,
       "nombre": "Scarlett",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 113,
       "nombre": "Serpentor",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 111,
@@ -614,7 +614,7 @@
     {
       "id": 118,
       "nombre": "Man at Arms",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 134,
@@ -959,6 +959,76 @@
     {
       "id": 779,
       "nombre": "BANE",
+      "cantidad": 1
+    },
+    {
+      "id": 219,
+      "nombre": "Dirigible Tortuga",
+      "cantidad": 1
+    },
+    {
+      "id": 215,
+      "nombre": "Castillo Grayskull",
+      "cantidad": 1
+    },
+    {
+      "id": 516,
+      "nombre": "LEGIÓN-DEL-DRAGÓN",
+      "cantidad": 1
+    },
+    {
+      "id": 166,
+      "nombre": "Estrella de Fuego",
+      "cantidad": 1
+    },
+    {
+      "id": 169,
+      "nombre": "Hombre de Hielo",
+      "cantidad": 1
+    },
+    {
+      "id": 184,
+      "nombre": "Lizard",
+      "cantidad": 1
+    },
+    {
+      "id": 301,
+      "nombre": "Astrotrain",
+      "cantidad": 1
+    },
+    {
+      "id": 307,
+      "nombre": "Skywarp",
+      "cantidad": 1
+    },
+    {
+      "id": 304,
+      "nombre": "Runabout",
+      "cantidad": 1
+    },
+    {
+      "id": 131,
+      "nombre": "Scare Glow(",
+      "cantidad": 1
+    },
+    {
+      "id": 117,
+      "nombre": "He man",
+      "cantidad": 1
+    },
+    {
+      "id": 193,
+      "nombre": "Jab",
+      "cantidad": 1
+    },
+    {
+      "id": 205,
+      "nombre": "Shrimp Louie",
+      "cantidad": 1
+    },
+    {
+      "id": 103,
+      "nombre": "Gung Ho",
       "cantidad": 1
     }
   ]

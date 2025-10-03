@@ -1224,7 +1224,7 @@
     {
       "id": 165,
       "nombre": "Daredevil",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 426,
@@ -3054,7 +3054,7 @@
     {
       "id": 863,
       "nombre": "PREDATOR-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 562,
@@ -3554,6 +3554,26 @@
     {
       "id": 967,
       "nombre": "4-TICO",
+      "cantidad": 1
+    },
+    {
+      "id": 618,
+      "nombre": "DB-006",
+      "cantidad": 1
+    },
+    {
+      "id": 285,
+      "nombre": "Rocksteady",
+      "cantidad": 1
+    },
+    {
+      "id": 1172,
+      "nombre": "SUPERMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 225,
+      "nombre": "Guarida Felina",
       "cantidad": 1
     }
   ]

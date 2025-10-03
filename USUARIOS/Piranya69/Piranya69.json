@@ -174,7 +174,7 @@
     {
       "id": 147,
       "nombre": "Carbine",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 94,
@@ -824,7 +824,7 @@
     {
       "id": 418,
       "nombre": "grayfox2",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 87,
@@ -1359,7 +1359,7 @@
     {
       "id": 315,
       "nombre": "Emma Frost",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 452,
@@ -1549,7 +1549,7 @@
     {
       "id": 421,
       "nombre": "mei2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 365,
@@ -2004,7 +2004,7 @@
     {
       "id": 516,
       "nombre": "LEGIÓN-DEL-DRAGÓN",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 554,
@@ -2169,7 +2169,7 @@
     {
       "id": 148,
       "nombre": "Charlene _Charley_ Davidson",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 267,
@@ -2469,7 +2469,7 @@
     {
       "id": 416,
       "nombre": "emme2",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 731,
@@ -2739,7 +2739,7 @@
     {
       "id": 751,
       "nombre": "Minos",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 669,
@@ -3304,7 +3304,7 @@
     {
       "id": 724,
       "nombre": "DB-112",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 853,
@@ -3479,7 +3479,7 @@
     {
       "id": 627,
       "nombre": "DB-015",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 531,
@@ -3549,7 +3549,7 @@
     {
       "id": 154,
       "nombre": "Grease Pit",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 265,
@@ -4164,7 +4164,7 @@
     {
       "id": 727,
       "nombre": "DB-115",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 821,
@@ -4694,7 +4694,7 @@
     {
       "id": 847,
       "nombre": "RYU",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 603,
@@ -4924,7 +4924,7 @@
     {
       "id": 1109,
       "nombre": "G-ZARK-7-&-ROBERTO-1",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 978,
@@ -5214,7 +5214,7 @@
     {
       "id": 1155,
       "nombre": "DETECTIVE MARCIANO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 843,
@@ -5264,7 +5264,7 @@
     {
       "id": 1136,
       "nombre": "JOHNNY-BRAVO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1159,
@@ -5874,7 +5874,7 @@
     {
       "id": 1164,
       "nombre": "GREEN LANTERN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1000,
@@ -6084,7 +6084,7 @@
     {
       "id": 1174,
       "nombre": "ZATANA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1126,
@@ -6939,6 +6939,31 @@
     {
       "id": 1398,
       "nombre": "9-SKULLGREYMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1317,
+      "nombre": "2H-FA-JOE",
+      "cantidad": 1
+    },
+    {
+      "id": 1390,
+      "nombre": "9-NANIMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1363,
+      "nombre": "7I-TK-FOIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1342,
+      "nombre": "5F-PHOENIXMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1393,
+      "nombre": "9-PIEDMON",
       "cantidad": 1
     }
   ]
