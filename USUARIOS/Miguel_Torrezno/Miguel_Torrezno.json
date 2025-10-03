@@ -1109,7 +1109,7 @@
         {
             "id": 614,
             "nombre": "DB-002",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 551,
@@ -5084,6 +5084,11 @@
         {
             "id": 153,
             "nombre": "Fred _El Mutante_",
+            "cantidad": 1
+        },
+        {
+            "id": 165,
+            "nombre": "Daredevil",
             "cantidad": 1
         }
     ]
