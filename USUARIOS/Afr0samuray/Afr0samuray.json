@@ -324,7 +324,7 @@
         {
             "id": 169,
             "nombre": "Hombre de Hielo",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 68,
@@ -3439,6 +3439,11 @@
         {
             "id": 614,
             "nombre": "DB-002",
+            "cantidad": 1
+        },
+        {
+            "id": 616,
+            "nombre": "DB-004",
             "cantidad": 1
         }
     ]
