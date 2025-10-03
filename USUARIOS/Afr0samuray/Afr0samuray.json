@@ -324,7 +324,7 @@
         {
             "id": 169,
             "nombre": "Hombre de Hielo",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 68,
@@ -2164,7 +2164,7 @@
         {
             "id": 880,
             "nombre": "GREEN-GOBLIN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 894,
@@ -3419,6 +3419,21 @@
         {
             "id": 1173,
             "nombre": "WONDER WOMAN",
+            "cantidad": 1
+        },
+        {
+            "id": 778,
+            "nombre": "ALFRED",
+            "cantidad": 1
+        },
+        {
+            "id": 757,
+            "nombre": "Saga-de-Géminis_",
+            "cantidad": 1
+        },
+        {
+            "id": 1365,
+            "nombre": "8B-NYAROMON",
             "cantidad": 1
         }
     ]
