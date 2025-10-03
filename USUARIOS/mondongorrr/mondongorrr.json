@@ -409,7 +409,7 @@
     {
       "id": 254,
       "nombre": "Chacalo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 362,
@@ -3019,7 +3019,7 @@
     {
       "id": 67,
       "nombre": "flazzard3",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 806,
@@ -5069,7 +5069,7 @@
     {
       "id": 818,
       "nombre": "REPTILE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 824,
@@ -6299,7 +6299,7 @@
     {
       "id": 1333,
       "nombre": "4F-ROSEMON",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1364,
@@ -6449,7 +6449,7 @@
     {
       "id": 1330,
       "nombre": "4C-PALMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1354,
@@ -6474,7 +6474,7 @@
     {
       "id": 1343,
       "nombre": "5G-PIYOMON-EVO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1280,
@@ -6654,7 +6654,7 @@
     {
       "id": 1386,
       "nombre": "9-METAL-SEADRAMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1308,
@@ -6854,6 +6854,16 @@
     {
       "id": 1318,
       "nombre": "2I-JOE-FOIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1372,
+      "nombre": "8I-KARI-FOIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1355,
+      "nombre": "7A-TK",
       "cantidad": 1
     }
   ]

@@ -3474,7 +3474,7 @@
         {
             "id": 826,
             "nombre": "SONYA-BLADE",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 883,
@@ -3704,7 +3704,7 @@
         {
             "id": 1180,
             "nombre": "C3PO-R2D2",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1269,
@@ -4184,7 +4184,7 @@
         {
             "id": 1348,
             "nombre": "6C-TENTOMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1381,
@@ -4269,7 +4269,7 @@
         {
             "id": 1333,
             "nombre": "4F-ROSEMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1379,
@@ -4579,7 +4579,7 @@
         {
             "id": 1350,
             "nombre": "6E-MEGAKABUTERIMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1362,
@@ -5114,6 +5114,36 @@
         {
             "id": 931,
             "nombre": "RANDY-ORTON",
+            "cantidad": 1
+        },
+        {
+            "id": 824,
+            "nombre": "SINDEL",
+            "cantidad": 1
+        },
+        {
+            "id": 811,
+            "nombre": "KITANA",
+            "cantidad": 1
+        },
+        {
+            "id": 1366,
+            "nombre": "8C-SALAMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1332,
+            "nombre": "4E-LILLYMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1309,
+            "nombre": "1I-TAI-FOIL",
+            "cantidad": 1
+        },
+        {
+            "id": 597,
+            "nombre": "LOUIS-NAPOLEON",
             "cantidad": 1
         }
     ]
