@@ -2324,7 +2324,7 @@
         {
             "id": 931,
             "nombre": "RANDY-ORTON",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 597,
@@ -3459,6 +3459,11 @@
         {
             "id": 659,
             "nombre": "DB-047",
+            "cantidad": 1
+        },
+        {
+            "id": 668,
+            "nombre": "DB-056",
             "cantidad": 1
         }
     ]

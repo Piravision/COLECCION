@@ -1369,7 +1369,7 @@
     {
       "id": 842,
       "nombre": "GUILE2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 905,
@@ -2334,6 +2334,16 @@
     {
       "id": 1182,
       "nombre": "JAYCE-Y-LOS-GUERREROS-RODANTES",
+      "cantidad": 1
+    },
+    {
+      "id": 303,
+      "nombre": "Megatron",
+      "cantidad": 1
+    },
+    {
+      "id": 1071,
+      "nombre": "USAGENT",
       "cantidad": 1
     }
   ]
