@@ -2179,7 +2179,7 @@
         {
             "id": 848,
             "nombre": "RYU2",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 918,
@@ -3444,6 +3444,11 @@
         {
             "id": 616,
             "nombre": "DB-004",
+            "cantidad": 1
+        },
+        {
+            "id": 619,
+            "nombre": "DB-007",
             "cantidad": 1
         }
     ]

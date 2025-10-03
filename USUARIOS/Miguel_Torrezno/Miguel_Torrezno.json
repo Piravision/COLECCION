@@ -1119,7 +1119,7 @@
         {
             "id": 619,
             "nombre": "DB-007",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 17,
@@ -5094,6 +5094,11 @@
         {
             "id": 169,
             "nombre": "Hombre de Hielo",
+            "cantidad": 1
+        },
+        {
+            "id": 848,
+            "nombre": "RYU2",
             "cantidad": 1
         }
     ]
