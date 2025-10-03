@@ -1514,7 +1514,7 @@
         {
             "id": 723,
             "nombre": "DB-111",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 729,
@@ -3409,6 +3409,11 @@
         {
             "id": 802,
             "nombre": "ROBIN",
+            "cantidad": 1
+        },
+        {
+            "id": 1157,
+            "nombre": "FIRESTORM",
             "cantidad": 1
         }
     ]

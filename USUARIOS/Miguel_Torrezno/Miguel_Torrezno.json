@@ -3644,7 +3644,7 @@
         {
             "id": 1157,
             "nombre": "FIRESTORM",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 596,
@@ -5069,6 +5069,11 @@
         {
             "id": 77,
             "nombre": "Maximum",
+            "cantidad": 1
+        },
+        {
+            "id": 723,
+            "nombre": "DB-111",
             "cantidad": 1
         }
     ]
