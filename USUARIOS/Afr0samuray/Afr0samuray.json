@@ -344,7 +344,7 @@
         {
             "id": 7,
             "nombre": "El Patriarca",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 288,
@@ -764,7 +764,7 @@
         {
             "id": 168,
             "nombre": "Hobgoblin",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 496,
@@ -914,7 +914,7 @@
         {
             "id": 62,
             "nombre": "derolin",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 444,
@@ -2234,7 +2234,7 @@
         {
             "id": 695,
             "nombre": "DB-083",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 841,
@@ -3394,6 +3394,11 @@
         {
             "id": 376,
             "nombre": "guile",
+            "cantidad": 1
+        },
+        {
+            "id": 28,
+            "nombre": "Presto",
             "cantidad": 1
         }
     ]
