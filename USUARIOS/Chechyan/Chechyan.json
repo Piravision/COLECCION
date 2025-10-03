@@ -2259,7 +2259,7 @@
         {
             "id": 1211,
             "nombre": "4-GOLDEN-AXE",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 323,
@@ -5104,6 +5104,11 @@
         {
             "id": 1196,
             "nombre": "1-YOSHI",
+            "cantidad": 1
+        },
+        {
+            "id": 1200,
+            "nombre": "2-DONKEY-KONG",
             "cantidad": 1
         }
     ]

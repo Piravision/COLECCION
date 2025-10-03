@@ -4794,7 +4794,7 @@
         {
             "id": 1200,
             "nombre": "2-DONKEY-KONG",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1202,
@@ -6704,6 +6704,11 @@
         {
             "id": 1204,
             "nombre": "3-KNUCKLES",
+            "cantidad": 1
+        },
+        {
+            "id": 1211,
+            "nombre": "4-GOLDEN-AXE",
             "cantidad": 1
         }
     ]
