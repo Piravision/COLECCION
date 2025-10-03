@@ -1769,7 +1769,7 @@
         {
             "id": 802,
             "nombre": "ROBIN",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 799,
@@ -5064,6 +5064,11 @@
         {
             "id": 74,
             "nombre": "larhart",
+            "cantidad": 1
+        },
+        {
+            "id": 77,
+            "nombre": "Maximum",
             "cantidad": 1
         }
     ]

@@ -279,7 +279,7 @@
         {
             "id": 203,
             "nombre": "Repteel",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 6,
@@ -1049,7 +1049,7 @@
         {
             "id": 77,
             "nombre": "Maximum",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 114,
@@ -1394,7 +1394,7 @@
         {
             "id": 193,
             "nombre": "Jab",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 242,
@@ -3294,7 +3294,7 @@
         {
             "id": 947,
             "nombre": "1-ARAMIS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 248,
@@ -3404,6 +3404,11 @@
         {
             "id": 799,
             "nombre": "POISON-IVY",
+            "cantidad": 1
+        },
+        {
+            "id": 802,
+            "nombre": "ROBIN",
             "cantidad": 1
         }
     ]
