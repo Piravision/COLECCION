@@ -4819,7 +4819,7 @@
         {
             "id": 1173,
             "nombre": "WONDER WOMAN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1161,
@@ -5074,6 +5074,11 @@
         {
             "id": 723,
             "nombre": "DB-111",
+            "cantidad": 1
+        },
+        {
+            "id": 874,
+            "nombre": "CAPTAIN-AMERICA",
             "cantidad": 1
         }
     ]

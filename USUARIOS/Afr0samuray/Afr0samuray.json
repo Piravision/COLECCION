@@ -159,7 +159,7 @@
         {
             "id": 302,
             "nombre": "Blitzwing",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 132,
@@ -2459,7 +2459,7 @@
         {
             "id": 874,
             "nombre": "CAPTAIN-AMERICA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 623,
@@ -2599,7 +2599,7 @@
         {
             "id": 993,
             "nombre": "GATOS-SAMURAI",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 995,
@@ -3264,7 +3264,7 @@
         {
             "id": 655,
             "nombre": "DB-043",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1265,
@@ -3414,6 +3414,11 @@
         {
             "id": 1157,
             "nombre": "FIRESTORM",
+            "cantidad": 1
+        },
+        {
+            "id": 1173,
+            "nombre": "WONDER WOMAN",
             "cantidad": 1
         }
     ]
