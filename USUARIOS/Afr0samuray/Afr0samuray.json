@@ -9,7 +9,7 @@
         {
             "id": 205,
             "nombre": "Shrimp Louie",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 4,
@@ -3449,6 +3449,11 @@
         {
             "id": 619,
             "nombre": "DB-007",
+            "cantidad": 1
+        },
+        {
+            "id": 630,
+            "nombre": "DB-018",
             "cantidad": 1
         }
     ]
