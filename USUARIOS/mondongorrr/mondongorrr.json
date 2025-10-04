@@ -514,7 +514,7 @@
         {
             "id": 225,
             "nombre": "Guarida Felina",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 191,
@@ -969,7 +969,7 @@
         {
             "id": 534,
             "nombre": "T800-Jail",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 853,
@@ -6359,7 +6359,7 @@
         {
             "id": 286,
             "nombre": "Shredder",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1340,
@@ -6874,6 +6874,16 @@
         {
             "id": 1389,
             "nombre": "9-MYOTISMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1338,
+            "nombre": "5B-PYOCOMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1303,
+            "nombre": "1C-AGUMON",
             "cantidad": 1
         }
     ]
