@@ -1189,7 +1189,7 @@
         {
             "id": 333,
             "nombre": "Omega Rojo",
-            "cantidad": 6
+            "cantidad": 7
         },
         {
             "id": 46,
@@ -1674,7 +1674,7 @@
         {
             "id": 395,
             "nombre": "DISCÍPULOS-DE-AVAN",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 525,
@@ -3329,7 +3329,7 @@
         {
             "id": 107,
             "nombre": "Snake Eyes",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 114,
@@ -4154,7 +4154,7 @@
         {
             "id": 1014,
             "nombre": "YUGI",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 996,
@@ -6629,6 +6629,11 @@
         {
             "id": 1035,
             "nombre": "CAPITAN BRITANIA",
+            "cantidad": 1
+        },
+        {
+            "id": 1153,
+            "nombre": "BLACKMANTA",
             "cantidad": 1
         }
     ]
