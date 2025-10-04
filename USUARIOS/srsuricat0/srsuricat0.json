@@ -5619,7 +5619,7 @@
         {
             "id": 1102,
             "nombre": "DENVER",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1180,
@@ -6649,6 +6649,11 @@
         {
             "id": 1096,
             "nombre": "CZ-RAY-STANTZ",
+            "cantidad": 1
+        },
+        {
+            "id": 1101,
+            "nombre": "D-JOE-MCQUACK",
             "cantidad": 1
         }
     ]
