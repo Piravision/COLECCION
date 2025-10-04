@@ -289,7 +289,7 @@
     {
       "id": 97,
       "nombre": "Armadura Xanatos",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 748,
@@ -2574,7 +2574,7 @@
     {
       "id": 946,
       "nombre": "SLOTH-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 644,
@@ -3034,7 +3034,7 @@
     {
       "id": 394,
       "nombre": "vsneo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 264,
@@ -3339,7 +3339,7 @@
     {
       "id": 931,
       "nombre": "RANDY-ORTON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 971,
@@ -4069,7 +4069,7 @@
     {
       "id": 1000,
       "nombre": "SON-GOKU",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1127,
@@ -4729,6 +4729,11 @@
     {
       "id": 1148,
       "nombre": "AQUAMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1324,
+      "nombre": "3F-METALGARURUMON",
       "cantidad": 1
     }
   ]
