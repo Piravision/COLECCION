@@ -609,7 +609,7 @@
         {
             "id": 154,
             "nombre": "Grease Pit",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 102,
@@ -1354,7 +1354,7 @@
         {
             "id": 155,
             "nombre": "Lawrence Limburger_",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 253,
@@ -4619,7 +4619,7 @@
         {
             "id": 1314,
             "nombre": "2E-ZUDOMON",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1347,
@@ -5079,7 +5079,7 @@
         {
             "id": 153,
             "nombre": "Fred _El Mutante_",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 165,
@@ -5274,6 +5274,11 @@
         {
             "id": 1394,
             "nombre": "9-PIXIMON",
+            "cantidad": 1
+        },
+        {
+            "id": 152,
+            "nombre": "Dr. Karbunkle",
             "cantidad": 1
         }
     ]
