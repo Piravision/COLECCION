@@ -4749,7 +4749,7 @@
         {
             "id": 1095,
             "nombre": "CZ-PETER-VENKMAN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 605,
@@ -6644,6 +6644,11 @@
         {
             "id": 950,
             "nombre": "1-PORTHOS",
+            "cantidad": 1
+        },
+        {
+            "id": 1096,
+            "nombre": "CZ-RAY-STANTZ",
             "cantidad": 1
         }
     ]
