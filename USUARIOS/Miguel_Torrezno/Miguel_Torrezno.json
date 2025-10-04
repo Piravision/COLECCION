@@ -1129,7 +1129,7 @@
         {
             "id": 503,
             "nombre": "gon",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 151,
@@ -5279,6 +5279,11 @@
         {
             "id": 152,
             "nombre": "Dr. Karbunkle",
+            "cantidad": 1
+        },
+        {
+            "id": 147,
+            "nombre": "Carbine",
             "cantidad": 1
         }
     ]
