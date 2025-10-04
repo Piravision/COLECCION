@@ -674,7 +674,7 @@
         {
             "id": 78,
             "nombre": "myse",
-            "cantidad": 8
+            "cantidad": 9
         },
         {
             "id": 128,
@@ -3404,7 +3404,7 @@
         {
             "id": 615,
             "nombre": "DB-003",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 616,
@@ -6034,7 +6034,7 @@
         {
             "id": 1323,
             "nombre": "3E-WEREGARURUMON",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1351,
@@ -6609,7 +6609,7 @@
         {
             "id": 1394,
             "nombre": "9-PIXIMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1289,
@@ -6659,6 +6659,11 @@
         {
             "id": 1061,
             "nombre": "SHANG-CHI",
+            "cantidad": 1
+        },
+        {
+            "id": 1392,
+            "nombre": "9-OTAMAMON",
             "cantidad": 1
         }
     ]
