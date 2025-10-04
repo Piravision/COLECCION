@@ -2704,7 +2704,7 @@
     {
       "id": 51,
       "nombre": "mam",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 805,
@@ -5319,7 +5319,7 @@
     {
       "id": 1095,
       "nombre": "CZ-PETER-VENKMAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1141,
@@ -6984,6 +6984,11 @@
     {
       "id": 1330,
       "nombre": "4C-PALMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1375,
+      "nombre": "9-BAKEMON",
       "cantidad": 1
     }
   ]

@@ -524,7 +524,7 @@
     {
       "id": 900,
       "nombre": "THOR",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 625,
@@ -669,7 +669,7 @@
     {
       "id": 495,
       "nombre": "jowy",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 609,
@@ -1194,7 +1194,7 @@
     {
       "id": 376,
       "nombre": "guile",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 236,
@@ -1374,7 +1374,7 @@
     {
       "id": 64,
       "nombre": "evil crocodine",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 417,
@@ -1779,7 +1779,7 @@
     {
       "id": 969,
       "nombre": "5-DAVID-EL-GNOMO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 963,
@@ -3354,7 +3354,7 @@
     {
       "id": 171,
       "nombre": "Mary Jane",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 944,
@@ -3579,7 +3579,7 @@
     {
       "id": 1074,
       "nombre": "X -BESTIA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1015,
@@ -3689,7 +3689,7 @@
     {
       "id": 36,
       "nombre": "baduck",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 451,
@@ -3719,7 +3719,7 @@
     {
       "id": 1025,
       "nombre": "4FV -DR.DOOM",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 503,
@@ -3979,7 +3979,7 @@
     {
       "id": 739,
       "nombre": "Athenea",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 985,
@@ -4224,7 +4224,7 @@
     {
       "id": 378,
       "nombre": "kid",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 639,
@@ -4379,7 +4379,7 @@
     {
       "id": 1348,
       "nombre": "6C-TENTOMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 968,
@@ -4414,7 +4414,7 @@
     {
       "id": 184,
       "nombre": "Lizard",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 731,
@@ -4574,7 +4574,7 @@
     {
       "id": 835,
       "nombre": "CHUN-LI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 212,
@@ -4734,6 +4734,41 @@
     {
       "id": 1324,
       "nombre": "3F-METALGARURUMON",
+      "cantidad": 1
+    },
+    {
+      "id": 441,
+      "nombre": "slig",
+      "cantidad": 1
+    },
+    {
+      "id": 192,
+      "nombre": "Bends",
+      "cantidad": 1
+    },
+    {
+      "id": 1195,
+      "nombre": "1-LUIGI",
+      "cantidad": 1
+    },
+    {
+      "id": 565,
+      "nombre": "ANDRÉ-THE-GIANT",
+      "cantidad": 1
+    },
+    {
+      "id": 544,
+      "nombre": "DOC-BROWN",
+      "cantidad": 1
+    },
+    {
+      "id": 1124,
+      "nombre": "GENKI-&-MOCCHI",
+      "cantidad": 1
+    },
+    {
+      "id": 829,
+      "nombre": "AKUMA",
       "cantidad": 1
     }
   ]

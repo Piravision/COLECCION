@@ -149,7 +149,7 @@
     {
       "id": 236,
       "nombre": "Shark Tank",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 772,
@@ -399,7 +399,7 @@
     {
       "id": 131,
       "nombre": "Scare Glow(",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 226,
@@ -679,7 +679,7 @@
     {
       "id": 516,
       "nombre": "LEGIÓN-DEL-DRAGÓN",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 938,
@@ -754,7 +754,7 @@
     {
       "id": 701,
       "nombre": "DB-089",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 729,
@@ -929,7 +929,7 @@
     {
       "id": 19,
       "nombre": "Set",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 181,
@@ -1339,7 +1339,7 @@
     {
       "id": 428,
       "nombre": "psyco2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 153,
@@ -1629,7 +1629,7 @@
     {
       "id": 853,
       "nombre": "Zangief2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 414,
@@ -1929,7 +1929,7 @@
     {
       "id": 1258,
       "nombre": "XENA-LA-PRINCESA-GUERRERA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 920,
@@ -1959,7 +1959,7 @@
     {
       "id": 660,
       "nombre": "DB-048",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1021,
@@ -2289,7 +2289,7 @@
     {
       "id": 823,
       "nombre": "SHEEVA",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 57,
@@ -2539,7 +2539,7 @@
     {
       "id": 95,
       "nombre": "Hudson",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 631,
@@ -3034,7 +3034,7 @@
     {
       "id": 529,
       "nombre": "Mística",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 319,
@@ -3389,7 +3389,7 @@
     {
       "id": 32,
       "nombre": "Venger",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 735,
@@ -4049,7 +4049,7 @@
     {
       "id": 1095,
       "nombre": "CZ-PETER-VENKMAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1287,
@@ -4064,7 +4064,7 @@
     {
       "id": 461,
       "nombre": "Stalone-RamboIII",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 667,
@@ -4429,7 +4429,7 @@
     {
       "id": 1305,
       "nombre": "1E-METAL-GREYMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1314,
@@ -4539,7 +4539,7 @@
     {
       "id": 12,
       "nombre": "Jezmine",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 245,
@@ -4694,7 +4694,7 @@
     {
       "id": 524,
       "nombre": "Capitán-Planeta",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 929,
@@ -4724,6 +4724,36 @@
     {
       "id": 1300,
       "nombre": "FA-TOKI",
+      "cantidad": 1
+    },
+    {
+      "id": 876,
+      "nombre": "DORMAMMU",
+      "cantidad": 1
+    },
+    {
+      "id": 63,
+      "nombre": "drabaran",
+      "cantidad": 1
+    },
+    {
+      "id": 317,
+      "nombre": "Jean Grey",
+      "cantidad": 1
+    },
+    {
+      "id": 239,
+      "nombre": "Stridor",
+      "cantidad": 1
+    },
+    {
+      "id": 1056,
+      "nombre": "NOVA-2",
+      "cantidad": 1
+    },
+    {
+      "id": 118,
+      "nombre": "Man at Arms",
       "cantidad": 1
     }
   ]
