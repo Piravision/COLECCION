@@ -574,7 +574,7 @@
         {
             "id": 500,
             "nombre": "shu",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 327,
@@ -6404,6 +6404,11 @@
         {
             "id": 286,
             "nombre": "Shredder",
+            "cantidad": 1
+        },
+        {
+            "id": 1311,
+            "nombre": "2B-BUKAMON",
             "cantidad": 1
         }
     ]

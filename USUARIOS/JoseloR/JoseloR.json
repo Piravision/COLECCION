@@ -229,7 +229,7 @@
     {
       "id": 914,
       "nombre": "SUPERMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 920,
@@ -1564,6 +1564,31 @@
     {
       "id": 534,
       "nombre": "T800-Jail",
+      "cantidad": 1
+    },
+    {
+      "id": 796,
+      "nombre": "MAN-BAT",
+      "cantidad": 1
+    },
+    {
+      "id": 1266,
+      "nombre": "CHRONO",
+      "cantidad": 1
+    },
+    {
+      "id": 88,
+      "nombre": "Zackary Foxx",
+      "cantidad": 1
+    },
+    {
+      "id": 87,
+      "nombre": "Walter _Doc_ Hartford",
+      "cantidad": 1
+    },
+    {
+      "id": 86,
+      "nombre": "Shane Gooseman",
       "cantidad": 1
     }
   ]
