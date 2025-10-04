@@ -6619,7 +6619,7 @@
     {
       "id": 1304,
       "nombre": "1D-GREYMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1318,
@@ -6664,7 +6664,7 @@
     {
       "id": 1313,
       "nombre": "2D-IKKAKUMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1400,
@@ -6769,7 +6769,7 @@
     {
       "id": 1369,
       "nombre": "8F-MAGNADRAMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1394,
@@ -6849,7 +6849,7 @@
     {
       "id": 1341,
       "nombre": "5E-GARUDAMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1345,
@@ -6874,7 +6874,7 @@
     {
       "id": 1375,
       "nombre": "9-BAKEMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1315,
@@ -6970,6 +6970,11 @@
       "id": 1332,
       "nombre": "4E-LILLYMON",
       "cantidad": 2
+    },
+    {
+      "id": 1397,
+      "nombre": "9-SCUMON",
+      "cantidad": 1
     }
   ]
 }

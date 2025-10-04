@@ -3644,7 +3644,7 @@
     {
       "id": 1157,
       "nombre": "FIRESTORM",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 596,
@@ -4814,7 +4814,7 @@
     {
       "id": 1173,
       "nombre": "WONDER WOMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1161,
@@ -5164,6 +5164,11 @@
     {
       "id": 1312,
       "nombre": "2C-GOMAMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1158,
+      "nombre": "FLASH",
       "cantidad": 1
     }
   ]
