@@ -3764,7 +3764,7 @@
         {
             "id": 1255,
             "nombre": "STARGATE-SG-1",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 278,
@@ -4639,6 +4639,11 @@
         {
             "id": 991,
             "nombre": "CONAN-EDOGAWA",
+            "cantidad": 1
+        },
+        {
+            "id": 756,
+            "nombre": "Rhadamantis2",
             "cantidad": 1
         }
     ]
