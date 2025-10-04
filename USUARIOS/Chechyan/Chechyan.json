@@ -514,7 +514,7 @@
     {
       "id": 44,
       "nombre": "Fly",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 16,
@@ -1319,7 +1319,7 @@
     {
       "id": 1208,
       "nombre": "4-CAPTAIN-COMMANDO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1138,
@@ -2534,7 +2534,7 @@
     {
       "id": 710,
       "nombre": "DB-098",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 126,
@@ -2649,7 +2649,7 @@
     {
       "id": 1042,
       "nombre": "H- HULK-2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 169,
@@ -2949,7 +2949,7 @@
     {
       "id": 1222,
       "nombre": "LINK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 85,
@@ -5119,6 +5119,11 @@
     {
       "id": 279,
       "nombre": "Cuerpo Androide",
+      "cantidad": 1
+    },
+    {
+      "id": 963,
+      "nombre": "3-SRA.-HUDSON",
       "cantidad": 1
     }
   ]

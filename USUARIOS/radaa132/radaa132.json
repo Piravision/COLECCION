@@ -644,7 +644,7 @@
     {
       "id": 671,
       "nombre": "DB-059",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 719,
@@ -689,7 +689,7 @@
     {
       "id": 560,
       "nombre": "MACGYVER-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 827,
@@ -1764,7 +1764,7 @@
     {
       "id": 254,
       "nombre": "Chacalo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 951,
@@ -2684,7 +2684,7 @@
     {
       "id": 1189,
       "nombre": "DRAGON-LAIR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1187,
@@ -3914,7 +3914,7 @@
     {
       "id": 1196,
       "nombre": "1-YOSHI",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1036,
@@ -4769,6 +4769,26 @@
     {
       "id": 829,
       "nombre": "AKUMA",
+      "cantidad": 1
+    },
+    {
+      "id": 1188,
+      "nombre": "CARMEN-SANDIEGO",
+      "cantidad": 1
+    },
+    {
+      "id": 557,
+      "nombre": "LUFFY-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1175,
+      "nombre": "EREN-YEAGER",
+      "cantidad": 1
+    },
+    {
+      "id": 1216,
+      "nombre": "5-NINJA-GAIDEN",
       "cantidad": 1
     }
   ]

@@ -64,7 +64,7 @@
         {
             "id": 32,
             "nombre": "Venger",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 310,
@@ -109,7 +109,7 @@
         {
             "id": 244,
             "nombre": "Felina",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 159,
@@ -809,7 +809,7 @@
         {
             "id": 198,
             "nombre": "Slammu",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 497,
@@ -1359,7 +1359,7 @@
         {
             "id": 253,
             "nombre": "Buitro",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 87,
@@ -1774,7 +1774,7 @@
         {
             "id": 799,
             "nombre": "POISON-IVY",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 290,
@@ -2314,7 +2314,7 @@
         {
             "id": 924,
             "nombre": "VISITOR-SOLDIER",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 919,
@@ -2424,7 +2424,7 @@
         {
             "id": 246,
             "nombre": "Jaga",
-            "cantidad": 1
+            "cantidad": 3
         },
         {
             "id": 287,
@@ -3294,7 +3294,7 @@
         {
             "id": 1243,
             "nombre": "EXPEDIENTE-X",
-            "cantidad": 1
+            "cantidad": 3
         },
         {
             "id": 1277,
@@ -3529,7 +3529,7 @@
         {
             "id": 251,
             "nombre": "Tigro",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 991,
@@ -3599,7 +3599,7 @@
         {
             "id": 272,
             "nombre": "Panda Khan",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 270,
@@ -4174,7 +4174,7 @@
         {
             "id": 756,
             "nombre": "Rhadamantis2",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 785,
@@ -4219,7 +4219,7 @@
         {
             "id": 1344,
             "nombre": "5H-FA-SORA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1393,
@@ -5134,7 +5134,7 @@
         {
             "id": 1332,
             "nombre": "4E-LILLYMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1309,
@@ -5184,6 +5184,46 @@
         {
             "id": 1317,
             "nombre": "2H-FA-JOE",
+            "cantidad": 1
+        },
+        {
+            "id": 247,
+            "nombre": "Linx O",
+            "cantidad": 1
+        },
+        {
+            "id": 1022,
+            "nombre": "4F- MR FANTASTIC",
+            "cantidad": 1
+        },
+        {
+            "id": 925,
+            "nombre": "WILLY-",
+            "cantidad": 1
+        },
+        {
+            "id": 1140,
+            "nombre": "PANTERA-ROSA",
+            "cantidad": 1
+        },
+        {
+            "id": 1129,
+            "nombre": "CRITTER-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 1231,
+            "nombre": "POPEYE",
+            "cantidad": 1
+        },
+        {
+            "id": 1078,
+            "nombre": "X -PHOENIX",
+            "cantidad": 1
+        },
+        {
+            "id": 375,
+            "nombre": "Grobyc",
             "cantidad": 1
         }
     ]
