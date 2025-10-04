@@ -2514,7 +2514,7 @@
     {
       "id": 844,
       "nombre": "HONDA2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 101,
@@ -2714,7 +2714,7 @@
     {
       "id": 1339,
       "nombre": "5C-PIYOMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1376,
@@ -2724,7 +2724,7 @@
     {
       "id": 1330,
       "nombre": "4C-PALMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1388,
@@ -3524,6 +3524,36 @@
     {
       "id": 1105,
       "nombre": "G-AVECILLA",
+      "cantidad": 1
+    },
+    {
+      "id": 508,
+      "nombre": "law",
+      "cantidad": 1
+    },
+    {
+      "id": 735,
+      "nombre": "Aiacos",
+      "cantidad": 1
+    },
+    {
+      "id": 1328,
+      "nombre": "4A-MIMI",
+      "cantidad": 1
+    },
+    {
+      "id": 1336,
+      "nombre": "4I-MIMI-FOIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1302,
+      "nombre": "1B-KOROMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1386,
+      "nombre": "9-METAL-SEADRAMON",
       "cantidad": 1
     }
   ]

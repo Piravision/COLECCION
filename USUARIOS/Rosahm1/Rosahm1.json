@@ -729,7 +729,7 @@
         {
             "id": 531,
             "nombre": "McClane-Jail",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 303,
@@ -6214,7 +6214,7 @@
         {
             "id": 1395,
             "nombre": "9-PUMPKINMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1256,
@@ -6304,7 +6304,7 @@
         {
             "id": 1343,
             "nombre": "5G-PIYOMON-EVO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1366,
@@ -6314,7 +6314,7 @@
         {
             "id": 1311,
             "nombre": "2B-BUKAMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1392,
@@ -6434,7 +6434,7 @@
         {
             "id": 1350,
             "nombre": "6E-MEGAKABUTERIMON",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1104,
@@ -6519,7 +6519,7 @@
         {
             "id": 1333,
             "nombre": "4F-ROSEMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1391,
@@ -6790,6 +6790,16 @@
             "id": 1344,
             "nombre": "5H-FA-SORA",
             "cantidad": 2
+        },
+        {
+            "id": 1318,
+            "nombre": "2I-JOE-FOIL",
+            "cantidad": 1
+        },
+        {
+            "id": 1319,
+            "nombre": "3A-MATT",
+            "cantidad": 1
         }
     ]
 }

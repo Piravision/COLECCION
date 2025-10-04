@@ -149,7 +149,7 @@
     {
       "id": 795,
       "nombre": "JOKER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 52,
@@ -879,7 +879,7 @@
     {
       "id": 164,
       "nombre": "Black Cat",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 423,
@@ -3949,7 +3949,7 @@
     {
       "id": 486,
       "nombre": "gnasty-gnorc",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1035,
@@ -4074,12 +4074,12 @@
     {
       "id": 1346,
       "nombre": "6A-IZZY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1307,
       "nombre": "1G-AGUMON-EVO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1392,
@@ -4489,7 +4489,7 @@
     {
       "id": 1382,
       "nombre": "9-LADY-DEVIMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1389,
@@ -4749,7 +4749,7 @@
     {
       "id": 1387,
       "nombre": "9-MOJYAMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1333,
@@ -4879,7 +4879,7 @@
     {
       "id": 1306,
       "nombre": "1FA-WARGREYMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1374,
@@ -5124,6 +5124,11 @@
     {
       "id": 963,
       "nombre": "3-SRA.-HUDSON",
+      "cantidad": 1
+    },
+    {
+      "id": 1395,
+      "nombre": "9-PUMPKINMON",
       "cantidad": 1
     }
   ]
