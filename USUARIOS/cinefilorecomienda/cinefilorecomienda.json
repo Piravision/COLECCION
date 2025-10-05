@@ -1254,7 +1254,7 @@
         {
             "id": 432,
             "nombre": "solid2",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 624,
@@ -1284,12 +1284,12 @@
         {
             "id": 891,
             "nombre": "MODOK",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 888,
             "nombre": "LOKI",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 979,
@@ -1319,7 +1319,7 @@
         {
             "id": 984,
             "nombre": "14-BABY-SINCLAIR",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 413,
@@ -3119,7 +3119,7 @@
         {
             "id": 625,
             "nombre": "DB-013",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 918,
@@ -3329,7 +3329,7 @@
         {
             "id": 769,
             "nombre": "Pink",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 942,
@@ -4859,6 +4859,16 @@
         {
             "id": 15,
             "nombre": "Zula",
+            "cantidad": 1
+        },
+        {
+            "id": 684,
+            "nombre": "DB-072",
+            "cantidad": 1
+        },
+        {
+            "id": 17,
+            "nombre": "Guerrero Serpiente",
             "cantidad": 1
         }
     ]
