@@ -544,7 +544,7 @@
         {
             "id": 536,
             "nombre": "Xena-Jail",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 130,
@@ -1369,7 +1369,7 @@
         {
             "id": 67,
             "nombre": "flazzard3",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 61,
@@ -1719,7 +1719,7 @@
         {
             "id": 702,
             "nombre": "DB-090",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 365,
@@ -2359,12 +2359,12 @@
         {
             "id": 862,
             "nombre": "NEO-JAIL",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 864,
             "nombre": "RAMBO-JAIL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 20,
@@ -4524,7 +4524,7 @@
         {
             "id": 1398,
             "nombre": "9-SKULLGREYMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1226,
@@ -4579,7 +4579,7 @@
         {
             "id": 1362,
             "nombre": "7H-FA-TK",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 398,
@@ -4824,7 +4824,7 @@
         {
             "id": 1326,
             "nombre": "3H-FA-MATT",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1373,
@@ -5154,7 +5154,7 @@
         {
             "id": 1364,
             "nombre": "8A-KARI",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1312,
@@ -5319,6 +5319,46 @@
         {
             "id": 1215,
             "nombre": "5-JOE-MUSASHI",
+            "cantidad": 1
+        },
+        {
+            "id": 1358,
+            "nombre": "7D-ANGEMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1318,
+            "nombre": "2I-JOE-FOIL",
+            "cantidad": 1
+        },
+        {
+            "id": 812,
+            "nombre": "KUNG-LAO",
+            "cantidad": 1
+        },
+        {
+            "id": 1276,
+            "nombre": "RISTAR",
+            "cantidad": 1
+        },
+        {
+            "id": 1084,
+            "nombre": "YV- WASP",
+            "cantidad": 1
+        },
+        {
+            "id": 794,
+            "nombre": "HUGO-STRANGE",
+            "cantidad": 1
+        },
+        {
+            "id": 69,
+            "nombre": "gargola",
+            "cantidad": 1
+        },
+        {
+            "id": 1370,
+            "nombre": "8G-GATOMON-EVO",
             "cantidad": 1
         }
     ]
