@@ -4382,11 +4382,6 @@
             "cantidad": 1
         },
         {
-            "id": 1329,
-            "nombre": "4B-TANEMON",
-            "cantidad": 1
-        },
-        {
             "id": 1334,
             "nombre": "4G-PALMON-EVO",
             "cantidad": 1
@@ -4734,7 +4729,7 @@
         {
             "id": 63,
             "nombre": "drabaran",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 317,
@@ -4849,6 +4844,21 @@
         {
             "id": 385,
             "nombre": "brio",
+            "cantidad": 1
+        },
+        {
+            "id": 298,
+            "nombre": "Prowl",
+            "cantidad": 1
+        },
+        {
+            "id": 132,
+            "nombre": "Skeletor",
+            "cantidad": 1
+        },
+        {
+            "id": 15,
+            "nombre": "Zula",
             "cantidad": 1
         }
     ]
