@@ -2959,7 +2959,7 @@
         {
             "id": 892,
             "nombre": "NOVA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1001,
@@ -4869,6 +4869,11 @@
         {
             "id": 17,
             "nombre": "Guerrero Serpiente",
+            "cantidad": 1
+        },
+        {
+            "id": 780,
+            "nombre": "BARBARA-GORDON",
             "cantidad": 1
         }
     ]

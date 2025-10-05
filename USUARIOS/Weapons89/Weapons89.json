@@ -2419,7 +2419,7 @@
         {
             "id": 780,
             "nombre": "BARBARA-GORDON",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 99,
@@ -6519,6 +6519,11 @@
         {
             "id": 891,
             "nombre": "MODOK",
+            "cantidad": 1
+        },
+        {
+            "id": 892,
+            "nombre": "NOVA",
             "cantidad": 1
         }
     ]
