@@ -614,7 +614,7 @@
         {
             "id": 543,
             "nombre": "DIE-HARD-III",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 515,
@@ -6539,6 +6539,11 @@
         {
             "id": 1050,
             "nombre": "IRON-MAN-2",
+            "cantidad": 1
+        },
+        {
+            "id": 811,
+            "nombre": "KITANA",
             "cantidad": 1
         }
     ]
