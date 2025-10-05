@@ -1354,7 +1354,7 @@
         {
             "id": 894,
             "nombre": "RED-SKULL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 837,
@@ -4874,6 +4874,11 @@
         {
             "id": 780,
             "nombre": "BARBARA-GORDON",
+            "cantidad": 1
+        },
+        {
+            "id": 1365,
+            "nombre": "8B-NYAROMON",
             "cantidad": 1
         }
     ]
