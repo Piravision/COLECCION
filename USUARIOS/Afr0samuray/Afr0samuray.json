@@ -129,7 +129,7 @@
     {
       "id": 9,
       "nombre": "Rhadamanthys",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 90,
@@ -469,7 +469,7 @@
     {
       "id": 50,
       "nombre": "Lonberuk",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 383,
@@ -854,7 +854,7 @@
     {
       "id": 453,
       "nombre": "tyrant",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 84,
@@ -1019,7 +1019,7 @@
     {
       "id": 70,
       "nombre": "hadlar",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 268,
@@ -1129,7 +1129,7 @@
     {
       "id": 140,
       "nombre": "Mallory McMallard",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 161,
@@ -1454,7 +1454,7 @@
     {
       "id": 572,
       "nombre": "Sgt.-SLAUGTHER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 514,
@@ -1694,7 +1694,7 @@
     {
       "id": 211,
       "nombre": "Anillo Serpiente",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 323,
@@ -2019,7 +2019,7 @@
     {
       "id": 611,
       "nombre": "TERRY-DENTON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 621,
@@ -2634,7 +2634,7 @@
     {
       "id": 1014,
       "nombre": "YUGI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 345,
@@ -2874,7 +2874,7 @@
     {
       "id": 1347,
       "nombre": "6B-MOCHIMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1340,
@@ -3364,7 +3364,7 @@
     {
       "id": 554,
       "nombre": "HANSOLO-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 892,
@@ -3554,6 +3554,56 @@
     {
       "id": 1386,
       "nombre": "9-METAL-SEADRAMON",
+      "cantidad": 1
+    },
+    {
+      "id": 520,
+      "nombre": "BenGalí",
+      "cantidad": 1
+    },
+    {
+      "id": 885,
+      "nombre": "IRON-MAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1156,
+      "nombre": "ELONGATE MAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1000,
+      "nombre": "SON-GOKU",
+      "cantidad": 1
+    },
+    {
+      "id": 343,
+      "nombre": "Flazzard 2",
+      "cantidad": 1
+    },
+    {
+      "id": 1236,
+      "nombre": "1-PRINCIPE-DE-BEL-AIR",
+      "cantidad": 1
+    },
+    {
+      "id": 1193,
+      "nombre": "ULISES-31",
+      "cantidad": 1
+    },
+    {
+      "id": 973,
+      "nombre": "8-WILLY",
+      "cantidad": 1
+    },
+    {
+      "id": 776,
+      "nombre": "zedd",
+      "cantidad": 1
+    },
+    {
+      "id": 687,
+      "nombre": "DB-075",
       "cantidad": 1
     }
   ]

@@ -219,7 +219,7 @@
     {
       "id": 369,
       "nombre": "DRACULA2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 646,
@@ -1209,7 +1209,7 @@
     {
       "id": 309,
       "nombre": "Thundercracker",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 249,
@@ -1239,12 +1239,12 @@
     {
       "id": 385,
       "nombre": "brio",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 362,
       "nombre": "yugo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 555,
@@ -1394,7 +1394,7 @@
     {
       "id": 559,
       "nombre": "MABARRACUS-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 95,
@@ -4814,6 +4814,11 @@
     {
       "id": 1371,
       "nombre": "8H-FA-KARI",
+      "cantidad": 1
+    },
+    {
+      "id": 1037,
+      "nombre": "CAPITAN-AMERICA-2",
       "cantidad": 1
     }
   ]

@@ -4114,7 +4114,7 @@
         {
             "id": 756,
             "nombre": "Rhadamantis2",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 672,
@@ -5039,7 +5039,7 @@
         {
             "id": 497,
             "nombre": "nanami",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 500,
@@ -6304,7 +6304,7 @@
         {
             "id": 1364,
             "nombre": "8A-KARI",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1331,
@@ -6859,7 +6859,7 @@
         {
             "id": 1372,
             "nombre": "8I-KARI-FOIL",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1355,
@@ -6924,6 +6924,11 @@
         {
             "id": 1397,
             "nombre": "9-SCUMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1387,
+            "nombre": "9-MOJYAMON",
             "cantidad": 1
         }
     ]

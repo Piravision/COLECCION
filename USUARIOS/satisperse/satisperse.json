@@ -389,7 +389,7 @@
     {
       "id": 407,
       "nombre": "yuffie",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 417,
@@ -434,7 +434,7 @@
     {
       "id": 403,
       "nombre": "red",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 505,
@@ -564,7 +564,7 @@
     {
       "id": 180,
       "nombre": "Electro",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 281,
@@ -1839,6 +1839,36 @@
     {
       "id": 330,
       "nombre": "Magneto",
+      "cantidad": 1
+    },
+    {
+      "id": 379,
+      "nombre": "lynx",
+      "cantidad": 1
+    },
+    {
+      "id": 1224,
+      "nombre": "SAMUS",
+      "cantidad": 1
+    },
+    {
+      "id": 506,
+      "nombre": "jin",
+      "cantidad": 1
+    },
+    {
+      "id": 306,
+      "nombre": "Shockwave",
+      "cantidad": 1
+    },
+    {
+      "id": 1280,
+      "nombre": "JOTARO-KUJO",
+      "cantidad": 1
+    },
+    {
+      "id": 995,
+      "nombre": "H.SAKURAGI",
       "cantidad": 1
     }
   ]
