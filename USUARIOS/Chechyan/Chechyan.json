@@ -834,7 +834,7 @@
     {
       "id": 978,
       "nombre": "13-GARFIELD",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 295,
@@ -1009,7 +1009,7 @@
     {
       "id": 402,
       "nombre": "hojo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 8,
@@ -3404,7 +3404,7 @@
     {
       "id": 562,
       "nombre": "PETER-GRIFFIN-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1047,
@@ -4044,7 +4044,7 @@
     {
       "id": 526,
       "nombre": "Júbilo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1276,
@@ -5164,6 +5164,31 @@
     {
       "id": 728,
       "nombre": "DB-116",
+      "cantidad": 1
+    },
+    {
+      "id": 1071,
+      "nombre": "USAGENT",
+      "cantidad": 1
+    },
+    {
+      "id": 1223,
+      "nombre": "MARCO",
+      "cantidad": 1
+    },
+    {
+      "id": 1096,
+      "nombre": "CZ-RAY-STANTZ",
+      "cantidad": 1
+    },
+    {
+      "id": 308,
+      "nombre": "Starscream",
+      "cantidad": 1
+    },
+    {
+      "id": 874,
+      "nombre": "CAPTAIN-AMERICA",
       "cantidad": 1
     }
   ]

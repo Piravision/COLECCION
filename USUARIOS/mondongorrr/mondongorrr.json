@@ -1164,7 +1164,7 @@
         {
             "id": 296,
             "nombre": "Jazz",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 407,
@@ -5109,7 +5109,7 @@
         {
             "id": 983,
             "nombre": "14-ROBBIE-SINCLAIR",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 659,
@@ -5544,7 +5544,7 @@
         {
             "id": 465,
             "nombre": "air",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1063,
@@ -6559,7 +6559,7 @@
         {
             "id": 1321,
             "nombre": "3C-GABUMON",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1361,
@@ -6929,6 +6929,11 @@
         {
             "id": 1387,
             "nombre": "9-MOJYAMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1254,
+            "nombre": "SEINFELD",
             "cantidad": 1
         }
     ]

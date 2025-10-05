@@ -2239,7 +2239,7 @@
     {
       "id": 917,
       "nombre": "MYERS-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 758,
@@ -2354,7 +2354,7 @@
     {
       "id": 976,
       "nombre": "7-SABIONDO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 949,
@@ -3604,6 +3604,11 @@
     {
       "id": 687,
       "nombre": "DB-075",
+      "cantidad": 1
+    },
+    {
+      "id": 201,
+      "nombre": "Dr. paradigma",
       "cantidad": 1
     }
   ]
