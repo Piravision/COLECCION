@@ -1534,7 +1534,7 @@
     {
       "id": 378,
       "nombre": "kid",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1209,
@@ -1609,7 +1609,7 @@
     {
       "id": 589,
       "nombre": "GENTILE-SALVATORE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 722,
@@ -1819,7 +1819,7 @@
     {
       "id": 54,
       "nombre": "merle",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 826,
@@ -2144,7 +2144,7 @@
     {
       "id": 581,
       "nombre": "CLIFFORD-YUMA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1162,
@@ -2479,7 +2479,7 @@
     {
       "id": 797,
       "nombre": "MR-FREEZE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 303,
@@ -2669,7 +2669,7 @@
     {
       "id": 440,
       "nombre": "scrabs",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 662,
@@ -2999,7 +2999,7 @@
     {
       "id": 920,
       "nombre": "HAM-TYLER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1049,
@@ -3254,7 +3254,7 @@
     {
       "id": 922,
       "nombre": "LYDIA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 956,
@@ -3879,7 +3879,7 @@
     {
       "id": 1288,
       "nombre": "JAK-&-DAXTER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1120,
@@ -3984,7 +3984,7 @@
     {
       "id": 342,
       "nombre": "Flazzard",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 952,
@@ -4709,7 +4709,7 @@
     {
       "id": 1304,
       "nombre": "1D-GREYMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1187,
@@ -4869,7 +4869,7 @@
     {
       "id": 1390,
       "nombre": "9-NANIMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1323,
@@ -4989,7 +4989,7 @@
     {
       "id": 1240,
       "nombre": "CHEERS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 459,
@@ -5219,6 +5219,16 @@
     {
       "id": 463,
       "nombre": "shoma",
+      "cantidad": 1
+    },
+    {
+      "id": 724,
+      "nombre": "DB-112",
+      "cantidad": 1
+    },
+    {
+      "id": 838,
+      "nombre": "dhalsim2",
       "cantidad": 1
     }
   ]

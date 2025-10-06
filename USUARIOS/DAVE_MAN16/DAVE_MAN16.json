@@ -1304,7 +1304,7 @@
     {
       "id": 57,
       "nombre": "pop",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 598,
@@ -3064,7 +3064,7 @@
     {
       "id": 1390,
       "nombre": "9-NANIMON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 315,
@@ -3139,7 +3139,7 @@
     {
       "id": 1377,
       "nombre": "9-CHERRYMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1270,
@@ -3749,6 +3749,21 @@
     {
       "id": 833,
       "nombre": "blanka2",
+      "cantidad": 1
+    },
+    {
+      "id": 484,
+      "nombre": "Blowhard",
+      "cantidad": 1
+    },
+    {
+      "id": 1396,
+      "nombre": "9-PUPPETMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1368,
+      "nombre": "8E-ANGEWOMON",
       "cantidad": 1
     }
   ]

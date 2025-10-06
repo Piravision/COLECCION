@@ -944,7 +944,7 @@
     {
       "id": 23,
       "nombre": "Amo del Calabozo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 789,
@@ -1709,7 +1709,7 @@
     {
       "id": 462,
       "nombre": "sakura",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 458,
@@ -2189,7 +2189,7 @@
     {
       "id": 1130,
       "nombre": "MARS-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 438,
@@ -2314,7 +2314,7 @@
     {
       "id": 344,
       "nombre": "Flazzard 3",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 367,
@@ -2614,7 +2614,7 @@
     {
       "id": 664,
       "nombre": "DB-052",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 99,
@@ -3084,7 +3084,7 @@
     {
       "id": 1261,
       "nombre": "FA-MEGAMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 734,
@@ -3224,7 +3224,7 @@
     {
       "id": 663,
       "nombre": "DB-051",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 822,
@@ -3974,7 +3974,7 @@
     {
       "id": 1394,
       "nombre": "9-PIXIMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1325,
@@ -4094,7 +4094,7 @@
     {
       "id": 1390,
       "nombre": "9-NANIMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1379,
@@ -4234,7 +4234,7 @@
     {
       "id": 1362,
       "nombre": "7H-FA-TK",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 700,
@@ -4429,7 +4429,7 @@
     {
       "id": 1314,
       "nombre": "2E-ZUDOMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1361,
@@ -4504,7 +4504,7 @@
     {
       "id": 264,
       "nombre": "Donatello",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1075,
@@ -4764,7 +4764,7 @@
     {
       "id": 1318,
       "nombre": "2I-JOE-FOIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1386,
@@ -4909,6 +4909,16 @@
     {
       "id": 1380,
       "nombre": "9-ETERMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1257,
+      "nombre": "WALKER-TEXAS-RANGER)",
+      "cantidad": 1
+    },
+    {
+      "id": 1352,
+      "nombre": "6G-TENTOMON-EVO",
       "cantidad": 1
     }
   ]

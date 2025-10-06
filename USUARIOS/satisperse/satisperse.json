@@ -174,7 +174,7 @@
     {
       "id": 688,
       "nombre": "DB-076",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 574,
@@ -1654,7 +1654,7 @@
     {
       "id": 1235,
       "nombre": "0-LOS-VISITANTES",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 143,
@@ -1674,7 +1674,7 @@
     {
       "id": 936,
       "nombre": "THE-ROCK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1206,
@@ -1869,6 +1869,21 @@
     {
       "id": 995,
       "nombre": "H.SAKURAGI",
+      "cantidad": 1
+    },
+    {
+      "id": 133,
+      "nombre": "Trap Jaw",
+      "cantidad": 1
+    },
+    {
+      "id": 478,
+      "nombre": "nurse",
+      "cantidad": 1
+    },
+    {
+      "id": 39,
+      "nombre": "captain",
       "cantidad": 1
     }
   ]

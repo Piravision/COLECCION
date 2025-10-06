@@ -789,7 +789,7 @@
     {
       "id": 206,
       "nombre": "Slash",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 572,
@@ -849,7 +849,7 @@
     {
       "id": 880,
       "nombre": "GREEN-GOBLIN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 106,
@@ -1224,7 +1224,7 @@
     {
       "id": 354,
       "nombre": "alice",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 373,
@@ -1834,7 +1834,7 @@
     {
       "id": 588,
       "nombre": "FRANZ-SCHESTER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1174,
@@ -2399,6 +2399,31 @@
     {
       "id": 850,
       "nombre": "T-HAWK",
+      "cantidad": 1
+    },
+    {
+      "id": 344,
+      "nombre": "Flazzard 3",
+      "cantidad": 1
+    },
+    {
+      "id": 1186,
+      "nombre": "KENSHIRO",
+      "cantidad": 1
+    },
+    {
+      "id": 673,
+      "nombre": "DB-061",
+      "cantidad": 1
+    },
+    {
+      "id": 159,
+      "nombre": "Quicksilver",
+      "cantidad": 1
+    },
+    {
+      "id": 500,
+      "nombre": "shu",
       "cantidad": 1
     }
   ]
