@@ -439,7 +439,7 @@
         {
             "id": 421,
             "nombre": "mei2",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 444,
@@ -1024,7 +1024,7 @@
         {
             "id": 262,
             "nombre": "April O'Neil",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 419,
@@ -3024,7 +3024,7 @@
         {
             "id": 810,
             "nombre": "KANO",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 698,
@@ -3234,7 +3234,7 @@
         {
             "id": 881,
             "nombre": "HAWKEYE",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 486,
@@ -6819,6 +6819,11 @@
         {
             "id": 1324,
             "nombre": "3F-METALGARURUMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1390,
+            "nombre": "9-NANIMON",
             "cantidad": 1
         }
     ]

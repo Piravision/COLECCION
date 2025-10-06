@@ -939,7 +939,7 @@
     {
       "id": 616,
       "nombre": "DB-004",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 601,
@@ -2294,7 +2294,7 @@
     {
       "id": 850,
       "nombre": "T-HAWK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1117,
@@ -2429,7 +2429,7 @@
     {
       "id": 852,
       "nombre": "ZANGIEF",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 846,
@@ -3584,7 +3584,7 @@
     {
       "id": 1351,
       "nombre": "6F-HERCULES-KABUTERIMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1354,
@@ -3724,6 +3724,31 @@
     {
       "id": 864,
       "nombre": "RAMBO-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1355,
+      "nombre": "7A-TK",
+      "cantidad": 1
+    },
+    {
+      "id": 1317,
+      "nombre": "2H-FA-JOE",
+      "cantidad": 1
+    },
+    {
+      "id": 722,
+      "nombre": "DB-110",
+      "cantidad": 1
+    },
+    {
+      "id": 494,
+      "nombre": "jillia",
+      "cantidad": 1
+    },
+    {
+      "id": 833,
+      "nombre": "blanka2",
       "cantidad": 1
     }
   ]

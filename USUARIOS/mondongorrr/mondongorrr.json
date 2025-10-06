@@ -3224,7 +3224,7 @@
     {
       "id": 980,
       "nombre": "14-EARL-SINCLAIR",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 972,
@@ -5659,7 +5659,7 @@
     {
       "id": 1041,
       "nombre": "FALCON-2",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1065,
@@ -6939,6 +6939,11 @@
     {
       "id": 1329,
       "nombre": "4B-TANEMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1183,
+      "nombre": "LOS-DIMINUTOS",
       "cantidad": 1
     }
   ]
