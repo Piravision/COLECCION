@@ -4169,7 +4169,7 @@
         {
             "id": 396,
             "nombre": "aeris",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 35,
@@ -5009,6 +5009,11 @@
         {
             "id": 21,
             "nombre": "Windfang",
+            "cantidad": 1
+        },
+        {
+            "id": 398,
+            "nombre": "barret",
             "cantidad": 1
         }
     ]
