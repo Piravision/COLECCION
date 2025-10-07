@@ -1719,7 +1719,7 @@
         {
             "id": 702,
             "nombre": "DB-090",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 365,
@@ -5424,6 +5424,11 @@
         {
             "id": 1376,
             "nombre": "9-CENTALMON",
+            "cantidad": 1
+        },
+        {
+            "id": 696,
+            "nombre": "DB-084",
             "cantidad": 1
         }
     ]
