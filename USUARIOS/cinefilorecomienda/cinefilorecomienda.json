@@ -1999,7 +1999,7 @@
         {
             "id": 404,
             "nombre": "sefirot",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 285,
@@ -5014,6 +5014,11 @@
         {
             "id": 398,
             "nombre": "barret",
+            "cantidad": 1
+        },
+        {
+            "id": 405,
+            "nombre": "tifa",
             "cantidad": 1
         }
     ]
