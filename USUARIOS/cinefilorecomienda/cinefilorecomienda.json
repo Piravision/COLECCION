@@ -929,7 +929,7 @@
         {
             "id": 19,
             "nombre": "Set",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 181,
@@ -4999,6 +4999,11 @@
         {
             "id": 379,
             "nombre": "lynx",
+            "cantidad": 1
+        },
+        {
+            "id": 20,
+            "nombre": "Skulkur",
             "cantidad": 1
         }
     ]
