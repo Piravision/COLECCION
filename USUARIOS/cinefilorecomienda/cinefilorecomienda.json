@@ -2969,7 +2969,7 @@
         {
             "id": 22,
             "nombre": "Wrath Amon",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1285,
@@ -5004,6 +5004,11 @@
         {
             "id": 20,
             "nombre": "Skulkur",
+            "cantidad": 1
+        },
+        {
+            "id": 21,
+            "nombre": "Windfang",
             "cantidad": 1
         }
     ]
