@@ -304,7 +304,7 @@
         {
             "id": 538,
             "nombre": "BRUCE-LEE",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 717,
@@ -5154,6 +5154,11 @@
         {
             "id": 545,
             "nombre": "IVAN-DRAGO",
+            "cantidad": 1
+        },
+        {
+            "id": 549,
+            "nombre": "T-1000",
             "cantidad": 1
         }
     ]
