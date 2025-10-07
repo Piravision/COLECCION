@@ -1,135 +1,185 @@
 {
-  "usuario": "FranAhmed1313",
-  "cromos": [
-    {
-      "id": 330,
-      "nombre": "Magneto",
-      "cantidad": 1
-    },
-    {
-      "id": 1203,
-      "nombre": "2Z-PAC-MAN",
-      "cantidad": 1
-    },
-    {
-      "id": 421,
-      "nombre": "mei2",
-      "cantidad": 1
-    },
-    {
-      "id": 1069,
-      "nombre": "TIGRA",
-      "cantidad": 1
-    },
-    {
-      "id": 1064,
-      "nombre": "SP- VENOM-2",
-      "cantidad": 1
-    },
-    {
-      "id": 838,
-      "nombre": "dhalsim2",
-      "cantidad": 1
-    },
-    {
-      "id": 773,
-      "nombre": "Squatt",
-      "cantidad": 1
-    },
-    {
-      "id": 767,
-      "nombre": "green",
-      "cantidad": 1
-    },
-    {
-      "id": 771,
-      "nombre": "rita",
-      "cantidad": 1
-    },
-    {
-      "id": 218,
-      "nombre": "Cybertron",
-      "cantidad": 1
-    },
-    {
-      "id": 853,
-      "nombre": "Zangief2",
-      "cantidad": 1
-    },
-    {
-      "id": 896,
-      "nombre": "SHE-HULK",
-      "cantidad": 2
-    },
-    {
-      "id": 394,
-      "nombre": "vsneo",
-      "cantidad": 1
-    },
-    {
-      "id": 893,
-      "nombre": "OCTOPUS",
-      "cantidad": 1
-    },
-    {
-      "id": 1078,
-      "nombre": "X -PHOENIX",
-      "cantidad": 1
-    },
-    {
-      "id": 930,
-      "nombre": "MANKIND",
-      "cantidad": 1
-    },
-    {
-      "id": 406,
-      "nombre": "turcos",
-      "cantidad": 1
-    },
-    {
-      "id": 1206,
-      "nombre": "3a-SONIC",
-      "cantidad": 1
-    },
-    {
-      "id": 352,
-      "nombre": "septimus",
-      "cantidad": 1
-    },
-    {
-      "id": 227,
-      "nombre": "Hawks Haven",
-      "cantidad": 1
-    },
-    {
-      "id": 1060,
-      "nombre": "QUICKSILVER",
-      "cantidad": 1
-    },
-    {
-      "id": 1311,
-      "nombre": "2B-BUKAMON",
-      "cantidad": 1
-    },
-    {
-      "id": 348,
-      "nombre": "Meia",
-      "cantidad": 1
-    },
-    {
-      "id": 447,
-      "nombre": "hunk",
-      "cantidad": 1
-    },
-    {
-      "id": 131,
-      "nombre": "Scare Glow(",
-      "cantidad": 1
-    },
-    {
-      "id": 1133,
-      "nombre": "AGALLAS",
-      "cantidad": 1
-    }
-  ]
+    "usuario": "FranAhmed1313",
+    "cromos": [
+        {
+            "id": 330,
+            "nombre": "Magneto",
+            "cantidad": 1
+        },
+        {
+            "id": 1203,
+            "nombre": "2Z-PAC-MAN",
+            "cantidad": 1
+        },
+        {
+            "id": 421,
+            "nombre": "mei2",
+            "cantidad": 1
+        },
+        {
+            "id": 1069,
+            "nombre": "TIGRA",
+            "cantidad": 1
+        },
+        {
+            "id": 1064,
+            "nombre": "SP- VENOM-2",
+            "cantidad": 1
+        },
+        {
+            "id": 838,
+            "nombre": "dhalsim2",
+            "cantidad": 1
+        },
+        {
+            "id": 773,
+            "nombre": "Squatt",
+            "cantidad": 1
+        },
+        {
+            "id": 767,
+            "nombre": "green",
+            "cantidad": 1
+        },
+        {
+            "id": 771,
+            "nombre": "rita",
+            "cantidad": 1
+        },
+        {
+            "id": 218,
+            "nombre": "Cybertron",
+            "cantidad": 1
+        },
+        {
+            "id": 853,
+            "nombre": "Zangief2",
+            "cantidad": 1
+        },
+        {
+            "id": 896,
+            "nombre": "SHE-HULK",
+            "cantidad": 1
+        },
+        {
+            "id": 394,
+            "nombre": "vsneo",
+            "cantidad": 1
+        },
+        {
+            "id": 893,
+            "nombre": "OCTOPUS",
+            "cantidad": 1
+        },
+        {
+            "id": 1078,
+            "nombre": "X -PHOENIX",
+            "cantidad": 1
+        },
+        {
+            "id": 930,
+            "nombre": "MANKIND",
+            "cantidad": 1
+        },
+        {
+            "id": 406,
+            "nombre": "turcos",
+            "cantidad": 1
+        },
+        {
+            "id": 1206,
+            "nombre": "3a-SONIC",
+            "cantidad": 1
+        },
+        {
+            "id": 352,
+            "nombre": "septimus",
+            "cantidad": 1
+        },
+        {
+            "id": 227,
+            "nombre": "Hawks Haven",
+            "cantidad": 1
+        },
+        {
+            "id": 1060,
+            "nombre": "QUICKSILVER",
+            "cantidad": 1
+        },
+        {
+            "id": 1311,
+            "nombre": "2B-BUKAMON",
+            "cantidad": 1
+        },
+        {
+            "id": 348,
+            "nombre": "Meia",
+            "cantidad": 1
+        },
+        {
+            "id": 447,
+            "nombre": "hunk",
+            "cantidad": 1
+        },
+        {
+            "id": 131,
+            "nombre": "Scare Glow(",
+            "cantidad": 1
+        },
+        {
+            "id": 1133,
+            "nombre": "AGALLAS",
+            "cantidad": 1
+        },
+        {
+            "id": 1050,
+            "nombre": "IRON-MAN-2",
+            "cantidad": 1
+        },
+        {
+            "id": 1183,
+            "nombre": "LOS-DIMINUTOS",
+            "cantidad": 1
+        },
+        {
+            "id": 954,
+            "nombre": "2-CHIP",
+            "cantidad": 1
+        },
+        {
+            "id": 1397,
+            "nombre": "9-SCUMON",
+            "cantidad": 1
+        },
+        {
+            "id": 914,
+            "nombre": "SUPERMAN",
+            "cantidad": 1
+        },
+        {
+            "id": 903,
+            "nombre": "BIZARRE",
+            "cantidad": 1
+        },
+        {
+            "id": 638,
+            "nombre": "DB-026",
+            "cantidad": 1
+        },
+        {
+            "id": 1040,
+            "nombre": "DR STRANGE",
+            "cantidad": 1
+        },
+        {
+            "id": 156,
+            "nombre": "Lord Camembert",
+            "cantidad": 1
+        },
+        {
+            "id": 879,
+            "nombre": "GHOST-RIDER",
+            "cantidad": 1
+        }
+    ]
 }

@@ -2234,7 +2234,7 @@
     {
       "id": 540,
       "nombre": "CHUCK-NORRIS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 925,
@@ -2869,7 +2869,7 @@
     {
       "id": 1032,
       "nombre": "BV- VISION",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 877,
@@ -4879,6 +4879,11 @@
     {
       "id": 1351,
       "nombre": "6F-HERCULES-KABUTERIMON",
+      "cantidad": 1
+    },
+    {
+      "id": 775,
+      "nombre": "yellow",
       "cantidad": 1
     }
   ]
