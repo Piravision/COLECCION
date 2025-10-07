@@ -3384,7 +3384,7 @@
         {
             "id": 90,
             "nombre": "Broadway",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 32,
@@ -5029,6 +5029,11 @@
         {
             "id": 91,
             "nombre": "Bronx",
+            "cantidad": 1
+        },
+        {
+            "id": 93,
+            "nombre": "Elisa Maza",
             "cantidad": 1
         }
     ]
