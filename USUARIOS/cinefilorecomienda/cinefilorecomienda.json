@@ -2044,7 +2044,7 @@
         {
             "id": 1125,
             "nombre": "GON",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 471,
@@ -4979,6 +4979,11 @@
         {
             "id": 375,
             "nombre": "Grobyc",
+            "cantidad": 1
+        },
+        {
+            "id": 376,
+            "nombre": "guile",
             "cantidad": 1
         }
     ]
