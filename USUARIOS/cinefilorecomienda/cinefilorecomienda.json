@@ -2119,7 +2119,7 @@
         {
             "id": 446,
             "nombre": "CUERVOS",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 449,
@@ -5079,6 +5079,11 @@
         {
             "id": 447,
             "nombre": "hunk",
+            "cantidad": 1
+        },
+        {
+            "id": 448,
+            "nombre": "leon1",
             "cantidad": 1
         }
     ]
