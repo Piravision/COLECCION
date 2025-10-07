@@ -1499,7 +1499,7 @@
     {
       "id": 648,
       "nombre": "DB-036",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 916,
@@ -1664,7 +1664,7 @@
     {
       "id": 857,
       "nombre": "DOC-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 919,
@@ -3764,6 +3764,11 @@
     {
       "id": 1368,
       "nombre": "8E-ANGEWOMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1050,
+      "nombre": "IRON-MAN-2",
       "cantidad": 1
     }
   ]
