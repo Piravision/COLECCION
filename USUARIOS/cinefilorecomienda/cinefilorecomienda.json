@@ -1554,7 +1554,7 @@
         {
             "id": 988,
             "nombre": "ASH-&-PIKACHU",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 335,
@@ -4969,6 +4969,11 @@
         {
             "id": 370,
             "nombre": "muerte",
+            "cantidad": 1
+        },
+        {
+            "id": 373,
+            "nombre": "SHAFT",
             "cantidad": 1
         }
     ]
