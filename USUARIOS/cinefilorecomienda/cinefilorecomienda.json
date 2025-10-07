@@ -1199,7 +1199,7 @@
         {
             "id": 1009,
             "nombre": "SHIN-CHAN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1010,
@@ -4989,6 +4989,11 @@
         {
             "id": 377,
             "nombre": "harle",
+            "cantidad": 1
+        },
+        {
+            "id": 378,
+            "nombre": "kid",
             "cantidad": 1
         }
     ]
