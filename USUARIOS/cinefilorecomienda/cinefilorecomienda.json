@@ -1349,7 +1349,7 @@
         {
             "id": 147,
             "nombre": "Carbine",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 894,
@@ -5059,6 +5059,11 @@
         {
             "id": 143,
             "nombre": "Wildwing Flashblade",
+            "cantidad": 1
+        },
+        {
+            "id": 148,
+            "nombre": "Charlene _Charley_ Davidson",
             "cantidad": 1
         }
     ]
