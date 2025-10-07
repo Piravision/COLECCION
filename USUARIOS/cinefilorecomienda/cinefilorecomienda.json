@@ -2134,7 +2134,7 @@
         {
             "id": 296,
             "nombre": "Jazz",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 37,
@@ -5129,6 +5129,11 @@
         {
             "id": 293,
             "nombre": "Hot Rod",
+            "cantidad": 1
+        },
+        {
+            "id": 304,
+            "nombre": "Runabout",
             "cantidad": 1
         }
     ]
