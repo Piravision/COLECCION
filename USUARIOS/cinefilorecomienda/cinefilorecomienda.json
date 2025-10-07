@@ -1654,7 +1654,7 @@
         {
             "id": 453,
             "nombre": "tyrant",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 726,
@@ -5084,6 +5084,11 @@
         {
             "id": 448,
             "nombre": "leon1",
+            "cantidad": 1
+        },
+        {
+            "id": 452,
+            "nombre": "sherry",
             "cantidad": 1
         }
     ]
