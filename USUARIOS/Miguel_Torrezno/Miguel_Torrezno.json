@@ -1774,7 +1774,7 @@
         {
             "id": 799,
             "nombre": "POISON-IVY",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 290,
@@ -5479,6 +5479,11 @@
         {
             "id": 786,
             "nombre": "DICK-GRAYSON",
+            "cantidad": 1
+        },
+        {
+            "id": 798,
+            "nombre": "PINGUINO",
             "cantidad": 1
         }
     ]
