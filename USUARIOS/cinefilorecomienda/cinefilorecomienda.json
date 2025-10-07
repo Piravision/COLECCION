@@ -1689,7 +1689,7 @@
         {
             "id": 523,
             "nombre": "lara2",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1215,
@@ -5114,6 +5114,11 @@
         {
             "id": 509,
             "nombre": "NINA",
+            "cantidad": 1
+        },
+        {
+            "id": 511,
+            "nombre": "YOSHI",
             "cantidad": 1
         }
     ]
