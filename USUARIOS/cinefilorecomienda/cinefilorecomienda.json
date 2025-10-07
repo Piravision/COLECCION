@@ -1399,7 +1399,7 @@
         {
             "id": 294,
             "nombre": "Hound",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 259,
@@ -5119,6 +5119,11 @@
         {
             "id": 511,
             "nombre": "YOSHI",
+            "cantidad": 1
+        },
+        {
+            "id": 292,
+            "nombre": "Bumblebee",
             "cantidad": 1
         }
     ]
