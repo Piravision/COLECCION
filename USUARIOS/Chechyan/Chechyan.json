@@ -2474,7 +2474,7 @@
     {
       "id": 625,
       "nombre": "DB-013",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 797,
@@ -2529,7 +2529,7 @@
     {
       "id": 1299,
       "nombre": "FA-GOLDEN-AXE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 710,
@@ -2889,7 +2889,7 @@
     {
       "id": 1144,
       "nombre": "SUPERNENAS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1029,
@@ -3064,7 +3064,7 @@
     {
       "id": 552,
       "nombre": "CHEWBACCA-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 464,
@@ -5234,6 +5234,16 @@
     {
       "id": 1359,
       "nombre": "7E-MAGNA-ANGEMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1321,
+      "nombre": "3C-GABUMON",
+      "cantidad": 1
+    },
+    {
+      "id": 973,
+      "nombre": "8-WILLY",
       "cantidad": 1
     }
   ]

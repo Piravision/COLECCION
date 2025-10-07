@@ -254,7 +254,7 @@
     {
       "id": 370,
       "nombre": "muerte",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 652,
@@ -1984,7 +1984,7 @@
     {
       "id": 250,
       "nombre": "Snarf",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 839,
@@ -2424,6 +2424,11 @@
     {
       "id": 500,
       "nombre": "shu",
+      "cantidad": 1
+    },
+    {
+      "id": 335,
+      "nombre": "Toad",
       "cantidad": 1
     }
   ]

@@ -1854,7 +1854,7 @@
     {
       "id": 475,
       "nombre": "Incubus",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 235,
@@ -2994,7 +2994,7 @@
     {
       "id": 430,
       "nombre": "sniper2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 634,
@@ -4074,7 +4074,7 @@
     {
       "id": 880,
       "nombre": "GREEN-GOBLIN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 987,
@@ -6759,6 +6759,31 @@
     {
       "id": 1287,
       "nombre": "IORI-YAGAMI",
+      "cantidad": 1
+    },
+    {
+      "id": 1196,
+      "nombre": "1-YOSHI",
+      "cantidad": 1
+    },
+    {
+      "id": 1283,
+      "nombre": "TAKUMI-FUJIWARA",
+      "cantidad": 1
+    },
+    {
+      "id": 1331,
+      "nombre": "4D-TOGEMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1264,
+      "nombre": "ARTHUR",
+      "cantidad": 1
+    },
+    {
+      "id": 1328,
+      "nombre": "4A-MIMI",
       "cantidad": 1
     }
   ]
