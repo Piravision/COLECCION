@@ -3429,7 +3429,7 @@
         {
             "id": 866,
             "nombre": "SNAKE-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 967,
@@ -5444,6 +5444,11 @@
         {
             "id": 860,
             "nombre": "MAHONEY-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 863,
+            "nombre": "PREDATOR-JAIL",
             "cantidad": 1
         }
     ]

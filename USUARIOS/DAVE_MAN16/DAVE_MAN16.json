@@ -3054,7 +3054,7 @@
         {
             "id": 863,
             "nombre": "PREDATOR-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 562,
@@ -3774,6 +3774,11 @@
         {
             "id": 535,
             "nombre": "Venkman-Jail",
+            "cantidad": 1
+        },
+        {
+            "id": 866,
+            "nombre": "SNAKE-JAIL",
             "cantidad": 1
         }
     ]
