@@ -1209,7 +1209,7 @@
         {
             "id": 294,
             "nombre": "Hound",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 402,
@@ -5504,6 +5504,11 @@
         {
             "id": 810,
             "nombre": "KANO",
+            "cantidad": 1
+        },
+        {
+            "id": 299,
+            "nombre": "Sunstreaker",
             "cantidad": 1
         }
     ]

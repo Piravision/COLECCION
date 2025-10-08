@@ -734,7 +734,7 @@
         {
             "id": 299,
             "nombre": "Sunstreaker",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 25,
@@ -3779,6 +3779,11 @@
         {
             "id": 412,
             "nombre": "big2",
+            "cantidad": 1
+        },
+        {
+            "id": 294,
+            "nombre": "Hound",
             "cantidad": 1
         }
     ]
