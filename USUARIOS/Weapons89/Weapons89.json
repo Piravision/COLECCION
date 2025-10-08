@@ -2699,7 +2699,7 @@
         {
             "id": 921,
             "nombre": "JULIET-PARRISH",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 931,
@@ -6635,6 +6635,11 @@
             "id": 1231,
             "nombre": "POPEYE",
             "cantidad": 2
+        },
+        {
+            "id": 1291,
+            "nombre": "SPARKSTER",
+            "cantidad": 1
         }
     ]
 }
