@@ -279,7 +279,7 @@
     {
       "id": 208,
       "nombre": "Tentakill",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 212,
@@ -3274,7 +3274,7 @@
     {
       "id": 1090,
       "nombre": "ANIMANIACS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 783,
@@ -4154,7 +4154,7 @@
     {
       "id": 1341,
       "nombre": "5E-GARUDAMON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1329,
@@ -4519,7 +4519,7 @@
     {
       "id": 1350,
       "nombre": "6E-MEGAKABUTERIMON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1332,
@@ -4874,7 +4874,7 @@
     {
       "id": 1323,
       "nombre": "3E-WEREGARURUMON",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1306,
@@ -5009,7 +5009,7 @@
     {
       "id": 1360,
       "nombre": "7F-SERAPHIMON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 125,
@@ -5139,7 +5139,7 @@
     {
       "id": 1344,
       "nombre": "5H-FA-SORA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1372,
@@ -5254,6 +5254,16 @@
     {
       "id": 698,
       "nombre": "DB-086",
+      "cantidad": 1
+    },
+    {
+      "id": 179,
+      "nombre": "Duende Verde",
+      "cantidad": 1
+    },
+    {
+      "id": 1326,
+      "nombre": "3H-FA-MATT",
       "cantidad": 1
     }
   ]
