@@ -689,7 +689,7 @@
     {
       "id": 1149,
       "nombre": "ATOM",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1169,
@@ -1059,7 +1059,7 @@
     {
       "id": 451,
       "nombre": "perros",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 445,
@@ -1199,7 +1199,7 @@
     {
       "id": 448,
       "nombre": "leon1",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 560,
@@ -1234,6 +1234,21 @@
     {
       "id": 431,
       "nombre": "solid",
+      "cantidad": 1
+    },
+    {
+      "id": 352,
+      "nombre": "septimus",
+      "cantidad": 1
+    },
+    {
+      "id": 964,
+      "nombre": "3-TODD-&-SMILEY",
+      "cantidad": 1
+    },
+    {
+      "id": 449,
+      "nombre": "leon2",
       "cantidad": 1
     }
   ]

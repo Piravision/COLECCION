@@ -1104,7 +1104,7 @@
     {
       "id": 864,
       "nombre": "RAMBO-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1232,
@@ -1909,6 +1909,16 @@
     {
       "id": 90,
       "nombre": "Broadway",
+      "cantidad": 1
+    },
+    {
+      "id": 354,
+      "nombre": "alice",
+      "cantidad": 1
+    },
+    {
+      "id": 1074,
+      "nombre": "X -BESTIA",
       "cantidad": 1
     }
   ]

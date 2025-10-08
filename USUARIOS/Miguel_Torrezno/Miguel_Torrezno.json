@@ -139,7 +139,7 @@
         {
             "id": 167,
             "nombre": "Gwen Stacy",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 136,
@@ -2714,7 +2714,7 @@
         {
             "id": 510,
             "nombre": "PAUL",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 748,
@@ -2964,7 +2964,7 @@
         {
             "id": 724,
             "nombre": "DB-112",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 842,
@@ -3839,7 +3839,7 @@
         {
             "id": 1291,
             "nombre": "SPARKSTER",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 459,
@@ -4394,7 +4394,7 @@
         {
             "id": 1010,
             "nombre": "LUPIN-III",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 796,
@@ -5484,6 +5484,21 @@
         {
             "id": 798,
             "nombre": "PINGUINO",
+            "cantidad": 1
+        },
+        {
+            "id": 1218,
+            "nombre": "BATTLETOAD",
+            "cantidad": 1
+        },
+        {
+            "id": 513,
+            "nombre": "DISCÍPULOS-DE-AVAN",
+            "cantidad": 1
+        },
+        {
+            "id": 1389,
+            "nombre": "9-MYOTISMON",
             "cantidad": 1
         }
     ]

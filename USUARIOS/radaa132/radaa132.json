@@ -14,7 +14,7 @@
     {
       "id": 189,
       "nombre": "Shocker",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 256,
@@ -424,7 +424,7 @@
     {
       "id": 419,
       "nombre": "lquid",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 356,
@@ -1034,7 +1034,7 @@
     {
       "id": 197,
       "nombre": "Rox",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 81,
@@ -1069,7 +1069,7 @@
     {
       "id": 485,
       "nombre": "Dr_Shemp",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 866,
@@ -1304,7 +1304,7 @@
     {
       "id": 661,
       "nombre": "DB-049",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 294,
@@ -1544,7 +1544,7 @@
     {
       "id": 295,
       "nombre": "Ironhide",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 135,
@@ -2279,7 +2279,7 @@
     {
       "id": 921,
       "nombre": "JULIET-PARRISH",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1136,
@@ -2504,7 +2504,7 @@
     {
       "id": 1156,
       "nombre": "ELONGATE MAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 341,
@@ -2719,7 +2719,7 @@
     {
       "id": 749,
       "nombre": "Hilda",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 216,
@@ -2734,7 +2734,7 @@
     {
       "id": 471,
       "nombre": "Garland",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 920,
@@ -2804,7 +2804,7 @@
     {
       "id": 954,
       "nombre": "2-CHIP",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 948,
@@ -4659,7 +4659,7 @@
     {
       "id": 687,
       "nombre": "DB-075",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1342,
@@ -4734,7 +4734,7 @@
     {
       "id": 1324,
       "nombre": "3F-METALGARURUMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 441,
@@ -4884,6 +4884,31 @@
     {
       "id": 775,
       "nombre": "yellow",
+      "cantidad": 1
+    },
+    {
+      "id": 1367,
+      "nombre": "8D-GATOMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1100,
+      "nombre": "D-GOSALYN",
+      "cantidad": 1
+    },
+    {
+      "id": 220,
+      "nombre": "DRAGON QUEST",
+      "cantidad": 1
+    },
+    {
+      "id": 1319,
+      "nombre": "3A-MATT",
+      "cantidad": 1
+    },
+    {
+      "id": 1171,
+      "nombre": "ROBIN",
       "cantidad": 1
     }
   ]

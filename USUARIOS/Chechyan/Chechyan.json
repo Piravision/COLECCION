@@ -879,7 +879,7 @@
     {
       "id": 164,
       "nombre": "Black Cat",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 423,
@@ -1319,7 +1319,7 @@
     {
       "id": 1208,
       "nombre": "4-CAPTAIN-COMMANDO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1138,
@@ -1344,7 +1344,7 @@
     {
       "id": 696,
       "nombre": "DB-084",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 620,
@@ -1399,7 +1399,7 @@
     {
       "id": 647,
       "nombre": "DB-035",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1073,
@@ -1774,7 +1774,7 @@
     {
       "id": 17,
       "nombre": "Guerrero Serpiente",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 549,
@@ -2049,7 +2049,7 @@
     {
       "id": 159,
       "nombre": "Quicksilver",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1016,
@@ -2284,7 +2284,7 @@
     {
       "id": 408,
       "nombre": "Elisa--Gárgola",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 192,
@@ -2859,7 +2859,7 @@
     {
       "id": 1261,
       "nombre": "FA-MEGAMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 429,
@@ -2879,7 +2879,7 @@
     {
       "id": 357,
       "nombre": "china",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 451,
@@ -3324,7 +3324,7 @@
     {
       "id": 122,
       "nombre": "She ra",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 388,
@@ -5244,6 +5244,16 @@
     {
       "id": 973,
       "nombre": "8-WILLY",
+      "cantidad": 1
+    },
+    {
+      "id": 1201,
+      "nombre": "2Z-BOMBERMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 698,
+      "nombre": "DB-086",
       "cantidad": 1
     }
   ]
