@@ -3264,7 +3264,7 @@
         {
             "id": 810,
             "nombre": "KANO",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1024,
@@ -3774,6 +3774,11 @@
         {
             "id": 1010,
             "nombre": "LUPIN-III",
+            "cantidad": 1
+        },
+        {
+            "id": 412,
+            "nombre": "big2",
             "cantidad": 1
         }
     ]
