@@ -759,7 +759,7 @@
     {
       "id": 464,
       "nombre": "yamada",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1258,
@@ -1079,7 +1079,7 @@
     {
       "id": 487,
       "nombre": "Jacques",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 141,
@@ -2414,7 +2414,7 @@
     {
       "id": 673,
       "nombre": "DB-061",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 159,
@@ -2609,6 +2609,21 @@
     {
       "id": 315,
       "nombre": "Emma Frost",
+      "cantidad": 1
+    },
+    {
+      "id": 1028,
+      "nombre": "BLACK KNIGHT",
+      "cantidad": 1
+    },
+    {
+      "id": 401,
+      "nombre": "cloud",
+      "cantidad": 1
+    },
+    {
+      "id": 913,
+      "nombre": "SUPERGIRL",
       "cantidad": 1
     }
   ]
