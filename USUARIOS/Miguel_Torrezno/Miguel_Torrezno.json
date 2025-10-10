@@ -294,7 +294,7 @@
     {
       "id": 285,
       "nombre": "Rocksteady",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 378,
@@ -319,7 +319,7 @@
     {
       "id": 30,
       "nombre": "Uni",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 350,
@@ -489,7 +489,7 @@
     {
       "id": 31,
       "nombre": "Tiamat",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 181,
@@ -869,7 +869,7 @@
     {
       "id": 29,
       "nombre": "Sheila",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 424,
@@ -919,7 +919,7 @@
     {
       "id": 546,
       "nombre": "MARTY-MCFLY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 511,
@@ -1269,7 +1269,7 @@
     {
       "id": 323,
       "nombre": "Tormenta",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 311,
@@ -2879,7 +2879,7 @@
     {
       "id": 958,
       "nombre": "2-ZIPPER",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 409,
@@ -5589,6 +5589,16 @@
     {
       "id": 1183,
       "nombre": "LOS-DIMINUTOS",
+      "cantidad": 1
+    },
+    {
+      "id": 1316,
+      "nombre": "2G-GOMAMON-EVO",
+      "cantidad": 1
+    },
+    {
+      "id": 1055,
+      "nombre": "NIGHTHAWK",
       "cantidad": 1
     }
   ]

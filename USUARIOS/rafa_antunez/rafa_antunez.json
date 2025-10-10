@@ -374,12 +374,12 @@
     {
       "id": 1154,
       "nombre": "CATWOMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 125,
       "nombre": "Teela",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 338,
@@ -584,7 +584,7 @@
     {
       "id": 276,
       "nombre": "Baxter",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 900,
@@ -859,7 +859,7 @@
     {
       "id": 484,
       "nombre": "Blowhard",
-      "cantidad": 2
+      "cantidad": 4
     },
     {
       "id": 886,
@@ -1064,7 +1064,7 @@
     {
       "id": 960,
       "nombre": "3-LESTRADE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 735,
@@ -1374,7 +1374,7 @@
     {
       "id": 905,
       "nombre": "DARKSEID",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 169,
@@ -1404,7 +1404,7 @@
     {
       "id": 937,
       "nombre": "TRIPLE-H",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 432,
@@ -1579,7 +1579,7 @@
     {
       "id": 688,
       "nombre": "DB-076",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 611,
@@ -1934,7 +1934,7 @@
     {
       "id": 1375,
       "nombre": "9-BAKEMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 514,
@@ -1974,7 +1974,7 @@
     {
       "id": 1289,
       "nombre": "KID-ICARUS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 695,
@@ -2369,7 +2369,7 @@
     {
       "id": 1351,
       "nombre": "6F-HERCULES-KABUTERIMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1323,
@@ -2524,7 +2524,7 @@
     {
       "id": 840,
       "nombre": "FEI-LONG",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1267,
@@ -2624,6 +2624,76 @@
     {
       "id": 913,
       "nombre": "SUPERGIRL",
+      "cantidad": 1
+    },
+    {
+      "id": 1328,
+      "nombre": "4A-MIMI",
+      "cantidad": 1
+    },
+    {
+      "id": 1107,
+      "nombre": "G-MARK",
+      "cantidad": 1
+    },
+    {
+      "id": 101,
+      "nombre": "Duke",
+      "cantidad": 1
+    },
+    {
+      "id": 579,
+      "nombre": "BOB-DENVER",
+      "cantidad": 1
+    },
+    {
+      "id": 468,
+      "nombre": "CybilBennett",
+      "cantidad": 1
+    },
+    {
+      "id": 437,
+      "nombre": "ellum",
+      "cantidad": 1
+    },
+    {
+      "id": 970,
+      "nombre": "6-VICKY-EL-VIKINGO",
+      "cantidad": 1
+    },
+    {
+      "id": 907,
+      "nombre": "FLASH",
+      "cantidad": 1
+    },
+    {
+      "id": 455,
+      "nombre": "batsu",
+      "cantidad": 1
+    },
+    {
+      "id": 1252,
+      "nombre": "PRIMOS-LEJANOS",
+      "cantidad": 1
+    },
+    {
+      "id": 693,
+      "nombre": "DB-081",
+      "cantidad": 1
+    },
+    {
+      "id": 114,
+      "nombre": "Storm Shadow",
+      "cantidad": 1
+    },
+    {
+      "id": 115,
+      "nombre": "Zartan",
+      "cantidad": 1
+    },
+    {
+      "id": 55,
+      "nombre": "mina",
       "cantidad": 1
     }
   ]

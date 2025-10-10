@@ -739,7 +739,7 @@
     {
       "id": 476,
       "nombre": "Kaufman",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 254,
@@ -1224,7 +1224,7 @@
     {
       "id": 936,
       "nombre": "THE-ROCK",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 926,
@@ -1294,7 +1294,7 @@
     {
       "id": 563,
       "nombre": "VADER-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 866,
@@ -1404,7 +1404,7 @@
     {
       "id": 1073,
       "nombre": "X - CYCLOPS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 347,
@@ -1719,7 +1719,7 @@
     {
       "id": 193,
       "nombre": "Jab",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1081,
@@ -2369,7 +2369,7 @@
     {
       "id": 253,
       "nombre": "Buitro",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 604,
@@ -2499,7 +2499,7 @@
     {
       "id": 1217,
       "nombre": "5-STRIDER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 937,
@@ -3584,7 +3584,7 @@
     {
       "id": 1174,
       "nombre": "ZATANA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 492,
@@ -4529,7 +4529,7 @@
     {
       "id": 108,
       "nombre": "Baronesa",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 112,
@@ -5389,6 +5389,21 @@
     {
       "id": 1058,
       "nombre": "POWERMAN & IRON FIST",
+      "cantidad": 1
+    },
+    {
+      "id": 681,
+      "nombre": "DB-069",
+      "cantidad": 1
+    },
+    {
+      "id": 725,
+      "nombre": "DB-113",
+      "cantidad": 1
+    },
+    {
+      "id": 191,
+      "nombre": "Venom",
       "cantidad": 1
     }
   ]

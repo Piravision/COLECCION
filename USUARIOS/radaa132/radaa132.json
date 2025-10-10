@@ -469,7 +469,7 @@
     {
       "id": 206,
       "nombre": "Slash",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 273,
@@ -2964,7 +2964,7 @@
     {
       "id": 851,
       "nombre": "VEGA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1059,
@@ -4969,6 +4969,11 @@
     {
       "id": 1072,
       "nombre": "VALKYRIE-2",
+      "cantidad": 1
+    },
+    {
+      "id": 1050,
+      "nombre": "IRON-MAN-2",
       "cantidad": 1
     }
   ]
