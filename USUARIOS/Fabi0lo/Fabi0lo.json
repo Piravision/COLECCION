@@ -1159,12 +1159,12 @@
     {
       "id": 306,
       "nombre": "Shockwave",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 297,
       "nombre": "Optimus Prime",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 927,
@@ -1249,6 +1249,26 @@
     {
       "id": 449,
       "nombre": "leon2",
+      "cantidad": 1
+    },
+    {
+      "id": 154,
+      "nombre": "Grease Pit",
+      "cantidad": 1
+    },
+    {
+      "id": 753,
+      "nombre": "pandora",
+      "cantidad": 1
+    },
+    {
+      "id": 956,
+      "nombre": "2-GADGET",
+      "cantidad": 1
+    },
+    {
+      "id": 292,
+      "nombre": "Bumblebee",
       "cantidad": 1
     }
   ]

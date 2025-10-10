@@ -209,7 +209,7 @@
     {
       "id": 164,
       "nombre": "Black Cat",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 154,
@@ -2419,7 +2419,7 @@
     {
       "id": 564,
       "nombre": "SLIMER",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 693,
@@ -2949,7 +2949,7 @@
     {
       "id": 607,
       "nombre": "SANDY-WINTERS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 59,
@@ -6084,7 +6084,7 @@
     {
       "id": 1357,
       "nombre": "7C-PATAMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1383,
@@ -6234,7 +6234,7 @@
     {
       "id": 1381,
       "nombre": "9-GOTTSUMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1286,
@@ -6284,7 +6284,7 @@
     {
       "id": 1378,
       "nombre": "9-DEMIDEVIMON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1371,
@@ -6304,7 +6304,7 @@
     {
       "id": 1343,
       "nombre": "5G-PIYOMON-EVO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1366,
@@ -6414,7 +6414,7 @@
     {
       "id": 1372,
       "nombre": "8I-KARI-FOIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1039,
@@ -6459,7 +6459,7 @@
     {
       "id": 1335,
       "nombre": "4H-FA-MIMI",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1303,
@@ -6524,7 +6524,7 @@
     {
       "id": 1391,
       "nombre": "9-OGREMON",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 1169,
@@ -6539,7 +6539,7 @@
     {
       "id": 1321,
       "nombre": "3C-GABUMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1292,
@@ -6564,7 +6564,7 @@
     {
       "id": 1355,
       "nombre": "7A-TK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 286,
@@ -6819,7 +6819,7 @@
     {
       "id": 1324,
       "nombre": "3F-METALGARURUMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1390,
@@ -6844,7 +6844,7 @@
     {
       "id": 1367,
       "nombre": "8D-GATOMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1320,
@@ -6899,6 +6899,106 @@
     {
       "id": 1279,
       "nombre": "GRAN-HEROE-AMERICANO",
+      "cantidad": 1
+    },
+    {
+      "id": 1166,
+      "nombre": "HAWKWOMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1363,
+      "nombre": "7I-TK-FOIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1330,
+      "nombre": "4C-PALMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1184,
+      "nombre": "TEEN-WOLF",
+      "cantidad": 1
+    },
+    {
+      "id": 1145,
+      "nombre": "TIMON-&-PUMBA",
+      "cantidad": 1
+    },
+    {
+      "id": 1238,
+      "nombre": "2-COSAS-DE-CASA",
+      "cantidad": 1
+    },
+    {
+      "id": 1291,
+      "nombre": "SPARKSTER",
+      "cantidad": 1
+    },
+    {
+      "id": 1071,
+      "nombre": "USAGENT",
+      "cantidad": 1
+    },
+    {
+      "id": 1393,
+      "nombre": "9-PIEDMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1361,
+      "nombre": "7G-PATAMON-EVO",
+      "cantidad": 1
+    },
+    {
+      "id": 1093,
+      "nombre": "CONDE-PATULA",
+      "cantidad": 1
+    },
+    {
+      "id": 1020,
+      "nombre": "4F -ANTORCHA HUMANA",
+      "cantidad": 1
+    },
+    {
+      "id": 1358,
+      "nombre": "7D-ANGEMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1218,
+      "nombre": "BATTLETOAD",
+      "cantidad": 1
+    },
+    {
+      "id": 1123,
+      "nombre": "EDWARD-&-AI",
+      "cantidad": 1
+    },
+    {
+      "id": 1312,
+      "nombre": "2C-GOMAMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1274,
+      "nombre": "KIRBY",
+      "cantidad": 1
+    },
+    {
+      "id": 1141,
+      "nombre": "PATOAVENTURAS",
+      "cantidad": 1
+    },
+    {
+      "id": 1270,
+      "nombre": "FA-MONKEY-ISLAND",
+      "cantidad": 1
+    },
+    {
+      "id": 1127,
+      "nombre": "SHINJI-IKARI",
       "cantidad": 1
     }
   ]

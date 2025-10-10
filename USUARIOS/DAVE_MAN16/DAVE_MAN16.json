@@ -299,12 +299,12 @@
     {
       "id": 117,
       "nombre": "He man",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 195,
       "nombre": "Moby Lick",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 20,
@@ -404,7 +404,7 @@
     {
       "id": 156,
       "nombre": "Lord Camembert",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 542,
@@ -579,7 +579,7 @@
     {
       "id": 378,
       "nombre": "kid",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 300,
@@ -894,7 +894,7 @@
     {
       "id": 518,
       "nombre": "Tecmódromo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 88,
@@ -929,7 +929,7 @@
     {
       "id": 345,
       "nombre": "alundra",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 559,
@@ -1014,7 +1014,7 @@
     {
       "id": 720,
       "nombre": "DB-108",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 834,
@@ -1569,7 +1569,7 @@
     {
       "id": 734,
       "nombre": "Afrodita-de-Piscis",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 294,
@@ -1914,12 +1914,12 @@
     {
       "id": 4,
       "nombre": "Tex Hex",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 2,
       "nombre": "Bravestarr",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1114,
@@ -2224,7 +2224,7 @@
     {
       "id": 3,
       "nombre": "Juez J. Bella",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 89,
@@ -2294,12 +2294,12 @@
     {
       "id": 850,
       "nombre": "T-HAWK",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1117,
       "nombre": "PF-PITUFINA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1007,
@@ -2649,7 +2649,7 @@
     {
       "id": 1160,
       "nombre": "GOLDENAGE- GREEN LANTERN",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1069,
@@ -2879,7 +2879,7 @@
     {
       "id": 148,
       "nombre": "Charlene _Charley_ Davidson",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 149,
@@ -3099,7 +3099,7 @@
     {
       "id": 736,
       "nombre": "Aioria-de-Leo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 671,
@@ -3199,7 +3199,7 @@
     {
       "id": 1350,
       "nombre": "6E-MEGAKABUTERIMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1373,
@@ -3494,7 +3494,7 @@
     {
       "id": 1168,
       "nombre": "LEX LUTOR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 475,
@@ -3649,7 +3649,7 @@
     {
       "id": 379,
       "nombre": "lynx",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 130,
@@ -3724,7 +3724,7 @@
     {
       "id": 864,
       "nombre": "RAMBO-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1355,
@@ -3789,6 +3789,56 @@
     {
       "id": 53,
       "nombre": "marirov",
+      "cantidad": 1
+    },
+    {
+      "id": 759,
+      "nombre": "Shion",
+      "cantidad": 1
+    },
+    {
+      "id": 377,
+      "nombre": "harle",
+      "cantidad": 1
+    },
+    {
+      "id": 150,
+      "nombre": "Throttle",
+      "cantidad": 1
+    },
+    {
+      "id": 347,
+      "nombre": "Lizard",
+      "cantidad": 1
+    },
+    {
+      "id": 351,
+      "nombre": "reaper",
+      "cantidad": 1
+    },
+    {
+      "id": 487,
+      "nombre": "Jacques",
+      "cantidad": 1
+    },
+    {
+      "id": 174,
+      "nombre": "Spiderman",
+      "cantidad": 1
+    },
+    {
+      "id": 1388,
+      "nombre": "9-MONZAEMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1320,
+      "nombre": "3B-TSUNOMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1383,
+      "nombre": "9-LEOMON",
       "cantidad": 1
     }
   ]

@@ -179,7 +179,7 @@
     {
       "id": 277,
       "nombre": "Baxter",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 170,
@@ -334,7 +334,7 @@
     {
       "id": 210,
       "nombre": "AEROWING",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 316,
@@ -769,7 +769,7 @@
     {
       "id": 496,
       "nombre": "LUCA",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 285,
@@ -914,7 +914,7 @@
     {
       "id": 62,
       "nombre": "derolin",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 444,
@@ -1239,7 +1239,7 @@
     {
       "id": 83,
       "nombre": "zamza",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 458,
@@ -1859,7 +1859,7 @@
     {
       "id": 634,
       "nombre": "DB-022",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 475,
@@ -2724,12 +2724,12 @@
     {
       "id": 1388,
       "nombre": "9-MONZAEMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1383,
       "nombre": "9-LEOMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1311,
@@ -2869,7 +2869,7 @@
     {
       "id": 1347,
       "nombre": "6B-MOCHIMON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1340,
@@ -3039,7 +3039,7 @@
     {
       "id": 483,
       "nombre": "Spider-Woman",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 704,
@@ -3104,7 +3104,7 @@
     {
       "id": 1313,
       "nombre": "2D-IKKAKUMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 984,
@@ -3614,7 +3614,7 @@
     {
       "id": 1322,
       "nombre": "3D-GARURUMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1364,
@@ -3629,7 +3629,7 @@
     {
       "id": 1371,
       "nombre": "8H-FA-KARI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 985,
@@ -3689,7 +3689,7 @@
     {
       "id": 1317,
       "nombre": "2H-FA-JOE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1032,
@@ -3719,7 +3719,7 @@
     {
       "id": 1398,
       "nombre": "9-SKULLGREYMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 702,
@@ -3809,6 +3809,126 @@
     {
       "id": 1334,
       "nombre": "4G-PALMON-EVO",
+      "cantidad": 1
+    },
+    {
+      "id": 620,
+      "nombre": "DB-008",
+      "cantidad": 1
+    },
+    {
+      "id": 907,
+      "nombre": "FLASH",
+      "cantidad": 1
+    },
+    {
+      "id": 1034,
+      "nombre": "CAPITAN BRITANIA-2",
+      "cantidad": 1
+    },
+    {
+      "id": 908,
+      "nombre": "KARA-",
+      "cantidad": 1
+    },
+    {
+      "id": 228,
+      "nombre": "Isla Dermline",
+      "cantidad": 1
+    },
+    {
+      "id": 589,
+      "nombre": "GENTILE-SALVATORE",
+      "cantidad": 1
+    },
+    {
+      "id": 1122,
+      "nombre": "BOBOBO-BO",
+      "cantidad": 1
+    },
+    {
+      "id": 1074,
+      "nombre": "X -BESTIA",
+      "cantidad": 1
+    },
+    {
+      "id": 770,
+      "nombre": "red",
+      "cantidad": 1
+    },
+    {
+      "id": 685,
+      "nombre": "DB-073",
+      "cantidad": 1
+    },
+    {
+      "id": 1025,
+      "nombre": "4FV -DR.DOOM",
+      "cantidad": 1
+    },
+    {
+      "id": 1206,
+      "nombre": "3a-SONIC",
+      "cantidad": 1
+    },
+    {
+      "id": 427,
+      "nombre": "psyco",
+      "cantidad": 1
+    },
+    {
+      "id": 1366,
+      "nombre": "8C-SALAMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1141,
+      "nombre": "PATOAVENTURAS",
+      "cantidad": 1
+    },
+    {
+      "id": 755,
+      "nombre": "Poseidon2",
+      "cantidad": 1
+    },
+    {
+      "id": 830,
+      "nombre": "BALROG",
+      "cantidad": 1
+    },
+    {
+      "id": 899,
+      "nombre": "THANOS",
+      "cantidad": 1
+    },
+    {
+      "id": 1363,
+      "nombre": "7I-TK-FOIL",
+      "cantidad": 1
+    },
+    {
+      "id": 638,
+      "nombre": "DB-026",
+      "cantidad": 1
+    },
+    {
+      "id": 994,
+      "nombre": "GUTS",
+      "cantidad": 1
+    },
+    {
+      "id": 1355,
+      "nombre": "7A-TK",
+      "cantidad": 1
+    },
+    {
+      "id": 1072,
+      "nombre": "VALKYRIE-2",
+      "cantidad": 1
+    },
+    {
+      "id": 823,
+      "nombre": "SHEEVA",
       "cantidad": 1
     }
   ]
