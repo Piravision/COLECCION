@@ -5509,7 +5509,7 @@
         {
             "id": 963,
             "nombre": "3-SRA.-HUDSON",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 921,
@@ -5559,6 +5559,11 @@
         {
             "id": 425,
             "nombre": "ocelot",
+            "cantidad": 1
+        },
+        {
+            "id": 427,
+            "nombre": "psyco",
             "cantidad": 1
         }
     ]
