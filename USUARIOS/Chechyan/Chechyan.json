@@ -1409,7 +1409,7 @@
         {
             "id": 347,
             "nombre": "Lizard",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 554,
@@ -5364,6 +5364,11 @@
         {
             "id": 908,
             "nombre": "KARA-",
+            "cantidad": 1
+        },
+        {
+            "id": 1149,
+            "nombre": "ATOM",
             "cantidad": 1
         }
     ]
