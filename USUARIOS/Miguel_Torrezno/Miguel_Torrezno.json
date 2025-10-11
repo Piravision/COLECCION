@@ -1834,7 +1834,7 @@
         {
             "id": 250,
             "nombre": "Snarf",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 233,
@@ -5644,6 +5644,11 @@
         {
             "id": 257,
             "nombre": "Mumm Ra",
+            "cantidad": 1
+        },
+        {
+            "id": 520,
+            "nombre": "BenGalí",
             "cantidad": 1
         }
     ]
