@@ -1194,7 +1194,7 @@
     {
       "id": 1032,
       "nombre": "BV- VISION",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 828,
@@ -2374,7 +2374,7 @@
     {
       "id": 604,
       "nombre": "RALF-PETERSON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 858,
@@ -4139,7 +4139,7 @@
     {
       "id": 1357,
       "nombre": "7C-PATAMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1325,
@@ -4159,7 +4159,7 @@
     {
       "id": 1329,
       "nombre": "4B-TANEMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1356,
@@ -5064,7 +5064,7 @@
     {
       "id": 1379,
       "nombre": "9-DEVYMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1393,
@@ -5074,7 +5074,7 @@
     {
       "id": 1378,
       "nombre": "9-DEMIDEVIMON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1122,
@@ -5144,7 +5144,7 @@
     {
       "id": 1372,
       "nombre": "8I-KARI-FOIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1391,
@@ -5354,7 +5354,7 @@
     {
       "id": 1309,
       "nombre": "1I-TAI-FOIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 886,
@@ -5404,6 +5404,11 @@
     {
       "id": 191,
       "nombre": "Venom",
+      "cantidad": 1
+    },
+    {
+      "id": 1358,
+      "nombre": "7D-ANGEMON",
       "cantidad": 1
     }
   ]
