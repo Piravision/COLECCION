@@ -2424,7 +2424,7 @@
         {
             "id": 246,
             "nombre": "Jaga",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 287,
@@ -5639,6 +5639,11 @@
         {
             "id": 118,
             "nombre": "Man at Arms",
+            "cantidad": 1
+        },
+        {
+            "id": 257,
+            "nombre": "Mumm Ra",
             "cantidad": 1
         }
     ]
