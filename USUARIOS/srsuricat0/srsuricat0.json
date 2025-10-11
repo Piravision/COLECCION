@@ -1534,7 +1534,7 @@
         {
             "id": 558,
             "nombre": "LUKE-SKYWALKER-JAIL",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 387,
@@ -6929,6 +6929,11 @@
         {
             "id": 1321,
             "nombre": "3C-GABUMON",
+            "cantidad": 1
+        },
+        {
+            "id": 1347,
+            "nombre": "6B-MOCHIMON",
             "cantidad": 1
         }
     ]
