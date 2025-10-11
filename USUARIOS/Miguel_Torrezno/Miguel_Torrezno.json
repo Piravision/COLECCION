@@ -19,7 +19,7 @@
         {
             "id": 331,
             "nombre": "Mente Maestra",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 21,
@@ -5649,6 +5649,11 @@
         {
             "id": 520,
             "nombre": "BenGalí",
+            "cantidad": 1
+        },
+        {
+            "id": 319,
+            "nombre": "Profesor Xavier",
             "cantidad": 1
         }
     ]
