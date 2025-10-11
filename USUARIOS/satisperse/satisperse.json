@@ -434,7 +434,7 @@
     {
       "id": 403,
       "nombre": "red",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 505,
@@ -1924,6 +1924,16 @@
     {
       "id": 932,
       "nombre": "RAZOR-RAMON",
+      "cantidad": 1
+    },
+    {
+      "id": 93,
+      "nombre": "Elisa Maza",
+      "cantidad": 1
+    },
+    {
+      "id": 746,
+      "nombre": "Deathmask-de-Cancer",
       "cantidad": 1
     }
   ]

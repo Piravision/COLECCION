@@ -54,7 +54,7 @@
         {
             "id": 117,
             "nombre": "He man",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 315,
@@ -1334,7 +1334,7 @@
         {
             "id": 324,
             "nombre": "Wolverine",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 535,
@@ -2349,7 +2349,7 @@
         {
             "id": 857,
             "nombre": "DOC-JAIL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 679,
@@ -5624,6 +5624,16 @@
         {
             "id": 161,
             "nombre": "Steelwill",
+            "cantidad": 1
+        },
+        {
+            "id": 1338,
+            "nombre": "5B-PYOCOMON",
+            "cantidad": 1
+        },
+        {
+            "id": 116,
+            "nombre": "Cringer",
             "cantidad": 1
         }
     ]
