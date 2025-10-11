@@ -2244,7 +2244,7 @@
         {
             "id": 335,
             "nombre": "Toad",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 651,
@@ -5654,6 +5654,11 @@
         {
             "id": 319,
             "nombre": "Profesor Xavier",
+            "cantidad": 1
+        },
+        {
+            "id": 322,
+            "nombre": "Rondador Nocturno",
             "cantidad": 1
         }
     ]
