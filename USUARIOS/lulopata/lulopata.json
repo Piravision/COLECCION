@@ -104,7 +104,7 @@
     {
       "id": 1200,
       "nombre": "2-DONKEY-KONG",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1216,
@@ -584,7 +584,7 @@
     {
       "id": 28,
       "nombre": "Presto",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 27,
@@ -594,7 +594,7 @@
     {
       "id": 31,
       "nombre": "Tiamat",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 809,
@@ -714,17 +714,17 @@
     {
       "id": 145,
       "nombre": "Lord Dragaunus",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 144,
       "nombre": "Grin-Hardwing",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 146,
       "nombre": "Siege",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 617,
@@ -814,7 +814,7 @@
     {
       "id": 94,
       "nombre": "Goliath",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 97,
@@ -909,7 +909,7 @@
     {
       "id": 139,
       "nombre": "Duke L'Orange",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1188,
@@ -1394,7 +1394,7 @@
     {
       "id": 941,
       "nombre": "GREMLIN-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 859,
@@ -1404,6 +1404,46 @@
     {
       "id": 543,
       "nombre": "DIE-HARD-III",
+      "cantidad": 1
+    },
+    {
+      "id": 93,
+      "nombre": "Elisa Maza",
+      "cantidad": 1
+    },
+    {
+      "id": 91,
+      "nombre": "Bronx",
+      "cantidad": 1
+    },
+    {
+      "id": 1299,
+      "nombre": "FA-GOLDEN-AXE",
+      "cantidad": 1
+    },
+    {
+      "id": 1198,
+      "nombre": "1Z-BOWSER",
+      "cantidad": 1
+    },
+    {
+      "id": 25,
+      "nombre": "Diana",
+      "cantidad": 1
+    },
+    {
+      "id": 942,
+      "nombre": "HANNIBAL-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1130,
+      "nombre": "MARS-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 141,
+      "nombre": "Nosedive Flashblade",
       "cantidad": 1
     }
   ]

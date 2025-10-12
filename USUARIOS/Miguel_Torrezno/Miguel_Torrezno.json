@@ -1409,7 +1409,7 @@
         {
             "id": 480,
             "nombre": "Twinfeeler",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 682,
@@ -2284,7 +2284,7 @@
         {
             "id": 472,
             "nombre": "grey",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 585,
@@ -2989,7 +2989,7 @@
         {
             "id": 1245,
             "nombre": "KNIGHT-RIDER",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1142,
@@ -3109,7 +3109,7 @@
         {
             "id": 1101,
             "nombre": "D-JOE-MCQUACK",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 896,
@@ -3329,7 +3329,7 @@
         {
             "id": 168,
             "nombre": "Hobgoblin",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 610,
@@ -3359,7 +3359,7 @@
         {
             "id": 849,
             "nombre": "SAGAT",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 492,
@@ -3939,7 +3939,7 @@
         {
             "id": 790,
             "nombre": "ESPANTAPAJAROS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 789,
@@ -3964,7 +3964,7 @@
         {
             "id": 119,
             "nombre": "orko",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1095,
@@ -4559,7 +4559,7 @@
         {
             "id": 1357,
             "nombre": "7C-PATAMON",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1329,
@@ -4589,7 +4589,7 @@
         {
             "id": 433,
             "nombre": "vincent",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1397,
@@ -5549,7 +5549,7 @@
         {
             "id": 722,
             "nombre": "DB-110",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1328,
@@ -5659,6 +5659,51 @@
         {
             "id": 322,
             "nombre": "Rondador Nocturno",
+            "cantidad": 1
+        },
+        {
+            "id": 466,
+            "nombre": "Alessa",
+            "cantidad": 1
+        },
+        {
+            "id": 1128,
+            "nombre": "VASH-ESTAMPIDA",
+            "cantidad": 1
+        },
+        {
+            "id": 1060,
+            "nombre": "QUICKSILVER",
+            "cantidad": 1
+        },
+        {
+            "id": 226,
+            "nombre": "Guerreros de Piedra",
+            "cantidad": 1
+        },
+        {
+            "id": 282,
+            "nombre": "Krang",
+            "cantidad": 1
+        },
+        {
+            "id": 617,
+            "nombre": "DB-005",
+            "cantidad": 1
+        },
+        {
+            "id": 1262,
+            "nombre": "FA-SONIC",
+            "cantidad": 1
+        },
+        {
+            "id": 1228,
+            "nombre": "BEN-10",
+            "cantidad": 1
+        },
+        {
+            "id": 1378,
+            "nombre": "9-DEMIDEVIMON",
             "cantidad": 1
         }
     ]
