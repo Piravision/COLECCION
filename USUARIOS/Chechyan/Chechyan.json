@@ -1774,7 +1774,7 @@
     {
       "id": 17,
       "nombre": "Guerrero Serpiente",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 549,
@@ -3824,7 +3824,7 @@
     {
       "id": 478,
       "nombre": "nurse",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 889,
@@ -3894,7 +3894,7 @@
     {
       "id": 808,
       "nombre": "JOHNNY-CAGE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 76,
@@ -4139,7 +4139,7 @@
     {
       "id": 1357,
       "nombre": "7C-PATAMON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1325,
@@ -4489,12 +4489,12 @@
     {
       "id": 1382,
       "nombre": "9-LADY-DEVIMON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1389,
       "nombre": "9-MYOTISMON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1353,
@@ -4744,7 +4744,7 @@
     {
       "id": 1334,
       "nombre": "4G-PALMON-EVO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1387,
@@ -4759,7 +4759,7 @@
     {
       "id": 1384,
       "nombre": "9-MACHINEDRAMON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1139,
@@ -5484,6 +5484,11 @@
     {
       "id": 218,
       "nombre": "Cybertron",
+      "cantidad": 1
+    },
+    {
+      "id": 1385,
+      "nombre": "9-MERAMON",
       "cantidad": 1
     }
   ]
