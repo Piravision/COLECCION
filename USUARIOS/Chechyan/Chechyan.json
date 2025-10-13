@@ -1729,7 +1729,7 @@
         {
             "id": 672,
             "nombre": "DB-060",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 708,
@@ -5634,6 +5634,11 @@
         {
             "id": 140,
             "nombre": "Mallory McMallard",
+            "cantidad": 1
+        },
+        {
+            "id": 437,
+            "nombre": "ellum",
             "cantidad": 1
         }
     ]
