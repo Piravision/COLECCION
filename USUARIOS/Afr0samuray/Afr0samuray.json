@@ -1099,7 +1099,7 @@
         {
             "id": 426,
             "nombre": "ocelot2",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 218,
@@ -4229,6 +4229,11 @@
         {
             "id": 1217,
             "nombre": "5-STRIDER",
+            "cantidad": 1
+        },
+        {
+            "id": 1230,
+            "nombre": "MORTADELO-Y-FILEMON",
             "cantidad": 1
         }
     ]
