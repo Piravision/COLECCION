@@ -1919,7 +1919,7 @@
         {
             "id": 389,
             "nombre": "neo cortex",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 41,
@@ -5554,6 +5554,11 @@
         {
             "id": 372,
             "nombre": "RENARD",
+            "cantidad": 1
+        },
+        {
+            "id": 387,
+            "nombre": "Koala",
             "cantidad": 1
         }
     ]

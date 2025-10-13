@@ -1234,7 +1234,7 @@
         {
             "id": 387,
             "nombre": "Koala",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 83,
@@ -4159,6 +4159,11 @@
         {
             "id": 13,
             "nombre": "Needle",
+            "cantidad": 1
+        },
+        {
+            "id": 389,
+            "nombre": "neo cortex",
             "cantidad": 1
         }
     ]
