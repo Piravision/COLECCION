@@ -1894,7 +1894,7 @@
         {
             "id": 879,
             "nombre": "GHOST-RIDER",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 400,
@@ -5614,6 +5614,11 @@
         {
             "id": 865,
             "nombre": "ROBOCOP-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 896,
+            "nombre": "SHE-HULK",
             "cantidad": 1
         }
     ]
