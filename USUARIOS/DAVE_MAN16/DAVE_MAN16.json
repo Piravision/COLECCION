@@ -39,7 +39,7 @@
     {
       "id": 107,
       "nombre": "Snake Eyes",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 184,
@@ -394,7 +394,7 @@
     {
       "id": 207,
       "nombre": "Slobster",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 547,
@@ -554,7 +554,7 @@
     {
       "id": 205,
       "nombre": "Shrimp Louie",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 305,
@@ -999,7 +999,7 @@
     {
       "id": 203,
       "nombre": "Repteel",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 68,
@@ -1199,7 +1199,7 @@
     {
       "id": 708,
       "nombre": "DB-096",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 775,
@@ -1424,7 +1424,7 @@
     {
       "id": 206,
       "nombre": "Slash",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 276,
@@ -1744,7 +1744,7 @@
     {
       "id": 867,
       "nombre": "SONNY-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 695,
@@ -3884,6 +3884,16 @@
     {
       "id": 457,
       "nombre": "hayato",
+      "cantidad": 1
+    },
+    {
+      "id": 1187,
+      "nombre": "CRIPTA-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 942,
+      "nombre": "HANNIBAL-JAIL",
       "cantidad": 1
     }
   ]

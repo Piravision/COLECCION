@@ -119,7 +119,7 @@
         {
             "id": 271,
             "nombre": "Neutrinos",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 202,
@@ -294,7 +294,7 @@
         {
             "id": 285,
             "nombre": "Rocksteady",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 378,
@@ -1429,7 +1429,7 @@
         {
             "id": 291,
             "nombre": "Zorax",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 550,
@@ -1629,7 +1629,7 @@
         {
             "id": 384,
             "nombre": "aku aku",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 318,
@@ -1879,7 +1879,7 @@
         {
             "id": 855,
             "nombre": "ALIEN-JAIL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 488,
@@ -2354,7 +2354,7 @@
         {
             "id": 679,
             "nombre": "DB-067",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 862,
@@ -2579,7 +2579,7 @@
         {
             "id": 305,
             "nombre": "Runamuck",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 681,
@@ -2594,7 +2594,7 @@
         {
             "id": 105,
             "nombre": "Sargento Slaughter",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 208,
@@ -2774,7 +2774,7 @@
         {
             "id": 1186,
             "nombre": "KENSHIRO",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1159,
@@ -4934,7 +4934,7 @@
         {
             "id": 1374,
             "nombre": "9-APOCALYMON",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 500,
@@ -5259,7 +5259,7 @@
         {
             "id": 1342,
             "nombre": "5F-PHOENIXMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1353,
@@ -5329,7 +5329,7 @@
         {
             "id": 812,
             "nombre": "KUNG-LAO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1276,
@@ -5719,6 +5719,16 @@
         {
             "id": 122,
             "nombre": "She ra",
+            "cantidad": 1
+        },
+        {
+            "id": 837,
+            "nombre": "DALSHIM",
+            "cantidad": 1
+        },
+        {
+            "id": 1280,
+            "nombre": "JOTARO-KUJO",
             "cantidad": 1
         }
     ]

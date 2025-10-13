@@ -79,7 +79,7 @@
     {
       "id": 365,
       "nombre": "alucard 1",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 289,
@@ -379,7 +379,7 @@
     {
       "id": 71,
       "nombre": "herhero",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 123,
@@ -449,7 +449,7 @@
     {
       "id": 501,
       "nombre": "SOLON",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 156,
@@ -1269,7 +1269,7 @@
     {
       "id": 326,
       "nombre": "Blob",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 204,
@@ -1519,7 +1519,7 @@
     {
       "id": 512,
       "nombre": "Dimensión-X",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 619,
@@ -2099,7 +2099,7 @@
     {
       "id": 952,
       "nombre": "11-HEIDI-&-MARCO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 252,
@@ -2634,7 +2634,7 @@
     {
       "id": 478,
       "nombre": "nurse",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1070,
@@ -3094,7 +3094,7 @@
     {
       "id": 642,
       "nombre": "DB-030",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 262,
@@ -3154,7 +3154,7 @@
     {
       "id": 1184,
       "nombre": "TEEN-WOLF",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 616,
@@ -3529,7 +3529,7 @@
     {
       "id": 1129,
       "nombre": "CRITTER-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 791,
@@ -3694,7 +3694,7 @@
     {
       "id": 451,
       "nombre": "perros",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1292,
@@ -4414,7 +4414,7 @@
     {
       "id": 184,
       "nombre": "Lizard",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 731,
@@ -4554,7 +4554,7 @@
     {
       "id": 1060,
       "nombre": "QUICKSILVER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 994,
@@ -4579,7 +4579,7 @@
     {
       "id": 212,
       "nombre": "Asteroide M",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1321,
@@ -5124,6 +5124,26 @@
     {
       "id": 1398,
       "nombre": "9-SKULLGREYMON",
+      "cantidad": 1
+    },
+    {
+      "id": 486,
+      "nombre": "gnasty-gnorc",
+      "cantidad": 1
+    },
+    {
+      "id": 776,
+      "nombre": "zedd",
+      "cantidad": 1
+    },
+    {
+      "id": 614,
+      "nombre": "DB-002",
+      "cantidad": 1
+    },
+    {
+      "id": 1033,
+      "nombre": "CABALLERO LUNA",
       "cantidad": 1
     }
   ]

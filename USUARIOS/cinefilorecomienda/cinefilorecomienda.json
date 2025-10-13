@@ -474,7 +474,7 @@
     {
       "id": 340,
       "nombre": "Poseidón",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 177,
@@ -559,7 +559,7 @@
     {
       "id": 94,
       "nombre": "Goliath",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 291,
@@ -759,7 +759,7 @@
     {
       "id": 729,
       "nombre": "DB-117",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 861,
@@ -1374,7 +1374,7 @@
     {
       "id": 873,
       "nombre": "BLACK-WIDOW",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 958,
@@ -3684,7 +3684,7 @@
     {
       "id": 1245,
       "nombre": "PUNKY-BREWSTER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 696,
@@ -3994,7 +3994,7 @@
     {
       "id": 1144,
       "nombre": "SUPERNENAS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 136,
@@ -4944,7 +4944,7 @@
     {
       "id": 889,
       "nombre": "LUKE-CAGE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 4,
@@ -5034,7 +5034,7 @@
     {
       "id": 93,
       "nombre": "Elisa Maza",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 408,
@@ -5439,7 +5439,7 @@
     {
       "id": 1040,
       "nombre": "DR STRANGE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 283,
@@ -5489,6 +5489,36 @@
     {
       "id": 1396,
       "nombre": "9-PUPPETMON",
+      "cantidad": 1
+    },
+    {
+      "id": 222,
+      "nombre": "Espada de Metal Estrella",
+      "cantidad": 1
+    },
+    {
+      "id": 164,
+      "nombre": "Black Cat",
+      "cantidad": 1
+    },
+    {
+      "id": 56,
+      "nombre": "nova",
+      "cantidad": 1
+    },
+    {
+      "id": 899,
+      "nombre": "THANOS",
+      "cantidad": 1
+    },
+    {
+      "id": 1170,
+      "nombre": "RIDDLER",
+      "cantidad": 1
+    },
+    {
+      "id": 1101,
+      "nombre": "D-JOE-MCQUACK",
       "cantidad": 1
     }
   ]
