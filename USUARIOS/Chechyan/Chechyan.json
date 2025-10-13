@@ -634,7 +634,7 @@
         {
             "id": 1095,
             "nombre": "CZ-PETER-VENKMAN",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 203,
@@ -5669,6 +5669,11 @@
         {
             "id": 171,
             "nombre": "Mary Jane",
+            "cantidad": 1
+        },
+        {
+            "id": 172,
+            "nombre": "May Parker",
             "cantidad": 1
         }
     ]
