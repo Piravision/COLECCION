@@ -2119,7 +2119,7 @@
         {
             "id": 120,
             "nombre": "Principe Adam",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 316,
@@ -5604,6 +5604,11 @@
         {
             "id": 103,
             "nombre": "Gung Ho",
+            "cantidad": 1
+        },
+        {
+            "id": 127,
+            "nombre": "Evil Lyn",
             "cantidad": 1
         }
     ]
