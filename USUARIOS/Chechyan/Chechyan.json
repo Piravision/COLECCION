@@ -4339,7 +4339,7 @@
         {
             "id": 35,
             "nombre": "AVAN DRAGON",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 36,
@@ -5659,6 +5659,11 @@
         {
             "id": 472,
             "nombre": "grey",
+            "cantidad": 1
+        },
+        {
+            "id": 475,
+            "nombre": "Incubus",
             "cantidad": 1
         }
     ]
