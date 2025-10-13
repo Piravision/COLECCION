@@ -1294,7 +1294,7 @@
         {
             "id": 563,
             "nombre": "VADER-JAIL",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 866,
@@ -5609,6 +5609,11 @@
         {
             "id": 127,
             "nombre": "Evil Lyn",
+            "cantidad": 1
+        },
+        {
+            "id": 865,
+            "nombre": "ROBOCOP-JAIL",
             "cantidad": 1
         }
     ]
