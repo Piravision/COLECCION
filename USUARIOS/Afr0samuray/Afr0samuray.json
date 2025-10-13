@@ -469,7 +469,7 @@
         {
             "id": 50,
             "nombre": "Lonberuk",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 383,
@@ -4174,6 +4174,11 @@
         {
             "id": 991,
             "nombre": "CONAN-EDOGAWA",
+            "cantidad": 1
+        },
+        {
+            "id": 992,
+            "nombre": "DORAEMON",
             "cantidad": 1
         }
     ]
