@@ -1324,7 +1324,7 @@
         {
             "id": 103,
             "nombre": "Gung Ho",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 76,
@@ -4204,6 +4204,11 @@
         {
             "id": 715,
             "nombre": "DB-103",
+            "cantidad": 1
+        },
+        {
+            "id": 797,
+            "nombre": "MR-FREEZE",
             "cantidad": 1
         }
     ]

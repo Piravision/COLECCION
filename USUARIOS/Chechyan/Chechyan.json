@@ -2479,7 +2479,7 @@
         {
             "id": 797,
             "nombre": "MR-FREEZE",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 303,
@@ -5599,6 +5599,11 @@
         {
             "id": 695,
             "nombre": "DB-083",
+            "cantidad": 1
+        },
+        {
+            "id": 103,
+            "nombre": "Gung Ho",
             "cantidad": 1
         }
     ]
