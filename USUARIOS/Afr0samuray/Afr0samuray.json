@@ -2219,7 +2219,7 @@
         {
             "id": 456,
             "nombre": "boman",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 471,
@@ -4254,6 +4254,11 @@
         {
             "id": 900,
             "nombre": "THOR",
+            "cantidad": 1
+        },
+        {
+            "id": 673,
+            "nombre": "DB-061",
             "cantidad": 1
         }
     ]
