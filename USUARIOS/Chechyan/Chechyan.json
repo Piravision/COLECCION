@@ -4284,7 +4284,7 @@
         {
             "id": 13,
             "nombre": "Needle",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 20,
@@ -5549,6 +5549,11 @@
         {
             "id": 339,
             "nombre": "Shun de Andrómeda",
+            "cantidad": 1
+        },
+        {
+            "id": 372,
+            "nombre": "RENARD",
             "cantidad": 1
         }
     ]
