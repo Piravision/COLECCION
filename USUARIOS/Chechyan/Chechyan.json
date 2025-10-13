@@ -549,7 +549,7 @@
         {
             "id": 883,
             "nombre": "HULK",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 256,
@@ -5639,6 +5639,11 @@
         {
             "id": 437,
             "nombre": "ellum",
+            "cantidad": 1
+        },
+        {
+            "id": 444,
+            "nombre": "birki",
             "cantidad": 1
         }
     ]

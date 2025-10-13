@@ -919,7 +919,7 @@
         {
             "id": 444,
             "nombre": "birki",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 167,
@@ -4244,6 +4244,11 @@
         {
             "id": 672,
             "nombre": "DB-060",
+            "cantidad": 1
+        },
+        {
+            "id": 883,
+            "nombre": "HULK",
             "cantidad": 1
         }
     ]
