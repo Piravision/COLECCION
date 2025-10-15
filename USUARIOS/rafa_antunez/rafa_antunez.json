@@ -359,7 +359,7 @@
     {
       "id": 477,
       "nombre": "mumb",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 725,
@@ -1154,7 +1154,7 @@
     {
       "id": 615,
       "nombre": "DB-003",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 857,
@@ -2219,7 +2219,7 @@
     {
       "id": 749,
       "nombre": "Hilda",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 585,
@@ -2649,7 +2649,7 @@
     {
       "id": 468,
       "nombre": "CybilBennett",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 437,
@@ -2739,6 +2739,16 @@
     {
       "id": 737,
       "nombre": "Aioros-de-Sagitario",
+      "cantidad": 1
+    },
+    {
+      "id": 260,
+      "nombre": "Princesa Luna",
+      "cantidad": 1
+    },
+    {
+      "id": 552,
+      "nombre": "CHEWBACCA-JAIL",
       "cantidad": 1
     }
   ]

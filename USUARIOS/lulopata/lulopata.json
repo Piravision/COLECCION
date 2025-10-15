@@ -234,7 +234,7 @@
     {
       "id": 436,
       "nombre": "abe",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 408,
@@ -299,17 +299,17 @@
     {
       "id": 481,
       "nombre": "Capitán-Stargazer",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 157,
       "nombre": "Bluegrass",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 159,
       "nombre": "Quicksilver",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 486,
@@ -414,7 +414,7 @@
     {
       "id": 911,
       "nombre": "MARTHA-KENT",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 544,
@@ -484,12 +484,12 @@
     {
       "id": 315,
       "nombre": "Emma Frost",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 312,
       "nombre": "Bestia",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 330,
@@ -504,12 +504,12 @@
     {
       "id": 17,
       "nombre": "Guerrero Serpiente",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 10,
       "nombre": "Conan",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 739,
@@ -704,7 +704,7 @@
     {
       "id": 452,
       "nombre": "sherry",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 450,
@@ -799,12 +799,12 @@
     {
       "id": 350,
       "nombre": "Murgg",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 347,
       "nombre": "Lizard",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 96,
@@ -899,7 +899,7 @@
     {
       "id": 348,
       "nombre": "Meia",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 140,
@@ -909,7 +909,7 @@
     {
       "id": 139,
       "nombre": "Duke L'Orange",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1188,
@@ -929,7 +929,7 @@
     {
       "id": 393,
       "nombre": "Tawna",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 387,
@@ -1034,12 +1034,12 @@
     {
       "id": 386,
       "nombre": "CROMO PERSONAJE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 390,
       "nombre": "papu",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 501,
@@ -1114,7 +1114,7 @@
     {
       "id": 437,
       "nombre": "ellum",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 442,
@@ -1379,7 +1379,7 @@
     {
       "id": 410,
       "nombre": "Barón-Ashura",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 136,
@@ -1429,7 +1429,7 @@
     {
       "id": 25,
       "nombre": "Diana",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 942,
@@ -1469,6 +1469,161 @@
     {
       "id": 1243,
       "nombre": "EXPEDIENTE-X",
+      "cantidad": 1
+    },
+    {
+      "id": 143,
+      "nombre": "Wildwing Flashblade",
+      "cantidad": 1
+    },
+    {
+      "id": 142,
+      "nombre": "Tanya Vanderflock",
+      "cantidad": 1
+    },
+    {
+      "id": 257,
+      "nombre": "Mumm Ra",
+      "cantidad": 1
+    },
+    {
+      "id": 253,
+      "nombre": "Buitro",
+      "cantidad": 1
+    },
+    {
+      "id": 245,
+      "nombre": "Felino",
+      "cantidad": 1
+    },
+    {
+      "id": 85,
+      "nombre": "Niko",
+      "cantidad": 1
+    },
+    {
+      "id": 87,
+      "nombre": "Walter _Doc_ Hartford",
+      "cantidad": 1
+    },
+    {
+      "id": 86,
+      "nombre": "Shane Gooseman",
+      "cantidad": 1
+    },
+    {
+      "id": 137,
+      "nombre": "Sayaka Yumi",
+      "cantidad": 1
+    },
+    {
+      "id": 409,
+      "nombre": "Kōji-Kabuto",
+      "cantidad": 1
+    },
+    {
+      "id": 616,
+      "nombre": "DB-004",
+      "cantidad": 1
+    },
+    {
+      "id": 618,
+      "nombre": "DB-006",
+      "cantidad": 1
+    },
+    {
+      "id": 723,
+      "nombre": "DB-111",
+      "cantidad": 1
+    },
+    {
+      "id": 13,
+      "nombre": "Needle",
+      "cantidad": 1
+    },
+    {
+      "id": 448,
+      "nombre": "leon1",
+      "cantidad": 1
+    },
+    {
+      "id": 443,
+      "nombre": "ada",
+      "cantidad": 1
+    },
+    {
+      "id": 319,
+      "nombre": "Profesor Xavier",
+      "cantidad": 1
+    },
+    {
+      "id": 320,
+      "nombre": "Psylocke",
+      "cantidad": 1
+    },
+    {
+      "id": 23,
+      "nombre": "Amo del Calabozo",
+      "cantidad": 1
+    },
+    {
+      "id": 24,
+      "nombre": "Bobby",
+      "cantidad": 1
+    },
+    {
+      "id": 777,
+      "nombre": "Zordon",
+      "cantidad": 1
+    },
+    {
+      "id": 769,
+      "nombre": "Pink",
+      "cantidad": 1
+    },
+    {
+      "id": 763,
+      "nombre": "black",
+      "cantidad": 1
+    },
+    {
+      "id": 440,
+      "nombre": "scrabs",
+      "cantidad": 1
+    },
+    {
+      "id": 796,
+      "nombre": "MAN-BAT",
+      "cantidad": 1
+    },
+    {
+      "id": 787,
+      "nombre": "DOS-CARAS",
+      "cantidad": 1
+    },
+    {
+      "id": 1278,
+      "nombre": "BUFFY-CAZAVAMPIROS",
+      "cantidad": 1
+    },
+    {
+      "id": 1279,
+      "nombre": "GRAN-HEROE-AMERICANO",
+      "cantidad": 1
+    },
+    {
+      "id": 924,
+      "nombre": "VISITOR-SOLDIER",
+      "cantidad": 1
+    },
+    {
+      "id": 318,
+      "nombre": "Morpho",
+      "cantidad": 1
+    },
+    {
+      "id": 314,
+      "nombre": "Coloso",
       "cantidad": 1
     }
   ]
