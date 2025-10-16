@@ -729,7 +729,7 @@
         {
             "id": 187,
             "nombre": "Rhyno",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 299,
@@ -4324,6 +4324,11 @@
         {
             "id": 906,
             "nombre": "DR-FATE",
+            "cantidad": 1
+        },
+        {
+            "id": 912,
+            "nombre": "SINIESTRO",
             "cantidad": 1
         }
     ]

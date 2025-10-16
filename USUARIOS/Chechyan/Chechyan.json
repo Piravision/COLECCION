@@ -3199,7 +3199,7 @@
         {
             "id": 912,
             "nombre": "SINIESTRO",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 240,
@@ -5739,6 +5739,11 @@
         {
             "id": 173,
             "nombre": "Punisher",
+            "cantidad": 1
+        },
+        {
+            "id": 187,
+            "nombre": "Rhyno",
             "cantidad": 1
         }
     ]
