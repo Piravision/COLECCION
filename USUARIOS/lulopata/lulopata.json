@@ -89,7 +89,7 @@
     {
       "id": 537,
       "nombre": "BOLO-YEUNG",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 808,
@@ -274,7 +274,7 @@
     {
       "id": 203,
       "nombre": "Repteel",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 195,
@@ -304,12 +304,12 @@
     {
       "id": 157,
       "nombre": "Bluegrass",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 159,
       "nombre": "Quicksilver",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 486,
@@ -319,7 +319,7 @@
     {
       "id": 485,
       "nombre": "Dr_Shemp",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 491,
@@ -704,7 +704,7 @@
     {
       "id": 452,
       "nombre": "sherry",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 450,
@@ -824,7 +824,7 @@
     {
       "id": 454,
       "nombre": "zombi",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 446,
@@ -864,7 +864,7 @@
     {
       "id": 162,
       "nombre": "Mon Star",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 831,
@@ -994,7 +994,7 @@
     {
       "id": 301,
       "nombre": "Astrotrain",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 307,
@@ -1019,7 +1019,7 @@
     {
       "id": 193,
       "nombre": "Jab",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 205,
@@ -1154,7 +1154,7 @@
     {
       "id": 414,
       "nombre": "campb2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 425,
@@ -1229,17 +1229,17 @@
     {
       "id": 200,
       "nombre": "Swordo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 192,
       "nombre": "Bends",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 204,
       "nombre": "SharkBot",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 278,
@@ -1294,7 +1294,7 @@
     {
       "id": 1295,
       "nombre": "UN-CHAPUZAS-EN-CASA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1245,
@@ -1389,7 +1389,7 @@
     {
       "id": 293,
       "nombre": "Hot Rod",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 941,
@@ -1404,7 +1404,7 @@
     {
       "id": 543,
       "nombre": "DIE-HARD-III",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 93,
@@ -1669,6 +1669,131 @@
     {
       "id": 1167,
       "nombre": "JOKER",
+      "cantidad": 1
+    },
+    {
+      "id": 432,
+      "nombre": "solid2",
+      "cantidad": 1
+    },
+    {
+      "id": 418,
+      "nombre": "grayfox2",
+      "cantidad": 1
+    },
+    {
+      "id": 208,
+      "nombre": "Tentakill",
+      "cantidad": 1
+    },
+    {
+      "id": 275,
+      "nombre": "Usagi Yojimbo",
+      "cantidad": 1
+    },
+    {
+      "id": 269,
+      "nombre": "Mona Lisa",
+      "cantidad": 1
+    },
+    {
+      "id": 267,
+      "nombre": "Metalhead",
+      "cantidad": 1
+    },
+    {
+      "id": 201,
+      "nombre": "Dr. paradigma",
+      "cantidad": 1
+    },
+    {
+      "id": 546,
+      "nombre": "MARTY-MCFLY",
+      "cantidad": 1
+    },
+    {
+      "id": 1237,
+      "nombre": "1-WILL",
+      "cantidad": 1
+    },
+    {
+      "id": 1258,
+      "nombre": "XENA-LA-PRINCESA-GUERRERA",
+      "cantidad": 1
+    },
+    {
+      "id": 1037,
+      "nombre": "CAPITAN-AMERICA-2",
+      "cantidad": 1
+    },
+    {
+      "id": 1027,
+      "nombre": "4FV- GALACTUS",
+      "cantidad": 1
+    },
+    {
+      "id": 891,
+      "nombre": "MODOK",
+      "cantidad": 1
+    },
+    {
+      "id": 151,
+      "nombre": "Vinnie Cooper",
+      "cantidad": 1
+    },
+    {
+      "id": 152,
+      "nombre": "Dr. Karbunkle",
+      "cantidad": 1
+    },
+    {
+      "id": 147,
+      "nombre": "Carbine",
+      "cantidad": 1
+    },
+    {
+      "id": 444,
+      "nombre": "birki",
+      "cantidad": 1
+    },
+    {
+      "id": 649,
+      "nombre": "DB-037",
+      "cantidad": 1
+    },
+    {
+      "id": 678,
+      "nombre": "DB-066",
+      "cantidad": 1
+    },
+    {
+      "id": 677,
+      "nombre": "DB-065",
+      "cantidad": 1
+    },
+    {
+      "id": 198,
+      "nombre": "Slammu",
+      "cantidad": 1
+    },
+    {
+      "id": 206,
+      "nombre": "Slash",
+      "cantidad": 1
+    },
+    {
+      "id": 298,
+      "nombre": "Prowl",
+      "cantidad": 1
+    },
+    {
+      "id": 488,
+      "nombre": "metalhead",
+      "cantidad": 1
+    },
+    {
+      "id": 492,
+      "nombre": "toasty",
       "cantidad": 1
     }
   ]

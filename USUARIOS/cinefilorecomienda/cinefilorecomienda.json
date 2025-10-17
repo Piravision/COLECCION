@@ -599,7 +599,7 @@
     {
       "id": 832,
       "nombre": "BLANKA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 322,
@@ -699,7 +699,7 @@
     {
       "id": 362,
       "nombre": "yugo",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 893,
@@ -784,7 +784,7 @@
     {
       "id": 859,
       "nombre": "JASON-JAIL",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 563,
@@ -899,7 +899,7 @@
     {
       "id": 685,
       "nombre": "DB-073",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 749,
@@ -1209,7 +1209,7 @@
     {
       "id": 1011,
       "nombre": "TAI-&-AGUMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1005,
@@ -1479,7 +1479,7 @@
     {
       "id": 541,
       "nombre": "COBRA-1986",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1110,
@@ -1549,7 +1549,7 @@
     {
       "id": 1007,
       "nombre": "SAILOR-MOON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 988,
@@ -1754,7 +1754,7 @@
     {
       "id": 1000,
       "nombre": "SON-GOKU",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 797,
@@ -2149,7 +2149,7 @@
     {
       "id": 89,
       "nombre": "Angela",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 92,
@@ -2709,7 +2709,7 @@
     {
       "id": 263,
       "nombre": "Casey Jones",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 916,
@@ -4709,7 +4709,7 @@
     {
       "id": 309,
       "nombre": "Thundercracker",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 473,
@@ -4829,7 +4829,7 @@
     {
       "id": 946,
       "nombre": "SLOTH-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 934,
@@ -5189,7 +5189,7 @@
     {
       "id": 204,
       "nombre": "SharkBot",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 58,
@@ -5599,11 +5599,31 @@
     {
       "id": 1067,
       "nombre": "THUNDERBIRD",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 339,
       "nombre": "Shun de Andrómeda",
+      "cantidad": 1
+    },
+    {
+      "id": 820,
+      "nombre": "SEKTOR",
+      "cantidad": 1
+    },
+    {
+      "id": 1329,
+      "nombre": "4B-TANEMON",
+      "cantidad": 1
+    },
+    {
+      "id": 615,
+      "nombre": "DB-003",
+      "cantidad": 1
+    },
+    {
+      "id": 1254,
+      "nombre": "SEINFELD",
       "cantidad": 1
     }
   ]

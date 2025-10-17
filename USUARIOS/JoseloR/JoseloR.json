@@ -84,7 +84,7 @@
     {
       "id": 542,
       "nombre": "DIE-HARD",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 16,
@@ -184,7 +184,7 @@
     {
       "id": 294,
       "nombre": "Hound",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 935,
@@ -314,7 +314,7 @@
     {
       "id": 6,
       "nombre": "El Patriarca",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 422,
@@ -474,7 +474,7 @@
     {
       "id": 954,
       "nombre": "2-CHIP",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 391,
@@ -814,7 +814,7 @@
     {
       "id": 830,
       "nombre": "BALROG",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 38,
@@ -929,7 +929,7 @@
     {
       "id": 158,
       "nombre": "Copper Kid",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1179,
@@ -1419,7 +1419,7 @@
     {
       "id": 437,
       "nombre": "ellum",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 657,
@@ -1479,7 +1479,7 @@
     {
       "id": 898,
       "nombre": "1-VALKYRIE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 686,
@@ -1934,7 +1934,7 @@
     {
       "id": 694,
       "nombre": "DB-082",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1127,
@@ -2129,7 +2129,7 @@
     {
       "id": 934,
       "nombre": "SHAWN-MICHAELS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 617,
@@ -2209,6 +2209,76 @@
     {
       "id": 191,
       "nombre": "Venom",
+      "cantidad": 1
+    },
+    {
+      "id": 442,
+      "nombre": "slig2",
+      "cantidad": 1
+    },
+    {
+      "id": 439,
+      "nombre": "mudokons",
+      "cantidad": 1
+    },
+    {
+      "id": 669,
+      "nombre": "DB-057",
+      "cantidad": 1
+    },
+    {
+      "id": 225,
+      "nombre": "Guarida Felina",
+      "cantidad": 1
+    },
+    {
+      "id": 1286,
+      "nombre": "FA-WINDJAMMERS",
+      "cantidad": 1
+    },
+    {
+      "id": 196,
+      "nombre": "Ripster",
+      "cantidad": 1
+    },
+    {
+      "id": 1238,
+      "nombre": "2-COSAS-DE-CASA",
+      "cantidad": 1
+    },
+    {
+      "id": 322,
+      "nombre": "Rondador Nocturno",
+      "cantidad": 1
+    },
+    {
+      "id": 1211,
+      "nombre": "4-GOLDEN-AXE",
+      "cantidad": 1
+    },
+    {
+      "id": 514,
+      "nombre": "Hálcon-Vigía",
+      "cantidad": 1
+    },
+    {
+      "id": 480,
+      "nombre": "Twinfeeler",
+      "cantidad": 1
+    },
+    {
+      "id": 477,
+      "nombre": "mumb",
+      "cantidad": 1
+    },
+    {
+      "id": 341,
+      "nombre": "Crocodine Malvado",
+      "cantidad": 1
+    },
+    {
+      "id": 1118,
+      "nombre": "PF-PITUFO FILOSOFO",
       "cantidad": 1
     }
   ]
