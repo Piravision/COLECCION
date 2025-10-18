@@ -14,7 +14,7 @@
     {
       "id": 307,
       "nombre": "Skywarp",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 331,
@@ -34,7 +34,7 @@
     {
       "id": 296,
       "nombre": "Jazz",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 303,
@@ -94,7 +94,7 @@
     {
       "id": 8,
       "nombre": "Hades",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 137,
@@ -434,7 +434,7 @@
     {
       "id": 139,
       "nombre": "Duke L'Orange",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 397,
@@ -659,7 +659,7 @@
     {
       "id": 126,
       "nombre": "Beastman",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 143,
@@ -774,7 +774,7 @@
     {
       "id": 146,
       "nombre": "Siege",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 367,
@@ -1094,7 +1094,7 @@
     {
       "id": 145,
       "nombre": "Lord Dragaunus",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 63,
@@ -1429,7 +1429,7 @@
     {
       "id": 291,
       "nombre": "Zorax",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 550,
@@ -1659,7 +1659,7 @@
     {
       "id": 828,
       "nombre": "SUB-ZERO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 819,
@@ -1754,7 +1754,7 @@
     {
       "id": 779,
       "nombre": "BANE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 782,
@@ -1764,7 +1764,7 @@
     {
       "id": 797,
       "nombre": "MR-FREEZE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 802,
@@ -1939,7 +1939,7 @@
     {
       "id": 576,
       "nombre": "ALAN-CROCKET",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 603,
@@ -2574,7 +2574,7 @@
     {
       "id": 553,
       "nombre": "GOKU-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 305,
@@ -2754,7 +2754,7 @@
     {
       "id": 983,
       "nombre": "14-ROBBIE-SINCLAIR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1108,
@@ -2819,7 +2819,7 @@
     {
       "id": 110,
       "nombre": "Destro",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 929,
@@ -3169,7 +3169,7 @@
     {
       "id": 1118,
       "nombre": "PF-PITUFO FILOSOFO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 451,
@@ -3209,7 +3209,7 @@
     {
       "id": 125,
       "nombre": "Teela",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 249,
@@ -3904,7 +3904,7 @@
     {
       "id": 778,
       "nombre": "ALFRED",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 26,
@@ -4009,7 +4009,7 @@
     {
       "id": 133,
       "nombre": "Trap Jaw",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1025,
@@ -4234,7 +4234,7 @@
     {
       "id": 1271,
       "nombre": "FA-OUT-RUN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 686,
@@ -4359,7 +4359,7 @@
     {
       "id": 593,
       "nombre": "JOHNNY-MASON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 14,
@@ -4804,7 +4804,7 @@
     {
       "id": 858,
       "nombre": "FREDDY-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1173,
@@ -5369,7 +5369,7 @@
     {
       "id": 775,
       "nombre": "yellow",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1178,
@@ -5834,6 +5834,36 @@
     {
       "id": 606,
       "nombre": "SANDY-WINTERS",
+      "cantidad": 1
+    },
+    {
+      "id": 612,
+      "nombre": "TOM-BAKER",
+      "cantidad": 1
+    },
+    {
+      "id": 1382,
+      "nombre": "9-LADY-DEVIMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1282,
+      "nombre": "ROBOTECH",
+      "cantidad": 1
+    },
+    {
+      "id": 1160,
+      "nombre": "GOLDENAGE- GREEN LANTERN",
+      "cantidad": 1
+    },
+    {
+      "id": 807,
+      "nombre": "JAX",
+      "cantidad": 1
+    },
+    {
+      "id": 292,
+      "nombre": "Bumblebee",
       "cantidad": 1
     }
   ]

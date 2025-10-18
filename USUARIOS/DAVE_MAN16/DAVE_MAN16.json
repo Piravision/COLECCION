@@ -249,7 +249,7 @@
     {
       "id": 82,
       "nombre": "zaboera",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 6,
@@ -1344,7 +1344,7 @@
     {
       "id": 830,
       "nombre": "BALROG",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 308,
@@ -1474,7 +1474,7 @@
     {
       "id": 111,
       "nombre": "Dr. Mindbender",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 741,
@@ -2389,7 +2389,7 @@
     {
       "id": 128,
       "nombre": "Faker",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1171,
@@ -4064,6 +4064,16 @@
     {
       "id": 448,
       "nombre": "leon1",
+      "cantidad": 1
+    },
+    {
+      "id": 821,
+      "nombre": "SHANG-TSUNG",
+      "cantidad": 1
+    },
+    {
+      "id": 112,
+      "nombre": "Mayor Bludd",
       "cantidad": 1
     }
   ]

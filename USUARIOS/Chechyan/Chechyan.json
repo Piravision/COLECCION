@@ -2874,7 +2874,7 @@
     {
       "id": 454,
       "nombre": "zombi",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 357,
@@ -5624,7 +5624,7 @@
     {
       "id": 137,
       "nombre": "Sayaka Yumi",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 426,
@@ -5779,6 +5779,11 @@
     {
       "id": 310,
       "nombre": "Dan",
+      "cantidad": 1
+    },
+    {
+      "id": 1041,
+      "nombre": "FALCON-2",
       "cantidad": 1
     }
   ]
