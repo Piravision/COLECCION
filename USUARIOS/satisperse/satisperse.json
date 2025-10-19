@@ -64,7 +64,7 @@
     {
       "id": 432,
       "nombre": "solid2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 439,
@@ -1879,7 +1879,7 @@
     {
       "id": 478,
       "nombre": "nurse",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 39,
@@ -1959,6 +1959,11 @@
     {
       "id": 291,
       "nombre": "Zorax",
+      "cantidad": 1
+    },
+    {
+      "id": 422,
+      "nombre": "meryl",
       "cantidad": 1
     }
   ]

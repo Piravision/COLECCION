@@ -959,7 +959,7 @@
     {
       "id": 523,
       "nombre": "lara2",
-      "cantidad": 9
+      "cantidad": 10
     },
     {
       "id": 165,
@@ -1644,7 +1644,7 @@
     {
       "id": 602,
       "nombre": "PAUL-DIAMOND",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 728,
@@ -1699,7 +1699,7 @@
     {
       "id": 683,
       "nombre": "DB-071",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 320,
@@ -2179,7 +2179,7 @@
     {
       "id": 753,
       "nombre": "pandora",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 539,
@@ -2554,7 +2554,7 @@
     {
       "id": 50,
       "nombre": "Lonberuk",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 712,
@@ -2849,7 +2849,7 @@
     {
       "id": 95,
       "nombre": "Hudson",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 155,
@@ -3429,7 +3429,7 @@
     {
       "id": 803,
       "nombre": "SELINA-KYLE",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 818,
@@ -3489,7 +3489,7 @@
     {
       "id": 585,
       "nombre": "DINO-HERNANDEZ",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 489,
@@ -3594,7 +3594,7 @@
     {
       "id": 315,
       "nombre": "Emma Frost",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 158,
@@ -3899,7 +3899,7 @@
     {
       "id": 732,
       "nombre": "DB-120",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 905,
@@ -3999,7 +3999,7 @@
     {
       "id": 985,
       "nombre": "ALF-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 900,
@@ -5619,7 +5619,7 @@
     {
       "id": 1118,
       "nombre": "PF-PITUFO FILOSOFO",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1142,
@@ -6024,7 +6024,7 @@
     {
       "id": 1250,
       "nombre": "MIAMI-VICE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1281,
@@ -6104,7 +6104,7 @@
     {
       "id": 1297,
       "nombre": "BUB-&-BOB",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1300,
@@ -6179,7 +6179,7 @@
     {
       "id": 1263,
       "nombre": "SALVADOS-POR-LA-CAMPANA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1173,
@@ -6624,7 +6624,7 @@
     {
       "id": 1310,
       "nombre": "2A-JOE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1339,
@@ -6694,7 +6694,7 @@
     {
       "id": 1311,
       "nombre": "2B-BUKAMON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1308,
@@ -6999,6 +6999,41 @@
     {
       "id": 1318,
       "nombre": "2I-JOE-FOIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1452,
+      "nombre": "THE BLOB",
+      "cantidad": 1
+    },
+    {
+      "id": 1417,
+      "nombre": "ELVIRA",
+      "cantidad": 1
+    },
+    {
+      "id": 1414,
+      "nombre": "EL REGRESO DE LOS MUERTOS",
+      "cantidad": 1
+    },
+    {
+      "id": 1428,
+      "nombre": "IT",
+      "cantidad": 1
+    },
+    {
+      "id": 1421,
+      "nombre": "EXORCISTA",
+      "cantidad": 1
+    },
+    {
+      "id": 1442,
+      "nombre": "PESADILLAS",
+      "cantidad": 1
+    },
+    {
+      "id": 1445,
+      "nombre": "RE-ANIMATOR",
       "cantidad": 1
     }
   ]

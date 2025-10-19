@@ -1164,7 +1164,7 @@
     {
       "id": 712,
       "nombre": "DB-100",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 299,
@@ -1449,7 +1449,7 @@
     {
       "id": 413,
       "nombre": "campb",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 84,
@@ -1609,7 +1609,7 @@
     {
       "id": 753,
       "nombre": "pandora",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 295,
@@ -1624,7 +1624,7 @@
     {
       "id": 46,
       "nombre": "gome",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 410,
@@ -1689,7 +1689,7 @@
     {
       "id": 652,
       "nombre": "DB-040",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 855,
@@ -2149,7 +2149,7 @@
     {
       "id": 539,
       "nombre": "BRUCE-LEE2",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 285,
@@ -2244,7 +2244,7 @@
     {
       "id": 913,
       "nombre": "SUPERGIRL",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 894,
@@ -2704,7 +2704,7 @@
     {
       "id": 205,
       "nombre": "Shrimp Louie",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 768,
@@ -3024,7 +3024,7 @@
     {
       "id": 680,
       "nombre": "DB-068",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 763,
@@ -5919,7 +5919,7 @@
     {
       "id": 1157,
       "nombre": "FIRESTORM",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1284,
@@ -6739,7 +6739,7 @@
     {
       "id": 1366,
       "nombre": "8C-SALAMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1360,
@@ -6999,6 +6999,56 @@
     {
       "id": 1361,
       "nombre": "7G-PATAMON-EVO",
+      "cantidad": 1
+    },
+    {
+      "id": 1456,
+      "nombre": "TIENDA DE LOS HORRORES",
+      "cantidad": 1
+    },
+    {
+      "id": 1439,
+      "nombre": "MUÑECO DIABOLICO",
+      "cantidad": 2
+    },
+    {
+      "id": 1440,
+      "nombre": "NOCHE DE MIEDO",
+      "cantidad": 1
+    },
+    {
+      "id": 1408,
+      "nombre": "CARRIE",
+      "cantidad": 1
+    },
+    {
+      "id": 1425,
+      "nombre": "HOMBRE LOBO AMERIANO EN LONDRES",
+      "cantidad": 1
+    },
+    {
+      "id": 1422,
+      "nombre": "GHOULIES",
+      "cantidad": 1
+    },
+    {
+      "id": 1431,
+      "nombre": "LA MOSCA",
+      "cantidad": 1
+    },
+    {
+      "id": 1448,
+      "nombre": "SCREAM",
+      "cantidad": 2
+    },
+    {
+      "id": 1452,
+      "nombre": "THE BLOB",
+      "cantidad": 1
+    },
+    {
+      "id": 1443,
+      "nombre": "PHANTASM",
       "cantidad": 1
     }
   ]
