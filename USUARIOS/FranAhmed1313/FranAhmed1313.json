@@ -354,12 +354,12 @@
     {
       "id": 1237,
       "nombre": "1-WILL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1295,
       "nombre": "UN-CHAPUZAS-EN-CASA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1174,
@@ -879,7 +879,7 @@
     {
       "id": 1424,
       "nombre": "HELLRAISER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1442,
@@ -914,7 +914,7 @@
     {
       "id": 1425,
       "nombre": "HOMBRE LOBO AMERIANO EN LONDRES",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1433,
@@ -939,6 +939,46 @@
     {
       "id": 374,
       "nombre": "Succubus",
+      "cantidad": 1
+    },
+    {
+      "id": 1447,
+      "nombre": "SAW",
+      "cantidad": 1
+    },
+    {
+      "id": 1455,
+      "nombre": "THE THING",
+      "cantidad": 1
+    },
+    {
+      "id": 1246,
+      "nombre": "LA-NINERA",
+      "cantidad": 1
+    },
+    {
+      "id": 1446,
+      "nombre": "SALEMS LOT",
+      "cantidad": 1
+    },
+    {
+      "id": 1443,
+      "nombre": "PHANTASM",
+      "cantidad": 1
+    },
+    {
+      "id": 1427,
+      "nombre": "IT - PROMO",
+      "cantidad": 1
+    },
+    {
+      "id": 1431,
+      "nombre": "LA MOSCA",
+      "cantidad": 1
+    },
+    {
+      "id": 1420,
+      "nombre": "EVIL DEAD",
       "cantidad": 1
     }
   ]

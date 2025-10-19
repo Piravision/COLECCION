@@ -784,7 +784,7 @@
     {
       "id": 7,
       "nombre": "El Patriarca",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 542,
@@ -2719,7 +2719,7 @@
     {
       "id": 748,
       "nombre": "HAdes2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 942,
@@ -3279,7 +3279,7 @@
     {
       "id": 336,
       "nombre": "Hyōga de Cisne",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 127,
@@ -5914,7 +5914,7 @@
     {
       "id": 1448,
       "nombre": "SCREAM",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1428,
@@ -5924,6 +5924,31 @@
     {
       "id": 1401,
       "nombre": "ABIERTO HASTA EL AMANECER",
+      "cantidad": 1
+    },
+    {
+      "id": 1439,
+      "nombre": "MUÑECO DIABOLICO",
+      "cantidad": 1
+    },
+    {
+      "id": 1406,
+      "nombre": "BRAINDEAD",
+      "cantidad": 1
+    },
+    {
+      "id": 1411,
+      "nombre": "CREEPSHOW",
+      "cantidad": 1
+    },
+    {
+      "id": 1422,
+      "nombre": "GHOULIES",
+      "cantidad": 1
+    },
+    {
+      "id": 1447,
+      "nombre": "SAW",
       "cantidad": 1
     }
   ]

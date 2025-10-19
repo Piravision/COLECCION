@@ -7004,7 +7004,7 @@
     {
       "id": 1456,
       "nombre": "TIENDA DE LOS HORRORES",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1439,
@@ -7034,7 +7034,7 @@
     {
       "id": 1431,
       "nombre": "LA MOSCA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1448,
@@ -7049,6 +7049,46 @@
     {
       "id": 1443,
       "nombre": "PHANTASM",
+      "cantidad": 1
+    },
+    {
+      "id": 1411,
+      "nombre": "CREEPSHOW",
+      "cantidad": 1
+    },
+    {
+      "id": 1414,
+      "nombre": "EL REGRESO DE LOS MUERTOS",
+      "cantidad": 1
+    },
+    {
+      "id": 1415,
+      "nombre": "EL RESPLANDOR",
+      "cantidad": 1
+    },
+    {
+      "id": 1402,
+      "nombre": "ARMY OF DARKNESS",
+      "cantidad": 1
+    },
+    {
+      "id": 1401,
+      "nombre": "ABIERTO HASTA EL AMANECER",
+      "cantidad": 2
+    },
+    {
+      "id": 1455,
+      "nombre": "THE THING",
+      "cantidad": 1
+    },
+    {
+      "id": 1460,
+      "nombre": "WISHMASTER",
+      "cantidad": 1
+    },
+    {
+      "id": 1409,
+      "nombre": "CEMENTERIO DE MASCOTAS",
       "cantidad": 1
     }
   ]
