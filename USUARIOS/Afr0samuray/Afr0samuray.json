@@ -2274,7 +2274,7 @@
         {
             "id": 998,
             "nombre": "INUYASHA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1003,
@@ -4474,6 +4474,11 @@
         {
             "id": 1002,
             "nombre": "NARUTO-UZUMAKI",
+            "cantidad": 1
+        },
+        {
+            "id": 1005,
+            "nombre": "RANMA-1_2",
             "cantidad": 1
         }
     ]
