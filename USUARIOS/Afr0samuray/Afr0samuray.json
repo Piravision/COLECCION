@@ -2634,7 +2634,7 @@
         {
             "id": 1014,
             "nombre": "YUGI",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 345,
@@ -4479,6 +4479,11 @@
         {
             "id": 1005,
             "nombre": "RANMA-1_2",
+            "cantidad": 1
+        },
+        {
+            "id": 1008,
+            "nombre": "SAKURA",
             "cantidad": 1
         }
     ]
