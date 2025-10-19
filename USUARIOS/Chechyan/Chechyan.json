@@ -199,7 +199,7 @@
     {
       "id": 806,
       "nombre": "JADE",
-      "cantidad": 2
+      "cantidad": 4
     },
     {
       "id": 92,
@@ -3234,7 +3234,7 @@
     {
       "id": 634,
       "nombre": "DB-022",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 128,
@@ -4829,7 +4829,7 @@
     {
       "id": 414,
       "nombre": "campb2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 943,
@@ -5784,6 +5784,16 @@
     {
       "id": 1041,
       "nombre": "FALCON-2",
+      "cantidad": 1
+    },
+    {
+      "id": 245,
+      "nombre": "Felino",
+      "cantidad": 1
+    },
+    {
+      "id": 1093,
+      "nombre": "CONDE-PATULA",
       "cantidad": 1
     }
   ]

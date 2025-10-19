@@ -834,7 +834,7 @@
     {
       "id": 485,
       "nombre": "Dr_Shemp",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 570,
@@ -1384,7 +1384,7 @@
     {
       "id": 302,
       "nombre": "Blitzwing",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 267,
@@ -1659,7 +1659,7 @@
     {
       "id": 828,
       "nombre": "SUB-ZERO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 819,
@@ -2449,7 +2449,7 @@
     {
       "id": 176,
       "nombre": "Camaleon",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 473,
@@ -5269,7 +5269,7 @@
     {
       "id": 1394,
       "nombre": "9-PIXIMON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 152,
@@ -5864,6 +5864,11 @@
     {
       "id": 292,
       "nombre": "Bumblebee",
+      "cantidad": 1
+    },
+    {
+      "id": 1154,
+      "nombre": "CATWOMAN",
       "cantidad": 1
     }
   ]
