@@ -2594,7 +2594,7 @@
         {
             "id": 993,
             "nombre": "GATOS-SAMURAI",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 995,
@@ -4469,6 +4469,11 @@
         {
             "id": 395,
             "nombre": "DISCÍPULOS-DE-AVAN",
+            "cantidad": 1
+        },
+        {
+            "id": 1002,
+            "nombre": "NARUTO-UZUMAKI",
             "cantidad": 1
         }
     ]
