@@ -7004,7 +7004,7 @@
         {
             "id": 1456,
             "nombre": "TIENDA DE LOS HORRORES",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1439,
@@ -7194,6 +7194,11 @@
         {
             "id": 1446,
             "nombre": "SALEMS LOT",
+            "cantidad": 1
+        },
+        {
+            "id": 1453,
+            "nombre": "THE FOG",
             "cantidad": 1
         }
     ]
