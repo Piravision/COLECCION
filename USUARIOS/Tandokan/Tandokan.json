@@ -1579,7 +1579,7 @@
     {
       "id": 650,
       "nombre": "DB-038",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 710,
@@ -3654,7 +3654,7 @@
     {
       "id": 403,
       "nombre": "red",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 104,
@@ -7004,6 +7004,11 @@
     {
       "id": 1438,
       "nombre": "MUÑECO DIABOLICO ii",
+      "cantidad": 1
+    },
+    {
+      "id": 1432,
+      "nombre": "LA NOVIA DE REANIMATOR",
       "cantidad": 1
     }
   ]
