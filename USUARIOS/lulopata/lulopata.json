@@ -589,7 +589,7 @@
     {
       "id": 27,
       "nombre": "Hank",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 31,
@@ -1569,7 +1569,7 @@
     {
       "id": 24,
       "nombre": "Bobby",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 777,
@@ -2114,6 +2114,11 @@
     {
       "id": 458,
       "nombre": "hinata",
+      "cantidad": 1
+    },
+    {
+      "id": 26,
+      "nombre": "Eric",
       "cantidad": 1
     }
   ]

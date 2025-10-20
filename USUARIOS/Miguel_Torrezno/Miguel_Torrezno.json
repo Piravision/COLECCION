@@ -44,7 +44,7 @@
     {
       "id": 316,
       "nombre": "Gambito",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 200,
@@ -439,7 +439,7 @@
     {
       "id": 397,
       "nombre": "avalanche",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 6,
@@ -564,7 +564,7 @@
     {
       "id": 407,
       "nombre": "yuffie",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 236,
@@ -1139,7 +1139,7 @@
     {
       "id": 544,
       "nombre": "DOC-BROWN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 562,
@@ -1619,7 +1619,7 @@
     {
       "id": 403,
       "nombre": "red",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 831,
@@ -2079,7 +2079,7 @@
     {
       "id": 401,
       "nombre": "cloud",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 902,
@@ -4454,7 +4454,7 @@
     {
       "id": 654,
       "nombre": "DB-042",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 662,
@@ -4994,7 +4994,7 @@
     {
       "id": 1265,
       "nombre": "BAYONETTA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1321,
@@ -5899,7 +5899,7 @@
     {
       "id": 1432,
       "nombre": "LA NOVIA DE REANIMATOR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1455,
@@ -5949,6 +5949,36 @@
     {
       "id": 1447,
       "nombre": "SAW",
+      "cantidad": 1
+    },
+    {
+      "id": 1290,
+      "nombre": "MORRIGAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1441,
+      "nombre": "PESADILLA EN EL ELM STREEET",
+      "cantidad": 1
+    },
+    {
+      "id": 1408,
+      "nombre": "CARRIE",
+      "cantidad": 1
+    },
+    {
+      "id": 1436,
+      "nombre": "MATANZA DE TEXAS",
+      "cantidad": 1
+    },
+    {
+      "id": 1423,
+      "nombre": "HALLOWEEN",
+      "cantidad": 1
+    },
+    {
+      "id": 1416,
+      "nombre": "EL TERROR LLAMA A SU PUERTA",
       "cantidad": 1
     }
   ]

@@ -7044,7 +7044,7 @@
     {
       "id": 1436,
       "nombre": "MATANZA DE TEXAS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1434,
@@ -7054,7 +7054,7 @@
     {
       "id": 1405,
       "nombre": "BEETLEJUICE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1408,
@@ -7079,7 +7079,7 @@
     {
       "id": 1445,
       "nombre": "RE-ANIMATOR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1432,
@@ -7109,7 +7109,7 @@
     {
       "id": 1451,
       "nombre": "TEMBLORES",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1437,
@@ -7129,6 +7129,16 @@
     {
       "id": 1411,
       "nombre": "CREEPSHOW",
+      "cantidad": 1
+    },
+    {
+      "id": 1423,
+      "nombre": "HALLOWEEN",
+      "cantidad": 1
+    },
+    {
+      "id": 1414,
+      "nombre": "EL REGRESO DE LOS MUERTOS",
       "cantidad": 1
     }
   ]

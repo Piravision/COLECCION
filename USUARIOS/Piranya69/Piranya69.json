@@ -1009,7 +1009,7 @@
     {
       "id": 535,
       "nombre": "Venkman-Jail",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 361,
@@ -1819,7 +1819,7 @@
     {
       "id": 436,
       "nombre": "abe",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 354,
@@ -2624,7 +2624,7 @@
     {
       "id": 617,
       "nombre": "DB-005",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 719,
@@ -7054,6 +7054,36 @@
     {
       "id": 1455,
       "nombre": "THE THING",
+      "cantidad": 1
+    },
+    {
+      "id": 1415,
+      "nombre": "EL RESPLANDOR",
+      "cantidad": 1
+    },
+    {
+      "id": 1401,
+      "nombre": "ABIERTO HASTA EL AMANECER",
+      "cantidad": 1
+    },
+    {
+      "id": 1457,
+      "nombre": "TOMATES ASESINOS",
+      "cantidad": 1
+    },
+    {
+      "id": 1428,
+      "nombre": "IT",
+      "cantidad": 1
+    },
+    {
+      "id": 1402,
+      "nombre": "ARMY OF DARKNESS",
+      "cantidad": 1
+    },
+    {
+      "id": 1436,
+      "nombre": "MATANZA DE TEXAS",
       "cantidad": 1
     }
   ]
