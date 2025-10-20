@@ -634,7 +634,7 @@
     {
       "id": 464,
       "nombre": "yamada",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 456,
@@ -1304,7 +1304,7 @@
     {
       "id": 460,
       "nombre": "miura",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 463,
@@ -2109,6 +2109,11 @@
     {
       "id": 934,
       "nombre": "SHAWN-MICHAELS",
+      "cantidad": 1
+    },
+    {
+      "id": 458,
+      "nombre": "hinata",
       "cantidad": 1
     }
   ]
