@@ -7044,7 +7044,7 @@
         {
             "id": 1436,
             "nombre": "MATANZA DE TEXAS",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1434,
@@ -7149,6 +7149,11 @@
         {
             "id": 1440,
             "nombre": "NOCHE DE MIEDO",
+            "cantidad": 1
+        },
+        {
+            "id": 1442,
+            "nombre": "PESADILLAS",
             "cantidad": 1
         }
     ]
