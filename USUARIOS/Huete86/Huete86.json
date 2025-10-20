@@ -4544,7 +4544,7 @@
         {
             "id": 287,
             "nombre": "Soldado del Pie",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 95,
@@ -5824,7 +5824,7 @@
         {
             "id": 1068,
             "nombre": "THUNDRA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1110,
@@ -6369,7 +6369,7 @@
         {
             "id": 1253,
             "nombre": "SABRINA-COSAS-DE-BRUJAS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1282,
@@ -7094,7 +7094,7 @@
         {
             "id": 1453,
             "nombre": "THE FOG",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1459,
@@ -7189,7 +7189,7 @@
         {
             "id": 1440,
             "nombre": "NOCHE DE MIEDO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1418,
@@ -7204,6 +7204,21 @@
         {
             "id": 1441,
             "nombre": "PESADILLA EN EL ELM STREEET",
+            "cantidad": 1
+        },
+        {
+            "id": 1455,
+            "nombre": "THE THING",
+            "cantidad": 2
+        },
+        {
+            "id": 1447,
+            "nombre": "SAW",
+            "cantidad": 1
+        },
+        {
+            "id": 1452,
+            "nombre": "THE BLOB",
             "cantidad": 1
         }
     ]

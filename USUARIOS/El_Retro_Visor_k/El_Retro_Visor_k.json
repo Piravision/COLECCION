@@ -309,7 +309,7 @@
         {
             "id": 253,
             "nombre": "Buitro",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 196,
@@ -604,7 +604,7 @@
         {
             "id": 263,
             "nombre": "Casey Jones",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 335,
@@ -829,7 +829,7 @@
         {
             "id": 536,
             "nombre": "Xena-Jail",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 170,
@@ -1329,7 +1329,7 @@
         {
             "id": 530,
             "nombre": "Axel-Foley-Jail",
-            "cantidad": 6
+            "cantidad": 7
         },
         {
             "id": 773,
@@ -2744,7 +2744,7 @@
         {
             "id": 36,
             "nombre": "baduck",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 304,
@@ -6194,7 +6194,7 @@
         {
             "id": 1159,
             "nombre": "GOLDENAGE- FLASH",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1293,
@@ -6329,7 +6329,7 @@
         {
             "id": 1296,
             "nombre": "CANDY",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1233,
@@ -6584,7 +6584,7 @@
         {
             "id": 1374,
             "nombre": "9-APOCALYMON",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1388,
@@ -6844,7 +6844,7 @@
         {
             "id": 1385,
             "nombre": "9-MERAMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1307,
@@ -7089,7 +7089,7 @@
         {
             "id": 1409,
             "nombre": "CEMENTERIO DE MASCOTAS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1441,
@@ -7149,6 +7149,51 @@
         {
             "id": 1403,
             "nombre": "AULLIDOS",
+            "cantidad": 2
+        },
+        {
+            "id": 1451,
+            "nombre": "TEMBLORES",
+            "cantidad": 1
+        },
+        {
+            "id": 1436,
+            "nombre": "MATANZA DE TEXAS",
+            "cantidad": 1
+        },
+        {
+            "id": 1416,
+            "nombre": "EL TERROR LLAMA A SU PUERTA",
+            "cantidad": 1
+        },
+        {
+            "id": 1410,
+            "nombre": "CREEPSHOW 2",
+            "cantidad": 1
+        },
+        {
+            "id": 1413,
+            "nombre": "DEMONS",
+            "cantidad": 1
+        },
+        {
+            "id": 1419,
+            "nombre": "EVIL DEAD II",
+            "cantidad": 1
+        },
+        {
+            "id": 1438,
+            "nombre": "MUÑECO DIABOLICO ii",
+            "cantidad": 1
+        },
+        {
+            "id": 1426,
+            "nombre": "HOUSE",
+            "cantidad": 1
+        },
+        {
+            "id": 1446,
+            "nombre": "SALEMS LOT",
             "cantidad": 1
         }
     ]

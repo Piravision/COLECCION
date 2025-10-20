@@ -299,7 +299,7 @@
     {
       "id": 132,
       "nombre": "Skeletor",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 85,
@@ -2074,7 +2074,7 @@
     {
       "id": 875,
       "nombre": "DARDEVIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 653,
@@ -2984,7 +2984,7 @@
     {
       "id": 110,
       "nombre": "Destro",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 517,
@@ -6994,12 +6994,12 @@
     {
       "id": 1421,
       "nombre": "EXORCISTA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1441,
       "nombre": "PESADILLA EN EL ELM STREEET",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1449,
@@ -7034,6 +7034,26 @@
     {
       "id": 1405,
       "nombre": "BEETLEJUICE",
+      "cantidad": 1
+    },
+    {
+      "id": 1452,
+      "nombre": "THE BLOB",
+      "cantidad": 1
+    },
+    {
+      "id": 1410,
+      "nombre": "CREEPSHOW 2",
+      "cantidad": 1
+    },
+    {
+      "id": 1453,
+      "nombre": "THE FOG",
+      "cantidad": 1
+    },
+    {
+      "id": 1420,
+      "nombre": "EVIL DEAD",
       "cantidad": 1
     }
   ]
