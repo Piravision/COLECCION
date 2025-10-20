@@ -284,7 +284,7 @@
     {
       "id": 456,
       "nombre": "boman",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 415,
@@ -1109,7 +1109,7 @@
     {
       "id": 501,
       "nombre": "SOLON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 224,
@@ -1369,12 +1369,12 @@
     {
       "id": 933,
       "nombre": "REY-MISTERIO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 463,
       "nombre": "shoma",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 690,
@@ -1799,7 +1799,7 @@
     {
       "id": 778,
       "nombre": "ALFRED",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 980,
@@ -1929,7 +1929,7 @@
     {
       "id": 429,
       "nombre": "sniper",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 578,
@@ -1979,7 +1979,7 @@
     {
       "id": 687,
       "nombre": "DB-075",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 814,
@@ -4069,7 +4069,7 @@
     {
       "id": 821,
       "nombre": "SHANG-TSUNG",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 112,
@@ -4109,6 +4109,26 @@
     {
       "id": 394,
       "nombre": "vsneo",
+      "cantidad": 1
+    },
+    {
+      "id": 1026,
+      "nombre": "4FV -SUPERSKRULL",
+      "cantidad": 1
+    },
+    {
+      "id": 455,
+      "nombre": "batsu",
+      "cantidad": 1
+    },
+    {
+      "id": 1241,
+      "nombre": "EL-COCHE-FANTASTICO",
+      "cantidad": 1
+    },
+    {
+      "id": 1321,
+      "nombre": "3C-GABUMON",
       "cantidad": 1
     }
   ]
