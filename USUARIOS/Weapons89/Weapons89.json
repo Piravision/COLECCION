@@ -1924,7 +1924,7 @@
         {
             "id": 859,
             "nombre": "JASON-JAIL",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 917,
@@ -7054,6 +7054,11 @@
         {
             "id": 1197,
             "nombre": "1A-MARIO",
+            "cantidad": 1
+        },
+        {
+            "id": 1262,
+            "nombre": "FA-SONIC",
             "cantidad": 1
         }
     ]
