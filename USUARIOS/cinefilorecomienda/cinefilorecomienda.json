@@ -664,7 +664,7 @@
     {
       "id": 761,
       "nombre": "alpha5",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 441,
@@ -1244,7 +1244,7 @@
     {
       "id": 145,
       "nombre": "Lord Dragaunus",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 409,
@@ -1294,7 +1294,7 @@
     {
       "id": 979,
       "nombre": "14-CHARLENE-SINCLAIR",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 961,
@@ -2104,7 +2104,7 @@
     {
       "id": 954,
       "nombre": "2-CHIP",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 364,
@@ -2689,7 +2689,7 @@
     {
       "id": 910,
       "nombre": "LOIS-LANE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1147,
@@ -2929,7 +2929,7 @@
     {
       "id": 1225,
       "nombre": "SORA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 514,
@@ -3124,7 +3124,7 @@
     {
       "id": 918,
       "nombre": "DIANA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1193,
@@ -3854,7 +3854,7 @@
     {
       "id": 40,
       "nombre": "chiu",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 933,
@@ -3994,7 +3994,7 @@
     {
       "id": 1144,
       "nombre": "SUPERNENAS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 136,
@@ -4544,7 +4544,7 @@
     {
       "id": 515,
       "nombre": "Invasión-Saurians",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1068,
@@ -4714,7 +4714,7 @@
     {
       "id": 473,
       "nombre": "harry",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1300,
@@ -5179,7 +5179,7 @@
     {
       "id": 936,
       "nombre": "THE-ROCK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1120,
@@ -5364,7 +5364,7 @@
     {
       "id": 1140,
       "nombre": "PANTERA-ROSA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1357,
@@ -5509,7 +5509,7 @@
     {
       "id": 899,
       "nombre": "THANOS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1170,
@@ -5659,7 +5659,7 @@
     {
       "id": 1227,
       "nombre": "VIVI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1079,
@@ -5749,6 +5749,21 @@
     {
       "id": 1286,
       "nombre": "FA-WINDJAMMERS",
+      "cantidad": 1
+    },
+    {
+      "id": 608,
+      "nombre": "SHUN-NITTA",
+      "cantidad": 1
+    },
+    {
+      "id": 1042,
+      "nombre": "H- HULK-2",
+      "cantidad": 1
+    },
+    {
+      "id": 1020,
+      "nombre": "4F -ANTORCHA HUMANA",
       "cantidad": 1
     }
   ]

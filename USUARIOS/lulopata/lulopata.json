@@ -189,7 +189,7 @@
     {
       "id": 241,
       "nombre": "Thunder Tank",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 475,
@@ -964,7 +964,7 @@
     {
       "id": 219,
       "nombre": "Dirigible Tortuga",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 215,
@@ -1049,7 +1049,7 @@
     {
       "id": 494,
       "nombre": "jillia",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 499,
@@ -1329,7 +1329,7 @@
     {
       "id": 866,
       "nombre": "SNAKE-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 533,
@@ -1399,7 +1399,7 @@
     {
       "id": 859,
       "nombre": "JASON-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 543,
@@ -1954,6 +1954,41 @@
     {
       "id": 154,
       "nombre": "Grease Pit",
+      "cantidad": 1
+    },
+    {
+      "id": 517,
+      "nombre": "Pirámide Negra",
+      "cantidad": 1
+    },
+    {
+      "id": 493,
+      "nombre": "flik",
+      "cantidad": 1
+    },
+    {
+      "id": 495,
+      "nombre": "jowy",
+      "cantidad": 1
+    },
+    {
+      "id": 864,
+      "nombre": "RAMBO-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1247,
+      "nombre": "LUZ-DE-LUNA",
+      "cantidad": 1
+    },
+    {
+      "id": 1242,
+      "nombre": "EQUIPO-A",
+      "cantidad": 1
+    },
+    {
+      "id": 1263,
+      "nombre": "SALVADOS-POR-LA-CAMPANA",
       "cantidad": 1
     }
   ]
