@@ -5809,7 +5809,7 @@
     {
       "id": 1426,
       "nombre": "HOUSE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1404,
@@ -5829,7 +5829,7 @@
     {
       "id": 1429,
       "nombre": "KILLER KLOWS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1459,
@@ -5839,7 +5839,7 @@
     {
       "id": 1405,
       "nombre": "BEETLEJUICE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1456,
@@ -5889,6 +5889,21 @@
     {
       "id": 1414,
       "nombre": "EL REGRESO DE LOS MUERTOS",
+      "cantidad": 1
+    },
+    {
+      "id": 1451,
+      "nombre": "TEMBLORES",
+      "cantidad": 1
+    },
+    {
+      "id": 1407,
+      "nombre": "CANDYMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1445,
+      "nombre": "RE-ANIMATOR",
       "cantidad": 1
     }
   ]
