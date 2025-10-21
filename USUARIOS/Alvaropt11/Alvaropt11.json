@@ -1009,7 +1009,7 @@
         {
             "id": 430,
             "nombre": "sniper2",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 628,
@@ -3349,7 +3349,7 @@
         {
             "id": 71,
             "nombre": "herhero",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 757,
@@ -5284,7 +5284,7 @@
         {
             "id": 1202,
             "nombre": "2Z-MEGAMAN",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1198,
@@ -7159,7 +7159,7 @@
         {
             "id": 1452,
             "nombre": "THE BLOB",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1456,
@@ -7209,6 +7209,11 @@
         {
             "id": 1459,
             "nombre": "VIERNES 13",
+            "cantidad": 1
+        },
+        {
+            "id": 1443,
+            "nombre": "PHANTASM",
             "cantidad": 1
         }
     ]
