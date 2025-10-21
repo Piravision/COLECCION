@@ -269,7 +269,7 @@
         {
             "id": 408,
             "nombre": "Elisa--Gárgola",
-            "cantidad": 10
+            "cantidad": 11
         },
         {
             "id": 350,
@@ -324,7 +324,7 @@
         {
             "id": 379,
             "nombre": "lynx",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 361,
@@ -884,7 +884,7 @@
         {
             "id": 125,
             "nombre": "Teela",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 78,
@@ -3219,7 +3219,7 @@
         {
             "id": 505,
             "nombre": "Hwoarang",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 298,
@@ -3934,7 +3934,7 @@
         {
             "id": 1008,
             "nombre": "SAKURA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 990,
@@ -4239,7 +4239,7 @@
         {
             "id": 689,
             "nombre": "DB-077",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1002,
@@ -4854,7 +4854,7 @@
         {
             "id": 1117,
             "nombre": "PF-PITUFINA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 977,
@@ -5024,7 +5024,7 @@
         {
             "id": 1029,
             "nombre": "BLACK-PHANTER-2",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1083,
@@ -5109,7 +5109,7 @@
         {
             "id": 957,
             "nombre": "2-MONTERREY-JACK",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1120,
@@ -7089,7 +7089,7 @@
         {
             "id": 1409,
             "nombre": "CEMENTERIO DE MASCOTAS",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1441,
@@ -7254,6 +7254,11 @@
         {
             "id": 1458,
             "nombre": "VENGADOR TOXICO",
+            "cantidad": 1
+        },
+        {
+            "id": 1421,
+            "nombre": "EXORCISTA",
             "cantidad": 1
         }
     ]

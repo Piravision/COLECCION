@@ -269,7 +269,7 @@
     {
       "id": 182,
       "nombre": "Kingpin",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 407,
@@ -3979,7 +3979,7 @@
     {
       "id": 905,
       "nombre": "DARKSEID",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 342,
@@ -4239,7 +4239,7 @@
     {
       "id": 383,
       "nombre": "viper",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 12,
@@ -4364,7 +4364,7 @@
     {
       "id": 38,
       "nombre": "brokeena",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 39,
@@ -5929,6 +5929,16 @@
     {
       "id": 1250,
       "nombre": "MIAMI-VICE",
+      "cantidad": 1
+    },
+    {
+      "id": 1442,
+      "nombre": "PESADILLAS",
+      "cantidad": 1
+    },
+    {
+      "id": 1434,
+      "nombre": "MANIAC COP",
       "cantidad": 1
     }
   ]
