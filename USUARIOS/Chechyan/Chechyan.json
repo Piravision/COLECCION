@@ -5799,7 +5799,7 @@
     {
       "id": 1440,
       "nombre": "NOCHE DE MIEDO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1458,
@@ -5834,7 +5834,7 @@
     {
       "id": 1459,
       "nombre": "VIERNES 13",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1405,
@@ -5869,7 +5869,7 @@
     {
       "id": 1416,
       "nombre": "EL TERROR LLAMA A SU PUERTA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1457,
@@ -5894,7 +5894,7 @@
     {
       "id": 1451,
       "nombre": "TEMBLORES",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1407,
@@ -6039,6 +6039,16 @@
     {
       "id": 1420,
       "nombre": "EVIL DEAD",
+      "cantidad": 1
+    },
+    {
+      "id": 1437,
+      "nombre": "MONSTER SQUAD",
+      "cantidad": 1
+    },
+    {
+      "id": 1423,
+      "nombre": "HALLOWEEN",
       "cantidad": 1
     }
   ]

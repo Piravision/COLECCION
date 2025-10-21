@@ -7039,7 +7039,7 @@
         {
             "id": 1455,
             "nombre": "THE THING",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1436,
@@ -7134,7 +7134,7 @@
         {
             "id": 1423,
             "nombre": "HALLOWEEN",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1414,
@@ -7149,7 +7149,7 @@
         {
             "id": 1440,
             "nombre": "NOCHE DE MIEDO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1442,
@@ -7169,7 +7169,7 @@
         {
             "id": 1406,
             "nombre": "BRAINDEAD",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1427,
@@ -7224,7 +7224,7 @@
         {
             "id": 1402,
             "nombre": "ARMY OF DARKNESS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1448,
@@ -7234,6 +7234,11 @@
         {
             "id": 1460,
             "nombre": "WISHMASTER",
+            "cantidad": 1
+        },
+        {
+            "id": 1447,
+            "nombre": "SAW",
             "cantidad": 1
         }
     ]

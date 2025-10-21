@@ -5424,7 +5424,7 @@
     {
       "id": 1418,
       "nombre": "ESTAN VIVOS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1453,
@@ -5444,7 +5444,7 @@
     {
       "id": 1413,
       "nombre": "DEMONS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1424,
@@ -5454,12 +5454,12 @@
     {
       "id": 1435,
       "nombre": "MARS ATTACKS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1426,
       "nombre": "HOUSE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1445,
@@ -5524,6 +5524,16 @@
     {
       "id": 1458,
       "nombre": "VENGADOR TOXICO",
+      "cantidad": 1
+    },
+    {
+      "id": 1429,
+      "nombre": "KILLER KLOWS",
+      "cantidad": 1
+    },
+    {
+      "id": 1420,
+      "nombre": "EVIL DEAD",
       "cantidad": 1
     }
   ]

@@ -5684,7 +5684,7 @@
     {
       "id": 1437,
       "nombre": "MONSTER SQUAD",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1404,
@@ -5789,7 +5789,7 @@
     {
       "id": 1446,
       "nombre": "SALEMS LOT",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 999,
@@ -5809,7 +5809,7 @@
     {
       "id": 1457,
       "nombre": "TOMATES ASESINOS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1408,
@@ -5829,7 +5829,7 @@
     {
       "id": 1413,
       "nombre": "DEMONS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1449,
@@ -5879,6 +5879,16 @@
     {
       "id": 1412,
       "nombre": "DARMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1450,
+      "nombre": "TEEN WOLF",
+      "cantidad": 1
+    },
+    {
+      "id": 1440,
+      "nombre": "NOCHE DE MIEDO",
       "cantidad": 1
     }
   ]

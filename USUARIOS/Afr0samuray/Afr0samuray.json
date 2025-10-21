@@ -4499,7 +4499,7 @@
         {
             "id": 1429,
             "nombre": "KILLER KLOWS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1430,
@@ -4514,7 +4514,7 @@
         {
             "id": 1458,
             "nombre": "VENGADOR TOXICO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1440,
@@ -4524,7 +4524,7 @@
         {
             "id": 1447,
             "nombre": "SAW",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1426,
@@ -4534,7 +4534,7 @@
         {
             "id": 1406,
             "nombre": "BRAINDEAD",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1449,
@@ -4954,7 +4954,7 @@
         {
             "id": 1418,
             "nombre": "ESTAN VIVOS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1454,
@@ -5289,6 +5289,21 @@
         {
             "id": 307,
             "nombre": "Skywarp",
+            "cantidad": 1
+        },
+        {
+            "id": 1403,
+            "nombre": "AULLIDOS",
+            "cantidad": 1
+        },
+        {
+            "id": 1448,
+            "nombre": "SCREAM",
+            "cantidad": 1
+        },
+        {
+            "id": 1438,
+            "nombre": "MUÑECO DIABOLICO ii",
             "cantidad": 1
         }
     ]

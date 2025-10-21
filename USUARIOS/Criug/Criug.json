@@ -7049,7 +7049,7 @@
     {
       "id": 1415,
       "nombre": "EL RESPLANDOR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1459,
@@ -7114,7 +7114,7 @@
     {
       "id": 1451,
       "nombre": "TEMBLORES",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1455,
@@ -7139,6 +7139,21 @@
     {
       "id": 1423,
       "nombre": "HALLOWEEN",
+      "cantidad": 1
+    },
+    {
+      "id": 1437,
+      "nombre": "MONSTER SQUAD",
+      "cantidad": 2
+    },
+    {
+      "id": 1441,
+      "nombre": "PESADILLA EN EL ELM STREEET",
+      "cantidad": 1
+    },
+    {
+      "id": 1410,
+      "nombre": "CREEPSHOW 2",
       "cantidad": 1
     }
   ]

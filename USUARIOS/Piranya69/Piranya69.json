@@ -7074,7 +7074,7 @@
     {
       "id": 1428,
       "nombre": "IT",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1402,
@@ -7114,6 +7114,26 @@
     {
       "id": 1452,
       "nombre": "THE BLOB",
+      "cantidad": 1
+    },
+    {
+      "id": 1451,
+      "nombre": "TEMBLORES",
+      "cantidad": 1
+    },
+    {
+      "id": 1444,
+      "nombre": "POLTERGEIST",
+      "cantidad": 2
+    },
+    {
+      "id": 1423,
+      "nombre": "HALLOWEEN",
+      "cantidad": 1
+    },
+    {
+      "id": 1443,
+      "nombre": "PHANTASM",
       "cantidad": 1
     }
   ]
