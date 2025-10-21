@@ -1529,7 +1529,7 @@
         {
             "id": 256,
             "nombre": "Mandrilo",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 339,
@@ -5264,6 +5264,11 @@
         {
             "id": 257,
             "nombre": "Mumm Ra",
+            "cantidad": 1
+        },
+        {
+            "id": 261,
+            "nombre": "Reptilio",
             "cantidad": 1
         }
     ]
