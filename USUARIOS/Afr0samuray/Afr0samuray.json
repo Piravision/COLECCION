@@ -3289,7 +3289,7 @@
         {
             "id": 248,
             "nombre": "Panthro",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1041,
@@ -5254,6 +5254,11 @@
         {
             "id": 243,
             "nombre": "Cheetara",
+            "cantidad": 1
+        },
+        {
+            "id": 252,
+            "nombre": "Alluro",
             "cantidad": 1
         }
     ]
