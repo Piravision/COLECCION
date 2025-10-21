@@ -2459,7 +2459,7 @@
     {
       "id": 876,
       "nombre": "DORMAMMU",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1203,
@@ -3209,7 +3209,7 @@
     {
       "id": 1227,
       "nombre": "VIVI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 18,
@@ -3254,7 +3254,7 @@
     {
       "id": 672,
       "nombre": "DB-060",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 100,
@@ -4774,7 +4774,7 @@
     {
       "id": 1188,
       "nombre": "CARMEN-SANDIEGO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 557,
@@ -5489,11 +5489,16 @@
     {
       "id": 1317,
       "nombre": "2H-FA-JOE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 645,
       "nombre": "DB-033",
+      "cantidad": 1
+    },
+    {
+      "id": 1177,
+      "nombre": "LIGHT-&-RYUK",
       "cantidad": 1
     }
   ]
