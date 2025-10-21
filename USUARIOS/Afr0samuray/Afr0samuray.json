@@ -3614,7 +3614,7 @@
     {
       "id": 1322,
       "nombre": "3D-GARURUMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1364,
@@ -4519,12 +4519,12 @@
     {
       "id": 1440,
       "nombre": "NOCHE DE MIEDO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1447,
       "nombre": "SAW",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1426,
@@ -4909,7 +4909,7 @@
     {
       "id": 1424,
       "nombre": "HELLRAISER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1441,
@@ -4989,7 +4989,7 @@
     {
       "id": 1408,
       "nombre": "CARRIE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1411,
@@ -5169,7 +5169,7 @@
     {
       "id": 1410,
       "nombre": "CREEPSHOW 2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1332,
@@ -5184,6 +5184,46 @@
     {
       "id": 1273,
       "nombre": "KINGDOM-HEARTS",
+      "cantidad": 1
+    },
+    {
+      "id": 867,
+      "nombre": "SONNY-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 628,
+      "nombre": "DB-016",
+      "cantidad": 1
+    },
+    {
+      "id": 1288,
+      "nombre": "JAK-&-DAXTER",
+      "cantidad": 1
+    },
+    {
+      "id": 1029,
+      "nombre": "BLACK-PHANTER-2",
+      "cantidad": 1
+    },
+    {
+      "id": 95,
+      "nombre": "Hudson",
+      "cantidad": 1
+    },
+    {
+      "id": 1433,
+      "nombre": "LOST BOYS",
+      "cantidad": 1
+    },
+    {
+      "id": 787,
+      "nombre": "DOS-CARAS",
+      "cantidad": 1
+    },
+    {
+      "id": 1445,
+      "nombre": "RE-ANIMATOR",
       "cantidad": 1
     }
   ]
