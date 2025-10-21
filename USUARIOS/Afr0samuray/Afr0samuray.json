@@ -134,7 +134,7 @@
         {
             "id": 90,
             "nombre": "Broadway",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 197,
@@ -5229,6 +5229,11 @@
         {
             "id": 30,
             "nombre": "Uni",
+            "cantidad": 1
+        },
+        {
+            "id": 89,
+            "nombre": "Angela",
             "cantidad": 1
         }
     ]
