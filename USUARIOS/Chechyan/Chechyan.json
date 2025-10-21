@@ -64,7 +64,7 @@
     {
       "id": 396,
       "nombre": "aeris",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1,
@@ -449,7 +449,7 @@
     {
       "id": 991,
       "nombre": "CONAN-EDOGAWA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 715,
@@ -1814,7 +1814,7 @@
     {
       "id": 450,
       "nombre": "licker",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 54,
@@ -2039,7 +2039,7 @@
     {
       "id": 1020,
       "nombre": "4F -ANTORCHA HUMANA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 520,
@@ -2064,7 +2064,7 @@
     {
       "id": 324,
       "nombre": "Wolverine",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 200,
@@ -2699,7 +2699,7 @@
     {
       "id": 107,
       "nombre": "Snake Eyes",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1083,
@@ -3784,7 +3784,7 @@
     {
       "id": 663,
       "nombre": "DB-051",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1039,
@@ -5069,7 +5069,7 @@
     {
       "id": 1393,
       "nombre": "9-PIEDMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1378,
@@ -5684,7 +5684,7 @@
     {
       "id": 871,
       "nombre": "BLACK-BOLT",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 747,
@@ -5904,6 +5904,31 @@
     {
       "id": 1445,
       "nombre": "RE-ANIMATOR",
+      "cantidad": 1
+    },
+    {
+      "id": 794,
+      "nombre": "HUGO-STRANGE",
+      "cantidad": 1
+    },
+    {
+      "id": 1281,
+      "nombre": "KOJI-&-MAZINGER-Z",
+      "cantidad": 1
+    },
+    {
+      "id": 209,
+      "nombre": "Sovereign Rock Castle",
+      "cantidad": 1
+    },
+    {
+      "id": 822,
+      "nombre": "SHAO-KAHN",
+      "cantidad": 1
+    },
+    {
+      "id": 1250,
+      "nombre": "MIAMI-VICE",
       "cantidad": 1
     }
   ]

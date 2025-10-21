@@ -134,7 +134,7 @@
     {
       "id": 357,
       "nombre": "china",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 78,
@@ -239,7 +239,7 @@
     {
       "id": 258,
       "nombre": "Mumm Ra",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 371,
@@ -1239,7 +1239,7 @@
     {
       "id": 125,
       "nombre": "Teela",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 235,
@@ -1769,7 +1769,7 @@
     {
       "id": 667,
       "nombre": "DB-055",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 229,
@@ -1859,7 +1859,7 @@
     {
       "id": 359,
       "nombre": "long",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 364,
@@ -2349,12 +2349,12 @@
     {
       "id": 912,
       "nombre": "SINIESTRO",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 908,
       "nombre": "KARA-",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 97,
@@ -2814,7 +2814,7 @@
     {
       "id": 331,
       "nombre": "Mente Maestra",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 858,
@@ -3399,7 +3399,7 @@
     {
       "id": 338,
       "nombre": "Shiryū de Dragón",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 790,
@@ -4129,7 +4129,7 @@
     {
       "id": 81,
       "nombre": "vearn",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 342,
@@ -4399,7 +4399,7 @@
     {
       "id": 1046,
       "nombre": "HERCULES",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 127,
@@ -5314,7 +5314,7 @@
     {
       "id": 1166,
       "nombre": "HAWKWOMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1032,
@@ -6229,7 +6229,7 @@
     {
       "id": 1255,
       "nombre": "STARGATE-SG-1",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1138,
@@ -6349,12 +6349,12 @@
     {
       "id": 1115,
       "nombre": "PF-GARGAMEL-&-AZRAEL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1055,
       "nombre": "NIGHTHAWK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1214,
@@ -6969,7 +6969,7 @@
     {
       "id": 1361,
       "nombre": "7G-PATAMON-EVO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1367,
@@ -7059,7 +7059,7 @@
     {
       "id": 1408,
       "nombre": "CARRIE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1422,
@@ -7159,6 +7159,11 @@
     {
       "id": 1452,
       "nombre": "THE BLOB",
+      "cantidad": 1
+    },
+    {
+      "id": 1456,
+      "nombre": "TIENDA DE LOS HORRORES",
       "cantidad": 1
     }
   ]
