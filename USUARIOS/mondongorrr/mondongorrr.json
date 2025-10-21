@@ -384,7 +384,7 @@
         {
             "id": 301,
             "nombre": "Astrotrain",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 576,
@@ -584,7 +584,7 @@
         {
             "id": 344,
             "nombre": "Flazzard 3",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 228,
@@ -1519,7 +1519,7 @@
         {
             "id": 325,
             "nombre": "Apocalipsis",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 152,
@@ -2194,7 +2194,7 @@
         {
             "id": 134,
             "nombre": "Tri Klops",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 82,
@@ -2214,7 +2214,7 @@
         {
             "id": 664,
             "nombre": "DB-052",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 736,
@@ -2234,7 +2234,7 @@
         {
             "id": 695,
             "nombre": "DB-083",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 886,
@@ -2504,7 +2504,7 @@
         {
             "id": 351,
             "nombre": "reaper",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 493,
@@ -2749,7 +2749,7 @@
         {
             "id": 39,
             "nombre": "captain",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 75,
@@ -2864,7 +2864,7 @@
         {
             "id": 33,
             "nombre": "Apollo",
-            "cantidad": 5
+            "cantidad": 7
         },
         {
             "id": 41,
@@ -3044,7 +3044,7 @@
         {
             "id": 1106,
             "nombre": "G-JASON",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 950,
@@ -3269,7 +3269,7 @@
         {
             "id": 1109,
             "nombre": "G-ZARK-7-&-ROBERTO-1",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 973,
@@ -3864,7 +3864,7 @@
         {
             "id": 836,
             "nombre": "Chunli2",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 602,
@@ -4379,7 +4379,7 @@
         {
             "id": 1216,
             "nombre": "5-NINJA-GAIDEN",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1176,
@@ -5084,7 +5084,7 @@
         {
             "id": 427,
             "nombre": "psyco",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 423,
@@ -5144,7 +5144,7 @@
         {
             "id": 121,
             "nombre": "Ram Man(",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 122,
@@ -6064,7 +6064,7 @@
         {
             "id": 1105,
             "nombre": "G-AVECILLA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1141,
@@ -6989,7 +6989,7 @@
         {
             "id": 1402,
             "nombre": "ARMY OF DARKNESS",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1421,
@@ -7139,6 +7139,16 @@
         {
             "id": 1440,
             "nombre": "NOCHE DE MIEDO",
+            "cantidad": 1
+        },
+        {
+            "id": 1436,
+            "nombre": "MATANZA DE TEXAS",
+            "cantidad": 1
+        },
+        {
+            "id": 1439,
+            "nombre": "MUÑECO DIABOLICO",
             "cantidad": 1
         }
     ]
