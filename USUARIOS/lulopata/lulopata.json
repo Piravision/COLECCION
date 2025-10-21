@@ -329,7 +329,7 @@
     {
       "id": 861,
       "nombre": "MARTY-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 858,
@@ -569,12 +569,12 @@
     {
       "id": 64,
       "nombre": "evil crocodine",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 541,
       "nombre": "COBRA-1986",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 539,
@@ -759,7 +759,7 @@
     {
       "id": 549,
       "nombre": "T-1000",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 364,
@@ -874,7 +874,7 @@
     {
       "id": 844,
       "nombre": "HONDA2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 847,
@@ -1094,7 +1094,7 @@
     {
       "id": 663,
       "nombre": "DB-051",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 376,
@@ -2254,6 +2254,81 @@
     {
       "id": 559,
       "nombre": "MABARRACUS-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 67,
+      "nombre": "flazzard3",
+      "cantidad": 1
+    },
+    {
+      "id": 656,
+      "nombre": "DB-044",
+      "cantidad": 1
+    },
+    {
+      "id": 197,
+      "nombre": "Rox",
+      "cantidad": 1
+    },
+    {
+      "id": 211,
+      "nombre": "Anillo Serpiente",
+      "cantidad": 1
+    },
+    {
+      "id": 1346,
+      "nombre": "6A-IZZY",
+      "cantidad": 1
+    },
+    {
+      "id": 885,
+      "nombre": "IRON-MAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1106,
+      "nombre": "G-JASON",
+      "cantidad": 1
+    },
+    {
+      "id": 1119,
+      "nombre": "PF-PITUFO-FORTACHON",
+      "cantidad": 1
+    },
+    {
+      "id": 722,
+      "nombre": "DB-110",
+      "cantidad": 1
+    },
+    {
+      "id": 1339,
+      "nombre": "5C-PIYOMON",
+      "cantidad": 1
+    },
+    {
+      "id": 577,
+      "nombre": "ALAN-PASCAL",
+      "cantidad": 1
+    },
+    {
+      "id": 771,
+      "nombre": "rita",
+      "cantidad": 1
+    },
+    {
+      "id": 1034,
+      "nombre": "CAPITAN BRITANIA-2",
+      "cantidad": 1
+    },
+    {
+      "id": 1052,
+      "nombre": "JOCASTA",
+      "cantidad": 1
+    },
+    {
+      "id": 5,
+      "nombre": "Seiya de Pegaso",
       "cantidad": 1
     }
   ]

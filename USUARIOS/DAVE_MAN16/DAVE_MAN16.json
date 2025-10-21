@@ -289,7 +289,7 @@
     {
       "id": 415,
       "nombre": "emme",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 101,
@@ -4224,6 +4224,16 @@
     {
       "id": 1051,
       "nombre": "JACK-HEARTS",
+      "cantidad": 1
+    },
+    {
+      "id": 832,
+      "nombre": "BLANKA",
+      "cantidad": 1
+    },
+    {
+      "id": 662,
+      "nombre": "DB-050",
       "cantidad": 1
     }
   ]

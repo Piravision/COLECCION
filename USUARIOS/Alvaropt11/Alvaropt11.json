@@ -724,7 +724,7 @@
         {
             "id": 588,
             "nombre": "FRANZ-SCHESTER",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 354,
@@ -1404,7 +1404,7 @@
         {
             "id": 641,
             "nombre": "DB-029",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 502,
@@ -1559,7 +1559,7 @@
         {
             "id": 463,
             "nombre": "shoma",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 85,
@@ -1924,7 +1924,7 @@
         {
             "id": 629,
             "nombre": "DB-017",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 356,
@@ -2949,7 +2949,7 @@
         {
             "id": 88,
             "nombre": "Zackary Foxx",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 224,
@@ -4974,7 +4974,7 @@
         {
             "id": 183,
             "nombre": "Kraven",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 841,
@@ -5744,7 +5744,7 @@
         {
             "id": 1248,
             "nombre": "MACGYVER",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1027,
@@ -7199,6 +7199,11 @@
         {
             "id": 1446,
             "nombre": "SALEMS LOT",
+            "cantidad": 1
+        },
+        {
+            "id": 1415,
+            "nombre": "EL RESPLANDOR",
             "cantidad": 1
         }
     ]
