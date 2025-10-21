@@ -254,7 +254,7 @@
         {
             "id": 251,
             "nombre": "Tigro",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 45,
@@ -5259,6 +5259,11 @@
         {
             "id": 252,
             "nombre": "Alluro",
+            "cantidad": 1
+        },
+        {
+            "id": 257,
+            "nombre": "Mumm Ra",
             "cantidad": 1
         }
     ]
