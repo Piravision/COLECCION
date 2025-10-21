@@ -734,7 +734,7 @@
         {
             "id": 299,
             "nombre": "Sunstreaker",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 25,
@@ -5279,6 +5279,11 @@
         {
             "id": 301,
             "nombre": "Astrotrain",
+            "cantidad": 1
+        },
+        {
+            "id": 304,
+            "nombre": "Runabout",
             "cantidad": 1
         }
     ]
