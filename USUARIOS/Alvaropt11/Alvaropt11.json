@@ -809,7 +809,7 @@
         {
             "id": 378,
             "nombre": "kid",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 592,
@@ -909,7 +909,7 @@
         {
             "id": 640,
             "nombre": "DB-028",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 598,
@@ -974,7 +974,7 @@
         {
             "id": 699,
             "nombre": "DB-087",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 131,
@@ -1699,7 +1699,7 @@
         {
             "id": 140,
             "nombre": "Mallory McMallard",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 755,
@@ -2339,7 +2339,7 @@
         {
             "id": 409,
             "nombre": "Kōji-Kabuto",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 717,
@@ -2414,7 +2414,7 @@
         {
             "id": 711,
             "nombre": "DB-099",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 855,
@@ -2724,7 +2724,7 @@
         {
             "id": 830,
             "nombre": "BALROG",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 751,
@@ -2764,7 +2764,7 @@
         {
             "id": 648,
             "nombre": "DB-036",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 700,
@@ -3634,7 +3634,7 @@
         {
             "id": 947,
             "nombre": "1-ARAMIS",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 967,
@@ -4049,7 +4049,7 @@
         {
             "id": 805,
             "nombre": "GORO",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 977,
@@ -4544,7 +4544,7 @@
         {
             "id": 587,
             "nombre": "EDDY-BRIGHT",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 375,
@@ -4879,7 +4879,7 @@
         {
             "id": 907,
             "nombre": "FLASH",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 634,
@@ -5009,7 +5009,7 @@
         {
             "id": 1038,
             "nombre": "CAPITANA MARVEL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 873,
@@ -5339,7 +5339,7 @@
         {
             "id": 1090,
             "nombre": "ANIMANIACS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1200,
@@ -5694,7 +5694,7 @@
         {
             "id": 1272,
             "nombre": "FA-SUNSET-RIDERS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1269,
@@ -6009,7 +6009,7 @@
         {
             "id": 1238,
             "nombre": "2-COSAS-DE-CASA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1227,
@@ -6429,7 +6429,7 @@
         {
             "id": 1233,
             "nombre": "CONTRA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1031,
@@ -7059,7 +7059,7 @@
         {
             "id": 1408,
             "nombre": "CARRIE",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1422,
@@ -7144,7 +7144,7 @@
         {
             "id": 1413,
             "nombre": "DEMONS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1440,
@@ -7184,6 +7184,11 @@
         {
             "id": 1438,
             "nombre": "MUÑECO DIABOLICO ii",
+            "cantidad": 1
+        },
+        {
+            "id": 1407,
+            "nombre": "CANDYMAN",
             "cantidad": 1
         }
     ]

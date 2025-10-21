@@ -29,7 +29,7 @@
     {
       "id": 1148,
       "nombre": "AQUAMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 373,
@@ -504,7 +504,7 @@
     {
       "id": 17,
       "nombre": "Guerrero Serpiente",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 10,
@@ -694,7 +694,7 @@
     {
       "id": 496,
       "nombre": "LUCA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 451,
@@ -739,7 +739,7 @@
     {
       "id": 702,
       "nombre": "DB-090",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 584,
@@ -2074,7 +2074,7 @@
     {
       "id": 1072,
       "nombre": "VALKYRIE-2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1030,
@@ -2164,6 +2164,86 @@
     {
       "id": 404,
       "nombre": "sefirot",
+      "cantidad": 1
+    },
+    {
+      "id": 633,
+      "nombre": "DB-021",
+      "cantidad": 1
+    },
+    {
+      "id": 587,
+      "nombre": "EDDY-BRIGHT",
+      "cantidad": 1
+    },
+    {
+      "id": 946,
+      "nombre": "SLOTH-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 737,
+      "nombre": "Aioros-de-Sagitario",
+      "cantidad": 1
+    },
+    {
+      "id": 1056,
+      "nombre": "NOVA-2",
+      "cantidad": 1
+    },
+    {
+      "id": 313,
+      "nombre": "Cable",
+      "cantidad": 1
+    },
+    {
+      "id": 780,
+      "nombre": "BARBARA-GORDON",
+      "cantidad": 1
+    },
+    {
+      "id": 711,
+      "nombre": "DB-099",
+      "cantidad": 1
+    },
+    {
+      "id": 1440,
+      "nombre": "NOCHE DE MIEDO",
+      "cantidad": 1
+    },
+    {
+      "id": 383,
+      "nombre": "viper",
+      "cantidad": 1
+    },
+    {
+      "id": 708,
+      "nombre": "DB-096",
+      "cantidad": 1
+    },
+    {
+      "id": 647,
+      "nombre": "DB-035",
+      "cantidad": 1
+    },
+    {
+      "id": 1136,
+      "nombre": "JOHNNY-BRAVO",
+      "cantidad": 1
+    },
+    {
+      "id": 244,
+      "nombre": "Felina",
+      "cantidad": 1
+    },
+    {
+      "id": 1066,
+      "nombre": "TH - THOR-2",
+      "cantidad": 1
+    },
+    {
+      "id": 852,
+      "nombre": "ZANGIEF",
       "cantidad": 1
     }
   ]

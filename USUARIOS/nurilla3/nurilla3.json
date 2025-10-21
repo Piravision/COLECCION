@@ -104,7 +104,7 @@
     {
       "id": 1266,
       "nombre": "CHRONO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 478,
@@ -249,7 +249,7 @@
     {
       "id": 496,
       "nombre": "LUCA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 525,
@@ -319,6 +319,41 @@
     {
       "id": 433,
       "nombre": "vincent",
+      "cantidad": 1
+    },
+    {
+      "id": 796,
+      "nombre": "MAN-BAT",
+      "cantidad": 1
+    },
+    {
+      "id": 23,
+      "nombre": "Amo del Calabozo",
+      "cantidad": 1
+    },
+    {
+      "id": 239,
+      "nombre": "Stridor",
+      "cantidad": 1
+    },
+    {
+      "id": 923,
+      "nombre": "REAL-VISITOR",
+      "cantidad": 1
+    },
+    {
+      "id": 1224,
+      "nombre": "SAMUS",
+      "cantidad": 1
+    },
+    {
+      "id": 136,
+      "nombre": "Mazinger Z",
+      "cantidad": 1
+    },
+    {
+      "id": 254,
+      "nombre": "Chacalo",
       "cantidad": 1
     }
   ]

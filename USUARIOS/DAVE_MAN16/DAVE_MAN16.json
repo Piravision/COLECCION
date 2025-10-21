@@ -644,7 +644,7 @@
     {
       "id": 69,
       "nombre": "gargola",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 371,
@@ -3854,7 +3854,7 @@
     {
       "id": 287,
       "nombre": "Soldado del Pie",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 702,
@@ -4219,6 +4219,11 @@
     {
       "id": 1194,
       "nombre": "COBRA",
+      "cantidad": 1
+    },
+    {
+      "id": 1051,
+      "nombre": "JACK-HEARTS",
       "cantidad": 1
     }
   ]
