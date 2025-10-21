@@ -89,7 +89,7 @@
         {
             "id": 305,
             "nombre": "Runamuck",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 126,
@@ -5284,6 +5284,11 @@
         {
             "id": 304,
             "nombre": "Runabout",
+            "cantidad": 1
+        },
+        {
+            "id": 307,
+            "nombre": "Skywarp",
             "cantidad": 1
         }
     ]
