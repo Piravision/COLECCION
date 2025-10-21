@@ -669,7 +669,7 @@
         {
             "id": 297,
             "nombre": "Optimus Prime",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 354,
@@ -5269,6 +5269,11 @@
         {
             "id": 261,
             "nombre": "Reptilio",
+            "cantidad": 1
+        },
+        {
+            "id": 296,
+            "nombre": "Jazz",
             "cantidad": 1
         }
     ]
