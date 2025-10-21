@@ -299,7 +299,7 @@
         {
             "id": 298,
             "nombre": "Prowl",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 186,
@@ -5274,6 +5274,11 @@
         {
             "id": 296,
             "nombre": "Jazz",
+            "cantidad": 1
+        },
+        {
+            "id": 301,
+            "nombre": "Astrotrain",
             "cantidad": 1
         }
     ]
