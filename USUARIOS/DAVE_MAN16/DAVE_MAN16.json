@@ -1084,7 +1084,7 @@
     {
       "id": 582,
       "nombre": "CONTI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 419,
@@ -2739,7 +2739,7 @@
     {
       "id": 98,
       "nombre": "David Xanatos",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 525,
@@ -4214,6 +4214,11 @@
     {
       "id": 634,
       "nombre": "DB-022",
+      "cantidad": 1
+    },
+    {
+      "id": 1194,
+      "nombre": "COBRA",
       "cantidad": 1
     }
   ]

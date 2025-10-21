@@ -2199,7 +2199,7 @@
     {
       "id": 618,
       "nombre": "DB-006",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 751,
@@ -2429,7 +2429,7 @@
     {
       "id": 514,
       "nombre": "Hálcon-Vigía",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 837,
@@ -3174,7 +3174,7 @@
     {
       "id": 1185,
       "nombre": "WICKET",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 939,
@@ -5079,7 +5079,7 @@
     {
       "id": 1229,
       "nombre": "MIGHTY-MAX",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1397,
@@ -5369,7 +5369,7 @@
     {
       "id": 195,
       "nombre": "Moby Lick",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 693,
@@ -5489,6 +5489,11 @@
     {
       "id": 1317,
       "nombre": "2H-FA-JOE",
+      "cantidad": 1
+    },
+    {
+      "id": 645,
+      "nombre": "DB-033",
       "cantidad": 1
     }
   ]
