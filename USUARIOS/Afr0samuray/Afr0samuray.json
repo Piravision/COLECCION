@@ -249,7 +249,7 @@
         {
             "id": 92,
             "nombre": "Brooklyn",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 251,
@@ -5234,6 +5234,11 @@
         {
             "id": 89,
             "nombre": "Angela",
+            "cantidad": 1
+        },
+        {
+            "id": 98,
+            "nombre": "David Xanatos",
             "cantidad": 1
         }
     ]
