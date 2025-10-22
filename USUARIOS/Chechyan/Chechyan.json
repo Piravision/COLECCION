@@ -2454,7 +2454,7 @@
         {
             "id": 839,
             "nombre": "DJ",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 564,
@@ -6169,6 +6169,11 @@
         {
             "id": 516,
             "nombre": "LEGIÓN-DEL-DRAGÓN",
+            "cantidad": 1
+        },
+        {
+            "id": 250,
+            "nombre": "Snarf",
             "cantidad": 1
         }
     ]
