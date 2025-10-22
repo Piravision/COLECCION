@@ -789,7 +789,7 @@
         {
             "id": 729,
             "nombre": "DB-117",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 571,
@@ -2824,7 +2824,7 @@
         {
             "id": 193,
             "nombre": "Jab",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 851,
@@ -6834,7 +6834,7 @@
         {
             "id": 1397,
             "nombre": "9-SCUMON",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1379,
@@ -7074,7 +7074,7 @@
         {
             "id": 1458,
             "nombre": "VENGADOR TOXICO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1445,
@@ -7264,6 +7264,11 @@
         {
             "id": 1425,
             "nombre": "HOMBRE LOBO AMERIANO EN LONDRES",
+            "cantidad": 1
+        },
+        {
+            "id": 1404,
+            "nombre": "BEETLEJUICE - PROMO",
             "cantidad": 1
         }
     ]
