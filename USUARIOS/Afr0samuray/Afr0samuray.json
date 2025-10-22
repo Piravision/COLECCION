@@ -3854,7 +3854,7 @@
         {
             "id": 770,
             "nombre": "red",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 685,
@@ -5459,6 +5459,11 @@
         {
             "id": 806,
             "nombre": "JADE",
+            "cantidad": 1
+        },
+        {
+            "id": 775,
+            "nombre": "yellow",
             "cantidad": 1
         }
     ]

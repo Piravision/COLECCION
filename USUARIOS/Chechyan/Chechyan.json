@@ -874,7 +874,7 @@
         {
             "id": 775,
             "nombre": "yellow",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 164,
@@ -6144,6 +6144,11 @@
         {
             "id": 816,
             "nombre": "QUAN-CHI",
+            "cantidad": 1
+        },
+        {
+            "id": 770,
+            "nombre": "red",
             "cantidad": 1
         }
     ]
