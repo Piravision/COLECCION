@@ -969,7 +969,7 @@
         {
             "id": 312,
             "nombre": "Bestia",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 509,
@@ -5509,6 +5509,11 @@
         {
             "id": 926,
             "nombre": "BATISTA",
+            "cantidad": 1
+        },
+        {
+            "id": 1240,
+            "nombre": "CHEERS",
             "cantidad": 1
         }
     ]

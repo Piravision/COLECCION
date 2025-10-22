@@ -4989,7 +4989,7 @@
         {
             "id": 1240,
             "nombre": "CHEERS",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 459,
@@ -6194,6 +6194,11 @@
         {
             "id": 930,
             "nombre": "MANKIND",
+            "cantidad": 1
+        },
+        {
+            "id": 312,
+            "nombre": "Bestia",
             "cantidad": 1
         }
     ]
