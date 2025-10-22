@@ -89,7 +89,7 @@
         {
             "id": 305,
             "nombre": "Runamuck",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 126,
@@ -5499,6 +5499,11 @@
         {
             "id": 406,
             "nombre": "turcos",
+            "cantidad": 1
+        },
+        {
+            "id": 684,
+            "nombre": "DB-072",
             "cantidad": 1
         }
     ]

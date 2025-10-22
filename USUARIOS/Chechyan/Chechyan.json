@@ -1879,7 +1879,7 @@
         {
             "id": 684,
             "nombre": "DB-072",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 773,
@@ -6184,6 +6184,11 @@
         {
             "id": 285,
             "nombre": "Rocksteady",
+            "cantidad": 1
+        },
+        {
+            "id": 305,
+            "nombre": "Runamuck",
             "cantidad": 1
         }
     ]
