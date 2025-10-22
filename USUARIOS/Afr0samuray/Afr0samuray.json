@@ -4899,7 +4899,7 @@
         {
             "id": 957,
             "nombre": "2-MONTERREY-JACK",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1436,
@@ -5424,6 +5424,11 @@
         {
             "id": 1208,
             "nombre": "4-CAPTAIN-COMMANDO",
+            "cantidad": 1
+        },
+        {
+            "id": 958,
+            "nombre": "2-ZIPPER",
             "cantidad": 1
         }
     ]
