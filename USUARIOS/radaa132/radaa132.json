@@ -5514,7 +5514,7 @@
     {
       "id": 1442,
       "nombre": "PESADILLAS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1460,
@@ -5549,7 +5549,7 @@
     {
       "id": 1403,
       "nombre": "AULLIDOS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1340,
@@ -5579,6 +5579,11 @@
     {
       "id": 1455,
       "nombre": "THE THING",
+      "cantidad": 1
+    },
+    {
+      "id": 1436,
+      "nombre": "MATANZA DE TEXAS",
       "cantidad": 1
     }
   ]
