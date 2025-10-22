@@ -5594,7 +5594,7 @@
         {
             "id": 661,
             "nombre": "DB-049",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 1232,
@@ -7194,6 +7194,11 @@
         {
             "id": 1442,
             "nombre": "PESADILLAS",
+            "cantidad": 1
+        },
+        {
+            "id": 1445,
+            "nombre": "RE-ANIMATOR",
             "cantidad": 1
         }
     ]
