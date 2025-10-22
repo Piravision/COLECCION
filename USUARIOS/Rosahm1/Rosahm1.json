@@ -134,7 +134,7 @@
         {
             "id": 284,
             "nombre": "Roadkill",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 185,
@@ -359,7 +359,7 @@
         {
             "id": 506,
             "nombre": "jin",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 135,
@@ -3554,7 +3554,7 @@
         {
             "id": 989,
             "nombre": "CAPITAN-HARLOCK",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1004,
@@ -4619,7 +4619,7 @@
         {
             "id": 510,
             "nombre": "PAUL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 594,
@@ -7179,6 +7179,11 @@
         {
             "id": 1429,
             "nombre": "KILLER KLOWS",
+            "cantidad": 1
+        },
+        {
+            "id": 1437,
+            "nombre": "MONSTER SQUAD",
             "cantidad": 1
         }
     ]
