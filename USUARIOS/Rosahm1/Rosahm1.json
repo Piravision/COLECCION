@@ -7019,7 +7019,7 @@
     {
       "id": 1411,
       "nombre": "CREEPSHOW",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1419,
@@ -7084,7 +7084,7 @@
     {
       "id": 1452,
       "nombre": "THE BLOB",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1415,
@@ -7104,7 +7104,7 @@
     {
       "id": 1450,
       "nombre": "TEEN WOLF",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1434,
@@ -7134,7 +7134,7 @@
     {
       "id": 1424,
       "nombre": "HELLRAISER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1440,
@@ -7189,11 +7189,16 @@
     {
       "id": 1414,
       "nombre": "EL REGRESO DE LOS MUERTOS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1448,
       "nombre": "SCREAM",
+      "cantidad": 1
+    },
+    {
+      "id": 1432,
+      "nombre": "LA NOVIA DE REANIMATOR",
       "cantidad": 1
     }
   ]

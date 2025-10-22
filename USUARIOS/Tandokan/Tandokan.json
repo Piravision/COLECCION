@@ -7064,11 +7064,31 @@
     {
       "id": 1450,
       "nombre": "TEEN WOLF",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 1436,
       "nombre": "MATANZA DE TEXAS",
+      "cantidad": 1
+    },
+    {
+      "id": 1419,
+      "nombre": "EVIL DEAD II",
+      "cantidad": 1
+    },
+    {
+      "id": 1406,
+      "nombre": "BRAINDEAD",
+      "cantidad": 1
+    },
+    {
+      "id": 1409,
+      "nombre": "CEMENTERIO DE MASCOTAS",
+      "cantidad": 1
+    },
+    {
+      "id": 1412,
+      "nombre": "DARMAN",
       "cantidad": 1
     }
   ]
