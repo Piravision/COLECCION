@@ -1644,7 +1644,7 @@
     {
       "id": 253,
       "nombre": "Buitro",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 179,
@@ -2194,7 +2194,7 @@
     {
       "id": 975,
       "nombre": "7-PENNY",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 618,
@@ -5569,6 +5569,11 @@
     {
       "id": 1412,
       "nombre": "DARMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1448,
+      "nombre": "SCREAM",
       "cantidad": 1
     }
   ]
