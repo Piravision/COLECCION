@@ -1269,7 +1269,7 @@
         {
             "id": 454,
             "nombre": "zombi",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 357,
@@ -5679,6 +5679,11 @@
         {
             "id": 445,
             "nombre": "claire",
+            "cantidad": 1
+        },
+        {
+            "id": 447,
+            "nombre": "hunk",
             "cantidad": 1
         }
     ]
