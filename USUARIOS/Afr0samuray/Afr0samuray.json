@@ -1209,7 +1209,7 @@
         {
             "id": 327,
             "nombre": "Dientes de Sable",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 525,
@@ -5519,6 +5519,11 @@
         {
             "id": 529,
             "nombre": "Mística",
+            "cantidad": 1
+        },
+        {
+            "id": 1253,
+            "nombre": "SABRINA-COSAS-DE-BRUJAS",
             "cantidad": 1
         }
     ]
