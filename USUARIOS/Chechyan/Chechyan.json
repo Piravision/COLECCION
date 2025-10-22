@@ -354,7 +354,7 @@
         {
             "id": 529,
             "nombre": "Mística",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 150,
@@ -6199,6 +6199,11 @@
         {
             "id": 312,
             "nombre": "Bestia",
+            "cantidad": 1
+        },
+        {
+            "id": 320,
+            "nombre": "Psylocke",
             "cantidad": 1
         }
     ]
