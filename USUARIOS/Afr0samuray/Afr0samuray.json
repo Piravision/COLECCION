@@ -429,7 +429,7 @@
         {
             "id": 516,
             "nombre": "LEGIÓN-DEL-DRAGÓN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 439,
@@ -5479,6 +5479,11 @@
         {
             "id": 484,
             "nombre": "Blowhard",
+            "cantidad": 1
+        },
+        {
+            "id": 837,
+            "nombre": "DALSHIM",
             "cantidad": 1
         }
     ]
