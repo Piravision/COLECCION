@@ -4429,7 +4429,7 @@
         {
             "id": 652,
             "nombre": "DB-040",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 657,
@@ -6099,6 +6099,11 @@
         {
             "id": 680,
             "nombre": "DB-068",
+            "cantidad": 1
+        },
+        {
+            "id": 709,
+            "nombre": "DB-097",
             "cantidad": 1
         }
     ]
