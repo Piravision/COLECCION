@@ -3819,7 +3819,7 @@
         {
             "id": 406,
             "nombre": "turcos",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 478,
@@ -6179,6 +6179,11 @@
         {
             "id": 258,
             "nombre": "Mumm Ra",
+            "cantidad": 1
+        },
+        {
+            "id": 285,
+            "nombre": "Rocksteady",
             "cantidad": 1
         }
     ]
