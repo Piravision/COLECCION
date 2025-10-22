@@ -1574,7 +1574,7 @@
     {
       "id": 294,
       "nombre": "Hound",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 824,
@@ -1919,7 +1919,7 @@
     {
       "id": 2,
       "nombre": "Bravestarr",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1114,
@@ -2189,7 +2189,7 @@
     {
       "id": 1229,
       "nombre": "MIGHTY-MAX",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 984,
@@ -2639,7 +2639,7 @@
     {
       "id": 298,
       "nombre": "Prowl",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 32,
@@ -2654,7 +2654,7 @@
     {
       "id": 1069,
       "nombre": "TIGRA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 889,
@@ -4274,6 +4274,26 @@
     {
       "id": 1432,
       "nombre": "LA NOVIA DE REANIMATOR",
+      "cantidad": 1
+    },
+    {
+      "id": 707,
+      "nombre": "FLINT",
+      "cantidad": 1
+    },
+    {
+      "id": 295,
+      "nombre": "Ironhide",
+      "cantidad": 1
+    },
+    {
+      "id": 299,
+      "nombre": "Sunstreaker",
+      "cantidad": 1
+    },
+    {
+      "id": 1097,
+      "nombre": "CZ-WISTON-ZEDDEMORE",
       "cantidad": 1
     }
   ]

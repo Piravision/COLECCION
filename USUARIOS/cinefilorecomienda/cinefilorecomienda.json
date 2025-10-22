@@ -1209,7 +1209,7 @@
     {
       "id": 1011,
       "nombre": "TAI-&-AGUMON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1005,
@@ -1499,7 +1499,7 @@
     {
       "id": 1106,
       "nombre": "G-JASON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 955,
@@ -1604,7 +1604,7 @@
     {
       "id": 1114,
       "nombre": "OSOS-GUMMI",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 754,
@@ -1844,7 +1844,7 @@
     {
       "id": 881,
       "nombre": "HAWKEYE",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 555,
@@ -3384,7 +3384,7 @@
     {
       "id": 90,
       "nombre": "Broadway",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 32,
@@ -4239,7 +4239,7 @@
     {
       "id": 700,
       "nombre": "DB-088",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 305,
@@ -4259,7 +4259,7 @@
     {
       "id": 1006,
       "nombre": "REENA-&-GAUDY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1376,
@@ -4274,7 +4274,7 @@
     {
       "id": 489,
       "nombre": "sparx",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1395,
@@ -4319,7 +4319,7 @@
     {
       "id": 824,
       "nombre": "SINDEL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 82,
@@ -5339,7 +5339,7 @@
     {
       "id": 628,
       "nombre": "DB-016",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 922,
@@ -5614,7 +5614,7 @@
     {
       "id": 1329,
       "nombre": "4B-TANEMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 615,
@@ -5889,6 +5889,26 @@
     {
       "id": 1440,
       "nombre": "NOCHE DE MIEDO",
+      "cantidad": 1
+    },
+    {
+      "id": 434,
+      "nombre": "vulcan",
+      "cantidad": 1
+    },
+    {
+      "id": 982,
+      "nombre": "14-FRAN-SINCLAIR",
+      "cantidad": 1
+    },
+    {
+      "id": 599,
+      "nombre": "MARK-LENDERS",
+      "cantidad": 1
+    },
+    {
+      "id": 486,
+      "nombre": "gnasty-gnorc",
       "cantidad": 1
     }
   ]
