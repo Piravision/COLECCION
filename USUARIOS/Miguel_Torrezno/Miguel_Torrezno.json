@@ -1754,7 +1754,7 @@
         {
             "id": 779,
             "nombre": "BANE",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 782,
@@ -6104,6 +6104,11 @@
         {
             "id": 1168,
             "nombre": "LEX LUTOR",
+            "cantidad": 1
+        },
+        {
+            "id": 620,
+            "nombre": "DB-008",
             "cantidad": 1
         }
     ]
