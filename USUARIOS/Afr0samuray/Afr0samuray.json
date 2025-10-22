@@ -1124,7 +1124,7 @@
         {
             "id": 215,
             "nombre": "Castillo Grayskull",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 140,
@@ -5719,6 +5719,11 @@
         {
             "id": 1435,
             "nombre": "MARS ATTACKS",
+            "cantidad": 1
+        },
+        {
+            "id": 1452,
+            "nombre": "THE BLOB",
             "cantidad": 1
         }
     ]
