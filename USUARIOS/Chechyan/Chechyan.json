@@ -4759,7 +4759,7 @@
         {
             "id": 1384,
             "nombre": "9-MACHINEDRAMON",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1139,
@@ -6174,6 +6174,11 @@
         {
             "id": 250,
             "nombre": "Snarf",
+            "cantidad": 1
+        },
+        {
+            "id": 258,
+            "nombre": "Mumm Ra",
             "cantidad": 1
         }
     ]
