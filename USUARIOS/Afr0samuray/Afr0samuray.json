@@ -234,7 +234,7 @@
         {
             "id": 325,
             "nombre": "Apocalipsis",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 121,
@@ -5659,6 +5659,11 @@
         {
             "id": 380,
             "nombre": "marcy",
+            "cantidad": 1
+        },
+        {
+            "id": 335,
+            "nombre": "Toad",
             "cantidad": 1
         }
     ]
