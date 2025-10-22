@@ -4969,7 +4969,7 @@
         {
             "id": 1420,
             "nombre": "EVIL DEAD",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1415,
@@ -5564,6 +5564,11 @@
         {
             "id": 1456,
             "nombre": "TIENDA DE LOS HORRORES",
+            "cantidad": 1
+        },
+        {
+            "id": 1444,
+            "nombre": "POLTERGEIST",
             "cantidad": 1
         }
     ]
