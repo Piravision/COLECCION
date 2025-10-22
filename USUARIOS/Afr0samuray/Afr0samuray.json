@@ -2849,7 +2849,7 @@
         {
             "id": 1183,
             "nombre": "LOS-DIMINUTOS",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1224,
@@ -5444,6 +5444,11 @@
         {
             "id": 1138,
             "nombre": "LUCKY-LUKE",
+            "cantidad": 1
+        },
+        {
+            "id": 1181,
+            "nombre": "DEXTER",
             "cantidad": 1
         }
     ]
