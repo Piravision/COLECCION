@@ -609,7 +609,7 @@
         {
             "id": 461,
             "nombre": "Stalone-RamboIII",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 308,
@@ -5664,6 +5664,11 @@
         {
             "id": 335,
             "nombre": "Toad",
+            "cantidad": 1
+        },
+        {
+            "id": 564,
+            "nombre": "SLIMER",
             "cantidad": 1
         }
     ]
