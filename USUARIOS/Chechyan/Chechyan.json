@@ -4974,7 +4974,7 @@
         {
             "id": 484,
             "nombre": "Blowhard",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 314,
@@ -6159,6 +6159,11 @@
         {
             "id": 211,
             "nombre": "Anillo Serpiente",
+            "cantidad": 1
+        },
+        {
+            "id": 222,
+            "nombre": "Espada de Metal Estrella",
             "cantidad": 1
         }
     ]

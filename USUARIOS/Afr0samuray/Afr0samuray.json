@@ -4834,7 +4834,7 @@
         {
             "id": 222,
             "nombre": "Espada de Metal Estrella",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 938,
@@ -5474,6 +5474,11 @@
         {
             "id": 184,
             "nombre": "Lizard",
+            "cantidad": 1
+        },
+        {
+            "id": 484,
+            "nombre": "Blowhard",
             "cantidad": 1
         }
     ]
