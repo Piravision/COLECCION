@@ -879,7 +879,7 @@
     {
       "id": 1424,
       "nombre": "HELLRAISER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1442,
@@ -924,7 +924,7 @@
     {
       "id": 1409,
       "nombre": "CEMENTERIO DE MASCOTAS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 368,
@@ -1209,6 +1209,11 @@
     {
       "id": 200,
       "nombre": "Swordo",
+      "cantidad": 1
+    },
+    {
+      "id": 1439,
+      "nombre": "MUÑECO DIABOLICO",
       "cantidad": 1
     }
   ]
