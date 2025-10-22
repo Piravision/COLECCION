@@ -1134,7 +1134,7 @@
         {
             "id": 161,
             "nombre": "Steelwill",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 360,
@@ -5464,6 +5464,11 @@
         {
             "id": 775,
             "nombre": "yellow",
+            "cantidad": 1
+        },
+        {
+            "id": 158,
+            "nombre": "Copper Kid",
             "cantidad": 1
         }
     ]
