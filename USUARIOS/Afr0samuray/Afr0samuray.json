@@ -1694,7 +1694,7 @@
         {
             "id": 211,
             "nombre": "Anillo Serpiente",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 323,
@@ -5469,6 +5469,11 @@
         {
             "id": 158,
             "nombre": "Copper Kid",
+            "cantidad": 1
+        },
+        {
+            "id": 184,
+            "nombre": "Lizard",
             "cantidad": 1
         }
     ]

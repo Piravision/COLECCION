@@ -3269,7 +3269,7 @@
         {
             "id": 184,
             "nombre": "Lizard",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1090,
@@ -6154,6 +6154,11 @@
         {
             "id": 161,
             "nombre": "Steelwill",
+            "cantidad": 1
+        },
+        {
+            "id": 211,
+            "nombre": "Anillo Serpiente",
             "cantidad": 1
         }
     ]
