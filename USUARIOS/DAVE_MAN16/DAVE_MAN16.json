@@ -4179,7 +4179,7 @@
     {
       "id": 1442,
       "nombre": "PESADILLAS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1413,
@@ -4264,7 +4264,7 @@
     {
       "id": 1423,
       "nombre": "HALLOWEEN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1437,
@@ -4334,6 +4334,11 @@
     {
       "id": 1434,
       "nombre": "MANIAC COP",
+      "cantidad": 1
+    },
+    {
+      "id": 1416,
+      "nombre": "EL TERROR LLAMA A SU PUERTA",
       "cantidad": 1
     }
   ]
