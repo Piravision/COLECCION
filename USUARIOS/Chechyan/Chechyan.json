@@ -5809,7 +5809,7 @@
     {
       "id": 1426,
       "nombre": "HOUSE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1404,
@@ -5934,7 +5934,7 @@
     {
       "id": 1442,
       "nombre": "PESADILLAS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1434,
@@ -6249,6 +6249,11 @@
     {
       "id": 322,
       "nombre": "Rondador Nocturno",
+      "cantidad": 1
+    },
+    {
+      "id": 1446,
+      "nombre": "SALEMS LOT",
       "cantidad": 1
     }
   ]
