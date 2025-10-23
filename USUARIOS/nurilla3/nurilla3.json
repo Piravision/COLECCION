@@ -29,7 +29,7 @@
     {
       "id": 1428,
       "nombre": "IT",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1436,
@@ -409,7 +409,7 @@
     {
       "id": 1435,
       "nombre": "MARS ATTACKS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1434,
@@ -419,7 +419,7 @@
     {
       "id": 1411,
       "nombre": "CREEPSHOW",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1438,
@@ -699,6 +699,21 @@
     {
       "id": 31,
       "nombre": "Tiamat",
+      "cantidad": 1
+    },
+    {
+      "id": 1426,
+      "nombre": "HOUSE",
+      "cantidad": 1
+    },
+    {
+      "id": 1423,
+      "nombre": "HALLOWEEN",
+      "cantidad": 1
+    },
+    {
+      "id": 1409,
+      "nombre": "CEMENTERIO DE MASCOTAS",
       "cantidad": 1
     }
   ]
