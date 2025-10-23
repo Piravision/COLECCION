@@ -59,7 +59,7 @@
     {
       "id": 316,
       "nombre": "Gambito",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 301,
@@ -239,7 +239,7 @@
     {
       "id": 185,
       "nombre": "Morbius",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 126,
@@ -2614,7 +2614,7 @@
     {
       "id": 1092,
       "nombre": "CAZAFANTASMAS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1228,
@@ -4234,7 +4234,7 @@
     {
       "id": 662,
       "nombre": "DB-050",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1417,
@@ -4314,6 +4314,16 @@
     {
       "id": 1456,
       "nombre": "TIENDA DE LOS HORRORES",
+      "cantidad": 1
+    },
+    {
+      "id": 1031,
+      "nombre": "BV- BRUJA ESCARLATA",
+      "cantidad": 1
+    },
+    {
+      "id": 1308,
+      "nombre": "1H-FA-TAI",
       "cantidad": 1
     }
   ]

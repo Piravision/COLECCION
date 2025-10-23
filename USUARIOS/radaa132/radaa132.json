@@ -69,7 +69,7 @@
     {
       "id": 85,
       "nombre": "Niko",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 380,
@@ -114,7 +114,7 @@
     {
       "id": 265,
       "nombre": "Leatherhead",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 140,
@@ -214,7 +214,7 @@
     {
       "id": 440,
       "nombre": "scrabs",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 369,
@@ -319,7 +319,7 @@
     {
       "id": 319,
       "nombre": "Profesor Xavier",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 600,
@@ -434,7 +434,7 @@
     {
       "id": 35,
       "nombre": "AVAN DRAGON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 667,
@@ -559,7 +559,7 @@
     {
       "id": 407,
       "nombre": "yuffie",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 488,
@@ -624,7 +624,7 @@
     {
       "id": 820,
       "nombre": "SEKTOR",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 717,
@@ -1024,7 +1024,7 @@
     {
       "id": 631,
       "nombre": "DB-019",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 393,
@@ -1539,7 +1539,7 @@
     {
       "id": 255,
       "nombre": "Ma Mutt",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 295,
@@ -1639,7 +1639,7 @@
     {
       "id": 409,
       "nombre": "Kōji-Kabuto",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 253,
@@ -2239,7 +2239,7 @@
     {
       "id": 925,
       "nombre": "WILLY-",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 993,
@@ -2399,7 +2399,7 @@
     {
       "id": 331,
       "nombre": "Mente Maestra",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 714,
@@ -2939,7 +2939,7 @@
     {
       "id": 387,
       "nombre": "Koala",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1058,
@@ -2959,7 +2959,7 @@
     {
       "id": 128,
       "nombre": "Faker",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 851,
@@ -3289,7 +3289,7 @@
     {
       "id": 87,
       "nombre": "Walter _Doc_ Hartford",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1067,
@@ -3299,7 +3299,7 @@
     {
       "id": 234,
       "nombre": "Nueva Texas",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 381,
@@ -3419,7 +3419,7 @@
     {
       "id": 169,
       "nombre": "Hombre de Hielo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1110,
@@ -3434,7 +3434,7 @@
     {
       "id": 1244,
       "nombre": "HERCULES",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 325,
@@ -3764,7 +3764,7 @@
     {
       "id": 1255,
       "nombre": "STARGATE-SG-1",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 278,
@@ -3784,7 +3784,7 @@
     {
       "id": 640,
       "nombre": "DB-028",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 336,
@@ -4044,7 +4044,7 @@
     {
       "id": 1200,
       "nombre": "2-DONKEY-KONG",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 795,
@@ -4334,7 +4334,7 @@
     {
       "id": 1394,
       "nombre": "9-PIXIMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1315,
@@ -5114,7 +5114,7 @@
     {
       "id": 1226,
       "nombre": "TERRY-BOGARD",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1291,
@@ -5584,6 +5584,56 @@
     {
       "id": 1436,
       "nombre": "MATANZA DE TEXAS",
+      "cantidad": 1
+    },
+    {
+      "id": 1183,
+      "nombre": "LOS-DIMINUTOS",
+      "cantidad": 1
+    },
+    {
+      "id": 219,
+      "nombre": "Dirigible Tortuga",
+      "cantidad": 1
+    },
+    {
+      "id": 1169,
+      "nombre": "RED TORNADO",
+      "cantidad": 1
+    },
+    {
+      "id": 554,
+      "nombre": "HANSOLO-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 175,
+      "nombre": "Buitre",
+      "cantidad": 1
+    },
+    {
+      "id": 1382,
+      "nombre": "9-LADY-DEVIMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1387,
+      "nombre": "9-MOJYAMON",
+      "cantidad": 1
+    },
+    {
+      "id": 762,
+      "nombre": "bkue",
+      "cantidad": 1
+    },
+    {
+      "id": 214,
+      "nombre": "Brimstar",
+      "cantidad": 1
+    },
+    {
+      "id": 1034,
+      "nombre": "CAPITAN BRITANIA-2",
       "cantidad": 1
     }
   ]
