@@ -4974,7 +4974,7 @@
         {
             "id": 1415,
             "nombre": "EL RESPLANDOR",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1425,
@@ -5919,6 +5919,11 @@
         {
             "id": 1409,
             "nombre": "CEMENTERIO DE MASCOTAS",
+            "cantidad": 1
+        },
+        {
+            "id": 1412,
+            "nombre": "DARMAN",
             "cantidad": 1
         }
     ]
