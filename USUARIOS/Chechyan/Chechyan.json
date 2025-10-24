@@ -2064,7 +2064,7 @@
     {
       "id": 324,
       "nombre": "Wolverine",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 200,
@@ -3054,7 +3054,7 @@
     {
       "id": 851,
       "nombre": "VEGA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 942,
@@ -3144,7 +3144,7 @@
     {
       "id": 346,
       "nombre": "jess",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 348,
@@ -4964,7 +4964,7 @@
     {
       "id": 1380,
       "nombre": "9-ETERMON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1244,
@@ -5834,12 +5834,12 @@
     {
       "id": 1459,
       "nombre": "VIERNES 13",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1405,
       "nombre": "BEETLEJUICE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1456,
@@ -5884,7 +5884,7 @@
     {
       "id": 1411,
       "nombre": "CREEPSHOW",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1414,
@@ -6049,7 +6049,7 @@
     {
       "id": 1423,
       "nombre": "HALLOWEEN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 22,
@@ -6214,7 +6214,7 @@
     {
       "id": 1431,
       "nombre": "LA MOSCA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1418,
@@ -6259,16 +6259,36 @@
     {
       "id": 1428,
       "nombre": "IT",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1406,
       "nombre": "BRAINDEAD",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1417,
       "nombre": "ELVIRA",
+      "cantidad": 1
+    },
+    {
+      "id": 452,
+      "nombre": "sherry",
+      "cantidad": 1
+    },
+    {
+      "id": 1191,
+      "nombre": "SPENCER-&-ALLO",
+      "cantidad": 1
+    },
+    {
+      "id": 1401,
+      "nombre": "ABIERTO HASTA EL AMANECER",
+      "cantidad": 1
+    },
+    {
+      "id": 1455,
+      "nombre": "THE THING",
       "cantidad": 1
     }
   ]

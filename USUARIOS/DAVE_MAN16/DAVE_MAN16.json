@@ -164,7 +164,7 @@
     {
       "id": 75,
       "nombre": "mac",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 216,
@@ -689,7 +689,7 @@
     {
       "id": 568,
       "nombre": "LOS-SACAMANTECAS",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 689,
@@ -864,7 +864,7 @@
     {
       "id": 388,
       "nombre": "koala2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 134,
@@ -1219,7 +1219,7 @@
     {
       "id": 799,
       "nombre": "POISON-IVY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 165,
@@ -1314,7 +1314,7 @@
     {
       "id": 303,
       "nombre": "Megatron",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 506,
@@ -1354,7 +1354,7 @@
     {
       "id": 249,
       "nombre": "Pomara",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 868,
@@ -2034,7 +2034,7 @@
     {
       "id": 392,
       "nombre": "roover",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 344,
@@ -2084,7 +2084,7 @@
     {
       "id": 776,
       "nombre": "zedd",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 769,
@@ -2489,7 +2489,7 @@
     {
       "id": 1277,
       "nombre": "BATMAN-&-ROBIN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 923,
@@ -3329,7 +3329,7 @@
     {
       "id": 668,
       "nombre": "DB-056",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1128,
@@ -3434,7 +3434,7 @@
     {
       "id": 628,
       "nombre": "DB-016",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 119,
@@ -3949,7 +3949,7 @@
     {
       "id": 781,
       "nombre": "BATGIRL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1303,
@@ -4109,7 +4109,7 @@
     {
       "id": 394,
       "nombre": "vsneo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1026,
@@ -4339,6 +4339,36 @@
     {
       "id": 1416,
       "nombre": "EL TERROR LLAMA A SU PUERTA",
+      "cantidad": 1
+    },
+    {
+      "id": 1094,
+      "nombre": "CZ-EGON-SPENGLER",
+      "cantidad": 1
+    },
+    {
+      "id": 859,
+      "nombre": "JASON-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 418,
+      "nombre": "grayfox2",
+      "cantidad": 1
+    },
+    {
+      "id": 869,
+      "nombre": "ARNIM-ZOLA",
+      "cantidad": 1
+    },
+    {
+      "id": 1037,
+      "nombre": "CAPITAN-AMERICA-2",
+      "cantidad": 1
+    },
+    {
+      "id": 986,
+      "nombre": "15-BALOO",
       "cantidad": 1
     }
   ]

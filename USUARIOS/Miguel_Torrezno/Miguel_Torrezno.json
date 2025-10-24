@@ -114,7 +114,7 @@
     {
       "id": 159,
       "nombre": "Quicksilver",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 271,
@@ -924,7 +924,7 @@
     {
       "id": 511,
       "nombre": "YOSHI",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 380,
@@ -1439,7 +1439,7 @@
     {
       "id": 649,
       "nombre": "DB-037",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 172,
@@ -1669,7 +1669,7 @@
     {
       "id": 274,
       "nombre": "Ray Fillet",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 396,
@@ -2714,7 +2714,7 @@
     {
       "id": 510,
       "nombre": "PAUL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 748,
@@ -4149,7 +4149,7 @@
     {
       "id": 509,
       "nombre": "NINA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 429,
@@ -4549,7 +4549,7 @@
     {
       "id": 369,
       "nombre": "DRACULA2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 187,
@@ -5909,7 +5909,7 @@
     {
       "id": 1429,
       "nombre": "KILLER KLOWS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1448,
@@ -5944,12 +5944,12 @@
     {
       "id": 1422,
       "nombre": "GHOULIES",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1447,
       "nombre": "SAW",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1290,
@@ -5964,7 +5964,7 @@
     {
       "id": 1408,
       "nombre": "CARRIE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1436,
@@ -5974,7 +5974,7 @@
     {
       "id": 1423,
       "nombre": "HALLOWEEN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1416,
@@ -5989,7 +5989,7 @@
     {
       "id": 1438,
       "nombre": "MUÑECO DIABOLICO ii",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1452,
@@ -6004,7 +6004,7 @@
     {
       "id": 1458,
       "nombre": "VENGADOR TOXICO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1443,
@@ -6114,7 +6114,7 @@
     {
       "id": 1427,
       "nombre": "IT - PROMO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1433,
@@ -6129,7 +6129,7 @@
     {
       "id": 1454,
       "nombre": "THE OMEN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1431,
@@ -6139,6 +6139,56 @@
     {
       "id": 891,
       "nombre": "MODOK",
+      "cantidad": 1
+    },
+    {
+      "id": 1206,
+      "nombre": "3a-SONIC",
+      "cantidad": 1
+    },
+    {
+      "id": 1344,
+      "nombre": "5H-FA-SORA",
+      "cantidad": 1
+    },
+    {
+      "id": 605,
+      "nombre": "ROBERTO-SEDINHO",
+      "cantidad": 1
+    },
+    {
+      "id": 306,
+      "nombre": "Shockwave",
+      "cantidad": 1
+    },
+    {
+      "id": 1169,
+      "nombre": "RED TORNADO",
+      "cantidad": 1
+    },
+    {
+      "id": 1136,
+      "nombre": "JOHNNY-BRAVO",
+      "cantidad": 1
+    },
+    {
+      "id": 648,
+      "nombre": "DB-036",
+      "cantidad": 1
+    },
+    {
+      "id": 1415,
+      "nombre": "EL RESPLANDOR",
+      "cantidad": 1
+    },
+    {
+      "id": 1459,
+      "nombre": "VIERNES 13",
+      "cantidad": 1
+    },
+    {
+      "id": 1420,
+      "nombre": "EVIL DEAD",
       "cantidad": 1
     }
   ]

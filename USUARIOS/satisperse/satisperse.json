@@ -24,7 +24,7 @@
     {
       "id": 228,
       "nombre": "Isla Dermline",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 310,
@@ -49,7 +49,7 @@
     {
       "id": 638,
       "nombre": "DB-026",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 83,
@@ -464,7 +464,7 @@
     {
       "id": 565,
       "nombre": "ANDRÉ-THE-GIANT",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 537,
@@ -589,7 +589,7 @@
     {
       "id": 165,
       "nombre": "Daredevil",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 110,
@@ -649,7 +649,7 @@
     {
       "id": 970,
       "nombre": "6-VICKY-EL-VIKINGO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 907,
@@ -1039,7 +1039,7 @@
     {
       "id": 980,
       "nombre": "14-EARL-SINCLAIR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1017,
@@ -1164,7 +1164,7 @@
     {
       "id": 382,
       "nombre": "serge",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 814,
@@ -1274,7 +1274,7 @@
     {
       "id": 222,
       "nombre": "Espada de Metal Estrella",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 230,
@@ -1484,7 +1484,7 @@
     {
       "id": 643,
       "nombre": "DB-031",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 873,
@@ -1499,7 +1499,7 @@
     {
       "id": 812,
       "nombre": "KUNG-LAO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 741,
@@ -1744,7 +1744,7 @@
     {
       "id": 487,
       "nombre": "Jacques",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 947,
@@ -1799,7 +1799,7 @@
     {
       "id": 798,
       "nombre": "PINGUINO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1157,
@@ -1839,7 +1839,7 @@
     {
       "id": 330,
       "nombre": "Magneto",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 379,
@@ -1969,7 +1969,7 @@
     {
       "id": 1437,
       "nombre": "MONSTER SQUAD",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1420,
@@ -1979,6 +1979,156 @@
     {
       "id": 1401,
       "nombre": "ABIERTO HASTA EL AMANECER",
+      "cantidad": 1
+    },
+    {
+      "id": 1051,
+      "nombre": "JACK-HEARTS",
+      "cantidad": 1
+    },
+    {
+      "id": 767,
+      "nombre": "green",
+      "cantidad": 1
+    },
+    {
+      "id": 82,
+      "nombre": "zaboera",
+      "cantidad": 1
+    },
+    {
+      "id": 209,
+      "nombre": "Sovereign Rock Castle",
+      "cantidad": 1
+    },
+    {
+      "id": 1125,
+      "nombre": "GON",
+      "cantidad": 1
+    },
+    {
+      "id": 1329,
+      "nombre": "4B-TANEMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1425,
+      "nombre": "HOMBRE LOBO AMERIANO EN LONDRES",
+      "cantidad": 1
+    },
+    {
+      "id": 393,
+      "nombre": "Tawna",
+      "cantidad": 1
+    },
+    {
+      "id": 1380,
+      "nombre": "9-ETERMON",
+      "cantidad": 1
+    },
+    {
+      "id": 43,
+      "nombre": "eimi",
+      "cantidad": 1
+    },
+    {
+      "id": 902,
+      "nombre": "AQUAMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1289,
+      "nombre": "KID-ICARUS",
+      "cantidad": 1
+    },
+    {
+      "id": 977,
+      "nombre": "13-ODIE",
+      "cantidad": 1
+    },
+    {
+      "id": 1274,
+      "nombre": "KIRBY",
+      "cantidad": 1
+    },
+    {
+      "id": 1347,
+      "nombre": "6B-MOCHIMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1457,
+      "nombre": "TOMATES ASESINOS",
+      "cantidad": 1
+    },
+    {
+      "id": 322,
+      "nombre": "Rondador Nocturno",
+      "cantidad": 1
+    },
+    {
+      "id": 1356,
+      "nombre": "7B-TOKOMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1446,
+      "nombre": "SALEMS LOT",
+      "cantidad": 1
+    },
+    {
+      "id": 829,
+      "nombre": "AKUMA",
+      "cantidad": 1
+    },
+    {
+      "id": 1265,
+      "nombre": "BAYONETTA",
+      "cantidad": 1
+    },
+    {
+      "id": 255,
+      "nombre": "Ma Mutt",
+      "cantidad": 1
+    },
+    {
+      "id": 841,
+      "nombre": "GUILE",
+      "cantidad": 1
+    },
+    {
+      "id": 1453,
+      "nombre": "THE FOG",
+      "cantidad": 1
+    },
+    {
+      "id": 1418,
+      "nombre": "ESTAN VIVOS",
+      "cantidad": 1
+    },
+    {
+      "id": 1424,
+      "nombre": "HELLRAISER",
+      "cantidad": 2
+    },
+    {
+      "id": 1445,
+      "nombre": "RE-ANIMATOR",
+      "cantidad": 1
+    },
+    {
+      "id": 1455,
+      "nombre": "THE THING",
+      "cantidad": 1
+    },
+    {
+      "id": 1458,
+      "nombre": "VENGADOR TOXICO",
+      "cantidad": 1
+    },
+    {
+      "id": 1423,
+      "nombre": "HALLOWEEN",
       "cantidad": 1
     }
   ]

@@ -434,7 +434,7 @@
     {
       "id": 35,
       "nombre": "AVAN DRAGON",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 667,
@@ -924,7 +924,7 @@
     {
       "id": 51,
       "nombre": "mam",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 291,
@@ -949,7 +949,7 @@
     {
       "id": 201,
       "nombre": "Dr. paradigma",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 552,
@@ -1054,7 +1054,7 @@
     {
       "id": 150,
       "nombre": "Throttle",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 99,
@@ -1784,7 +1784,7 @@
     {
       "id": 963,
       "nombre": "3-SRA.-HUDSON",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 855,
@@ -2394,12 +2394,12 @@
     {
       "id": 592,
       "nombre": "JASON-DERRICK",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 331,
       "nombre": "Mente Maestra",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 714,
@@ -2454,7 +2454,7 @@
     {
       "id": 242,
       "nombre": "Tiger Force",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 876,
@@ -2999,7 +2999,7 @@
     {
       "id": 1024,
       "nombre": "4FV - SILVER SURFER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 790,
@@ -3054,7 +3054,7 @@
     {
       "id": 434,
       "nombre": "vulcan",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 590,
@@ -3674,7 +3674,7 @@
     {
       "id": 258,
       "nombre": "Mumm Ra",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 673,
@@ -4119,7 +4119,7 @@
     {
       "id": 377,
       "nombre": "harle",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 12,
@@ -4524,7 +4524,7 @@
     {
       "id": 1304,
       "nombre": "1D-GREYMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1396,
@@ -4744,7 +4744,7 @@
     {
       "id": 192,
       "nombre": "Bends",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1195,
@@ -4809,7 +4809,7 @@
     {
       "id": 1362,
       "nombre": "7H-FA-TK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1371,
@@ -5179,7 +5179,7 @@
     {
       "id": 110,
       "nombre": "Destro",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1258,
@@ -5229,7 +5229,7 @@
     {
       "id": 92,
       "nombre": "Brooklyn",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 741,
@@ -5389,7 +5389,7 @@
     {
       "id": 1228,
       "nombre": "BEN-10",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 682,
@@ -5659,6 +5659,51 @@
     {
       "id": 1440,
       "nombre": "NOCHE DE MIEDO",
+      "cantidad": 1
+    },
+    {
+      "id": 1329,
+      "nombre": "4B-TANEMON",
+      "cantidad": 1
+    },
+    {
+      "id": 733,
+      "nombre": "DB-121",
+      "cantidad": 1
+    },
+    {
+      "id": 611,
+      "nombre": "TERRY-DENTON",
+      "cantidad": 1
+    },
+    {
+      "id": 1234,
+      "nombre": "GHOSTS-GOBLINS",
+      "cantidad": 1
+    },
+    {
+      "id": 1298,
+      "nombre": "FA-ALTERED BEAST",
+      "cantidad": 1
+    },
+    {
+      "id": 1147,
+      "nombre": "VACA-&-POLLO",
+      "cantidad": 1
+    },
+    {
+      "id": 1107,
+      "nombre": "G-MARK",
+      "cantidad": 1
+    },
+    {
+      "id": 941,
+      "nombre": "GREMLIN-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1230,
+      "nombre": "MORTADELO-Y-FILEMON",
       "cantidad": 1
     }
   ]

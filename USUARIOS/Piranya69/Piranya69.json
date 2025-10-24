@@ -484,7 +484,7 @@
     {
       "id": 442,
       "nombre": "slig2",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 393,
@@ -504,7 +504,7 @@
     {
       "id": 277,
       "nombre": "Baxter",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 511,
@@ -619,7 +619,7 @@
     {
       "id": 406,
       "nombre": "turcos",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 255,
@@ -3204,7 +3204,7 @@
     {
       "id": 871,
       "nombre": "BLACK-BOLT",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 758,
@@ -3879,7 +3879,7 @@
     {
       "id": 869,
       "nombre": "ARNIM-ZOLA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 998,
@@ -7034,12 +7034,12 @@
     {
       "id": 1429,
       "nombre": "KILLER KLOWS",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1404,
       "nombre": "BEETLEJUICE - PROMO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1458,
@@ -7049,7 +7049,7 @@
     {
       "id": 1439,
       "nombre": "MUÑECO DIABOLICO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1455,
@@ -7074,7 +7074,7 @@
     {
       "id": 1428,
       "nombre": "IT",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1402,
@@ -7109,7 +7109,7 @@
     {
       "id": 1438,
       "nombre": "MUÑECO DIABOLICO ii",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1452,
@@ -7144,7 +7144,7 @@
     {
       "id": 1410,
       "nombre": "CREEPSHOW 2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1419,
@@ -7164,6 +7164,41 @@
     {
       "id": 1449,
       "nombre": "SE LO QUE HICISTEIS",
+      "cantidad": 2
+    },
+    {
+      "id": 1426,
+      "nombre": "HOUSE",
+      "cantidad": 1
+    },
+    {
+      "id": 1441,
+      "nombre": "PESADILLA EN EL ELM STREEET",
+      "cantidad": 1
+    },
+    {
+      "id": 1453,
+      "nombre": "THE FOG",
+      "cantidad": 1
+    },
+    {
+      "id": 1432,
+      "nombre": "LA NOVIA DE REANIMATOR",
+      "cantidad": 2
+    },
+    {
+      "id": 1425,
+      "nombre": "HOMBRE LOBO AMERIANO EN LONDRES",
+      "cantidad": 1
+    },
+    {
+      "id": 1420,
+      "nombre": "EVIL DEAD",
+      "cantidad": 1
+    },
+    {
+      "id": 1448,
+      "nombre": "SCREAM",
       "cantidad": 1
     }
   ]

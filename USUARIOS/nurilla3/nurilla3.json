@@ -19,12 +19,12 @@
     {
       "id": 1443,
       "nombre": "PHANTASM",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1452,
       "nombre": "THE BLOB",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1428,
@@ -49,7 +49,7 @@
     {
       "id": 1416,
       "nombre": "EL TERROR LLAMA A SU PUERTA",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1453,
@@ -64,7 +64,7 @@
     {
       "id": 295,
       "nombre": "Ironhide",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 689,
@@ -264,7 +264,7 @@
     {
       "id": 1459,
       "nombre": "VIERNES 13",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1447,
@@ -279,7 +279,7 @@
     {
       "id": 1458,
       "nombre": "VENGADOR TOXICO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1422,
@@ -419,7 +419,7 @@
     {
       "id": 1411,
       "nombre": "CREEPSHOW",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1438,
@@ -459,7 +459,7 @@
     {
       "id": 200,
       "nombre": "Swordo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 651,
@@ -524,12 +524,12 @@
     {
       "id": 1247,
       "nombre": "LUZ-DE-LUNA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 827,
       "nombre": "STRYKER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1040,
@@ -559,12 +559,12 @@
     {
       "id": 1442,
       "nombre": "PESADILLAS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1421,
       "nombre": "EXORCISTA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 725,
@@ -604,7 +604,7 @@
     {
       "id": 475,
       "nombre": "Incubus",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1209,
@@ -644,7 +644,7 @@
     {
       "id": 1159,
       "nombre": "GOLDENAGE- FLASH",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 168,
@@ -714,6 +714,201 @@
     {
       "id": 1409,
       "nombre": "CEMENTERIO DE MASCOTAS",
+      "cantidad": 1
+    },
+    {
+      "id": 1353,
+      "nombre": "6H-FA-IZZY",
+      "cantidad": 1
+    },
+    {
+      "id": 335,
+      "nombre": "Toad",
+      "cantidad": 1
+    },
+    {
+      "id": 895,
+      "nombre": "ROCKET-RACOON",
+      "cantidad": 1
+    },
+    {
+      "id": 819,
+      "nombre": "SCORPION",
+      "cantidad": 1
+    },
+    {
+      "id": 96,
+      "nombre": "Lexington",
+      "cantidad": 1
+    },
+    {
+      "id": 1102,
+      "nombre": "DENVER",
+      "cantidad": 1
+    },
+    {
+      "id": 307,
+      "nombre": "Skywarp",
+      "cantidad": 1
+    },
+    {
+      "id": 300,
+      "nombre": "Wheeljack",
+      "cantidad": 1
+    },
+    {
+      "id": 1287,
+      "nombre": "IORI-YAGAMI",
+      "cantidad": 1
+    },
+    {
+      "id": 460,
+      "nombre": "miura",
+      "cantidad": 1
+    },
+    {
+      "id": 91,
+      "nombre": "Bronx",
+      "cantidad": 1
+    },
+    {
+      "id": 1150,
+      "nombre": "BATGIRL",
+      "cantidad": 1
+    },
+    {
+      "id": 909,
+      "nombre": "LOBO",
+      "cantidad": 1
+    },
+    {
+      "id": 378,
+      "nombre": "kid",
+      "cantidad": 1
+    },
+    {
+      "id": 701,
+      "nombre": "DB-089",
+      "cantidad": 1
+    },
+    {
+      "id": 1158,
+      "nombre": "FLASH",
+      "cantidad": 1
+    },
+    {
+      "id": 1390,
+      "nombre": "9-NANIMON",
+      "cantidad": 1
+    },
+    {
+      "id": 462,
+      "nombre": "sakura",
+      "cantidad": 1
+    },
+    {
+      "id": 1317,
+      "nombre": "2H-FA-JOE",
+      "cantidad": 1
+    },
+    {
+      "id": 600,
+      "nombre": "NATUREZA",
+      "cantidad": 1
+    },
+    {
+      "id": 1358,
+      "nombre": "7D-ANGEMON",
+      "cantidad": 1
+    },
+    {
+      "id": 668,
+      "nombre": "DB-056",
+      "cantidad": 1
+    },
+    {
+      "id": 1371,
+      "nombre": "8H-FA-KARI",
+      "cantidad": 1
+    },
+    {
+      "id": 823,
+      "nombre": "SHEEVA",
+      "cantidad": 1
+    },
+    {
+      "id": 947,
+      "nombre": "1-ARAMIS",
+      "cantidad": 1
+    },
+    {
+      "id": 782,
+      "nombre": "BATMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 589,
+      "nombre": "GENTILE-SALVATORE",
+      "cantidad": 1
+    },
+    {
+      "id": 724,
+      "nombre": "DB-112",
+      "cantidad": 1
+    },
+    {
+      "id": 1004,
+      "nombre": "R.KENSHIN",
+      "cantidad": 1
+    },
+    {
+      "id": 1261,
+      "nombre": "FA-MEGAMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 714,
+      "nombre": "DB-102",
+      "cantidad": 1
+    },
+    {
+      "id": 273,
+      "nombre": "Raphael",
+      "cantidad": 1
+    },
+    {
+      "id": 524,
+      "nombre": "Capitán-Planeta",
+      "cantidad": 1
+    },
+    {
+      "id": 1389,
+      "nombre": "9-MYOTISMON",
+      "cantidad": 1
+    },
+    {
+      "id": 978,
+      "nombre": "13-GARFIELD",
+      "cantidad": 1
+    },
+    {
+      "id": 566,
+      "nombre": "BIG-BOSSMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1419,
+      "nombre": "EVIL DEAD II",
+      "cantidad": 1
+    },
+    {
+      "id": 1449,
+      "nombre": "SE LO QUE HICISTEIS",
+      "cantidad": 2
+    },
+    {
+      "id": 1456,
+      "nombre": "TIENDA DE LOS HORRORES",
       "cantidad": 1
     }
   ]
