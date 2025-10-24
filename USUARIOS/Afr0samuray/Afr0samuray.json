@@ -2584,7 +2584,7 @@
         {
             "id": 987,
             "nombre": "ARALE",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 989,
@@ -5924,6 +5924,11 @@
         {
             "id": 1412,
             "nombre": "DARMAN",
+            "cantidad": 1
+        },
+        {
+            "id": 1266,
+            "nombre": "CHRONO",
             "cantidad": 1
         }
     ]
