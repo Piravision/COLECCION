@@ -49,7 +49,7 @@
     {
       "id": 826,
       "nombre": "SONYA-BLADE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 814,
@@ -209,7 +209,7 @@
     {
       "id": 191,
       "nombre": "Venom",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 167,
@@ -309,7 +309,7 @@
     {
       "id": 159,
       "nombre": "Quicksilver",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 486,
@@ -414,7 +414,7 @@
     {
       "id": 911,
       "nombre": "MARTHA-KENT",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 544,
@@ -474,7 +474,7 @@
     {
       "id": 334,
       "nombre": "Siniestro",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 371,
@@ -529,7 +529,7 @@
     {
       "id": 851,
       "nombre": "VEGA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 845,
@@ -1044,7 +1044,7 @@
     {
       "id": 501,
       "nombre": "SOLON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 494,
@@ -1174,7 +1174,7 @@
     {
       "id": 374,
       "nombre": "Succubus",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 344,
@@ -1329,7 +1329,7 @@
     {
       "id": 866,
       "nombre": "SNAKE-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 533,
@@ -1484,7 +1484,7 @@
     {
       "id": 257,
       "nombre": "Mumm Ra",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 253,
@@ -1654,7 +1654,7 @@
     {
       "id": 459,
       "nombre": "Kyosuke",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1151,
@@ -1834,7 +1834,7 @@
     {
       "id": 362,
       "nombre": "yugo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 359,
@@ -2219,7 +2219,7 @@
     {
       "id": 708,
       "nombre": "DB-096",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 647,
@@ -2334,7 +2334,7 @@
     {
       "id": 833,
       "nombre": "blanka2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1138,
@@ -2349,7 +2349,7 @@
     {
       "id": 1342,
       "nombre": "5F-PHOENIXMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 336,
@@ -2534,7 +2534,7 @@
     {
       "id": 636,
       "nombre": "DB-024",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1180,
@@ -2574,7 +2574,7 @@
     {
       "id": 222,
       "nombre": "Espada de Metal Estrella",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1021,
@@ -2629,7 +2629,7 @@
     {
       "id": 872,
       "nombre": "BLACK-PANTHER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1400,
@@ -3149,6 +3149,136 @@
     {
       "id": 1458,
       "nombre": "VENGADOR TOXICO",
+      "cantidad": 1
+    },
+    {
+      "id": 710,
+      "nombre": "DB-098",
+      "cantidad": 1
+    },
+    {
+      "id": 1086,
+      "nombre": "Z - AVENGERS",
+      "cantidad": 1
+    },
+    {
+      "id": 745,
+      "nombre": "Dark-Shura-de-Capricornio",
+      "cantidad": 1
+    },
+    {
+      "id": 1031,
+      "nombre": "BV- BRUJA ESCARLATA",
+      "cantidad": 1
+    },
+    {
+      "id": 1223,
+      "nombre": "MARCO",
+      "cantidad": 1
+    },
+    {
+      "id": 1164,
+      "nombre": "GREEN LANTERN",
+      "cantidad": 1
+    },
+    {
+      "id": 1337,
+      "nombre": "5A-SORA",
+      "cantidad": 1
+    },
+    {
+      "id": 39,
+      "nombre": "captain",
+      "cantidad": 1
+    },
+    {
+      "id": 660,
+      "nombre": "DB-048",
+      "cantidad": 1
+    },
+    {
+      "id": 1142,
+      "nombre": "PEPPER-ANN",
+      "cantidad": 1
+    },
+    {
+      "id": 178,
+      "nombre": "Dr. Octopus",
+      "cantidad": 1
+    },
+    {
+      "id": 1246,
+      "nombre": "LA-NINERA",
+      "cantidad": 1
+    },
+    {
+      "id": 1380,
+      "nombre": "9-ETERMON",
+      "cantidad": 2
+    },
+    {
+      "id": 435,
+      "nombre": "vulkan2",
+      "cantidad": 1
+    },
+    {
+      "id": 465,
+      "nombre": "air",
+      "cantidad": 1
+    },
+    {
+      "id": 1410,
+      "nombre": "CREEPSHOW 2",
+      "cantidad": 1
+    },
+    {
+      "id": 1377,
+      "nombre": "9-CHERRYMON",
+      "cantidad": 1
+    },
+    {
+      "id": 846,
+      "nombre": "ken2",
+      "cantidad": 1
+    },
+    {
+      "id": 850,
+      "nombre": "T-HAWK",
+      "cantidad": 1
+    },
+    {
+      "id": 1029,
+      "nombre": "BLACK-PHANTER-2",
+      "cantidad": 1
+    },
+    {
+      "id": 342,
+      "nombre": "Flazzard",
+      "cantidad": 1
+    },
+    {
+      "id": 536,
+      "nombre": "Xena-Jail",
+      "cantidad": 1
+    },
+    {
+      "id": 1260,
+      "nombre": "FA-DRAGON-QUEST-VIII",
+      "cantidad": 1
+    },
+    {
+      "id": 311,
+      "nombre": "Arcangel",
+      "cantidad": 1
+    },
+    {
+      "id": 904,
+      "nombre": "CLARK-KENT",
+      "cantidad": 1
+    },
+    {
+      "id": 317,
+      "nombre": "Jean Grey",
       "cantidad": 1
     }
   ]

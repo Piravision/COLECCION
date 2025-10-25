@@ -104,7 +104,7 @@
         {
             "id": 174,
             "nombre": "Spiderman",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 96,
@@ -609,7 +609,7 @@
         {
             "id": 461,
             "nombre": "Stalone-RamboIII",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 308,
@@ -739,7 +739,7 @@
         {
             "id": 25,
             "nombre": "Diana",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 322,
@@ -5719,7 +5719,7 @@
         {
             "id": 1435,
             "nombre": "MARS ATTACKS",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1452,
@@ -5999,6 +5999,11 @@
         {
             "id": 1431,
             "nombre": "LA MOSCA",
+            "cantidad": 1
+        },
+        {
+            "id": 1419,
+            "nombre": "EVIL DEAD II",
             "cantidad": 1
         }
     ]
