@@ -629,7 +629,7 @@
         {
             "id": 836,
             "nombre": "Chunli2",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 900,
@@ -6049,6 +6049,11 @@
         {
             "id": 1456,
             "nombre": "TIENDA DE LOS HORRORES",
+            "cantidad": 1
+        },
+        {
+            "id": 831,
+            "nombre": "BISON",
             "cantidad": 1
         }
     ]
