@@ -7124,7 +7124,7 @@
         {
             "id": 1439,
             "nombre": "MUÑECO DIABOLICO",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1411,
@@ -7224,6 +7224,11 @@
         {
             "id": 1409,
             "nombre": "CEMENTERIO DE MASCOTAS",
+            "cantidad": 1
+        },
+        {
+            "id": 1420,
+            "nombre": "EVIL DEAD",
             "cantidad": 1
         }
     ]
