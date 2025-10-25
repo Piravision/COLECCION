@@ -7109,7 +7109,7 @@
         {
             "id": 1451,
             "nombre": "TEMBLORES",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1455,
@@ -7214,6 +7214,11 @@
         {
             "id": 1413,
             "nombre": "DEMONS",
+            "cantidad": 1
+        },
+        {
+            "id": 1416,
+            "nombre": "EL TERROR LLAMA A SU PUERTA",
             "cantidad": 1
         }
     ]
