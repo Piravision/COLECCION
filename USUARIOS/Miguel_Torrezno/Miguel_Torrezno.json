@@ -5934,7 +5934,7 @@
         {
             "id": 1406,
             "nombre": "BRAINDEAD",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1411,
@@ -5944,7 +5944,7 @@
         {
             "id": 1422,
             "nombre": "GHOULIES",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1447,
@@ -5964,7 +5964,7 @@
         {
             "id": 1408,
             "nombre": "CARRIE",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1436,
@@ -5984,7 +5984,7 @@
         {
             "id": 1413,
             "nombre": "DEMONS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1438,
@@ -5999,7 +5999,7 @@
         {
             "id": 1414,
             "nombre": "EL REGRESO DE LOS MUERTOS",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1458,
@@ -6129,12 +6129,12 @@
         {
             "id": 1454,
             "nombre": "THE OMEN",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1431,
             "nombre": "LA MOSCA",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 891,
@@ -6224,6 +6224,11 @@
         {
             "id": 1426,
             "nombre": "HOUSE",
+            "cantidad": 1
+        },
+        {
+            "id": 1409,
+            "nombre": "CEMENTERIO DE MASCOTAS",
             "cantidad": 1
         }
     ]
