@@ -1474,7 +1474,7 @@
     {
       "id": 225,
       "nombre": "Guarida Felina",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 103,
@@ -2654,7 +2654,7 @@
     {
       "id": 692,
       "nombre": "DB-080",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 802,
@@ -5804,7 +5804,7 @@
     {
       "id": 1018,
       "nombre": "SUB-MARINER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1268,
@@ -7024,7 +7024,7 @@
     {
       "id": 1446,
       "nombre": "SALEMS LOT",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1448,
@@ -7074,7 +7074,7 @@
     {
       "id": 1419,
       "nombre": "EVIL DEAD II",
-      "cantidad": 2
+      "cantidad": 4
     },
     {
       "id": 1406,
@@ -7119,7 +7119,7 @@
     {
       "id": 1411,
       "nombre": "CREEPSHOW",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1410,
@@ -7159,6 +7159,31 @@
     {
       "id": 1452,
       "nombre": "THE BLOB",
+      "cantidad": 1
+    },
+    {
+      "id": 1441,
+      "nombre": "PESADILLA EN EL ELM STREEET",
+      "cantidad": 1
+    },
+    {
+      "id": 1401,
+      "nombre": "ABIERTO HASTA EL AMANECER",
+      "cantidad": 1
+    },
+    {
+      "id": 1417,
+      "nombre": "ELVIRA",
+      "cantidad": 1
+    },
+    {
+      "id": 1437,
+      "nombre": "MONSTER SQUAD",
+      "cantidad": 1
+    },
+    {
+      "id": 1447,
+      "nombre": "SAW",
       "cantidad": 1
     }
   ]

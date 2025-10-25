@@ -5809,7 +5809,7 @@
     {
       "id": 1426,
       "nombre": "HOUSE",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1404,
@@ -5834,7 +5834,7 @@
     {
       "id": 1459,
       "nombre": "VIERNES 13",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1405,
@@ -5864,7 +5864,7 @@
     {
       "id": 1447,
       "nombre": "SAW",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1416,
@@ -5899,7 +5899,7 @@
     {
       "id": 1407,
       "nombre": "CANDYMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1445,
@@ -6269,7 +6269,7 @@
     {
       "id": 1417,
       "nombre": "ELVIRA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 452,
@@ -6284,7 +6284,7 @@
     {
       "id": 1401,
       "nombre": "ABIERTO HASTA EL AMANECER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1455,
@@ -6299,6 +6299,21 @@
     {
       "id": 1425,
       "nombre": "HOMBRE LOBO AMERIANO EN LONDRES",
+      "cantidad": 1
+    },
+    {
+      "id": 1453,
+      "nombre": "THE FOG",
+      "cantidad": 1
+    },
+    {
+      "id": 1441,
+      "nombre": "PESADILLA EN EL ELM STREEET",
+      "cantidad": 1
+    },
+    {
+      "id": 1412,
+      "nombre": "DARMAN",
       "cantidad": 1
     }
   ]

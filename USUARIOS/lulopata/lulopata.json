@@ -89,7 +89,7 @@
     {
       "id": 537,
       "nombre": "BOLO-YEUNG",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 808,
@@ -559,7 +559,7 @@
     {
       "id": 52,
       "nombre": "marin",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 47,
@@ -2209,7 +2209,7 @@
     {
       "id": 1440,
       "nombre": "NOCHE DE MIEDO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 383,
@@ -2439,7 +2439,7 @@
     {
       "id": 270,
       "nombre": "Napoleon Bonafrog",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1187,
@@ -3314,6 +3314,61 @@
     {
       "id": 1028,
       "nombre": "BLACK KNIGHT",
+      "cantidad": 1
+    },
+    {
+      "id": 1153,
+      "nombre": "BLACKMANTA",
+      "cantidad": 1
+    },
+    {
+      "id": 1075,
+      "nombre": "X -COLOSO",
+      "cantidad": 1
+    },
+    {
+      "id": 873,
+      "nombre": "BLACK-WIDOW",
+      "cantidad": 1
+    },
+    {
+      "id": 555,
+      "nombre": "INDIANA-JONES-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1375,
+      "nombre": "9-BAKEMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1264,
+      "nombre": "ARTHUR",
+      "cantidad": 1
+    },
+    {
+      "id": 899,
+      "nombre": "THANOS",
+      "cantidad": 1
+    },
+    {
+      "id": 1314,
+      "nombre": "2E-ZUDOMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1455,
+      "nombre": "THE THING",
+      "cantidad": 1
+    },
+    {
+      "id": 1425,
+      "nombre": "HOMBRE LOBO AMERIANO EN LONDRES",
+      "cantidad": 1
+    },
+    {
+      "id": 1422,
+      "nombre": "GHOULIES",
       "cantidad": 1
     }
   ]
