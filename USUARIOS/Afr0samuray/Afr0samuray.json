@@ -134,7 +134,7 @@
         {
             "id": 90,
             "nombre": "Broadway",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 197,
@@ -894,7 +894,7 @@
         {
             "id": 273,
             "nombre": "Raphael",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 280,
@@ -1554,7 +1554,7 @@
         {
             "id": 532,
             "nombre": "Sarah-Connor-Jail",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 640,
@@ -2069,7 +2069,7 @@
         {
             "id": 809,
             "nombre": "KABAL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 422,
@@ -2529,7 +2529,7 @@
         {
             "id": 792,
             "nombre": "HARLEY-QUEEN",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 526,
@@ -3079,7 +3079,7 @@
         {
             "id": 1066,
             "nombre": "TH - THOR-2",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 622,
@@ -4099,7 +4099,7 @@
         {
             "id": 584,
             "nombre": "DEUTER-MULLER",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 149,
@@ -4239,7 +4239,7 @@
         {
             "id": 87,
             "nombre": "Walter _Doc_ Hartford",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 672,
@@ -4689,7 +4689,7 @@
         {
             "id": 1457,
             "nombre": "TOMATES ASESINOS",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1148,
@@ -4979,7 +4979,7 @@
         {
             "id": 1425,
             "nombre": "HOMBRE LOBO AMERIANO EN LONDRES",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1416,
@@ -5899,7 +5899,7 @@
         {
             "id": 726,
             "nombre": "DB-114",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 786,
@@ -6004,6 +6004,21 @@
         {
             "id": 1419,
             "nombre": "EVIL DEAD II",
+            "cantidad": 1
+        },
+        {
+            "id": 1268,
+            "nombre": "EZIO-AUDITORE",
+            "cantidad": 1
+        },
+        {
+            "id": 1399,
+            "nombre": "9-WIZARDMON",
+            "cantidad": 1
+        },
+        {
+            "id": 457,
+            "nombre": "hayato",
             "cantidad": 1
         }
     ]

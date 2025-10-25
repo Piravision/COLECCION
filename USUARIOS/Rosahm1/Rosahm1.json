@@ -44,7 +44,7 @@
         {
             "id": 8,
             "nombre": "Hades",
-            "cantidad": 8
+            "cantidad": 9
         },
         {
             "id": 191,
@@ -1239,7 +1239,7 @@
         {
             "id": 457,
             "nombre": "hayato",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 229,
@@ -1369,7 +1369,7 @@
         {
             "id": 186,
             "nombre": "Mysterio",
-            "cantidad": 6
+            "cantidad": 7
         },
         {
             "id": 527,
@@ -2264,7 +2264,7 @@
         {
             "id": 144,
             "nombre": "Grin-Hardwing",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 767,
@@ -2639,7 +2639,7 @@
         {
             "id": 858,
             "nombre": "FREDDY-JAIL",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 781,
@@ -4559,7 +4559,7 @@
         {
             "id": 926,
             "nombre": "BATISTA",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 766,
@@ -4649,7 +4649,7 @@
         {
             "id": 1134,
             "nombre": "DR.-GRANUDO-&-HORRIFIDO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1115,
@@ -5199,7 +5199,7 @@
         {
             "id": 1092,
             "nombre": "CAZAFANTASMAS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1066,
@@ -5939,7 +5939,7 @@
         {
             "id": 1275,
             "nombre": "RAYMAN",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1236,
@@ -7014,7 +7014,7 @@
         {
             "id": 1436,
             "nombre": "MATANZA DE TEXAS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1411,
@@ -7249,6 +7249,11 @@
         {
             "id": 1435,
             "nombre": "MARS ATTACKS",
+            "cantidad": 1
+        },
+        {
+            "id": 1457,
+            "nombre": "TOMATES ASESINOS",
             "cantidad": 1
         }
     ]

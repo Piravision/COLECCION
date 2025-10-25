@@ -204,7 +204,7 @@
     {
       "id": 1127,
       "nombre": "SHINJI-IKARI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 338,
@@ -484,7 +484,7 @@
     {
       "id": 835,
       "nombre": "CHUN-LI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 64,
@@ -964,7 +964,7 @@
     {
       "id": 672,
       "nombre": "DB-060",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1107,
@@ -1169,6 +1169,21 @@
     {
       "id": 1064,
       "nombre": "SP- VENOM-2",
+      "cantidad": 1
+    },
+    {
+      "id": 328,
+      "nombre": "Juggernaut",
+      "cantidad": 1
+    },
+    {
+      "id": 311,
+      "nombre": "Arcangel",
+      "cantidad": 1
+    },
+    {
+      "id": 988,
+      "nombre": "ASH-&-PIKACHU",
       "cantidad": 1
     }
   ]
