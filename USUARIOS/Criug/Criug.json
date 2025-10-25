@@ -1464,7 +1464,7 @@
         {
             "id": 402,
             "nombre": "hojo",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 649,
@@ -1674,7 +1674,7 @@
         {
             "id": 324,
             "nombre": "Wolverine",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 124,
@@ -3254,7 +3254,7 @@
         {
             "id": 663,
             "nombre": "DB-051",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 361,
@@ -3724,7 +3724,7 @@
         {
             "id": 613,
             "nombre": "DB-001",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 291,
@@ -3764,7 +3764,7 @@
         {
             "id": 222,
             "nombre": "Espada de Metal Estrella",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 667,
@@ -5064,7 +5064,7 @@
         {
             "id": 806,
             "nombre": "JADE",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 810,
@@ -5469,7 +5469,7 @@
         {
             "id": 1222,
             "nombre": "LINK",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 918,
@@ -5549,7 +5549,7 @@
         {
             "id": 1238,
             "nombre": "2-COSAS-DE-CASA",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 922,
@@ -5814,7 +5814,7 @@
         {
             "id": 1223,
             "nombre": "MARCO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1102,
@@ -7079,7 +7079,7 @@
         {
             "id": 1407,
             "nombre": "CANDYMAN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1435,
@@ -7219,6 +7219,11 @@
         {
             "id": 1416,
             "nombre": "EL TERROR LLAMA A SU PUERTA",
+            "cantidad": 1
+        },
+        {
+            "id": 1409,
+            "nombre": "CEMENTERIO DE MASCOTAS",
             "cantidad": 1
         }
     ]

@@ -1829,7 +1829,7 @@
     {
       "id": 356,
       "nombre": "busuzima",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 362,
@@ -3079,7 +3079,7 @@
     {
       "id": 961,
       "nombre": "3-MORIARTY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 840,
@@ -3294,6 +3294,26 @@
     {
       "id": 610,
       "nombre": "TED-CARTER",
+      "cantidad": 1
+    },
+    {
+      "id": 658,
+      "nombre": "DB-046",
+      "cantidad": 1
+    },
+    {
+      "id": 1222,
+      "nombre": "LINK",
+      "cantidad": 1
+    },
+    {
+      "id": 820,
+      "nombre": "SEKTOR",
+      "cantidad": 1
+    },
+    {
+      "id": 1028,
+      "nombre": "BLACK KNIGHT",
       "cantidad": 1
     }
   ]
