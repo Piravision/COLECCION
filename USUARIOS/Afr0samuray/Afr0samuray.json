@@ -479,7 +479,7 @@
         {
             "id": 433,
             "nombre": "vincent",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 109,
@@ -6029,6 +6029,11 @@
         {
             "id": 398,
             "nombre": "barret",
+            "cantidad": 1
+        },
+        {
+            "id": 399,
+            "nombre": "cait",
             "cantidad": 1
         }
     ]
