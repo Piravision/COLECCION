@@ -7004,7 +7004,7 @@
         {
             "id": 1455,
             "nombre": "THE THING",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 1413,
@@ -7254,6 +7254,11 @@
         {
             "id": 1457,
             "nombre": "TOMATES ASESINOS",
+            "cantidad": 1
+        },
+        {
+            "id": 1409,
+            "nombre": "CEMENTERIO DE MASCOTAS",
             "cantidad": 1
         }
     ]
