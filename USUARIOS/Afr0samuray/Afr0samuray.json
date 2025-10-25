@@ -484,7 +484,7 @@
         {
             "id": 109,
             "nombre": "Cobra Commander",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 263,
@@ -629,7 +629,7 @@
         {
             "id": 404,
             "nombre": "sefirot",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 449,
@@ -2849,7 +2849,7 @@
         {
             "id": 1183,
             "nombre": "LOS-DIMINUTOS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1224,
@@ -6019,6 +6019,16 @@
         {
             "id": 457,
             "nombre": "hayato",
+            "cantidad": 1
+        },
+        {
+            "id": 1372,
+            "nombre": "8I-KARI-FOIL",
+            "cantidad": 1
+        },
+        {
+            "id": 398,
+            "nombre": "barret",
             "cantidad": 1
         }
     ]

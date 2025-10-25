@@ -2339,7 +2339,7 @@
     {
       "id": 935,
       "nombre": "STONE-COLD",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1212,
@@ -2534,7 +2534,7 @@
     {
       "id": 645,
       "nombre": "DB-033",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 95,
@@ -6034,6 +6034,11 @@
     {
       "id": 1418,
       "nombre": "ESTAN VIVOS",
+      "cantidad": 1
+    },
+    {
+      "id": 1244,
+      "nombre": "HERCULES",
       "cantidad": 1
     }
   ]
