@@ -7024,7 +7024,7 @@
         {
             "id": 1442,
             "nombre": "PESADILLAS",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1445,
@@ -7209,6 +7209,11 @@
         {
             "id": 1401,
             "nombre": "ABIERTO HASTA EL AMANECER",
+            "cantidad": 1
+        },
+        {
+            "id": 1413,
+            "nombre": "DEMONS",
             "cantidad": 1
         }
     ]
