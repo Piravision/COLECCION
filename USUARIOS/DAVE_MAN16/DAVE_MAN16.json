@@ -769,7 +769,7 @@
     {
       "id": 681,
       "nombre": "DB-069",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 546,
@@ -2789,7 +2789,7 @@
     {
       "id": 777,
       "nombre": "Zordon",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 762,
@@ -4369,6 +4369,11 @@
     {
       "id": 986,
       "nombre": "15-BALOO",
+      "cantidad": 1
+    },
+    {
+      "id": 893,
+      "nombre": "OCTOPUS",
       "cantidad": 1
     }
   ]
