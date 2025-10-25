@@ -4084,7 +4084,7 @@
         {
             "id": 1182,
             "nombre": "JAYCE-Y-LOS-GUERREROS-RODANTES",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 194,
@@ -7274,6 +7274,11 @@
         {
             "id": 1430,
             "nombre": "LA CRIATURA DEL PANTANO",
+            "cantidad": 1
+        },
+        {
+            "id": 1434,
+            "nombre": "MANIAC COP",
             "cantidad": 1
         }
     ]
