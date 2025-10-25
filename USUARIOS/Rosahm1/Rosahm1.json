@@ -2244,7 +2244,7 @@
         {
             "id": 633,
             "nombre": "DB-021",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 615,
@@ -2929,7 +2929,7 @@
         {
             "id": 658,
             "nombre": "DB-046",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 745,
@@ -3679,7 +3679,7 @@
         {
             "id": 468,
             "nombre": "CybilBennett",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 349,
@@ -4354,7 +4354,7 @@
         {
             "id": 817,
             "nombre": "RAIDEN",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 124,
@@ -4494,7 +4494,7 @@
         {
             "id": 1072,
             "nombre": "VALKYRIE-2",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 836,
@@ -4584,7 +4584,7 @@
         {
             "id": 557,
             "nombre": "LUFFY-JAIL",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 168,
@@ -5604,7 +5604,7 @@
         {
             "id": 959,
             "nombre": "3-DR.WATSON",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 705,
@@ -5624,7 +5624,7 @@
         {
             "id": 1273,
             "nombre": "KINGDOM-HEARTS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 738,
@@ -5899,7 +5899,7 @@
         {
             "id": 1065,
             "nombre": "TH - LOKI-2",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1142,
@@ -7099,7 +7099,7 @@
         {
             "id": 1401,
             "nombre": "ABIERTO HASTA EL AMANECER",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1450,
@@ -7264,6 +7264,11 @@
         {
             "id": 1445,
             "nombre": "RE-ANIMATOR",
+            "cantidad": 1
+        },
+        {
+            "id": 1417,
+            "nombre": "ELVIRA",
             "cantidad": 1
         }
     ]
