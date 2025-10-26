@@ -2164,7 +2164,7 @@
         {
             "id": 588,
             "nombre": "FRANZ-SCHESTER",
-            "cantidad": 6
+            "cantidad": 5
         },
         {
             "id": 615,
@@ -7254,6 +7254,11 @@
         {
             "id": 1425,
             "nombre": "HOMBRE LOBO AMERIANO EN LONDRES",
+            "cantidad": 1
+        },
+        {
+            "id": 1434,
+            "nombre": "MANIAC COP",
             "cantidad": 1
         }
     ]
