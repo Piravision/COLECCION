@@ -5819,7 +5819,7 @@
     {
       "id": 1430,
       "nombre": "LA CRIATURA DEL PANTANO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1419,
@@ -5904,7 +5904,7 @@
     {
       "id": 1445,
       "nombre": "RE-ANIMATOR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 794,
@@ -6224,7 +6224,7 @@
     {
       "id": 1450,
       "nombre": "TEEN WOLF",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 895,
@@ -6334,6 +6334,16 @@
     {
       "id": 1213,
       "nombre": "4-STREET-OF-RAGE",
+      "cantidad": 1
+    },
+    {
+      "id": 1452,
+      "nombre": "THE BLOB",
+      "cantidad": 1
+    },
+    {
+      "id": 1421,
+      "nombre": "EXORCISTA",
       "cantidad": 1
     }
   ]

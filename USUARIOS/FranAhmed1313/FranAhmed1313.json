@@ -974,7 +974,7 @@
     {
       "id": 1431,
       "nombre": "LA MOSCA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1420,
@@ -1524,7 +1524,7 @@
     {
       "id": 1451,
       "nombre": "TEMBLORES",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1422,
@@ -1589,7 +1589,7 @@
     {
       "id": 1411,
       "nombre": "CREEPSHOW",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1182,
@@ -1749,6 +1749,31 @@
     {
       "id": 676,
       "nombre": "DB-064",
+      "cantidad": 1
+    },
+    {
+      "id": 1417,
+      "nombre": "ELVIRA",
+      "cantidad": 2
+    },
+    {
+      "id": 891,
+      "nombre": "MODOK",
+      "cantidad": 1
+    },
+    {
+      "id": 1180,
+      "nombre": "C3PO-R2D2",
+      "cantidad": 1
+    },
+    {
+      "id": 1405,
+      "nombre": "BEETLEJUICE",
+      "cantidad": 1
+    },
+    {
+      "id": 1438,
+      "nombre": "MUÑECO DIABOLICO ii",
       "cantidad": 1
     }
   ]
