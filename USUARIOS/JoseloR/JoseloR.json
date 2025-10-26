@@ -769,7 +769,7 @@
     {
       "id": 269,
       "nombre": "Mona Lisa",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 164,
@@ -1254,7 +1254,7 @@
     {
       "id": 278,
       "nombre": "Bebop",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1016,
@@ -1729,7 +1729,7 @@
     {
       "id": 285,
       "nombre": "Rocksteady",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 919,
@@ -2279,6 +2279,21 @@
     {
       "id": 1118,
       "nombre": "PF-PITUFO FILOSOFO",
+      "cantidad": 1
+    },
+    {
+      "id": 276,
+      "nombre": "Baxter",
+      "cantidad": 1
+    },
+    {
+      "id": 579,
+      "nombre": "BOB-DENVER",
+      "cantidad": 1
+    },
+    {
+      "id": 1186,
+      "nombre": "KENSHIRO",
       "cantidad": 1
     }
   ]

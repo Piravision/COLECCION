@@ -629,7 +629,7 @@
     {
       "id": 517,
       "nombre": "Pirámide Negra",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1095,
@@ -1244,7 +1244,7 @@
     {
       "id": 693,
       "nombre": "DB-081",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 422,
@@ -1779,7 +1779,7 @@
     {
       "id": 549,
       "nombre": "T-1000",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 385,
@@ -1869,7 +1869,7 @@
     {
       "id": 223,
       "nombre": "G.I. JOE Headquarters",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1231,
@@ -2339,7 +2339,7 @@
     {
       "id": 1010,
       "nombre": "LUPIN-III",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 759,
@@ -2669,7 +2669,7 @@
     {
       "id": 440,
       "nombre": "scrabs",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 662,
@@ -2734,7 +2734,7 @@
     {
       "id": 1225,
       "nombre": "SORA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 855,
@@ -2894,7 +2894,7 @@
     {
       "id": 1029,
       "nombre": "BLACK-PHANTER-2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1013,
@@ -3544,7 +3544,7 @@
     {
       "id": 138,
       "nombre": "Dr. Hell",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 685,
@@ -4089,7 +4089,7 @@
     {
       "id": 1381,
       "nombre": "9-GOTTSUMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 686,
@@ -4709,7 +4709,7 @@
     {
       "id": 1304,
       "nombre": "1D-GREYMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1187,
@@ -4939,7 +4939,7 @@
     {
       "id": 99,
       "nombre": "Demona",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 880,
@@ -4974,7 +4974,7 @@
     {
       "id": 484,
       "nombre": "Blowhard",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 314,
@@ -5394,7 +5394,7 @@
     {
       "id": 681,
       "nombre": "DB-069",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 725,
@@ -6314,6 +6314,26 @@
     {
       "id": 1412,
       "nombre": "DARMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1190,
+      "nombre": "METEORO",
+      "cantidad": 1
+    },
+    {
+      "id": 1044,
+      "nombre": "HAVOK",
+      "cantidad": 1
+    },
+    {
+      "id": 716,
+      "nombre": "DB-104",
+      "cantidad": 1
+    },
+    {
+      "id": 1213,
+      "nombre": "4-STREET-OF-RAGE",
       "cantidad": 1
     }
   ]

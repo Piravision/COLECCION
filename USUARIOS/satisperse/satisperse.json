@@ -2129,7 +2129,7 @@
     {
       "id": 1423,
       "nombre": "HALLOWEEN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 205,
@@ -2199,6 +2199,16 @@
     {
       "id": 1419,
       "nombre": "EVIL DEAD II",
+      "cantidad": 1
+    },
+    {
+      "id": 269,
+      "nombre": "Mona Lisa",
+      "cantidad": 1
+    },
+    {
+      "id": 1255,
+      "nombre": "STARGATE-SG-1",
       "cantidad": 1
     }
   ]

@@ -4,7 +4,7 @@
     {
       "id": 344,
       "nombre": "Flazzard 3",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 401,
@@ -624,7 +624,7 @@
     {
       "id": 820,
       "nombre": "SEKTOR",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 717,
@@ -689,7 +689,7 @@
     {
       "id": 560,
       "nombre": "MACGYVER-JAIL",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 827,
@@ -1074,7 +1074,7 @@
     {
       "id": 866,
       "nombre": "SNAKE-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 65,
@@ -1099,7 +1099,7 @@
     {
       "id": 675,
       "nombre": "DB-063",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 807,
@@ -1269,7 +1269,7 @@
     {
       "id": 326,
       "nombre": "Blob",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 204,
@@ -1399,7 +1399,7 @@
     {
       "id": 95,
       "nombre": "Hudson",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 182,
@@ -1534,7 +1534,7 @@
     {
       "id": 406,
       "nombre": "turcos",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 255,
@@ -1974,7 +1974,7 @@
     {
       "id": 1008,
       "nombre": "SAKURA",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1014,
@@ -3344,7 +3344,7 @@
     {
       "id": 971,
       "nombre": "9-CALIMERO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1241,
@@ -3629,7 +3629,7 @@
     {
       "id": 878,
       "nombre": "FALCON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 761,
@@ -3839,7 +3839,7 @@
     {
       "id": 1126,
       "nombre": "K.RYOTSU",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 763,
@@ -4694,7 +4694,7 @@
     {
       "id": 1134,
       "nombre": "DR.-GRANUDO-&-HORRIFIDO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1380,
@@ -5309,7 +5309,7 @@
     {
       "id": 1137,
       "nombre": "LOS-PICAPIEDRA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1231,
@@ -5369,7 +5369,7 @@
     {
       "id": 195,
       "nombre": "Moby Lick",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 693,
@@ -5739,6 +5739,36 @@
     {
       "id": 767,
       "nombre": "green",
+      "cantidad": 1
+    },
+    {
+      "id": 1063,
+      "nombre": "SP- SPIDERMAN-BLACK",
+      "cantidad": 1
+    },
+    {
+      "id": 1178,
+      "nombre": "ZATCH-BELL-&-K.TAKAMINE",
+      "cantidad": 1
+    },
+    {
+      "id": 1374,
+      "nombre": "9-APOCALYMON",
+      "cantidad": 1
+    },
+    {
+      "id": 421,
+      "nombre": "mei2",
+      "cantidad": 1
+    },
+    {
+      "id": 1180,
+      "nombre": "C3PO-R2D2",
+      "cantidad": 1
+    },
+    {
+      "id": 772,
+      "nombre": "Rita-Repulsa",
       "cantidad": 1
     }
   ]

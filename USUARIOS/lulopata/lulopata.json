@@ -19,7 +19,7 @@
     {
       "id": 1172,
       "nombre": "SUPERMAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1170,
@@ -144,7 +144,7 @@
     {
       "id": 124,
       "nombre": "Stratos",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1010,
@@ -249,7 +249,7 @@
     {
       "id": 90,
       "nombre": "Broadway",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 190,
@@ -709,7 +709,7 @@
     {
       "id": 450,
       "nombre": "licker",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 145,
@@ -909,7 +909,7 @@
     {
       "id": 139,
       "nombre": "Duke L'Orange",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1188,
@@ -1229,7 +1229,7 @@
     {
       "id": 200,
       "nombre": "Swordo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 192,
@@ -1344,7 +1344,7 @@
     {
       "id": 397,
       "nombre": "avalanche",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 403,
@@ -1414,7 +1414,7 @@
     {
       "id": 91,
       "nombre": "Bronx",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1299,
@@ -1499,7 +1499,7 @@
     {
       "id": 85,
       "nombre": "Niko",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 87,
@@ -1854,7 +1854,7 @@
     {
       "id": 641,
       "nombre": "DB-029",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 593,
@@ -1869,7 +1869,7 @@
     {
       "id": 611,
       "nombre": "TERRY-DENTON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 505,
@@ -1884,7 +1884,7 @@
     {
       "id": 525,
       "nombre": "Cíclope",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 160,
@@ -1934,7 +1934,7 @@
     {
       "id": 1226,
       "nombre": "TERRY-BOGARD",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1197,
@@ -2059,7 +2059,7 @@
     {
       "id": 1155,
       "nombre": "DETECTIVE MARCIANO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 346,
@@ -2234,7 +2234,7 @@
     {
       "id": 244,
       "nombre": "Felina",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1066,
@@ -2284,7 +2284,7 @@
     {
       "id": 885,
       "nombre": "IRON-MAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1106,
@@ -2444,7 +2444,7 @@
     {
       "id": 1187,
       "nombre": "CRIPTA-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 883,
@@ -2554,7 +2554,7 @@
     {
       "id": 661,
       "nombre": "DB-049",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1344,
@@ -2699,7 +2699,7 @@
     {
       "id": 881,
       "nombre": "HAWKEYE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 358,
@@ -2714,7 +2714,7 @@
     {
       "id": 1250,
       "nombre": "MIAMI-VICE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 361,
@@ -3064,7 +3064,7 @@
     {
       "id": 433,
       "nombre": "vincent",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 332,
@@ -3209,7 +3209,7 @@
     {
       "id": 1246,
       "nombre": "LA-NINERA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1380,
@@ -3224,7 +3224,7 @@
     {
       "id": 465,
       "nombre": "air",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1410,
@@ -3299,7 +3299,7 @@
     {
       "id": 658,
       "nombre": "DB-046",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1222,
@@ -3369,6 +3369,81 @@
     {
       "id": 1422,
       "nombre": "GHOULIES",
+      "cantidad": 1
+    },
+    {
+      "id": 221,
+      "nombre": "Espada Atlantean",
+      "cantidad": 1
+    },
+    {
+      "id": 1441,
+      "nombre": "PESADILLA EN EL ELM STREEET",
+      "cantidad": 1
+    },
+    {
+      "id": 989,
+      "nombre": "CAPITAN-HARLOCK",
+      "cantidad": 1
+    },
+    {
+      "id": 78,
+      "nombre": "myse",
+      "cantidad": 1
+    },
+    {
+      "id": 1080,
+      "nombre": "X -STORM",
+      "cantidad": 1
+    },
+    {
+      "id": 1446,
+      "nombre": "SALEMS LOT",
+      "cantidad": 1
+    },
+    {
+      "id": 398,
+      "nombre": "barret",
+      "cantidad": 1
+    },
+    {
+      "id": 1290,
+      "nombre": "MORRIGAN",
+      "cantidad": 1
+    },
+    {
+      "id": 642,
+      "nombre": "DB-030",
+      "cantidad": 1
+    },
+    {
+      "id": 694,
+      "nombre": "DB-082",
+      "cantidad": 1
+    },
+    {
+      "id": 30,
+      "nombre": "Uni",
+      "cantidad": 1
+    },
+    {
+      "id": 285,
+      "nombre": "Rocksteady",
+      "cantidad": 1
+    },
+    {
+      "id": 1292,
+      "nombre": "ALF-FAMILY",
+      "cantidad": 1
+    },
+    {
+      "id": 1057,
+      "nombre": "PALADIN",
+      "cantidad": 1
+    },
+    {
+      "id": 81,
+      "nombre": "vearn",
       "cantidad": 1
     }
   ]
