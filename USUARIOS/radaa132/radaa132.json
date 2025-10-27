@@ -934,7 +934,7 @@
     {
       "id": 815,
       "nombre": "NIGHTWOLF",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 818,
@@ -1374,7 +1374,7 @@
     {
       "id": 64,
       "nombre": "evil crocodine",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 417,
@@ -1784,7 +1784,7 @@
     {
       "id": 963,
       "nombre": "3-SRA.-HUDSON",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 855,
@@ -2109,7 +2109,7 @@
     {
       "id": 59,
       "nombre": "balios",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 382,
@@ -2229,7 +2229,7 @@
     {
       "id": 1123,
       "nombre": "EDWARD-&-AI",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 540,
@@ -2374,7 +2374,7 @@
     {
       "id": 720,
       "nombre": "DB-108",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 938,
@@ -3299,7 +3299,7 @@
     {
       "id": 234,
       "nombre": "Nueva Texas",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 381,
@@ -3899,7 +3899,7 @@
     {
       "id": 638,
       "nombre": "DB-026",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 405,
@@ -4204,7 +4204,7 @@
     {
       "id": 817,
       "nombre": "RAIDEN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1207,
@@ -4324,7 +4324,7 @@
     {
       "id": 1307,
       "nombre": "1G-AGUMON-EVO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1118,
@@ -4344,7 +4344,7 @@
     {
       "id": 1306,
       "nombre": "1FA-WARGREYMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1376,
@@ -4459,7 +4459,7 @@
     {
       "id": 1299,
       "nombre": "FA-GOLDEN-AXE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 989,
@@ -5184,7 +5184,7 @@
     {
       "id": 1258,
       "nombre": "XENA-LA-PRINCESA-GUERRERA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1193,
@@ -5359,7 +5359,7 @@
     {
       "id": 1364,
       "nombre": "8A-KARI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 86,
@@ -5434,7 +5434,7 @@
     {
       "id": 1404,
       "nombre": "BEETLEJUICE - PROMO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1450,
@@ -5464,7 +5464,7 @@
     {
       "id": 1445,
       "nombre": "RE-ANIMATOR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1411,
@@ -5769,6 +5769,31 @@
     {
       "id": 772,
       "nombre": "Rita-Repulsa",
+      "cantidad": 1
+    },
+    {
+      "id": 1451,
+      "nombre": "TEMBLORES",
+      "cantidad": 1
+    },
+    {
+      "id": 617,
+      "nombre": "DB-005",
+      "cantidad": 1
+    },
+    {
+      "id": 1141,
+      "nombre": "PATOAVENTURAS",
+      "cantidad": 1
+    },
+    {
+      "id": 1041,
+      "nombre": "FALCON-2",
+      "cantidad": 1
+    },
+    {
+      "id": 792,
+      "nombre": "HARLEY-QUEEN",
       "cantidad": 1
     }
   ]

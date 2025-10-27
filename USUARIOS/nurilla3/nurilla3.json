@@ -29,7 +29,7 @@
     {
       "id": 1428,
       "nombre": "IT",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1436,
@@ -124,7 +124,7 @@
     {
       "id": 624,
       "nombre": "DB-012",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 785,
@@ -259,7 +259,7 @@
     {
       "id": 1425,
       "nombre": "HOMBRE LOBO AMERIANO EN LONDRES",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1459,
@@ -489,7 +489,7 @@
     {
       "id": 64,
       "nombre": "evil crocodine",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 951,
@@ -649,12 +649,12 @@
     {
       "id": 168,
       "nombre": "Hobgoblin",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 448,
       "nombre": "leon1",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1355,
@@ -674,7 +674,7 @@
     {
       "id": 953,
       "nombre": "12-MARCO-&-AMELIO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 445,
@@ -834,7 +834,7 @@
     {
       "id": 823,
       "nombre": "SHEEVA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 947,
@@ -999,7 +999,7 @@
     {
       "id": 965,
       "nombre": "4-RIGODON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 948,
@@ -1059,7 +1059,7 @@
     {
       "id": 692,
       "nombre": "DB-080",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1293,
@@ -1094,7 +1094,7 @@
     {
       "id": 1439,
       "nombre": "MUÑECO DIABOLICO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 342,
@@ -1159,7 +1159,7 @@
     {
       "id": 627,
       "nombre": "DB-015",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 106,
@@ -1184,7 +1184,7 @@
     {
       "id": 988,
       "nombre": "ASH-&-PIKACHU",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1360,
@@ -1224,12 +1224,12 @@
     {
       "id": 1424,
       "nombre": "HELLRAISER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1444,
       "nombre": "POLTERGEIST",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1432,
@@ -1254,7 +1254,7 @@
     {
       "id": 126,
       "nombre": "Beastman",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1014,
@@ -1359,6 +1359,226 @@
     {
       "id": 1430,
       "nombre": "LA CRIATURA DEL PANTANO",
+      "cantidad": 1
+    },
+    {
+      "id": 1028,
+      "nombre": "BLACK KNIGHT",
+      "cantidad": 1
+    },
+    {
+      "id": 749,
+      "nombre": "Hilda",
+      "cantidad": 1
+    },
+    {
+      "id": 930,
+      "nombre": "MANKIND",
+      "cantidad": 1
+    },
+    {
+      "id": 741,
+      "nombre": "Camus-de-Acuario",
+      "cantidad": 1
+    },
+    {
+      "id": 1156,
+      "nombre": "ELONGATE MAN",
+      "cantidad": 1
+    },
+    {
+      "id": 153,
+      "nombre": "Fred _El Mutante_",
+      "cantidad": 1
+    },
+    {
+      "id": 1140,
+      "nombre": "PANTERA-ROSA",
+      "cantidad": 1
+    },
+    {
+      "id": 730,
+      "nombre": "DB-118",
+      "cantidad": 1
+    },
+    {
+      "id": 1352,
+      "nombre": "6G-TENTOMON-EVO",
+      "cantidad": 1
+    },
+    {
+      "id": 800,
+      "nombre": "RAS-AL-GHUL",
+      "cantidad": 1
+    },
+    {
+      "id": 1139,
+      "nombre": "MARSUPILAMI",
+      "cantidad": 1
+    },
+    {
+      "id": 34,
+      "nombre": "Avan",
+      "cantidad": 1
+    },
+    {
+      "id": 666,
+      "nombre": "DB-054",
+      "cantidad": 1
+    },
+    {
+      "id": 985,
+      "nombre": "ALF-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 360,
+      "nombre": "stung",
+      "cantidad": 1
+    },
+    {
+      "id": 369,
+      "nombre": "DRACULA2",
+      "cantidad": 1
+    },
+    {
+      "id": 223,
+      "nombre": "G.I. JOE Headquarters",
+      "cantidad": 1
+    },
+    {
+      "id": 515,
+      "nombre": "Invasión-Saurians",
+      "cantidad": 1
+    },
+    {
+      "id": 1061,
+      "nombre": "SHANG-CHI",
+      "cantidad": 1
+    },
+    {
+      "id": 149,
+      "nombre": "Modo",
+      "cantidad": 1
+    },
+    {
+      "id": 471,
+      "nombre": "Garland",
+      "cantidad": 1
+    },
+    {
+      "id": 393,
+      "nombre": "Tawna",
+      "cantidad": 1
+    },
+    {
+      "id": 1229,
+      "nombre": "MIGHTY-MAX",
+      "cantidad": 1
+    },
+    {
+      "id": 841,
+      "nombre": "GUILE",
+      "cantidad": 1
+    },
+    {
+      "id": 355,
+      "nombre": "bayur",
+      "cantidad": 1
+    },
+    {
+      "id": 133,
+      "nombre": "Trap Jaw",
+      "cantidad": 1
+    },
+    {
+      "id": 638,
+      "nombre": "DB-026",
+      "cantidad": 1
+    },
+    {
+      "id": 438,
+      "nombre": "molluck",
+      "cantidad": 1
+    },
+    {
+      "id": 165,
+      "nombre": "Daredevil",
+      "cantidad": 1
+    },
+    {
+      "id": 996,
+      "nombre": "I.KUROSAKI",
+      "cantidad": 1
+    },
+    {
+      "id": 333,
+      "nombre": "Omega Rojo",
+      "cantidad": 1
+    },
+    {
+      "id": 490,
+      "nombre": "spyro1",
+      "cantidad": 1
+    },
+    {
+      "id": 1334,
+      "nombre": "4G-PALMON-EVO",
+      "cantidad": 1
+    },
+    {
+      "id": 1166,
+      "nombre": "HAWKWOMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 251,
+      "nombre": "Tigro",
+      "cantidad": 1
+    },
+    {
+      "id": 890,
+      "nombre": "MEDUSA",
+      "cantidad": 1
+    },
+    {
+      "id": 11,
+      "nombre": "Greywolf",
+      "cantidad": 1
+    },
+    {
+      "id": 1010,
+      "nombre": "LUPIN-III",
+      "cantidad": 1
+    },
+    {
+      "id": 654,
+      "nombre": "DB-042",
+      "cantidad": 1
+    },
+    {
+      "id": 219,
+      "nombre": "Dirigible Tortuga",
+      "cantidad": 1
+    },
+    {
+      "id": 139,
+      "nombre": "Duke L'Orange",
+      "cantidad": 1
+    },
+    {
+      "id": 1441,
+      "nombre": "PESADILLA EN EL ELM STREEET",
+      "cantidad": 1
+    },
+    {
+      "id": 1410,
+      "nombre": "CREEPSHOW 2",
+      "cantidad": 1
+    },
+    {
+      "id": 1404,
+      "nombre": "BEETLEJUICE - PROMO",
       "cantidad": 1
     }
   ]

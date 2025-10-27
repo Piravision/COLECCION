@@ -169,7 +169,7 @@
     {
       "id": 477,
       "nombre": "mumb",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 586,
@@ -964,7 +964,7 @@
     {
       "id": 6,
       "nombre": "El Patriarca",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 478,
@@ -1229,7 +1229,7 @@
     {
       "id": 705,
       "nombre": "DB-093",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 909,
@@ -1289,7 +1289,7 @@
     {
       "id": 888,
       "nombre": "LOKI",
-      "cantidad": 4
+      "cantidad": 6
     },
     {
       "id": 979,
@@ -1369,7 +1369,7 @@
     {
       "id": 885,
       "nombre": "IRON-MAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 873,
@@ -1539,7 +1539,7 @@
     {
       "id": 990,
       "nombre": "CHICHO-TERREMOTO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1003,
@@ -2599,7 +2599,7 @@
     {
       "id": 781,
       "nombre": "BATGIRL",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1022,
@@ -2694,7 +2694,7 @@
     {
       "id": 1147,
       "nombre": "VACA-&-POLLO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 654,
@@ -2974,7 +2974,7 @@
     {
       "id": 1285,
       "nombre": "BANJO-KAZOOIE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1297,
@@ -3664,7 +3664,7 @@
     {
       "id": 211,
       "nombre": "Anillo Serpiente",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 320,
@@ -4204,7 +4204,7 @@
     {
       "id": 1154,
       "nombre": "CATWOMAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1309,
@@ -4434,7 +4434,7 @@
     {
       "id": 1361,
       "nombre": "7G-PATAMON-EVO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1308,
@@ -5729,7 +5729,7 @@
     {
       "id": 1419,
       "nombre": "EVIL DEAD II",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1054,
@@ -6084,6 +6084,26 @@
     {
       "id": 1066,
       "nombre": "TH - THOR-2",
+      "cantidad": 1
+    },
+    {
+      "id": 110,
+      "nombre": "Destro",
+      "cantidad": 1
+    },
+    {
+      "id": 1302,
+      "nombre": "1B-KOROMON",
+      "cantidad": 1
+    },
+    {
+      "id": 890,
+      "nombre": "MEDUSA",
+      "cantidad": 1
+    },
+    {
+      "id": 75,
+      "nombre": "mac",
       "cantidad": 1
     }
   ]

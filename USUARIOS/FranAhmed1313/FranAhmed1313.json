@@ -94,7 +94,7 @@
     {
       "id": 352,
       "nombre": "septimus",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 227,
@@ -279,7 +279,7 @@
     {
       "id": 870,
       "nombre": "BARON-ZEMO",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 984,
@@ -304,7 +304,7 @@
     {
       "id": 1314,
       "nombre": "2E-ZUDOMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1374,
@@ -534,7 +534,7 @@
     {
       "id": 487,
       "nombre": "Jacques",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1191,
@@ -624,7 +624,7 @@
     {
       "id": 733,
       "nombre": "DB-121",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 142,
@@ -879,7 +879,7 @@
     {
       "id": 1424,
       "nombre": "HELLRAISER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1442,
@@ -959,12 +959,12 @@
     {
       "id": 1446,
       "nombre": "SALEMS LOT",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1443,
       "nombre": "PHANTASM",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1427,
@@ -1024,7 +1024,7 @@
     {
       "id": 976,
       "nombre": "7-SABIONDO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 32,
@@ -1084,7 +1084,7 @@
     {
       "id": 491,
       "nombre": "spyro2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1236,
@@ -1349,7 +1349,7 @@
     {
       "id": 1418,
       "nombre": "ESTAN VIVOS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 249,
@@ -1374,7 +1374,7 @@
     {
       "id": 122,
       "nombre": "She ra",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 796,
@@ -1404,7 +1404,7 @@
     {
       "id": 254,
       "nombre": "Chacalo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 288,
@@ -1444,7 +1444,7 @@
     {
       "id": 833,
       "nombre": "blanka2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 993,
@@ -1529,7 +1529,7 @@
     {
       "id": 1422,
       "nombre": "GHOULIES",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1432,
@@ -1774,6 +1774,151 @@
     {
       "id": 1438,
       "nombre": "MUÑECO DIABOLICO ii",
+      "cantidad": 1
+    },
+    {
+      "id": 471,
+      "nombre": "Garland",
+      "cantidad": 1
+    },
+    {
+      "id": 1120,
+      "nombre": "PF-PITUFO-GRUÑON",
+      "cantidad": 1
+    },
+    {
+      "id": 895,
+      "nombre": "ROCKET-RACOON",
+      "cantidad": 1
+    },
+    {
+      "id": 367,
+      "nombre": "BEMONT",
+      "cantidad": 1
+    },
+    {
+      "id": 130,
+      "nombre": "Mer Man(",
+      "cantidad": 1
+    },
+    {
+      "id": 1239,
+      "nombre": "2-STEVE-URKEL",
+      "cantidad": 1
+    },
+    {
+      "id": 464,
+      "nombre": "yamada",
+      "cantidad": 1
+    },
+    {
+      "id": 8,
+      "nombre": "Hades",
+      "cantidad": 1
+    },
+    {
+      "id": 1123,
+      "nombre": "EDWARD-&-AI",
+      "cantidad": 1
+    },
+    {
+      "id": 561,
+      "nombre": "MARIO-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1372,
+      "nombre": "8I-KARI-FOIL",
+      "cantidad": 1
+    },
+    {
+      "id": 328,
+      "nombre": "Juggernaut",
+      "cantidad": 1
+    },
+    {
+      "id": 191,
+      "nombre": "Venom",
+      "cantidad": 1
+    },
+    {
+      "id": 731,
+      "nombre": "DB-119",
+      "cantidad": 1
+    },
+    {
+      "id": 391,
+      "nombre": "piretripe",
+      "cantidad": 1
+    },
+    {
+      "id": 387,
+      "nombre": "Koala",
+      "cantidad": 1
+    },
+    {
+      "id": 162,
+      "nombre": "Mon Star",
+      "cantidad": 1
+    },
+    {
+      "id": 1106,
+      "nombre": "G-JASON",
+      "cantidad": 1
+    },
+    {
+      "id": 1428,
+      "nombre": "IT",
+      "cantidad": 1
+    },
+    {
+      "id": 119,
+      "nombre": "orko",
+      "cantidad": 1
+    },
+    {
+      "id": 123,
+      "nombre": "Sorceress",
+      "cantidad": 1
+    },
+    {
+      "id": 845,
+      "nombre": "KEN",
+      "cantidad": 1
+    },
+    {
+      "id": 841,
+      "nombre": "GUILE",
+      "cantidad": 1
+    },
+    {
+      "id": 839,
+      "nombre": "DJ",
+      "cantidad": 1
+    },
+    {
+      "id": 165,
+      "nombre": "Daredevil",
+      "cantidad": 1
+    },
+    {
+      "id": 1250,
+      "nombre": "MIAMI-VICE",
+      "cantidad": 1
+    },
+    {
+      "id": 1335,
+      "nombre": "4H-FA-MIMI",
+      "cantidad": 1
+    },
+    {
+      "id": 395,
+      "nombre": "SPIKE-SPIEGEL",
+      "cantidad": 1
+    },
+    {
+      "id": 1265,
+      "nombre": "BAYONETTA",
       "cantidad": 1
     }
   ]

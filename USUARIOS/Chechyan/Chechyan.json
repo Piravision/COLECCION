@@ -4729,7 +4729,7 @@
     {
       "id": 1242,
       "nombre": "EQUIPO-A",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 867,
@@ -5879,7 +5879,7 @@
     {
       "id": 1433,
       "nombre": "LOST BOYS",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1411,
@@ -5899,7 +5899,7 @@
     {
       "id": 1407,
       "nombre": "CANDYMAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1445,
@@ -6109,7 +6109,7 @@
     {
       "id": 1274,
       "nombre": "KIRBY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 957,
@@ -6214,7 +6214,7 @@
     {
       "id": 1431,
       "nombre": "LA MOSCA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1418,
@@ -6264,7 +6264,7 @@
     {
       "id": 1406,
       "nombre": "BRAINDEAD",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1417,
@@ -6339,11 +6339,21 @@
     {
       "id": 1452,
       "nombre": "THE BLOB",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1421,
       "nombre": "EXORCISTA",
+      "cantidad": 1
+    },
+    {
+      "id": 1184,
+      "nombre": "TEEN-WOLF",
+      "cantidad": 1
+    },
+    {
+      "id": 1443,
+      "nombre": "PHANTASM",
       "cantidad": 1
     }
   ]

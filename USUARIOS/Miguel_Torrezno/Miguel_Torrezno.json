@@ -104,7 +104,7 @@
     {
       "id": 221,
       "nombre": "Espada Atlantean",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 244,
@@ -2079,7 +2079,7 @@
     {
       "id": 401,
       "nombre": "cloud",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 902,
@@ -3459,7 +3459,7 @@
     {
       "id": 1103,
       "nombre": "FRAGGLE-ROCK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 827,
@@ -3784,7 +3784,7 @@
     {
       "id": 399,
       "nombre": "cait",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 996,
@@ -4589,7 +4589,7 @@
     {
       "id": 433,
       "nombre": "vincent",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1397,
@@ -5964,7 +5964,7 @@
     {
       "id": 1408,
       "nombre": "CARRIE",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1436,
@@ -6189,7 +6189,7 @@
     {
       "id": 1420,
       "nombre": "EVIL DEAD",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1445,
@@ -6229,12 +6229,12 @@
     {
       "id": 1409,
       "nombre": "CEMENTERIO DE MASCOTAS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1451,
       "nombre": "TEMBLORES",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 194,
@@ -6274,6 +6274,16 @@
     {
       "id": 1419,
       "nombre": "EVIL DEAD II",
+      "cantidad": 2
+    },
+    {
+      "id": 1235,
+      "nombre": "0-LOS-VISITANTES",
+      "cantidad": 1
+    },
+    {
+      "id": 1440,
+      "nombre": "NOCHE DE MIEDO",
       "cantidad": 1
     }
   ]

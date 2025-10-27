@@ -4609,7 +4609,7 @@
     {
       "id": 1401,
       "nombre": "ABIERTO HASTA EL AMANECER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 133,
@@ -4914,7 +4914,7 @@
     {
       "id": 1441,
       "nombre": "PESADILLA EN EL ELM STREEET",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1421,
@@ -5169,7 +5169,7 @@
     {
       "id": 1410,
       "nombre": "CREEPSHOW 2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1332,
@@ -5224,7 +5224,7 @@
     {
       "id": 1445,
       "nombre": "RE-ANIMATOR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 30,
@@ -5309,7 +5309,7 @@
     {
       "id": 1432,
       "nombre": "LA NOVIA DE REANIMATOR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1051,
@@ -5719,7 +5719,7 @@
     {
       "id": 1435,
       "nombre": "MARS ATTACKS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1452,
@@ -6284,6 +6284,56 @@
     {
       "id": 1287,
       "nombre": "IORI-YAGAMI",
+      "cantidad": 1
+    },
+    {
+      "id": 888,
+      "nombre": "LOKI",
+      "cantidad": 1
+    },
+    {
+      "id": 80,
+      "nombre": "robot",
+      "cantidad": 1
+    },
+    {
+      "id": 1128,
+      "nombre": "VASH-ESTAMPIDA",
+      "cantidad": 1
+    },
+    {
+      "id": 1057,
+      "nombre": "PALADIN",
+      "cantidad": 1
+    },
+    {
+      "id": 877,
+      "nombre": "ENCHANTRESS",
+      "cantidad": 1
+    },
+    {
+      "id": 1297,
+      "nombre": "BUB-&-BOB",
+      "cantidad": 1
+    },
+    {
+      "id": 765,
+      "nombre": "Finster",
+      "cantidad": 1
+    },
+    {
+      "id": 1178,
+      "nombre": "ZATCH-BELL-&-K.TAKAMINE",
+      "cantidad": 1
+    },
+    {
+      "id": 855,
+      "nombre": "ALIEN-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 681,
+      "nombre": "DB-069",
       "cantidad": 1
     }
   ]

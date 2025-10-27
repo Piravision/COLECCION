@@ -404,7 +404,7 @@
     {
       "id": 156,
       "nombre": "Lord Camembert",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 542,
@@ -509,7 +509,7 @@
     {
       "id": 151,
       "nombre": "Vinnie Cooper",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 240,
@@ -1464,7 +1464,7 @@
     {
       "id": 147,
       "nombre": "Carbine",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 603,
@@ -4269,7 +4269,7 @@
     {
       "id": 1437,
       "nombre": "MONSTER SQUAD",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1432,
@@ -4319,7 +4319,7 @@
     {
       "id": 1031,
       "nombre": "BV- BRUJA ESCARLATA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1308,
@@ -4439,6 +4439,11 @@
     {
       "id": 1446,
       "nombre": "SALEMS LOT",
+      "cantidad": 1
+    },
+    {
+      "id": 1059,
+      "nombre": "PUNISHER",
       "cantidad": 1
     }
   ]

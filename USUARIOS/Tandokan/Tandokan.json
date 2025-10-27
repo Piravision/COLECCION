@@ -359,7 +359,7 @@
         {
             "id": 304,
             "nombre": "Runabout",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 545,
@@ -369,7 +369,7 @@
         {
             "id": 542,
             "nombre": "DIE-HARD",
-            "cantidad": 7
+            "cantidad": 8
         },
         {
             "id": 310,
@@ -759,7 +759,7 @@
         {
             "id": 492,
             "nombre": "toasty",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 236,
@@ -1529,7 +1529,7 @@
         {
             "id": 153,
             "nombre": "Fred _El Mutante_",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 280,
@@ -1844,7 +1844,7 @@
         {
             "id": 684,
             "nombre": "DB-072",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 513,
@@ -2719,7 +2719,7 @@
         {
             "id": 843,
             "nombre": "HONDA",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 408,
@@ -2734,7 +2734,7 @@
         {
             "id": 866,
             "nombre": "SNAKE-JAIL",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 908,
@@ -3079,7 +3079,7 @@
         {
             "id": 912,
             "nombre": "SINIESTRO",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 911,
@@ -4104,7 +4104,7 @@
         {
             "id": 1140,
             "nombre": "PANTERA-ROSA",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1102,
@@ -4514,7 +4514,7 @@
         {
             "id": 332,
             "nombre": "Mojo",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1062,
@@ -4714,7 +4714,7 @@
         {
             "id": 1237,
             "nombre": "1-WILL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1240,
@@ -6244,7 +6244,7 @@
         {
             "id": 898,
             "nombre": "1-VALKYRIE",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 804,
@@ -7014,7 +7014,7 @@
         {
             "id": 1408,
             "nombre": "CARRIE",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1445,
@@ -7039,7 +7039,7 @@
         {
             "id": 1439,
             "nombre": "MUÑECO DIABOLICO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1435,
@@ -7049,12 +7049,12 @@
         {
             "id": 1415,
             "nombre": "EL RESPLANDOR",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 1443,
             "nombre": "PHANTASM",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1430,
@@ -7064,7 +7064,7 @@
         {
             "id": 1450,
             "nombre": "TEEN WOLF",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1436,
@@ -7219,6 +7219,21 @@
         {
             "id": 1459,
             "nombre": "VIERNES 13",
+            "cantidad": 1
+        },
+        {
+            "id": 1453,
+            "nombre": "THE FOG",
+            "cantidad": 1
+        },
+        {
+            "id": 1455,
+            "nombre": "THE THING",
+            "cantidad": 1
+        },
+        {
+            "id": 1422,
+            "nombre": "GHOULIES",
             "cantidad": 1
         }
     ]
