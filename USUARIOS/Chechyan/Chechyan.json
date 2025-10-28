@@ -5799,7 +5799,7 @@
     {
       "id": 1440,
       "nombre": "NOCHE DE MIEDO",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1458,
@@ -5819,7 +5819,7 @@
     {
       "id": 1430,
       "nombre": "LA CRIATURA DEL PANTANO",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1419,
@@ -5934,7 +5934,7 @@
     {
       "id": 1442,
       "nombre": "PESADILLAS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1434,
@@ -6224,7 +6224,7 @@
     {
       "id": 1450,
       "nombre": "TEEN WOLF",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 895,
@@ -6299,7 +6299,7 @@
     {
       "id": 1425,
       "nombre": "HOMBRE LOBO AMERIANO EN LONDRES",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1453,
@@ -6354,6 +6354,11 @@
     {
       "id": 1443,
       "nombre": "PHANTASM",
+      "cantidad": 1
+    },
+    {
+      "id": 1427,
+      "nombre": "IT - PROMO",
       "cantidad": 1
     }
   ]

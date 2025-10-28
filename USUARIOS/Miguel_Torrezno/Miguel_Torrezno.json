@@ -54,7 +54,7 @@
         {
             "id": 117,
             "nombre": "He man",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 315,
@@ -4254,7 +4254,7 @@
         {
             "id": 1340,
             "nombre": "5D-BIRDRAMON",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1343,
@@ -5554,7 +5554,7 @@
         {
             "id": 1328,
             "nombre": "4A-MIMI",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 425,
@@ -5879,7 +5879,7 @@
         {
             "id": 1446,
             "nombre": "SALEMS LOT",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 286,
@@ -5959,7 +5959,7 @@
         {
             "id": 1441,
             "nombre": "PESADILLA EN EL ELM STREEET",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1408,
@@ -6049,7 +6049,7 @@
         {
             "id": 1403,
             "nombre": "AULLIDOS",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1417,
@@ -6209,7 +6209,7 @@
         {
             "id": 1424,
             "nombre": "HELLRAISER",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1453,
@@ -6229,7 +6229,7 @@
         {
             "id": 1409,
             "nombre": "CEMENTERIO DE MASCOTAS",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1451,
@@ -6289,6 +6289,11 @@
         {
             "id": 1405,
             "nombre": "BEETLEJUICE",
+            "cantidad": 1
+        },
+        {
+            "id": 1449,
+            "nombre": "SE LO QUE HICISTEIS",
             "cantidad": 1
         }
     ]

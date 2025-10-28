@@ -314,7 +314,7 @@
     {
       "id": 318,
       "nombre": "Morpho",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 433,
@@ -479,7 +479,7 @@
     {
       "id": 112,
       "nombre": "Mayor Bludd",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 835,
@@ -524,7 +524,7 @@
     {
       "id": 1247,
       "nombre": "LUZ-DE-LUNA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 827,
@@ -554,12 +554,12 @@
     {
       "id": 1403,
       "nombre": "AULLIDOS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1442,
       "nombre": "PESADILLAS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1421,
@@ -574,7 +574,7 @@
     {
       "id": 1448,
       "nombre": "SCREAM",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1356,
@@ -674,7 +674,7 @@
     {
       "id": 953,
       "nombre": "12-MARCO-&-AMELIO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 445,
@@ -704,7 +704,7 @@
     {
       "id": 1426,
       "nombre": "HOUSE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1423,
@@ -1234,7 +1234,7 @@
     {
       "id": 1432,
       "nombre": "LA NOVIA DE REANIMATOR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1417,
@@ -1244,7 +1244,7 @@
     {
       "id": 1402,
       "nombre": "ARMY OF DARKNESS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1429,
@@ -1359,7 +1359,7 @@
     {
       "id": 1430,
       "nombre": "LA CRIATURA DEL PANTANO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1028,
@@ -1459,7 +1459,7 @@
     {
       "id": 149,
       "nombre": "Modo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 471,
@@ -1484,7 +1484,7 @@
     {
       "id": 355,
       "nombre": "bayur",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 133,
@@ -1579,7 +1579,7 @@
     {
       "id": 1404,
       "nombre": "BEETLEJUICE - PROMO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 479,
@@ -1589,6 +1589,131 @@
     {
       "id": 521,
       "nombre": "León-O",
+      "cantidad": 1
+    },
+    {
+      "id": 980,
+      "nombre": "14-EARL-SINCLAIR",
+      "cantidad": 1
+    },
+    {
+      "id": 1065,
+      "nombre": "TH - LOKI-2",
+      "cantidad": 1
+    },
+    {
+      "id": 1059,
+      "nombre": "PUNISHER",
+      "cantidad": 1
+    },
+    {
+      "id": 1265,
+      "nombre": "BAYONETTA",
+      "cantidad": 1
+    },
+    {
+      "id": 609,
+      "nombre": "STEFAN-LEVI",
+      "cantidad": 1
+    },
+    {
+      "id": 197,
+      "nombre": "Rox",
+      "cantidad": 1
+    },
+    {
+      "id": 1020,
+      "nombre": "4F -ANTORCHA HUMANA",
+      "cantidad": 1
+    },
+    {
+      "id": 678,
+      "nombre": "DB-066",
+      "cantidad": 1
+    },
+    {
+      "id": 1031,
+      "nombre": "BV- BRUJA ESCARLATA",
+      "cantidad": 1
+    },
+    {
+      "id": 402,
+      "nombre": "hojo",
+      "cantidad": 1
+    },
+    {
+      "id": 1305,
+      "nombre": "1E-METAL-GREYMON",
+      "cantidad": 1
+    },
+    {
+      "id": 422,
+      "nombre": "meryl",
+      "cantidad": 1
+    },
+    {
+      "id": 1272,
+      "nombre": "FA-SUNSET-RIDERS",
+      "cantidad": 1
+    },
+    {
+      "id": 127,
+      "nombre": "Evil Lyn",
+      "cantidad": 1
+    },
+    {
+      "id": 1235,
+      "nombre": "0-LOS-VISITANTES",
+      "cantidad": 1
+    },
+    {
+      "id": 1295,
+      "nombre": "UN-CHAPUZAS-EN-CASA",
+      "cantidad": 1
+    },
+    {
+      "id": 332,
+      "nombre": "Mojo",
+      "cantidad": 1
+    },
+    {
+      "id": 134,
+      "nombre": "Tri Klops",
+      "cantidad": 1
+    },
+    {
+      "id": 1006,
+      "nombre": "REENA-&-GAUDY",
+      "cantidad": 1
+    },
+    {
+      "id": 58,
+      "nombre": "rey romos",
+      "cantidad": 1
+    },
+    {
+      "id": 320,
+      "nombre": "Psylocke",
+      "cantidad": 1
+    },
+    {
+      "id": 279,
+      "nombre": "Cuerpo Androide",
+      "cantidad": 1
+    },
+    {
+      "id": 874,
+      "nombre": "CAPTAIN-AMERICA",
+      "cantidad": 1
+    },
+    {
+      "id": 1440,
+      "nombre": "NOCHE DE MIEDO",
+      "cantidad": 1
+    },
+    {
+      "id": 1413,
+      "nombre": "DEMONS",
       "cantidad": 1
     }
   ]
