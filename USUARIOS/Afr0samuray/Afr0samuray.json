@@ -4539,7 +4539,7 @@
         {
             "id": 1449,
             "nombre": "SE LO QUE HICISTEIS",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 434,
@@ -6489,6 +6489,11 @@
         {
             "id": 287,
             "nombre": "Soldado del Pie",
+            "cantidad": 1
+        },
+        {
+            "id": 289,
+            "nombre": "Tokka",
             "cantidad": 1
         }
     ]
