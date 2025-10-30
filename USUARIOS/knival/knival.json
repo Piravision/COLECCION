@@ -929,12 +929,12 @@
     {
       "id": 1436,
       "nombre": "MATANZA DE TEXAS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1457,
       "nombre": "TOMATES ASESINOS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1414,
@@ -1054,6 +1054,26 @@
     {
       "id": 1412,
       "nombre": "DARMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1419,
+      "nombre": "EVIL DEAD II",
+      "cantidad": 1
+    },
+    {
+      "id": 1407,
+      "nombre": "CANDYMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1403,
+      "nombre": "AULLIDOS",
+      "cantidad": 1
+    },
+    {
+      "id": 1404,
+      "nombre": "BEETLEJUICE - PROMO",
       "cantidad": 1
     }
   ]

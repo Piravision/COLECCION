@@ -44,7 +44,7 @@
     {
       "id": 771,
       "nombre": "rita",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 218,
@@ -84,7 +84,7 @@
     {
       "id": 406,
       "nombre": "turcos",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1206,
@@ -389,7 +389,7 @@
     {
       "id": 1281,
       "nombre": "KOJI-&-MAZINGER-Z",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 730,
@@ -649,7 +649,7 @@
     {
       "id": 865,
       "nombre": "ROBOCOP-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 543,
@@ -919,7 +919,7 @@
     {
       "id": 1433,
       "nombre": "LOST BOYS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1409,
@@ -1719,7 +1719,7 @@
     {
       "id": 1240,
       "nombre": "CHEERS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 446,
@@ -2039,6 +2039,91 @@
     {
       "id": 98,
       "nombre": "David Xanatos",
+      "cantidad": 1
+    },
+    {
+      "id": 167,
+      "nombre": "Gwen Stacy",
+      "cantidad": 1
+    },
+    {
+      "id": 946,
+      "nombre": "SLOTH-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 982,
+      "nombre": "14-FRAN-SINCLAIR",
+      "cantidad": 1
+    },
+    {
+      "id": 590,
+      "nombre": "HERMANN-KALTZ",
+      "cantidad": 1
+    },
+    {
+      "id": 399,
+      "nombre": "cait",
+      "cantidad": 1
+    },
+    {
+      "id": 407,
+      "nombre": "yuffie",
+      "cantidad": 1
+    },
+    {
+      "id": 1053,
+      "nombre": "KANG",
+      "cantidad": 1
+    },
+    {
+      "id": 1219,
+      "nombre": "EARTHWORM-JIM",
+      "cantidad": 1
+    },
+    {
+      "id": 1392,
+      "nombre": "9-OTAMAMON",
+      "cantidad": 1
+    },
+    {
+      "id": 303,
+      "nombre": "Megatron",
+      "cantidad": 1
+    },
+    {
+      "id": 1266,
+      "nombre": "CHRONO",
+      "cantidad": 1
+    },
+    {
+      "id": 1228,
+      "nombre": "BEN-10",
+      "cantidad": 1
+    },
+    {
+      "id": 1013,
+      "nombre": "YAIBA-KUROGAME",
+      "cantidad": 1
+    },
+    {
+      "id": 1276,
+      "nombre": "RISTAR",
+      "cantidad": 1
+    },
+    {
+      "id": 294,
+      "nombre": "Hound",
+      "cantidad": 1
+    },
+    {
+      "id": 173,
+      "nombre": "Punisher",
+      "cantidad": 1
+    },
+    {
+      "id": 246,
+      "nombre": "Jaga",
       "cantidad": 1
     }
   ]

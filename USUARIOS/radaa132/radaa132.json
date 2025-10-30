@@ -334,7 +334,7 @@
     {
       "id": 593,
       "nombre": "JOHNNY-MASON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 740,
@@ -409,7 +409,7 @@
     {
       "id": 340,
       "nombre": "Poseidón",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 525,
@@ -784,7 +784,7 @@
     {
       "id": 846,
       "nombre": "ken2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 904,
@@ -1014,7 +1014,7 @@
     {
       "id": 113,
       "nombre": "Serpentor",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 551,
@@ -1099,7 +1099,7 @@
     {
       "id": 675,
       "nombre": "DB-063",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 807,
@@ -2144,7 +2144,7 @@
     {
       "id": 605,
       "nombre": "ROBERTO-SEDINHO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 191,
@@ -3834,7 +3834,7 @@
     {
       "id": 584,
       "nombre": "DEUTER-MULLER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1126,
@@ -4494,7 +4494,7 @@
     {
       "id": 879,
       "nombre": "GHOST-RIDER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 266,
@@ -5419,7 +5419,7 @@
     {
       "id": 1415,
       "nombre": "EL RESPLANDOR",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1418,
@@ -5429,7 +5429,7 @@
     {
       "id": 1453,
       "nombre": "THE FOG",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1404,
@@ -5469,7 +5469,7 @@
     {
       "id": 1411,
       "nombre": "CREEPSHOW",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 936,
@@ -5504,7 +5504,7 @@
     {
       "id": 1437,
       "nombre": "MONSTER SQUAD",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1459,
@@ -5629,7 +5629,7 @@
     {
       "id": 214,
       "nombre": "Brimstar",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1034,
@@ -5819,6 +5819,31 @@
     {
       "id": 312,
       "nombre": "Bestia",
+      "cantidad": 1
+    },
+    {
+      "id": 1077,
+      "nombre": "X -NIGHTCRAWLER",
+      "cantidad": 1
+    },
+    {
+      "id": 1214,
+      "nombre": "5-HAOHMARU",
+      "cantidad": 1
+    },
+    {
+      "id": 517,
+      "nombre": "Pirámide Negra",
+      "cantidad": 1
+    },
+    {
+      "id": 1425,
+      "nombre": "HOMBRE LOBO AMERIANO EN LONDRES",
+      "cantidad": 1
+    },
+    {
+      "id": 1410,
+      "nombre": "CREEPSHOW 2",
       "cantidad": 1
     }
   ]

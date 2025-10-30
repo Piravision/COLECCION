@@ -84,7 +84,7 @@
     {
       "id": 542,
       "nombre": "DIE-HARD",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 537,
@@ -159,7 +159,7 @@
     {
       "id": 1126,
       "nombre": "K.RYOTSU",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 571,
@@ -264,7 +264,7 @@
     {
       "id": 547,
       "nombre": "ROCKY",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 199,
@@ -734,7 +734,7 @@
     {
       "id": 630,
       "nombre": "DB-018",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 702,
@@ -784,7 +784,7 @@
     {
       "id": 349,
       "nombre": "melzas",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 353,
@@ -1054,7 +1054,7 @@
     {
       "id": 499,
       "nombre": "seed",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 510,
@@ -1089,7 +1089,7 @@
     {
       "id": 655,
       "nombre": "DB-043",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 663,
@@ -1159,7 +1159,7 @@
     {
       "id": 425,
       "nombre": "ocelot",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 72,
@@ -1279,7 +1279,7 @@
     {
       "id": 189,
       "nombre": "Shocker",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 171,
@@ -1319,7 +1319,7 @@
     {
       "id": 609,
       "nombre": "STEFAN-LEVI",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 605,
@@ -1479,7 +1479,7 @@
     {
       "id": 142,
       "nombre": "Tanya Vanderflock",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 257,
@@ -1999,7 +1999,7 @@
     {
       "id": 292,
       "nombre": "Bumblebee",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 308,
@@ -2014,7 +2014,7 @@
     {
       "id": 1039,
       "nombre": "DAREDEVIL-2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1073,
@@ -2239,7 +2239,7 @@
     {
       "id": 1066,
       "nombre": "TH - THOR-2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 852,
@@ -2289,7 +2289,7 @@
     {
       "id": 1106,
       "nombre": "G-JASON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1119,
@@ -2379,7 +2379,7 @@
     {
       "id": 572,
       "nombre": "Sgt.-SLAUGTHER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1012,
@@ -2644,7 +2644,7 @@
     {
       "id": 974,
       "nombre": "7-INSPECTOR-GADGET",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 392,
@@ -2744,7 +2744,7 @@
     {
       "id": 875,
       "nombre": "DARDEVIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 712,
@@ -2994,7 +2994,7 @@
     {
       "id": 1431,
       "nombre": "LA MOSCA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 719,
@@ -3249,7 +3249,7 @@
     {
       "id": 1029,
       "nombre": "BLACK-PHANTER-2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 342,
@@ -3274,7 +3274,7 @@
     {
       "id": 904,
       "nombre": "CLARK-KENT",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 317,
@@ -3404,7 +3404,7 @@
     {
       "id": 398,
       "nombre": "barret",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1290,
@@ -3419,7 +3419,7 @@
     {
       "id": 694,
       "nombre": "DB-082",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 30,
@@ -3629,6 +3629,96 @@
     {
       "id": 1418,
       "nombre": "ESTAN VIVOS",
+      "cantidad": 1
+    },
+    {
+      "id": 695,
+      "nombre": "DB-083",
+      "cantidad": 1
+    },
+    {
+      "id": 913,
+      "nombre": "SUPERGIRL",
+      "cantidad": 1
+    },
+    {
+      "id": 76,
+      "nombre": "masopho",
+      "cantidad": 1
+    },
+    {
+      "id": 1361,
+      "nombre": "7G-PATAMON-EVO",
+      "cantidad": 1
+    },
+    {
+      "id": 773,
+      "nombre": "Squatt",
+      "cantidad": 1
+    },
+    {
+      "id": 1370,
+      "nombre": "8G-GATOMON-EVO",
+      "cantidad": 1
+    },
+    {
+      "id": 1110,
+      "nombre": "G-ZOLTAR",
+      "cantidad": 1
+    },
+    {
+      "id": 614,
+      "nombre": "DB-002",
+      "cantidad": 2
+    },
+    {
+      "id": 980,
+      "nombre": "14-EARL-SINCLAIR",
+      "cantidad": 1
+    },
+    {
+      "id": 1352,
+      "nombre": "6G-TENTOMON-EVO",
+      "cantidad": 1
+    },
+    {
+      "id": 102,
+      "nombre": "General Hawk",
+      "cantidad": 1
+    },
+    {
+      "id": 553,
+      "nombre": "GOKU-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 61,
+      "nombre": "Borahorn",
+      "cantidad": 1
+    },
+    {
+      "id": 562,
+      "nombre": "PETER-GRIFFIN-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 693,
+      "nombre": "DB-081",
+      "cantidad": 1
+    },
+    {
+      "id": 651,
+      "nombre": "DB-039",
+      "cantidad": 1
+    },
+    {
+      "id": 1162,
+      "nombre": "GOLDENAGE-BATMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 837,
+      "nombre": "DALSHIM",
       "cantidad": 1
     }
   ]

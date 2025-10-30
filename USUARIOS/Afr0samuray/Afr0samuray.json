@@ -4909,7 +4909,7 @@
     {
       "id": 1424,
       "nombre": "HELLRAISER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1441,
@@ -4929,7 +4929,7 @@
     {
       "id": 1460,
       "nombre": "WISHMASTER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1298,
@@ -5169,7 +5169,7 @@
     {
       "id": 1410,
       "nombre": "CREEPSHOW 2",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1332,
@@ -5299,7 +5299,7 @@
     {
       "id": 1448,
       "nombre": "SCREAM",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 1438,
@@ -5724,7 +5724,7 @@
     {
       "id": 1452,
       "nombre": "THE BLOB",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 275,
@@ -6384,6 +6384,81 @@
     {
       "id": 790,
       "nombre": "ESPANTAPAJAROS",
+      "cantidad": 1
+    },
+    {
+      "id": 1198,
+      "nombre": "1Z-BOWSER",
+      "cantidad": 1
+    },
+    {
+      "id": 850,
+      "nombre": "T-HAWK",
+      "cantidad": 1
+    },
+    {
+      "id": 676,
+      "nombre": "DB-064",
+      "cantidad": 1
+    },
+    {
+      "id": 1283,
+      "nombre": "TAKUMI-FUJIWARA",
+      "cantidad": 1
+    },
+    {
+      "id": 857,
+      "nombre": "DOC-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 964,
+      "nombre": "3-TODD-&-SMILEY",
+      "cantidad": 1
+    },
+    {
+      "id": 875,
+      "nombre": "DARDEVIL",
+      "cantidad": 1
+    },
+    {
+      "id": 902,
+      "nombre": "AQUAMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1352,
+      "nombre": "6G-TENTOMON-EVO",
+      "cantidad": 1
+    },
+    {
+      "id": 862,
+      "nombre": "NEO-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 934,
+      "nombre": "SHAWN-MICHAELS",
+      "cantidad": 1
+    },
+    {
+      "id": 1033,
+      "nombre": "CABALLERO LUNA",
+      "cantidad": 1
+    },
+    {
+      "id": 805,
+      "nombre": "GORO",
+      "cantidad": 1
+    },
+    {
+      "id": 1140,
+      "nombre": "PANTERA-ROSA",
+      "cantidad": 1
+    },
+    {
+      "id": 1133,
+      "nombre": "AGALLAS",
       "cantidad": 1
     }
   ]
