@@ -84,7 +84,7 @@
     {
       "id": 289,
       "nombre": "Tokka",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 5,
@@ -274,7 +274,7 @@
     {
       "id": 445,
       "nombre": "claire",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 457,
@@ -389,7 +389,7 @@
     {
       "id": 480,
       "nombre": "Twinfeeler",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 116,
@@ -614,7 +614,7 @@
     {
       "id": 660,
       "nombre": "DB-048",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 670,
@@ -1044,7 +1044,7 @@
     {
       "id": 707,
       "nombre": "DB-095",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 11,
@@ -1069,7 +1069,7 @@
     {
       "id": 485,
       "nombre": "Dr_Shemp",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 866,
@@ -1229,7 +1229,7 @@
     {
       "id": 789,
       "nombre": "ENIGMA",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 67,
@@ -1784,7 +1784,7 @@
     {
       "id": 963,
       "nombre": "3-SRA.-HUDSON",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 855,
@@ -2049,7 +2049,7 @@
     {
       "id": 734,
       "nombre": "Afrodita-de-Piscis",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 368,
@@ -2319,7 +2319,7 @@
     {
       "id": 1115,
       "nombre": "PF-GARGAMEL-&-AZRAEL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 20,
@@ -3024,7 +3024,7 @@
     {
       "id": 1096,
       "nombre": "CZ-RAY-STANTZ",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 442,
@@ -3634,7 +3634,7 @@
     {
       "id": 761,
       "nombre": "alpha5",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 468,
@@ -4354,7 +4354,7 @@
     {
       "id": 1349,
       "nombre": "6D-KABUTERIMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 915,
@@ -4434,7 +4434,7 @@
     {
       "id": 259,
       "nombre": "Ojo Rojo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1046,
@@ -4894,7 +4894,7 @@
     {
       "id": 1100,
       "nombre": "D-GOSALYN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 220,
@@ -4979,7 +4979,7 @@
     {
       "id": 1322,
       "nombre": "3D-GARURUMON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1179,
@@ -5264,7 +5264,7 @@
     {
       "id": 460,
       "nombre": "miura",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 432,
@@ -5284,7 +5284,7 @@
     {
       "id": 1085,
       "nombre": "YV-YELLOWJACKET",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1109,
@@ -5484,7 +5484,7 @@
     {
       "id": 1065,
       "nombre": "TH - LOKI-2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1317,
@@ -5564,12 +5564,12 @@
     {
       "id": 1359,
       "nombre": "7E-MAGNA-ANGEMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1412,
       "nombre": "DARMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1448,
@@ -5579,7 +5579,7 @@
     {
       "id": 1455,
       "nombre": "THE THING",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1436,
@@ -5639,7 +5639,7 @@
     {
       "id": 1265,
       "nombre": "BAYONETTA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1104,
@@ -5654,7 +5654,7 @@
     {
       "id": 1414,
       "nombre": "EL REGRESO DE LOS MUERTOS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1440,
@@ -5854,6 +5854,66 @@
     {
       "id": 581,
       "nombre": "CLIFFORD-YUMA",
+      "cantidad": 1
+    },
+    {
+      "id": 1073,
+      "nombre": "X - CYCLOPS",
+      "cantidad": 1
+    },
+    {
+      "id": 181,
+      "nombre": "Hydro man",
+      "cantidad": 1
+    },
+    {
+      "id": 144,
+      "nombre": "Grin-Hardwing",
+      "cantidad": 1
+    },
+    {
+      "id": 1210,
+      "nombre": "4-FINAL-FIGHT",
+      "cantidad": 1
+    },
+    {
+      "id": 955,
+      "nombre": "2-CHOP",
+      "cantidad": 1
+    },
+    {
+      "id": 88,
+      "nombre": "Zackary Foxx",
+      "cantidad": 1
+    },
+    {
+      "id": 881,
+      "nombre": "HAWKEYE",
+      "cantidad": 1
+    },
+    {
+      "id": 630,
+      "nombre": "DB-018",
+      "cantidad": 1
+    },
+    {
+      "id": 245,
+      "nombre": "Felino",
+      "cantidad": 1
+    },
+    {
+      "id": 1408,
+      "nombre": "CARRIE",
+      "cantidad": 1
+    },
+    {
+      "id": 1457,
+      "nombre": "TOMATES ASESINOS",
+      "cantidad": 1
+    },
+    {
+      "id": 1423,
+      "nombre": "HALLOWEEN",
       "cantidad": 1
     }
   ]

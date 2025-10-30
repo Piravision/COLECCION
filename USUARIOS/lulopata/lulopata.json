@@ -179,7 +179,7 @@
     {
       "id": 218,
       "nombre": "Cybertron",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 226,
@@ -404,7 +404,7 @@
     {
       "id": 158,
       "nombre": "Copper Kid",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 802,
@@ -424,7 +424,7 @@
     {
       "id": 461,
       "nombre": "Stalone-RamboIII",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 310,
@@ -1789,7 +1789,7 @@
     {
       "id": 488,
       "nombre": "metalhead",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 492,
@@ -3104,7 +3104,7 @@
     {
       "id": 1303,
       "nombre": "1C-AGUMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 811,
@@ -3129,7 +3129,7 @@
     {
       "id": 804,
       "nombre": "BARAKA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 407,
@@ -3229,7 +3229,7 @@
     {
       "id": 1410,
       "nombre": "CREEPSHOW 2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1377,
@@ -3749,7 +3749,7 @@
     {
       "id": 1408,
       "nombre": "CARRIE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 235,
@@ -3794,6 +3794,41 @@
     {
       "id": 966,
       "nombre": "4-ROMY",
+      "cantidad": 1
+    },
+    {
+      "id": 1416,
+      "nombre": "EL TERROR LLAMA A SU PUERTA",
+      "cantidad": 1
+    },
+    {
+      "id": 1348,
+      "nombre": "6C-TENTOMON",
+      "cantidad": 1
+    },
+    {
+      "id": 958,
+      "nombre": "2-ZIPPER",
+      "cantidad": 1
+    },
+    {
+      "id": 1345,
+      "nombre": "5I-SORA-FOIL",
+      "cantidad": 1
+    },
+    {
+      "id": 74,
+      "nombre": "larhart",
+      "cantidad": 1
+    },
+    {
+      "id": 910,
+      "nombre": "LOIS-LANE",
+      "cantidad": 1
+    },
+    {
+      "id": 1434,
+      "nombre": "MANIAC COP",
       "cantidad": 1
     }
   ]

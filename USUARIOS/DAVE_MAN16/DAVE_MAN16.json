@@ -99,7 +99,7 @@
     {
       "id": 164,
       "nombre": "Black Cat",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 52,
@@ -2094,7 +2094,7 @@
     {
       "id": 937,
       "nombre": "TRIPLE-H",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 548,
@@ -4179,7 +4179,7 @@
     {
       "id": 1442,
       "nombre": "PESADILLAS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1413,
@@ -4249,7 +4249,7 @@
     {
       "id": 1452,
       "nombre": "THE BLOB",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1429,
@@ -4259,7 +4259,7 @@
     {
       "id": 1435,
       "nombre": "MARS ATTACKS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1423,
@@ -4499,6 +4499,11 @@
     {
       "id": 795,
       "nombre": "JOKER",
+      "cantidad": 1
+    },
+    {
+      "id": 1448,
+      "nombre": "SCREAM",
       "cantidad": 1
     }
   ]
