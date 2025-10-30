@@ -5799,7 +5799,7 @@
         {
             "id": 1440,
             "nombre": "NOCHE DE MIEDO",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 1458,
@@ -6379,6 +6379,11 @@
         {
             "id": 1410,
             "nombre": "CREEPSHOW 2",
+            "cantidad": 1
+        },
+        {
+            "id": 1439,
+            "nombre": "MUÑECO DIABOLICO",
             "cantidad": 1
         }
     ]
