@@ -899,7 +899,7 @@
         {
             "id": 1419,
             "nombre": "EVIL DEAD II",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1449,
@@ -2179,6 +2179,11 @@
         {
             "id": 858,
             "nombre": "FREDDY-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 946,
+            "nombre": "SLOTH-JAIL",
             "cantidad": 1
         }
     ]
