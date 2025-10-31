@@ -179,7 +179,7 @@
         {
             "id": 769,
             "nombre": "Pink",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1298,
@@ -744,6 +744,11 @@
         {
             "id": 624,
             "nombre": "DB-012",
+            "cantidad": 1
+        },
+        {
+            "id": 930,
+            "nombre": "MANKIND",
             "cantidad": 1
         }
     ]

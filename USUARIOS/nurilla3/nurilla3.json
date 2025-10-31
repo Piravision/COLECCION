@@ -1374,7 +1374,7 @@
         {
             "id": 930,
             "nombre": "MANKIND",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 741,
@@ -2164,6 +2164,11 @@
         {
             "id": 1186,
             "nombre": "KENSHIRO",
+            "cantidad": 1
+        },
+        {
+            "id": 769,
+            "nombre": "Pink",
             "cantidad": 1
         }
     ]
