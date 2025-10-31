@@ -1059,7 +1059,7 @@
     {
       "id": 831,
       "nombre": "BISON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1,
@@ -1404,7 +1404,7 @@
     {
       "id": 254,
       "nombre": "Chacalo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 288,
@@ -1884,7 +1884,7 @@
     {
       "id": 845,
       "nombre": "KEN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 841,
@@ -2209,7 +2209,7 @@
     {
       "id": 1462,
       "nombre": "PROMO-DRACULA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1465,
@@ -2224,7 +2224,7 @@
     {
       "id": 1463,
       "nombre": "PROMO-FANTASMA OPERA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1459,
@@ -2314,6 +2314,81 @@
     {
       "id": 90,
       "nombre": "Broadway",
+      "cantidad": 1
+    },
+    {
+      "id": 1461,
+      "nombre": "PROMO-BLACK LAGOON MONSTER",
+      "cantidad": 1
+    },
+    {
+      "id": 639,
+      "nombre": "DB-027",
+      "cantidad": 1
+    },
+    {
+      "id": 619,
+      "nombre": "DB-007",
+      "cantidad": 1
+    },
+    {
+      "id": 688,
+      "nombre": "DB-076",
+      "cantidad": 1
+    },
+    {
+      "id": 243,
+      "nombre": "Cheetara",
+      "cantidad": 1
+    },
+    {
+      "id": 257,
+      "nombre": "Mumm Ra",
+      "cantidad": 1
+    },
+    {
+      "id": 846,
+      "nombre": "ken2",
+      "cantidad": 1
+    },
+    {
+      "id": 1255,
+      "nombre": "STARGATE-SG-1",
+      "cantidad": 1
+    },
+    {
+      "id": 1005,
+      "nombre": "RANMA-1_2",
+      "cantidad": 1
+    },
+    {
+      "id": 209,
+      "nombre": "Sovereign Rock Castle",
+      "cantidad": 1
+    },
+    {
+      "id": 248,
+      "nombre": "Panthro",
+      "cantidad": 1
+    },
+    {
+      "id": 9,
+      "nombre": "Rhadamanthys",
+      "cantidad": 1
+    },
+    {
+      "id": 807,
+      "nombre": "JAX",
+      "cantidad": 1
+    },
+    {
+      "id": 813,
+      "nombre": "LIU-KANG",
+      "cantidad": 1
+    },
+    {
+      "id": 809,
+      "nombre": "KABAL",
       "cantidad": 1
     }
   ]
