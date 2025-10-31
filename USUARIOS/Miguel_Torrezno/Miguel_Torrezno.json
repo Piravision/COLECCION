@@ -6364,17 +6364,17 @@
     {
       "id": 1462,
       "nombre": "PROMO-DRACULA",
-      "cantidad": 2
+      "cantidad": 4
     },
     {
       "id": 1461,
       "nombre": "PROMO-BLACK LAGOON MONSTER",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 1467,
       "nombre": "PROMO-NOVIA DE FRANKESTEIN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1434,
@@ -6384,11 +6384,46 @@
     {
       "id": 1463,
       "nombre": "PROMO-FANTASMA OPERA",
-      "cantidad": 1
+      "cantidad": 5
     },
     {
       "id": 1466,
       "nombre": "PROMO-HOMBRE LOBO",
+      "cantidad": 2
+    },
+    {
+      "id": 1465,
+      "nombre": "PROMO-HOMBRE INVISIBLE",
+      "cantidad": 1
+    },
+    {
+      "id": 1038,
+      "nombre": "CAPITANA MARVEL",
+      "cantidad": 1
+    },
+    {
+      "id": 910,
+      "nombre": "LOIS-LANE",
+      "cantidad": 1
+    },
+    {
+      "id": 952,
+      "nombre": "11-HEIDI-&-MARCO",
+      "cantidad": 1
+    },
+    {
+      "id": 879,
+      "nombre": "GHOST-RIDER",
+      "cantidad": 1
+    },
+    {
+      "id": 841,
+      "nombre": "GUILE",
+      "cantidad": 1
+    },
+    {
+      "id": 1468,
+      "nombre": "PROMO-THE MUMMY",
       "cantidad": 1
     }
   ]

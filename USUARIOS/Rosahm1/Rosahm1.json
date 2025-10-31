@@ -7304,22 +7304,22 @@
     {
       "id": 1467,
       "nombre": "PROMO-NOVIA DE FRANKESTEIN",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1466,
       "nombre": "PROMO-HOMBRE LOBO",
-      "cantidad": 3
+      "cantidad": 5
     },
     {
       "id": 1461,
       "nombre": "PROMO-BLACK LAGOON MONSTER",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1464,
       "nombre": "PROMO-FRANKESTEIN",
-      "cantidad": 2
+      "cantidad": 4
     },
     {
       "id": 1462,
@@ -7334,7 +7334,12 @@
     {
       "id": 1468,
       "nombre": "PROMO-THE MUMMY",
-      "cantidad": 3
+      "cantidad": 4
+    },
+    {
+      "id": 1463,
+      "nombre": "PROMO-FANTASMA OPERA",
+      "cantidad": 2
     }
   ]
 }

@@ -1344,7 +1344,7 @@
     {
       "id": 606,
       "nombre": "SANDY-WINTERS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1418,
@@ -2014,7 +2014,7 @@
     {
       "id": 611,
       "nombre": "TERRY-DENTON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1435,
@@ -2204,17 +2204,17 @@
     {
       "id": 1467,
       "nombre": "PROMO-NOVIA DE FRANKESTEIN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1462,
       "nombre": "PROMO-DRACULA",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1465,
       "nombre": "PROMO-HOMBRE INVISIBLE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1468,
@@ -2224,7 +2224,7 @@
     {
       "id": 1463,
       "nombre": "PROMO-FANTASMA OPERA",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1459,
@@ -2319,7 +2319,7 @@
     {
       "id": 1461,
       "nombre": "PROMO-BLACK LAGOON MONSTER",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 639,
@@ -2389,6 +2389,41 @@
     {
       "id": 809,
       "nombre": "KABAL",
+      "cantidad": 1
+    },
+    {
+      "id": 609,
+      "nombre": "STEFAN-LEVI",
+      "cantidad": 1
+    },
+    {
+      "id": 594,
+      "nombre": "JUAN-DIAZ",
+      "cantidad": 1
+    },
+    {
+      "id": 144,
+      "nombre": "Grin-Hardwing",
+      "cantidad": 1
+    },
+    {
+      "id": 143,
+      "nombre": "Wildwing Flashblade",
+      "cantidad": 1
+    },
+    {
+      "id": 145,
+      "nombre": "Lord Dragaunus",
+      "cantidad": 1
+    },
+    {
+      "id": 583,
+      "nombre": "DANNY-MELOW",
+      "cantidad": 1
+    },
+    {
+      "id": 585,
+      "nombre": "DINO-HERNANDEZ",
       "cantidad": 1
     }
   ]
