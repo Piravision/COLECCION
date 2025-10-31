@@ -516,7 +516,96 @@
 		transform: scale(1.05);
 		box-shadow: 0 0 15px #ffeb3b;
 	}
-	
+	/* --- INICIO: ESTILOS PARA LA SECCIÓN DE SOBRES --- */
+
+	.info-sobres {
+		background: rgba(255, 255, 255, 0.07);
+		border-radius: 10px;
+		padding: 20px 30px;
+		margin-bottom: 30px;
+		text-align: center;
+	}
+
+	.info-sobres h2 {
+		color: #ff9900;
+		border-bottom: 2px solid #ff9900;
+		padding-bottom: 10px;
+		margin-bottom: 20px;
+		font-size: 1.8rem;
+	}
+
+	.info-sobres .intro-text {
+		color: #f4f4f4;
+		font-size: 1.1em;
+		line-height: 1.6;
+		max-width: 800px;
+		margin: 0 auto 30px auto;
+	}
+
+	.sobres-grid {
+		display: flex;
+		justify-content: space-around;
+		align-items: stretch; /* Asegura que las cards tengan la misma altura */
+		flex-wrap: wrap;
+		gap: 25px;
+	}
+
+	.sobre-card {
+		flex: 1;
+		min-width: 280px;
+		max-width: 320px;
+		background-color: #222;
+		border-radius: 8px;
+		padding: 20px;
+		border: 1px solid #444;
+		box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+		display: flex;
+		flex-direction: column;
+	}
+
+	.sobre-card img {
+		max-width: 100%;
+		height: auto;
+		border-radius: 5px;
+		margin-bottom: 15px;
+	}
+
+	.sobre-card h3 {
+		color: #ff9900;
+		margin-top: 0;
+		margin-bottom: 15px;
+		font-size: 1.6rem;
+	}
+
+	.sobre-card p {
+		color: #ccc;
+		font-size: 0.95em;
+		line-height: 1.6;
+		flex-grow: 1; /* Permite que el párrafo ocupe el espacio disponible */
+	}
+
+	.sobre-card .canjeo {
+		margin-top: 20px;
+		font-size: 1em;
+	}
+
+	.sobre-card code {
+		background-color: #111;
+		padding: 4px 8px;
+		border-radius: 4px;
+		border: 1px solid #444;
+		color: #ff9900;
+		font-weight: bold;
+	}
+
+	.info-sobres .outro-text {
+		margin-top: 30px;
+		font-size: 1.2em;
+		font-weight: bold;
+		color: #f4f4f4;
+	}
+
+	/* --- FIN: ESTILOS PARA LA SECCIÓN DE SOBRES --- */
 	
 	
 	
@@ -555,6 +644,54 @@
         <div class="search-logo-container">
             <img src="https://piravision.github.io/COLECCION/logo.png" alt="Colección de Cromos" class="search-logo">
         </div>
+		<div class="info-sobres">
+			<h2>🃏🔥 PIRAVISION HERO WARS! 🔥🃏</h2>
+			<p class="intro-text">
+				¡La colección de cromos que está arrasando en el canal! Colecciona a tus personajes favoritos, completa las series más épicas e intercambia con la comunidad para conseguir ese cromo que te falta. <strong>En esta página encontrarás la guía completa con todos los cromos de la colección.</strong>
+			</p>
+			<div class="sobres-grid">
+				
+				<div class="sobre-card">
+					<img src="/COLECCION/botones/sobre-normal.png" alt="Sobre Normal">
+					<h3>Sobre Normal</h3>
+					<p>
+						Contiene <strong>3 cromos</strong> completamente al azar. ¡Perfecto para empezar tu colección y sentir la emoción de no saber qué te tocará! ✨
+					</p>
+					<p class="canjeo">
+						<strong>500 Piracoins</strong><br>
+						<code>!abrirsobre</code>
+					</p>
+				</div>
+
+				<div class="sobre-card">
+					<img src="/COLECCION/botones/super-sobre.png" alt="Super Sobre">
+					<h3>Super Sobre</h3>
+					<p>
+						Contiene <strong>3 cromos</strong>, pero todos pertenecen a una misma serie elegida al azar. ¡Ideal para cazar esos personajes que se te resisten de un mismo universo! 🎯
+					</p>
+					<p class="canjeo">
+						<strong>1.000 Piracoins</strong><br>
+						<code>!abrirsupersobre</code>
+					</p>
+				</div>
+
+				<div class="sobre-card">
+					<img src="/COLECCION/botones/mega-sobre.png" alt="Mega Sobre">
+					<h3>Mega Sobre</h3>
+					<p>
+						El sobre definitivo para los coleccionistas más exigentes. Contiene <strong>5 CROMOS</strong> que te garantizamos que <strong>NO tienes</strong> en tu colección. ¡Cero repetidos! 👑
+					</p>
+					<p class="canjeo">
+						<strong>10.000 Piracoins</strong><br>
+						<code>!abrirmegasobre</code>
+					</p>
+				</div>
+
+			</div>
+			<p class="outro-text">
+				¡Gana Piracoins viendo el stream, participando en el chat y apoyando al canal! ¡Que comience la caza! 🏆
+			</p>
+		</div>
 	
 	<div class="container">
 
@@ -594,14 +731,14 @@
 		
         <div class="content">
             <div class="section-title-1">
-                <h2>Colección de Cromos de Colección Completa</h2>
+                <h2>GUIA DE CROMOS</h2>
                 <span>Cartas obtenidas: 1468 / 1468</span>
             </div>
             
             <div class="details">
                 <div class="info">
                     <div class="summary-grid-container">
-    <h2>Resumen por Serie</h2>
+    <h2>SERIES</h2>
 					<div class="summary-grid">
 						
 							<div class="summary-button" onclick="mostrarCartas('BraveStarr')">
