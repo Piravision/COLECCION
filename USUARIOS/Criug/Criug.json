@@ -7314,11 +7314,21 @@
     {
       "id": 1463,
       "nombre": "PROMO-FANTASMA OPERA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1465,
       "nombre": "PROMO-HOMBRE INVISIBLE",
+      "cantidad": 1
+    },
+    {
+      "id": 1462,
+      "nombre": "PROMO-DRACULA",
+      "cantidad": 1
+    },
+    {
+      "id": 1468,
+      "nombre": "PROMO-THE MUMMY",
       "cantidad": 1
     }
   ]
