@@ -124,7 +124,7 @@
         {
             "id": 624,
             "nombre": "DB-012",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 785,
@@ -1374,7 +1374,7 @@
         {
             "id": 930,
             "nombre": "MANKIND",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 741,
@@ -2124,6 +2124,46 @@
         {
             "id": 1007,
             "nombre": "SAILOR-MOON",
+            "cantidad": 1
+        },
+        {
+            "id": 931,
+            "nombre": "RANDY-ORTON",
+            "cantidad": 1
+        },
+        {
+            "id": 933,
+            "nombre": "REY-MISTERIO",
+            "cantidad": 1
+        },
+        {
+            "id": 648,
+            "nombre": "DB-036",
+            "cantidad": 1
+        },
+        {
+            "id": 36,
+            "nombre": "baduck",
+            "cantidad": 1
+        },
+        {
+            "id": 268,
+            "nombre": "Michelangelo",
+            "cantidad": 1
+        },
+        {
+            "id": 109,
+            "nombre": "Cobra Commander",
+            "cantidad": 1
+        },
+        {
+            "id": 610,
+            "nombre": "TED-CARTER",
+            "cantidad": 1
+        },
+        {
+            "id": 1186,
+            "nombre": "KENSHIRO",
             "cantidad": 1
         }
     ]
