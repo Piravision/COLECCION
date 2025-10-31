@@ -2094,7 +2094,7 @@
         {
             "id": 1466,
             "nombre": "PROMO-HOMBRE LOBO",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1468,
@@ -2119,6 +2119,11 @@
         {
             "id": 1465,
             "nombre": "PROMO-HOMBRE INVISIBLE",
+            "cantidad": 1
+        },
+        {
+            "id": 1007,
+            "nombre": "SAILOR-MOON",
             "cantidad": 1
         }
     ]

@@ -7299,7 +7299,7 @@
     {
       "id": 1462,
       "nombre": "PROMO-DRACULA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1468,
@@ -7309,7 +7309,27 @@
     {
       "id": 1465,
       "nombre": "PROMO-HOMBRE INVISIBLE",
-      "cantidad": 2
+      "cantidad": 3
+    },
+    {
+      "id": 1467,
+      "nombre": "PROMO-NOVIA DE FRANKESTEIN",
+      "cantidad": 1
+    },
+    {
+      "id": 1466,
+      "nombre": "PROMO-HOMBRE LOBO",
+      "cantidad": 1
+    },
+    {
+      "id": 1463,
+      "nombre": "PROMO-FANTASMA OPERA",
+      "cantidad": 1
+    },
+    {
+      "id": 1461,
+      "nombre": "PROMO-BLACK LAGOON MONSTER",
+      "cantidad": 1
     }
   ]
 }
