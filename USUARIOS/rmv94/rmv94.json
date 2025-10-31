@@ -929,11 +929,21 @@
     {
       "id": 1464,
       "nombre": "PROMO-FRANKESTEIN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1467,
       "nombre": "PROMO-NOVIA DE FRANKESTEIN",
+      "cantidad": 1
+    },
+    {
+      "id": 1462,
+      "nombre": "PROMO-DRACULA",
+      "cantidad": 1
+    },
+    {
+      "id": 1465,
+      "nombre": "PROMO-HOMBRE INVISIBLE",
       "cantidad": 1
     }
   ]
