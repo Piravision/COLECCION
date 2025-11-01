@@ -629,7 +629,7 @@
     {
       "id": 455,
       "nombre": "batsu",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 464,
@@ -1304,7 +1304,7 @@
     {
       "id": 460,
       "nombre": "miura",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 463,
@@ -1944,7 +1944,7 @@
     {
       "id": 128,
       "nombre": "Faker",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 155,
@@ -2114,7 +2114,7 @@
     {
       "id": 458,
       "nombre": "hinata",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 26,
@@ -2239,7 +2239,7 @@
     {
       "id": 1066,
       "nombre": "TH - THOR-2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 852,
@@ -2464,7 +2464,7 @@
     {
       "id": 125,
       "nombre": "Teela",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 354,
@@ -2504,7 +2504,7 @@
     {
       "id": 119,
       "nombre": "orko",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 415,
@@ -2524,7 +2524,7 @@
     {
       "id": 1044,
       "nombre": "HAVOK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1221,
@@ -3879,6 +3879,11 @@
     {
       "id": 504,
       "nombre": "HEICHAI",
+      "cantidad": 1
+    },
+    {
+      "id": 1063,
+      "nombre": "SP- SPIDERMAN-BLACK",
       "cantidad": 1
     }
   ]
