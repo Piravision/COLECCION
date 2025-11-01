@@ -2214,12 +2214,12 @@
     {
       "id": 1465,
       "nombre": "PROMO-HOMBRE INVISIBLE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1468,
       "nombre": "PROMO-THE MUMMY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1463,
@@ -2424,6 +2424,26 @@
     {
       "id": 585,
       "nombre": "DINO-HERNANDEZ",
+      "cantidad": 1
+    },
+    {
+      "id": 814,
+      "nombre": "MILENNA",
+      "cantidad": 1
+    },
+    {
+      "id": 824,
+      "nombre": "SINDEL",
+      "cantidad": 1
+    },
+    {
+      "id": 817,
+      "nombre": "RAIDEN",
+      "cantidad": 1
+    },
+    {
+      "id": 1466,
+      "nombre": "PROMO-HOMBRE LOBO",
       "cantidad": 1
     }
   ]

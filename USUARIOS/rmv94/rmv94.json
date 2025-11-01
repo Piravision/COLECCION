@@ -929,12 +929,12 @@
     {
       "id": 1464,
       "nombre": "PROMO-FRANKESTEIN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1467,
       "nombre": "PROMO-NOVIA DE FRANKESTEIN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1462,
@@ -1009,6 +1009,26 @@
     {
       "id": 430,
       "nombre": "sniper2",
+      "cantidad": 1
+    },
+    {
+      "id": 1461,
+      "nombre": "PROMO-BLACK LAGOON MONSTER",
+      "cantidad": 1
+    },
+    {
+      "id": 359,
+      "nombre": "long",
+      "cantidad": 1
+    },
+    {
+      "id": 360,
+      "nombre": "stung",
+      "cantidad": 1
+    },
+    {
+      "id": 356,
+      "nombre": "busuzima",
       "cantidad": 1
     }
   ]
