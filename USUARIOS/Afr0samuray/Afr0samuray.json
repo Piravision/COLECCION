@@ -4644,7 +4644,7 @@
         {
             "id": 1159,
             "nombre": "GOLDENAGE- FLASH",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1423,
@@ -6704,6 +6704,11 @@
         {
             "id": 1155,
             "nombre": "DETECTIVE MARCIANO",
+            "cantidad": 1
+        },
+        {
+            "id": 1158,
+            "nombre": "FLASH",
             "cantidad": 1
         }
     ]
