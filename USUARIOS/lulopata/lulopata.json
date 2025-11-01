@@ -829,7 +829,7 @@
     {
       "id": 446,
       "nombre": "CUERVOS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 914,
@@ -2799,7 +2799,7 @@
     {
       "id": 453,
       "nombre": "tyrant",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 830,
@@ -3834,7 +3834,7 @@
     {
       "id": 1462,
       "nombre": "PROMO-DRACULA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1463,
@@ -3844,17 +3844,17 @@
     {
       "id": 1461,
       "nombre": "PROMO-BLACK LAGOON MONSTER",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1465,
       "nombre": "PROMO-HOMBRE INVISIBLE",
-      "cantidad": 4
+      "cantidad": 6
     },
     {
       "id": 1467,
       "nombre": "PROMO-NOVIA DE FRANKESTEIN",
-      "cantidad": 2
+      "cantidad": 4
     },
     {
       "id": 1468,
@@ -3869,6 +3869,11 @@
     {
       "id": 1466,
       "nombre": "PROMO-HOMBRE LOBO",
+      "cantidad": 1
+    },
+    {
+      "id": 449,
+      "nombre": "leon2",
       "cantidad": 1
     }
   ]
