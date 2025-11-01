@@ -964,7 +964,7 @@
     {
       "id": 1417,
       "nombre": "ELVIRA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1459,
@@ -994,7 +994,7 @@
     {
       "id": 1442,
       "nombre": "PESADILLAS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1456,
@@ -1139,6 +1139,21 @@
     {
       "id": 1463,
       "nombre": "PROMO-FANTASMA OPERA",
+      "cantidad": 1
+    },
+    {
+      "id": 1409,
+      "nombre": "CEMENTERIO DE MASCOTAS",
+      "cantidad": 1
+    },
+    {
+      "id": 1445,
+      "nombre": "RE-ANIMATOR",
+      "cantidad": 2
+    },
+    {
+      "id": 1425,
+      "nombre": "HOMBRE LOBO AMERIANO EN LONDRES",
       "cantidad": 1
     }
   ]

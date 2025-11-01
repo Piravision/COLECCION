@@ -6539,7 +6539,7 @@
         {
             "id": 1464,
             "nombre": "PROMO-FRANKESTEIN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1466,
@@ -6709,6 +6709,61 @@
         {
             "id": 1158,
             "nombre": "FLASH",
+            "cantidad": 1
+        },
+        {
+            "id": 1064,
+            "nombre": "SP- VENOM-2",
+            "cantidad": 1
+        },
+        {
+            "id": 555,
+            "nombre": "INDIANA-JONES-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 846,
+            "nombre": "ken2",
+            "cantidad": 1
+        },
+        {
+            "id": 1067,
+            "nombre": "THUNDERBIRD",
+            "cantidad": 1
+        },
+        {
+            "id": 1061,
+            "nombre": "SHANG-CHI",
+            "cantidad": 1
+        },
+        {
+            "id": 1137,
+            "nombre": "LOS-PICAPIEDRA",
+            "cantidad": 1
+        },
+        {
+            "id": 999,
+            "nombre": "LUFFY-MONKEY",
+            "cantidad": 1
+        },
+        {
+            "id": 1270,
+            "nombre": "FA-MONKEY-ISLAND",
+            "cantidad": 1
+        },
+        {
+            "id": 1269,
+            "nombre": "FA-KINGDOM-HEARTS",
+            "cantidad": 1
+        },
+        {
+            "id": 1196,
+            "nombre": "1-YOSHI",
+            "cantidad": 1
+        },
+        {
+            "id": 204,
+            "nombre": "SharkBot",
             "cantidad": 1
         }
     ]
