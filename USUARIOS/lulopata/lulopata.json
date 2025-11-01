@@ -2124,7 +2124,7 @@
     {
       "id": 1407,
       "nombre": "CANDYMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 843,
@@ -2414,7 +2414,7 @@
     {
       "id": 1444,
       "nombre": "POLTERGEIST",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1447,
@@ -3894,6 +3894,26 @@
     {
       "id": 566,
       "nombre": "BIG-BOSSMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 680,
+      "nombre": "DB-068",
+      "cantidad": 1
+    },
+    {
+      "id": 676,
+      "nombre": "DB-064",
+      "cantidad": 1
+    },
+    {
+      "id": 717,
+      "nombre": "DB-105",
+      "cantidad": 1
+    },
+    {
+      "id": 1439,
+      "nombre": "MUÑECO DIABOLICO",
       "cantidad": 1
     }
   ]

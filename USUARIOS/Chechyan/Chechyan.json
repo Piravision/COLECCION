@@ -5864,7 +5864,7 @@
     {
       "id": 1447,
       "nombre": "SAW",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1416,
@@ -5879,7 +5879,7 @@
     {
       "id": 1433,
       "nombre": "LOST BOYS",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1411,
@@ -5894,7 +5894,7 @@
     {
       "id": 1451,
       "nombre": "TEMBLORES",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1407,
@@ -6049,7 +6049,7 @@
     {
       "id": 1423,
       "nombre": "HALLOWEEN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 22,
@@ -6214,7 +6214,7 @@
     {
       "id": 1431,
       "nombre": "LA MOSCA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1418,
@@ -6454,6 +6454,11 @@
     {
       "id": 1465,
       "nombre": "PROMO-HOMBRE INVISIBLE",
+      "cantidad": 1
+    },
+    {
+      "id": 1432,
+      "nombre": "LA NOVIA DE REANIMATOR",
       "cantidad": 1
     }
   ]
