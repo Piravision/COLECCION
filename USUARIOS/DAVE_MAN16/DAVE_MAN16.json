@@ -4184,12 +4184,12 @@
     {
       "id": 1413,
       "nombre": "DEMONS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1454,
       "nombre": "THE OMEN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1431,
@@ -4244,7 +4244,7 @@
     {
       "id": 1438,
       "nombre": "MUÑECO DIABOLICO ii",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1452,
@@ -4254,7 +4254,7 @@
     {
       "id": 1429,
       "nombre": "KILLER KLOWS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1435,
@@ -4309,7 +4309,7 @@
     {
       "id": 1424,
       "nombre": "HELLRAISER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1456,
@@ -4539,6 +4539,11 @@
     {
       "id": 1461,
       "nombre": "PROMO-BLACK LAGOON MONSTER",
+      "cantidad": 1
+    },
+    {
+      "id": 1425,
+      "nombre": "HOMBRE LOBO AMERIANO EN LONDRES",
       "cantidad": 1
     }
   ]

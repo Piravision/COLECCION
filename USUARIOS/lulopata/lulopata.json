@@ -304,12 +304,12 @@
     {
       "id": 157,
       "nombre": "Bluegrass",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 159,
       "nombre": "Quicksilver",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 486,
@@ -474,7 +474,7 @@
     {
       "id": 334,
       "nombre": "Siniestro",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 371,
@@ -864,7 +864,7 @@
     {
       "id": 162,
       "nombre": "Mon Star",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 831,
@@ -1619,7 +1619,7 @@
     {
       "id": 318,
       "nombre": "Morpho",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 314,
@@ -3929,6 +3929,11 @@
     {
       "id": 1421,
       "nombre": "EXORCISTA",
+      "cantidad": 1
+    },
+    {
+      "id": 526,
+      "nombre": "Júbilo",
       "cantidad": 1
     }
   ]

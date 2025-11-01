@@ -199,7 +199,7 @@
     {
       "id": 806,
       "nombre": "JADE",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 92,
@@ -1629,7 +1629,7 @@
     {
       "id": 183,
       "nombre": "Kraven",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 395,
@@ -5819,17 +5819,17 @@
     {
       "id": 1430,
       "nombre": "LA CRIATURA DEL PANTANO",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1419,
       "nombre": "EVIL DEAD II",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1429,
       "nombre": "KILLER KLOWS",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1459,
@@ -5874,7 +5874,7 @@
     {
       "id": 1457,
       "nombre": "TOMATES ASESINOS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1433,
@@ -6039,7 +6039,7 @@
     {
       "id": 1420,
       "nombre": "EVIL DEAD",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1437,
@@ -6309,7 +6309,7 @@
     {
       "id": 1441,
       "nombre": "PESADILLA EN EL ELM STREEET",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1412,
@@ -6484,6 +6484,11 @@
     {
       "id": 1224,
       "nombre": "SAMUS",
+      "cantidad": 1
+    },
+    {
+      "id": 1409,
+      "nombre": "CEMENTERIO DE MASCOTAS",
       "cantidad": 1
     }
   ]

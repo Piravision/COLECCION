@@ -1649,7 +1649,7 @@
     {
       "id": 386,
       "nombre": "CROMO PERSONAJE",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 307,
@@ -2619,7 +2619,7 @@
     {
       "id": 562,
       "nombre": "PETER-GRIFFIN-JAIL",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 617,
@@ -5774,7 +5774,7 @@
     {
       "id": 1253,
       "nombre": "SABRINA-COSAS-DE-BRUJAS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1080,
@@ -7044,7 +7044,7 @@
     {
       "id": 1458,
       "nombre": "VENGADOR TOXICO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1439,
@@ -7099,7 +7099,7 @@
     {
       "id": 1447,
       "nombre": "SAW",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1437,
@@ -7139,7 +7139,7 @@
     {
       "id": 1424,
       "nombre": "HELLRAISER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1410,
@@ -7159,7 +7159,7 @@
     {
       "id": 1417,
       "nombre": "ELVIRA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1449,
@@ -7184,7 +7184,7 @@
     {
       "id": 1432,
       "nombre": "LA NOVIA DE REANIMATOR",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1425,
@@ -7224,7 +7224,7 @@
     {
       "id": 1412,
       "nombre": "DARMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1433,
@@ -7294,6 +7294,21 @@
     {
       "id": 1454,
       "nombre": "THE OMEN",
+      "cantidad": 1
+    },
+    {
+      "id": 1413,
+      "nombre": "DEMONS",
+      "cantidad": 1
+    },
+    {
+      "id": 1408,
+      "nombre": "CARRIE",
+      "cantidad": 1
+    },
+    {
+      "id": 1460,
+      "nombre": "WISHMASTER",
       "cantidad": 1
     }
   ]
