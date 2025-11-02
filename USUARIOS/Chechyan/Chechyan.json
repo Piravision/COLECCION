@@ -5799,7 +5799,7 @@
     {
       "id": 1440,
       "nombre": "NOCHE DE MIEDO",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1458,
@@ -5829,7 +5829,7 @@
     {
       "id": 1429,
       "nombre": "KILLER KLOWS",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1459,
@@ -5889,7 +5889,7 @@
     {
       "id": 1414,
       "nombre": "EL REGRESO DE LOS MUERTOS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1451,
@@ -6314,7 +6314,7 @@
     {
       "id": 1412,
       "nombre": "DARMAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1190,
@@ -6489,6 +6489,11 @@
     {
       "id": 1409,
       "nombre": "CEMENTERIO DE MASCOTAS",
+      "cantidad": 2
+    },
+    {
+      "id": 1413,
+      "nombre": "DEMONS",
       "cantidad": 1
     }
   ]
