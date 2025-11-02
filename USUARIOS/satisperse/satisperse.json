@@ -1979,7 +1979,7 @@
     {
       "id": 1401,
       "nombre": "ABIERTO HASTA EL AMANECER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1051,
@@ -2114,7 +2114,7 @@
     {
       "id": 1445,
       "nombre": "RE-ANIMATOR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1455,
@@ -2239,6 +2239,26 @@
     {
       "id": 1461,
       "nombre": "PROMO-BLACK LAGOON MONSTER",
+      "cantidad": 1
+    },
+    {
+      "id": 1411,
+      "nombre": "CREEPSHOW",
+      "cantidad": 1
+    },
+    {
+      "id": 1409,
+      "nombre": "CEMENTERIO DE MASCOTAS",
+      "cantidad": 1
+    },
+    {
+      "id": 1413,
+      "nombre": "DEMONS",
+      "cantidad": 1
+    },
+    {
+      "id": 1404,
+      "nombre": "BEETLEJUICE - PROMO",
       "cantidad": 1
     }
   ]

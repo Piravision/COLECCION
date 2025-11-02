@@ -944,7 +944,7 @@
     {
       "id": 1433,
       "nombre": "LOST BOYS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1431,
@@ -1144,7 +1144,7 @@
     {
       "id": 1409,
       "nombre": "CEMENTERIO DE MASCOTAS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1445,
@@ -1169,6 +1169,11 @@
     {
       "id": 1422,
       "nombre": "GHOULIES",
+      "cantidad": 1
+    },
+    {
+      "id": 1447,
+      "nombre": "SAW",
       "cantidad": 1
     }
   ]

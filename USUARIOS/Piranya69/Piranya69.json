@@ -7094,7 +7094,7 @@
     {
       "id": 1430,
       "nombre": "LA CRIATURA DEL PANTANO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1447,
@@ -7159,7 +7159,7 @@
     {
       "id": 1417,
       "nombre": "ELVIRA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1449,
@@ -7189,7 +7189,7 @@
     {
       "id": 1425,
       "nombre": "HOMBRE LOBO AMERIANO EN LONDRES",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1420,
@@ -7219,7 +7219,7 @@
     {
       "id": 1445,
       "nombre": "RE-ANIMATOR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1412,
@@ -7229,7 +7229,7 @@
     {
       "id": 1433,
       "nombre": "LOST BOYS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1465,
@@ -7309,6 +7309,11 @@
     {
       "id": 1460,
       "nombre": "WISHMASTER",
+      "cantidad": 1
+    },
+    {
+      "id": 1407,
+      "nombre": "CANDYMAN",
       "cantidad": 1
     }
   ]
