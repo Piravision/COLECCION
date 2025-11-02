@@ -224,7 +224,7 @@
         {
             "id": 563,
             "nombre": "VADER-JAIL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 625,
@@ -624,7 +624,7 @@
         {
             "id": 733,
             "nombre": "DB-121",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 142,
@@ -1039,7 +1039,7 @@
         {
             "id": 859,
             "nombre": "JASON-JAIL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 746,
@@ -1199,7 +1199,7 @@
         {
             "id": 937,
             "nombre": "TRIPLE-H",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 907,
@@ -2409,12 +2409,12 @@
         {
             "id": 143,
             "nombre": "Wildwing Flashblade",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 145,
             "nombre": "Lord Dragaunus",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 583,
@@ -2724,6 +2724,31 @@
         {
             "id": 1414,
             "nombre": "EL REGRESO DE LOS MUERTOS",
+            "cantidad": 1
+        },
+        {
+            "id": 857,
+            "nombre": "DOC-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 47,
+            "nombre": "hynkel2bueno",
+            "cantidad": 1
+        },
+        {
+            "id": 1331,
+            "nombre": "4D-TOGEMON",
+            "cantidad": 1
+        },
+        {
+            "id": 140,
+            "nombre": "Mallory McMallard",
+            "cantidad": 1
+        },
+        {
+            "id": 1292,
+            "nombre": "ALF-FAMILY",
             "cantidad": 1
         }
     ]
