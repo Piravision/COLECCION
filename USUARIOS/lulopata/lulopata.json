@@ -624,7 +624,7 @@
     {
       "id": 133,
       "nombre": "Trap Jaw",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 455,
@@ -944,7 +944,7 @@
     {
       "id": 363,
       "nombre": "Chuache-DesafioTotal",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 907,
@@ -1744,7 +1744,7 @@
     {
       "id": 152,
       "nombre": "Dr. Karbunkle",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 147,
@@ -1834,7 +1834,7 @@
     {
       "id": 362,
       "nombre": "yugo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 359,
@@ -1954,7 +1954,7 @@
     {
       "id": 154,
       "nombre": "Grease Pit",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 517,
@@ -2014,7 +2014,7 @@
     {
       "id": 1039,
       "nombre": "DAREDEVIL-2",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1073,
@@ -2469,7 +2469,7 @@
     {
       "id": 354,
       "nombre": "alice",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1294,
@@ -2704,7 +2704,7 @@
     {
       "id": 358,
       "nombre": "jenny",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1305,
@@ -2914,7 +2914,7 @@
     {
       "id": 1427,
       "nombre": "IT - PROMO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 580,
@@ -3109,7 +3109,7 @@
     {
       "id": 811,
       "nombre": "KITANA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1332,
@@ -3149,7 +3149,7 @@
     {
       "id": 1458,
       "nombre": "VENGADOR TOXICO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 710,
@@ -3174,7 +3174,7 @@
     {
       "id": 1223,
       "nombre": "MARCO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1164,
@@ -3369,7 +3369,7 @@
     {
       "id": 1422,
       "nombre": "GHOULIES",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 221,
@@ -3649,7 +3649,7 @@
     {
       "id": 1361,
       "nombre": "7G-PATAMON-EVO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 773,
@@ -3834,7 +3834,7 @@
     {
       "id": 1462,
       "nombre": "PROMO-DRACULA",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1463,
@@ -3849,7 +3849,7 @@
     {
       "id": 1465,
       "nombre": "PROMO-HOMBRE INVISIBLE",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 1467,
@@ -3859,7 +3859,7 @@
     {
       "id": 1468,
       "nombre": "PROMO-THE MUMMY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1464,
@@ -3934,6 +3934,56 @@
     {
       "id": 526,
       "nombre": "Júbilo",
+      "cantidad": 1
+    },
+    {
+      "id": 764,
+      "nombre": "Dragonzord",
+      "cantidad": 1
+    },
+    {
+      "id": 1387,
+      "nombre": "9-MOJYAMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1340,
+      "nombre": "5D-BIRDRAMON",
+      "cantidad": 1
+    },
+    {
+      "id": 214,
+      "nombre": "Brimstar",
+      "cantidad": 1
+    },
+    {
+      "id": 707,
+      "nombre": "FLINT",
+      "cantidad": 1
+    },
+    {
+      "id": 156,
+      "nombre": "Lord Camembert",
+      "cantidad": 1
+    },
+    {
+      "id": 1225,
+      "nombre": "SORA",
+      "cantidad": 1
+    },
+    {
+      "id": 741,
+      "nombre": "Camus-de-Acuario",
+      "cantidad": 1
+    },
+    {
+      "id": 817,
+      "nombre": "RAIDEN",
+      "cantidad": 1
+    },
+    {
+      "id": 149,
+      "nombre": "Modo",
       "cantidad": 1
     }
   ]

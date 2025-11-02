@@ -1359,7 +1359,7 @@
     {
       "id": 383,
       "nombre": "viper",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 928,
@@ -2924,7 +2924,7 @@
     {
       "id": 922,
       "nombre": "LYDIA",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1130,
@@ -4714,7 +4714,7 @@
     {
       "id": 282,
       "nombre": "Krang",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1361,
@@ -5954,6 +5954,21 @@
     {
       "id": 1461,
       "nombre": "PROMO-BLACK LAGOON MONSTER",
+      "cantidad": 1
+    },
+    {
+      "id": 287,
+      "nombre": "Soldado del Pie",
+      "cantidad": 1
+    },
+    {
+      "id": 229,
+      "nombre": "Last Chance Garage",
+      "cantidad": 1
+    },
+    {
+      "id": 1159,
+      "nombre": "GOLDENAGE- FLASH",
       "cantidad": 1
     }
   ]
