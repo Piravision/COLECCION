@@ -4469,7 +4469,7 @@
     {
       "id": 799,
       "nombre": "POISON-IVY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 801,
@@ -6729,7 +6729,7 @@
     {
       "id": 1400,
       "nombre": "9-YUKIDARUMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1314,
@@ -6874,7 +6874,7 @@
     {
       "id": 1045,
       "nombre": "HAWKEYE-2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1344,
@@ -7339,6 +7339,56 @@
     {
       "id": 1462,
       "nombre": "PROMO-DRACULA",
+      "cantidad": 1
+    },
+    {
+      "id": 1501,
+      "nombre": "A2-LUNCH-BAD",
+      "cantidad": 1
+    },
+    {
+      "id": 1555,
+      "nombre": "F1-TEN-SHIN-HAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1502,
+      "nombre": "A2-MAESTRO-ROSHI",
+      "cantidad": 1
+    },
+    {
+      "id": 1562,
+      "nombre": "T-JACKIE-CHUN",
+      "cantidad": 1
+    },
+    {
+      "id": 1560,
+      "nombre": "T-FANFAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1493,
+      "nombre": "1A-FA25",
+      "cantidad": 1
+    },
+    {
+      "id": 1558,
+      "nombre": "T-BACTERIAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1591,
+      "nombre": "Z-NUBE-KINTON",
+      "cantidad": 1
+    },
+    {
+      "id": 1539,
+      "nombre": "DR-SENBEI-NORIMAKI",
+      "cantidad": 1
+    },
+    {
+      "id": 1505,
+      "nombre": "A3-FAKE-GOKU",
       "cantidad": 1
     }
   ]

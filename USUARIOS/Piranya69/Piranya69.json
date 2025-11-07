@@ -124,7 +124,7 @@
     {
       "id": 7,
       "nombre": "El Patriarca",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 128,
@@ -184,7 +184,7 @@
     {
       "id": 168,
       "nombre": "Hobgoblin",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 109,
@@ -1494,7 +1494,7 @@
     {
       "id": 141,
       "nombre": "Nosedive Flashblade",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 162,
@@ -2164,7 +2164,7 @@
     {
       "id": 689,
       "nombre": "DB-077",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 148,
@@ -3089,7 +3089,7 @@
     {
       "id": 851,
       "nombre": "VEGA",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 710,
@@ -3509,7 +3509,7 @@
     {
       "id": 898,
       "nombre": "SUB-MARINER",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 831,
@@ -3719,7 +3719,7 @@
     {
       "id": 273,
       "nombre": "Raphael",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 590,
@@ -3789,7 +3789,7 @@
     {
       "id": 970,
       "nombre": "6-VICKY-EL-VIKINGO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 954,
@@ -4234,7 +4234,7 @@
     {
       "id": 881,
       "nombre": "HAWKEYE",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 953,
@@ -4409,7 +4409,7 @@
     {
       "id": 934,
       "nombre": "SHAWN-MICHAELS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 81,
@@ -4699,7 +4699,7 @@
     {
       "id": 603,
       "nombre": "PHILLIP-CALLAHAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 850,
@@ -4769,7 +4769,7 @@
     {
       "id": 912,
       "nombre": "SINIESTRO",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 979,
@@ -4974,12 +4974,12 @@
     {
       "id": 945,
       "nombre": "MASK-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 714,
       "nombre": "DB-102",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1081,
@@ -5009,7 +5009,7 @@
     {
       "id": 1093,
       "nombre": "CONDE-PATULA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 800,
@@ -5559,7 +5559,7 @@
     {
       "id": 1228,
       "nombre": "BEN-10",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1094,
@@ -5984,7 +5984,7 @@
     {
       "id": 1244,
       "nombre": "HERCULES",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1200,
@@ -6194,7 +6194,7 @@
     {
       "id": 1125,
       "nombre": "GON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1166,
@@ -6339,7 +6339,7 @@
     {
       "id": 1185,
       "nombre": "WICKET",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1288,
@@ -6964,7 +6964,7 @@
     {
       "id": 1393,
       "nombre": "9-PIEDMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1332,
@@ -7299,7 +7299,7 @@
     {
       "id": 1413,
       "nombre": "DEMONS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1408,
@@ -7349,6 +7349,21 @@
     {
       "id": 1418,
       "nombre": "ESTAN VIVOS",
+      "cantidad": 1
+    },
+    {
+      "id": 1591,
+      "nombre": "Z-NUBE-KINTON",
+      "cantidad": 1
+    },
+    {
+      "id": 1509,
+      "nombre": "A4-BORA",
+      "cantidad": 1
+    },
+    {
+      "id": 1586,
+      "nombre": "Z-AGUA-SAGRADA",
       "cantidad": 1
     }
   ]

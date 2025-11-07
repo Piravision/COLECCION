@@ -94,7 +94,7 @@
     {
       "id": 808,
       "nombre": "JOHNNY-CAGE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 805,
@@ -114,7 +114,7 @@
     {
       "id": 1220,
       "nombre": "FOX",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1051,
@@ -394,12 +394,12 @@
     {
       "id": 1,
       "nombre": "30 30",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 2,
       "nombre": "Bravestarr",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 158,
@@ -434,7 +434,7 @@
     {
       "id": 3,
       "nombre": "Juez J. Bella",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 262,
@@ -584,7 +584,7 @@
     {
       "id": 28,
       "nombre": "Presto",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 27,
@@ -609,7 +609,7 @@
     {
       "id": 822,
       "nombre": "SHAO-KAHN",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 118,
@@ -869,7 +869,7 @@
     {
       "id": 831,
       "nombre": "BISON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 844,
@@ -879,7 +879,7 @@
     {
       "id": 847,
       "nombre": "RYU",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 303,
@@ -1069,7 +1069,7 @@
     {
       "id": 470,
       "nombre": "Floatstinger",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 474,
@@ -1174,7 +1174,7 @@
     {
       "id": 374,
       "nombre": "Succubus",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 344,
@@ -1259,7 +1259,7 @@
     {
       "id": 370,
       "nombre": "muerte",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 368,
@@ -1604,7 +1604,7 @@
     {
       "id": 1278,
       "nombre": "BUFFY-CAZAVAMPIROS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1279,
@@ -1984,7 +1984,7 @@
     {
       "id": 1242,
       "nombre": "EQUIPO-A",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1263,
@@ -2154,7 +2154,7 @@
     {
       "id": 476,
       "nombre": "Kaufman",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 121,
@@ -2884,7 +2884,7 @@
     {
       "id": 29,
       "nombre": "Sheila",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1438,
@@ -3084,7 +3084,7 @@
     {
       "id": 840,
       "nombre": "FEI-LONG",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 258,
@@ -3109,7 +3109,7 @@
     {
       "id": 811,
       "nombre": "KITANA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1332,
@@ -4004,12 +4004,12 @@
     {
       "id": 367,
       "nombre": "BEMONT",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1203,
       "nombre": "2Z-PAC-MAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 396,
@@ -4149,6 +4149,56 @@
     {
       "id": 161,
       "nombre": "Steelwill",
+      "cantidad": 1
+    },
+    {
+      "id": 472,
+      "nombre": "grey",
+      "cantidad": 1
+    },
+    {
+      "id": 679,
+      "nombre": "DB-067",
+      "cantidad": 1
+    },
+    {
+      "id": 705,
+      "nombre": "DB-093",
+      "cantidad": 1
+    },
+    {
+      "id": 706,
+      "nombre": "DB-094",
+      "cantidad": 1
+    },
+    {
+      "id": 1240,
+      "nombre": "CHEERS",
+      "cantidad": 1
+    },
+    {
+      "id": 1262,
+      "nombre": "FA-SONIC",
+      "cantidad": 1
+    },
+    {
+      "id": 1275,
+      "nombre": "RAYMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1233,
+      "nombre": "CONTRA",
+      "cantidad": 1
+    },
+    {
+      "id": 1204,
+      "nombre": "3-KNUCKLES",
+      "cantidad": 1
+    },
+    {
+      "id": 32,
+      "nombre": "Venger",
       "cantidad": 1
     }
   ]

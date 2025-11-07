@@ -879,7 +879,7 @@
     {
       "id": 99,
       "nombre": "Demona",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 125,
@@ -934,7 +934,7 @@
     {
       "id": 640,
       "nombre": "DB-028",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 512,
@@ -3219,7 +3219,7 @@
     {
       "id": 505,
       "nombre": "Hwoarang",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 298,
@@ -4119,7 +4119,7 @@
     {
       "id": 626,
       "nombre": "DB-014",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 956,
@@ -4259,7 +4259,7 @@
     {
       "id": 208,
       "nombre": "Tentakill",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 34,
@@ -5404,7 +5404,7 @@
     {
       "id": 700,
       "nombre": "DB-088",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1178,
@@ -5469,7 +5469,7 @@
     {
       "id": 1079,
       "nombre": "X -ROGUE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1061,
@@ -5524,7 +5524,7 @@
     {
       "id": 1024,
       "nombre": "4FV - SILVER SURFER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1035,
@@ -5669,7 +5669,7 @@
     {
       "id": 1060,
       "nombre": "QUICKSILVER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1063,
@@ -6364,7 +6364,7 @@
     {
       "id": 1154,
       "nombre": "CATWOMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1286,
@@ -7069,7 +7069,7 @@
     {
       "id": 1402,
       "nombre": "ARMY OF DARKNESS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1401,
@@ -7340,6 +7340,36 @@
       "id": 1463,
       "nombre": "PROMO-FANTASMA OPERA",
       "cantidad": 4
+    },
+    {
+      "id": 1584,
+      "nombre": "X-VIEJA-BABA",
+      "cantidad": 1
+    },
+    {
+      "id": 1560,
+      "nombre": "T-FANFAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1585,
+      "nombre": "Z-ABANICO-MAGICO",
+      "cantidad": 1
+    },
+    {
+      "id": 1527,
+      "nombre": "C1-SHU",
+      "cantidad": 1
+    },
+    {
+      "id": 1525,
+      "nombre": "C1-MAI",
+      "cantidad": 1
+    },
+    {
+      "id": 1476,
+      "nombre": "1A-FA08",
+      "cantidad": 1
     }
   ]
 }
