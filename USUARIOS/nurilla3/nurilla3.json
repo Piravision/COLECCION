@@ -274,7 +274,7 @@
     {
       "id": 1405,
       "nombre": "BEETLEJUICE",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1458,
@@ -424,7 +424,7 @@
     {
       "id": 1438,
       "nombre": "MUÑECO DIABOLICO ii",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1418,
@@ -709,7 +709,7 @@
     {
       "id": 1423,
       "nombre": "HALLOWEEN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1409,
@@ -1039,7 +1039,7 @@
     {
       "id": 889,
       "nombre": "LUKE-CAGE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1237,
@@ -1174,7 +1174,7 @@
     {
       "id": 328,
       "nombre": "Juggernaut",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 311,
@@ -1214,7 +1214,7 @@
     {
       "id": 1431,
       "nombre": "LA MOSCA",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1420,
@@ -1749,7 +1749,7 @@
     {
       "id": 1457,
       "nombre": "TOMATES ASESINOS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 507,
@@ -1974,7 +1974,7 @@
     {
       "id": 975,
       "nombre": "7-PENNY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 341,
@@ -3029,6 +3029,41 @@
     {
       "id": 622,
       "nombre": "DB-010",
+      "cantidad": 1
+    },
+    {
+      "id": 1083,
+      "nombre": "YELLOWJACKET & WASP",
+      "cantidad": 1
+    },
+    {
+      "id": 171,
+      "nombre": "Mary Jane",
+      "cantidad": 1
+    },
+    {
+      "id": 646,
+      "nombre": "DB-034",
+      "cantidad": 1
+    },
+    {
+      "id": 735,
+      "nombre": "Aiacos",
+      "cantidad": 1
+    },
+    {
+      "id": 655,
+      "nombre": "DB-043",
+      "cantidad": 1
+    },
+    {
+      "id": 876,
+      "nombre": "DORMAMMU",
+      "cantidad": 1
+    },
+    {
+      "id": 1054,
+      "nombre": "MSMARVEL",
       "cantidad": 1
     }
   ]
