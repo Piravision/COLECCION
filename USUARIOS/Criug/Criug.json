@@ -309,7 +309,7 @@
     {
       "id": 178,
       "nombre": "Dr. Octopus",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 253,
@@ -344,7 +344,7 @@
     {
       "id": 450,
       "nombre": "licker",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 533,
@@ -614,7 +614,7 @@
     {
       "id": 454,
       "nombre": "zombi",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 500,
@@ -2959,7 +2959,7 @@
     {
       "id": 233,
       "nombre": "Mutant Tank",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 741,
@@ -5314,7 +5314,7 @@
     {
       "id": 1111,
       "nombre": "G1-COMANDO-G",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1095,
@@ -5774,7 +5774,7 @@
     {
       "id": 1105,
       "nombre": "G-AVECILLA",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1172,
@@ -7374,6 +7374,36 @@
     {
       "id": 1585,
       "nombre": "Z-ABANICO-MAGICO",
+      "cantidad": 1
+    },
+    {
+      "id": 1563,
+      "nombre": "T-MR.WOLF",
+      "cantidad": 1
+    },
+    {
+      "id": 1523,
+      "nombre": "B2-ANDROIDE8",
+      "cantidad": 1
+    },
+    {
+      "id": 1535,
+      "nombre": "DR-ARALE",
+      "cantidad": 1
+    },
+    {
+      "id": 1496,
+      "nombre": "A1-KRILIN",
+      "cantidad": 1
+    },
+    {
+      "id": 1531,
+      "nombre": "D2-DRUM",
+      "cantidad": 1
+    },
+    {
+      "id": 1499,
+      "nombre": "A1-YAMCHA",
       "cantidad": 1
     }
   ]
