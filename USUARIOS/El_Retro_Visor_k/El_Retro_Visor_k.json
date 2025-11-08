@@ -1859,7 +1859,7 @@
     {
       "id": 862,
       "nombre": "NEO-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 560,
@@ -2979,7 +2979,7 @@
     {
       "id": 459,
       "nombre": "Kyosuke",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 714,
@@ -5239,7 +5239,7 @@
     {
       "id": 187,
       "nombre": "Rhyno",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1177,
@@ -7399,6 +7399,31 @@
     {
       "id": 1470,
       "nombre": "1A-FA02",
+      "cantidad": 1
+    },
+    {
+      "id": 1553,
+      "nombre": "F1-SHEN-JOVEN",
+      "cantidad": 1
+    },
+    {
+      "id": 1495,
+      "nombre": "A1-GOKU",
+      "cantidad": 2
+    },
+    {
+      "id": 1488,
+      "nombre": "1A-FA20",
+      "cantidad": 1
+    },
+    {
+      "id": 1512,
+      "nombre": "B1-CAPITAN-YELLOW",
+      "cantidad": 1
+    },
+    {
+      "id": 1566,
+      "nombre": "T-REY-CHAPPA",
       "cantidad": 1
     }
   ]

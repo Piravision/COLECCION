@@ -1319,7 +1319,7 @@
     {
       "id": 943,
       "nombre": "JOHNNY5-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 750,
@@ -1444,7 +1444,7 @@
     {
       "id": 833,
       "nombre": "blanka2",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 993,
@@ -1894,7 +1894,7 @@
     {
       "id": 839,
       "nombre": "DJ",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 165,
@@ -2054,7 +2054,7 @@
     {
       "id": 982,
       "nombre": "14-FRAN-SINCLAIR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 590,
@@ -2159,7 +2159,7 @@
     {
       "id": 198,
       "nombre": "Slammu",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 91,
@@ -2219,12 +2219,12 @@
     {
       "id": 1468,
       "nombre": "PROMO-THE MUMMY",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1463,
       "nombre": "PROMO-FANTASMA OPERA",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1459,
@@ -2254,7 +2254,7 @@
     {
       "id": 370,
       "nombre": "muerte",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 332,
@@ -2264,7 +2264,7 @@
     {
       "id": 1135,
       "nombre": "GUARDIAN-DE-LA-CRIPTA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 498,
@@ -2444,7 +2444,7 @@
     {
       "id": 1466,
       "nombre": "PROMO-HOMBRE LOBO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1413,
@@ -2889,7 +2889,7 @@
     {
       "id": 1051,
       "nombre": "JACK-HEARTS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 706,
@@ -3114,7 +3114,7 @@
     {
       "id": 217,
       "nombre": "Cobra   H.I.S.S.",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 63,
@@ -3174,6 +3174,136 @@
     {
       "id": 261,
       "nombre": "Reptilio",
+      "cantidad": 1
+    },
+    {
+      "id": 1555,
+      "nombre": "F1-TEN-SHIN-HAN",
+      "cantidad": 1
+    },
+    {
+      "id": 874,
+      "nombre": "CAPTAIN-AMERICA",
+      "cantidad": 1
+    },
+    {
+      "id": 1383,
+      "nombre": "9-LEOMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1580,
+      "nombre": "X-AKKUMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 172,
+      "nombre": "May Parker",
+      "cantidad": 1
+    },
+    {
+      "id": 1476,
+      "nombre": "1A-FA08",
+      "cantidad": 1
+    },
+    {
+      "id": 876,
+      "nombre": "DORMAMMU",
+      "cantidad": 1
+    },
+    {
+      "id": 925,
+      "nombre": "WILLY-",
+      "cantidad": 1
+    },
+    {
+      "id": 579,
+      "nombre": "BOB-DENVER",
+      "cantidad": 1
+    },
+    {
+      "id": 1563,
+      "nombre": "T-MR.WOLF",
+      "cantidad": 1
+    },
+    {
+      "id": 1579,
+      "nombre": "X-ABUELO-SON-GOHAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1591,
+      "nombre": "Z-NUBE-KINTON",
+      "cantidad": 1
+    },
+    {
+      "id": 645,
+      "nombre": "DB-033",
+      "cantidad": 1
+    },
+    {
+      "id": 1303,
+      "nombre": "1C-AGUMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1534,
+      "nombre": "D2-TAMBOURINE",
+      "cantidad": 1
+    },
+    {
+      "id": 1288,
+      "nombre": "JAK-&-DAXTER",
+      "cantidad": 1
+    },
+    {
+      "id": 331,
+      "nombre": "Mente Maestra",
+      "cantidad": 1
+    },
+    {
+      "id": 1582,
+      "nombre": "X-HOMBRE-DRACULA",
+      "cantidad": 1
+    },
+    {
+      "id": 1187,
+      "nombre": "CRIPTA-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1515,
+      "nombre": "B1-CORONEL-VIOLET",
+      "cantidad": 1
+    },
+    {
+      "id": 1330,
+      "nombre": "4C-PALMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1284,
+      "nombre": "ALEX-KIDD",
+      "cantidad": 1
+    },
+    {
+      "id": 711,
+      "nombre": "DB-099",
+      "cantidad": 1
+    },
+    {
+      "id": 888,
+      "nombre": "LOKI",
+      "cantidad": 1
+    },
+    {
+      "id": 690,
+      "nombre": "DB-078",
+      "cantidad": 1
+    },
+    {
+      "id": 812,
+      "nombre": "KUNG-LAO",
       "cantidad": 1
     }
   ]

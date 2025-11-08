@@ -1044,7 +1044,7 @@
     {
       "id": 66,
       "nombre": "flazzard2",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 492,
@@ -1134,7 +1134,7 @@
     {
       "id": 198,
       "nombre": "Slammu",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 385,
@@ -1834,7 +1834,7 @@
     {
       "id": 546,
       "nombre": "MARTY-MCFLY",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 441,
@@ -2519,7 +2519,7 @@
     {
       "id": 467,
       "nombre": "Cheryl",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 481,
@@ -5654,7 +5654,7 @@
     {
       "id": 1220,
       "nombre": "FOX",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1085,
@@ -5799,7 +5799,7 @@
     {
       "id": 969,
       "nombre": "5-DAVID-EL-GNOMO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1098,
@@ -7379,12 +7379,12 @@
     {
       "id": 1508,
       "nombre": "A3-MR.-POPO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1524,
       "nombre": "B2-SUNO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1588,
@@ -7394,6 +7394,36 @@
     {
       "id": 1563,
       "nombre": "T-MR.WOLF",
+      "cantidad": 1
+    },
+    {
+      "id": 1593,
+      "nombre": "ZZ-SHENRON",
+      "cantidad": 1
+    },
+    {
+      "id": 1559,
+      "nombre": "T-BRUCE-LEE",
+      "cantidad": 1
+    },
+    {
+      "id": 1568,
+      "nombre": "T-YAJIROBE",
+      "cantidad": 1
+    },
+    {
+      "id": 1513,
+      "nombre": "B1-COMANDANTE-RED",
+      "cantidad": 2
+    },
+    {
+      "id": 1481,
+      "nombre": "1A-FA13",
+      "cantidad": 1
+    },
+    {
+      "id": 1472,
+      "nombre": "1A-FA04",
       "cantidad": 1
     }
   ]

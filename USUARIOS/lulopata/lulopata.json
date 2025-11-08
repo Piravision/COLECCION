@@ -1344,12 +1344,12 @@
     {
       "id": 397,
       "nombre": "avalanche",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 403,
       "nombre": "red",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 406,
@@ -1504,12 +1504,12 @@
     {
       "id": 87,
       "nombre": "Walter _Doc_ Hartford",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 86,
       "nombre": "Shane Gooseman",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 137,
@@ -1824,7 +1824,7 @@
     {
       "id": 88,
       "nombre": "Zackary Foxx",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 356,
@@ -2039,7 +2039,7 @@
     {
       "id": 482,
       "nombre": "Escorpión",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 164,
@@ -2489,7 +2489,7 @@
     {
       "id": 1146,
       "nombre": "TROTAMUSICOS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 770,
@@ -4014,7 +4014,7 @@
     {
       "id": 396,
       "nombre": "aeris",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 402,
@@ -4199,6 +4199,41 @@
     {
       "id": 32,
       "nombre": "Venger",
+      "cantidad": 1
+    },
+    {
+      "id": 172,
+      "nombre": "May Parker",
+      "cantidad": 1
+    },
+    {
+      "id": 176,
+      "nombre": "Camaleon",
+      "cantidad": 1
+    },
+    {
+      "id": 1579,
+      "nombre": "X-ABUELO-SON-GOHAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1592,
+      "nombre": "Z-RADAR-BOLAS-DE-DRAGON",
+      "cantidad": 1
+    },
+    {
+      "id": 1522,
+      "nombre": "B1-STAFF-OFFICER",
+      "cantidad": 1
+    },
+    {
+      "id": 1120,
+      "nombre": "PF-PITUFO-GRUÑON",
+      "cantidad": 1
+    },
+    {
+      "id": 1229,
+      "nombre": "MIGHTY-MAX",
       "cantidad": 1
     }
   ]
