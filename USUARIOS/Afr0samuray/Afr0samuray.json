@@ -7339,7 +7339,7 @@
         {
             "id": 1521,
             "nombre": "B1-MURASAKI",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1589,
@@ -7464,6 +7464,11 @@
         {
             "id": 224,
             "nombre": "Guarida Tortuga",
+            "cantidad": 1
+        },
+        {
+            "id": 829,
+            "nombre": "AKUMA",
             "cantidad": 1
         }
     ]
