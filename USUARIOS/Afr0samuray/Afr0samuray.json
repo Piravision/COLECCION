@@ -7339,7 +7339,7 @@
         {
             "id": 1521,
             "nombre": "B1-MURASAKI",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1589,
@@ -7489,6 +7489,11 @@
         {
             "id": 1497,
             "nombre": "A1-OOLONG",
+            "cantidad": 1
+        },
+        {
+            "id": 1520,
+            "nombre": "B1-MAJOR-METALLITRON",
             "cantidad": 1
         }
     ]

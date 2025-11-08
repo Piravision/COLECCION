@@ -7354,7 +7354,7 @@
         {
             "id": 1520,
             "nombre": "B1-MAJOR-METALLITRON",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1490,
@@ -7679,6 +7679,11 @@
         {
             "id": 1512,
             "nombre": "B1-CAPITAN-YELLOW",
+            "cantidad": 1
+        },
+        {
+            "id": 1521,
+            "nombre": "B1-MURASAKI",
             "cantidad": 1
         }
     ]
