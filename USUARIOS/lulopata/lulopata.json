@@ -1074,7 +1074,7 @@
     {
       "id": 474,
       "nombre": "harry2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 480,
@@ -1689,7 +1689,7 @@
     {
       "id": 275,
       "nombre": "Usagi Yojimbo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 269,
@@ -1994,7 +1994,7 @@
     {
       "id": 477,
       "nombre": "mumb",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 292,
@@ -2734,7 +2734,7 @@
     {
       "id": 479,
       "nombre": "Split Head",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 521,
@@ -4234,6 +4234,16 @@
     {
       "id": 1229,
       "nombre": "MIGHTY-MAX",
+      "cantidad": 1
+    },
+    {
+      "id": 276,
+      "nombre": "Baxter",
+      "cantidad": 1
+    },
+    {
+      "id": 264,
+      "nombre": "Donatello",
       "cantidad": 1
     }
   ]
