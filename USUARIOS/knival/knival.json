@@ -299,7 +299,7 @@
     {
       "id": 262,
       "nombre": "April O'Neil",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 727,
@@ -454,7 +454,7 @@
     {
       "id": 238,
       "nombre": "Snake Mountain",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 232,
@@ -1274,6 +1274,11 @@
     {
       "id": 519,
       "nombre": "Tortugamóvil",
+      "cantidad": 1
+    },
+    {
+      "id": 623,
+      "nombre": "DB-011",
       "cantidad": 1
     }
   ]
