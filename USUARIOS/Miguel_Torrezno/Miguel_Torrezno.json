@@ -2989,7 +2989,7 @@
         {
             "id": 1245,
             "nombre": "KNIGHT-RIDER",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1142,
@@ -6704,6 +6704,11 @@
         {
             "id": 1263,
             "nombre": "SALVADOS-POR-LA-CAMPANA",
+            "cantidad": 1
+        },
+        {
+            "id": 1487,
+            "nombre": "1A-FA19",
             "cantidad": 1
         }
     ]
