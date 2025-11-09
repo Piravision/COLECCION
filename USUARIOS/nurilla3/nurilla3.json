@@ -1749,7 +1749,7 @@
     {
       "id": 1457,
       "nombre": "TOMATES ASESINOS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 507,
@@ -3224,7 +3224,7 @@
     {
       "id": 634,
       "nombre": "DB-022",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 52,
@@ -4294,6 +4294,11 @@
     {
       "id": 1222,
       "nombre": "LINK",
+      "cantidad": 1
+    },
+    {
+      "id": 869,
+      "nombre": "ARNIM-ZOLA",
       "cantidad": 1
     }
   ]
