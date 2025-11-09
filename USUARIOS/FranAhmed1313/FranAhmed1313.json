@@ -164,7 +164,7 @@
     {
       "id": 638,
       "nombre": "DB-026",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1040,
@@ -944,7 +944,7 @@
     {
       "id": 1447,
       "nombre": "SAW",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1455,
@@ -1469,7 +1469,7 @@
     {
       "id": 1436,
       "nombre": "MATANZA DE TEXAS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1410,
@@ -1479,7 +1479,7 @@
     {
       "id": 1456,
       "nombre": "TIENDA DE LOS HORRORES",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1401,
@@ -3134,7 +3134,7 @@
     {
       "id": 1548,
       "nombre": "E1-OX-KING",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1557,
@@ -3324,7 +3324,7 @@
     {
       "id": 1495,
       "nombre": "A1-GOKU",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 458,
@@ -3379,6 +3379,76 @@
     {
       "id": 398,
       "nombre": "barret",
+      "cantidad": 1
+    },
+    {
+      "id": 1510,
+      "nombre": "A4-UPA",
+      "cantidad": 1
+    },
+    {
+      "id": 1583,
+      "nombre": "X-MOMIA",
+      "cantidad": 1
+    },
+    {
+      "id": 1529,
+      "nombre": "D1-1PICCOLO-NIÑO",
+      "cantidad": 1
+    },
+    {
+      "id": 1499,
+      "nombre": "A1-YAMCHA",
+      "cantidad": 1
+    },
+    {
+      "id": 646,
+      "nombre": "DB-034",
+      "cantidad": 1
+    },
+    {
+      "id": 630,
+      "nombre": "DB-018",
+      "cantidad": 1
+    },
+    {
+      "id": 701,
+      "nombre": "DB-089",
+      "cantidad": 1
+    },
+    {
+      "id": 787,
+      "nombre": "DOS-CARAS",
+      "cantidad": 1
+    },
+    {
+      "id": 1033,
+      "nombre": "CABALLERO LUNA",
+      "cantidad": 1
+    },
+    {
+      "id": 775,
+      "nombre": "yellow",
+      "cantidad": 1
+    },
+    {
+      "id": 1272,
+      "nombre": "FA-SUNSET-RIDERS",
+      "cantidad": 1
+    },
+    {
+      "id": 745,
+      "nombre": "Dark-Shura-de-Capricornio",
+      "cantidad": 1
+    },
+    {
+      "id": 737,
+      "nombre": "Aioros-de-Sagitario",
+      "cantidad": 1
+    },
+    {
+      "id": 738,
+      "nombre": "Aldebarán-de-Tauro",
       "cantidad": 1
     }
   ]

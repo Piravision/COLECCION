@@ -2064,7 +2064,7 @@
     {
       "id": 912,
       "nombre": "SINIESTRO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 956,
@@ -3874,7 +3874,7 @@
     {
       "id": 396,
       "nombre": "aeris",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 345,
@@ -6219,6 +6219,11 @@
     {
       "id": 1494,
       "nombre": "A1-BULMA",
+      "cantidad": 1
+    },
+    {
+      "id": 1475,
+      "nombre": "1A-FA07",
       "cantidad": 1
     }
   ]
