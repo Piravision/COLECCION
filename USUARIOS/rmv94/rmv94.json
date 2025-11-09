@@ -1419,7 +1419,7 @@
     {
       "id": 440,
       "nombre": "scrabs",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 437,
@@ -1469,6 +1469,16 @@
     {
       "id": 478,
       "nombre": "nurse",
+      "cantidad": 1
+    },
+    {
+      "id": 441,
+      "nombre": "slig",
+      "cantidad": 1
+    },
+    {
+      "id": 436,
+      "nombre": "abe",
       "cantidad": 1
     }
   ]

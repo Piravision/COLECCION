@@ -1149,7 +1149,7 @@
     {
       "id": 215,
       "nombre": "Castillo Grayskull",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 504,
@@ -1419,7 +1419,7 @@
     {
       "id": 771,
       "nombre": "rita",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 833,
@@ -2334,7 +2334,7 @@
     {
       "id": 527,
       "nombre": "Pícara",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 479,
@@ -2804,7 +2804,7 @@
     {
       "id": 954,
       "nombre": "2-CHIP",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 948,
@@ -3999,7 +3999,7 @@
     {
       "id": 25,
       "nombre": "Diana",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1168,
@@ -6269,6 +6269,26 @@
     {
       "id": 1499,
       "nombre": "A1-YAMCHA",
+      "cantidad": 1
+    },
+    {
+      "id": 1593,
+      "nombre": "ZZ-SHENRON",
+      "cantidad": 1
+    },
+    {
+      "id": 1536,
+      "nombre": "DR-GATCHAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1512,
+      "nombre": "B1-CAPITAN-YELLOW",
+      "cantidad": 1
+    },
+    {
+      "id": 1078,
+      "nombre": "X -PHOENIX",
       "cantidad": 1
     }
   ]

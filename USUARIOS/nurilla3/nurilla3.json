@@ -99,7 +99,7 @@
     {
       "id": 961,
       "nombre": "3-MORIARTY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1266,
@@ -179,7 +179,7 @@
     {
       "id": 945,
       "nombre": "MASK-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 391,
@@ -419,7 +419,7 @@
     {
       "id": 1411,
       "nombre": "CREEPSHOW",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1438,
@@ -854,7 +854,7 @@
     {
       "id": 724,
       "nombre": "DB-112",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1004,
@@ -1204,7 +1204,7 @@
     {
       "id": 1231,
       "nombre": "POPEYE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1412,
@@ -1329,7 +1329,7 @@
     {
       "id": 1337,
       "nombre": "5A-SORA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 405,
@@ -2639,7 +2639,7 @@
     {
       "id": 1342,
       "nombre": "5F-PHOENIXMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1368,
@@ -3194,7 +3194,7 @@
     {
       "id": 534,
       "nombre": "T800-Jail",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 488,
@@ -3529,7 +3529,7 @@
     {
       "id": 1557,
       "nombre": "F2A-TAO-PAI-PAI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1528,
@@ -3854,7 +3854,7 @@
     {
       "id": 156,
       "nombre": "Lord Camembert",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 211,
@@ -4209,6 +4209,46 @@
     {
       "id": 1129,
       "nombre": "CRITTER-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 555,
+      "nombre": "INDIANA-JONES-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 498,
+      "nombre": "riou",
+      "cantidad": 1
+    },
+    {
+      "id": 71,
+      "nombre": "herhero",
+      "cantidad": 1
+    },
+    {
+      "id": 1563,
+      "nombre": "T-MR.WOLF",
+      "cantidad": 1
+    },
+    {
+      "id": 1593,
+      "nombre": "ZZ-SHENRON",
+      "cantidad": 1
+    },
+    {
+      "id": 259,
+      "nombre": "Ojo Rojo",
+      "cantidad": 1
+    },
+    {
+      "id": 1330,
+      "nombre": "4C-PALMON",
+      "cantidad": 1
+    },
+    {
+      "id": 365,
+      "nombre": "alucard 1",
       "cantidad": 1
     }
   ]
