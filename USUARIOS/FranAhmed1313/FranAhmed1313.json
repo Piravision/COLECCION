@@ -489,7 +489,7 @@
     {
       "id": 886,
       "nombre": "KARNAK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1161,
@@ -539,7 +539,7 @@
     {
       "id": 1191,
       "nombre": "SPENCER-&-ALLO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 477,
@@ -1894,7 +1894,7 @@
     {
       "id": 839,
       "nombre": "DJ",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 165,
@@ -2139,7 +2139,7 @@
     {
       "id": 1074,
       "nombre": "X -BESTIA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 940,
@@ -2169,7 +2169,7 @@
     {
       "id": 635,
       "nombre": "DB-023",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1381,
@@ -3499,7 +3499,7 @@
     {
       "id": 1308,
       "nombre": "1H-FA-TAI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 605,
@@ -3514,6 +3514,21 @@
     {
       "id": 454,
       "nombre": "zombi",
+      "cantidad": 1
+    },
+    {
+      "id": 794,
+      "nombre": "HUGO-STRANGE",
+      "cantidad": 1
+    },
+    {
+      "id": 241,
+      "nombre": "Thunder Tank",
+      "cantidad": 1
+    },
+    {
+      "id": 739,
+      "nombre": "Athenea",
       "cantidad": 1
     }
   ]
