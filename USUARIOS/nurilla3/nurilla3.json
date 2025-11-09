@@ -344,7 +344,7 @@
     {
       "id": 1224,
       "nombre": "SAMUS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 136,
@@ -724,7 +724,7 @@
     {
       "id": 335,
       "nombre": "Toad",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 895,
@@ -739,7 +739,7 @@
     {
       "id": 96,
       "nombre": "Lexington",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1102,
@@ -949,7 +949,7 @@
     {
       "id": 1387,
       "nombre": "9-MOJYAMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 801,
@@ -2684,7 +2684,7 @@
     {
       "id": 1354,
       "nombre": "6I-IZZY-FOIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 482,
@@ -3134,7 +3134,7 @@
     {
       "id": 1075,
       "nombre": "X -COLOSO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 170,
@@ -3304,7 +3304,7 @@
     {
       "id": 450,
       "nombre": "licker",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 573,
@@ -3314,7 +3314,7 @@
     {
       "id": 1542,
       "nombre": "DR-TORI-BOT",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1487,
@@ -3554,7 +3554,7 @@
     {
       "id": 750,
       "nombre": "Milo-de-Escorpio",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1520,
@@ -4249,6 +4249,31 @@
     {
       "id": 365,
       "nombre": "alucard 1",
+      "cantidad": 1
+    },
+    {
+      "id": 500,
+      "nombre": "shu",
+      "cantidad": 1
+    },
+    {
+      "id": 529,
+      "nombre": "Mística",
+      "cantidad": 1
+    },
+    {
+      "id": 497,
+      "nombre": "nanami",
+      "cantidad": 1
+    },
+    {
+      "id": 941,
+      "nombre": "GREMLIN-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 427,
+      "nombre": "psyco",
       "cantidad": 1
     }
   ]

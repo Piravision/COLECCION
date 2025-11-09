@@ -154,7 +154,7 @@
     {
       "id": 548,
       "nombre": "Snake-Plissken",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 411,
@@ -1579,7 +1579,7 @@
     {
       "id": 350,
       "nombre": "Murgg",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 372,
@@ -4349,7 +4349,7 @@
     {
       "id": 1376,
       "nombre": "9-CENTALMON",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1349,
@@ -4554,7 +4554,7 @@
     {
       "id": 1060,
       "nombre": "QUICKSILVER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 994,
@@ -5409,7 +5409,7 @@
     {
       "id": 1407,
       "nombre": "CANDYMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1422,
@@ -6289,6 +6289,11 @@
     {
       "id": 1078,
       "nombre": "X -PHOENIX",
+      "cantidad": 1
+    },
+    {
+      "id": 1402,
+      "nombre": "ARMY OF DARKNESS",
       "cantidad": 1
     }
   ]
