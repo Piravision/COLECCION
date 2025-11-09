@@ -1564,7 +1564,7 @@
     {
       "id": 534,
       "nombre": "T800-Jail",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 796,
@@ -2329,6 +2329,16 @@
     {
       "id": 1464,
       "nombre": "PROMO-FRANKESTEIN",
+      "cantidad": 1
+    },
+    {
+      "id": 1117,
+      "nombre": "PF-PITUFINA",
+      "cantidad": 1
+    },
+    {
+      "id": 679,
+      "nombre": "DB-067",
       "cantidad": 1
     }
   ]

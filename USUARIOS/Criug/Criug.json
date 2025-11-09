@@ -99,7 +99,7 @@
     {
       "id": 38,
       "nombre": "brokeena",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 244,
@@ -214,7 +214,7 @@
     {
       "id": 398,
       "nombre": "barret",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 80,
@@ -1199,7 +1199,7 @@
     {
       "id": 171,
       "nombre": "Mary Jane",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 121,
@@ -1769,7 +1769,7 @@
     {
       "id": 691,
       "nombre": "DB-079",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 638,
@@ -2029,7 +2029,7 @@
     {
       "id": 28,
       "nombre": "Presto",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 228,
@@ -2624,7 +2624,7 @@
     {
       "id": 379,
       "nombre": "lynx",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 336,
@@ -2864,7 +2864,7 @@
     {
       "id": 788,
       "nombre": "EL-FANTASMA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 787,
@@ -3004,7 +3004,7 @@
     {
       "id": 717,
       "nombre": "DB-105",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 337,
@@ -4194,7 +4194,7 @@
     {
       "id": 875,
       "nombre": "DARDEVIL",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 878,
@@ -4354,7 +4354,7 @@
     {
       "id": 1052,
       "nombre": "JOCASTA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 885,
@@ -4894,7 +4894,7 @@
     {
       "id": 641,
       "nombre": "DB-029",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 669,
@@ -5379,7 +5379,7 @@
     {
       "id": 1158,
       "nombre": "FLASH",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 995,
@@ -5839,7 +5839,7 @@
     {
       "id": 1213,
       "nombre": "4-STREET-OF-RAGE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1155,
@@ -5964,7 +5964,7 @@
     {
       "id": 1267,
       "nombre": "DARKSTALKERS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1201,
@@ -6634,7 +6634,7 @@
     {
       "id": 1340,
       "nombre": "5D-BIRDRAMON",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1391,
@@ -6719,7 +6719,7 @@
     {
       "id": 1337,
       "nombre": "5A-SORA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1363,
@@ -6934,7 +6934,7 @@
     {
       "id": 1399,
       "nombre": "9-WIZARDMON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1322,
@@ -7224,7 +7224,7 @@
     {
       "id": 1409,
       "nombre": "CEMENTERIO DE MASCOTAS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1420,
@@ -7539,6 +7539,21 @@
     {
       "id": 1530,
       "nombre": "D1-PICCOLO-JR-",
+      "cantidad": 1
+    },
+    {
+      "id": 1495,
+      "nombre": "A1-GOKU",
+      "cantidad": 1
+    },
+    {
+      "id": 1494,
+      "nombre": "A1-BULMA",
+      "cantidad": 1
+    },
+    {
+      "id": 1507,
+      "nombre": "A3-KORIN",
       "cantidad": 1
     }
   ]

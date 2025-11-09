@@ -604,7 +604,7 @@
     {
       "id": 825,
       "nombre": "SMOKE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 822,
@@ -929,7 +929,7 @@
     {
       "id": 393,
       "nombre": "Tawna",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 387,
@@ -939,7 +939,7 @@
     {
       "id": 384,
       "nombre": "aku aku",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 363,
@@ -1019,7 +1019,7 @@
     {
       "id": 193,
       "nombre": "Jab",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 205,
@@ -1034,12 +1034,12 @@
     {
       "id": 386,
       "nombre": "CROMO PERSONAJE",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 390,
       "nombre": "papu",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 501,
@@ -1229,7 +1229,7 @@
     {
       "id": 200,
       "nombre": "Swordo",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 192,
@@ -1359,7 +1359,7 @@
     {
       "id": 389,
       "nombre": "neo cortex",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 394,
@@ -1504,12 +1504,12 @@
     {
       "id": 87,
       "nombre": "Walter _Doc_ Hartford",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 86,
       "nombre": "Shane Gooseman",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 137,
@@ -1779,7 +1779,7 @@
     {
       "id": 206,
       "nombre": "Slash",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 298,
@@ -1824,7 +1824,7 @@
     {
       "id": 88,
       "nombre": "Zackary Foxx",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 356,
@@ -3099,7 +3099,7 @@
     {
       "id": 391,
       "nombre": "piretripe",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1303,
@@ -3434,7 +3434,7 @@
     {
       "id": 1292,
       "nombre": "ALF-FAMILY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1057,
@@ -4029,7 +4029,7 @@
     {
       "id": 823,
       "nombre": "SHEEVA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1355,
@@ -4244,6 +4244,36 @@
     {
       "id": 264,
       "nombre": "Donatello",
+      "cantidad": 1
+    },
+    {
+      "id": 1251,
+      "nombre": "PADRES-FORZOSOS",
+      "cantidad": 1
+    },
+    {
+      "id": 1249,
+      "nombre": "MATRIMONIO-CON-HIJOS",
+      "cantidad": 1
+    },
+    {
+      "id": 1544,
+      "nombre": "DR.-FLAPPE",
+      "cantidad": 1
+    },
+    {
+      "id": 1574,
+      "nombre": "W-MELEE",
+      "cantidad": 1
+    },
+    {
+      "id": 1586,
+      "nombre": "Z-AGUA-SAGRADA",
+      "cantidad": 1
+    },
+    {
+      "id": 806,
+      "nombre": "JADE",
       "cantidad": 1
     }
   ]
