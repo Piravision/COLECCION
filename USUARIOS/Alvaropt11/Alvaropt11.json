@@ -1044,7 +1044,7 @@
         {
             "id": 664,
             "nombre": "DB-052",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 494,
@@ -7504,6 +7504,11 @@
         {
             "id": 1502,
             "nombre": "A2-MAESTRO-ROSHI",
+            "cantidad": 1
+        },
+        {
+            "id": 1537,
+            "nombre": "DR-OBOTCHAMAN",
             "cantidad": 1
         }
     ]
