@@ -459,7 +459,7 @@
     {
       "id": 200,
       "nombre": "Swordo",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 651,
@@ -2844,7 +2844,7 @@
     {
       "id": 768,
       "nombre": "megazord",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1172,
@@ -3969,7 +3969,7 @@
     {
       "id": 1581,
       "nombre": "X-FANTASMA-USHER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1469,
@@ -4179,7 +4179,7 @@
     {
       "id": 1503,
       "nombre": "A2-TORTUGA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1473,
@@ -4189,7 +4189,7 @@
     {
       "id": 1529,
       "nombre": "D1-1PICCOLO-NIÑO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 873,
@@ -4299,6 +4299,26 @@
     {
       "id": 869,
       "nombre": "ARNIM-ZOLA",
+      "cantidad": 1
+    },
+    {
+      "id": 1383,
+      "nombre": "9-LEOMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1532,
+      "nombre": "D2-PIANO",
+      "cantidad": 1
+    },
+    {
+      "id": 1508,
+      "nombre": "A3-MR.-POPO",
+      "cantidad": 1
+    },
+    {
+      "id": 1494,
+      "nombre": "A1-BULMA",
       "cantidad": 1
     }
   ]
