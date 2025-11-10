@@ -419,7 +419,7 @@
     {
       "id": 1044,
       "nombre": "HAVOK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1004,
@@ -954,7 +954,7 @@
     {
       "id": 1246,
       "nombre": "LA-NINERA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1446,
@@ -1384,7 +1384,7 @@
     {
       "id": 1412,
       "nombre": "DARMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1169,
@@ -1749,7 +1749,7 @@
     {
       "id": 676,
       "nombre": "DB-064",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1417,
@@ -1949,7 +1949,7 @@
     {
       "id": 952,
       "nombre": "11-HEIDI-&-MARCO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 894,
@@ -2294,7 +2294,7 @@
     {
       "id": 196,
       "nombre": "Ripster",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 192,
@@ -2614,7 +2614,7 @@
     {
       "id": 343,
       "nombre": "Flazzard 2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 820,
@@ -2784,7 +2784,7 @@
     {
       "id": 722,
       "nombre": "DB-110",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1166,
@@ -2889,7 +2889,7 @@
     {
       "id": 1051,
       "nombre": "JACK-HEARTS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 706,
@@ -3144,7 +3144,7 @@
     {
       "id": 1471,
       "nombre": "1A-FA03",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1525,
@@ -3274,7 +3274,7 @@
     {
       "id": 1515,
       "nombre": "B1-CORONEL-VIOLET",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1330,
@@ -3529,6 +3529,41 @@
     {
       "id": 739,
       "nombre": "Athenea",
+      "cantidad": 1
+    },
+    {
+      "id": 989,
+      "nombre": "CAPITAN-HARLOCK",
+      "cantidad": 1
+    },
+    {
+      "id": 933,
+      "nombre": "REY-MISTERIO",
+      "cantidad": 1
+    },
+    {
+      "id": 789,
+      "nombre": "ENIGMA",
+      "cantidad": 1
+    },
+    {
+      "id": 790,
+      "nombre": "ESPANTAPAJAROS",
+      "cantidad": 1
+    },
+    {
+      "id": 910,
+      "nombre": "LOIS-LANE",
+      "cantidad": 1
+    },
+    {
+      "id": 383,
+      "nombre": "viper",
+      "cantidad": 1
+    },
+    {
+      "id": 1047,
+      "nombre": "I- BLACK-BOLT-2",
       "cantidad": 1
     }
   ]

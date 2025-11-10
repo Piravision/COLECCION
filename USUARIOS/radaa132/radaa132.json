@@ -3174,7 +3174,7 @@
     {
       "id": 1185,
       "nombre": "WICKET",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 939,
@@ -4064,7 +4064,7 @@
     {
       "id": 3,
       "nombre": "Juez J. Bella",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1000,
@@ -5009,7 +5009,7 @@
     {
       "id": 844,
       "nombre": "HONDA2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 934,
@@ -6124,7 +6124,7 @@
     {
       "id": 465,
       "nombre": "air",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1421,
@@ -6314,6 +6314,16 @@
     {
       "id": 1587,
       "nombre": "Z-BOLAS-DE-DRAGON",
+      "cantidad": 1
+    },
+    {
+      "id": 227,
+      "nombre": "Hawks Haven",
+      "cantidad": 1
+    },
+    {
+      "id": 1525,
+      "nombre": "C1-MAI",
       "cantidad": 1
     }
   ]
