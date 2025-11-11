@@ -689,7 +689,7 @@
         {
             "id": 388,
             "nombre": "koala2",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 516,
@@ -6794,6 +6794,11 @@
         {
             "id": 1501,
             "nombre": "A2-LUNCH-BAD",
+            "cantidad": 1
+        },
+        {
+            "id": 633,
+            "nombre": "DB-021",
             "cantidad": 1
         }
     ]
