@@ -794,7 +794,7 @@
     {
       "id": 810,
       "nombre": "KANO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 885,
@@ -1294,7 +1294,7 @@
     {
       "id": 832,
       "nombre": "BLANKA",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 704,
@@ -2094,7 +2094,7 @@
     {
       "id": 230,
       "nombre": "Mansion X",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 952,
@@ -2169,7 +2169,7 @@
     {
       "id": 1004,
       "nombre": "R.KENSHIN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1083,
@@ -5344,7 +5344,7 @@
     {
       "id": 1325,
       "nombre": "3G-GABUMON-EVO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 882,
@@ -6344,6 +6344,11 @@
     {
       "id": 1432,
       "nombre": "LA NOVIA DE REANIMATOR",
+      "cantidad": 1
+    },
+    {
+      "id": 1504,
+      "nombre": "A3-FAKE-BULMA",
       "cantidad": 1
     }
   ]

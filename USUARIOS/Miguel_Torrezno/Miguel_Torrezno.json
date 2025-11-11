@@ -1774,7 +1774,7 @@
         {
             "id": 799,
             "nombre": "POISON-IVY",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 290,
@@ -5529,7 +5529,7 @@
         {
             "id": 1028,
             "nombre": "BLACK KNIGHT",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 1306,
@@ -6559,7 +6559,7 @@
         {
             "id": 1579,
             "nombre": "X-ABUELO-SON-GOHAN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1500,
@@ -6774,6 +6774,16 @@
         {
             "id": 1590,
             "nombre": "Z-MOTO-BULMA",
+            "cantidad": 1
+        },
+        {
+            "id": 1560,
+            "nombre": "T-FANFAN",
+            "cantidad": 1
+        },
+        {
+            "id": 1506,
+            "nombre": "A3-KAMI-SAMA",
             "cantidad": 1
         }
     ]
