@@ -6669,7 +6669,7 @@
         {
             "id": 1366,
             "nombre": "8C-SALAMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1368,
@@ -6689,7 +6689,7 @@
         {
             "id": 1321,
             "nombre": "3C-GABUMON",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1359,
@@ -7159,7 +7159,7 @@
         {
             "id": 1452,
             "nombre": "THE BLOB",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1456,
@@ -7439,7 +7439,7 @@
         {
             "id": 1590,
             "nombre": "Z-MOTO-BULMA",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1571,
@@ -7669,6 +7669,11 @@
         {
             "id": 1585,
             "nombre": "Z-ABANICO-MAGICO",
+            "cantidad": 1
+        },
+        {
+            "id": 1525,
+            "nombre": "C1-MAI",
             "cantidad": 1
         }
     ]

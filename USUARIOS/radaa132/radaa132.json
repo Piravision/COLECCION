@@ -304,7 +304,7 @@
     {
       "id": 293,
       "nombre": "Hot Rod",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 439,
@@ -514,7 +514,7 @@
     {
       "id": 566,
       "nombre": "BIG-BOSSMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 534,
@@ -869,7 +869,7 @@
     {
       "id": 886,
       "nombre": "KARNAK",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 370,
@@ -1104,7 +1104,7 @@
     {
       "id": 807,
       "nombre": "JAX",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 629,
@@ -1249,7 +1249,7 @@
     {
       "id": 555,
       "nombre": "INDIANA-JONES-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 154,
@@ -1549,7 +1549,7 @@
     {
       "id": 135,
       "nombre": "Afrodita A",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 594,
@@ -1679,7 +1679,7 @@
     {
       "id": 726,
       "nombre": "DB-114",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 320,
@@ -2264,7 +2264,7 @@
     {
       "id": 1088,
       "nombre": "1-MISTERIOS-SA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 562,
@@ -2814,7 +2814,7 @@
     {
       "id": 883,
       "nombre": "HULK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 24,
@@ -2869,7 +2869,7 @@
     {
       "id": 1032,
       "nombre": "BV- VISION",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 877,
@@ -3079,7 +3079,7 @@
     {
       "id": 127,
       "nombre": "Evil Lyn",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1263,
@@ -3334,7 +3334,7 @@
     {
       "id": 357,
       "nombre": "china",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 931,
@@ -3509,7 +3509,7 @@
     {
       "id": 890,
       "nombre": "MEDUSA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 947,
@@ -4084,7 +4084,7 @@
     {
       "id": 358,
       "nombre": "jenny",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 6,
@@ -5109,7 +5109,7 @@
     {
       "id": 1182,
       "nombre": "JAYCE-Y-LOS-GUERREROS-RODANTES",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1226,
@@ -5734,7 +5734,7 @@
     {
       "id": 821,
       "nombre": "SHANG-TSUNG",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 767,
@@ -6330,6 +6330,16 @@
       "id": 1539,
       "nombre": "DR-SENBEI-NORIMAKI",
       "cantidad": 2
+    },
+    {
+      "id": 1186,
+      "nombre": "KENSHIRO",
+      "cantidad": 1
+    },
+    {
+      "id": 1469,
+      "nombre": "1A-FA01",
+      "cantidad": 1
     }
   ]
 }
