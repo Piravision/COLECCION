@@ -29,7 +29,7 @@
         {
             "id": 436,
             "nombre": "abe",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 341,
@@ -2164,7 +2164,7 @@
         {
             "id": 533,
             "nombre": "Tony-Montana-Jail",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 642,
@@ -7129,7 +7129,7 @@
         {
             "id": 1411,
             "nombre": "CREEPSHOW",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1423,
@@ -7424,7 +7424,7 @@
         {
             "id": 1534,
             "nombre": "D2-TAMBOURINE",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1517,
@@ -7634,6 +7634,11 @@
         {
             "id": 1549,
             "nombre": "F1--SHEN-MAESTRO",
+            "cantidad": 1
+        },
+        {
+            "id": 1531,
+            "nombre": "D2-DRUM",
             "cantidad": 1
         }
     ]

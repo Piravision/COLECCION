@@ -7399,7 +7399,7 @@
         {
             "id": 1531,
             "nombre": "D2-DRUM",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1499,
@@ -7654,6 +7654,11 @@
         {
             "id": 1520,
             "nombre": "B1-MAJOR-METALLITRON",
+            "cantidad": 1
+        },
+        {
+            "id": 1534,
+            "nombre": "D2-TAMBOURINE",
             "cantidad": 1
         }
     ]

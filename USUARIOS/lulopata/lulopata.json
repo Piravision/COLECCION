@@ -119,7 +119,7 @@
     {
       "id": 1051,
       "nombre": "JACK-HEARTS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1045,
@@ -3439,7 +3439,7 @@
     {
       "id": 1057,
       "nombre": "PALADIN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 81,
@@ -4294,6 +4294,11 @@
     {
       "id": 399,
       "nombre": "cait",
+      "cantidad": 1
+    },
+    {
+      "id": 1040,
+      "nombre": "DR STRANGE",
       "cantidad": 1
     }
   ]
