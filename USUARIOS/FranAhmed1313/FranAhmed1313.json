@@ -189,7 +189,7 @@
     {
       "id": 126,
       "nombre": "Beastman",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 116,
@@ -714,7 +714,7 @@
     {
       "id": 125,
       "nombre": "Teela",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1362,
@@ -3564,6 +3564,11 @@
     {
       "id": 1047,
       "nombre": "I- BLACK-BOLT-2",
+      "cantidad": 1
+    },
+    {
+      "id": 128,
+      "nombre": "Faker",
       "cantidad": 1
     }
   ]
