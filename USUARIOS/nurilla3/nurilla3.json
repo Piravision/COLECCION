@@ -4189,7 +4189,7 @@
         {
             "id": 1529,
             "nombre": "D1-1PICCOLO-NIÑO",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 873,
@@ -4639,6 +4639,11 @@
         {
             "id": 351,
             "nombre": "reaper",
+            "cantidad": 1
+        },
+        {
+            "id": 383,
+            "nombre": "viper",
             "cantidad": 1
         }
     ]
