@@ -4509,7 +4509,7 @@
         {
             "id": 992,
             "nombre": "DORAEMON",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 749,
@@ -7649,6 +7649,11 @@
         {
             "id": 1507,
             "nombre": "A3-KORIN",
+            "cantidad": 1
+        },
+        {
+            "id": 1542,
+            "nombre": "DR-TORI-BOT",
             "cantidad": 1
         }
     ]
