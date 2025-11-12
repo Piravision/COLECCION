@@ -984,7 +984,7 @@
     {
       "id": 809,
       "nombre": "KABAL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 726,
@@ -4389,7 +4389,7 @@
     {
       "id": 964,
       "nombre": "3-TODD-&-SMILEY",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 814,
@@ -5379,7 +5379,7 @@
     {
       "id": 804,
       "nombre": "BARAKA",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1068,
@@ -5869,7 +5869,7 @@
     {
       "id": 955,
       "nombre": "2-CHOP",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1165,
@@ -6064,7 +6064,7 @@
     {
       "id": 1105,
       "nombre": "G-AVECILLA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1141,
@@ -6559,7 +6559,7 @@
     {
       "id": 1321,
       "nombre": "3C-GABUMON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1361,
@@ -6734,7 +6734,7 @@
     {
       "id": 1326,
       "nombre": "3H-FA-MATT",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1356,
@@ -7374,6 +7374,16 @@
     {
       "id": 1504,
       "nombre": "A3-FAKE-BULMA",
+      "cantidad": 1
+    },
+    {
+      "id": 1469,
+      "nombre": "1A-FA01",
+      "cantidad": 1
+    },
+    {
+      "id": 1520,
+      "nombre": "B1-MAJOR-METALLITRON",
       "cantidad": 1
     }
   ]

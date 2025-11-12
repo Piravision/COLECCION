@@ -364,7 +364,7 @@
     {
       "id": 222,
       "nombre": "Espada de Metal Estrella",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 491,
@@ -384,7 +384,7 @@
     {
       "id": 123,
       "nombre": "Sorceress",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 480,
@@ -774,7 +774,7 @@
     {
       "id": 914,
       "nombre": "SUPERMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 522,
@@ -839,7 +839,7 @@
     {
       "id": 53,
       "nombre": "marirov",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 433,
@@ -874,7 +874,7 @@
     {
       "id": 370,
       "nombre": "muerte",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 44,
@@ -1419,7 +1419,7 @@
     {
       "id": 771,
       "nombre": "rita",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 833,
@@ -1489,7 +1489,7 @@
     {
       "id": 38,
       "nombre": "brokeena",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 539,
@@ -1594,7 +1594,7 @@
     {
       "id": 847,
       "nombre": "RYU",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 856,
@@ -1894,7 +1894,7 @@
     {
       "id": 328,
       "nombre": "Juggernaut",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 755,
@@ -1914,7 +1914,7 @@
     {
       "id": 346,
       "nombre": "jess",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1002,
@@ -2189,7 +2189,7 @@
     {
       "id": 66,
       "nombre": "flazzard2",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 975,
@@ -3654,7 +3654,7 @@
     {
       "id": 1261,
       "nombre": "FA-MEGAMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1167,
@@ -3744,7 +3744,7 @@
     {
       "id": 935,
       "nombre": "STONE-COLD",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 50,
@@ -4884,7 +4884,7 @@
     {
       "id": 775,
       "nombre": "yellow",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1367,
@@ -5399,7 +5399,7 @@
     {
       "id": 223,
       "nombre": "G.I. JOE Headquarters",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1446,
@@ -6269,7 +6269,7 @@
     {
       "id": 1499,
       "nombre": "A1-YAMCHA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1593,
@@ -6404,6 +6404,46 @@
     {
       "id": 1477,
       "nombre": "1A-FA09",
+      "cantidad": 1
+    },
+    {
+      "id": 37,
+      "nombre": "brass",
+      "cantidad": 1
+    },
+    {
+      "id": 831,
+      "nombre": "BISON",
+      "cantidad": 1
+    },
+    {
+      "id": 1027,
+      "nombre": "4FV- GALACTUS",
+      "cantidad": 1
+    },
+    {
+      "id": 1497,
+      "nombre": "A1-OOLONG",
+      "cantidad": 1
+    },
+    {
+      "id": 927,
+      "nombre": "BRET-HART",
+      "cantidad": 1
+    },
+    {
+      "id": 1254,
+      "nombre": "SEINFELD",
+      "cantidad": 1
+    },
+    {
+      "id": 692,
+      "nombre": "DB-080",
+      "cantidad": 1
+    },
+    {
+      "id": 1563,
+      "nombre": "T-MR.WOLF",
       "cantidad": 1
     }
   ]
