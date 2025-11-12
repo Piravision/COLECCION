@@ -1049,7 +1049,7 @@
         {
             "id": 1519,
             "nombre": "B1-GUARDIA-ROBOT",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 405,
@@ -1259,6 +1259,11 @@
         {
             "id": 1528,
             "nombre": "D1-1BEBE-PICCOLO",
+            "cantidad": 1
+        },
+        {
+            "id": 652,
+            "nombre": "DB-040",
             "cantidad": 1
         }
     ]

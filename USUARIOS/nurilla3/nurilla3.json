@@ -2889,7 +2889,7 @@
         {
             "id": 652,
             "nombre": "DB-040",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 621,
@@ -4789,6 +4789,11 @@
         {
             "id": 1507,
             "nombre": "A3-KORIN",
+            "cantidad": 1
+        },
+        {
+            "id": 1519,
+            "nombre": "B1-GUARDIA-ROBOT",
             "cantidad": 1
         }
     ]
