@@ -814,7 +814,7 @@
         {
             "id": 600,
             "nombre": "NATUREZA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1358,
@@ -4829,6 +4829,11 @@
         {
             "id": 703,
             "nombre": "DB-091",
+            "cantidad": 1
+        },
+        {
+            "id": 733,
+            "nombre": "DB-121",
             "cantidad": 1
         }
     ]
