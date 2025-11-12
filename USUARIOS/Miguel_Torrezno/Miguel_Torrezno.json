@@ -4489,7 +4489,7 @@
         {
             "id": 703,
             "nombre": "DB-091",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 729,
@@ -6844,6 +6844,11 @@
         {
             "id": 1176,
             "nombre": "IPPO",
+            "cantidad": 1
+        },
+        {
+            "id": 1476,
+            "nombre": "1A-FA08",
             "cantidad": 1
         }
     ]
