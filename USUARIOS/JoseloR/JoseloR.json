@@ -1149,7 +1149,7 @@
     {
       "id": 689,
       "nombre": "DB-077",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 219,
@@ -1699,7 +1699,7 @@
     {
       "id": 1275,
       "nombre": "RAYMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 289,
@@ -2099,7 +2099,7 @@
     {
       "id": 722,
       "nombre": "DB-110",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1158,
@@ -2354,6 +2354,21 @@
     {
       "id": 1505,
       "nombre": "A3-FAKE-GOKU",
+      "cantidad": 1
+    },
+    {
+      "id": 647,
+      "nombre": "DB-035",
+      "cantidad": 1
+    },
+    {
+      "id": 1303,
+      "nombre": "1C-AGUMON",
+      "cantidad": 1
+    },
+    {
+      "id": 698,
+      "nombre": "DB-086",
       "cantidad": 1
     }
   ]
