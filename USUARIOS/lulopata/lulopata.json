@@ -269,7 +269,7 @@
     {
       "id": 199,
       "nombre": "Streex",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 203,
@@ -594,7 +594,7 @@
     {
       "id": 31,
       "nombre": "Tiamat",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 809,
@@ -1234,7 +1234,7 @@
     {
       "id": 192,
       "nombre": "Bends",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 204,
@@ -1774,7 +1774,7 @@
     {
       "id": 198,
       "nombre": "Slammu",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 206,
@@ -1844,7 +1844,7 @@
     {
       "id": 670,
       "nombre": "DB-058",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 721,
@@ -1924,12 +1924,12 @@
     {
       "id": 1160,
       "nombre": "GOLDENAGE- GREEN LANTERN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1166,
       "nombre": "HAWKWOMAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1226,
@@ -2119,7 +2119,7 @@
     {
       "id": 26,
       "nombre": "Eric",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1407,
@@ -3039,7 +3039,7 @@
     {
       "id": 700,
       "nombre": "DB-088",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 243,
@@ -3534,7 +3534,7 @@
     {
       "id": 615,
       "nombre": "DB-003",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 550,
@@ -4199,7 +4199,7 @@
     {
       "id": 32,
       "nombre": "Venger",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 172,
@@ -4309,6 +4309,11 @@
     {
       "id": 339,
       "nombre": "Shun de Andrómeda",
+      "cantidad": 1
+    },
+    {
+      "id": 1169,
+      "nombre": "RED TORNADO",
       "cantidad": 1
     }
   ]

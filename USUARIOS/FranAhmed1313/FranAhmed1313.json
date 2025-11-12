@@ -79,7 +79,7 @@
     {
       "id": 930,
       "nombre": "MANKIND",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 406,
@@ -374,7 +374,7 @@
     {
       "id": 1151,
       "nombre": "BATMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1027,
@@ -869,7 +869,7 @@
     {
       "id": 120,
       "nombre": "Principe Adam",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1440,
@@ -894,7 +894,7 @@
     {
       "id": 1003,
       "nombre": "NINJA-ATORI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 849,
@@ -1439,7 +1439,7 @@
     {
       "id": 927,
       "nombre": "BRET-HART",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 833,
@@ -2304,7 +2304,7 @@
     {
       "id": 203,
       "nombre": "Repteel",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 408,
@@ -2399,7 +2399,7 @@
     {
       "id": 594,
       "nombre": "JUAN-DIAZ",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 144,
@@ -2669,7 +2669,7 @@
     {
       "id": 385,
       "nombre": "brio",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1230,
@@ -2689,7 +2689,7 @@
     {
       "id": 185,
       "nombre": "Morbius",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1079,
@@ -2704,7 +2704,7 @@
     {
       "id": 388,
       "nombre": "koala2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1043,
@@ -3569,6 +3569,76 @@
     {
       "id": 128,
       "nombre": "Faker",
+      "cantidad": 1
+    },
+    {
+      "id": 772,
+      "nombre": "Rita-Repulsa",
+      "cantidad": 1
+    },
+    {
+      "id": 17,
+      "nombre": "Guerrero Serpiente",
+      "cantidad": 1
+    },
+    {
+      "id": 1538,
+      "nombre": "DR-POOP",
+      "cantidad": 1
+    },
+    {
+      "id": 562,
+      "nombre": "PETER-GRIFFIN-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1520,
+      "nombre": "B1-MAJOR-METALLITRON",
+      "cantidad": 1
+    },
+    {
+      "id": 1530,
+      "nombre": "D1-PICCOLO-JR-",
+      "cantidad": 1
+    },
+    {
+      "id": 255,
+      "nombre": "Ma Mutt",
+      "cantidad": 1
+    },
+    {
+      "id": 393,
+      "nombre": "Tawna",
+      "cantidad": 1
+    },
+    {
+      "id": 828,
+      "nombre": "SUB-ZERO",
+      "cantidad": 1
+    },
+    {
+      "id": 281,
+      "nombre": "Granitor",
+      "cantidad": 1
+    },
+    {
+      "id": 1356,
+      "nombre": "7B-TOKOMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1148,
+      "nombre": "AQUAMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 653,
+      "nombre": "DB-041",
+      "cantidad": 1
+    },
+    {
+      "id": 531,
+      "nombre": "McClane-Jail",
       "cantidad": 1
     }
   ]
