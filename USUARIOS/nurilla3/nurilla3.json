@@ -239,7 +239,7 @@
         {
             "id": 1079,
             "nombre": "X -ROGUE",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 396,
@@ -614,7 +614,7 @@
         {
             "id": 1232,
             "nombre": "TINTIN-&-MILU",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1297,
@@ -3234,7 +3234,7 @@
         {
             "id": 935,
             "nombre": "STONE-COLD",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 252,
@@ -4834,6 +4834,16 @@
         {
             "id": 733,
             "nombre": "DB-121",
+            "cantidad": 1
+        },
+        {
+            "id": 195,
+            "nombre": "Moby Lick",
+            "cantidad": 1
+        },
+        {
+            "id": 713,
+            "nombre": "DB-101",
             "cantidad": 1
         }
     ]

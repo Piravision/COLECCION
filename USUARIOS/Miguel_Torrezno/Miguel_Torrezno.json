@@ -2134,7 +2134,7 @@
         {
             "id": 713,
             "nombre": "DB-101",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 801,
@@ -6854,6 +6854,11 @@
         {
             "id": 600,
             "nombre": "NATUREZA",
+            "cantidad": 1
+        },
+        {
+            "id": 1232,
+            "nombre": "TINTIN-&-MILU",
             "cantidad": 1
         }
     ]
