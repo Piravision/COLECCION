@@ -419,7 +419,7 @@
     {
       "id": 66,
       "nombre": "flazzard2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 522,
@@ -6659,7 +6659,7 @@
     {
       "id": 1320,
       "nombre": "3B-TSUNOMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1372,
@@ -7184,7 +7184,7 @@
     {
       "id": 1438,
       "nombre": "MUÑECO DIABOLICO ii",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1407,
@@ -7469,7 +7469,7 @@
     {
       "id": 1562,
       "nombre": "T-JACKIE-CHUN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1554,
@@ -7639,7 +7639,7 @@
     {
       "id": 1531,
       "nombre": "D2-DRUM",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1496,
@@ -7684,7 +7684,7 @@
     {
       "id": 1536,
       "nombre": "DR-GATCHAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1485,
@@ -7699,11 +7699,21 @@
     {
       "id": 1472,
       "nombre": "1A-FA04",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1513,
       "nombre": "B1-COMANDANTE-RED",
+      "cantidad": 1
+    },
+    {
+      "id": 1504,
+      "nombre": "A3-FAKE-BULMA",
+      "cantidad": 1
+    },
+    {
+      "id": 1567,
+      "nombre": "T-SHEN",
       "cantidad": 1
     }
   ]

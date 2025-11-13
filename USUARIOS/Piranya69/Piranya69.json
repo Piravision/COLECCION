@@ -2004,7 +2004,7 @@
     {
       "id": 516,
       "nombre": "LEGIÓN-DEL-DRAGÓN",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 554,
@@ -4204,7 +4204,7 @@
     {
       "id": 666,
       "nombre": "DB-054",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 971,
@@ -5889,7 +5889,7 @@
     {
       "id": 1124,
       "nombre": "GENKI-&-MOCCHI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1260,
@@ -7364,7 +7364,7 @@
     {
       "id": 1586,
       "nombre": "Z-AGUA-SAGRADA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1537,
@@ -7539,6 +7539,31 @@
     {
       "id": 1590,
       "nombre": "Z-MOTO-BULMA",
+      "cantidad": 1
+    },
+    {
+      "id": 1546,
+      "nombre": "E1-DR.-BRIEF",
+      "cantidad": 1
+    },
+    {
+      "id": 1561,
+      "nombre": "T-HASKY",
+      "cantidad": 1
+    },
+    {
+      "id": 1504,
+      "nombre": "A3-FAKE-BULMA",
+      "cantidad": 1
+    },
+    {
+      "id": 1533,
+      "nombre": "D2-REY-PICCOLO",
+      "cantidad": 1
+    },
+    {
+      "id": 1558,
+      "nombre": "T-BACTERIAN",
       "cantidad": 1
     }
   ]
