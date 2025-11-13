@@ -94,7 +94,7 @@
     {
       "id": 165,
       "nombre": "Daredevil",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 14,
@@ -479,7 +479,7 @@
     {
       "id": 843,
       "nombre": "HONDA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 270,
@@ -589,7 +589,7 @@
     {
       "id": 352,
       "nombre": "septimus",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 379,
@@ -894,7 +894,7 @@
     {
       "id": 628,
       "nombre": "DB-016",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 9,
@@ -1339,7 +1339,7 @@
     {
       "id": 117,
       "nombre": "He man",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 804,
@@ -1874,7 +1874,7 @@
     {
       "id": 285,
       "nombre": "Rocksteady",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 89,
@@ -1994,7 +1994,7 @@
     {
       "id": 738,
       "nombre": "Aldebarán-de-Tauro",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 873,
@@ -2364,7 +2364,7 @@
     {
       "id": 710,
       "nombre": "DB-098",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 923,
@@ -2374,7 +2374,7 @@
     {
       "id": 720,
       "nombre": "DB-108",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 938,
@@ -2454,7 +2454,7 @@
     {
       "id": 242,
       "nombre": "Tiger Force",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 876,
@@ -2559,7 +2559,7 @@
     {
       "id": 1146,
       "nombre": "TROTAMUSICOS",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 579,
@@ -2569,7 +2569,7 @@
     {
       "id": 142,
       "nombre": "Tanya Vanderflock",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 946,
@@ -2619,7 +2619,7 @@
     {
       "id": 1121,
       "nombre": "RUGRATS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 452,
@@ -2779,7 +2779,7 @@
     {
       "id": 732,
       "nombre": "DB-120",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 516,
@@ -3679,7 +3679,7 @@
     {
       "id": 673,
       "nombre": "DB-061",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 84,
@@ -3709,7 +3709,7 @@
     {
       "id": 148,
       "nombre": "Charlene _Charley_ Davidson",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 493,
@@ -4254,7 +4254,7 @@
     {
       "id": 1379,
       "nombre": "9-DEVYMON",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1344,
@@ -4489,7 +4489,7 @@
     {
       "id": 1164,
       "nombre": "GREEN LANTERN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 879,
@@ -4584,7 +4584,7 @@
     {
       "id": 1321,
       "nombre": "3C-GABUMON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1400,
@@ -4629,7 +4629,7 @@
     {
       "id": 1326,
       "nombre": "3H-FA-MATT",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1393,
@@ -4864,7 +4864,7 @@
     {
       "id": 662,
       "nombre": "DB-050",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1313,
@@ -5004,7 +5004,7 @@
     {
       "id": 1086,
       "nombre": "Z - AVENGERS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 844,
@@ -5299,7 +5299,7 @@
     {
       "id": 1392,
       "nombre": "9-OTAMAMON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 632,
@@ -5449,7 +5449,7 @@
     {
       "id": 1424,
       "nombre": "HELLRAISER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1435,
@@ -6344,7 +6344,7 @@
     {
       "id": 1432,
       "nombre": "LA NOVIA DE REANIMATOR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1504,
@@ -6469,6 +6469,31 @@
     {
       "id": 1591,
       "nombre": "Z-NUBE-KINTON",
+      "cantidad": 1
+    },
+    {
+      "id": 290,
+      "nombre": "Tokka",
+      "cantidad": 1
+    },
+    {
+      "id": 1439,
+      "nombre": "MUÑECO DIABOLICO",
+      "cantidad": 1
+    },
+    {
+      "id": 1588,
+      "nombre": "Z-CAPSULAS-HOI-POI",
+      "cantidad": 1
+    },
+    {
+      "id": 1040,
+      "nombre": "DR STRANGE",
+      "cantidad": 1
+    },
+    {
+      "id": 91,
+      "nombre": "Bronx",
       "cantidad": 1
     }
   ]

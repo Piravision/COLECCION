@@ -304,7 +304,7 @@
     {
       "id": 157,
       "nombre": "Bluegrass",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 159,
@@ -404,7 +404,7 @@
     {
       "id": 158,
       "nombre": "Copper Kid",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 802,
@@ -504,7 +504,7 @@
     {
       "id": 17,
       "nombre": "Guerrero Serpiente",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 10,
@@ -714,17 +714,17 @@
     {
       "id": 145,
       "nombre": "Lord Dragaunus",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 144,
       "nombre": "Grin-Hardwing",
-      "cantidad": 4
+      "cantidad": 6
     },
     {
       "id": 146,
       "nombre": "Siege",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 617,
@@ -864,7 +864,7 @@
     {
       "id": 162,
       "nombre": "Mon Star",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 831,
@@ -909,7 +909,7 @@
     {
       "id": 139,
       "nombre": "Duke L'Orange",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 1188,
@@ -1274,7 +1274,7 @@
     {
       "id": 15,
       "nombre": "Zula",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 189,
@@ -1479,7 +1479,7 @@
     {
       "id": 142,
       "nombre": "Tanya Vanderflock",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 257,
@@ -1499,7 +1499,7 @@
     {
       "id": 85,
       "nombre": "Niko",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 87,
@@ -1509,7 +1509,7 @@
     {
       "id": 86,
       "nombre": "Shane Gooseman",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 137,
@@ -1704,7 +1704,7 @@
     {
       "id": 201,
       "nombre": "Dr. paradigma",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 546,
@@ -1779,7 +1779,7 @@
     {
       "id": 206,
       "nombre": "Slash",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 298,
@@ -1824,7 +1824,7 @@
     {
       "id": 88,
       "nombre": "Zackary Foxx",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 356,
@@ -2269,7 +2269,7 @@
     {
       "id": 197,
       "nombre": "Rox",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 211,
@@ -4329,6 +4329,26 @@
     {
       "id": 1308,
       "nombre": "1H-FA-TAI",
+      "cantidad": 1
+    },
+    {
+      "id": 18,
+      "nombre": "Mesmira",
+      "cantidad": 1
+    },
+    {
+      "id": 519,
+      "nombre": "Tortugamóvil",
+      "cantidad": 1
+    },
+    {
+      "id": 518,
+      "nombre": "Tecmódromo",
+      "cantidad": 1
+    },
+    {
+      "id": 234,
+      "nombre": "Nueva Texas",
       "cantidad": 1
     }
   ]
