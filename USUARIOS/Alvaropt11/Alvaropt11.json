@@ -5724,7 +5724,7 @@
         {
             "id": 1300,
             "nombre": "FA-TOKI",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 633,
@@ -7724,6 +7724,11 @@
         {
             "id": 1480,
             "nombre": "1A-FA12",
+            "cantidad": 1
+        },
+        {
+            "id": 1490,
+            "nombre": "1A-FA22",
             "cantidad": 1
         }
     ]
