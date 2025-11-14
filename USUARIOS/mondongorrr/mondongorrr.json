@@ -7409,7 +7409,7 @@
     {
       "id": 1501,
       "nombre": "A2-LUNCH-BAD",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1581,
@@ -7429,6 +7429,16 @@
     {
       "id": 1535,
       "nombre": "DR-ARALE",
+      "cantidad": 1
+    },
+    {
+      "id": 1502,
+      "nombre": "A2-MAESTRO-ROSHI",
+      "cantidad": 1
+    },
+    {
+      "id": 1556,
+      "nombre": "F2-CIBORG-TAO-PAI-PAI",
       "cantidad": 1
     }
   ]
