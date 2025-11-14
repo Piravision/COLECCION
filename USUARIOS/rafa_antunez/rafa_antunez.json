@@ -204,7 +204,7 @@
     {
       "id": 496,
       "nombre": "LUCA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 852,
@@ -2134,7 +2134,7 @@
     {
       "id": 759,
       "nombre": "Shion",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 883,
@@ -2259,7 +2259,7 @@
     {
       "id": 729,
       "nombre": "DB-117",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 259,
@@ -2679,7 +2679,7 @@
     {
       "id": 693,
       "nombre": "DB-081",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 114,
@@ -2719,7 +2719,7 @@
     {
       "id": 625,
       "nombre": "DB-013",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1367,
@@ -2864,6 +2864,86 @@
     {
       "id": 742,
       "nombre": "Dark Saga",
+      "cantidad": 1
+    },
+    {
+      "id": 255,
+      "nombre": "Ma Mutt",
+      "cantidad": 1
+    },
+    {
+      "id": 788,
+      "nombre": "EL-FANTASMA",
+      "cantidad": 1
+    },
+    {
+      "id": 1460,
+      "nombre": "WISHMASTER",
+      "cantidad": 1
+    },
+    {
+      "id": 31,
+      "nombre": "Tiamat",
+      "cantidad": 1
+    },
+    {
+      "id": 404,
+      "nombre": "sefirot",
+      "cantidad": 1
+    },
+    {
+      "id": 1536,
+      "nombre": "DR-GATCHAN",
+      "cantidad": 1
+    },
+    {
+      "id": 727,
+      "nombre": "DB-115",
+      "cantidad": 1
+    },
+    {
+      "id": 711,
+      "nombre": "DB-099",
+      "cantidad": 1
+    },
+    {
+      "id": 510,
+      "nombre": "PAUL",
+      "cantidad": 1
+    },
+    {
+      "id": 540,
+      "nombre": "CHUCK-NORRIS",
+      "cantidad": 1
+    },
+    {
+      "id": 1589,
+      "nombre": "Z-JUDIAS-MAGICAS",
+      "cantidad": 1
+    },
+    {
+      "id": 1549,
+      "nombre": "F1--SHEN-MAESTRO",
+      "cantidad": 1
+    },
+    {
+      "id": 1506,
+      "nombre": "A3-KAMI-SAMA",
+      "cantidad": 1
+    },
+    {
+      "id": 1557,
+      "nombre": "F2A-TAO-PAI-PAI",
+      "cantidad": 1
+    },
+    {
+      "id": 1494,
+      "nombre": "A1-BULMA",
+      "cantidad": 1
+    },
+    {
+      "id": 1508,
+      "nombre": "A3-MR.-POPO",
       "cantidad": 1
     }
   ]

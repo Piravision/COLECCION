@@ -1519,7 +1519,7 @@
     {
       "id": 252,
       "nombre": "Alluro",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 655,
@@ -3239,7 +3239,7 @@
     {
       "id": 777,
       "nombre": "Zordon",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1299,
@@ -5414,7 +5414,7 @@
     {
       "id": 1354,
       "nombre": "6I-IZZY-FOIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1376,
@@ -5519,7 +5519,7 @@
     {
       "id": 342,
       "nombre": "Flazzard",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1222,
@@ -5754,7 +5754,7 @@
     {
       "id": 986,
       "nombre": "15-BALOO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 934,
@@ -5909,7 +5909,7 @@
     {
       "id": 1429,
       "nombre": "KILLER KLOWS",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1448,
@@ -6559,7 +6559,7 @@
     {
       "id": 1579,
       "nombre": "X-ABUELO-SON-GOHAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1500,
@@ -6869,11 +6869,16 @@
     {
       "id": 1537,
       "nombre": "DR-OBOTCHAMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1519,
       "nombre": "B1-GUARDIA-ROBOT",
+      "cantidad": 1
+    },
+    {
+      "id": 1524,
+      "nombre": "B2-SUNO",
       "cantidad": 1
     }
   ]

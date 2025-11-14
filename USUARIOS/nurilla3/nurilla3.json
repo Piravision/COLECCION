@@ -1059,7 +1059,7 @@
     {
       "id": 692,
       "nombre": "DB-080",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1293,
@@ -2839,7 +2839,7 @@
     {
       "id": 1029,
       "nombre": "BLACK-PHANTER-2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 768,
@@ -3544,7 +3544,7 @@
     {
       "id": 1541,
       "nombre": "DR-SUPPAMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1474,
@@ -3959,7 +3959,7 @@
     {
       "id": 1535,
       "nombre": "DR-ARALE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1476,
@@ -4319,7 +4319,7 @@
     {
       "id": 1494,
       "nombre": "A1-BULMA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 113,
@@ -4664,12 +4664,12 @@
     {
       "id": 1033,
       "nombre": "CABALLERO LUNA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 556,
       "nombre": "LEIA-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 477,
@@ -4939,6 +4939,46 @@
     {
       "id": 1089,
       "nombre": "ACE-VENTURA",
+      "cantidad": 1
+    },
+    {
+      "id": 1347,
+      "nombre": "6B-MOCHIMON",
+      "cantidad": 1
+    },
+    {
+      "id": 667,
+      "nombre": "DB-055",
+      "cantidad": 1
+    },
+    {
+      "id": 686,
+      "nombre": "DB-074",
+      "cantidad": 1
+    },
+    {
+      "id": 647,
+      "nombre": "DB-035",
+      "cantidad": 1
+    },
+    {
+      "id": 832,
+      "nombre": "BLANKA",
+      "cantidad": 1
+    },
+    {
+      "id": 1590,
+      "nombre": "Z-MOTO-BULMA",
+      "cantidad": 1
+    },
+    {
+      "id": 1499,
+      "nombre": "A1-YAMCHA",
+      "cantidad": 1
+    },
+    {
+      "id": 1577,
+      "nombre": "W-TERROR",
       "cantidad": 1
     }
   ]
