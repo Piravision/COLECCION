@@ -734,7 +734,7 @@
     {
       "id": 29,
       "nombre": "Sheila",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 164,
@@ -1304,7 +1304,7 @@
     {
       "id": 264,
       "nombre": "Donatello",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 562,
@@ -1574,7 +1574,7 @@
     {
       "id": 119,
       "nombre": "orko",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 213,
@@ -1624,7 +1624,7 @@
     {
       "id": 628,
       "nombre": "DB-016",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 644,
@@ -2494,7 +2494,7 @@
     {
       "id": 267,
       "nombre": "Metalhead",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 476,
@@ -2604,7 +2604,7 @@
     {
       "id": 687,
       "nombre": "DB-075",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 352,
@@ -2889,7 +2889,7 @@
     {
       "id": 794,
       "nombre": "HUGO-STRANGE",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 200,
@@ -2899,7 +2899,7 @@
     {
       "id": 304,
       "nombre": "Runabout",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 142,
@@ -3229,7 +3229,7 @@
     {
       "id": 360,
       "nombre": "stung",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 876,
@@ -4394,7 +4394,7 @@
     {
       "id": 1099,
       "nombre": "D-DARKWING-DUCK",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 981,
@@ -5294,7 +5294,7 @@
     {
       "id": 1016,
       "nombre": "1- VENOM",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1117,
@@ -6864,7 +6864,7 @@
     {
       "id": 1335,
       "nombre": "4H-FA-MIMI",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1354,
@@ -6889,7 +6889,7 @@
     {
       "id": 1361,
       "nombre": "7G-PATAMON-EVO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1348,
@@ -7750,6 +7750,11 @@
       "id": 1537,
       "nombre": "DR-OBOTCHAMAN",
       "cantidad": 1
+    },
+    {
+      "id": 1578,
+      "nombre": "W-YAJIROBE",
+      "cantidad": 2
     }
   ]
 }
