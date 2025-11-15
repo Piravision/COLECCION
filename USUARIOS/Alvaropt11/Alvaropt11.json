@@ -4424,7 +4424,7 @@
         {
             "id": 999,
             "nombre": "LUFFY-MONKEY",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1010,
@@ -7784,6 +7784,11 @@
         {
             "id": 1563,
             "nombre": "T-MR.WOLF",
+            "cantidad": 1
+        },
+        {
+            "id": 1535,
+            "nombre": "DR-ARALE",
             "cantidad": 1
         }
     ]
