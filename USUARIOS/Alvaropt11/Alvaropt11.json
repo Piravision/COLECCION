@@ -5004,7 +5004,7 @@
         {
             "id": 1076,
             "nombre": "X -MAGNETO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1038,
@@ -5889,7 +5889,7 @@
         {
             "id": 1000,
             "nombre": "SON-GOKU",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 90,
@@ -6344,7 +6344,7 @@
         {
             "id": 1018,
             "nombre": "SUB-MARINER",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1115,
@@ -6859,7 +6859,7 @@
         {
             "id": 1313,
             "nombre": "2D-IKKAKUMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1377,
@@ -7529,7 +7529,7 @@
         {
             "id": 1487,
             "nombre": "1A-FA19",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1544,
@@ -7539,7 +7539,7 @@
         {
             "id": 1477,
             "nombre": "1A-FA09",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1576,
@@ -7634,7 +7634,7 @@
         {
             "id": 1549,
             "nombre": "F1--SHEN-MAESTRO",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1531,
@@ -7779,6 +7779,11 @@
         {
             "id": 1499,
             "nombre": "A1-YAMCHA",
+            "cantidad": 1
+        },
+        {
+            "id": 1563,
+            "nombre": "T-MR.WOLF",
             "cantidad": 1
         }
     ]
