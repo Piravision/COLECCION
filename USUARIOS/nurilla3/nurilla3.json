@@ -3589,7 +3589,7 @@
         {
             "id": 1527,
             "nombre": "C1-SHU",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1539,
@@ -5179,6 +5179,11 @@
         {
             "id": 631,
             "nombre": "DB-019",
+            "cantidad": 1
+        },
+        {
+            "id": 679,
+            "nombre": "DB-067",
             "cantidad": 1
         }
     ]

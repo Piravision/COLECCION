@@ -2349,7 +2349,7 @@
         {
             "id": 679,
             "nombre": "DB-067",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 862,
@@ -6944,6 +6944,11 @@
         {
             "id": 1510,
             "nombre": "A4-UPA",
+            "cantidad": 1
+        },
+        {
+            "id": 1527,
+            "nombre": "C1-SHU",
             "cantidad": 1
         }
     ]
