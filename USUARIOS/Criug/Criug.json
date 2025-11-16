@@ -1834,7 +1834,7 @@
     {
       "id": 698,
       "nombre": "DB-086",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 656,
@@ -6004,7 +6004,7 @@
     {
       "id": 1232,
       "nombre": "TINTIN-&-MILU",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1206,
@@ -7784,6 +7784,11 @@
     {
       "id": 1551,
       "nombre": "F1-MUTENROSHI-JOVEN",
+      "cantidad": 1
+    },
+    {
+      "id": 1550,
+      "nombre": "F1-CHAOS",
       "cantidad": 1
     }
   ]
