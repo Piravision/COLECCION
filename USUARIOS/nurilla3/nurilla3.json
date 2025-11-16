@@ -3434,7 +3434,7 @@
         {
             "id": 1510,
             "nombre": "A4-UPA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1339,
@@ -5174,6 +5174,11 @@
         {
             "id": 882,
             "nombre": "HELA",
+            "cantidad": 1
+        },
+        {
+            "id": 631,
+            "nombre": "DB-019",
             "cantidad": 1
         }
     ]

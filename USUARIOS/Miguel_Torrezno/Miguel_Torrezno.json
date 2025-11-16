@@ -1679,7 +1679,7 @@
         {
             "id": 631,
             "nombre": "DB-019",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 854,
@@ -6939,6 +6939,11 @@
         {
             "id": 1072,
             "nombre": "VALKYRIE-2",
+            "cantidad": 1
+        },
+        {
+            "id": 1510,
+            "nombre": "A4-UPA",
             "cantidad": 1
         }
     ]
