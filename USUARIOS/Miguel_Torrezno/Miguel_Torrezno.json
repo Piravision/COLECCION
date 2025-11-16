@@ -2034,7 +2034,7 @@
         {
             "id": 357,
             "nombre": "china",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 358,
@@ -6949,6 +6949,11 @@
         {
             "id": 1527,
             "nombre": "C1-SHU",
+            "cantidad": 1
+        },
+        {
+            "id": 1531,
+            "nombre": "D2-DRUM",
             "cantidad": 1
         }
     ]
