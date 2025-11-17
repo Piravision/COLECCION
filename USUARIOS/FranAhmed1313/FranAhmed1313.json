@@ -189,7 +189,7 @@
     {
       "id": 126,
       "nombre": "Beastman",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 116,
@@ -669,7 +669,7 @@
     {
       "id": 1306,
       "nombre": "1FA-WARGREYMON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 554,
@@ -3299,7 +3299,7 @@
     {
       "id": 690,
       "nombre": "DB-078",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 812,
@@ -3839,6 +3839,21 @@
     {
       "id": 754,
       "nombre": "Pandora",
+      "cantidad": 1
+    },
+    {
+      "id": 1001,
+      "nombre": "MUSCULMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 642,
+      "nombre": "DB-030",
+      "cantidad": 1
+    },
+    {
+      "id": 1007,
+      "nombre": "SAILOR-MOON",
       "cantidad": 1
     }
   ]
