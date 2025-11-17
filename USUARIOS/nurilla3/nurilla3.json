@@ -4619,7 +4619,7 @@
         {
             "id": 1558,
             "nombre": "T-BACTERIAN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1569,
@@ -5254,6 +5254,11 @@
         {
             "id": 1005,
             "nombre": "RANMA-1_2",
+            "cantidad": 1
+        },
+        {
+            "id": 1504,
+            "nombre": "A3-FAKE-BULMA",
             "cantidad": 1
         }
     ]
