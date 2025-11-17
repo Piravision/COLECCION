@@ -7349,7 +7349,7 @@
     {
       "id": 1592,
       "nombre": "Z-RADAR-BOLAS-DE-DRAGON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1575,
@@ -7404,7 +7404,7 @@
     {
       "id": 1499,
       "nombre": "A1-YAMCHA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1583,
@@ -7459,7 +7459,7 @@
     {
       "id": 1528,
       "nombre": "D1-1BEBE-PICCOLO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1509,
@@ -7584,7 +7584,7 @@
     {
       "id": 1571,
       "nombre": "W-JEFE-CONEJO",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1515,
@@ -7774,7 +7774,7 @@
     {
       "id": 1586,
       "nombre": "Z-AGUA-SAGRADA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1589,
@@ -7804,6 +7804,11 @@
     {
       "id": 1558,
       "nombre": "T-BACTERIAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1580,
+      "nombre": "X-AKKUMAN",
       "cantidad": 1
     }
   ]

@@ -2659,7 +2659,7 @@
     {
       "id": 778,
       "nombre": "ALFRED",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 859,
@@ -3719,7 +3719,7 @@
     {
       "id": 129,
       "nombre": "Hordak",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 793,
@@ -6459,7 +6459,7 @@
     {
       "id": 1335,
       "nombre": "4H-FA-MIMI",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1303,
@@ -7454,7 +7454,7 @@
     {
       "id": 1572,
       "nombre": "W-KING-FURRY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1501,
@@ -7464,7 +7464,7 @@
     {
       "id": 1476,
       "nombre": "1A-FA08",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1491,
@@ -7584,11 +7584,26 @@
     {
       "id": 1550,
       "nombre": "F1-CHAOS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1568,
       "nombre": "T-YAJIROBE",
+      "cantidad": 1
+    },
+    {
+      "id": 1538,
+      "nombre": "DR-POOP",
+      "cantidad": 1
+    },
+    {
+      "id": 1542,
+      "nombre": "DR-TORI-BOT",
+      "cantidad": 1
+    },
+    {
+      "id": 1567,
+      "nombre": "T-SHEN",
       "cantidad": 1
     }
   ]

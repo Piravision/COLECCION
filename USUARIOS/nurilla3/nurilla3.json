@@ -3684,7 +3684,7 @@
         {
             "id": 1511,
             "nombre": "B1-CAPITAN-DARK",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 352,
@@ -4179,7 +4179,7 @@
         {
             "id": 1473,
             "nombre": "1A-FA05",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1529,
@@ -4394,7 +4394,7 @@
         {
             "id": 1545,
             "nombre": "E1-CHICHI-NIÑA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1141,
@@ -4734,7 +4734,7 @@
         {
             "id": 1568,
             "nombre": "T-YAJIROBE",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 95,
@@ -5264,6 +5264,16 @@
         {
             "id": 973,
             "nombre": "8-WILLY",
+            "cantidad": 1
+        },
+        {
+            "id": 1522,
+            "nombre": "B1-STAFF-OFFICER",
+            "cantidad": 1
+        },
+        {
+            "id": 7,
+            "nombre": "El Patriarca",
             "cantidad": 1
         }
     ]

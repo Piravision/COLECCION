@@ -739,7 +739,7 @@
         {
             "id": 7,
             "nombre": "El Patriarca",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 395,
@@ -7609,7 +7609,7 @@
         {
             "id": 1573,
             "nombre": "W-KONKICHI",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1539,
@@ -7624,7 +7624,7 @@
         {
             "id": 1556,
             "nombre": "F2-CIBORG-TAO-PAI-PAI",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1492,
@@ -7694,7 +7694,7 @@
         {
             "id": 1553,
             "nombre": "F1-SHEN-JOVEN",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1472,
@@ -7829,6 +7829,21 @@
         {
             "id": 1508,
             "nombre": "A3-MR.-POPO",
+            "cantidad": 1
+        },
+        {
+            "id": 1519,
+            "nombre": "B1-GUARDIA-ROBOT",
+            "cantidad": 1
+        },
+        {
+            "id": 1593,
+            "nombre": "ZZ-SHENRON",
+            "cantidad": 2
+        },
+        {
+            "id": 1475,
+            "nombre": "1A-FA07",
             "cantidad": 1
         }
     ]
