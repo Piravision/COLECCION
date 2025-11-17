@@ -369,7 +369,7 @@
     {
       "id": 714,
       "nombre": "DB-102",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 293,
@@ -1259,7 +1259,7 @@
     {
       "id": 910,
       "nombre": "LOIS-LANE",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 146,
@@ -1419,7 +1419,7 @@
     {
       "id": 798,
       "nombre": "PINGUINO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 787,
@@ -4599,7 +4599,7 @@
     {
       "id": 475,
       "nombre": "Incubus",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 454,
@@ -4714,7 +4714,7 @@
     {
       "id": 989,
       "nombre": "CAPITAN-HARLOCK",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1239,
@@ -4829,7 +4829,7 @@
     {
       "id": 1270,
       "nombre": "FA-MONKEY-ISLAND",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1143,
@@ -5379,7 +5379,7 @@
     {
       "id": 804,
       "nombre": "BARAKA",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1068,
@@ -6014,7 +6014,7 @@
     {
       "id": 1058,
       "nombre": "POWERMAN & IRON FIST",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1247,
@@ -7209,7 +7209,7 @@
     {
       "id": 1432,
       "nombre": "LA NOVIA DE REANIMATOR",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1411,
@@ -7439,6 +7439,31 @@
     {
       "id": 1556,
       "nombre": "F2-CIBORG-TAO-PAI-PAI",
+      "cantidad": 1
+    },
+    {
+      "id": 1530,
+      "nombre": "D1-PICCOLO-JR-",
+      "cantidad": 1
+    },
+    {
+      "id": 1558,
+      "nombre": "T-BACTERIAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1564,
+      "nombre": "T-NAM",
+      "cantidad": 1
+    },
+    {
+      "id": 1473,
+      "nombre": "1A-FA05",
+      "cantidad": 1
+    },
+    {
+      "id": 1521,
+      "nombre": "B1-MURASAKI",
       "cantidad": 1
     }
   ]
