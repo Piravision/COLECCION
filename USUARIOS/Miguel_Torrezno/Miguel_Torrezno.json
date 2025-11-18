@@ -3819,7 +3819,7 @@
         {
             "id": 867,
             "nombre": "SONNY-JAIL",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1289,
@@ -7064,6 +7064,11 @@
         {
             "id": 808,
             "nombre": "JOHNNY-CAGE",
+            "cantidad": 1
+        },
+        {
+            "id": 821,
+            "nombre": "SHANG-TSUNG",
             "cantidad": 1
         }
     ]

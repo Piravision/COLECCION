@@ -3164,7 +3164,7 @@
         {
             "id": 821,
             "nombre": "SHANG-TSUNG",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 791,
@@ -5409,6 +5409,11 @@
         {
             "id": 939,
             "nombre": "GHOSTFACE-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 867,
+            "nombre": "SONNY-JAIL",
             "cantidad": 1
         }
     ]
