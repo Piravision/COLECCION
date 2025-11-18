@@ -3404,7 +3404,7 @@
         {
             "id": 1495,
             "nombre": "A1-GOKU",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 276,
@@ -4314,7 +4314,7 @@
         {
             "id": 1494,
             "nombre": "A1-BULMA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 113,
@@ -5289,6 +5289,16 @@
         {
             "id": 997,
             "nombre": "IKKI-&-METABEE",
+            "cantidad": 1
+        },
+        {
+            "id": 1002,
+            "nombre": "NARUTO-UZUMAKI",
+            "cantidad": 1
+        },
+        {
+            "id": 1003,
+            "nombre": "NINJA-ATORI",
             "cantidad": 1
         }
     ]
