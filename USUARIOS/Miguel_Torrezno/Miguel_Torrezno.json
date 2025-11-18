@@ -4864,7 +4864,7 @@
         {
             "id": 998,
             "nombre": "INUYASHA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1004,
@@ -7094,6 +7094,11 @@
         {
             "id": 295,
             "nombre": "Ironhide",
+            "cantidad": 1
+        },
+        {
+            "id": 1149,
+            "nombre": "ATOM",
             "cantidad": 1
         }
     ]
