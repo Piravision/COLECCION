@@ -2434,7 +2434,7 @@
         {
             "id": 843,
             "nombre": "HONDA",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 788,
@@ -5424,6 +5424,11 @@
         {
             "id": 967,
             "nombre": "4-TICO",
+            "cantidad": 1
+        },
+        {
+            "id": 1135,
+            "nombre": "GUARDIAN-DE-LA-CRIPTA",
             "cantidad": 1
         }
     ]
