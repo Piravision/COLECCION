@@ -289,7 +289,7 @@
         {
             "id": 808,
             "nombre": "JOHNNY-CAGE",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1015,
@@ -5404,6 +5404,11 @@
         {
             "id": 855,
             "nombre": "ALIEN-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 939,
+            "nombre": "GHOSTFACE-JAIL",
             "cantidad": 1
         }
     ]
