@@ -2494,7 +2494,7 @@
         {
             "id": 806,
             "nombre": "JADE",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 249,
@@ -5399,6 +5399,11 @@
         {
             "id": 562,
             "nombre": "PETER-GRIFFIN-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 855,
+            "nombre": "ALIEN-JAIL",
             "cantidad": 1
         }
     ]
