@@ -224,7 +224,7 @@
     {
       "id": 465,
       "nombre": "air",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 230,
@@ -3264,7 +3264,7 @@
     {
       "id": 354,
       "nombre": "alice",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 157,
@@ -4459,7 +4459,7 @@
     {
       "id": 665,
       "nombre": "DB-053",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 674,
@@ -6969,6 +6969,31 @@
     {
       "id": 1586,
       "nombre": "Z-AGUA-SAGRADA",
+      "cantidad": 1
+    },
+    {
+      "id": 1352,
+      "nombre": "6G-TENTOMON-EVO",
+      "cantidad": 1
+    },
+    {
+      "id": 183,
+      "nombre": "Kraven",
+      "cantidad": 1
+    },
+    {
+      "id": 1061,
+      "nombre": "SHANG-CHI",
+      "cantidad": 1
+    },
+    {
+      "id": 1572,
+      "nombre": "W-KING-FURRY",
+      "cantidad": 1
+    },
+    {
+      "id": 1550,
+      "nombre": "F1-CHAOS",
       "cantidad": 1
     }
   ]
