@@ -7554,7 +7554,7 @@
     {
       "id": 1500,
       "nombre": "A2-LUNCH",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1508,
@@ -7629,7 +7629,7 @@
     {
       "id": 1477,
       "nombre": "1A-FA09",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1517,
@@ -7849,6 +7849,11 @@
     {
       "id": 1555,
       "nombre": "F1-TEN-SHIN-HAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1539,
+      "nombre": "DR-SENBEI-NORIMAKI",
       "cantidad": 1
     }
   ]
