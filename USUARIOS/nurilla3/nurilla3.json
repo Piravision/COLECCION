@@ -2324,7 +2324,7 @@
         {
             "id": 431,
             "nombre": "solid",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 377,
@@ -5394,6 +5394,11 @@
         {
             "id": 560,
             "nombre": "MACGYVER-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 562,
+            "nombre": "PETER-GRIFFIN-JAIL",
             "cantidad": 1
         }
     ]
