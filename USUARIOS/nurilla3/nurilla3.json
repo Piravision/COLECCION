@@ -4369,7 +4369,7 @@
         {
             "id": 700,
             "nombre": "DB-088",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 1512,
@@ -5374,6 +5374,11 @@
         {
             "id": 1575,
             "nombre": "W-PLAGUE",
+            "cantidad": 1
+        },
+        {
+            "id": 726,
+            "nombre": "DB-114",
             "cantidad": 1
         }
     ]
