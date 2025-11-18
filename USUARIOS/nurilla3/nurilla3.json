@@ -2904,7 +2904,7 @@
         {
             "id": 1223,
             "nombre": "MARCO",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 484,
@@ -5384,6 +5384,11 @@
         {
             "id": 533,
             "nombre": "Tony-Montana-Jail",
+            "cantidad": 1
+        },
+        {
+            "id": 550,
+            "nombre": "AceVentura-JAIL",
             "cantidad": 1
         }
     ]

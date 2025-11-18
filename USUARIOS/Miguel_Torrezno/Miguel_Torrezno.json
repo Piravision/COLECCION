@@ -1434,7 +1434,7 @@
         {
             "id": 550,
             "nombre": "AceVentura-JAIL",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 649,
@@ -7039,6 +7039,11 @@
         {
             "id": 713,
             "nombre": "DB-101",
+            "cantidad": 1
+        },
+        {
+            "id": 1223,
+            "nombre": "MARCO",
             "cantidad": 1
         }
     ]
