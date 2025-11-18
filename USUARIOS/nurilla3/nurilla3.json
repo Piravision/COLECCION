@@ -64,7 +64,7 @@
         {
             "id": 295,
             "nombre": "Ironhide",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 689,
@@ -5434,6 +5434,11 @@
         {
             "id": 1103,
             "nombre": "FRAGGLE-ROCK",
+            "cantidad": 1
+        },
+        {
+            "id": 367,
+            "nombre": "BEMONT",
             "cantidad": 1
         }
     ]
