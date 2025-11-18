@@ -1009,7 +1009,7 @@
         {
             "id": 182,
             "nombre": "Kingpin",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1095,
@@ -5419,6 +5419,11 @@
         {
             "id": 971,
             "nombre": "7-INSPECTOR-GADGET",
+            "cantidad": 1
+        },
+        {
+            "id": 967,
+            "nombre": "4-TICO",
             "cantidad": 1
         }
     ]

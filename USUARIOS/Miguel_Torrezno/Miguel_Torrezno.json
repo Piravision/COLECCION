@@ -3429,7 +3429,7 @@
         {
             "id": 967,
             "nombre": "4-TICO",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 953,
@@ -7074,6 +7074,11 @@
         {
             "id": 180,
             "nombre": "Electro",
+            "cantidad": 1
+        },
+        {
+            "id": 182,
+            "nombre": "Kingpin",
             "cantidad": 1
         }
     ]
