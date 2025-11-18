@@ -1099,7 +1099,7 @@
     {
       "id": 1534,
       "nombre": "D2-TAMBOURINE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1512,
@@ -1154,7 +1154,7 @@
     {
       "id": 1498,
       "nombre": "A1-PUAR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1579,
@@ -1434,6 +1434,11 @@
     {
       "id": 897,
       "nombre": "SPIDER-MAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1479,
+      "nombre": "1A-FA11",
       "cantidad": 1
     }
   ]

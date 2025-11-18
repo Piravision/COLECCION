@@ -3664,7 +3664,7 @@
         {
             "id": 1288,
             "nombre": "JAK-&-DAXTER",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 288,
@@ -5389,6 +5389,11 @@
         {
             "id": 550,
             "nombre": "AceVentura-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 560,
+            "nombre": "MACGYVER-JAIL",
             "cantidad": 1
         }
     ]
