@@ -624,7 +624,7 @@
     {
       "id": 1049,
       "nombre": "I-MEDUSA-2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 626,
@@ -1464,6 +1464,16 @@
     {
       "id": 1280,
       "nombre": "JOTARO-KUJO",
+      "cantidad": 1
+    },
+    {
+      "id": 600,
+      "nombre": "NATUREZA",
+      "cantidad": 1
+    },
+    {
+      "id": 1221,
+      "nombre": "KID-CHAMELEON",
       "cantidad": 1
     }
   ]
