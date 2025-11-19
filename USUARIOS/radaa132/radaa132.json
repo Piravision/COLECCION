@@ -3844,7 +3844,7 @@
     {
       "id": 763,
       "nombre": "black",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 840,
@@ -5219,7 +5219,7 @@
     {
       "id": 430,
       "nombre": "sniper2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 520,
@@ -6144,7 +6144,7 @@
     {
       "id": 1347,
       "nombre": "6B-MOCHIMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 136,
@@ -6249,7 +6249,7 @@
     {
       "id": 1543,
       "nombre": "DR-TURBO-NORIMAKI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1561,
@@ -6514,7 +6514,7 @@
     {
       "id": 1583,
       "nombre": "X-MOMIA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1523,
@@ -6534,7 +6534,7 @@
     {
       "id": 1566,
       "nombre": "T-REY-CHAPPA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1580,
@@ -6564,6 +6564,21 @@
     {
       "id": 711,
       "nombre": "DB-099",
+      "cantidad": 1
+    },
+    {
+      "id": 1500,
+      "nombre": "A2-LUNCH",
+      "cantidad": 1
+    },
+    {
+      "id": 1527,
+      "nombre": "C1-SHU",
+      "cantidad": 1
+    },
+    {
+      "id": 1578,
+      "nombre": "W-YAJIROBE",
       "cantidad": 1
     }
   ]

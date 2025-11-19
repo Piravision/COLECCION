@@ -939,7 +939,7 @@
         {
             "id": 413,
             "nombre": "campb",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1387,
@@ -1214,7 +1214,7 @@
         {
             "id": 1420,
             "nombre": "EVIL DEAD",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1424,
@@ -1389,7 +1389,7 @@
         {
             "id": 1140,
             "nombre": "PANTERA-ROSA",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 730,
@@ -3944,7 +3944,7 @@
         {
             "id": 1564,
             "nombre": "T-NAM",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1535,
@@ -4084,7 +4084,7 @@
         {
             "id": 1540,
             "nombre": "DR-Srta.-YAMABUKI",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1069,
@@ -5214,7 +5214,7 @@
         {
             "id": 1565,
             "nombre": "T-PAMPUT",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1258,
@@ -5574,6 +5574,21 @@
         {
             "id": 591,
             "nombre": "JAMES-DERRICK",
+            "cantidad": 1
+        },
+        {
+            "id": 1546,
+            "nombre": "E1-DR.-BRIEF",
+            "cantidad": 1
+        },
+        {
+            "id": 1578,
+            "nombre": "W-YAJIROBE",
+            "cantidad": 1
+        },
+        {
+            "id": 593,
+            "nombre": "JOHNNY-MASON",
             "cantidad": 1
         }
     ]
