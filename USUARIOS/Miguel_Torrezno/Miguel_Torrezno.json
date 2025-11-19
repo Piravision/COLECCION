@@ -6724,7 +6724,7 @@
         {
             "id": 1480,
             "nombre": "1A-FA12",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1515,
@@ -7144,6 +7144,11 @@
         {
             "id": 1526,
             "nombre": "C1-PILAF",
+            "cantidad": 1
+        },
+        {
+            "id": 1504,
+            "nombre": "A3-FAKE-BULMA",
             "cantidad": 1
         }
     ]
