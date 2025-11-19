@@ -704,7 +704,7 @@
     {
       "id": 45,
       "nombre": "garuda",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 102,
@@ -854,7 +854,7 @@
     {
       "id": 545,
       "nombre": "IVAN-DRAGO",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 752,
@@ -1024,7 +1024,7 @@
     {
       "id": 631,
       "nombre": "DB-019",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 393,
@@ -1094,7 +1094,7 @@
     {
       "id": 524,
       "nombre": "Capitán-Planeta",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 675,
@@ -1644,7 +1644,7 @@
     {
       "id": 253,
       "nombre": "Buitro",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 179,
@@ -2319,7 +2319,7 @@
     {
       "id": 1115,
       "nombre": "PF-GARGAMEL-&-AZRAEL",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 20,
@@ -2439,7 +2439,7 @@
     {
       "id": 466,
       "nombre": "Alessa",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 588,
@@ -2954,7 +2954,7 @@
     {
       "id": 896,
       "nombre": "SHE-HULK",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 128,
@@ -3079,7 +3079,7 @@
     {
       "id": 127,
       "nombre": "Evil Lyn",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1263,
@@ -3769,7 +3769,7 @@
     {
       "id": 278,
       "nombre": "Bebop",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1270,
@@ -4439,7 +4439,7 @@
     {
       "id": 1046,
       "nombre": "HERCULES",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 93,
@@ -5024,7 +5024,7 @@
     {
       "id": 318,
       "nombre": "Morpho",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1081,
@@ -5094,12 +5094,12 @@
     {
       "id": 702,
       "nombre": "DB-090",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 788,
       "nombre": "EL-FANTASMA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 334,
@@ -5679,7 +5679,7 @@
     {
       "id": 1234,
       "nombre": "GHOSTS-GOBLINS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1298,
@@ -6264,7 +6264,7 @@
     {
       "id": 1541,
       "nombre": "DR-SUPPAMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1499,
@@ -6314,7 +6314,7 @@
     {
       "id": 1587,
       "nombre": "Z-BOLAS-DE-DRAGON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 227,
@@ -6529,7 +6529,7 @@
     {
       "id": 1549,
       "nombre": "F1--SHEN-MAESTRO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1566,
@@ -6549,6 +6549,21 @@
     {
       "id": 1505,
       "nombre": "A3-FAKE-GOKU",
+      "cantidad": 1
+    },
+    {
+      "id": 186,
+      "nombre": "Mysterio",
+      "cantidad": 1
+    },
+    {
+      "id": 453,
+      "nombre": "tyrant",
+      "cantidad": 1
+    },
+    {
+      "id": 711,
+      "nombre": "DB-099",
       "cantidad": 1
     }
   ]
