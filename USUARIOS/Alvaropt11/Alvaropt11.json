@@ -7529,7 +7529,7 @@
     {
       "id": 1487,
       "nombre": "1A-FA19",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1544,
@@ -7709,7 +7709,7 @@
     {
       "id": 1504,
       "nombre": "A3-FAKE-BULMA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1567,
@@ -7915,6 +7915,11 @@
       "id": 1575,
       "nombre": "W-PLAGUE",
       "cantidad": 2
+    },
+    {
+      "id": 1574,
+      "nombre": "W-MELEE",
+      "cantidad": 1
     }
   ]
 }

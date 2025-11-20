@@ -7384,7 +7384,7 @@
     {
       "id": 1500,
       "nombre": "A2-LUNCH",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1533,
@@ -7459,7 +7459,7 @@
     {
       "id": 1501,
       "nombre": "A2-LUNCH-BAD",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1476,
@@ -7634,6 +7634,26 @@
     {
       "id": 1579,
       "nombre": "X-ABUELO-SON-GOHAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1496,
+      "nombre": "A1-KRILIN",
+      "cantidad": 1
+    },
+    {
+      "id": 1590,
+      "nombre": "Z-MOTO-BULMA",
+      "cantidad": 1
+    },
+    {
+      "id": 1493,
+      "nombre": "1A-FA25",
+      "cantidad": 1
+    },
+    {
+      "id": 1575,
+      "nombre": "W-PLAGUE",
       "cantidad": 1
     }
   ]

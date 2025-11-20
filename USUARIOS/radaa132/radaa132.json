@@ -6194,7 +6194,7 @@
     {
       "id": 1502,
       "nombre": "A2-MAESTRO-ROSHI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1552,
@@ -6219,7 +6219,7 @@
     {
       "id": 1494,
       "nombre": "A1-BULMA",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1475,
@@ -6324,7 +6324,7 @@
     {
       "id": 1525,
       "nombre": "C1-MAI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1539,
@@ -6424,7 +6424,7 @@
     {
       "id": 1497,
       "nombre": "A1-OOLONG",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 927,
@@ -6549,7 +6549,7 @@
     {
       "id": 1505,
       "nombre": "A3-FAKE-GOKU",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 186,
@@ -6609,6 +6609,11 @@
     {
       "id": 1519,
       "nombre": "B1-GUARDIA-ROBOT",
+      "cantidad": 1
+    },
+    {
+      "id": 1518,
+      "nombre": "B1-GENERAL-WHITE",
       "cantidad": 1
     }
   ]

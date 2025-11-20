@@ -4289,7 +4289,7 @@
     {
       "id": 869,
       "nombre": "ARNIM-ZOLA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1383,
@@ -5694,7 +5694,7 @@
     {
       "id": 880,
       "nombre": "GREEN-GOBLIN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 397,
@@ -5730,6 +5730,11 @@
       "id": 1570,
       "nombre": "W-BUYON",
       "cantidad": 2
+    },
+    {
+      "id": 886,
+      "nombre": "KARNAK",
+      "cantidad": 1
     }
   ]
 }
