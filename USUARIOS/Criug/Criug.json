@@ -7759,7 +7759,7 @@
         {
             "id": 1471,
             "nombre": "1A-FA03",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1472,
@@ -7879,6 +7879,11 @@
         {
             "id": 1500,
             "nombre": "A2-LUNCH",
+            "cantidad": 1
+        },
+        {
+            "id": 1514,
+            "nombre": "B1-CORONEL-SILVER",
             "cantidad": 1
         }
     ]
