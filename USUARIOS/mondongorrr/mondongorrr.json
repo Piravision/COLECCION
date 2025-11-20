@@ -899,7 +899,7 @@
     {
       "id": 150,
       "nombre": "Throttle",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 543,
@@ -1989,7 +1989,7 @@
     {
       "id": 474,
       "nombre": "harry2",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 643,
@@ -2399,7 +2399,7 @@
     {
       "id": 551,
       "nombre": "BARRACUS-JAIL",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 138,
@@ -7359,7 +7359,7 @@
     {
       "id": 1477,
       "nombre": "1A-FA09",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1533,
@@ -7599,6 +7599,16 @@
     {
       "id": 1562,
       "nombre": "T-JACKIE-CHUN",
+      "cantidad": 1
+    },
+    {
+      "id": 1561,
+      "nombre": "T-HASKY",
+      "cantidad": 1
+    },
+    {
+      "id": 1484,
+      "nombre": "1A-FA16",
       "cantidad": 1
     }
   ]
