@@ -3024,7 +3024,7 @@
         {
             "id": 622,
             "nombre": "DB-010",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 1083,
@@ -5639,6 +5639,11 @@
         {
             "id": 1591,
             "nombre": "Z-NUBE-KINTON",
+            "cantidad": 1
+        },
+        {
+            "id": 731,
+            "nombre": "DB-119",
             "cantidad": 1
         }
     ]

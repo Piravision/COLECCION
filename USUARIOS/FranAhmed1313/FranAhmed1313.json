@@ -59,7 +59,7 @@
         {
             "id": 896,
             "nombre": "SHE-HULK",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 394,
@@ -694,7 +694,7 @@
         {
             "id": 1045,
             "nombre": "HAWKEYE-2",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1155,
@@ -1844,7 +1844,7 @@
         {
             "id": 731,
             "nombre": "DB-119",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 391,
@@ -4069,6 +4069,16 @@
         {
             "id": 1549,
             "nombre": "F1--SHEN-MAESTRO",
+            "cantidad": 1
+        },
+        {
+            "id": 1588,
+            "nombre": "Z-CAPSULAS-HOI-POI",
+            "cantidad": 1
+        },
+        {
+            "id": 622,
+            "nombre": "DB-010",
             "cantidad": 1
         }
     ]
