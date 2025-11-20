@@ -7554,7 +7554,7 @@
         {
             "id": 1500,
             "nombre": "A2-LUNCH",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1508,
@@ -7889,6 +7889,11 @@
         {
             "id": 1565,
             "nombre": "T-PAMPUT",
+            "cantidad": 1
+        },
+        {
+            "id": 1518,
+            "nombre": "B1-GENERAL-WHITE",
             "cantidad": 1
         }
     ]
