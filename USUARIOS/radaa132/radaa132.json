@@ -914,7 +914,7 @@
     {
       "id": 384,
       "nombre": "aku aku",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 308,
@@ -3324,7 +3324,7 @@
     {
       "id": 1163,
       "nombre": "GREEN ARROW",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 63,
@@ -3344,7 +3344,7 @@
     {
       "id": 971,
       "nombre": "9-CALIMERO",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1241,
@@ -3374,7 +3374,7 @@
     {
       "id": 1028,
       "nombre": "BLACK KNIGHT",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1064,
@@ -4094,7 +4094,7 @@
     {
       "id": 4,
       "nombre": "Tex Hex",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 373,
@@ -4664,7 +4664,7 @@
     {
       "id": 1342,
       "nombre": "5F-PHOENIXMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 758,
@@ -5154,7 +5154,7 @@
     {
       "id": 1277,
       "nombre": "BATMAN-&-ROBIN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1068,
@@ -6569,7 +6569,7 @@
     {
       "id": 1500,
       "nombre": "A2-LUNCH",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1527,
@@ -6604,6 +6604,11 @@
     {
       "id": 1215,
       "nombre": "5-JOE-MUSASHI",
+      "cantidad": 1
+    },
+    {
+      "id": 1519,
+      "nombre": "B1-GUARDIA-ROBOT",
       "cantidad": 1
     }
   ]
