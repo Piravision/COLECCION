@@ -1464,7 +1464,7 @@
         {
             "id": 404,
             "nombre": "sefirot",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 43,
@@ -7284,6 +7284,11 @@
         {
             "id": 1502,
             "nombre": "A2-MAESTRO-ROSHI",
+            "cantidad": 1
+        },
+        {
+            "id": 1543,
+            "nombre": "DR-TURBO-NORIMAKI",
             "cantidad": 1
         }
     ]
