@@ -1394,7 +1394,7 @@
         {
             "id": 730,
             "nombre": "DB-118",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1352,
@@ -5819,6 +5819,11 @@
         {
             "id": 597,
             "nombre": "LOUIS-NAPOLEON",
+            "cantidad": 1
+        },
+        {
+            "id": 604,
+            "nombre": "RALF-PETERSON",
             "cantidad": 1
         }
     ]
