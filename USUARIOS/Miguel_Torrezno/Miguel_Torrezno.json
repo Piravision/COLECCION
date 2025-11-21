@@ -6599,7 +6599,7 @@
         {
             "id": 1499,
             "nombre": "A1-YAMCHA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1489,
@@ -7299,6 +7299,11 @@
         {
             "id": 928,
             "nombre": "JOHN-CENA",
+            "cantidad": 1
+        },
+        {
+            "id": 930,
+            "nombre": "MANKIND",
             "cantidad": 1
         }
     ]

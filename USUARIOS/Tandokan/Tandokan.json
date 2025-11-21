@@ -2384,7 +2384,7 @@
         {
             "id": 930,
             "nombre": "MANKIND",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 19,
@@ -7409,6 +7409,11 @@
         {
             "id": 1494,
             "nombre": "A1-BULMA",
+            "cantidad": 1
+        },
+        {
+            "id": 1499,
+            "nombre": "A1-YAMCHA",
             "cantidad": 1
         }
     ]
