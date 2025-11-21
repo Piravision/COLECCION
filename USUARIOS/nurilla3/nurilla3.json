@@ -894,7 +894,7 @@
         {
             "id": 1419,
             "nombre": "EVIL DEAD II",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1449,
@@ -1499,7 +1499,7 @@
         {
             "id": 165,
             "nombre": "Daredevil",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 996,
@@ -3124,7 +3124,7 @@
         {
             "id": 81,
             "nombre": "vearn",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1075,
@@ -5404,7 +5404,7 @@
         {
             "id": 855,
             "nombre": "ALIEN-JAIL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 939,
@@ -5824,6 +5824,11 @@
         {
             "id": 604,
             "nombre": "RALF-PETERSON",
+            "cantidad": 1
+        },
+        {
+            "id": 1547,
+            "nombre": "E1-MRS.-BRIEF",
             "cantidad": 1
         }
     ]
