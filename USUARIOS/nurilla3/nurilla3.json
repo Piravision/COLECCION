@@ -3604,7 +3604,7 @@
         {
             "id": 1514,
             "nombre": "B1-CORONEL-SILVER",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1490,
@@ -5809,6 +5809,11 @@
         {
             "id": 372,
             "nombre": "RENARD",
+            "cantidad": 1
+        },
+        {
+            "id": 373,
+            "nombre": "SHAFT",
             "cantidad": 1
         }
     ]
