@@ -2324,7 +2324,7 @@
     {
       "id": 639,
       "nombre": "DB-027",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 619,
@@ -2469,7 +2469,7 @@
     {
       "id": 478,
       "nombre": "nurse",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 475,
@@ -3094,7 +3094,7 @@
     {
       "id": 1570,
       "nombre": "W-BUYON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1019,
@@ -3394,7 +3394,7 @@
     {
       "id": 1529,
       "nombre": "D1-1PICCOLO-NIÑO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1499,
@@ -3584,7 +3584,7 @@
     {
       "id": 1538,
       "nombre": "DR-POOP",
-      "cantidad": 1
+      "cantidad": 3
     },
     {
       "id": 562,
@@ -3909,7 +3909,7 @@
     {
       "id": 1263,
       "nombre": "SALVADOS-POR-LA-CAMPANA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1059,
@@ -4154,6 +4154,31 @@
     {
       "id": 1481,
       "nombre": "1A-FA13",
+      "cantidad": 1
+    },
+    {
+      "id": 1208,
+      "nombre": "4-CAPTAIN-COMMANDO",
+      "cantidad": 1
+    },
+    {
+      "id": 1537,
+      "nombre": "DR-OBOTCHAMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1504,
+      "nombre": "A3-FAKE-BULMA",
+      "cantidad": 1
+    },
+    {
+      "id": 1279,
+      "nombre": "GRAN-HEROE-AMERICANO",
+      "cantidad": 1
+    },
+    {
+      "id": 1278,
+      "nombre": "BUFFY-CAZAVAMPIROS",
       "cantidad": 1
     }
   ]

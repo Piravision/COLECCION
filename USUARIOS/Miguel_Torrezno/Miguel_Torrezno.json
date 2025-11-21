@@ -6539,7 +6539,7 @@
         {
             "id": 1538,
             "nombre": "DR-POOP",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1492,
@@ -6609,7 +6609,7 @@
         {
             "id": 1494,
             "nombre": "A1-BULMA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1563,
@@ -6789,7 +6789,7 @@
         {
             "id": 1501,
             "nombre": "A2-LUNCH-BAD",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 633,
@@ -7269,6 +7269,21 @@
         {
             "id": 730,
             "nombre": "DB-118",
+            "cantidad": 1
+        },
+        {
+            "id": 1555,
+            "nombre": "F1-TEN-SHIN-HAN",
+            "cantidad": 1
+        },
+        {
+            "id": 1580,
+            "nombre": "X-AKKUMAN",
+            "cantidad": 1
+        },
+        {
+            "id": 1502,
+            "nombre": "A2-MAESTRO-ROSHI",
             "cantidad": 1
         }
     ]

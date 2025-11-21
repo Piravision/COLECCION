@@ -7419,7 +7419,7 @@
     {
       "id": 1581,
       "nombre": "X-FANTASMA-USHER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1574,
@@ -7559,7 +7559,7 @@
     {
       "id": 1592,
       "nombre": "Z-RADAR-BOLAS-DE-DRAGON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1512,
@@ -7644,7 +7644,7 @@
     {
       "id": 1590,
       "nombre": "Z-MOTO-BULMA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1493,
@@ -7669,6 +7669,21 @@
     {
       "id": 1561,
       "nombre": "T-HASKY",
+      "cantidad": 1
+    },
+    {
+      "id": 1560,
+      "nombre": "T-FANFAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1470,
+      "nombre": "1A-FA02",
+      "cantidad": 1
+    },
+    {
+      "id": 1490,
+      "nombre": "1A-FA22",
       "cantidad": 1
     }
   ]
