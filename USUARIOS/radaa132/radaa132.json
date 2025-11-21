@@ -3279,7 +3279,7 @@
     {
       "id": 1284,
       "nombre": "ALEX-KIDD",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1048,
@@ -3544,7 +3544,7 @@
     {
       "id": 1223,
       "nombre": "MARCO",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1135,
@@ -4749,7 +4749,7 @@
     {
       "id": 1195,
       "nombre": "1-LUIGI",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 565,
@@ -5369,7 +5369,7 @@
     {
       "id": 195,
       "nombre": "Moby Lick",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 693,
@@ -6614,6 +6614,16 @@
     {
       "id": 1518,
       "nombre": "B1-GENERAL-WHITE",
+      "cantidad": 1
+    },
+    {
+      "id": 1259,
+      "nombre": "FA-CHRONO-TRIGGER",
+      "cantidad": 1
+    },
+    {
+      "id": 932,
+      "nombre": "RAZOR-RAMON",
       "cantidad": 1
     }
   ]
