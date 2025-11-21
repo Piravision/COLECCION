@@ -149,7 +149,7 @@
     {
       "id": 727,
       "nombre": "DB-115",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 325,
@@ -1839,7 +1839,7 @@
     {
       "id": 330,
       "nombre": "Magneto",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 379,
@@ -2384,6 +2384,41 @@
     {
       "id": 1592,
       "nombre": "Z-RADAR-BOLAS-DE-DRAGON",
+      "cantidad": 1
+    },
+    {
+      "id": 375,
+      "nombre": "Grobyc",
+      "cantidad": 1
+    },
+    {
+      "id": 1512,
+      "nombre": "B1-CAPITAN-YELLOW",
+      "cantidad": 1
+    },
+    {
+      "id": 857,
+      "nombre": "DOC-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1152,
+      "nombre": "BLACK CANNARY",
+      "cantidad": 1
+    },
+    {
+      "id": 290,
+      "nombre": "Tokka",
+      "cantidad": 1
+    },
+    {
+      "id": 23,
+      "nombre": "Amo del Calabozo",
+      "cantidad": 1
+    },
+    {
+      "id": 1587,
+      "nombre": "Z-BOLAS-DE-DRAGON",
       "cantidad": 1
     }
   ]
