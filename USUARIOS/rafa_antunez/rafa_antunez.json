@@ -59,7 +59,7 @@
     {
       "id": 718,
       "nombre": "DB-106",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1190,
@@ -564,7 +564,7 @@
     {
       "id": 1173,
       "nombre": "WONDER WOMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 190,
@@ -1689,7 +1689,7 @@
     {
       "id": 1096,
       "nombre": "CZ-RAY-STANTZ",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 566,
@@ -1729,7 +1729,7 @@
     {
       "id": 215,
       "nombre": "Castillo Grayskull",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 472,
@@ -3039,6 +3039,16 @@
     {
       "id": 1478,
       "nombre": "1A-FA10",
+      "cantidad": 1
+    },
+    {
+      "id": 489,
+      "nombre": "sparx",
+      "cantidad": 1
+    },
+    {
+      "id": 107,
+      "nombre": "Snake Eyes",
       "cantidad": 1
     }
   ]
