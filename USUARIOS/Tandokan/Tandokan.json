@@ -2779,7 +2779,7 @@
         {
             "id": 928,
             "nombre": "JOHN-CENA",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 200,
@@ -7404,6 +7404,11 @@
         {
             "id": 1487,
             "nombre": "1A-FA19",
+            "cantidad": 1
+        },
+        {
+            "id": 1494,
+            "nombre": "A1-BULMA",
             "cantidad": 1
         }
     ]
