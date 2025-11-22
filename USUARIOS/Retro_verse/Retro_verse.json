@@ -1464,7 +1464,7 @@
     {
       "id": 105,
       "nombre": "Sargento Slaughter",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 120,
@@ -2659,7 +2659,7 @@
     {
       "id": 28,
       "nombre": "Presto",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 677,
@@ -3289,7 +3289,7 @@
     {
       "id": 618,
       "nombre": "DB-006",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 842,
@@ -7709,6 +7709,31 @@
     {
       "id": 1551,
       "nombre": "F1-MUTENROSHI-JOVEN",
+      "cantidad": 1
+    },
+    {
+      "id": 1520,
+      "nombre": "B1-MAJOR-METALLITRON",
+      "cantidad": 1
+    },
+    {
+      "id": 1517,
+      "nombre": "B1-GENERAL-BLUE",
+      "cantidad": 1
+    },
+    {
+      "id": 1512,
+      "nombre": "B1-CAPITAN-YELLOW",
+      "cantidad": 1
+    },
+    {
+      "id": 1576,
+      "nombre": "W-SHULA",
+      "cantidad": 1
+    },
+    {
+      "id": 1572,
+      "nombre": "W-KING-FURRY",
       "cantidad": 1
     }
   ]
