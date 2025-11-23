@@ -654,7 +654,7 @@
     {
       "id": 543,
       "nombre": "DIE-HARD-III",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 534,
@@ -1534,7 +1534,7 @@
     {
       "id": 1432,
       "nombre": "LA NOVIA DE REANIMATOR",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1457,
@@ -1929,7 +1929,7 @@
     {
       "id": 1404,
       "nombre": "BEETLEJUICE - PROMO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1326,
@@ -3074,7 +3074,7 @@
     {
       "id": 1177,
       "nombre": "LIGHT-&-RYUK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 22,
@@ -4179,6 +4179,16 @@
     {
       "id": 1278,
       "nombre": "BUFFY-CAZAVAMPIROS",
+      "cantidad": 1
+    },
+    {
+      "id": 472,
+      "nombre": "grey",
+      "cantidad": 1
+    },
+    {
+      "id": 1524,
+      "nombre": "B2-SUNO",
       "cantidad": 1
     }
   ]

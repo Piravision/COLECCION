@@ -50,14 +50,19 @@
       "id": 135,
       "nombre": "Afrodita A",
       "cantidad": 1
+    },
+    {
+      "id": 83,
+      "nombre": "zamza",
+      "cantidad": 1
     }
   ],
   "duelos": {
-    "total": 3,
-    "victorias": 2,
+    "total": 4,
+    "victorias": 3,
     "derrotas": 1,
-    "racha_actual": 2,
-    "racha_maxima": 2,
+    "racha_actual": 3,
+    "racha_maxima": 3,
     "premios_racha5": 0
   }
 }

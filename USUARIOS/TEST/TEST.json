@@ -2,11 +2,6 @@
   "usuario": "TEST",
   "cromos": [
     {
-      "id": 83,
-      "nombre": "zamza",
-      "cantidad": 1
-    },
-    {
       "id": 226,
       "nombre": "Guerreros de Piedra",
       "cantidad": 1
@@ -43,9 +38,9 @@
     }
   ],
   "duelos": {
-    "total": 3,
+    "total": 4,
     "victorias": 1,
-    "derrotas": 2,
+    "derrotas": 3,
     "racha_actual": 0,
     "racha_maxima": 1,
     "premios_racha5": 0
