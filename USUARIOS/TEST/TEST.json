@@ -17,11 +17,6 @@
       "cantidad": 1
     },
     {
-      "id": 135,
-      "nombre": "Afrodita A",
-      "cantidad": 1
-    },
-    {
       "id": 526,
       "nombre": "Júbilo",
       "cantidad": 1
@@ -48,9 +43,9 @@
     }
   ],
   "duelos": {
-    "total": 2,
+    "total": 3,
     "victorias": 1,
-    "derrotas": 1,
+    "derrotas": 2,
     "racha_actual": 0,
     "racha_maxima": 1,
     "premios_racha5": 0
