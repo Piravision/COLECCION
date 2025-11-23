@@ -1014,7 +1014,7 @@
     {
       "id": 1174,
       "nombre": "ZATANA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1507,
@@ -1364,7 +1364,7 @@
     {
       "id": 1158,
       "nombre": "FLASH",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 571,
@@ -1619,6 +1619,11 @@
     {
       "id": 790,
       "nombre": "ESPANTAPAJAROS",
+      "cantidad": 1
+    },
+    {
+      "id": 1168,
+      "nombre": "LEX LUTOR",
       "cantidad": 1
     }
   ]
