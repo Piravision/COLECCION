@@ -254,7 +254,7 @@
     {
       "id": 648,
       "nombre": "DB-036",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 338,
@@ -2914,7 +2914,7 @@
     {
       "id": 487,
       "nombre": "Jacques",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1021,
@@ -6404,7 +6404,7 @@
     {
       "id": 1477,
       "nombre": "1A-FA09",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 37,
@@ -6509,7 +6509,7 @@
     {
       "id": 1540,
       "nombre": "DR-Srta.-YAMABUKI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1583,
@@ -6584,7 +6584,7 @@
     {
       "id": 1521,
       "nombre": "B1-MURASAKI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 857,
@@ -6729,6 +6729,26 @@
     {
       "id": 226,
       "nombre": "Guerreros de Piedra",
+      "cantidad": 1
+    },
+    {
+      "id": 1516,
+      "nombre": "B1-DR.-GERO",
+      "cantidad": 1
+    },
+    {
+      "id": 1528,
+      "nombre": "D1-1BEBE-PICCOLO",
+      "cantidad": 1
+    },
+    {
+      "id": 1575,
+      "nombre": "W-PLAGUE",
+      "cantidad": 1
+    },
+    {
+      "id": 375,
+      "nombre": "Grobyc",
       "cantidad": 1
     }
   ]

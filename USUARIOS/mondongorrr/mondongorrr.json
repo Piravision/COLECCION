@@ -234,7 +234,7 @@
     {
       "id": 79,
       "nombre": "pororo",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 545,
@@ -294,7 +294,7 @@
     {
       "id": 320,
       "nombre": "Psylocke",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 132,
@@ -1179,7 +1179,7 @@
     {
       "id": 108,
       "nombre": "Baronesa",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 50,
@@ -1334,7 +1334,7 @@
     {
       "id": 44,
       "nombre": "Fly",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 64,
@@ -1969,7 +1969,7 @@
     {
       "id": 18,
       "nombre": "Mesmira",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 639,
@@ -3489,7 +3489,7 @@
     {
       "id": 477,
       "nombre": "mumb",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1076,
@@ -3844,7 +3844,7 @@
     {
       "id": 278,
       "nombre": "Bebop",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 96,
@@ -4099,7 +4099,7 @@
     {
       "id": 842,
       "nombre": "GUILE2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 789,
@@ -4194,7 +4194,7 @@
     {
       "id": 436,
       "nombre": "abe",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 396,
@@ -4669,7 +4669,7 @@
     {
       "id": 924,
       "nombre": "VISITOR-SOLDIER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 165,
@@ -4904,7 +4904,7 @@
     {
       "id": 274,
       "nombre": "Ray Fillet",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1138,
@@ -4944,7 +4944,7 @@
     {
       "id": 481,
       "nombre": "Capitán-Stargazer",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 276,
@@ -5084,7 +5084,7 @@
     {
       "id": 427,
       "nombre": "psyco",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 423,
@@ -5679,7 +5679,7 @@
     {
       "id": 1026,
       "nombre": "4FV -SUPERSKRULL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1281,
@@ -6464,7 +6464,7 @@
     {
       "id": 1305,
       "nombre": "1E-METAL-GREYMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1366,
@@ -6739,7 +6739,7 @@
     {
       "id": 1356,
       "nombre": "7B-TOKOMON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1288,
@@ -7374,7 +7374,7 @@
     {
       "id": 1504,
       "nombre": "A3-FAKE-BULMA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1469,
@@ -7689,6 +7689,11 @@
     {
       "id": 1540,
       "nombre": "DR-Srta.-YAMABUKI",
+      "cantidad": 1
+    },
+    {
+      "id": 1569,
+      "nombre": "W-BEAR-THIEF",
       "cantidad": 1
     }
   ]

@@ -539,7 +539,7 @@
     {
       "id": 756,
       "nombre": "Rhadamantis2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1455,
@@ -1449,7 +1449,7 @@
     {
       "id": 1061,
       "nombre": "SHANG-CHI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 149,
@@ -1964,7 +1964,7 @@
     {
       "id": 684,
       "nombre": "DB-072",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 975,
@@ -2674,7 +2674,7 @@
     {
       "id": 665,
       "nombre": "DB-053",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1354,
@@ -3139,7 +3139,7 @@
     {
       "id": 706,
       "nombre": "DB-094",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1483,
@@ -3294,7 +3294,7 @@
     {
       "id": 1327,
       "nombre": "3I-MAT-FOIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 450,
@@ -3394,7 +3394,7 @@
     {
       "id": 494,
       "nombre": "jillia",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 244,
@@ -3489,7 +3489,7 @@
     {
       "id": 691,
       "nombre": "DB-079",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1400,
@@ -3874,7 +3874,7 @@
     {
       "id": 297,
       "nombre": "Optimus Prime",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 798,
@@ -3974,7 +3974,7 @@
     {
       "id": 1586,
       "nombre": "Z-AGUA-SAGRADA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 439,
@@ -4089,7 +4089,7 @@
     {
       "id": 1069,
       "nombre": "TIGRA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1366,
@@ -4454,7 +4454,7 @@
     {
       "id": 1380,
       "nombre": "9-ETERMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1554,
@@ -4854,12 +4854,12 @@
     {
       "id": 1536,
       "nombre": "DR-GATCHAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 5,
       "nombre": "Seiya de Pegaso",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1300,
@@ -5449,7 +5449,7 @@
     {
       "id": 576,
       "nombre": "ALAN-CROCKET",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 577,
@@ -5874,7 +5874,7 @@
     {
       "id": 1328,
       "nombre": "4A-MIMI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 476,
@@ -5894,7 +5894,7 @@
     {
       "id": 1277,
       "nombre": "BATMAN-&-ROBIN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 506,
@@ -5979,7 +5979,7 @@
     {
       "id": 1580,
       "nombre": "X-AKKUMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1481,
@@ -6099,6 +6099,81 @@
     {
       "id": 1550,
       "nombre": "F1-CHAOS",
+      "cantidad": 1
+    },
+    {
+      "id": 310,
+      "nombre": "Dan",
+      "cantidad": 1
+    },
+    {
+      "id": 547,
+      "nombre": "ROCKY",
+      "cantidad": 1
+    },
+    {
+      "id": 807,
+      "nombre": "JAX",
+      "cantidad": 1
+    },
+    {
+      "id": 262,
+      "nombre": "April O'Neil",
+      "cantidad": 1
+    },
+    {
+      "id": 710,
+      "nombre": "DB-098",
+      "cantidad": 1
+    },
+    {
+      "id": 797,
+      "nombre": "MR-FREEZE",
+      "cantidad": 1
+    },
+    {
+      "id": 304,
+      "nombre": "Runabout",
+      "cantidad": 1
+    },
+    {
+      "id": 1523,
+      "nombre": "B2-ANDROIDE8",
+      "cantidad": 1
+    },
+    {
+      "id": 670,
+      "nombre": "DB-058",
+      "cantidad": 1
+    },
+    {
+      "id": 717,
+      "nombre": "DB-105",
+      "cantidad": 1
+    },
+    {
+      "id": 1348,
+      "nombre": "6C-TENTOMON",
+      "cantidad": 1
+    },
+    {
+      "id": 184,
+      "nombre": "Lizard",
+      "cantidad": 1
+    },
+    {
+      "id": 581,
+      "nombre": "CLIFFORD-YUMA",
+      "cantidad": 1
+    },
+    {
+      "id": 1239,
+      "nombre": "2-STEVE-URKEL",
+      "cantidad": 1
+    },
+    {
+      "id": 779,
+      "nombre": "BANE",
       "cantidad": 1
     }
   ]

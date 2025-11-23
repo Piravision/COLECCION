@@ -7354,7 +7354,7 @@
     {
       "id": 1585,
       "nombre": "Z-ABANICO-MAGICO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1527,
@@ -7594,7 +7594,7 @@
     {
       "id": 1504,
       "nombre": "A3-FAKE-BULMA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1557,
@@ -7724,7 +7724,7 @@
     {
       "id": 1551,
       "nombre": "F1-MUTENROSHI-JOVEN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1496,
@@ -7779,6 +7779,31 @@
     {
       "id": 1519,
       "nombre": "B1-GUARDIA-ROBOT",
+      "cantidad": 1
+    },
+    {
+      "id": 1563,
+      "nombre": "T-MR.WOLF",
+      "cantidad": 1
+    },
+    {
+      "id": 1477,
+      "nombre": "1A-FA09",
+      "cantidad": 1
+    },
+    {
+      "id": 1484,
+      "nombre": "1A-FA16",
+      "cantidad": 1
+    },
+    {
+      "id": 1503,
+      "nombre": "A2-TORTUGA",
+      "cantidad": 1
+    },
+    {
+      "id": 1591,
+      "nombre": "Z-NUBE-KINTON",
       "cantidad": 1
     }
   ]
