@@ -1974,7 +1974,7 @@
         {
             "id": 639,
             "nombre": "DB-027",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 537,
@@ -7669,6 +7669,11 @@
         {
             "id": 1511,
             "nombre": "B1-CAPITAN-DARK",
+            "cantidad": 1
+        },
+        {
+            "id": 1513,
+            "nombre": "B1-COMANDANTE-RED",
             "cantidad": 1
         }
     ]
