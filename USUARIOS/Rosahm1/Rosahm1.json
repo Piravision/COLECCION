@@ -3329,7 +3329,7 @@
     {
       "id": 139,
       "nombre": "Duke L'Orange",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 382,
@@ -4814,7 +4814,7 @@
     {
       "id": 1068,
       "nombre": "THUNDRA",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1034,
@@ -4854,7 +4854,7 @@
     {
       "id": 1058,
       "nombre": "POWERMAN & IRON FIST",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 922,
@@ -7474,7 +7474,7 @@
     {
       "id": 1518,
       "nombre": "B1-GENERAL-WHITE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1530,
@@ -7504,7 +7504,7 @@
     {
       "id": 1534,
       "nombre": "D2-TAMBOURINE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1523,
@@ -7594,7 +7594,7 @@
     {
       "id": 1538,
       "nombre": "DR-POOP",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1542,
@@ -7659,7 +7659,7 @@
     {
       "id": 1521,
       "nombre": "B1-MURASAKI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1537,
@@ -7684,6 +7684,16 @@
     {
       "id": 1490,
       "nombre": "1A-FA22",
+      "cantidad": 1
+    },
+    {
+      "id": 1510,
+      "nombre": "A4-UPA",
+      "cantidad": 1
+    },
+    {
+      "id": 1471,
+      "nombre": "1A-FA03",
       "cantidad": 1
     }
   ]
