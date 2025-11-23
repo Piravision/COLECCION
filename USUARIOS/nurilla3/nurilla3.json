@@ -4854,7 +4854,7 @@
         {
             "id": 1536,
             "nombre": "DR-GATCHAN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 5,
@@ -6054,6 +6054,11 @@
         {
             "id": 641,
             "nombre": "DB-029",
+            "cantidad": 1
+        },
+        {
+            "id": 642,
+            "nombre": "DB-030",
             "cantidad": 1
         }
     ]

@@ -2164,7 +2164,7 @@
         {
             "id": 642,
             "nombre": "DB-030",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 846,
@@ -7679,6 +7679,11 @@
         {
             "id": 1527,
             "nombre": "C1-SHU",
+            "cantidad": 1
+        },
+        {
+            "id": 1536,
+            "nombre": "DR-GATCHAN",
             "cantidad": 1
         }
     ]
