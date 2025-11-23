@@ -1939,7 +1939,7 @@
         {
             "id": 615,
             "nombre": "DB-003",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1408,
@@ -3589,7 +3589,7 @@
         {
             "id": 1527,
             "nombre": "C1-SHU",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1539,
@@ -4939,7 +4939,7 @@
         {
             "id": 686,
             "nombre": "DB-074",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 647,
@@ -5469,7 +5469,7 @@
         {
             "id": 915,
             "nombre": "WONDER-WOMAN",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 595,
@@ -6049,6 +6049,11 @@
         {
             "id": 639,
             "nombre": "DB-027",
+            "cantidad": 1
+        },
+        {
+            "id": 641,
+            "nombre": "DB-029",
             "cantidad": 1
         }
     ]

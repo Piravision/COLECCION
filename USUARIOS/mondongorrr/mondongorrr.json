@@ -259,7 +259,7 @@
         {
             "id": 641,
             "nombre": "DB-029",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 113,
@@ -7674,6 +7674,11 @@
         {
             "id": 1513,
             "nombre": "B1-COMANDANTE-RED",
+            "cantidad": 1
+        },
+        {
+            "id": 1527,
+            "nombre": "C1-SHU",
             "cantidad": 1
         }
     ]
