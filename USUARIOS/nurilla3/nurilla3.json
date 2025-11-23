@@ -124,7 +124,7 @@
     {
       "id": 624,
       "nombre": "DB-012",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 785,
@@ -254,7 +254,7 @@
     {
       "id": 525,
       "nombre": "Cíclope",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1425,
@@ -469,7 +469,7 @@
     {
       "id": 960,
       "nombre": "3-LESTRADE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 633,
@@ -844,7 +844,7 @@
     {
       "id": 589,
       "nombre": "GENTILE-SALVATORE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 724,
@@ -2074,7 +2074,7 @@
     {
       "id": 1460,
       "nombre": "WISHMASTER",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 1463,
@@ -3794,7 +3794,7 @@
     {
       "id": 986,
       "nombre": "15-BALOO",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 902,
@@ -4054,7 +4054,7 @@
     {
       "id": 1275,
       "nombre": "RAYMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1026,
@@ -4069,7 +4069,7 @@
     {
       "id": 1306,
       "nombre": "1FA-WARGREYMON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1274,
@@ -4944,7 +4944,7 @@
     {
       "id": 647,
       "nombre": "DB-035",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 832,
@@ -4979,7 +4979,7 @@
     {
       "id": 1207,
       "nombre": "4-CADILLACS-&-DINOSAURS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 483,
@@ -5189,7 +5189,7 @@
     {
       "id": 783,
       "nombre": "BRUCE-WAYNE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 299,
@@ -5354,7 +5354,7 @@
     {
       "id": 364,
       "nombre": "HulkHogan",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 356,
@@ -5429,7 +5429,7 @@
     {
       "id": 1103,
       "nombre": "FRAGGLE-ROCK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 367,
@@ -5984,6 +5984,46 @@
     {
       "id": 1481,
       "nombre": "1A-FA13",
+      "cantidad": 1
+    },
+    {
+      "id": 962,
+      "nombre": "3-SHERLOK-HOLMES",
+      "cantidad": 1
+    },
+    {
+      "id": 1163,
+      "nombre": "GREEN ARROW",
+      "cantidad": 1
+    },
+    {
+      "id": 590,
+      "nombre": "HERMANN-KALTZ",
+      "cantidad": 1
+    },
+    {
+      "id": 442,
+      "nombre": "slig2",
+      "cantidad": 1
+    },
+    {
+      "id": 1196,
+      "nombre": "1-YOSHI",
+      "cantidad": 1
+    },
+    {
+      "id": 836,
+      "nombre": "Chunli2",
+      "cantidad": 1
+    },
+    {
+      "id": 1373,
+      "nombre": "9-ANDROMON",
+      "cantidad": 1
+    },
+    {
+      "id": 1238,
+      "nombre": "2-COSAS-DE-CASA",
       "cantidad": 1
     }
   ]
