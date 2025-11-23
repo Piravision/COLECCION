@@ -7344,7 +7344,7 @@
     {
       "id": 1547,
       "nombre": "E1-MRS.-BRIEF",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1571,
@@ -7554,7 +7554,7 @@
     {
       "id": 1498,
       "nombre": "A1-PUAR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1592,
@@ -7644,7 +7644,7 @@
     {
       "id": 1590,
       "nombre": "Z-MOTO-BULMA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1493,
@@ -7654,7 +7654,7 @@
     {
       "id": 1575,
       "nombre": "W-PLAGUE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1521,
@@ -7694,6 +7694,16 @@
     {
       "id": 1471,
       "nombre": "1A-FA03",
+      "cantidad": 1
+    },
+    {
+      "id": 1488,
+      "nombre": "1A-FA20",
+      "cantidad": 1
+    },
+    {
+      "id": 1559,
+      "nombre": "T-BRUCE-LEE",
       "cantidad": 1
     }
   ]

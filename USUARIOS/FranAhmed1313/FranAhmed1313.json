@@ -3149,7 +3149,7 @@
     {
       "id": 1525,
       "nombre": "C1-MAI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1535,
@@ -3394,7 +3394,7 @@
     {
       "id": 1529,
       "nombre": "D1-1PICCOLO-NIÑO",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1499,
@@ -3644,7 +3644,7 @@
     {
       "id": 1528,
       "nombre": "D1-1BEBE-PICCOLO",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 540,
@@ -3754,7 +3754,7 @@
     {
       "id": 476,
       "nombre": "Kaufman",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 880,
@@ -4189,6 +4189,31 @@
     {
       "id": 1524,
       "nombre": "B2-SUNO",
+      "cantidad": 1
+    },
+    {
+      "id": 1586,
+      "nombre": "Z-AGUA-SAGRADA",
+      "cantidad": 1
+    },
+    {
+      "id": 1559,
+      "nombre": "T-BRUCE-LEE",
+      "cantidad": 1
+    },
+    {
+      "id": 1507,
+      "nombre": "A3-KORIN",
+      "cantidad": 1
+    },
+    {
+      "id": 479,
+      "nombre": "Split Head",
+      "cantidad": 1
+    },
+    {
+      "id": 468,
+      "nombre": "CybilBennett",
       "cantidad": 1
     }
   ]
