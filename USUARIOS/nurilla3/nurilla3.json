@@ -4959,7 +4959,7 @@
         {
             "id": 1499,
             "nombre": "A1-YAMCHA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1577,
@@ -6029,6 +6029,11 @@
         {
             "id": 614,
             "nombre": "DB-002",
+            "cantidad": 1
+        },
+        {
+            "id": 617,
+            "nombre": "DB-005",
             "cantidad": 1
         }
     ]
