@@ -2039,7 +2039,7 @@
         {
             "id": 637,
             "nombre": "DB-025",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 891,
@@ -7664,6 +7664,11 @@
         {
             "id": 1500,
             "nombre": "A2-LUNCH",
+            "cantidad": 1
+        },
+        {
+            "id": 1511,
+            "nombre": "B1-CAPITAN-DARK",
             "cantidad": 1
         }
     ]
