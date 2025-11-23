@@ -3534,7 +3534,7 @@
         {
             "id": 1500,
             "nombre": "A2-LUNCH",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1541,
@@ -6034,6 +6034,11 @@
         {
             "id": 617,
             "nombre": "DB-005",
+            "cantidad": 1
+        },
+        {
+            "id": 628,
+            "nombre": "DB-016",
             "cantidad": 1
         }
     ]

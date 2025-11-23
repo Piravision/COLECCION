@@ -2119,7 +2119,7 @@
         {
             "id": 628,
             "nombre": "DB-016",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 926,
@@ -7659,6 +7659,11 @@
         {
             "id": 1499,
             "nombre": "A1-YAMCHA",
+            "cantidad": 1
+        },
+        {
+            "id": 1500,
+            "nombre": "A2-LUNCH",
             "cantidad": 1
         }
     ]
