@@ -12,11 +12,6 @@
       "cantidad": 1
     },
     {
-      "id": 356,
-      "nombre": "busuzima",
-      "cantidad": 1
-    },
-    {
       "id": 331,
       "nombre": "Mente Maestra",
       "cantidad": 1
@@ -53,10 +48,10 @@
     }
   ],
   "duelos": {
-    "total": 1,
+    "total": 2,
     "victorias": 1,
-    "derrotas": 0,
-    "racha_actual": 1,
+    "derrotas": 1,
+    "racha_actual": 0,
     "racha_maxima": 1,
     "premios_racha5": 0
   }
