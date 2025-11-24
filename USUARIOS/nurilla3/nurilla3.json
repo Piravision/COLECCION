@@ -289,7 +289,7 @@
     {
       "id": 808,
       "nombre": "JOHNNY-CAGE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1015,
@@ -759,7 +759,7 @@
     {
       "id": 460,
       "nombre": "miura",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 91,
@@ -1304,7 +1304,7 @@
     {
       "id": 183,
       "nombre": "Kraven",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 154,
@@ -2574,7 +2574,7 @@
     {
       "id": 625,
       "nombre": "DB-013",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 572,
@@ -2624,7 +2624,7 @@
     {
       "id": 1268,
       "nombre": "EZIO-AUDITORE",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 851,
@@ -3159,7 +3159,7 @@
     {
       "id": 1480,
       "nombre": "1A-FA12",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 821,
@@ -5089,7 +5089,7 @@
     {
       "id": 775,
       "nombre": "yellow",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 875,
@@ -5109,7 +5109,7 @@
     {
       "id": 271,
       "nombre": "Neutrinos",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 166,
@@ -5274,7 +5274,7 @@
     {
       "id": 991,
       "nombre": "CONAN-EDOGAWA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 997,
@@ -5674,7 +5674,7 @@
     {
       "id": 694,
       "nombre": "DB-082",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 903,
@@ -5779,7 +5779,7 @@
     {
       "id": 1023,
       "nombre": "4F- THE-FANTASTIC-4",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1085,
@@ -5959,7 +5959,7 @@
     {
       "id": 1566,
       "nombre": "T-REY-CHAPPA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 177,
@@ -6029,7 +6029,7 @@
     {
       "id": 614,
       "nombre": "DB-002",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 617,
@@ -6074,7 +6074,7 @@
     {
       "id": 578,
       "nombre": "BENJI-PRICE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 266,
@@ -6314,6 +6314,26 @@
     {
       "id": 1821,
       "nombre": "ZFA-GOKU-SSJ3",
+      "cantidad": 1
+    },
+    {
+      "id": 1073,
+      "nombre": "X - CYCLOPS",
+      "cantidad": 1
+    },
+    {
+      "id": 1651,
+      "nombre": "ANDROIDE-Nº18",
+      "cantidad": 1
+    },
+    {
+      "id": 854,
+      "nombre": "RIC-FLAIR",
+      "cantidad": 1
+    },
+    {
+      "id": 1631,
+      "nombre": "7E-FREEZER-100%",
       "cantidad": 1
     }
   ]

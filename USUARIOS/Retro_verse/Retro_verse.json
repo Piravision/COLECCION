@@ -159,7 +159,7 @@
     {
       "id": 405,
       "nombre": "tifa",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 6,
@@ -269,7 +269,7 @@
     {
       "id": 502,
       "nombre": "viktor",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 187,
@@ -529,7 +529,7 @@
     {
       "id": 480,
       "nombre": "Twinfeeler",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 61,
@@ -2849,7 +2849,7 @@
     {
       "id": 384,
       "nombre": "aku aku",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 635,
@@ -4204,7 +4204,7 @@
     {
       "id": 666,
       "nombre": "DB-054",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 971,
@@ -4874,7 +4874,7 @@
     {
       "id": 913,
       "nombre": "SUPERGIRL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1025,
@@ -4969,7 +4969,7 @@
     {
       "id": 911,
       "nombre": "MARTHA-KENT",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 945,
@@ -5009,7 +5009,7 @@
     {
       "id": 1093,
       "nombre": "CONDE-PATULA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 800,
@@ -5224,7 +5224,7 @@
     {
       "id": 1058,
       "nombre": "POWERMAN & IRON FIST",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 937,
@@ -5624,7 +5624,7 @@
     {
       "id": 1201,
       "nombre": "2Z-BOMBERMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1221,
@@ -5744,7 +5744,7 @@
     {
       "id": 1176,
       "nombre": "IPPO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1247,
@@ -7799,6 +7799,11 @@
     {
       "id": 1773,
       "nombre": "SAIBAIMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1710,
+      "nombre": "GREPE",
       "cantidad": 1
     }
   ]

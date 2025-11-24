@@ -39,7 +39,7 @@
     {
       "id": 235,
       "nombre": "Punk Frogs",
-      "cantidad": 9
+      "cantidad": 10
     },
     {
       "id": 174,
@@ -214,7 +214,7 @@
     {
       "id": 123,
       "nombre": "Sorceress",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 309,
@@ -404,7 +404,7 @@
     {
       "id": 150,
       "nombre": "Throttle",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 50,
@@ -1769,7 +1769,7 @@
     {
       "id": 702,
       "nombre": "DB-090",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 628,
@@ -1939,7 +1939,7 @@
     {
       "id": 144,
       "nombre": "Grin-Hardwing",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 761,
@@ -2034,7 +2034,7 @@
     {
       "id": 646,
       "nombre": "DB-034",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 493,
@@ -2129,7 +2129,7 @@
     {
       "id": 140,
       "nombre": "Mallory McMallard",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 616,
@@ -2619,7 +2619,7 @@
     {
       "id": 225,
       "nombre": "Guarida Felina",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 837,
@@ -2859,7 +2859,7 @@
     {
       "id": 86,
       "nombre": "Shane Gooseman",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 450,
@@ -3114,7 +3114,7 @@
     {
       "id": 80,
       "nombre": "robot",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 56,
@@ -3209,7 +3209,7 @@
     {
       "id": 924,
       "nombre": "VISITOR-SOLDIER",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 576,
@@ -3889,7 +3889,7 @@
     {
       "id": 134,
       "nombre": "Tri Klops",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 130,
@@ -4229,7 +4229,7 @@
     {
       "id": 862,
       "nombre": "NEO-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 470,
@@ -4314,7 +4314,7 @@
     {
       "id": 412,
       "nombre": "big2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 593,
@@ -4399,7 +4399,7 @@
     {
       "id": 953,
       "nombre": "12-MARCO-&-AMELIO",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 972,
@@ -4634,7 +4634,7 @@
     {
       "id": 1002,
       "nombre": "NARUTO-UZUMAKI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 12,
@@ -4679,7 +4679,7 @@
     {
       "id": 633,
       "nombre": "DB-021",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 662,
@@ -4709,7 +4709,7 @@
     {
       "id": 682,
       "nombre": "DB-070",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 684,
@@ -5129,7 +5129,7 @@
     {
       "id": 1141,
       "nombre": "PATOAVENTURAS",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 440,
@@ -5679,7 +5679,7 @@
     {
       "id": 1126,
       "nombre": "K.RYOTSU",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 896,
@@ -6524,7 +6524,7 @@
     {
       "id": 1321,
       "nombre": "3C-GABUMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1366,
@@ -6764,7 +6764,7 @@
     {
       "id": 1381,
       "nombre": "9-GOTTSUMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1387,
@@ -7169,7 +7169,7 @@
     {
       "id": 1457,
       "nombre": "TOMATES ASESINOS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1448,
@@ -7834,7 +7834,7 @@
     {
       "id": 1503,
       "nombre": "A2-TORTUGA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1581,
@@ -7954,7 +7954,7 @@
     {
       "id": 1547,
       "nombre": "E1-MRS.-BRIEF",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1480,
@@ -8029,6 +8029,11 @@
     {
       "id": 1773,
       "nombre": "SAIBAIMAN",
+      "cantidad": 2
+    },
+    {
+      "id": 1813,
+      "nombre": "ZFA-FREEZER",
       "cantidad": 1
     }
   ]
