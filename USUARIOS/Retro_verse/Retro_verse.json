@@ -744,7 +744,7 @@
     {
       "id": 95,
       "nombre": "Hudson",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 369,
@@ -1279,7 +1279,7 @@
     {
       "id": 224,
       "nombre": "Guarida Tortuga",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 527,
@@ -1914,7 +1914,7 @@
     {
       "id": 41,
       "nombre": "crocodine bueno",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 552,
@@ -2164,7 +2164,7 @@
     {
       "id": 689,
       "nombre": "DB-077",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 148,
@@ -2174,7 +2174,7 @@
     {
       "id": 267,
       "nombre": "Metalhead",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 722,
@@ -2544,7 +2544,7 @@
     {
       "id": 206,
       "nombre": "Slash",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 299,
@@ -3509,7 +3509,7 @@
     {
       "id": 898,
       "nombre": "SUB-MARINER",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 831,
@@ -3759,7 +3759,7 @@
     {
       "id": 948,
       "nombre": "1-ATHOS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 966,
@@ -4314,7 +4314,7 @@
     {
       "id": 961,
       "nombre": "3-MORIARTY",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 900,
@@ -4419,7 +4419,7 @@
     {
       "id": 962,
       "nombre": "3-SHERLOK-HOLMES",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 891,
@@ -4924,7 +4924,7 @@
     {
       "id": 1109,
       "nombre": "G-ZARK-7-&-ROBERTO-1",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 978,
@@ -5014,7 +5014,7 @@
     {
       "id": 800,
       "nombre": "RAS-AL-GHUL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1043,
@@ -5099,7 +5099,7 @@
     {
       "id": 1049,
       "nombre": "I-MEDUSA-2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1158,
@@ -5744,7 +5744,7 @@
     {
       "id": 1176,
       "nombre": "IPPO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1247,
@@ -7109,7 +7109,7 @@
     {
       "id": 1438,
       "nombre": "MUÑECO DIABOLICO ii",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1452,
@@ -7524,7 +7524,7 @@
     {
       "id": 1540,
       "nombre": "DR-Srta.-YAMABUKI",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1521,
@@ -7734,7 +7734,7 @@
     {
       "id": 1572,
       "nombre": "W-KING-FURRY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1476,
@@ -7784,6 +7784,21 @@
     {
       "id": 1529,
       "nombre": "D1-1PICCOLO-NIÑO",
+      "cantidad": 1
+    },
+    {
+      "id": 1489,
+      "nombre": "1A-FA21",
+      "cantidad": 2
+    },
+    {
+      "id": 1713,
+      "nombre": "HATCHIYAK",
+      "cantidad": 1
+    },
+    {
+      "id": 1773,
+      "nombre": "SAIBAIMAN",
       "cantidad": 1
     }
   ]
