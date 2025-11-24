@@ -144,7 +144,7 @@
     {
       "id": 42,
       "nombre": "dai 2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 9,
@@ -174,7 +174,7 @@
     {
       "id": 87,
       "nombre": "Walter _Doc_ Hartford",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 187,
@@ -289,7 +289,7 @@
     {
       "id": 209,
       "nombre": "Sovereign Rock Castle",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 178,
@@ -919,7 +919,7 @@
     {
       "id": 379,
       "nombre": "lynx",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 315,
@@ -1239,7 +1239,7 @@
     {
       "id": 490,
       "nombre": "spyro1",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 321,
@@ -1269,7 +1269,7 @@
     {
       "id": 359,
       "nombre": "long",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 372,
@@ -1689,7 +1689,7 @@
     {
       "id": 224,
       "nombre": "Guarida Tortuga",
-      "cantidad": 9
+      "cantidad": 10
     },
     {
       "id": 639,
@@ -1994,7 +1994,7 @@
     {
       "id": 647,
       "nombre": "DB-035",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 722,
@@ -2579,7 +2579,7 @@
     {
       "id": 26,
       "nombre": "Eric",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 92,
@@ -4059,7 +4059,7 @@
     {
       "id": 599,
       "nombre": "MARK-LENDERS",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 258,
@@ -4664,7 +4664,7 @@
     {
       "id": 81,
       "nombre": "vearn",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 82,
@@ -4814,7 +4814,7 @@
     {
       "id": 446,
       "nombre": "CUERVOS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 255,
@@ -5229,7 +5229,7 @@
     {
       "id": 1026,
       "nombre": "4FV -SUPERSKRULL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1075,
@@ -5519,7 +5519,7 @@
     {
       "id": 1189,
       "nombre": "DRAGON-LAIR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1161,
@@ -5714,7 +5714,7 @@
     {
       "id": 1134,
       "nombre": "DR.-GRANUDO-&-HORRIFIDO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1012,
@@ -6344,7 +6344,7 @@
     {
       "id": 1077,
       "nombre": "X -NIGHTCRAWLER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1217,
@@ -6374,7 +6374,7 @@
     {
       "id": 1282,
       "nombre": "ROBOTECH",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1218,
@@ -6729,7 +6729,7 @@
     {
       "id": 1363,
       "nombre": "7I-TK-FOIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1302,
@@ -7149,12 +7149,12 @@
     {
       "id": 1406,
       "nombre": "BRAINDEAD",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1426,
       "nombre": "HOUSE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1404,
@@ -7464,7 +7464,7 @@
     {
       "id": 1540,
       "nombre": "DR-Srta.-YAMABUKI",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1504,
@@ -7479,7 +7479,7 @@
     {
       "id": 1551,
       "nombre": "F1-MUTENROSHI-JOVEN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1515,
@@ -7909,7 +7909,7 @@
     {
       "id": 1498,
       "nombre": "A1-PUAR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1588,
@@ -8069,6 +8069,51 @@
     {
       "id": 1633,
       "nombre": "8B-CELL-IMPERFECTO",
+      "cantidad": 1
+    },
+    {
+      "id": 1601,
+      "nombre": "2B-GOHAN-NIÑO",
+      "cantidad": 1
+    },
+    {
+      "id": 1742,
+      "nombre": "LUCHADOR-MAS-ALLA",
+      "cantidad": 1
+    },
+    {
+      "id": 1816,
+      "nombre": "ZFA-GOGETA",
+      "cantidad": 1
+    },
+    {
+      "id": 1833,
+      "nombre": "ZFA-VEGETA & TRUNKS",
+      "cantidad": 1
+    },
+    {
+      "id": 1654,
+      "nombre": "ANGOL",
+      "cantidad": 1
+    },
+    {
+      "id": 1800,
+      "nombre": "YAMU",
+      "cantidad": 1
+    },
+    {
+      "id": 1619,
+      "nombre": "5A-SON-GOTEN",
+      "cantidad": 1
+    },
+    {
+      "id": 1596,
+      "nombre": "1C-GOKU-SSJ",
+      "cantidad": 1
+    },
+    {
+      "id": 1822,
+      "nombre": "ZFA-GOKUSS3 & VEGETA",
       "cantidad": 1
     }
   ]

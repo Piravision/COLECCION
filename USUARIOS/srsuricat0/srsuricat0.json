@@ -544,7 +544,7 @@
     {
       "id": 141,
       "nombre": "Nosedive Flashblade",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 211,
@@ -2834,7 +2834,7 @@
     {
       "id": 205,
       "nombre": "Shrimp Louie",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 742,
@@ -7874,6 +7874,11 @@
     {
       "id": 1600,
       "nombre": "2AA-GOHAN-BEBE",
+      "cantidad": 1
+    },
+    {
+      "id": 1832,
+      "nombre": "ZFA-VEGETA & CELL",
       "cantidad": 1
     }
   ]

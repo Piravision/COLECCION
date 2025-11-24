@@ -399,7 +399,7 @@
     {
       "id": 254,
       "nombre": "Chacalo",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 540,
@@ -739,7 +739,7 @@
     {
       "id": 7,
       "nombre": "El Patriarca",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 395,
@@ -1039,7 +1039,7 @@
     {
       "id": 773,
       "nombre": "Squatt",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 664,
@@ -1189,7 +1189,7 @@
     {
       "id": 649,
       "nombre": "DB-037",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 415,
@@ -1264,7 +1264,7 @@
     {
       "id": 196,
       "nombre": "Ripster",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 696,
@@ -1419,7 +1419,7 @@
     {
       "id": 51,
       "nombre": "mam",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 602,
@@ -2364,7 +2364,7 @@
     {
       "id": 708,
       "nombre": "DB-096",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 650,
@@ -2454,7 +2454,7 @@
     {
       "id": 299,
       "nombre": "Sunstreaker",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 73,
@@ -2504,7 +2504,7 @@
     {
       "id": 469,
       "nombre": "Dahlia Gillespie",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 138,
@@ -3544,7 +3544,7 @@
     {
       "id": 424,
       "nombre": "meryl3",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 344,
@@ -3889,7 +3889,7 @@
     {
       "id": 386,
       "nombre": "CROMO PERSONAJE",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 388,
@@ -4204,7 +4204,7 @@
     {
       "id": 877,
       "nombre": "ENCHANTRESS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 946,
@@ -4294,7 +4294,7 @@
     {
       "id": 353,
       "nombre": "zorgia",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 983,
@@ -4334,7 +4334,7 @@
     {
       "id": 944,
       "nombre": "JOKER-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1089,
@@ -5384,7 +5384,7 @@
     {
       "id": 901,
       "nombre": "ULTRON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 984,
@@ -5939,7 +5939,7 @@
     {
       "id": 1147,
       "nombre": "VACA-&-POLLO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1180,
@@ -7034,7 +7034,7 @@
     {
       "id": 1430,
       "nombre": "LA CRIATURA DEL PANTANO",
-      "cantidad": 4
+      "cantidad": 6
     },
     {
       "id": 1455,
@@ -7184,7 +7184,7 @@
     {
       "id": 1438,
       "nombre": "MUÑECO DIABOLICO ii",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 1407,
@@ -7489,7 +7489,7 @@
     {
       "id": 1522,
       "nombre": "B1-STAFF-OFFICER",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1533,
@@ -7599,7 +7599,7 @@
     {
       "id": 1529,
       "nombre": "D1-1PICCOLO-NIÑO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1591,
@@ -7744,7 +7744,7 @@
     {
       "id": 1498,
       "nombre": "A1-PUAR",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1506,
@@ -8039,6 +8039,16 @@
     {
       "id": 1697,
       "nombre": "FROUG",
+      "cantidad": 1
+    },
+    {
+      "id": 1754,
+      "nombre": "MUTENROSHI",
+      "cantidad": 1
+    },
+    {
+      "id": 1705,
+      "nombre": "GOZ",
       "cantidad": 1
     }
   ]

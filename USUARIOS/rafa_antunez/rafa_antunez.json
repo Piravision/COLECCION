@@ -609,7 +609,7 @@
     {
       "id": 224,
       "nombre": "Guarida Tortuga",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 186,
@@ -709,7 +709,7 @@
     {
       "id": 196,
       "nombre": "Ripster",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 768,
@@ -2349,7 +2349,7 @@
     {
       "id": 1357,
       "nombre": "7C-PATAMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1391,
@@ -3109,6 +3109,21 @@
     {
       "id": 1584,
       "nombre": "X-VIEJA-BABA",
+      "cantidad": 1
+    },
+    {
+      "id": 814,
+      "nombre": "MILENNA",
+      "cantidad": 1
+    },
+    {
+      "id": 1790,
+      "nombre": "TURLES",
+      "cantidad": 1
+    },
+    {
+      "id": 684,
+      "nombre": "DB-072",
       "cantidad": 1
     }
   ]
