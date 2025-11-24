@@ -369,7 +369,7 @@
     {
       "id": 20,
       "nombre": "Skulkur",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 358,
@@ -414,7 +414,7 @@
     {
       "id": 1434,
       "nombre": "MANIAC COP",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1411,
@@ -434,7 +434,7 @@
     {
       "id": 954,
       "nombre": "2-CHIP",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1213,
@@ -994,7 +994,7 @@
     {
       "id": 965,
       "nombre": "4-RIGODON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 948,
@@ -1189,7 +1189,7 @@
     {
       "id": 885,
       "nombre": "IRON-MAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 898,
@@ -1799,7 +1799,7 @@
     {
       "id": 675,
       "nombre": "DB-063",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 414,
@@ -1899,7 +1899,7 @@
     {
       "id": 176,
       "nombre": "Camaleon",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1427,
@@ -3219,7 +3219,7 @@
     {
       "id": 634,
       "nombre": "DB-022",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 52,
@@ -3254,7 +3254,7 @@
     {
       "id": 839,
       "nombre": "DJ",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 78,
@@ -3554,7 +3554,7 @@
     {
       "id": 1520,
       "nombre": "B1-MAJOR-METALLITRON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 123,
@@ -3839,7 +3839,7 @@
     {
       "id": 1008,
       "nombre": "SAKURA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 156,
@@ -4014,7 +4014,7 @@
     {
       "id": 491,
       "nombre": "spyro2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1051,
@@ -4204,7 +4204,7 @@
     {
       "id": 555,
       "nombre": "INDIANA-JONES-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 498,
@@ -4399,7 +4399,7 @@
     {
       "id": 263,
       "nombre": "Casey Jones",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 850,
@@ -4554,7 +4554,7 @@
     {
       "id": 1183,
       "nombre": "LOS-DIMINUTOS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 748,
@@ -4604,7 +4604,7 @@
     {
       "id": 505,
       "nombre": "Hwoarang",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1178,
@@ -4749,7 +4749,7 @@
     {
       "id": 3,
       "nombre": "Juez J. Bella",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 349,
@@ -5229,7 +5229,7 @@
     {
       "id": 416,
       "nombre": "emme2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 449,
@@ -5274,7 +5274,7 @@
     {
       "id": 991,
       "nombre": "CONAN-EDOGAWA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 997,
@@ -5544,7 +5544,7 @@
     {
       "id": 1548,
       "nombre": "E1-OX-KING",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 130,
@@ -6114,7 +6114,7 @@
     {
       "id": 807,
       "nombre": "JAX",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 262,
@@ -6269,11 +6269,51 @@
     {
       "id": 1761,
       "nombre": "PAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 287,
       "nombre": "Soldado del Pie",
+      "cantidad": 1
+    },
+    {
+      "id": 626,
+      "nombre": "DB-014",
+      "cantidad": 1
+    },
+    {
+      "id": 331,
+      "nombre": "Mente Maestra",
+      "cantidad": 1
+    },
+    {
+      "id": 155,
+      "nombre": "Lawrence Limburger_",
+      "cantidad": 1
+    },
+    {
+      "id": 1642,
+      "nombre": "9F-SUPER-BUU-FORMA-GOHAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1009,
+      "nombre": "SHIN-CHAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1489,
+      "nombre": "1A-FA21",
+      "cantidad": 1
+    },
+    {
+      "id": 1763,
+      "nombre": "PARAGUS",
+      "cantidad": 1
+    },
+    {
+      "id": 1821,
+      "nombre": "ZFA-GOKU-SSJ3",
       "cantidad": 1
     }
   ]

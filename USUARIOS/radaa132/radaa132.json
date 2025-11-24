@@ -29,7 +29,7 @@
     {
       "id": 174,
       "nombre": "Spiderman",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 496,
@@ -2354,7 +2354,7 @@
     {
       "id": 830,
       "nombre": "BALROG",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 542,
@@ -3324,7 +3324,7 @@
     {
       "id": 1163,
       "nombre": "GREEN ARROW",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 63,
@@ -3689,7 +3689,7 @@
     {
       "id": 36,
       "nombre": "baduck",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 451,
@@ -5149,7 +5149,7 @@
     {
       "id": 513,
       "nombre": "DISCÍPULOS-DE-AVAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1277,
@@ -6249,7 +6249,7 @@
     {
       "id": 1543,
       "nombre": "DR-TURBO-NORIMAKI",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1561,
@@ -6789,6 +6789,21 @@
     {
       "id": 812,
       "nombre": "KUNG-LAO",
+      "cantidad": 1
+    },
+    {
+      "id": 1570,
+      "nombre": "W-BUYON",
+      "cantidad": 1
+    },
+    {
+      "id": 1744,
+      "nombre": "MECHA-FREEZER",
+      "cantidad": 1
+    },
+    {
+      "id": 1279,
+      "nombre": "GRAN-HEROE-AMERICANO",
       "cantidad": 1
     }
   ]
