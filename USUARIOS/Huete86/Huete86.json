@@ -1109,7 +1109,7 @@
     {
       "id": 357,
       "nombre": "china",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 273,
@@ -2829,7 +2829,7 @@
     {
       "id": 686,
       "nombre": "DB-074",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 822,
@@ -2929,7 +2929,7 @@
     {
       "id": 374,
       "nombre": "Succubus",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 625,
@@ -3399,7 +3399,7 @@
     {
       "id": 820,
       "nombre": "SEKTOR",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 497,
@@ -3604,7 +3604,7 @@
     {
       "id": 963,
       "nombre": "3-SRA.-HUDSON",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 860,
@@ -3654,7 +3654,7 @@
     {
       "id": 876,
       "nombre": "DORMAMMU",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 706,
@@ -4379,7 +4379,7 @@
     {
       "id": 371,
       "nombre": "muerte2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 18,
@@ -5439,7 +5439,7 @@
     {
       "id": 1137,
       "nombre": "LOS-PICAPIEDRA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 90,
@@ -5644,7 +5644,7 @@
     {
       "id": 1281,
       "nombre": "KOJI-&-MAZINGER-Z",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1278,
@@ -5939,7 +5939,7 @@
     {
       "id": 1054,
       "nombre": "MSMARVEL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 882,
@@ -5949,7 +5949,7 @@
     {
       "id": 1298,
       "nombre": "FA-ALTERED BEAST",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1149,
@@ -6924,7 +6924,7 @@
     {
       "id": 1303,
       "nombre": "1C-AGUMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1385,
@@ -8254,6 +8254,21 @@
     {
       "id": 1651,
       "nombre": "ANDROIDE-Nº18",
+      "cantidad": 1
+    },
+    {
+      "id": 1678,
+      "nombre": "CHAOZ",
+      "cantidad": 1
+    },
+    {
+      "id": 1669,
+      "nombre": "BUJIN",
+      "cantidad": 1
+    },
+    {
+      "id": 1820,
+      "nombre": "ZFA-GOKU & GOHAN",
       "cantidad": 1
     }
   ]
