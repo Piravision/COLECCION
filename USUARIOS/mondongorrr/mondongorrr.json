@@ -2054,7 +2054,7 @@
     {
       "id": 95,
       "nombre": "Hudson",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 485,
@@ -2189,7 +2189,7 @@
     {
       "id": 437,
       "nombre": "ellum",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 134,
@@ -6684,7 +6684,7 @@
     {
       "id": 1344,
       "nombre": "5H-FA-SORA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1309,
@@ -7424,7 +7424,7 @@
     {
       "id": 1490,
       "nombre": "1A-FA22",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1535,
@@ -7744,6 +7744,16 @@
     {
       "id": 1633,
       "nombre": "8B-CELL-IMPERFECTO",
+      "cantidad": 1
+    },
+    {
+      "id": 1765,
+      "nombre": "PRENSENTADOR-DEL-MAS-ALLA",
+      "cantidad": 1
+    },
+    {
+      "id": 1645,
+      "nombre": "ABO",
       "cantidad": 1
     }
   ]

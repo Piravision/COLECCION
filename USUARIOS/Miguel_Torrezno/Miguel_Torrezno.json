@@ -2339,7 +2339,7 @@
     {
       "id": 430,
       "nombre": "sniper2",
-      "cantidad": 2
+      "cantidad": 1
     },
     {
       "id": 857,
@@ -3649,7 +3649,7 @@
     {
       "id": 809,
       "nombre": "KABAL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1143,
@@ -4074,7 +4074,7 @@
     {
       "id": 834,
       "nombre": "CAMMY",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 413,
@@ -7474,6 +7474,16 @@
     {
       "id": 894,
       "nombre": "RED-SKULL",
+      "cantidad": 1
+    },
+    {
+      "id": 1622,
+      "nombre": "6A-GOTENKS",
+      "cantidad": 1
+    },
+    {
+      "id": 1474,
+      "nombre": "1A-FA06",
       "cantidad": 1
     }
   ]

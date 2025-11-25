@@ -149,7 +149,7 @@
     {
       "id": 545,
       "nombre": "IVAN-DRAGO",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 476,
@@ -514,7 +514,7 @@
     {
       "id": 516,
       "nombre": "LEGIÓN-DEL-DRAGÓN",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 561,
@@ -694,7 +694,7 @@
     {
       "id": 25,
       "nombre": "Diana",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 657,
@@ -1009,7 +1009,7 @@
     {
       "id": 430,
       "nombre": "sniper2",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 628,
@@ -1204,7 +1204,7 @@
     {
       "id": 646,
       "nombre": "DB-034",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 433,
@@ -1574,7 +1574,7 @@
     {
       "id": 445,
       "nombre": "claire",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 623,
@@ -2304,7 +2304,7 @@
     {
       "id": 329,
       "nombre": "Lady Deadstrike",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 404,
@@ -2574,7 +2574,7 @@
     {
       "id": 847,
       "nombre": "RYU",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 889,
@@ -3094,7 +3094,7 @@
     {
       "id": 933,
       "nombre": "REY-MISTERIO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 938,
@@ -3169,7 +3169,7 @@
     {
       "id": 860,
       "nombre": "MAHONEY-JAIL",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 826,
@@ -3429,7 +3429,7 @@
     {
       "id": 252,
       "nombre": "Alluro",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 300,
@@ -3569,7 +3569,7 @@
     {
       "id": 762,
       "nombre": "bkue",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 781,
@@ -4774,7 +4774,7 @@
     {
       "id": 1088,
       "nombre": "1-MISTERIOS-SA",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1057,
@@ -5764,7 +5764,7 @@
     {
       "id": 1261,
       "nombre": "FA-MEGAMAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1250,
@@ -7914,7 +7914,7 @@
     {
       "id": 1575,
       "nombre": "W-PLAGUE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1574,
@@ -8134,6 +8134,11 @@
     {
       "id": 1748,
       "nombre": "MIJORIN",
+      "cantidad": 1
+    },
+    {
+      "id": 1772,
+      "nombre": "REY-VEGETA",
       "cantidad": 1
     }
   ]
