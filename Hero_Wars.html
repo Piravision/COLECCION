@@ -606,77 +606,98 @@
 	}
 	* CSS para la nueva sección de Ranking (Añadir a Hero_Wars.html) */
 
+	/* --- INICIO: CSS de Ranking Mejorado (Reemplazar en Hero_Wars.html) --- */
+
 	/* Contenedor principal para centrar la tabla */
 	#ranking-section {
-		width: 90%;
-		max-width: 1100px;
+		width: 95%; /* Un poco más de ancho */
+		max-width: 1200px; /* Ancho máximo aumentado */
 		margin: 40px auto; 
 		padding: 20px;
-		background-color: #1a1a1a;
+		background-color: #111111; /* Fondo más oscuro */
+		border: 2px solid #333; /* Borde sutil */
 		border-radius: 10px;
-		box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+		box-shadow: 0 8px 15px rgba(0, 0, 0, 0.7);
 	}
 
 	#ranking-section h2, #ranking-section h3 {
 		text-align: center;
-		color: #FFD700;
-		margin-bottom: 20px;
-		font-size: 1.8em;
+		color: #FFD700; /* Dorado para títulos */
+		margin-bottom: 25px;
+		font-size: 2em;
+		font-weight: 700;
+		text-shadow: 0 0 5px rgba(255, 215, 0, 0.3); /* Sombra suave */
 	}
 
 	.ranking-table {
 		width: 100%;
 		border-collapse: collapse;
+		table-layout: fixed; /* Esto ayuda a que el ancho de columna se respete */
 	}
 
 	.ranking-table th, .ranking-table td {
-		padding: 10px 8px;
+		padding: 12px 8px; /* Más padding vertical */
 		text-align: left;
-		border-bottom: 1px solid #333;
-		font-size: 0.95em;
+		border-bottom: 1px solid #222;
+		font-size: 0.9em;
 	}
 
 	.ranking-table th {
-		background-color: #3A3A3A;
+		background-color: #333333;
 		color: #FFFFFF;
+		font-weight: 600;
+		text-transform: uppercase;
+		letter-spacing: 0.5px;
 	}
 
-	.ranking-table tr:nth-child(even) td {
-		background-color: #1f1f1f;
+	.ranking-table td {
+		background-color: #1a1a1a;
 	}
 
 	.ranking-table tr:hover td {
-		background-color: #2b2b2b;
+		background-color: #282828; /* Gris oscuro para el hover */
 	}
 
-	/* Alineación de columnas numéricas */
+	/* Alineación de columnas numéricas y ajuste de ancho */
 	.rank-col, .win-col, .loss-col, .streak-col {
 		text-align: center;
-		width: 12%; 
-	}
-	.rank-col {
+		font-family: 'Consolas', 'Courier New', monospace; /* Para alineación perfecta de números */
 		font-weight: bold;
+	}
+
+	/* Asignación de anchos para optimizar el espacio */
+	.rank-col {
+		width: 5%; /* Pequeño para el ranking */
+	}
+	.user-col {
+		width: 35%; /* Más espacio para el nombre de usuario */
+	}
+	.win-col, .loss-col, .streak-col {
+		width: 12%; /* Ancho uniforme para estadísticas numéricas */
 	}
 
 	/* Estilos de racha */
 	.positivo {
-		color: #32CD32; /* Verde */
+		color: #4CAF50; /* Verde más estándar */
 		font-weight: bold;
 	}
 	.warning {
-		color: #FFD700; /* Dorado para rachas >= 5 */
-		font-weight: bold;
+		color: #FFEB3B; /* Amarillo brillante para racha >= 5 */
+		font-weight: extra-bold;
+		text-shadow: 0 0 5px rgba(255, 255, 0, 0.5); /* Sombra para que destaque más */
 	}
 	.neutro {
-		color: #f4f4f4;
+		color: #aaaaaa;
 	}
 
 	.leyenda {
 		font-size: 0.8em;
-		color: #aaa;
+		color: #888;
 		text-align: center;
-		margin-top: 20px;
+		margin-top: 25px;
 	}
+
+	/* --- FIN: CSS de Ranking Mejorado --- */
 	/* --- FIN: ESTILOS PARA LA SECCIÓN DE SOBRES --- */
 	
 	
