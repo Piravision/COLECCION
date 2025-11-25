@@ -269,7 +269,7 @@
         {
             "id": 1447,
             "nombre": "SAW",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1405,
@@ -6569,6 +6569,11 @@
         {
             "id": 588,
             "nombre": "FRANZ-SCHESTER",
+            "cantidad": 1
+        },
+        {
+            "id": 1220,
+            "nombre": "FOX",
             "cantidad": 1
         }
     ]
