@@ -384,7 +384,7 @@
     {
       "id": 403,
       "nombre": "red",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 369,
@@ -689,7 +689,7 @@
     {
       "id": 288,
       "nombre": "Splinter",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 54,
@@ -1134,7 +1134,7 @@
     {
       "id": 485,
       "nombre": "Dr_Shemp",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 267,
@@ -2144,7 +2144,7 @@
     {
       "id": 308,
       "nombre": "Starscream",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 710,
@@ -2359,7 +2359,7 @@
     {
       "id": 627,
       "nombre": "DB-015",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 447,
@@ -2574,7 +2574,7 @@
     {
       "id": 840,
       "nombre": "FEI-LONG",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 26,
@@ -2584,7 +2584,7 @@
     {
       "id": 92,
       "nombre": "Brooklyn",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 488,
@@ -2999,7 +2999,7 @@
     {
       "id": 293,
       "nombre": "Hot Rod",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 787,
@@ -4984,7 +4984,7 @@
     {
       "id": 1084,
       "nombre": "YV- WASP",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 975,
@@ -4994,7 +4994,7 @@
     {
       "id": 923,
       "nombre": "REAL-VISITOR",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 826,
@@ -6094,7 +6094,7 @@
     {
       "id": 1035,
       "nombre": "CAPITAN BRITANIA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1036,
@@ -6499,7 +6499,7 @@
     {
       "id": 1289,
       "nombre": "KID-ICARUS",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1307,
@@ -7059,7 +7059,7 @@
     {
       "id": 1407,
       "nombre": "CANDYMAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1427,
@@ -7909,7 +7909,7 @@
     {
       "id": 1498,
       "nombre": "A1-PUAR",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1588,
@@ -8184,6 +8184,16 @@
     {
       "id": 1710,
       "nombre": "GREPE",
+      "cantidad": 1
+    },
+    {
+      "id": 1772,
+      "nombre": "REY-VEGETA",
+      "cantidad": 1
+    },
+    {
+      "id": 1687,
+      "nombre": "DEMETRIOUS",
       "cantidad": 1
     }
   ]
