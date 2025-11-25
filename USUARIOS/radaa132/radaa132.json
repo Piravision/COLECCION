@@ -314,7 +314,7 @@
     {
       "id": 695,
       "nombre": "DB-083",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 319,
@@ -5439,7 +5439,7 @@
     {
       "id": 1450,
       "nombre": "TEEN WOLF",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1413,
@@ -6804,6 +6804,11 @@
     {
       "id": 1279,
       "nombre": "GRAN-HEROE-AMERICANO",
+      "cantidad": 1
+    },
+    {
+      "id": 712,
+      "nombre": "DB-100",
       "cantidad": 1
     }
   ]

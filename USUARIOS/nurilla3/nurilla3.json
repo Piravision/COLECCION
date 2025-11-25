@@ -279,7 +279,7 @@
     {
       "id": 1458,
       "nombre": "VENGADOR TOXICO",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1422,
@@ -399,7 +399,7 @@
     {
       "id": 29,
       "nombre": "Sheila",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 24,
@@ -524,7 +524,7 @@
     {
       "id": 1247,
       "nombre": "LUZ-DE-LUNA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 827,
@@ -719,7 +719,7 @@
     {
       "id": 335,
       "nombre": "Toad",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 895,
@@ -1329,7 +1329,7 @@
     {
       "id": 405,
       "nombre": "tifa",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1391,
@@ -1629,7 +1629,7 @@
     {
       "id": 1031,
       "nombre": "BV- BRUJA ESCARLATA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 402,
@@ -2364,7 +2364,7 @@
     {
       "id": 905,
       "nombre": "DARKSEID",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 912,
@@ -2529,7 +2529,7 @@
     {
       "id": 607,
       "nombre": "SANDY-WINTERS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 240,
@@ -3279,7 +3279,7 @@
     {
       "id": 1260,
       "nombre": "FA-DRAGON-QUEST-VIII",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 410,
@@ -3879,7 +3879,7 @@
     {
       "id": 798,
       "nombre": "PINGUINO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1092,
@@ -4019,7 +4019,7 @@
     {
       "id": 1051,
       "nombre": "JACK-HEARTS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 289,
@@ -4149,7 +4149,7 @@
     {
       "id": 1551,
       "nombre": "F1-MUTENROSHI-JOVEN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1583,
@@ -5804,7 +5804,7 @@
     {
       "id": 372,
       "nombre": "RENARD",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 373,
@@ -5849,7 +5849,7 @@
     {
       "id": 527,
       "nombre": "Pícara",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1299,
@@ -5894,7 +5894,7 @@
     {
       "id": 1277,
       "nombre": "BATMAN-&-ROBIN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 506,
@@ -6204,7 +6204,7 @@
     {
       "id": 1263,
       "nombre": "SALVADOS-POR-LA-CAMPANA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 124,
@@ -6334,7 +6334,7 @@
     {
       "id": 1631,
       "nombre": "7E-FREEZER-100%",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1470,
@@ -6399,6 +6399,56 @@
     {
       "id": 1659,
       "nombre": "BIBIDI",
+      "cantidad": 1
+    },
+    {
+      "id": 826,
+      "nombre": "SONYA-BLADE",
+      "cantidad": 1
+    },
+    {
+      "id": 976,
+      "nombre": "7-SABIONDO",
+      "cantidad": 1
+    },
+    {
+      "id": 762,
+      "nombre": "bkue",
+      "cantidad": 1
+    },
+    {
+      "id": 1145,
+      "nombre": "TIMON-&-PUMBA",
+      "cantidad": 1
+    },
+    {
+      "id": 1820,
+      "nombre": "ZFA-GOKU & GOHAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1717,
+      "nombre": "IKOSE",
+      "cantidad": 1
+    },
+    {
+      "id": 1752,
+      "nombre": "MR-SATAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1663,
+      "nombre": "BORGOS",
+      "cantidad": 1
+    },
+    {
+      "id": 1697,
+      "nombre": "FROUG",
+      "cantidad": 1
+    },
+    {
+      "id": 1670,
+      "nombre": "BULMA",
       "cantidad": 1
     }
   ]

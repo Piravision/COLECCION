@@ -919,7 +919,7 @@
     {
       "id": 491,
       "nombre": "spyro2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 524,
@@ -1144,7 +1144,7 @@
     {
       "id": 218,
       "nombre": "Cybertron",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 591,
@@ -1589,7 +1589,7 @@
     {
       "id": 512,
       "nombre": "Dimensión-X",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 376,
@@ -2189,7 +2189,7 @@
     {
       "id": 828,
       "nombre": "SUB-ZERO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 291,
@@ -2384,7 +2384,7 @@
     {
       "id": 95,
       "nombre": "Hudson",
-      "cantidad": 2
+      "cantidad": 1
     },
     {
       "id": 614,
@@ -5039,7 +5039,7 @@
     {
       "id": 978,
       "nombre": "13-GARFIELD",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1061,
@@ -5379,7 +5379,7 @@
     {
       "id": 1003,
       "nombre": "NINJA-ATORI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 901,
@@ -6199,7 +6199,7 @@
     {
       "id": 1294,
       "nombre": "LOS-PROBLEMAS-CRECEN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1259,
@@ -7424,7 +7424,7 @@
     {
       "id": 1534,
       "nombre": "D2-TAMBOURINE",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1517,
@@ -7499,7 +7499,7 @@
     {
       "id": 1501,
       "nombre": "A2-LUNCH-BAD",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1502,
@@ -7974,7 +7974,7 @@
     {
       "id": 1667,
       "nombre": "BROLY-BEBE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1681,
@@ -8049,6 +8049,36 @@
     {
       "id": 1705,
       "nombre": "GOZ",
+      "cantidad": 1
+    },
+    {
+      "id": 1721,
+      "nombre": "JEWEL",
+      "cantidad": 1
+    },
+    {
+      "id": 1698,
+      "nombre": "GARLIC-JR",
+      "cantidad": 1
+    },
+    {
+      "id": 1691,
+      "nombre": "DICTADOR",
+      "cantidad": 1
+    },
+    {
+      "id": 1742,
+      "nombre": "LUCHADOR-MAS-ALLA",
+      "cantidad": 1
+    },
+    {
+      "id": 1638,
+      "nombre": "9B-BUU-MALDAD-PURA",
+      "cantidad": 1
+    },
+    {
+      "id": 1824,
+      "nombre": "ZFA-GOTENKS-GOHAN-PICCOLO",
       "cantidad": 1
     }
   ]
