@@ -404,7 +404,7 @@
     {
       "id": 150,
       "nombre": "Throttle",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 50,
@@ -449,7 +449,7 @@
     {
       "id": 462,
       "nombre": "sakura",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 272,
@@ -559,7 +559,7 @@
     {
       "id": 414,
       "nombre": "campb2",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 387,
@@ -829,7 +829,7 @@
     {
       "id": 306,
       "nombre": "Shockwave",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 375,
@@ -1519,7 +1519,7 @@
     {
       "id": 355,
       "nombre": "bayur",
-      "cantidad": 4
+      "cantidad": 3
     },
     {
       "id": 429,
@@ -2009,7 +2009,7 @@
     {
       "id": 64,
       "nombre": "evil crocodine",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 661,
@@ -4309,7 +4309,7 @@
     {
       "id": 741,
       "nombre": "Camus-de-Acuario",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 412,
@@ -5089,7 +5089,7 @@
     {
       "id": 1125,
       "nombre": "GON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1029,
@@ -5284,7 +5284,7 @@
     {
       "id": 1037,
       "nombre": "CAPITAN-AMERICA-2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1066,
@@ -5294,7 +5294,7 @@
     {
       "id": 713,
       "nombre": "DB-101",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1062,
@@ -5449,7 +5449,7 @@
     {
       "id": 1228,
       "nombre": "BEN-10",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1164,
@@ -5474,7 +5474,7 @@
     {
       "id": 1056,
       "nombre": "NOVA-2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 850,
@@ -5744,7 +5744,7 @@
     {
       "id": 974,
       "nombre": "7-INSPECTOR-GADGET",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1055,
@@ -5999,7 +5999,7 @@
     {
       "id": 1266,
       "nombre": "CHRONO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1286,
@@ -6489,7 +6489,7 @@
     {
       "id": 1138,
       "nombre": "LUCKY-LUKE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1155,
@@ -6559,7 +6559,7 @@
     {
       "id": 1352,
       "nombre": "6G-TENTOMON-EVO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1362,
@@ -6759,7 +6759,7 @@
     {
       "id": 1343,
       "nombre": "5G-PIYOMON-EVO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1381,
@@ -7269,7 +7269,7 @@
     {
       "id": 1435,
       "nombre": "MARS ATTACKS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1432,
@@ -7349,7 +7349,7 @@
     {
       "id": 1585,
       "nombre": "Z-ABANICO-MAGICO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1520,
@@ -7454,7 +7454,7 @@
     {
       "id": 1475,
       "nombre": "1A-FA07",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1556,
@@ -7804,7 +7804,7 @@
     {
       "id": 1559,
       "nombre": "T-BRUCE-LEE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1470,
@@ -8164,7 +8164,7 @@
     {
       "id": 1781,
       "nombre": "SUGESH",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1730,
@@ -8194,6 +8194,21 @@
     {
       "id": 1687,
       "nombre": "DEMETRIOUS",
+      "cantidad": 1
+    },
+    {
+      "id": 1617,
+      "nombre": "4D-TRUNKS-FUTURO-SSJ",
+      "cantidad": 1
+    },
+    {
+      "id": 1602,
+      "nombre": "2C-GOHAN-SSJ",
+      "cantidad": 1
+    },
+    {
+      "id": 1702,
+      "nombre": "GOGETA-FUSION-FAIL",
       "cantidad": 1
     }
   ]

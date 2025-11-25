@@ -324,12 +324,12 @@
     {
       "id": 5,
       "nombre": "Seiya de Pegaso",
-      "cantidad": 13
+      "cantidad": 12
     },
     {
       "id": 462,
       "nombre": "sakura",
-      "cantidad": 9
+      "cantidad": 8
     },
     {
       "id": 79,
@@ -764,7 +764,7 @@
     {
       "id": 150,
       "nombre": "Throttle",
-      "cantidad": 7
+      "cantidad": 6
     },
     {
       "id": 72,
@@ -1339,7 +1339,7 @@
     {
       "id": 146,
       "nombre": "Siege",
-      "cantidad": 12
+      "cantidad": 13
     },
     {
       "id": 648,
@@ -1824,7 +1824,7 @@
     {
       "id": 355,
       "nombre": "bayur",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 271,
@@ -2254,7 +2254,7 @@
     {
       "id": 694,
       "nombre": "DB-082",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 377,
@@ -3194,7 +3194,7 @@
     {
       "id": 874,
       "nombre": "CAPTAIN-AMERICA",
-      "cantidad": 10
+      "cantidad": 11
     },
     {
       "id": 857,
@@ -3899,7 +3899,7 @@
     {
       "id": 732,
       "nombre": "DB-120",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 905,
@@ -3964,7 +3964,7 @@
     {
       "id": 519,
       "nombre": "Tortugamóvil",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 823,
@@ -5399,7 +5399,7 @@
     {
       "id": 1037,
       "nombre": "CAPITAN-AMERICA-2",
-      "cantidad": 7
+      "cantidad": 6
     },
     {
       "id": 1144,
@@ -6199,7 +6199,7 @@
     {
       "id": 1292,
       "nombre": "ALF-FAMILY",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1171,
@@ -6389,7 +6389,7 @@
     {
       "id": 1209,
       "nombre": "4-DOUBLE-DRAGON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1150,
@@ -6664,7 +6664,7 @@
     {
       "id": 1333,
       "nombre": "4F-ROSEMON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1400,
@@ -7294,7 +7294,7 @@
     {
       "id": 1402,
       "nombre": "ARMY OF DARKNESS",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 1450,
@@ -7674,7 +7674,7 @@
     {
       "id": 1481,
       "nombre": "1A-FA13",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1553,
@@ -7864,7 +7864,7 @@
     {
       "id": 1560,
       "nombre": "T-FANFAN",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1566,
@@ -8084,6 +8084,16 @@
     {
       "id": 1636,
       "nombre": "8E-CELL-FORMA-PERFECTA",
+      "cantidad": 1
+    },
+    {
+      "id": 1630,
+      "nombre": "7D-FREEZER-FORMA-FINAL",
+      "cantidad": 1
+    },
+    {
+      "id": 1816,
+      "nombre": "ZFA-GOGETA",
       "cantidad": 1
     }
   ]
