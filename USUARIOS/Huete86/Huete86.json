@@ -404,7 +404,7 @@
     {
       "id": 150,
       "nombre": "Throttle",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 50,
@@ -464,7 +464,7 @@
     {
       "id": 43,
       "nombre": "eimi",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 444,
@@ -1469,7 +1469,7 @@
     {
       "id": 472,
       "nombre": "grey",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 417,
@@ -1529,7 +1529,7 @@
     {
       "id": 149,
       "nombre": "Modo",
-      "cantidad": 4
+      "cantidad": 3
     },
     {
       "id": 137,
@@ -1719,7 +1719,7 @@
     {
       "id": 618,
       "nombre": "DB-006",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 562,
@@ -1859,7 +1859,7 @@
     {
       "id": 611,
       "nombre": "TERRY-DENTON",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 538,
@@ -2129,7 +2129,7 @@
     {
       "id": 140,
       "nombre": "Mallory McMallard",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 616,
@@ -3269,7 +3269,7 @@
     {
       "id": 825,
       "nombre": "SMOKE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 475,
@@ -4349,7 +4349,7 @@
     {
       "id": 943,
       "nombre": "JOHNNY5-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 729,
@@ -5599,7 +5599,7 @@
     {
       "id": 1221,
       "nombre": "KID-CHAMELEON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1065,
@@ -6604,7 +6604,7 @@
     {
       "id": 1392,
       "nombre": "9-OTAMAMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1398,
@@ -6664,7 +6664,7 @@
     {
       "id": 1384,
       "nombre": "9-MACHINEDRAMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1380,
@@ -6769,7 +6769,7 @@
     {
       "id": 1387,
       "nombre": "9-MOJYAMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1378,
@@ -7529,7 +7529,7 @@
     {
       "id": 1481,
       "nombre": "1A-FA13",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1570,
@@ -8114,7 +8114,7 @@
     {
       "id": 1822,
       "nombre": "ZFA-GOKUSS3 & VEGETA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1623,
@@ -8239,6 +8239,21 @@
     {
       "id": 1650,
       "nombre": "ANDROIDE-Nº17",
+      "cantidad": 1
+    },
+    {
+      "id": 1760,
+      "nombre": "PAIKUHAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1815,
+      "nombre": "ZFA-FUTURE GOHAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1651,
+      "nombre": "ANDROIDE-Nº18",
       "cantidad": 1
     }
   ]

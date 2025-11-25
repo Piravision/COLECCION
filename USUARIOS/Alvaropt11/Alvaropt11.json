@@ -949,7 +949,7 @@
     {
       "id": 440,
       "nombre": "scrabs",
-      "cantidad": 2
+      "cantidad": 1
     },
     {
       "id": 219,
@@ -1534,7 +1534,7 @@
     {
       "id": 143,
       "nombre": "Wildwing Flashblade",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 763,
@@ -3774,7 +3774,7 @@
     {
       "id": 868,
       "nombre": "ANT-MAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 497,
@@ -4064,7 +4064,7 @@
     {
       "id": 35,
       "nombre": "AVAN DRAGON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 38,
@@ -4664,7 +4664,7 @@
     {
       "id": 201,
       "nombre": "Dr. paradigma",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 233,
@@ -4884,7 +4884,7 @@
     {
       "id": 634,
       "nombre": "DB-022",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 636,
@@ -5104,7 +5104,7 @@
     {
       "id": 804,
       "nombre": "BARAKA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 170,
@@ -5684,7 +5684,7 @@
     {
       "id": 1187,
       "nombre": "CRIPTA-JAIL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1273,
@@ -6004,7 +6004,7 @@
     {
       "id": 1085,
       "nombre": "YV-YELLOWJACKET",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1238,
@@ -6299,7 +6299,7 @@
     {
       "id": 1237,
       "nombre": "1-WILL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1134,
@@ -8139,6 +8139,21 @@
     {
       "id": 1772,
       "nombre": "REY-VEGETA",
+      "cantidad": 1
+    },
+    {
+      "id": 1645,
+      "nombre": "ABO",
+      "cantidad": 1
+    },
+    {
+      "id": 1725,
+      "nombre": "KAI-DEL-SUR",
+      "cantidad": 1
+    },
+    {
+      "id": 1785,
+      "nombre": "TAPKAR",
       "cantidad": 1
     }
   ]
