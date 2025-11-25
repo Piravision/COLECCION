@@ -274,7 +274,7 @@
     {
       "id": 187,
       "nombre": "Rhyno",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 16,
@@ -324,7 +324,7 @@
     {
       "id": 157,
       "nombre": "Bluegrass",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 381,
@@ -814,7 +814,7 @@
     {
       "id": 11,
       "nombre": "Greywolf",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 523,
@@ -1639,7 +1639,7 @@
     {
       "id": 548,
       "nombre": "Snake-Plissken",
-      "cantidad": 6
+      "cantidad": 5
     },
     {
       "id": 240,
@@ -2124,7 +2124,7 @@
     {
       "id": 392,
       "nombre": "roover",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 630,
@@ -3004,7 +3004,7 @@
     {
       "id": 23,
       "nombre": "Amo del Calabozo",
-      "cantidad": 4
+      "cantidad": 3
     },
     {
       "id": 126,
@@ -5659,7 +5659,7 @@
     {
       "id": 1085,
       "nombre": "YV-YELLOWJACKET",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1087,
@@ -7764,7 +7764,7 @@
     {
       "id": 1566,
       "nombre": "T-REY-CHAPPA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1549,
@@ -7804,6 +7804,16 @@
     {
       "id": 1710,
       "nombre": "GREPE",
+      "cantidad": 1
+    },
+    {
+      "id": 1659,
+      "nombre": "BIBIDI",
+      "cantidad": 1
+    },
+    {
+      "id": 1479,
+      "nombre": "1A-FA11",
       "cantidad": 1
     }
   ]
