@@ -604,7 +604,79 @@
 		font-weight: bold;
 		color: #f4f4f4;
 	}
+	* CSS para la nueva sección de Ranking (Añadir a Hero_Wars.html) */
 
+	/* Contenedor principal para centrar la tabla */
+	#ranking-section {
+		width: 90%;
+		max-width: 1100px;
+		margin: 40px auto; 
+		padding: 20px;
+		background-color: #1a1a1a;
+		border-radius: 10px;
+		box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+	}
+
+	#ranking-section h2, #ranking-section h3 {
+		text-align: center;
+		color: #FFD700;
+		margin-bottom: 20px;
+		font-size: 1.8em;
+	}
+
+	.ranking-table {
+		width: 100%;
+		border-collapse: collapse;
+	}
+
+	.ranking-table th, .ranking-table td {
+		padding: 10px 8px;
+		text-align: left;
+		border-bottom: 1px solid #333;
+		font-size: 0.95em;
+	}
+
+	.ranking-table th {
+		background-color: #3A3A3A;
+		color: #FFFFFF;
+	}
+
+	.ranking-table tr:nth-child(even) td {
+		background-color: #1f1f1f;
+	}
+
+	.ranking-table tr:hover td {
+		background-color: #2b2b2b;
+	}
+
+	/* Alineación de columnas numéricas */
+	.rank-col, .win-col, .loss-col, .streak-col {
+		text-align: center;
+		width: 12%; 
+	}
+	.rank-col {
+		font-weight: bold;
+	}
+
+	/* Estilos de racha */
+	.positivo {
+		color: #32CD32; /* Verde */
+		font-weight: bold;
+	}
+	.warning {
+		color: #FFD700; /* Dorado para rachas >= 5 */
+		font-weight: bold;
+	}
+	.neutro {
+		color: #f4f4f4;
+	}
+
+	.leyenda {
+		font-size: 0.8em;
+		color: #aaa;
+		text-align: center;
+		margin-top: 20px;
+	}
 	/* --- FIN: ESTILOS PARA LA SECCIÓN DE SOBRES --- */
 	
 	
