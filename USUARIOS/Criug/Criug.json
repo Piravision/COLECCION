@@ -2159,7 +2159,7 @@
         {
             "id": 553,
             "nombre": "GOKU-JAIL",
-            "cantidad": 7
+            "cantidad": 8
         },
         {
             "id": 588,
@@ -4094,7 +4094,7 @@
         {
             "id": 614,
             "nombre": "DB-002",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 947,
@@ -8029,7 +8029,7 @@
         {
             "id": 1620,
             "nombre": "5B-SON-GOTEN-SSJ",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1706,
@@ -8119,6 +8119,16 @@
         {
             "id": 1681,
             "nombre": "COOLER",
+            "cantidad": 1
+        },
+        {
+            "id": 1676,
+            "nombre": "CARONI",
+            "cantidad": 1
+        },
+        {
+            "id": 1773,
+            "nombre": "SAIBAIMAN",
             "cantidad": 1
         }
     ]
