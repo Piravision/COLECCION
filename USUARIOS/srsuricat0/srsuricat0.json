@@ -744,7 +744,7 @@
     {
       "id": 440,
       "nombre": "scrabs",
-      "cantidad": 6
+      "cantidad": 5
     },
     {
       "id": 103,
@@ -989,7 +989,7 @@
     {
       "id": 100,
       "nombre": "Flint",
-      "cantidad": 7
+      "cantidad": 6
     },
     {
       "id": 280,
@@ -7944,6 +7944,21 @@
     {
       "id": 1486,
       "nombre": "1A-FA18",
+      "cantidad": 1
+    },
+    {
+      "id": 1627,
+      "nombre": "7A-FREEZER",
+      "cantidad": 1
+    },
+    {
+      "id": 1763,
+      "nombre": "PARAGUS",
+      "cantidad": 1
+    },
+    {
+      "id": 1618,
+      "nombre": "4E-SUPER-TRUNKS-FUTURO",
       "cantidad": 1
     }
   ]

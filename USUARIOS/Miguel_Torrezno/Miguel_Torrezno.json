@@ -2584,7 +2584,7 @@
     {
       "id": 100,
       "nombre": "Flint",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 105,
@@ -4444,7 +4444,7 @@
     {
       "id": 645,
       "nombre": "DB-033",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 654,
@@ -5984,7 +5984,7 @@
     {
       "id": 1438,
       "nombre": "MUÑECO DIABOLICO ii",
-      "cantidad": 2
+      "cantidad": 1
     },
     {
       "id": 1452,
@@ -6544,7 +6544,7 @@
     {
       "id": 1492,
       "nombre": "1A-FA24",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 823,
@@ -7509,6 +7509,36 @@
     {
       "id": 1814,
       "nombre": "ZFA-FUERZAS-ESPECIALES",
+      "cantidad": 1
+    },
+    {
+      "id": 1634,
+      "nombre": "8C-CELL-SEMIPERFECTO",
+      "cantidad": 1
+    },
+    {
+      "id": 1595,
+      "nombre": "1B-GOKU-KAIOKEN",
+      "cantidad": 1
+    },
+    {
+      "id": 1666,
+      "nombre": "BROLY",
+      "cantidad": 1
+    },
+    {
+      "id": 1756,
+      "nombre": "NAPPA",
+      "cantidad": 1
+    },
+    {
+      "id": 1603,
+      "nombre": "2E-GOHAN-SSJ2",
+      "cantidad": 1
+    },
+    {
+      "id": 1831,
+      "nombre": "ZFA-TAPION&MINOISHA",
       "cantidad": 1
     }
   ]

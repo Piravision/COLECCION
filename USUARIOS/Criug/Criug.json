@@ -229,7 +229,7 @@
     {
       "id": 20,
       "nombre": "Skulkur",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 62,
@@ -1854,7 +1854,7 @@
     {
       "id": 496,
       "nombre": "LUCA",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 598,
@@ -2649,7 +2649,7 @@
     {
       "id": 639,
       "nombre": "DB-027",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 235,
@@ -3899,7 +3899,7 @@
     {
       "id": 732,
       "nombre": "DB-120",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 905,
@@ -7409,7 +7409,7 @@
     {
       "id": 1583,
       "nombre": "X-MOMIA",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 1487,
@@ -7604,7 +7604,7 @@
     {
       "id": 1538,
       "nombre": "DR-POOP",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1527,
@@ -8144,6 +8144,41 @@
     {
       "id": 1793,
       "nombre": "VEGETTO-SSJ",
+      "cantidad": 1
+    },
+    {
+      "id": 1660,
+      "nombre": "BIDO",
+      "cantidad": 1
+    },
+    {
+      "id": 1694,
+      "nombre": "DR-RAICHI",
+      "cantidad": 1
+    },
+    {
+      "id": 1677,
+      "nombre": "CATERPY",
+      "cantidad": 1
+    },
+    {
+      "id": 1783,
+      "nombre": "SUPER-BROLY",
+      "cantidad": 1
+    },
+    {
+      "id": 1789,
+      "nombre": "TORBIE",
+      "cantidad": 1
+    },
+    {
+      "id": 1767,
+      "nombre": "PUI-PUI",
+      "cantidad": 1
+    },
+    {
+      "id": 1596,
+      "nombre": "1C-GOKU-SSJ",
       "cantidad": 1
     }
   ]

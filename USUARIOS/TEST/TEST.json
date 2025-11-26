@@ -1,48 +1,58 @@
 {
-  "usuario": "TEST",
-  "cromos": [
-    {
-      "id": 226,
-      "nombre": "Guerreros de Piedra",
-      "cantidad": 1
-    },
-    {
-      "id": 331,
-      "nombre": "Mente Maestra",
-      "cantidad": 1
-    },
-    {
-      "id": 526,
-      "nombre": "Júbilo",
-      "cantidad": 1
-    },
-    {
-      "id": 6,
-      "nombre": "El Patriarca",
-      "cantidad": 1
-    },
-    {
-      "id": 179,
-      "nombre": "Duende Verde",
-      "cantidad": 1
-    },
-    {
-      "id": 310,
-      "nombre": "Dan",
-      "cantidad": 1
-    },
-    {
-      "id": 206,
-      "nombre": "Slash",
-      "cantidad": 1
+    "usuario": "TEST",
+    "cromos": [
+        {
+            "id": 226,
+            "nombre": "Guerreros de Piedra",
+            "cantidad": 1
+        },
+        {
+            "id": 331,
+            "nombre": "Mente Maestra",
+            "cantidad": 1
+        },
+        {
+            "id": 526,
+            "nombre": "Júbilo",
+            "cantidad": 1
+        },
+        {
+            "id": 6,
+            "nombre": "El Patriarca",
+            "cantidad": 1
+        },
+        {
+            "id": 179,
+            "nombre": "Duende Verde",
+            "cantidad": 1
+        },
+        {
+            "id": 310,
+            "nombre": "Dan",
+            "cantidad": 1
+        },
+        {
+            "id": 206,
+            "nombre": "Slash",
+            "cantidad": 1
+        },
+        {
+            "id": 201,
+            "nombre": "Dr. paradigma",
+            "cantidad": 1
+        },
+        {
+            "id": 1426,
+            "nombre": "HOUSE",
+            "cantidad": 1
+        }
+    ],
+    "duelos": {
+        "total": 4,
+        "victorias": 1,
+        "derrotas": 3,
+        "racha_actual": 0,
+        "racha_maxima": 1,
+        "premios_racha5": 0
     }
-  ],
-  "duelos": {
-    "total": 4,
-    "victorias": 1,
-    "derrotas": 3,
-    "racha_actual": 0,
-    "racha_maxima": 1,
-    "premios_racha5": 0
-  }
 }
