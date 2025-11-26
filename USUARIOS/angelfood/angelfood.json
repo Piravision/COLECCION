@@ -579,7 +579,7 @@
     {
       "id": 801,
       "nombre": "RED-CLAW",
-      "cantidad": 2
+      "cantidad": 1
     },
     {
       "id": 1558,
@@ -599,7 +599,7 @@
     {
       "id": 511,
       "nombre": "YOSHI",
-      "cantidad": 2
+      "cantidad": 1
     },
     {
       "id": 1389,
@@ -969,6 +969,11 @@
     {
       "id": 64,
       "nombre": "evil crocodine",
+      "cantidad": 1
+    },
+    {
+      "id": 1132,
+      "nombre": "AB-OBELIX",
       "cantidad": 1
     }
   ]

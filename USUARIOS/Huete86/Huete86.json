@@ -469,7 +469,7 @@
         {
             "id": 444,
             "nombre": "birki",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 340,
@@ -569,7 +569,7 @@
         {
             "id": 114,
             "nombre": "Storm Shadow",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 77,
@@ -614,7 +614,7 @@
         {
             "id": 230,
             "nombre": "Mansion X",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 338,
@@ -2059,7 +2059,7 @@
         {
             "id": 517,
             "nombre": "Pirámide Negra",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 323,
@@ -3454,7 +3454,7 @@
         {
             "id": 801,
             "nombre": "RED-CLAW",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 581,
@@ -4994,7 +4994,7 @@
         {
             "id": 923,
             "nombre": "REAL-VISITOR",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 826,
@@ -6209,7 +6209,7 @@
         {
             "id": 1230,
             "nombre": "MORTADELO-Y-FILEMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1022,
@@ -7364,7 +7364,7 @@
         {
             "id": 1565,
             "nombre": "T-PAMPUT",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1514,
@@ -7649,7 +7649,7 @@
         {
             "id": 1558,
             "nombre": "T-BACTERIAN",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1497,
@@ -8114,7 +8114,7 @@
         {
             "id": 1822,
             "nombre": "ZFA-GOKUSS3 & VEGETA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1623,
@@ -8219,7 +8219,7 @@
         {
             "id": 1658,
             "nombre": "BARDOCK-SSJ",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1755,
@@ -8349,6 +8349,11 @@
         {
             "id": 1631,
             "nombre": "7E-FREEZER-100%",
+            "cantidad": 1
+        },
+        {
+            "id": 1634,
+            "nombre": "8C-CELL-SEMIPERFECTO",
             "cantidad": 1
         }
     ]
