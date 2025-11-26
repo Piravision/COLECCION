@@ -44,7 +44,7 @@
     {
       "id": 174,
       "nombre": "Spiderman",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 205,
@@ -474,7 +474,7 @@
     {
       "id": 340,
       "nombre": "Poseidón",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 434,
@@ -1234,7 +1234,7 @@
     {
       "id": 305,
       "nombre": "Runamuck",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 490,
@@ -1304,7 +1304,7 @@
     {
       "id": 479,
       "nombre": "Split Head",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 438,
@@ -1994,7 +1994,7 @@
     {
       "id": 647,
       "nombre": "DB-035",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 722,
@@ -2229,7 +2229,7 @@
     {
       "id": 638,
       "nombre": "DB-026",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 398,
@@ -2459,7 +2459,7 @@
     {
       "id": 758,
       "nombre": "Shaka-de-Virgo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 106,
@@ -2884,7 +2884,7 @@
     {
       "id": 380,
       "nombre": "marcy",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 583,
@@ -3149,7 +3149,7 @@
     {
       "id": 587,
       "nombre": "EDDY-BRIGHT",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 829,
@@ -3234,7 +3234,7 @@
     {
       "id": 934,
       "nombre": "SHAWN-MICHAELS",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 783,
@@ -3259,7 +3259,7 @@
     {
       "id": 803,
       "nombre": "SELINA-KYLE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 839,
@@ -3754,7 +3754,7 @@
     {
       "id": 1008,
       "nombre": "SAKURA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1005,
@@ -4114,7 +4114,7 @@
     {
       "id": 467,
       "nombre": "Cheryl",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 642,
@@ -4239,7 +4239,7 @@
     {
       "id": 1093,
       "nombre": "CONDE-PATULA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 620,
@@ -4649,7 +4649,7 @@
     {
       "id": 793,
       "nombre": "HIEDRA-",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 49,
@@ -4899,7 +4899,7 @@
     {
       "id": 271,
       "nombre": "Neutrinos",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 727,
@@ -5124,7 +5124,7 @@
     {
       "id": 1184,
       "nombre": "TEEN-WOLF",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1141,
@@ -5414,7 +5414,7 @@
     {
       "id": 1239,
       "nombre": "2-STEVE-URKEL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1242,
@@ -5634,7 +5634,7 @@
     {
       "id": 1243,
       "nombre": "EXPEDIENTE-X",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1157,
@@ -6019,7 +6019,7 @@
     {
       "id": 1128,
       "nombre": "VASH-ESTAMPIDA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1292,
@@ -6169,7 +6169,7 @@
     {
       "id": 1112,
       "nombre": "LA-MASCARA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1074,
@@ -7229,7 +7229,7 @@
     {
       "id": 1434,
       "nombre": "MANIAC COP",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1416,
@@ -7959,7 +7959,7 @@
     {
       "id": 1480,
       "nombre": "1A-FA12",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1572,
@@ -8269,6 +8269,26 @@
     {
       "id": 1820,
       "nombre": "ZFA-GOKU & GOHAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1600,
+      "nombre": "2AA-GOHAN-BEBE",
+      "cantidad": 1
+    },
+    {
+      "id": 1711,
+      "nombre": "GUERRERO-ENMASCARADO",
+      "cantidad": 1
+    },
+    {
+      "id": 1752,
+      "nombre": "MR-SATAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1746,
+      "nombre": "METAL-COOLER",
       "cantidad": 1
     }
   ]
