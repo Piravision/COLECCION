@@ -34,7 +34,7 @@
     {
       "id": 1436,
       "nombre": "MATANZA DE TEXAS",
-      "cantidad": 4
+      "cantidad": 3
     },
     {
       "id": 1437,
@@ -634,7 +634,7 @@
     {
       "id": 469,
       "nombre": "Dahlia Gillespie",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1159,
@@ -694,7 +694,7 @@
     {
       "id": 31,
       "nombre": "Tiamat",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1426,
@@ -879,7 +879,7 @@
     {
       "id": 1389,
       "nombre": "9-MYOTISMON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 978,
@@ -1144,7 +1144,7 @@
     {
       "id": 226,
       "nombre": "Guerreros de Piedra",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 129,
@@ -1354,7 +1354,7 @@
     {
       "id": 1430,
       "nombre": "LA CRIATURA DEL PANTANO",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1028,
@@ -1539,7 +1539,7 @@
     {
       "id": 11,
       "nombre": "Greywolf",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1010,
@@ -2689,7 +2689,7 @@
     {
       "id": 1250,
       "nombre": "MIAMI-VICE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 169,
@@ -3404,7 +3404,7 @@
     {
       "id": 1495,
       "nombre": "A1-GOKU",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 276,
@@ -4999,7 +4999,7 @@
     {
       "id": 1592,
       "nombre": "Z-RADAR-BOLAS-DE-DRAGON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 284,
@@ -5024,7 +5024,7 @@
     {
       "id": 999,
       "nombre": "LUFFY-MONKEY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 350,
@@ -5559,7 +5559,7 @@
     {
       "id": 1493,
       "nombre": "1A-FA25",
-      "cantidad": 2
+      "cantidad": 1
     },
     {
       "id": 1576,
@@ -5649,7 +5649,7 @@
     {
       "id": 1132,
       "nombre": "AB-OBELIX",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1333,
@@ -5814,7 +5814,7 @@
     {
       "id": 597,
       "nombre": "LOUIS-NAPOLEON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 604,
@@ -5929,7 +5929,7 @@
     {
       "id": 148,
       "nombre": "Charlene _Charley_ Davidson",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 472,
@@ -6114,7 +6114,7 @@
     {
       "id": 807,
       "nombre": "JAX",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 262,
@@ -6379,7 +6379,7 @@
     {
       "id": 100,
       "nombre": "Flint",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1671,
@@ -6584,7 +6584,7 @@
     {
       "id": 1634,
       "nombre": "8C-CELL-SEMIPERFECTO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 181,
@@ -6644,7 +6644,7 @@
     {
       "id": 285,
       "nombre": "Rocksteady",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 321,
@@ -6729,6 +6729,21 @@
     {
       "id": 553,
       "nombre": "GOKU-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1056,
+      "nombre": "NOVA-2",
+      "cantidad": 1
+    },
+    {
+      "id": 1364,
+      "nombre": "8A-KARI",
+      "cantidad": 1
+    },
+    {
+      "id": 1775,
+      "nombre": "SALZA",
       "cantidad": 1
     }
   ]
