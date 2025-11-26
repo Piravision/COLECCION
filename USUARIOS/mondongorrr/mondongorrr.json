@@ -329,7 +329,7 @@
     {
       "id": 678,
       "nombre": "DB-066",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 277,
@@ -1189,7 +1189,7 @@
     {
       "id": 343,
       "nombre": "Flazzard 2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 81,
@@ -1794,7 +1794,7 @@
     {
       "id": 347,
       "nombre": "Lizard",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 273,
@@ -3739,7 +3739,7 @@
     {
       "id": 116,
       "nombre": "Cringer",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 135,
@@ -4029,7 +4029,7 @@
     {
       "id": 1115,
       "nombre": "PF-GARGAMEL-&-AZRAEL",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 252,
@@ -5269,7 +5269,7 @@
     {
       "id": 1244,
       "nombre": "HERCULES",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 919,
@@ -5514,7 +5514,7 @@
     {
       "id": 1145,
       "nombre": "TIMON-&-PUMBA",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 856,
@@ -7214,7 +7214,7 @@
     {
       "id": 1411,
       "nombre": "CREEPSHOW",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1450,
@@ -7754,6 +7754,11 @@
     {
       "id": 1645,
       "nombre": "ABO",
+      "cantidad": 1
+    },
+    {
+      "id": 1715,
+      "nombre": "HOI",
       "cantidad": 1
     }
   ]

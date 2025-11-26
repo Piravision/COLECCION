@@ -149,7 +149,7 @@
     {
       "id": 99,
       "nombre": "Demona",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 54,
@@ -1849,7 +1849,7 @@
     {
       "id": 359,
       "nombre": "long",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 486,
@@ -2414,7 +2414,7 @@
     {
       "id": 673,
       "nombre": "DB-061",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 636,
@@ -2819,7 +2819,7 @@
     {
       "id": 730,
       "nombre": "DB-118",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 696,
@@ -2854,7 +2854,7 @@
     {
       "id": 635,
       "nombre": "DB-023",
-      "cantidad": 4
+      "cantidad": 3
     },
     {
       "id": 703,
@@ -4164,7 +4164,7 @@
     {
       "id": 727,
       "nombre": "DB-115",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 821,
@@ -5729,7 +5729,7 @@
     {
       "id": 1250,
       "nombre": "MIAMI-VICE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1143,
@@ -5754,7 +5754,7 @@
     {
       "id": 1179,
       "nombre": "BEETLEJUICE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1226,
@@ -6824,7 +6824,7 @@
     {
       "id": 1325,
       "nombre": "3G-GABUMON-EVO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1312,
@@ -6839,7 +6839,7 @@
     {
       "id": 1301,
       "nombre": "1A-TAI",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1335,
@@ -7584,7 +7584,7 @@
     {
       "id": 1484,
       "nombre": "1A-FA16",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1475,
@@ -7889,6 +7889,31 @@
     {
       "id": 1817,
       "nombre": "ZFA-GOHAN & BOJAK",
+      "cantidad": 1
+    },
+    {
+      "id": 1660,
+      "nombre": "BIDO",
+      "cantidad": 1
+    },
+    {
+      "id": 1658,
+      "nombre": "BARDOCK-SSJ",
+      "cantidad": 1
+    },
+    {
+      "id": 1684,
+      "nombre": "CUI",
+      "cantidad": 1
+    },
+    {
+      "id": 1679,
+      "nombre": "CHICHI",
+      "cantidad": 1
+    },
+    {
+      "id": 1645,
+      "nombre": "ABO",
       "cantidad": 1
     }
   ]
