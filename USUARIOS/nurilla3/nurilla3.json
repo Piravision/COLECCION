@@ -1549,7 +1549,7 @@
     {
       "id": 654,
       "nombre": "DB-042",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 219,
@@ -1649,7 +1649,7 @@
     {
       "id": 1272,
       "nombre": "FA-SUNSET-RIDERS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 127,
@@ -5529,7 +5529,7 @@
     {
       "id": 1094,
       "nombre": "CZ-EGON-SPENGLER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 120,
@@ -6099,7 +6099,7 @@
     {
       "id": 1550,
       "nombre": "F1-CHAOS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 310,
@@ -6704,6 +6704,16 @@
     {
       "id": 480,
       "nombre": "Twinfeeler",
+      "cantidad": 1
+    },
+    {
+      "id": 1595,
+      "nombre": "1B-GOKU-KAIOKEN",
+      "cantidad": 1
+    },
+    {
+      "id": 1639,
+      "nombre": "9C-SUPER-BUU",
       "cantidad": 1
     }
   ]
