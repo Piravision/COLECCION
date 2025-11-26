@@ -739,7 +739,7 @@
     {
       "id": 117,
       "nombre": "He man",
-      "cantidad": 9
+      "cantidad": 10
     },
     {
       "id": 176,
@@ -919,7 +919,7 @@
     {
       "id": 379,
       "nombre": "lynx",
-      "cantidad": 4
+      "cantidad": 3
     },
     {
       "id": 315,
@@ -1204,7 +1204,7 @@
     {
       "id": 455,
       "nombre": "batsu",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 126,
@@ -2959,7 +2959,7 @@
     {
       "id": 582,
       "nombre": "CONTI",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 621,
@@ -3384,7 +3384,7 @@
     {
       "id": 529,
       "nombre": "Mística",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 514,
@@ -3594,7 +3594,7 @@
     {
       "id": 933,
       "nombre": "REY-MISTERIO",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 506,
@@ -7254,12 +7254,12 @@
     {
       "id": 1433,
       "nombre": "LOST BOYS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1445,
       "nombre": "RE-ANIMATOR",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1442,
@@ -8289,6 +8289,31 @@
     {
       "id": 1746,
       "nombre": "METAL-COOLER",
+      "cantidad": 1
+    },
+    {
+      "id": 1819,
+      "nombre": "ZFA-GOKU & CHICHI",
+      "cantidad": 1
+    },
+    {
+      "id": 1696,
+      "nombre": "FASHA",
+      "cantidad": 1
+    },
+    {
+      "id": 1609,
+      "nombre": "3B-VEGETA-JOVEN",
+      "cantidad": 1
+    },
+    {
+      "id": 1665,
+      "nombre": "BRA",
+      "cantidad": 1
+    },
+    {
+      "id": 1721,
+      "nombre": "JEWEL",
       "cantidad": 1
     }
   ]
