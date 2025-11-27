@@ -619,7 +619,7 @@
         {
             "id": 338,
             "nombre": "Shiryū de Dragón",
-            "cantidad": 6
+            "cantidad": 5
         },
         {
             "id": 67,
@@ -5694,7 +5694,7 @@
         {
             "id": 1238,
             "nombre": "2-COSAS-DE-CASA",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1061,
@@ -8054,7 +8054,7 @@
         {
             "id": 1808,
             "nombre": "ZFA-BROLY",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1727,
@@ -8219,7 +8219,7 @@
         {
             "id": 1658,
             "nombre": "BARDOCK-SSJ",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1755,
@@ -8309,7 +8309,7 @@
         {
             "id": 1665,
             "nombre": "BRA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1721,
@@ -8339,7 +8339,7 @@
         {
             "id": 1668,
             "nombre": "BUBBLES",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1620,
@@ -8569,6 +8569,16 @@
         {
             "id": 1775,
             "nombre": "SALZA",
+            "cantidad": 1
+        },
+        {
+            "id": 1715,
+            "nombre": "HOI",
+            "cantidad": 1
+        },
+        {
+            "id": 1712,
+            "nombre": "GULDO",
             "cantidad": 1
         }
     ]
