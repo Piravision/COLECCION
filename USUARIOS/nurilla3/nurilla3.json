@@ -4639,7 +4639,7 @@
         {
             "id": 237,
             "nombre": "Sky Shadow",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1160,
@@ -5244,7 +5244,7 @@
         {
             "id": 1005,
             "nombre": "RANMA-1_2",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1504,
@@ -6874,6 +6874,16 @@
         {
             "id": 1112,
             "nombre": "LA-MASCARA",
+            "cantidad": 1
+        },
+        {
+            "id": 959,
+            "nombre": "3-DR.WATSON",
+            "cantidad": 1
+        },
+        {
+            "id": 77,
+            "nombre": "Maximum",
             "cantidad": 1
         }
     ]

@@ -264,7 +264,7 @@
     {
       "id": 304,
       "nombre": "Runabout",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 34,
@@ -999,7 +999,7 @@
     {
       "id": 764,
       "nombre": "Dragonzord",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 591,
@@ -3069,7 +3069,7 @@
     {
       "id": 902,
       "nombre": "AQUAMAN",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 813,
@@ -4824,7 +4824,7 @@
     {
       "id": 279,
       "nombre": "Cuerpo Androide",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 983,
@@ -5084,7 +5084,7 @@
     {
       "id": 1397,
       "nombre": "9-SCUMON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1368,
@@ -6904,6 +6904,11 @@
     {
       "id": 1610,
       "nombre": "3C-VEGETA-OZARU",
+      "cantidad": 1
+    },
+    {
+      "id": 1049,
+      "nombre": "I-MEDUSA-2",
       "cantidad": 1
     }
   ]
