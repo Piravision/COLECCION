@@ -1359,7 +1359,7 @@
         {
             "id": 253,
             "nombre": "Buitro",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 87,
@@ -7534,7 +7534,7 @@
         {
             "id": 1603,
             "nombre": "2E-GOHAN-SSJ2",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1831,
@@ -7629,6 +7629,11 @@
         {
             "id": 1238,
             "nombre": "2-COSAS-DE-CASA",
+            "cantidad": 1
+        },
+        {
+            "id": 1578,
+            "nombre": "W-YAJIROBE",
             "cantidad": 1
         }
     ]
