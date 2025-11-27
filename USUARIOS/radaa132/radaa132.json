@@ -919,7 +919,7 @@
     {
       "id": 308,
       "nombre": "Starscream",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 51,
@@ -2044,7 +2044,7 @@
     {
       "id": 371,
       "nombre": "muerte2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 734,
@@ -3344,7 +3344,7 @@
     {
       "id": 971,
       "nombre": "9-CALIMERO",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1241,
@@ -5164,7 +5164,7 @@
     {
       "id": 715,
       "nombre": "DB-103",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 188,
@@ -5859,7 +5859,7 @@
     {
       "id": 1073,
       "nombre": "X - CYCLOPS",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 181,
@@ -6859,6 +6859,21 @@
     {
       "id": 1807,
       "nombre": "ZFA-BARDOCK-TEAM",
+      "cantidad": 1
+    },
+    {
+      "id": 251,
+      "nombre": "Tigro",
+      "cantidad": 2
+    },
+    {
+      "id": 1624,
+      "nombre": "6C-GOTENKS-GORDO",
+      "cantidad": 1
+    },
+    {
+      "id": 1800,
+      "nombre": "YAMU",
       "cantidad": 1
     }
   ]
