@@ -4124,7 +4124,7 @@
         {
             "id": 1056,
             "nombre": "NOVA-2",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 694,
@@ -7464,7 +7464,7 @@
         {
             "id": 1476,
             "nombre": "1A-FA08",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1491,
@@ -7754,6 +7754,11 @@
         {
             "id": 1494,
             "nombre": "A1-BULMA",
+            "cantidad": 1
+        },
+        {
+            "id": 1477,
+            "nombre": "1A-FA09",
             "cantidad": 1
         }
     ]
