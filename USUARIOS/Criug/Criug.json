@@ -164,7 +164,7 @@
     {
       "id": 192,
       "nombre": "Bends",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 136,
@@ -224,7 +224,7 @@
     {
       "id": 218,
       "nombre": "Cybertron",
-      "cantidad": 9
+      "cantidad": 10
     },
     {
       "id": 20,
@@ -384,7 +384,7 @@
     {
       "id": 194,
       "nombre": "Mantaman",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 535,
@@ -674,7 +674,7 @@
     {
       "id": 113,
       "nombre": "Serpentor",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 317,
@@ -1554,7 +1554,7 @@
     {
       "id": 191,
       "nombre": "Venom",
-      "cantidad": 13
+      "cantidad": 14
     },
     {
       "id": 30,
@@ -2074,7 +2074,7 @@
     {
       "id": 705,
       "nombre": "DB-093",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 616,
@@ -3104,7 +3104,7 @@
     {
       "id": 272,
       "nombre": "Panda Khan",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 210,
@@ -3254,7 +3254,7 @@
     {
       "id": 663,
       "nombre": "DB-051",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 361,
@@ -3504,7 +3504,7 @@
     {
       "id": 792,
       "nombre": "HARLEY-QUEEN",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 579,
@@ -3934,12 +3934,12 @@
     {
       "id": 945,
       "nombre": "MASK-JAIL",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 956,
       "nombre": "2-GADGET",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 681,
@@ -5019,7 +5019,7 @@
     {
       "id": 782,
       "nombre": "BATMAN",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 906,
@@ -5084,7 +5084,7 @@
     {
       "id": 761,
       "nombre": "alpha5",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 161,
@@ -6089,7 +6089,7 @@
     {
       "id": 1183,
       "nombre": "LOS-DIMINUTOS",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 1097,
@@ -6149,7 +6149,7 @@
     {
       "id": 1189,
       "nombre": "DRAGON-LAIR",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1049,
@@ -6954,7 +6954,7 @@
     {
       "id": 1321,
       "nombre": "3C-GABUMON",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1307,
@@ -7354,7 +7354,7 @@
     {
       "id": 1575,
       "nombre": "W-PLAGUE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1492,
@@ -7639,7 +7639,7 @@
     {
       "id": 1510,
       "nombre": "A4-UPA",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1490,
@@ -8179,6 +8179,36 @@
     {
       "id": 1596,
       "nombre": "1C-GOKU-SSJ",
+      "cantidad": 1
+    },
+    {
+      "id": 1643,
+      "nombre": "9G-KID-BUU",
+      "cantidad": 1
+    },
+    {
+      "id": 1765,
+      "nombre": "PRENSENTADOR-DEL-MAS-ALLA",
+      "cantidad": 1
+    },
+    {
+      "id": 1735,
+      "nombre": "KNOCK",
+      "cantidad": 1
+    },
+    {
+      "id": 1603,
+      "nombre": "2E-GOHAN-SSJ2",
+      "cantidad": 1
+    },
+    {
+      "id": 1666,
+      "nombre": "BROLY",
+      "cantidad": 1
+    },
+    {
+      "id": 1750,
+      "nombre": "MOKEKKO",
       "cantidad": 1
     }
   ]

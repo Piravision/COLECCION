@@ -444,7 +444,7 @@
         {
             "id": 390,
             "nombre": "papu",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 482,
@@ -1124,7 +1124,7 @@
         {
             "id": 100,
             "nombre": "Flint",
-            "cantidad": 7
+            "cantidad": 8
         },
         {
             "id": 452,
@@ -1899,7 +1899,7 @@
         {
             "id": 33,
             "nombre": "Apollo",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 124,
@@ -3284,7 +3284,7 @@
         {
             "id": 885,
             "nombre": "IRON-MAN",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 152,
@@ -4774,7 +4774,7 @@
         {
             "id": 1088,
             "nombre": "1-MISTERIOS-SA",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 1057,
@@ -5049,7 +5049,7 @@
         {
             "id": 902,
             "nombre": "AQUAMAN",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 1096,
@@ -6634,7 +6634,7 @@
         {
             "id": 1317,
             "nombre": "2H-FA-JOE",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 1350,
@@ -7909,7 +7909,7 @@
         {
             "id": 1488,
             "nombre": "1A-FA20",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1575,
@@ -8264,6 +8264,11 @@
         {
             "id": 1678,
             "nombre": "CHAOZ",
+            "cantidad": 1
+        },
+        {
+            "id": 1755,
+            "nombre": "NAIL",
             "cantidad": 1
         }
     ]

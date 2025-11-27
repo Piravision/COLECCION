@@ -814,7 +814,7 @@
         {
             "id": 249,
             "nombre": "Pomara",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 180,
@@ -1749,7 +1749,7 @@
         {
             "id": 711,
             "nombre": "DB-099",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 648,
@@ -1864,7 +1864,7 @@
         {
             "id": 538,
             "nombre": "BRUCE-LEE",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 23,
@@ -1904,7 +1904,7 @@
         {
             "id": 763,
             "nombre": "black",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 298,
@@ -1989,7 +1989,7 @@
         {
             "id": 313,
             "nombre": "Cable",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 647,
@@ -2199,7 +2199,7 @@
         {
             "id": 431,
             "nombre": "solid",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 756,
@@ -2894,7 +2894,7 @@
         {
             "id": 496,
             "nombre": "LUCA",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 872,
@@ -3174,7 +3174,7 @@
         {
             "id": 766,
             "nombre": "goldar",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 667,
@@ -3324,7 +3324,7 @@
         {
             "id": 854,
             "nombre": "RIC-FLAIR",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 858,
@@ -3419,7 +3419,7 @@
         {
             "id": 658,
             "nombre": "DB-046",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 855,
@@ -3619,7 +3619,7 @@
         {
             "id": 948,
             "nombre": "1-ATHOS",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 965,
@@ -3999,7 +3999,7 @@
         {
             "id": 513,
             "nombre": "DISCÍPULOS-DE-AVAN",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 328,
@@ -4964,7 +4964,7 @@
         {
             "id": 982,
             "nombre": "14-FRAN-SINCLAIR",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1229,
@@ -5894,7 +5894,7 @@
         {
             "id": 1234,
             "nombre": "GHOSTS-GOBLINS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1098,
@@ -7009,7 +7009,7 @@
         {
             "id": 1443,
             "nombre": "PHANTASM",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1439,
@@ -7549,7 +7549,7 @@
         {
             "id": 1557,
             "nombre": "F2A-TAO-PAI-PAI",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1529,
@@ -8479,6 +8479,71 @@
         {
             "id": 1646,
             "nombre": "ANDROIDE-Nº13",
+            "cantidad": 1
+        },
+        {
+            "id": 1807,
+            "nombre": "ZFA-BARDOCK-TEAM",
+            "cantidad": 1
+        },
+        {
+            "id": 1704,
+            "nombre": "GORILLA",
+            "cantidad": 1
+        },
+        {
+            "id": 1803,
+            "nombre": "ZARBON-TRANSFORMACION",
+            "cantidad": 1
+        },
+        {
+            "id": 1780,
+            "nombre": "SPOPOVICH",
+            "cantidad": 1
+        },
+        {
+            "id": 1799,
+            "nombre": "YAMCHA",
+            "cantidad": 1
+        },
+        {
+            "id": 1793,
+            "nombre": "VEGETTO-SSJ",
+            "cantidad": 1
+        },
+        {
+            "id": 1726,
+            "nombre": "KAIOSHIN-DEL-ESTE",
+            "cantidad": 1
+        },
+        {
+            "id": 1626,
+            "nombre": "6E-GOTENKS-SSJ3",
+            "cantidad": 1
+        },
+        {
+            "id": 1685,
+            "nombre": "DABRA",
+            "cantidad": 1
+        },
+        {
+            "id": 1754,
+            "nombre": "MUTENROSHI",
+            "cantidad": 1
+        },
+        {
+            "id": 1616,
+            "nombre": "4C-TRUNKS-FUTURO",
+            "cantidad": 1
+        },
+        {
+            "id": 1733,
+            "nombre": "KING-COLD",
+            "cantidad": 1
+        },
+        {
+            "id": 1749,
+            "nombre": "MINOSHIA",
             "cantidad": 1
         }
     ]
