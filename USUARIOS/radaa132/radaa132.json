@@ -264,7 +264,7 @@
     {
       "id": 304,
       "nombre": "Runabout",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 34,
@@ -499,7 +499,7 @@
     {
       "id": 685,
       "nombre": "DB-073",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 257,
@@ -619,7 +619,7 @@
     {
       "id": 670,
       "nombre": "DB-058",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 820,
@@ -1724,7 +1724,7 @@
     {
       "id": 960,
       "nombre": "3-LESTRADE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 961,
@@ -2289,7 +2289,7 @@
     {
       "id": 608,
       "nombre": "SHUN-NITTA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 721,
@@ -2654,7 +2654,7 @@
     {
       "id": 194,
       "nombre": "Mantaman",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 518,
@@ -3844,7 +3844,7 @@
     {
       "id": 763,
       "nombre": "black",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 840,
@@ -4919,7 +4919,7 @@
     {
       "id": 1099,
       "nombre": "D-DARKWING-DUCK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1071,
@@ -5254,7 +5254,7 @@
     {
       "id": 1017,
       "nombre": "1-SPIDERWOMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 48,
@@ -5609,7 +5609,7 @@
     {
       "id": 175,
       "nombre": "Buitre",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1382,
@@ -6599,7 +6599,7 @@
     {
       "id": 620,
       "nombre": "DB-008",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1215,
@@ -6704,7 +6704,7 @@
     {
       "id": 463,
       "nombre": "shoma",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1248,
@@ -6879,6 +6879,31 @@
     {
       "id": 395,
       "nombre": "SPIKE-SPIEGEL",
+      "cantidad": 1
+    },
+    {
+      "id": 774,
+      "nombre": "white",
+      "cantidad": 1
+    },
+    {
+      "id": 1289,
+      "nombre": "KID-ICARUS",
+      "cantidad": 1
+    },
+    {
+      "id": 1622,
+      "nombre": "6A-GOTENKS",
+      "cantidad": 1
+    },
+    {
+      "id": 115,
+      "nombre": "Zartan",
+      "cantidad": 1
+    },
+    {
+      "id": 1610,
+      "nombre": "3C-VEGETA-OZARU",
       "cantidad": 1
     }
   ]
