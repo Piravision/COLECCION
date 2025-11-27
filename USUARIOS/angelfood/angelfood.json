@@ -64,7 +64,7 @@
     {
       "id": 368,
       "nombre": "DRACULA1",
-      "cantidad": 2
+      "cantidad": 1
     },
     {
       "id": 777,
@@ -94,7 +94,7 @@
     {
       "id": 717,
       "nombre": "DB-105",
-      "cantidad": 2
+      "cantidad": 1
     },
     {
       "id": 1143,
@@ -134,7 +134,7 @@
     {
       "id": 741,
       "nombre": "Camus-de-Acuario",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1208,
@@ -644,7 +644,7 @@
     {
       "id": 615,
       "nombre": "DB-003",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1388,
@@ -974,6 +974,41 @@
     {
       "id": 1132,
       "nombre": "AB-OBELIX",
+      "cantidad": 1
+    },
+    {
+      "id": 256,
+      "nombre": "Mandrilo",
+      "cantidad": 1
+    },
+    {
+      "id": 908,
+      "nombre": "KARA-",
+      "cantidad": 1
+    },
+    {
+      "id": 1203,
+      "nombre": "2Z-PAC-MAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1030,
+      "nombre": "BRUJA Y VISION",
+      "cantidad": 1
+    },
+    {
+      "id": 1742,
+      "nombre": "LUCHADOR-MAS-ALLA",
+      "cantidad": 1
+    },
+    {
+      "id": 796,
+      "nombre": "MAN-BAT",
+      "cantidad": 1
+    },
+    {
+      "id": 328,
+      "nombre": "Juggernaut",
       "cantidad": 1
     }
   ]
