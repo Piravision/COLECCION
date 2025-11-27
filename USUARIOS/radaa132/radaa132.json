@@ -1449,7 +1449,7 @@
     {
       "id": 322,
       "nombre": "Rondador Nocturno",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 825,
@@ -1494,7 +1494,7 @@
     {
       "id": 539,
       "nombre": "BRUCE-LEE2",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 21,
@@ -1924,7 +1924,7 @@
     {
       "id": 1003,
       "nombre": "NINJA-ATORI",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1005,
@@ -2394,7 +2394,7 @@
     {
       "id": 592,
       "nombre": "JASON-DERRICK",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 331,
@@ -5459,7 +5459,7 @@
     {
       "id": 1426,
       "nombre": "HOUSE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1445,
@@ -6874,6 +6874,11 @@
     {
       "id": 1800,
       "nombre": "YAMU",
+      "cantidad": 1
+    },
+    {
+      "id": 395,
+      "nombre": "SPIKE-SPIEGEL",
       "cantidad": 1
     }
   ]
