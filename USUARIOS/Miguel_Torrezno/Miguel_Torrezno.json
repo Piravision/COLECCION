@@ -3474,7 +3474,7 @@
         {
             "id": 883,
             "nombre": "HULK",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 634,
@@ -7719,6 +7719,21 @@
         {
             "id": 897,
             "nombre": "SPIDER-MAN",
+            "cantidad": 1
+        },
+        {
+            "id": 1747,
+            "nombre": "MEZ",
+            "cantidad": 1
+        },
+        {
+            "id": 1827,
+            "nombre": "ZFA-NAPPA & VEGETA",
+            "cantidad": 1
+        },
+        {
+            "id": 1818,
+            "nombre": "ZFA-GOHAN FUTURE & TRUNKS",
             "cantidad": 1
         }
     ]
