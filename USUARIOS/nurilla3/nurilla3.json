@@ -2084,7 +2084,7 @@
         {
             "id": 1464,
             "nombre": "PROMO-FRANKESTEIN",
-            "cantidad": 6
+            "cantidad": 5
         },
         {
             "id": 1466,
@@ -6919,6 +6919,11 @@
         {
             "id": 1309,
             "nombre": "1I-TAI-FOIL",
+            "cantidad": 1
+        },
+        {
+            "id": 592,
+            "nombre": "JASON-DERRICK",
             "cantidad": 1
         }
     ]
