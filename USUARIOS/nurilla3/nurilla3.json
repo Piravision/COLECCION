@@ -179,7 +179,7 @@
         {
             "id": 945,
             "nombre": "MASK-JAIL",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 391,
@@ -4579,7 +4579,7 @@
         {
             "id": 206,
             "nombre": "Slash",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 322,
@@ -5399,7 +5399,7 @@
         {
             "id": 855,
             "nombre": "ALIEN-JAIL",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 939,
@@ -7044,6 +7044,11 @@
         {
             "id": 444,
             "nombre": "birki",
+            "cantidad": 1
+        },
+        {
+            "id": 721,
+            "nombre": "DB-109",
             "cantidad": 1
         }
     ]
