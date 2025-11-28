@@ -409,7 +409,7 @@
         {
             "id": 50,
             "nombre": "Lonberuk",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 424,
@@ -639,7 +639,7 @@
         {
             "id": 536,
             "nombre": "Xena-Jail",
-            "cantidad": 6
+            "cantidad": 7
         },
         {
             "id": 421,
@@ -2169,7 +2169,7 @@
         {
             "id": 212,
             "nombre": "Asteroide M",
-            "cantidad": 7
+            "cantidad": 8
         },
         {
             "id": 463,
@@ -2254,7 +2254,7 @@
         {
             "id": 550,
             "nombre": "AceVentura-JAIL",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 184,
@@ -3534,7 +3534,7 @@
         {
             "id": 847,
             "nombre": "RYU",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 189,
@@ -4334,7 +4334,7 @@
         {
             "id": 1104,
             "nombre": "G-AUTILLO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 208,
@@ -5949,7 +5949,7 @@
         {
             "id": 1298,
             "nombre": "FA-ALTERED BEAST",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1149,
@@ -6574,7 +6574,7 @@
         {
             "id": 1304,
             "nombre": "1D-GREYMON",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1312,
@@ -8184,7 +8184,7 @@
         {
             "id": 1710,
             "nombre": "GREPE",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1772,
@@ -8309,7 +8309,7 @@
         {
             "id": 1665,
             "nombre": "BRA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1721,
@@ -8584,6 +8584,41 @@
         {
             "id": 1625,
             "nombre": "6D-GOTENKS-SSJ",
+            "cantidad": 1
+        },
+        {
+            "id": 1805,
+            "nombre": "ZFA-A18-&-KRILIN",
+            "cantidad": 1
+        },
+        {
+            "id": 1743,
+            "nombre": "MARRON",
+            "cantidad": 1
+        },
+        {
+            "id": 1708,
+            "nombre": "GRAN-SAIYAMAN-2",
+            "cantidad": 1
+        },
+        {
+            "id": 1599,
+            "nombre": "2A-GOHAN-NIÑO",
+            "cantidad": 1
+        },
+        {
+            "id": 1779,
+            "nombre": "SPICE",
+            "cantidad": 1
+        },
+        {
+            "id": 1694,
+            "nombre": "DR-RAICHI",
+            "cantidad": 1
+        },
+        {
+            "id": 1632,
+            "nombre": "8A-CELL-LARVA",
             "cantidad": 1
         }
     ]

@@ -299,7 +299,7 @@
     {
       "id": 296,
       "nombre": "Jazz",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 52,
@@ -3749,7 +3749,7 @@
     {
       "id": 886,
       "nombre": "KARNAK",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 747,
@@ -4039,7 +4039,7 @@
     {
       "id": 830,
       "nombre": "BALROG",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 715,
@@ -5574,7 +5574,7 @@
     {
       "id": 1085,
       "nombre": "YV-YELLOWJACKET",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1221,
@@ -5844,7 +5844,7 @@
     {
       "id": 1155,
       "nombre": "DETECTIVE MARCIANO",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1277,
@@ -6274,7 +6274,7 @@
     {
       "id": 1259,
       "nombre": "FA-CHRONO-TRIGGER",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1127,
@@ -6429,7 +6429,7 @@
     {
       "id": 1151,
       "nombre": "BATMAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1296,
@@ -6549,7 +6549,7 @@
     {
       "id": 1336,
       "nombre": "4I-MIMI-FOIL",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1350,
@@ -6939,7 +6939,7 @@
     {
       "id": 1322,
       "nombre": "3D-GARURUMON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1381,
@@ -7264,7 +7264,7 @@
     {
       "id": 1448,
       "nombre": "SCREAM",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1449,
@@ -8169,7 +8169,7 @@
     {
       "id": 1789,
       "nombre": "TORBIE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1767,
@@ -8259,6 +8259,11 @@
     {
       "id": 1791,
       "nombre": "UPA-JOVEN",
+      "cantidad": 1
+    },
+    {
+      "id": 1766,
+      "nombre": "PRINCESA-SNAKE",
       "cantidad": 1
     }
   ]

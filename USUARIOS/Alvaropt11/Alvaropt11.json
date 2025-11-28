@@ -324,7 +324,7 @@
         {
             "id": 64,
             "nombre": "evil crocodine",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 568,
@@ -1889,7 +1889,7 @@
         {
             "id": 134,
             "nombre": "Tri Klops",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 615,
@@ -2304,7 +2304,7 @@
         {
             "id": 329,
             "nombre": "Lady Deadstrike",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 404,
@@ -4054,7 +4054,7 @@
         {
             "id": 977,
             "nombre": "13-ODIE",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 920,
@@ -6689,7 +6689,7 @@
         {
             "id": 1321,
             "nombre": "3C-GABUMON",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 1359,
@@ -7964,7 +7964,7 @@
         {
             "id": 1632,
             "nombre": "8A-CELL-LARVA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1690,
@@ -8114,7 +8114,7 @@
         {
             "id": 1479,
             "nombre": "1A-FA11",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1623,
@@ -8299,6 +8299,16 @@
         {
             "id": 1821,
             "nombre": "ZFA-GOKU-SSJ3",
+            "cantidad": 1
+        },
+        {
+            "id": 1594,
+            "nombre": "1A-SON-GOKU",
+            "cantidad": 1
+        },
+        {
+            "id": 1665,
+            "nombre": "BRA",
             "cantidad": 1
         }
     ]
