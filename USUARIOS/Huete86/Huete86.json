@@ -229,7 +229,7 @@
     {
       "id": 331,
       "nombre": "Mente Maestra",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 276,
@@ -1374,7 +1374,7 @@
     {
       "id": 296,
       "nombre": "Jazz",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 461,
@@ -1459,7 +1459,7 @@
     {
       "id": 41,
       "nombre": "crocodine bueno",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 530,
@@ -1559,7 +1559,7 @@
     {
       "id": 531,
       "nombre": "McClane-Jail",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 251,
@@ -2824,7 +2824,7 @@
     {
       "id": 615,
       "nombre": "DB-003",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 686,
@@ -3519,7 +3519,7 @@
     {
       "id": 246,
       "nombre": "Jaga",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 941,
@@ -5069,7 +5069,7 @@
     {
       "id": 63,
       "nombre": "drabaran",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1003,
@@ -6704,7 +6704,7 @@
     {
       "id": 1356,
       "nombre": "7B-TOKOMON",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1344,
@@ -7059,7 +7059,7 @@
     {
       "id": 1407,
       "nombre": "CANDYMAN",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1427,
@@ -7684,7 +7684,7 @@
     {
       "id": 1521,
       "nombre": "B1-MURASAKI",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1535,
@@ -8649,6 +8649,16 @@
     {
       "id": 1747,
       "nombre": "MEZ",
+      "cantidad": 1
+    },
+    {
+      "id": 1714,
+      "nombre": "HILDEGARN",
+      "cantidad": 1
+    },
+    {
+      "id": 1770,
+      "nombre": "RECOOME",
       "cantidad": 1
     }
   ]
