@@ -1134,7 +1134,7 @@
         {
             "id": 178,
             "nombre": "Dr. Octopus",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 57,
@@ -2039,7 +2039,7 @@
         {
             "id": 1053,
             "nombre": "KANG",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1271,
@@ -4034,7 +4034,7 @@
         {
             "id": 1093,
             "nombre": "CONDE-PATULA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 70,
@@ -6869,7 +6869,7 @@
         {
             "id": 571,
             "nombre": "RODY-PIPPER",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1112,
@@ -7069,6 +7069,11 @@
         {
             "id": 1034,
             "nombre": "CAPITAN BRITANIA-2",
+            "cantidad": 1
+        },
+        {
+            "id": 67,
+            "nombre": "flazzard3",
             "cantidad": 1
         }
     ]

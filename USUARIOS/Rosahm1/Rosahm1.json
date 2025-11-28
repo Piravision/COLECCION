@@ -489,7 +489,7 @@
         {
             "id": 67,
             "nombre": "flazzard3",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 267,
@@ -1374,7 +1374,7 @@
         {
             "id": 527,
             "nombre": "Pícara",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 552,
@@ -2869,7 +2869,7 @@
         {
             "id": 627,
             "nombre": "DB-015",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 833,
@@ -6324,7 +6324,7 @@
         {
             "id": 1165,
             "nombre": "HAWKMAN",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1272,
@@ -7814,6 +7814,11 @@
         {
             "id": 1541,
             "nombre": "DR-SUPPAMAN",
+            "cantidad": 1
+        },
+        {
+            "id": 1478,
+            "nombre": "1A-FA10",
             "cantidad": 1
         }
     ]
