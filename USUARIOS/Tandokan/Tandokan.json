@@ -2989,7 +2989,7 @@
         {
             "id": 897,
             "nombre": "SPIDER-MAN",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 970,
@@ -6854,7 +6854,7 @@
         {
             "id": 1353,
             "nombre": "6H-FA-IZZY",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 1334,
@@ -7634,6 +7634,21 @@
         {
             "id": 1584,
             "nombre": "X-VIEJA-BABA",
+            "cantidad": 1
+        },
+        {
+            "id": 1690,
+            "nombre": "DENDE-JOVEN",
+            "cantidad": 1
+        },
+        {
+            "id": 1763,
+            "nombre": "PARAGUS",
+            "cantidad": 1
+        },
+        {
+            "id": 1819,
+            "nombre": "ZFA-GOKU & CHICHI",
             "cantidad": 1
         }
     ]
