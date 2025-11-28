@@ -4944,7 +4944,7 @@
         {
             "id": 647,
             "nombre": "DB-035",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 832,
@@ -6514,7 +6514,7 @@
         {
             "id": 1826,
             "nombre": "ZFA-KAIOSHINS",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1747,
@@ -7114,6 +7114,11 @@
         {
             "id": 780,
             "nombre": "BARBARA-GORDON",
+            "cantidad": 1
+        },
+        {
+            "id": 532,
+            "nombre": "Sarah-Connor-Jail",
             "cantidad": 1
         }
     ]
