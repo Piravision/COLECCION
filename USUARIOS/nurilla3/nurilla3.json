@@ -124,7 +124,7 @@
         {
             "id": 624,
             "nombre": "DB-012",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 785,
@@ -539,7 +539,7 @@
         {
             "id": 756,
             "nombre": "Rhadamantis2",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 1455,
@@ -864,7 +864,7 @@
         {
             "id": 714,
             "nombre": "DB-102",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 273,
@@ -949,7 +949,7 @@
         {
             "id": 801,
             "nombre": "RED-CLAW",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 467,
@@ -984,7 +984,7 @@
         {
             "id": 346,
             "nombre": "jess",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 805,
@@ -1179,7 +1179,7 @@
         {
             "id": 988,
             "nombre": "ASH-&-PIKACHU",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1360,
@@ -1849,7 +1849,7 @@
         {
             "id": 412,
             "nombre": "big2",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 949,
@@ -2039,7 +2039,7 @@
         {
             "id": 1053,
             "nombre": "KANG",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 1271,
@@ -2539,7 +2539,7 @@
         {
             "id": 715,
             "nombre": "DB-103",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1142,
@@ -2934,7 +2934,7 @@
         {
             "id": 815,
             "nombre": "NIGHTWOLF",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 174,
@@ -3494,7 +3494,7 @@
         {
             "id": 1400,
             "nombre": "9-YUKIDARUMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1370,
@@ -3509,7 +3509,7 @@
         {
             "id": 172,
             "nombre": "May Parker",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1562,
@@ -3629,7 +3629,7 @@
         {
             "id": 408,
             "nombre": "Elisa--Gárgola",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 80,
@@ -3804,7 +3804,7 @@
         {
             "id": 282,
             "nombre": "Krang",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 306,
@@ -4009,7 +4009,7 @@
         {
             "id": 486,
             "nombre": "gnasty-gnorc",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 491,
@@ -4144,7 +4144,7 @@
         {
             "id": 1589,
             "nombre": "Z-JUDIAS-MAGICAS",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1551,
@@ -4654,7 +4654,7 @@
         {
             "id": 556,
             "nombre": "LEIA-JAIL",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 477,
@@ -4954,7 +4954,7 @@
         {
             "id": 1590,
             "nombre": "Z-MOTO-BULMA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1499,
@@ -5339,7 +5339,7 @@
         {
             "id": 734,
             "nombre": "Afrodita-de-Piscis",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 82,
@@ -5354,7 +5354,7 @@
         {
             "id": 364,
             "nombre": "HulkHogan",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 356,
@@ -5779,7 +5779,7 @@
         {
             "id": 1023,
             "nombre": "4F- THE-FANTASTIC-4",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1085,
@@ -5789,7 +5789,7 @@
         {
             "id": 754,
             "nombre": "Pandora",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1513,
@@ -6949,6 +6949,101 @@
         {
             "id": 606,
             "nombre": "SANDY-WINTERS",
+            "cantidad": 1
+        },
+        {
+            "id": 1273,
+            "nombre": "KINGDOM-HEARTS",
+            "cantidad": 1
+        },
+        {
+            "id": 141,
+            "nombre": "Nosedive Flashblade",
+            "cantidad": 1
+        },
+        {
+            "id": 1316,
+            "nombre": "2G-GOMAMON-EVO",
+            "cantidad": 1
+        },
+        {
+            "id": 1797,
+            "nombre": "YAJIROBE",
+            "cantidad": 1
+        },
+        {
+            "id": 292,
+            "nombre": "Bumblebee",
+            "cantidad": 1
+        },
+        {
+            "id": 326,
+            "nombre": "Blob",
+            "cantidad": 1
+        },
+        {
+            "id": 596,
+            "nombre": "K.HEINZ-SCHENEIDER",
+            "cantidad": 1
+        },
+        {
+            "id": 1278,
+            "nombre": "BUFFY-CAZAVAMPIROS",
+            "cantidad": 1
+        },
+        {
+            "id": 1162,
+            "nombre": "GOLDENAGE-BATMAN",
+            "cantidad": 1
+        },
+        {
+            "id": 1722,
+            "nombre": "KAI-DEL-ESTE",
+            "cantidad": 1
+        },
+        {
+            "id": 944,
+            "nombre": "JOKER-JAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 46,
+            "nombre": "gome",
+            "cantidad": 1
+        },
+        {
+            "id": 848,
+            "nombre": "RYU2",
+            "cantidad": 1
+        },
+        {
+            "id": 150,
+            "nombre": "Throttle",
+            "cantidad": 1
+        },
+        {
+            "id": 663,
+            "nombre": "DB-051",
+            "cantidad": 1
+        },
+        {
+            "id": 1153,
+            "nombre": "BLACKMANTA",
+            "cantidad": 1
+        },
+        {
+            "id": 1803,
+            "nombre": "ZARBON-TRANSFORMACION",
+            "cantidad": 1
+        },
+        {
+            "id": 1322,
+            "nombre": "3D-GARURUMON",
+            "cantidad": 1
+        },
+        {
+            "id": 444,
+            "nombre": "birki",
             "cantidad": 1
         }
     ]
