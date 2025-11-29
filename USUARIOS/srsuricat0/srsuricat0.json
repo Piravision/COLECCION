@@ -729,7 +729,7 @@
     {
       "id": 161,
       "nombre": "Steelwill",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 231,
@@ -944,7 +944,7 @@
     {
       "id": 271,
       "nombre": "Neutrinos",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 47,
@@ -8034,6 +8034,21 @@
     {
       "id": 1817,
       "nombre": "ZFA-GOHAN & BOJAK",
+      "cantidad": 1
+    },
+    {
+      "id": 1828,
+      "nombre": "ZFA-PICCOLO",
+      "cantidad": 1
+    },
+    {
+      "id": 1765,
+      "nombre": "PRENSENTADOR-DEL-MAS-ALLA",
+      "cantidad": 1
+    },
+    {
+      "id": 1800,
+      "nombre": "YAMU",
       "cantidad": 1
     }
   ]

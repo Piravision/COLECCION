@@ -1659,7 +1659,7 @@
         {
             "id": 266,
             "nombre": "Leonardo",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 601,
@@ -8199,7 +8199,7 @@
         {
             "id": 1687,
             "nombre": "DEMETRIOUS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1653,
@@ -8254,7 +8254,7 @@
         {
             "id": 1669,
             "nombre": "BUJIN",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1623,
@@ -8524,7 +8524,7 @@
         {
             "id": 1806,
             "nombre": "ZFA-ANDROIDES",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1765,
@@ -8554,7 +8554,7 @@
         {
             "id": 1740,
             "nombre": "LORD-JAGUAR",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1825,
@@ -8564,6 +8564,16 @@
         {
             "id": 1728,
             "nombre": "KAIOSHIN-DEL-SUR",
+            "cantidad": 1
+        },
+        {
+            "id": 1712,
+            "nombre": "GULDO",
+            "cantidad": 1
+        },
+        {
+            "id": 1762,
+            "nombre": "PAPOI",
             "cantidad": 1
         }
     ]
