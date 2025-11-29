@@ -2559,7 +2559,7 @@
         {
             "id": 540,
             "nombre": "CHUCK-NORRIS",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1048,
@@ -7914,6 +7914,16 @@
         {
             "id": 1808,
             "nombre": "ZFA-BROLY",
+            "cantidad": 1
+        },
+        {
+            "id": 1219,
+            "nombre": "EARTHWORM-JIM",
+            "cantidad": 1
+        },
+        {
+            "id": 1587,
+            "nombre": "Z-BOLAS-DE-DRAGON",
             "cantidad": 1
         }
     ]
