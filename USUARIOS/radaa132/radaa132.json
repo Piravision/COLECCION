@@ -304,7 +304,7 @@
     {
       "id": 293,
       "nombre": "Hot Rod",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 439,
@@ -969,7 +969,7 @@
     {
       "id": 814,
       "nombre": "MILENNA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 754,
@@ -1454,7 +1454,7 @@
     {
       "id": 825,
       "nombre": "SMOKE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 577,
@@ -1789,7 +1789,7 @@
     {
       "id": 855,
       "nombre": "ALIEN-JAIL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 105,
@@ -3619,7 +3619,7 @@
     {
       "id": 147,
       "nombre": "Carbine",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 164,
@@ -5269,7 +5269,7 @@
     {
       "id": 432,
       "nombre": "solid2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 75,
@@ -5769,7 +5769,7 @@
     {
       "id": 772,
       "nombre": "Rita-Repulsa",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1451,
@@ -6159,7 +6159,7 @@
     {
       "id": 1473,
       "nombre": "1A-FA05",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1590,
@@ -7129,6 +7129,16 @@
     {
       "id": 1809,
       "nombre": "ZFA-BUU VS BUU",
+      "cantidad": 1
+    },
+    {
+      "id": 459,
+      "nombre": "Kyosuke",
+      "cantidad": 1
+    },
+    {
+      "id": 582,
+      "nombre": "CONTI",
       "cantidad": 1
     }
   ]
