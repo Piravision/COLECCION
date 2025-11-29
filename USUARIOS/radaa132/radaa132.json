@@ -144,7 +144,7 @@
     {
       "id": 526,
       "nombre": "Júbilo",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 342,
@@ -2514,7 +2514,7 @@
     {
       "id": 274,
       "nombre": "Ray Fillet",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1038,
@@ -3254,7 +3254,7 @@
     {
       "id": 672,
       "nombre": "DB-060",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 100,
@@ -4789,7 +4789,7 @@
     {
       "id": 1216,
       "nombre": "5-NINJA-GAIDEN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1312,
@@ -5339,7 +5339,7 @@
     {
       "id": 1174,
       "nombre": "ZATANA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1325,
@@ -5474,7 +5474,7 @@
     {
       "id": 936,
       "nombre": "THE-ROCK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 828,
@@ -7149,6 +7149,11 @@
     {
       "id": 597,
       "nombre": "LOUIS-NAPOLEON",
+      "cantidad": 1
+    },
+    {
+      "id": 31,
+      "nombre": "Tiamat",
       "cantidad": 1
     }
   ]
