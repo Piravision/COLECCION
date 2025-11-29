@@ -3974,7 +3974,7 @@
         {
             "id": 1586,
             "nombre": "Z-AGUA-SAGRADA",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 439,
@@ -7359,6 +7359,16 @@
         {
             "id": 17,
             "nombre": "Guerrero Serpiente",
+            "cantidad": 1
+        },
+        {
+            "id": 209,
+            "nombre": "Sovereign Rock Castle",
+            "cantidad": 1
+        },
+        {
+            "id": 781,
+            "nombre": "BATGIRL",
             "cantidad": 1
         }
     ]
