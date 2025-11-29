@@ -339,7 +339,7 @@
     {
       "id": 420,
       "nombre": "mei",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 450,
@@ -444,7 +444,7 @@
     {
       "id": 358,
       "nombre": "jenny",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 139,
@@ -619,7 +619,7 @@
     {
       "id": 500,
       "nombre": "shu",
-      "cantidad": 13
+      "cantidad": 14
     },
     {
       "id": 332,
@@ -1134,7 +1134,7 @@
     {
       "id": 39,
       "nombre": "captain",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 48,
@@ -1219,7 +1219,7 @@
     {
       "id": 548,
       "nombre": "Snake-Plissken",
-      "cantidad": 9
+      "cantidad": 8
     },
     {
       "id": 227,
@@ -2064,7 +2064,7 @@
     {
       "id": 573,
       "nombre": "ULTIMATE-WARRIOR",
-      "cantidad": 9
+      "cantidad": 10
     },
     {
       "id": 555,
@@ -2159,7 +2159,7 @@
     {
       "id": 553,
       "nombre": "GOKU-JAIL",
-      "cantidad": 8
+      "cantidad": 10
     },
     {
       "id": 588,
@@ -2674,7 +2674,7 @@
     {
       "id": 842,
       "nombre": "GUILE2",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 722,
@@ -4614,7 +4614,7 @@
     {
       "id": 779,
       "nombre": "BANE",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 370,
@@ -4684,7 +4684,7 @@
     {
       "id": 1041,
       "nombre": "FALCON-2",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 1116,
@@ -4894,7 +4894,7 @@
     {
       "id": 641,
       "nombre": "DB-029",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 669,
@@ -7124,7 +7124,7 @@
     {
       "id": 1439,
       "nombre": "MUÑECO DIABOLICO",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 1411,
@@ -7634,7 +7634,7 @@
     {
       "id": 1498,
       "nombre": "A1-PUAR",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1510,
@@ -7864,7 +7864,7 @@
     {
       "id": 1560,
       "nombre": "T-FANFAN",
-      "cantidad": 5
+      "cantidad": 4
     },
     {
       "id": 1566,
@@ -8169,7 +8169,7 @@
     {
       "id": 1789,
       "nombre": "TORBIE",
-      "cantidad": 2
+      "cantidad": 1
     },
     {
       "id": 1767,
@@ -8189,7 +8189,7 @@
     {
       "id": 1765,
       "nombre": "PRENSENTADOR-DEL-MAS-ALLA",
-      "cantidad": 2
+      "cantidad": 1
     },
     {
       "id": 1735,
@@ -8359,6 +8359,21 @@
     {
       "id": 1616,
       "nombre": "4C-TRUNKS-FUTURO",
+      "cantidad": 1
+    },
+    {
+      "id": 1615,
+      "nombre": "4B-TRUNKS-NIÑO-SSJ",
+      "cantidad": 1
+    },
+    {
+      "id": 1718,
+      "nombre": "JANEMBA",
+      "cantidad": 1
+    },
+    {
+      "id": 1647,
+      "nombre": "ANDROIDE-Nº14",
       "cantidad": 1
     }
   ]
