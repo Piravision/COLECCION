@@ -769,7 +769,7 @@
         {
             "id": 17,
             "nombre": "Guerrero Serpiente",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 222,
@@ -7974,6 +7974,11 @@
         {
             "id": 1553,
             "nombre": "F1-SHEN-JOVEN",
+            "cantidad": 1
+        },
+        {
+            "id": 1566,
+            "nombre": "T-REY-CHAPPA",
             "cantidad": 1
         }
     ]
