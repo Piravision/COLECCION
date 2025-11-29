@@ -979,7 +979,7 @@
         {
             "id": 84,
             "nombre": "zurbon",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 375,
@@ -6884,7 +6884,7 @@
         {
             "id": 1347,
             "nombre": "6B-MOCHIMON",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 1350,
@@ -8114,6 +8114,21 @@
         {
             "id": 1735,
             "nombre": "KNOCK",
+            "cantidad": 1
+        },
+        {
+            "id": 1776,
+            "nombre": "SARTA",
+            "cantidad": 1
+        },
+        {
+            "id": 1570,
+            "nombre": "W-BUYON",
+            "cantidad": 1
+        },
+        {
+            "id": 1761,
+            "nombre": "PAN",
             "cantidad": 1
         }
     ]
