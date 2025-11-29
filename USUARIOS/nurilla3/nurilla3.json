@@ -224,7 +224,7 @@
     {
       "id": 989,
       "nombre": "CAPITAN-HARLOCK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1117,
@@ -374,7 +374,7 @@
     {
       "id": 358,
       "nombre": "jenny",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1386,
@@ -1504,7 +1504,7 @@
     {
       "id": 996,
       "nombre": "I.KUROSAKI",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 333,
@@ -1599,7 +1599,7 @@
     {
       "id": 1059,
       "nombre": "PUNISHER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1265,
@@ -2274,7 +2274,7 @@
     {
       "id": 142,
       "nombre": "Tanya Vanderflock",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 392,
@@ -2759,7 +2759,7 @@
     {
       "id": 1165,
       "nombre": "HAWKMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 291,
@@ -3129,7 +3129,7 @@
     {
       "id": 1075,
       "nombre": "X -COLOSO",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 170,
@@ -5414,7 +5414,7 @@
     {
       "id": 971,
       "nombre": "7-INSPECTOR-GADGET",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 967,
@@ -6249,7 +6249,7 @@
     {
       "id": 1616,
       "nombre": "4C-TRUNKS-FUTURO",
-      "cantidad": 2
+      "cantidad": 1
     },
     {
       "id": 501,
@@ -6774,7 +6774,7 @@
     {
       "id": 188,
       "nombre": "Sandman",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1817,
@@ -7239,6 +7239,26 @@
     {
       "id": 856,
       "nombre": "BEETLEJUICE-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 179,
+      "nombre": "Duende Verde",
+      "cantidad": 1
+    },
+    {
+      "id": 44,
+      "nombre": "Fly",
+      "cantidad": 1
+    },
+    {
+      "id": 1690,
+      "nombre": "DENDE-JOVEN",
+      "cantidad": 1
+    },
+    {
+      "id": 443,
+      "nombre": "ada",
       "cantidad": 1
     }
   ]

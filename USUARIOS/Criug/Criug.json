@@ -144,7 +144,7 @@
     {
       "id": 179,
       "nombre": "Duende Verde",
-      "cantidad": 10
+      "cantidad": 9
     },
     {
       "id": 511,
@@ -444,7 +444,7 @@
     {
       "id": 358,
       "nombre": "jenny",
-      "cantidad": 8
+      "cantidad": 7
     },
     {
       "id": 139,
@@ -1029,7 +1029,7 @@
     {
       "id": 422,
       "nombre": "meryl",
-      "cantidad": 12
+      "cantidad": 13
     },
     {
       "id": 497,
@@ -1509,7 +1509,7 @@
     {
       "id": 721,
       "nombre": "DB-109",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 544,
@@ -1949,7 +1949,7 @@
     {
       "id": 349,
       "nombre": "melzas",
-      "cantidad": 9
+      "cantidad": 10
     },
     {
       "id": 612,
@@ -2834,7 +2834,7 @@
     {
       "id": 443,
       "nombre": "ada",
-      "cantidad": 8
+      "cantidad": 7
     },
     {
       "id": 452,
@@ -2954,7 +2954,7 @@
     {
       "id": 855,
       "nombre": "ALIEN-JAIL",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 233,
@@ -3929,7 +3929,7 @@
     {
       "id": 816,
       "nombre": "QUAN-CHI",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 945,
@@ -4179,7 +4179,7 @@
     {
       "id": 940,
       "nombre": "GIZMO-JAIL",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 719,
@@ -5279,7 +5279,7 @@
     {
       "id": 1096,
       "nombre": "CZ-RAY-STANTZ",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1176,
@@ -5444,7 +5444,7 @@
     {
       "id": 1075,
       "nombre": "X -COLOSO",
-      "cantidad": 6
+      "cantidad": 5
     },
     {
       "id": 1129,
@@ -5674,7 +5674,7 @@
     {
       "id": 1278,
       "nombre": "BUFFY-CAZAVAMPIROS",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1177,
@@ -5719,7 +5719,7 @@
     {
       "id": 1184,
       "nombre": "TEEN-WOLF",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1090,
@@ -5739,7 +5739,7 @@
     {
       "id": 1181,
       "nombre": "DEXTER",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1270,
@@ -6184,7 +6184,7 @@
     {
       "id": 1253,
       "nombre": "SABRINA-COSAS-DE-BRUJAS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1298,
@@ -6624,7 +6624,7 @@
     {
       "id": 1339,
       "nombre": "5C-PIYOMON",
-      "cantidad": 10
+      "cantidad": 11
     },
     {
       "id": 1353,
@@ -7764,7 +7764,7 @@
     {
       "id": 1472,
       "nombre": "1A-FA04",
-      "cantidad": 2
+      "cantidad": 1
     },
     {
       "id": 1562,
@@ -8049,7 +8049,7 @@
     {
       "id": 1657,
       "nombre": "BARDOCK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1661,
@@ -8154,7 +8154,7 @@
     {
       "id": 1694,
       "nombre": "DR-RAICHI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1677,
@@ -8264,7 +8264,7 @@
     {
       "id": 1766,
       "nombre": "PRINCESA-SNAKE",
-      "cantidad": 2
+      "cantidad": 1
     },
     {
       "id": 1781,
@@ -8339,6 +8339,26 @@
     {
       "id": 1669,
       "nombre": "BUJIN",
+      "cantidad": 1
+    },
+    {
+      "id": 1712,
+      "nombre": "GULDO",
+      "cantidad": 1
+    },
+    {
+      "id": 1795,
+      "nombre": "VIEJO-KAIOSHIN",
+      "cantidad": 1
+    },
+    {
+      "id": 1813,
+      "nombre": "ZFA-FREEZER",
+      "cantidad": 1
+    },
+    {
+      "id": 1616,
+      "nombre": "4C-TRUNKS-FUTURO",
       "cantidad": 1
     }
   ]
