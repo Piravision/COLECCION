@@ -1259,7 +1259,7 @@
         {
             "id": 910,
             "nombre": "LOIS-LANE",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 146,
@@ -7984,6 +7984,11 @@
         {
             "id": 1586,
             "nombre": "Z-AGUA-SAGRADA",
+            "cantidad": 1
+        },
+        {
+            "id": 1591,
+            "nombre": "Z-NUBE-KINTON",
             "cantidad": 1
         }
     ]
