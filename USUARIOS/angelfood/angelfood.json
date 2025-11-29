@@ -749,7 +749,7 @@
     {
       "id": 354,
       "nombre": "alice",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1072,
@@ -1289,6 +1289,16 @@
     {
       "id": 1813,
       "nombre": "ZFA-FREEZER",
+      "cantidad": 1
+    },
+    {
+      "id": 571,
+      "nombre": "RODY-PIPPER",
+      "cantidad": 1
+    },
+    {
+      "id": 909,
+      "nombre": "LOBO",
       "cantidad": 1
     }
   ]

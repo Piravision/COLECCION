@@ -1,25 +1,55 @@
 {
-    "usuario": "Chatuti",
-    "cromos": [
-        {
-            "id": 174,
-            "nombre": "Spiderman",
-            "cantidad": 1
-        },
-        {
-            "id": 288,
-            "nombre": "Splinter",
-            "cantidad": 1
-        },
-        {
-            "id": 326,
-            "nombre": "Blob",
-            "cantidad": 1
-        },
-        {
-            "id": 575,
-            "nombre": "A.GALVAN",
-            "cantidad": 1
-        }
-    ]
+  "usuario": "Chatuti",
+  "cromos": [
+    {
+      "id": 174,
+      "nombre": "Spiderman",
+      "cantidad": 1
+    },
+    {
+      "id": 288,
+      "nombre": "Splinter",
+      "cantidad": 1
+    },
+    {
+      "id": 326,
+      "nombre": "Blob",
+      "cantidad": 1
+    },
+    {
+      "id": 575,
+      "nombre": "A.GALVAN",
+      "cantidad": 1
+    },
+    {
+      "id": 281,
+      "nombre": "Granitor",
+      "cantidad": 1
+    },
+    {
+      "id": 1701,
+      "nombre": "GINGER",
+      "cantidad": 1
+    },
+    {
+      "id": 1600,
+      "nombre": "2AA-GOHAN-BEBE",
+      "cantidad": 1
+    },
+    {
+      "id": 1637,
+      "nombre": "9A-MAJIN-BUU-",
+      "cantidad": 1
+    },
+    {
+      "id": 1809,
+      "nombre": "ZFA-BUU VS BUU",
+      "cantidad": 1
+    },
+    {
+      "id": 1619,
+      "nombre": "5A-SON-GOTEN",
+      "cantidad": 1
+    }
+  ]
 }
