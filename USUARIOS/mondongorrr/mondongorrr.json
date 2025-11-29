@@ -2274,7 +2274,7 @@
         {
             "id": 755,
             "nombre": "Poseidon2",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 747,
@@ -7969,6 +7969,11 @@
         {
             "id": 1550,
             "nombre": "F1-CHAOS",
+            "cantidad": 1
+        },
+        {
+            "id": 1553,
+            "nombre": "F1-SHEN-JOVEN",
             "cantidad": 1
         }
     ]
