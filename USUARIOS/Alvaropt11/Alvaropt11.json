@@ -8149,7 +8149,7 @@
         {
             "id": 1725,
             "nombre": "KAI-DEL-SUR",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1785,
@@ -8464,6 +8464,11 @@
         {
             "id": 1744,
             "nombre": "MECHA-FREEZER",
+            "cantidad": 1
+        },
+        {
+            "id": 1722,
+            "nombre": "KAI-DEL-ESTE",
             "cantidad": 1
         }
     ]
