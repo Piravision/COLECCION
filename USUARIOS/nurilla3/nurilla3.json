@@ -549,7 +549,7 @@
         {
             "id": 1445,
             "nombre": "RE-ANIMATOR",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 1403,
@@ -1319,7 +1319,7 @@
         {
             "id": 446,
             "nombre": "CUERVOS",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1337,
@@ -4774,7 +4774,7 @@
         {
             "id": 1507,
             "nombre": "A3-KORIN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1519,
@@ -5494,7 +5494,7 @@
         {
             "id": 1479,
             "nombre": "1A-FA11",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1167,
@@ -5524,7 +5524,7 @@
         {
             "id": 1200,
             "nombre": "2-DONKEY-KONG",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1094,
@@ -5979,7 +5979,7 @@
         {
             "id": 1580,
             "nombre": "X-AKKUMAN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1481,
@@ -7279,6 +7279,21 @@
         {
             "id": 729,
             "nombre": "DB-117",
+            "cantidad": 1
+        },
+        {
+            "id": 1728,
+            "nombre": "KAIOSHIN-DEL-SUR",
+            "cantidad": 1
+        },
+        {
+            "id": 1146,
+            "nombre": "TROTAMUSICOS",
+            "cantidad": 1
+        },
+        {
+            "id": 1296,
+            "nombre": "CANDY",
             "cantidad": 1
         }
     ]
