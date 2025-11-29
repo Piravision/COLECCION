@@ -414,7 +414,7 @@
     {
       "id": 1434,
       "nombre": "MANIAC COP",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1411,
@@ -1259,7 +1259,7 @@
     {
       "id": 616,
       "nombre": "DB-004",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1240,
@@ -1679,7 +1679,7 @@
     {
       "id": 1006,
       "nombre": "REENA-&-GAUDY",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 58,
@@ -3354,7 +3354,7 @@
     {
       "id": 233,
       "nombre": "Mutant Tank",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 712,
@@ -4229,12 +4229,12 @@
     {
       "id": 259,
       "nombre": "Ojo Rojo",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1330,
       "nombre": "4C-PALMON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 365,
@@ -4524,7 +4524,7 @@
     {
       "id": 1525,
       "nombre": "C1-MAI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1574,
@@ -4629,7 +4629,7 @@
     {
       "id": 351,
       "nombre": "reaper",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 383,
@@ -5514,7 +5514,7 @@
     {
       "id": 241,
       "nombre": "Thunder Tank",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1204,
@@ -5624,7 +5624,7 @@
     {
       "id": 751,
       "nombre": "Minos",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 115,
@@ -5844,7 +5844,7 @@
     {
       "id": 404,
       "nombre": "sefirot",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 527,
@@ -6219,7 +6219,7 @@
     {
       "id": 1664,
       "nombre": "BOYSENBERRY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 680,
@@ -6339,7 +6339,7 @@
     {
       "id": 1470,
       "nombre": "1A-FA02",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1776,
@@ -6524,7 +6524,7 @@
     {
       "id": 205,
       "nombre": "Shrimp Louie",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1609,
@@ -6664,7 +6664,7 @@
     {
       "id": 1628,
       "nombre": "7B-FREEZER-SEGUNDA-FORMA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1735,
@@ -7434,6 +7434,36 @@
     {
       "id": 814,
       "nombre": "MILENNA",
+      "cantidad": 1
+    },
+    {
+      "id": 1202,
+      "nombre": "2Z-MEGAMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 90,
+      "nombre": "Broadway",
+      "cantidad": 1
+    },
+    {
+      "id": 208,
+      "nombre": "Tentakill",
+      "cantidad": 1
+    },
+    {
+      "id": 1683,
+      "nombre": "COOLER-FORMA-FINAL",
+      "cantidad": 1
+    },
+    {
+      "id": 1739,
+      "nombre": "LEEUN",
+      "cantidad": 1
+    },
+    {
+      "id": 1661,
+      "nombre": "BIO-BROLY",
       "cantidad": 1
     }
   ]
