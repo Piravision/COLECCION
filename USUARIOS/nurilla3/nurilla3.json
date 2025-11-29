@@ -4479,7 +4479,7 @@
         {
             "id": 217,
             "nombre": "Cobra   H.I.S.S.",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1066,
@@ -4599,7 +4599,7 @@
         {
             "id": 1147,
             "nombre": "VACA-&-POLLO",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 505,
@@ -6429,7 +6429,7 @@
         {
             "id": 1717,
             "nombre": "IKOSE",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1752,
@@ -7169,6 +7169,21 @@
         {
             "id": 894,
             "nombre": "RED-SKULL",
+            "cantidad": 1
+        },
+        {
+            "id": 847,
+            "nombre": "RYU",
+            "cantidad": 1
+        },
+        {
+            "id": 926,
+            "nombre": "BATISTA",
+            "cantidad": 1
+        },
+        {
+            "id": 510,
+            "nombre": "PAUL",
             "cantidad": 1
         }
     ]

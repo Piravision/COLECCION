@@ -1809,7 +1809,7 @@
         {
             "id": 847,
             "nombre": "RYU",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 774,
@@ -2389,7 +2389,7 @@
         {
             "id": 926,
             "nombre": "BATISTA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 444,
@@ -2709,7 +2709,7 @@
         {
             "id": 510,
             "nombre": "PAUL",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 748,
@@ -7804,6 +7804,21 @@
         {
             "id": 1534,
             "nombre": "D2-TAMBOURINE",
+            "cantidad": 1
+        },
+        {
+            "id": 699,
+            "nombre": "DB-087",
+            "cantidad": 1
+        },
+        {
+            "id": 1147,
+            "nombre": "VACA-&-POLLO",
+            "cantidad": 1
+        },
+        {
+            "id": 217,
+            "nombre": "Cobra   H.I.S.S.",
             "cantidad": 1
         }
     ]
