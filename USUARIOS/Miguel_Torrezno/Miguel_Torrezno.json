@@ -1269,7 +1269,7 @@
         {
             "id": 323,
             "nombre": "Tormenta",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 311,
@@ -3334,7 +3334,7 @@
         {
             "id": 134,
             "nombre": "Tri Klops",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 726,
@@ -7924,6 +7924,11 @@
         {
             "id": 1587,
             "nombre": "Z-BOLAS-DE-DRAGON",
+            "cantidad": 1
+        },
+        {
+            "id": 1190,
+            "nombre": "METEORO",
             "cantidad": 1
         }
     ]
