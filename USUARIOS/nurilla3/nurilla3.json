@@ -504,7 +504,7 @@
         {
             "id": 1062,
             "nombre": "SP- SPIDERMAN-2",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1324,
@@ -3679,7 +3679,7 @@
         {
             "id": 1076,
             "nombre": "X -MAGNETO",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1511,
@@ -4504,7 +4504,7 @@
         {
             "id": 994,
             "nombre": "GUTS",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1122,
@@ -5699,7 +5699,7 @@
         {
             "id": 829,
             "nombre": "AKUMA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 828,
@@ -6219,7 +6219,7 @@
         {
             "id": 1664,
             "nombre": "BOYSENBERRY",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 680,
@@ -6934,7 +6934,7 @@
         {
             "id": 25,
             "nombre": "Diana",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 451,
@@ -7544,6 +7544,21 @@
         {
             "id": 280,
             "nombre": "General Traag",
+            "cantidad": 1
+        },
+        {
+            "id": 128,
+            "nombre": "Faker",
+            "cantidad": 1
+        },
+        {
+            "id": 256,
+            "nombre": "Mandrilo",
+            "cantidad": 1
+        },
+        {
+            "id": 363,
+            "nombre": "Chuache-DesafioTotal",
             "cantidad": 1
         }
     ]
