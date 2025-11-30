@@ -139,7 +139,7 @@
     {
       "id": 301,
       "nombre": "Astrotrain",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 179,
@@ -6019,7 +6019,7 @@
     {
       "id": 1101,
       "nombre": "D-JOE-MCQUACK",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1250,
@@ -6314,7 +6314,7 @@
     {
       "id": 1087,
       "nombre": "1-LA-BANDA-DEL-PATIO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1169,
@@ -6504,7 +6504,7 @@
     {
       "id": 1315,
       "nombre": "2F-VIKEMON",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1326,
@@ -8244,7 +8244,7 @@
     {
       "id": 1699,
       "nombre": "GARLIK-JR-FORMA-FINAL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1599,
@@ -8559,6 +8559,11 @@
     {
       "id": 1692,
       "nombre": "DORODABO",
+      "cantidad": 1
+    },
+    {
+      "id": 1597,
+      "nombre": "1D-GOKU-SSJ2",
       "cantidad": 1
     }
   ]
