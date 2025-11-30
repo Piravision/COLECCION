@@ -1169,7 +1169,7 @@
     {
       "id": 141,
       "nombre": "Nosedive Flashblade",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 55,
@@ -1829,7 +1829,7 @@
     {
       "id": 271,
       "nombre": "Neutrinos",
-      "cantidad": 11
+      "cantidad": 12
     },
     {
       "id": 698,
@@ -3704,7 +3704,7 @@
     {
       "id": 75,
       "nombre": "mac",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 965,
@@ -4014,7 +4014,7 @@
     {
       "id": 846,
       "nombre": "ken2",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 529,
@@ -4739,7 +4739,7 @@
     {
       "id": 997,
       "nombre": "IKKI-&-METABEE",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 1055,
@@ -7259,7 +7259,7 @@
     {
       "id": 1434,
       "nombre": "MANIAC COP",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1448,
@@ -7284,7 +7284,7 @@
     {
       "id": 1431,
       "nombre": "LA MOSCA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1444,
@@ -7424,7 +7424,7 @@
     {
       "id": 1572,
       "nombre": "W-KING-FURRY",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1533,
@@ -7809,7 +7809,7 @@
     {
       "id": 1580,
       "nombre": "X-AKKUMAN",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1497,
@@ -7949,7 +7949,7 @@
     {
       "id": 1483,
       "nombre": "1A-FA15",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1545,
@@ -8469,7 +8469,7 @@
     {
       "id": 1756,
       "nombre": "NAPPA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1654,
@@ -8564,6 +8564,11 @@
     {
       "id": 1597,
       "nombre": "1D-GOKU-SSJ2",
+      "cantidad": 1
+    },
+    {
+      "id": 1684,
+      "nombre": "CUI",
       "cantidad": 1
     }
   ]
