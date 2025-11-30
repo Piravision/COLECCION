@@ -2704,7 +2704,7 @@
     {
       "id": 28,
       "nombre": "Presto",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1326,
@@ -7314,7 +7314,7 @@
     {
       "id": 1106,
       "nombre": "G-JASON",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 406,
@@ -7879,6 +7879,11 @@
     {
       "id": 235,
       "nombre": "Punk Frogs",
+      "cantidad": 1
+    },
+    {
+      "id": 1181,
+      "nombre": "DEXTER",
       "cantidad": 1
     }
   ]
