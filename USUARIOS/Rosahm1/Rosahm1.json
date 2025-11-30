@@ -3104,7 +3104,7 @@
     {
       "id": 937,
       "nombre": "TRIPLE-H",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 913,
@@ -6464,7 +6464,7 @@
     {
       "id": 1303,
       "nombre": "1C-AGUMON",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1296,
@@ -8134,6 +8134,11 @@
     {
       "id": 1727,
       "nombre": "KAIOSHIN-DEL-OESTE",
+      "cantidad": 1
+    },
+    {
+      "id": 1735,
+      "nombre": "KNOCK",
       "cantidad": 1
     }
   ]
