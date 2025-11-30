@@ -2444,7 +2444,7 @@
         {
             "id": 695,
             "nombre": "DB-083",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 283,
@@ -8369,6 +8369,11 @@
         {
             "id": 1725,
             "nombre": "KAI-DEL-SUR",
+            "cantidad": 1
+        },
+        {
+            "id": 1757,
+            "nombre": "OLIBU",
             "cantidad": 1
         }
     ]
