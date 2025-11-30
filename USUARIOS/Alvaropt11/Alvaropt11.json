@@ -8254,7 +8254,7 @@
     {
       "id": 1661,
       "nombre": "BIO-BROLY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1658,
@@ -8464,7 +8464,7 @@
     {
       "id": 1744,
       "nombre": "MECHA-FREEZER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1722,
@@ -8569,6 +8569,11 @@
     {
       "id": 1609,
       "nombre": "3B-VEGETA-JOVEN",
+      "cantidad": 1
+    },
+    {
+      "id": 1822,
+      "nombre": "ZFA-GOKUSS3 & VEGETA",
       "cantidad": 1
     }
   ]

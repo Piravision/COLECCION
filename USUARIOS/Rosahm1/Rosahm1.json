@@ -4349,7 +4349,7 @@
     {
       "id": 99,
       "nombre": "Demona",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 817,
@@ -7344,7 +7344,7 @@
     {
       "id": 1547,
       "nombre": "E1-MRS.-BRIEF",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1571,
@@ -8139,6 +8139,11 @@
     {
       "id": 1735,
       "nombre": "KNOCK",
+      "cantidad": 1
+    },
+    {
+      "id": 1714,
+      "nombre": "HILDEGARN",
       "cantidad": 1
     }
   ]
