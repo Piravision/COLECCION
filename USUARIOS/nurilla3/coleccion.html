@@ -21977,4 +21977,30 @@
 			} else {
 				selectedRequestId = cromoId;
 			}
-			gene
+			generateCommand();
+		}
+
+		function generateCommand() {
+			const commandContainer = document.getElementById('command-container');
+			const commandCode = document.getElementById('trade-command');
+			if (selectedOfferId && selectedRequestId && userToTradeWith) {
+				const commandText = `!intercambiar ofrezco ${selectedOfferId} a cambio de ${selectedRequestId} a @${userToTradeWith}`;
+				commandCode.textContent = commandText;
+				commandContainer.style.display = 'block';
+			} else {
+				commandContainer.style.display = 'none';
+			}
+		}
+
+		function copyCommand() {
+			const commandText = document.getElementById('trade-command').textContent;
+			navigator.clipboard.writeText(commandText).then(() => {
+				alert('¡Comando copiado al portapapeles!');
+			}).catch(err => {
+				console.error('Error al copiar el comando: ', err);
+				alert('No se pudo copiar el comando.');
+			});
+		}
+	</script>
+</body>
+</html>
