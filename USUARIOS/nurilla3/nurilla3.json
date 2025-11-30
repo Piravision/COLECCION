@@ -2889,7 +2889,7 @@
         {
             "id": 621,
             "nombre": "DB-009",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1361,
@@ -7219,7 +7219,7 @@
         {
             "id": 1805,
             "nombre": "ZFA-A18-&-KRILIN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 795,
@@ -7779,6 +7779,21 @@
         {
             "id": 711,
             "nombre": "DB-099",
+            "cantidad": 1
+        },
+        {
+            "id": 1110,
+            "nombre": "G-ZOLTAR",
+            "cantidad": 1
+        },
+        {
+            "id": 1212,
+            "nombre": "4-SKETCH-TURNER",
+            "cantidad": 1
+        },
+        {
+            "id": 881,
+            "nombre": "HAWKEYE",
             "cantidad": 1
         }
     ]
