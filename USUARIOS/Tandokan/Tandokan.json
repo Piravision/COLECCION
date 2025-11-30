@@ -1004,7 +1004,7 @@
         {
             "id": 827,
             "nombre": "STRYKER",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 681,
@@ -2384,7 +2384,7 @@
         {
             "id": 930,
             "nombre": "MANKIND",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 19,
@@ -2604,7 +2604,7 @@
         {
             "id": 655,
             "nombre": "DB-043",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 171,
@@ -2844,7 +2844,7 @@
         {
             "id": 162,
             "nombre": "Mon Star",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 288,
@@ -3814,7 +3814,7 @@
         {
             "id": 887,
             "nombre": "LOCKJAW",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1059,
@@ -4149,7 +4149,7 @@
         {
             "id": 1015,
             "nombre": "SHAGGY--&-SCOOBY-DOO",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1155,
@@ -4589,7 +4589,7 @@
         {
             "id": 1194,
             "nombre": "COBRA",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 519,
@@ -5544,7 +5544,7 @@
         {
             "id": 575,
             "nombre": "A.GALVAN",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 884,
@@ -6949,7 +6949,7 @@
         {
             "id": 1385,
             "nombre": "9-MERAMON",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1205,
@@ -7439,7 +7439,7 @@
         {
             "id": 1587,
             "nombre": "Z-BOLAS-DE-DRAGON",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1493,
@@ -7579,7 +7579,7 @@
         {
             "id": 1682,
             "nombre": "COOLER-DROID",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1543,
@@ -7689,6 +7689,46 @@
         {
             "id": 1590,
             "nombre": "Z-MOTO-BULMA",
+            "cantidad": 1
+        },
+        {
+            "id": 1529,
+            "nombre": "D1-1PICCOLO-NIÑO",
+            "cantidad": 1
+        },
+        {
+            "id": 1551,
+            "nombre": "F1-MUTENROSHI-JOVEN",
+            "cantidad": 1
+        },
+        {
+            "id": 1716,
+            "nombre": "IDASA",
+            "cantidad": 1
+        },
+        {
+            "id": 1470,
+            "nombre": "1A-FA02",
+            "cantidad": 1
+        },
+        {
+            "id": 1728,
+            "nombre": "KAIOSHIN-DEL-SUR",
+            "cantidad": 1
+        },
+        {
+            "id": 1691,
+            "nombre": "DICTADOR",
+            "cantidad": 1
+        },
+        {
+            "id": 1559,
+            "nombre": "T-BRUCE-LEE",
+            "cantidad": 1
+        },
+        {
+            "id": 1541,
+            "nombre": "DR-SUPPAMAN",
             "cantidad": 1
         }
     ]
