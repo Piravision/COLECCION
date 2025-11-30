@@ -889,7 +889,7 @@
         {
             "id": 264,
             "nombre": "Donatello",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 304,
@@ -8439,7 +8439,7 @@
         {
             "id": 1808,
             "nombre": "ZFA-BROLY",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1812,
@@ -8524,6 +8524,11 @@
         {
             "id": 1702,
             "nombre": "GOGETA-FUSION-FAIL",
+            "cantidad": 1
+        },
+        {
+            "id": 1708,
+            "nombre": "GRAN-SAIYAMAN-2",
             "cantidad": 1
         }
     ]
