@@ -6659,7 +6659,7 @@
         {
             "id": 1725,
             "nombre": "KAI-DEL-SUR",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1628,
@@ -7824,6 +7824,11 @@
         {
             "id": 676,
             "nombre": "DB-064",
+            "cantidad": 1
+        },
+        {
+            "id": 693,
+            "nombre": "DB-081",
             "cantidad": 1
         }
     ]
