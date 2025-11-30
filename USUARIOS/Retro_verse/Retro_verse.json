@@ -4159,7 +4159,7 @@
         {
             "id": 711,
             "nombre": "DB-099",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 727,
@@ -7569,7 +7569,7 @@
         {
             "id": 1505,
             "nombre": "A3-FAKE-GOKU",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1584,
@@ -8259,6 +8259,11 @@
         {
             "id": 1632,
             "nombre": "8A-CELL-LARVA",
+            "cantidad": 1
+        },
+        {
+            "id": 1575,
+            "nombre": "W-PLAGUE",
             "cantidad": 1
         }
     ]
