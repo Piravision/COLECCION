@@ -2949,7 +2949,7 @@
         {
             "id": 938,
             "nombre": "VINCE-MCMAHON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1198,
@@ -3404,7 +3404,7 @@
         {
             "id": 1495,
             "nombre": "A1-GOKU",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 276,
@@ -3574,7 +3574,7 @@
         {
             "id": 403,
             "nombre": "red",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 401,
@@ -5004,7 +5004,7 @@
         {
             "id": 284,
             "nombre": "Roadkill",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 990,
@@ -7669,6 +7669,11 @@
         {
             "id": 837,
             "nombre": "DALSHIM",
+            "cantidad": 1
+        },
+        {
+            "id": 53,
+            "nombre": "marirov",
             "cantidad": 1
         }
     ]
