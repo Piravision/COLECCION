@@ -924,7 +924,7 @@
         {
             "id": 987,
             "nombre": "ARALE",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 613,
@@ -4009,7 +4009,7 @@
         {
             "id": 486,
             "nombre": "gnasty-gnorc",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 491,
@@ -6054,7 +6054,7 @@
         {
             "id": 641,
             "nombre": "DB-029",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 642,
@@ -7679,6 +7679,11 @@
         {
             "id": 813,
             "nombre": "LIU-KANG",
+            "cantidad": 1
+        },
+        {
+            "id": 1125,
+            "nombre": "GON",
             "cantidad": 1
         }
     ]
