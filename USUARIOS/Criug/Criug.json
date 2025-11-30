@@ -64,7 +64,7 @@
     {
       "id": 300,
       "nombre": "Wheeljack",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 93,
@@ -589,7 +589,7 @@
     {
       "id": 408,
       "nombre": "Elisa--Gárgola",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 128,
@@ -1744,7 +1744,7 @@
     {
       "id": 365,
       "nombre": "alucard 1",
-      "cantidad": 11
+      "cantidad": 12
     },
     {
       "id": 642,
@@ -2254,7 +2254,7 @@
     {
       "id": 694,
       "nombre": "DB-082",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 377,
@@ -2589,7 +2589,7 @@
     {
       "id": 347,
       "nombre": "Lizard",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 581,
@@ -2714,7 +2714,7 @@
     {
       "id": 791,
       "nombre": "GORDON",
-      "cantidad": 9
+      "cantidad": 10
     },
     {
       "id": 891,
@@ -2754,7 +2754,7 @@
     {
       "id": 735,
       "nombre": "Aiacos",
-      "cantidad": 11
+      "cantidad": 12
     },
     {
       "id": 690,
@@ -2924,7 +2924,7 @@
     {
       "id": 229,
       "nombre": "Last Chance Garage",
-      "cantidad": 12
+      "cantidad": 13
     },
     {
       "id": 382,
@@ -3064,7 +3064,7 @@
     {
       "id": 464,
       "nombre": "yamada",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 903,
@@ -3304,7 +3304,7 @@
     {
       "id": 576,
       "nombre": "ALAN-CROCKET",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 254,
@@ -4719,7 +4719,7 @@
     {
       "id": 1039,
       "nombre": "DAREDEVIL-2",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 1074,
@@ -5949,7 +5949,7 @@
     {
       "id": 1204,
       "nombre": "3-KNUCKLES",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 1294,
@@ -6154,7 +6154,7 @@
     {
       "id": 1049,
       "nombre": "I-MEDUSA-2",
-      "cantidad": 2
+      "cantidad": 1
     },
     {
       "id": 1286,
@@ -6204,7 +6204,7 @@
     {
       "id": 1171,
       "nombre": "ROBIN",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1083,
@@ -7054,7 +7054,7 @@
     {
       "id": 1457,
       "nombre": "TOMATES ASESINOS",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 1446,
@@ -7419,7 +7419,7 @@
     {
       "id": 1581,
       "nombre": "X-FANTASMA-USHER",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1572,
@@ -7849,7 +7849,7 @@
     {
       "id": 1582,
       "nombre": "X-HOMBRE-DRACULA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1552,
@@ -8279,7 +8279,7 @@
     {
       "id": 1710,
       "nombre": "GREPE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1709,
@@ -8434,6 +8434,16 @@
     {
       "id": 1653,
       "nombre": "ANDROIDE-Nº20-",
+      "cantidad": 1
+    },
+    {
+      "id": 1670,
+      "nombre": "BULMA",
+      "cantidad": 1
+    },
+    {
+      "id": 1604,
+      "nombre": "2F-SON-GOHAN-",
       "cantidad": 1
     }
   ]

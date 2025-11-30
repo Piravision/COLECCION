@@ -3169,7 +3169,7 @@
         {
             "id": 791,
             "nombre": "GORDON",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 30,
@@ -5984,7 +5984,7 @@
         {
             "id": 1481,
             "nombre": "1A-FA13",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 962,
@@ -7604,6 +7604,11 @@
         {
             "id": 1280,
             "nombre": "JOTARO-KUJO",
+            "cantidad": 1
+        },
+        {
+            "id": 778,
+            "nombre": "ALFRED",
             "cantidad": 1
         }
     ]
