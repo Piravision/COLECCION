@@ -599,7 +599,7 @@
         {
             "id": 520,
             "nombre": "BenGalí",
-            "cantidad": 4
+            "cantidad": 5
         },
         {
             "id": 124,
@@ -714,7 +714,7 @@
         {
             "id": 323,
             "nombre": "Tormenta",
-            "cantidad": 8
+            "cantidad": 9
         },
         {
             "id": 108,
@@ -4699,7 +4699,7 @@
         {
             "id": 603,
             "nombre": "PHILLIP-CALLAHAN",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 850,
@@ -5114,7 +5114,7 @@
         {
             "id": 1029,
             "nombre": "BLACK-PHANTER-2",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1141,
@@ -7564,7 +7564,7 @@
         {
             "id": 1558,
             "nombre": "T-BACTERIAN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1505,
@@ -8299,6 +8299,11 @@
         {
             "id": 1585,
             "nombre": "Z-ABANICO-MAGICO",
+            "cantidad": 1
+        },
+        {
+            "id": 1746,
+            "nombre": "METAL-COOLER",
             "cantidad": 1
         }
     ]
