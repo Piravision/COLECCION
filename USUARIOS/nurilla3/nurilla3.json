@@ -1094,7 +1094,7 @@
         {
             "id": 342,
             "nombre": "Flazzard",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1164,
@@ -1189,7 +1189,7 @@
         {
             "id": 885,
             "nombre": "IRON-MAN",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 898,
@@ -2009,7 +2009,7 @@
         {
             "id": 379,
             "nombre": "lynx",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 1393,
@@ -8074,7 +8074,7 @@
         {
             "id": 1710,
             "nombre": "GREPE",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1050,
@@ -8209,6 +8209,11 @@
         {
             "id": 586,
             "nombre": "ED-WARNER",
+            "cantidad": 1
+        },
+        {
+            "id": 493,
+            "nombre": "flik",
             "cantidad": 1
         }
     ]
