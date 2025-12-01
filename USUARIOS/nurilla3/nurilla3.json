@@ -1264,7 +1264,7 @@
         {
             "id": 1240,
             "nombre": "CHEERS",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 526,
@@ -2689,7 +2689,7 @@
         {
             "id": 1250,
             "nombre": "MIAMI-VICE",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 169,
@@ -6719,7 +6719,7 @@
         {
             "id": 1830,
             "nombre": "ZFA-SUPER BUU KAMIKAZE",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 553,
@@ -8124,7 +8124,7 @@
         {
             "id": 314,
             "nombre": "Coloso",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1208,
@@ -8149,6 +8149,11 @@
         {
             "id": 914,
             "nombre": "SUPERMAN",
+            "cantidad": 1
+        },
+        {
+            "id": 281,
+            "nombre": "Granitor",
             "cantidad": 1
         }
     ]
