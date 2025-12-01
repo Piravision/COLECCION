@@ -29,7 +29,7 @@
     {
       "id": 429,
       "nombre": "sniper",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 272,
@@ -129,7 +129,7 @@
     {
       "id": 517,
       "nombre": "Pirámide Negra",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 49,
@@ -3239,6 +3239,16 @@
     {
       "id": 1377,
       "nombre": "9-CHERRYMON",
+      "cantidad": 1
+    },
+    {
+      "id": 856,
+      "nombre": "BEETLEJUICE-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1333,
+      "nombre": "4F-ROSEMON",
       "cantidad": 1
     }
   ]
