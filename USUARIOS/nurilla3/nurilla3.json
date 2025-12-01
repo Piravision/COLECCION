@@ -114,7 +114,7 @@
         {
             "id": 225,
             "nombre": "Guarida Felina",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 329,
@@ -3984,7 +3984,7 @@
         {
             "id": 777,
             "nombre": "Zordon",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 761,
@@ -5739,7 +5739,7 @@
         {
             "id": 728,
             "nombre": "DB-116",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 102,
@@ -6809,7 +6809,7 @@
         {
             "id": 1770,
             "nombre": "RECOOME",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1645,
@@ -7959,6 +7959,11 @@
         {
             "id": 50,
             "nombre": "Lonberuk",
+            "cantidad": 1
+        },
+        {
+            "id": 1046,
+            "nombre": "HERCULES",
             "cantidad": 1
         }
     ]
