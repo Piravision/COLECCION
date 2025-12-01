@@ -374,7 +374,7 @@
     {
       "id": 1154,
       "nombre": "CATWOMAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 125,
@@ -1719,7 +1719,7 @@
     {
       "id": 799,
       "nombre": "POISON-IVY",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 411,
@@ -3144,6 +3144,11 @@
     {
       "id": 1820,
       "nombre": "ZFA-GOKU & GOHAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1171,
+      "nombre": "ROBIN",
       "cantidad": 1
     }
   ]
