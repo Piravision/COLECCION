@@ -794,7 +794,7 @@
     {
       "id": 810,
       "nombre": "KANO",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 885,
@@ -3219,7 +3219,7 @@
     {
       "id": 482,
       "nombre": "Escorpión",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 125,
@@ -3614,7 +3614,7 @@
     {
       "id": 183,
       "nombre": "Kraven",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 147,
@@ -5079,7 +5079,7 @@
     {
       "id": 1229,
       "nombre": "MIGHTY-MAX",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1397,
@@ -7239,6 +7239,16 @@
     {
       "id": 1811,
       "nombre": "ZFA-CELL",
+      "cantidad": 1
+    },
+    {
+      "id": 1798,
+      "nombre": "YAKON",
+      "cantidad": 1
+    },
+    {
+      "id": 1640,
+      "nombre": "9D-SUPER-BUU-FORMA-PICCOLO",
       "cantidad": 1
     }
   ]
