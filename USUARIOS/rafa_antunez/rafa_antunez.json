@@ -2014,7 +2014,7 @@
     {
       "id": 1034,
       "nombre": "CAPITAN BRITANIA-2",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 789,
@@ -2844,7 +2844,7 @@
     {
       "id": 1558,
       "nombre": "T-BACTERIAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1560,
@@ -3234,6 +3234,11 @@
     {
       "id": 1641,
       "nombre": "9E-SUPER-BUU-FORMA-GOTENKS",
+      "cantidad": 1
+    },
+    {
+      "id": 1377,
+      "nombre": "9-CHERRYMON",
       "cantidad": 1
     }
   ]
