@@ -309,7 +309,7 @@
         {
             "id": 192,
             "nombre": "Bends",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 318,
@@ -4294,7 +4294,7 @@
         {
             "id": 1383,
             "nombre": "9-LEOMON",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1532,
@@ -5529,7 +5529,7 @@
         {
             "id": 1094,
             "nombre": "CZ-EGON-SPENGLER",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 120,
@@ -8084,6 +8084,11 @@
         {
             "id": 1318,
             "nombre": "2I-JOE-FOIL",
+            "cantidad": 1
+        },
+        {
+            "id": 1635,
+            "nombre": "8D-CELL-JR",
             "cantidad": 1
         }
     ]
