@@ -1209,7 +1209,7 @@
         {
             "id": 309,
             "nombre": "Thundercracker",
-            "cantidad": 6
+            "cantidad": 7
         },
         {
             "id": 249,
@@ -5204,7 +5204,7 @@
         {
             "id": 1267,
             "nombre": "DARKSTALKERS",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1013,
@@ -6489,7 +6489,7 @@
         {
             "id": 1040,
             "nombre": "DR STRANGE",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 91,
@@ -7279,6 +7279,16 @@
         {
             "id": 627,
             "nombre": "DB-015",
+            "cantidad": 1
+        },
+        {
+            "id": 1434,
+            "nombre": "MANIAC COP",
+            "cantidad": 1
+        },
+        {
+            "id": 1592,
+            "nombre": "Z-RADAR-BOLAS-DE-DRAGON",
             "cantidad": 1
         }
     ]
