@@ -1,100 +1,105 @@
 {
-  "usuario": "ElRincondePeper",
-  "cromos": [
-    {
-      "id": 528,
-      "nombre": "Fénix-Oscura",
-      "cantidad": 1
-    },
-    {
-      "id": 56,
-      "nombre": "nova",
-      "cantidad": 1
-    },
-    {
-      "id": 68,
-      "nombre": "galdandy",
-      "cantidad": 1
-    },
-    {
-      "id": 292,
-      "nombre": "Bumblebee",
-      "cantidad": 1
-    },
-    {
-      "id": 8,
-      "nombre": "Hades",
-      "cantidad": 1
-    },
-    {
-      "id": 310,
-      "nombre": "Dan",
-      "cantidad": 1
-    },
-    {
-      "id": 1433,
-      "nombre": "LOST BOYS",
-      "cantidad": 1
-    },
-    {
-      "id": 1449,
-      "nombre": "SE LO QUE HICISTEIS",
-      "cantidad": 2
-    },
-    {
-      "id": 1444,
-      "nombre": "POLTERGEIST",
-      "cantidad": 2
-    },
-    {
-      "id": 1447,
-      "nombre": "SAW",
-      "cantidad": 1
-    },
-    {
-      "id": 1421,
-      "nombre": "EXORCISTA",
-      "cantidad": 1
-    },
-    {
-      "id": 1409,
-      "nombre": "CEMENTERIO DE MASCOTAS",
-      "cantidad": 1
-    },
-    {
-      "id": 1450,
-      "nombre": "TEEN WOLF",
-      "cantidad": 1
-    },
-    {
-      "id": 1464,
-      "nombre": "PROMO-FRANKESTEIN",
-      "cantidad": 1
-    },
-    {
-      "id": 1465,
-      "nombre": "PROMO-HOMBRE INVISIBLE",
-      "cantidad": 1
-    },
-    {
-      "id": 1461,
-      "nombre": "PROMO-BLACK LAGOON MONSTER",
-      "cantidad": 1
-    },
-    {
-      "id": 845,
-      "nombre": "KEN",
-      "cantidad": 1
-    },
-    {
-      "id": 852,
-      "nombre": "ZANGIEF",
-      "cantidad": 1
-    },
-    {
-      "id": 833,
-      "nombre": "blanka2",
-      "cantidad": 1
-    }
-  ]
+    "usuario": "ElRincondePeper",
+    "cromos": [
+        {
+            "id": 528,
+            "nombre": "Fénix-Oscura",
+            "cantidad": 1
+        },
+        {
+            "id": 56,
+            "nombre": "nova",
+            "cantidad": 1
+        },
+        {
+            "id": 68,
+            "nombre": "galdandy",
+            "cantidad": 1
+        },
+        {
+            "id": 292,
+            "nombre": "Bumblebee",
+            "cantidad": 1
+        },
+        {
+            "id": 8,
+            "nombre": "Hades",
+            "cantidad": 1
+        },
+        {
+            "id": 310,
+            "nombre": "Dan",
+            "cantidad": 1
+        },
+        {
+            "id": 1433,
+            "nombre": "LOST BOYS",
+            "cantidad": 1
+        },
+        {
+            "id": 1449,
+            "nombre": "SE LO QUE HICISTEIS",
+            "cantidad": 2
+        },
+        {
+            "id": 1444,
+            "nombre": "POLTERGEIST",
+            "cantidad": 2
+        },
+        {
+            "id": 1447,
+            "nombre": "SAW",
+            "cantidad": 1
+        },
+        {
+            "id": 1421,
+            "nombre": "EXORCISTA",
+            "cantidad": 1
+        },
+        {
+            "id": 1409,
+            "nombre": "CEMENTERIO DE MASCOTAS",
+            "cantidad": 1
+        },
+        {
+            "id": 1450,
+            "nombre": "TEEN WOLF",
+            "cantidad": 1
+        },
+        {
+            "id": 1464,
+            "nombre": "PROMO-FRANKESTEIN",
+            "cantidad": 1
+        },
+        {
+            "id": 1465,
+            "nombre": "PROMO-HOMBRE INVISIBLE",
+            "cantidad": 1
+        },
+        {
+            "id": 1461,
+            "nombre": "PROMO-BLACK LAGOON MONSTER",
+            "cantidad": 1
+        },
+        {
+            "id": 845,
+            "nombre": "KEN",
+            "cantidad": 1
+        },
+        {
+            "id": 852,
+            "nombre": "ZANGIEF",
+            "cantidad": 1
+        },
+        {
+            "id": 833,
+            "nombre": "blanka2",
+            "cantidad": 1
+        },
+        {
+            "id": 1445,
+            "nombre": "RE-ANIMATOR",
+            "cantidad": 1
+        }
+    ]
 }
