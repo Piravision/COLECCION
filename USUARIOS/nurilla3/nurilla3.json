@@ -954,7 +954,7 @@
     {
       "id": 467,
       "nombre": "Cheryl",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 672,
@@ -1354,7 +1354,7 @@
     {
       "id": 1430,
       "nombre": "LA CRIATURA DEL PANTANO",
-      "cantidad": 4
+      "cantidad": 3
     },
     {
       "id": 1028,
@@ -8359,6 +8359,16 @@
     {
       "id": 1672,
       "nombre": "BUU-FANTASMA-KAMIKAZE",
+      "cantidad": 1
+    },
+    {
+      "id": 1152,
+      "nombre": "BLACK CANNARY",
+      "cantidad": 1
+    },
+    {
+      "id": 871,
+      "nombre": "BLACK-BOLT",
       "cantidad": 1
     }
   ]
