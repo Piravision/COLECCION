@@ -1309,7 +1309,7 @@
     {
       "id": 562,
       "nombre": "PETER-GRIFFIN-JAIL",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 245,
@@ -8599,7 +8599,7 @@
     {
       "id": 1785,
       "nombre": "TAPKAR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1749,
@@ -8634,6 +8634,11 @@
     {
       "id": 1806,
       "nombre": "ZFA-ANDROIDES",
+      "cantidad": 1
+    },
+    {
+      "id": 1722,
+      "nombre": "KAI-DEL-ESTE",
       "cantidad": 1
     }
   ]
