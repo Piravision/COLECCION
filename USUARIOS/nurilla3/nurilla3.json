@@ -949,7 +949,7 @@
         {
             "id": 801,
             "nombre": "RED-CLAW",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 467,
@@ -8404,6 +8404,11 @@
         {
             "id": 1282,
             "nombre": "ROBOTECH",
+            "cantidad": 1
+        },
+        {
+            "id": 787,
+            "nombre": "DOS-CARAS",
             "cantidad": 1
         }
     ]
