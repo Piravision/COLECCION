@@ -2379,7 +2379,7 @@
     {
       "id": 938,
       "nombre": "VINCE-MCMAHON",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1076,
@@ -7119,7 +7119,7 @@
     {
       "id": 1821,
       "nombre": "ZFA-GOKU-SSJ3",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1635,
@@ -7474,6 +7474,11 @@
     {
       "id": 203,
       "nombre": "Repteel",
+      "cantidad": 1
+    },
+    {
+      "id": 1824,
+      "nombre": "ZFA-GOTENKS-GOHAN-PICCOLO",
       "cantidad": 1
     }
   ]
