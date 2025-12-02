@@ -244,7 +244,7 @@
     {
       "id": 396,
       "nombre": "aeris",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 496,
@@ -794,7 +794,7 @@
     {
       "id": 1390,
       "nombre": "9-NANIMON",
-      "cantidad": 4
+      "cantidad": 3
     },
     {
       "id": 462,
@@ -2424,7 +2424,7 @@
     {
       "id": 868,
       "nombre": "ANT-MAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 901,
@@ -4919,7 +4919,7 @@
     {
       "id": 1283,
       "nombre": "TAKUMI-FUJIWARA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1089,
@@ -7609,7 +7609,7 @@
     {
       "id": 778,
       "nombre": "ALFRED",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 499,
@@ -7624,7 +7624,7 @@
     {
       "id": 119,
       "nombre": "orko",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 40,
@@ -8304,6 +8304,11 @@
     {
       "id": 1711,
       "nombre": "GUERRERO-ENMASCARADO",
+      "cantidad": 1
+    },
+    {
+      "id": 1689,
+      "nombre": "DENDE",
       "cantidad": 1
     }
   ]
