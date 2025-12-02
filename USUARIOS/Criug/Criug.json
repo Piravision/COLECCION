@@ -359,7 +359,7 @@
     {
       "id": 56,
       "nombre": "nova",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 252,
@@ -5344,7 +5344,7 @@
     {
       "id": 1103,
       "nombre": "FRAGGLE-ROCK",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1218,
@@ -8674,6 +8674,11 @@
     {
       "id": 1798,
       "nombre": "YAKON",
+      "cantidad": 1
+    },
+    {
+      "id": 1790,
+      "nombre": "TURLES",
       "cantidad": 1
     }
   ]
