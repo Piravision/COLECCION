@@ -2019,7 +2019,7 @@
     {
       "id": 538,
       "nombre": "BRUCE-LEE",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 420,
@@ -4954,7 +4954,7 @@
     {
       "id": 311,
       "nombre": "Arcangel",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 783,
@@ -7399,6 +7399,16 @@
     {
       "id": 305,
       "nombre": "Runamuck",
+      "cantidad": 1
+    },
+    {
+      "id": 240,
+      "nombre": "Terror Drome",
+      "cantidad": 1
+    },
+    {
+      "id": 1247,
+      "nombre": "LUZ-DE-LUNA",
       "cantidad": 1
     }
   ]
