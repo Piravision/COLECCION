@@ -84,7 +84,7 @@
     {
       "id": 309,
       "nombre": "Thundercracker",
-      "cantidad": 10
+      "cantidad": 11
     },
     {
       "id": 107,
@@ -709,7 +709,7 @@
     {
       "id": 331,
       "nombre": "Mente Maestra",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 437,
@@ -1449,7 +1449,7 @@
     {
       "id": 455,
       "nombre": "batsu",
-      "cantidad": 8
+      "cantidad": 7
     },
     {
       "id": 31,
@@ -3159,7 +3159,7 @@
     {
       "id": 880,
       "nombre": "GREEN-GOBLIN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 157,
@@ -3179,7 +3179,7 @@
     {
       "id": 836,
       "nombre": "Chunli2",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 703,
@@ -3469,7 +3469,7 @@
     {
       "id": 863,
       "nombre": "PREDATOR-JAIL",
-      "cantidad": 10
+      "cantidad": 11
     },
     {
       "id": 275,
@@ -5554,7 +5554,7 @@
     {
       "id": 922,
       "nombre": "LYDIA",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 626,
@@ -5834,7 +5834,7 @@
     {
       "id": 1211,
       "nombre": "4-GOLDEN-AXE",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1213,
@@ -8654,7 +8654,7 @@
     {
       "id": 1801,
       "nombre": "YARDRATIAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1741,
@@ -8664,6 +8664,11 @@
     {
       "id": 1665,
       "nombre": "BRA",
+      "cantidad": 1
+    },
+    {
+      "id": 1737,
+      "nombre": "KRILIN",
       "cantidad": 1
     }
   ]
