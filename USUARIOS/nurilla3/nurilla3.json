@@ -1284,7 +1284,7 @@
     {
       "id": 799,
       "nombre": "POISON-IVY",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1070,
@@ -3369,7 +3369,7 @@
     {
       "id": 968,
       "nombre": "4-WILLY-FOG",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 400,
@@ -3774,7 +3774,7 @@
     {
       "id": 234,
       "nombre": "Nueva Texas",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 738,
@@ -4999,7 +4999,7 @@
     {
       "id": 1592,
       "nombre": "Z-RADAR-BOLAS-DE-DRAGON",
-      "cantidad": 2
+      "cantidad": 1
     },
     {
       "id": 284,
@@ -8484,6 +8484,11 @@
     {
       "id": 1627,
       "nombre": "7A-FREEZER",
+      "cantidad": 1
+    },
+    {
+      "id": 974,
+      "nombre": "7-INSPECTOR-GADGET",
       "cantidad": 1
     }
   ]
