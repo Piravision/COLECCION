@@ -1749,7 +1749,7 @@
     {
       "id": 507,
       "nombre": "KING",
-      "cantidad": 2
+      "cantidad": 1
     },
     {
       "id": 1325,
@@ -1854,7 +1854,7 @@
     {
       "id": 949,
       "nombre": "1-DARTACAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 888,
@@ -4929,7 +4929,7 @@
     {
       "id": 1347,
       "nombre": "6B-MOCHIMON",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 667,
@@ -6264,7 +6264,7 @@
     {
       "id": 1760,
       "nombre": "PAIKUHAN",
-      "cantidad": 2
+      "cantidad": 1
     },
     {
       "id": 1761,
@@ -8329,6 +8329,36 @@
     {
       "id": 245,
       "nombre": "Felino",
+      "cantidad": 1
+    },
+    {
+      "id": 1190,
+      "nombre": "METEORO",
+      "cantidad": 1
+    },
+    {
+      "id": 1203,
+      "nombre": "2Z-PAC-MAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1680,
+      "nombre": "CHYAPUCHAI",
+      "cantidad": 1
+    },
+    {
+      "id": 419,
+      "nombre": "lquid",
+      "cantidad": 1
+    },
+    {
+      "id": 1742,
+      "nombre": "LUCHADOR-MAS-ALLA",
+      "cantidad": 1
+    },
+    {
+      "id": 1672,
+      "nombre": "BUU-FANTASMA-KAMIKAZE",
       "cantidad": 1
     }
   ]
