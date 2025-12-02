@@ -834,12 +834,12 @@
     {
       "id": 947,
       "nombre": "1-ARAMIS",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 782,
       "nombre": "BATMAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 589,
@@ -2409,7 +2409,7 @@
     {
       "id": 793,
       "nombre": "HIEDRA-",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 669,
@@ -3629,7 +3629,7 @@
     {
       "id": 408,
       "nombre": "Elisa--Gárgola",
-      "cantidad": 5
+      "cantidad": 4
     },
     {
       "id": 80,
@@ -3794,7 +3794,7 @@
     {
       "id": 986,
       "nombre": "15-BALOO",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 902,
@@ -4854,7 +4854,7 @@
     {
       "id": 1536,
       "nombre": "DR-GATCHAN",
-      "cantidad": 2
+      "cantidad": 1
     },
     {
       "id": 5,
@@ -8469,6 +8469,11 @@
     {
       "id": 771,
       "nombre": "rita",
+      "cantidad": 1
+    },
+    {
+      "id": 325,
+      "nombre": "Apocalipsis",
       "cantidad": 1
     }
   ]
