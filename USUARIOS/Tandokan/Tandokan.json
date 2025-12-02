@@ -479,7 +479,7 @@
     {
       "id": 159,
       "nombre": "Quicksilver",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 457,
@@ -2504,7 +2504,7 @@
     {
       "id": 661,
       "nombre": "DB-049",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 934,
@@ -7994,6 +7994,11 @@
     {
       "id": 1588,
       "nombre": "Z-CAPSULAS-HOI-POI",
+      "cantidad": 1
+    },
+    {
+      "id": 1750,
+      "nombre": "MOKEKKO",
       "cantidad": 1
     }
   ]
