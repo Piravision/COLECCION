@@ -4109,7 +4109,7 @@
     {
       "id": 391,
       "nombre": "piretripe",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 637,
@@ -5199,7 +5199,7 @@
     {
       "id": 912,
       "nombre": "SINIESTRO",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 727,
@@ -5959,7 +5959,7 @@
     {
       "id": 1051,
       "nombre": "JACK-HEARTS",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1267,
@@ -8254,7 +8254,7 @@
     {
       "id": 1635,
       "nombre": "8D-CELL-JR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1791,
@@ -8559,7 +8559,7 @@
     {
       "id": 1692,
       "nombre": "DORODABO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1597,
@@ -8639,6 +8639,11 @@
     {
       "id": 1722,
       "nombre": "KAI-DEL-ESTE",
+      "cantidad": 1
+    },
+    {
+      "id": 1714,
+      "nombre": "HILDEGARN",
       "cantidad": 1
     }
   ]
