@@ -5619,7 +5619,7 @@
     {
       "id": 1241,
       "nombre": "EL-COCHE-FANTASTICO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1273,
@@ -6124,7 +6124,7 @@
     {
       "id": 1148,
       "nombre": "AQUAMAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 914,
@@ -8289,6 +8289,11 @@
     {
       "id": 1744,
       "nombre": "MECHA-FREEZER",
+      "cantidad": 1
+    },
+    {
+      "id": 1737,
+      "nombre": "KRILIN",
       "cantidad": 1
     }
   ]
