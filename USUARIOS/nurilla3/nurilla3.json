@@ -274,7 +274,7 @@
         {
             "id": 1405,
             "nombre": "BEETLEJUICE",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 1458,
@@ -334,7 +334,7 @@
         {
             "id": 239,
             "nombre": "Stridor",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 923,
@@ -944,7 +944,7 @@
         {
             "id": 1387,
             "nombre": "9-MOJYAMON",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 801,
@@ -1314,7 +1314,7 @@
         {
             "id": 1363,
             "nombre": "7I-TK-FOIL",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 446,
@@ -2409,7 +2409,7 @@
         {
             "id": 793,
             "nombre": "HIEDRA-",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 669,
@@ -8369,6 +8369,11 @@
         {
             "id": 871,
             "nombre": "BLACK-BOLT",
+            "cantidad": 1
+        },
+        {
+            "id": 229,
+            "nombre": "Last Chance Garage",
             "cantidad": 1
         }
     ]
