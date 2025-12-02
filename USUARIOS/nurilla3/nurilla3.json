@@ -39,7 +39,7 @@
     {
       "id": 1437,
       "nombre": "MONSTER SQUAD",
-      "cantidad": 3
+      "cantidad": 2
     },
     {
       "id": 1451,
@@ -49,7 +49,7 @@
     {
       "id": 1416,
       "nombre": "EL TERROR LLAMA A SU PUERTA",
-      "cantidad": 8
+      "cantidad": 7
     },
     {
       "id": 1453,
@@ -114,7 +114,7 @@
     {
       "id": 225,
       "nombre": "Guarida Felina",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 329,
@@ -1474,7 +1474,7 @@
     {
       "id": 841,
       "nombre": "GUILE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 355,
@@ -5539,7 +5539,7 @@
     {
       "id": 1471,
       "nombre": "1A-FA03",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1548,
@@ -6064,7 +6064,7 @@
     {
       "id": 645,
       "nombre": "DB-033",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1058,
@@ -8464,6 +8464,11 @@
     {
       "id": 13,
       "nombre": "Needle",
+      "cantidad": 1
+    },
+    {
+      "id": 771,
+      "nombre": "rita",
       "cantidad": 1
     }
   ]
