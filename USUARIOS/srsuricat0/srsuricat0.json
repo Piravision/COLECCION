@@ -529,7 +529,7 @@
     {
       "id": 256,
       "nombre": "Mandrilo",
-      "cantidad": 5
+      "cantidad": 4
     },
     {
       "id": 228,
@@ -1924,7 +1924,7 @@
     {
       "id": 23,
       "nombre": "Amo del Calabozo",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 413,
@@ -2894,7 +2894,7 @@
     {
       "id": 592,
       "nombre": "JASON-DERRICK",
-      "cantidad": 3
+      "cantidad": 2
     },
     {
       "id": 698,
@@ -3169,7 +3169,7 @@
     {
       "id": 600,
       "nombre": "NATUREZA",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 559,
@@ -3224,7 +3224,7 @@
     {
       "id": 822,
       "nombre": "SHAO-KAHN",
-      "cantidad": 2
+      "cantidad": 1
     },
     {
       "id": 755,
@@ -3674,7 +3674,7 @@
     {
       "id": 848,
       "nombre": "RYU2",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 920,
@@ -3744,7 +3744,7 @@
     {
       "id": 890,
       "nombre": "MEDUSA",
-      "cantidad": 4
+      "cantidad": 3
     },
     {
       "id": 840,
@@ -8129,6 +8129,16 @@
     {
       "id": 1536,
       "nombre": "DR-GATCHAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1551,
+      "nombre": "F1-MUTENROSHI-JOVEN",
+      "cantidad": 1
+    },
+    {
+      "id": 1671,
+      "nombre": "BURTER",
       "cantidad": 1
     }
   ]
