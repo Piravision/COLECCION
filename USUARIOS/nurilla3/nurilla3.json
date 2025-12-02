@@ -1849,7 +1849,7 @@
         {
             "id": 412,
             "nombre": "big2",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 949,
@@ -2194,7 +2194,7 @@
         {
             "id": 508,
             "nombre": "law",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 504,
@@ -2469,7 +2469,7 @@
         {
             "id": 1350,
             "nombre": "6E-MEGAKABUTERIMON",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1215,
@@ -4939,7 +4939,7 @@
         {
             "id": 686,
             "nombre": "DB-074",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 647,
@@ -7334,7 +7334,7 @@
         {
             "id": 794,
             "nombre": "HUGO-STRANGE",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 45,
@@ -7719,7 +7719,7 @@
         {
             "id": 1673,
             "nombre": "CACAO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1027,
@@ -8489,6 +8489,16 @@
         {
             "id": 974,
             "nombre": "7-INSPECTOR-GADGET",
+            "cantidad": 1
+        },
+        {
+            "id": 1052,
+            "nombre": "JOCASTA",
+            "cantidad": 1
+        },
+        {
+            "id": 1810,
+            "nombre": "ZFA-BUU",
             "cantidad": 1
         }
     ]

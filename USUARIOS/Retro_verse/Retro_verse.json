@@ -5719,7 +5719,7 @@
         {
             "id": 1256,
             "nombre": "VIGILANTES-DE-LA-PLAYA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1235,
@@ -5899,7 +5899,7 @@
         {
             "id": 1052,
             "nombre": "JOCASTA",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1240,
@@ -8314,6 +8314,11 @@
         {
             "id": 1828,
             "nombre": "ZFA-PICCOLO",
+            "cantidad": 1
+        },
+        {
+            "id": 1565,
+            "nombre": "T-PAMPUT",
             "cantidad": 1
         }
     ]
