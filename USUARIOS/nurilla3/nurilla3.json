@@ -2064,7 +2064,7 @@
         {
             "id": 583,
             "nombre": "DANNY-MELOW",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 1256,
@@ -2439,7 +2439,7 @@
         {
             "id": 788,
             "nombre": "EL-FANTASMA",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 98,
@@ -8459,6 +8459,11 @@
         {
             "id": 1732,
             "nombre": "KILLA",
+            "cantidad": 1
+        },
+        {
+            "id": 13,
+            "nombre": "Needle",
             "cantidad": 1
         }
     ]
