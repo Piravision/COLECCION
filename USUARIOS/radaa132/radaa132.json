@@ -554,7 +554,7 @@
     {
       "id": 567,
       "nombre": "JAKE-ROBERTS",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 407,
@@ -6199,7 +6199,7 @@
     {
       "id": 1552,
       "nombre": "F1-MUTENROSHI-SENIOR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1562,
@@ -7504,6 +7504,11 @@
     {
       "id": 1264,
       "nombre": "ARTHUR",
+      "cantidad": 1
+    },
+    {
+      "id": 901,
+      "nombre": "ULTRON",
       "cantidad": 1
     }
   ]
