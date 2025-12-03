@@ -6094,7 +6094,7 @@
     {
       "id": 1288,
       "nombre": "JAK-&-DAXTER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1160,
@@ -8459,7 +8459,7 @@
     {
       "id": 1806,
       "nombre": "ZFA-ANDROIDES",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1744,
@@ -8659,6 +8659,11 @@
     {
       "id": 1799,
       "nombre": "YAMCHA",
+      "cantidad": 1
+    },
+    {
+      "id": 1746,
+      "nombre": "METAL-COOLER",
       "cantidad": 1
     }
   ]

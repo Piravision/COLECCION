@@ -254,7 +254,7 @@
         {
             "id": 300,
             "nombre": "Wheeljack",
-            "cantidad": 5
+            "cantidad": 6
         },
         {
             "id": 163,
@@ -3809,7 +3809,7 @@
         {
             "id": 260,
             "nombre": "Princesa Luna",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 910,
@@ -4654,7 +4654,7 @@
         {
             "id": 889,
             "nombre": "LUKE-CAGE",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1022,
@@ -8149,6 +8149,16 @@
         {
             "id": 1669,
             "nombre": "BUJIN",
+            "cantidad": 1
+        },
+        {
+            "id": 1818,
+            "nombre": "ZFA-GOHAN FUTURE & TRUNKS",
+            "cantidad": 1
+        },
+        {
+            "id": 1612,
+            "nombre": "3E-VEGETA-SSJ",
             "cantidad": 1
         }
     ]
