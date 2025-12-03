@@ -6214,7 +6214,7 @@
         {
             "id": 1777,
             "nombre": "SOLDADO-DE-TSUFUR",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1664,
@@ -8674,6 +8674,11 @@
         {
             "id": 231,
             "nombre": "Manual de Avan",
+            "cantidad": 1
+        },
+        {
+            "id": 1806,
+            "nombre": "ZFA-ANDROIDES",
             "cantidad": 1
         }
     ]
