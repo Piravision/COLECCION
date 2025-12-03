@@ -595,7 +595,7 @@
         <div class="content">
             <div class="section-title-1">
                 <h2>Colección de Cromos de Weapons89</h2>
-                <span>Cartas obtenidas: 1718 / 1836</span>
+                <span>Cartas obtenidas: 1719 / 1836</span>
             </div>
             
             <div class="details">
@@ -676,7 +676,7 @@
 						
 							<div class="summary-button" onclick="mostrarCartas('Dragon Ball Z')">
 								<img src="/COLECCION/botones/dragon-ball-z.png" alt="Dragon Ball Z" class="summary-button-image">
-								<span class="summary-button-counter">125 / 240</span>
+								<span class="summary-button-counter">126 / 240</span>
 							</div>
 						
 							<div class="summary-button" onclick="mostrarCartas('Dragon Quest')">
@@ -5767,7 +5767,7 @@
                             <div class="series-cards" id="series-Dragon-Ball-Z" style="display: none;">
                                 <div class="section-title-2">
                                     <h2>Dragon Ball Z</h2>
-                                    <span>Cartas obtenidas: 125 / 240</span>
+                                    <span>Cartas obtenidas: 126 / 240</span>
                                 </div>
                                 <div class="coleccion">
                                     
@@ -5909,7 +5909,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>4E-SUPER-TRUNKS-FUTURO (x1)</h3>
+                                                <h3>4E-SUPER-TRUNKS-FUTURO (x2)</h3>
                                                 <p>Rareza: Raro</p>
                                             </div>
                                         </div>
@@ -6052,7 +6052,7 @@
 												</div>
 											</a>
 																						<div class="cromo-details">
-                                                <h3>9D-SUPER-BUU-FORMA-PICCOLO (x1)</h3>
+                                                <h3>9D-SUPER-BUU-FORMA-PICCOLO (x2)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -6833,6 +6833,19 @@
 											</a>
 																						<div class="cromo-details">
                                                 <h3>MIJORIN (x1)</h3>
+                                                <p>Rareza: Común</p>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="cromo-card">
+                                            <span class="cromo-numero">Nº: 1749</span>
+                                            <a href="#" onclick="openModal(this, 'https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Dragon Ball Z/MINOSHIA(21-9-2025-13_11).png', '1749', 'MINOSHIA', 'Común'); return false;">
+												<div class="cromo-img-container">
+													<img src="https://PiraVision.github.io/COLECCION/CROMOS PIRAVISION/Dragon Ball Z/MINOSHIA(21-9-2025-13_11).png" alt="MINOSHIA">
+												</div>
+											</a>
+																						<div class="cromo-details">
+                                                <h3>MINOSHIA (x1)</h3>
                                                 <p>Rareza: Común</p>
                                             </div>
                                         </div>
@@ -23978,31 +23991,3 @@
 				selectedOfferId = cromoId;
 			} else {
 				selectedRequestId = cromoId;
-			}
-			generateCommand();
-		}
-
-		function generateCommand() {
-			const commandContainer = document.getElementById('command-container');
-			const commandCode = document.getElementById('trade-command');
-			if (selectedOfferId && selectedRequestId && userToTradeWith) {
-				const commandText = `!intercambiar ofrezco ${selectedOfferId} a cambio de ${selectedRequestId} a @${userToTradeWith}`;
-				commandCode.textContent = commandText;
-				commandContainer.style.display = 'block';
-			} else {
-				commandContainer.style.display = 'none';
-			}
-		}
-
-		function copyCommand() {
-			const commandText = document.getElementById('trade-command').textContent;
-			navigator.clipboard.writeText(commandText).then(() => {
-				alert('¡Comando copiado al portapapeles!');
-			}).catch(err => {
-				console.error('Error al copiar el comando: ', err);
-				alert('No se pudo copiar el comando.');
-			});
-		}
-	</script>
-</body>
-</html>
