@@ -909,7 +909,7 @@
     {
       "id": 633,
       "nombre": "DB-021",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 384,
@@ -1089,7 +1089,7 @@
     {
       "id": 867,
       "nombre": "SONNY-JAIL",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 524,
@@ -2309,7 +2309,7 @@
     {
       "id": 654,
       "nombre": "DB-042",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 339,
@@ -5439,7 +5439,7 @@
     {
       "id": 1450,
       "nombre": "TEEN WOLF",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 1413,
@@ -7574,6 +7574,16 @@
     {
       "id": 283,
       "nombre": "Lord Dregg",
+      "cantidad": 1
+    },
+    {
+      "id": 1646,
+      "nombre": "ANDROIDE-Nº13",
+      "cantidad": 1
+    },
+    {
+      "id": 1360,
+      "nombre": "7F-SERAPHIMON",
       "cantidad": 1
     }
   ]
