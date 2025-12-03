@@ -139,7 +139,7 @@
     {
       "id": 301,
       "nombre": "Astrotrain",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 179,
@@ -214,7 +214,7 @@
     {
       "id": 398,
       "nombre": "barret",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 80,
@@ -1164,7 +1164,7 @@
     {
       "id": 456,
       "nombre": "boman",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 141,
@@ -2024,7 +2024,7 @@
     {
       "id": 99,
       "nombre": "Demona",
-      "cantidad": 10
+      "cantidad": 11
     },
     {
       "id": 28,
@@ -2109,7 +2109,7 @@
     {
       "id": 190,
       "nombre": "Vandame-Bloodsport",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 686,
@@ -2784,7 +2784,7 @@
     {
       "id": 439,
       "nombre": "mudokons",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 799,
@@ -2914,7 +2914,7 @@
     {
       "id": 375,
       "nombre": "Grobyc",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 682,
@@ -3089,7 +3089,7 @@
     {
       "id": 873,
       "nombre": "BLACK-WIDOW",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 774,
@@ -3159,7 +3159,7 @@
     {
       "id": 880,
       "nombre": "GREEN-GOBLIN",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 157,
@@ -3499,7 +3499,7 @@
     {
       "id": 831,
       "nombre": "BISON",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 792,
@@ -4839,7 +4839,7 @@
     {
       "id": 1021,
       "nombre": "4F COSA",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 1035,
@@ -5314,7 +5314,7 @@
     {
       "id": 1111,
       "nombre": "G1-COMANDO-G",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1095,
@@ -5839,7 +5839,7 @@
     {
       "id": 1213,
       "nombre": "4-STREET-OF-RAGE",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 1155,
@@ -7554,7 +7554,7 @@
     {
       "id": 1507,
       "nombre": "A3-KORIN",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1473,
@@ -7619,7 +7619,7 @@
     {
       "id": 1512,
       "nombre": "B1-CAPITAN-YELLOW",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1565,
@@ -7914,7 +7914,7 @@
     {
       "id": 1522,
       "nombre": "B1-STAFF-OFFICER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1587,
@@ -8379,7 +8379,7 @@
     {
       "id": 1820,
       "nombre": "ZFA-GOKU & GOHAN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1645,
@@ -8714,6 +8714,11 @@
     {
       "id": 1702,
       "nombre": "GOGETA-FUSION-FAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1638,
+      "nombre": "9B-BUU-MALDAD-PURA",
       "cantidad": 1
     }
   ]
