@@ -4199,7 +4199,7 @@
         {
             "id": 1129,
             "nombre": "CRITTER-JAIL",
-            "cantidad": 2
+            "cantidad": 3
         },
         {
             "id": 555,
@@ -7699,7 +7699,7 @@
         {
             "id": 846,
             "nombre": "ken2",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 72,
@@ -7719,7 +7719,7 @@
         {
             "id": 1673,
             "nombre": "CACAO",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1027,
@@ -7879,7 +7879,7 @@
         {
             "id": 235,
             "nombre": "Punk Frogs",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 1181,
@@ -8808,6 +8808,16 @@
         {
             "id": 1835,
             "nombre": "SKELETOR-LANGELA",
+            "cantidad": 1
+        },
+        {
+            "id": 1143,
+            "nombre": "PINKY-&-CEREBRO",
+            "cantidad": 1
+        },
+        {
+            "id": 1369,
+            "nombre": "8F-MAGNADRAMON",
             "cantidad": 1
         }
     ]
