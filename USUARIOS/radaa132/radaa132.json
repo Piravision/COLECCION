@@ -6599,7 +6599,7 @@
     {
       "id": 620,
       "nombre": "DB-008",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1215,
@@ -7399,7 +7399,7 @@
     {
       "id": 305,
       "nombre": "Runamuck",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 240,
@@ -7628,6 +7628,11 @@
     },
     {
       "id": 1834,
+      "cantidad": 1
+    },
+    {
+      "id": 1724,
+      "nombre": "KAI-DEL-OESTE",
       "cantidad": 1
     }
   ]
