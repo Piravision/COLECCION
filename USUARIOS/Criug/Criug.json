@@ -1439,7 +1439,7 @@
     {
       "id": 461,
       "nombre": "Stalone-RamboIII",
-      "cantidad": 10
+      "cantidad": 11
     },
     {
       "id": 672,
@@ -2074,7 +2074,7 @@
     {
       "id": 705,
       "nombre": "DB-093",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 616,
@@ -2269,7 +2269,7 @@
     {
       "id": 499,
       "nombre": "seed",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 714,
@@ -5204,7 +5204,7 @@
     {
       "id": 727,
       "nombre": "DB-115",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 1024,
@@ -5304,7 +5304,7 @@
     {
       "id": 1229,
       "nombre": "MIGHTY-MAX",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 950,
@@ -7289,7 +7289,7 @@
     {
       "id": 1444,
       "nombre": "POLTERGEIST",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1402,
@@ -7449,7 +7449,7 @@
     {
       "id": 1477,
       "nombre": "1A-FA09",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 1536,
@@ -8599,7 +8599,7 @@
     {
       "id": 1785,
       "nombre": "TAPKAR",
-      "cantidad": 4
+      "cantidad": 3
     },
     {
       "id": 1749,
@@ -8609,7 +8609,7 @@
     {
       "id": 1754,
       "nombre": "MUTENROSHI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1823,
@@ -8750,6 +8750,11 @@
     {
       "id": 1824,
       "nombre": "ZFA-GOTENKS-GOHAN-PICCOLO",
+      "cantidad": 1
+    },
+    {
+      "id": 1672,
+      "nombre": "BUU-FANTASMA-KAMIKAZE",
       "cantidad": 1
     }
   ]
