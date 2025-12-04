@@ -1999,7 +1999,7 @@
     {
       "id": 873,
       "nombre": "BLACK-WIDOW",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 477,
@@ -3829,7 +3829,7 @@
     {
       "id": 1205,
       "nombre": "3-TAILS",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 584,
@@ -4134,7 +4134,7 @@
     {
       "id": 32,
       "nombre": "Venger",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 781,
@@ -4554,7 +4554,7 @@
     {
       "id": 1060,
       "nombre": "QUICKSILVER",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 994,
@@ -7089,7 +7089,7 @@
     {
       "id": 1817,
       "nombre": "ZFA-GOHAN & BOJAK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1713,
@@ -7643,6 +7643,11 @@
     {
       "id": 1165,
       "nombre": "HAWKMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1388,
+      "nombre": "9-MONZAEMON",
       "cantidad": 1
     }
   ]
