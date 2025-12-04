@@ -1364,7 +1364,7 @@
     {
       "id": 87,
       "nombre": "Walter _Doc_ Hartford",
-      "cantidad": 2
+      "cantidad": 1
     },
     {
       "id": 67,
@@ -4719,7 +4719,7 @@
     {
       "id": 1171,
       "nombre": "ROBIN",
-      "cantidad": 2
+      "cantidad": 1
     },
     {
       "id": 66,
@@ -8349,6 +8349,12 @@
       "id": 1298,
       "nombre": "FA-ALTERED BEAST",
       "cantidad": 1
+    },
+    {
+      "id": 1836,
+      "nombre": "SKELETOR-SUPREMO",
+      "cantidad": 1,
+      "rareza": "Boss"
     }
   ]
 }

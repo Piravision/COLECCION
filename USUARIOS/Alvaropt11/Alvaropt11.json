@@ -8194,7 +8194,7 @@
     {
       "id": 1642,
       "nombre": "9F-SUPER-BUU-FORMA-GOHAN",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1671,
@@ -8464,7 +8464,7 @@
     {
       "id": 1744,
       "nombre": "MECHA-FREEZER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1722,
@@ -8738,6 +8738,22 @@
     {
       "id": 1668,
       "nombre": "BUBBLES",
+      "cantidad": 1
+    },
+    {
+      "id": 1687,
+      "nombre": "DEMETRIOUS",
+      "cantidad": 1
+    },
+    {
+      "id": 1836,
+      "nombre": "SKELETOR-SUPREMO",
+      "cantidad": 1,
+      "rareza": "Boss"
+    },
+    {
+      "id": 1622,
+      "nombre": "6A-GOTENKS",
       "cantidad": 1
     }
   ]
