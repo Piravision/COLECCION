@@ -6189,7 +6189,7 @@
         {
             "id": 1445,
             "nombre": "RE-ANIMATOR",
-            "cantidad": 3
+            "cantidad": 2
         },
         {
             "id": 1418,
@@ -8369,6 +8369,11 @@
         {
             "id": 1746,
             "nombre": "METAL-COOLER",
+            "cantidad": 1
+        },
+        {
+            "id": 1788,
+            "nombre": "TORA",
             "cantidad": 1
         }
     ]
