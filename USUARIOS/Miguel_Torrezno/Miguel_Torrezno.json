@@ -3639,7 +3639,7 @@
     {
       "id": 1157,
       "nombre": "FIRESTORM",
-      "cantidad": 2
+      "cantidad": 1
     },
     {
       "id": 596,
@@ -7389,7 +7389,7 @@
     {
       "id": 1736,
       "nombre": "KORIN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1732,
@@ -7554,7 +7554,7 @@
     {
       "id": 1669,
       "nombre": "BUJIN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1700,
@@ -7864,7 +7864,7 @@
     {
       "id": 1630,
       "nombre": "7D-FREEZER-FORMA-FINAL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1684,
@@ -8189,7 +8189,7 @@
     {
       "id": 1805,
       "nombre": "ZFA-A18-&-KRILIN",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1594,
@@ -8355,6 +8355,16 @@
       "nombre": "SKELETOR-SUPREMO",
       "cantidad": 1,
       "rareza": "Boss"
+    },
+    {
+      "id": 1702,
+      "nombre": "GOGETA-FUSION-FAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1783,
+      "nombre": "SUPER-BROLY",
+      "cantidad": 1
     }
   ]
 }

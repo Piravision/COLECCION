@@ -8259,7 +8259,7 @@
     {
       "id": 1762,
       "nombre": "PAPOI",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1693,
@@ -8459,7 +8459,7 @@
     {
       "id": 1830,
       "nombre": "ZFA-SUPER BUU KAMIKAZE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1642,
@@ -8640,6 +8640,11 @@
       "nombre": "SKELETOR-SUPREMO",
       "cantidad": 1,
       "rareza": "Boss"
+    },
+    {
+      "id": 1779,
+      "nombre": "SPICE",
+      "cantidad": 1
     }
   ]
 }

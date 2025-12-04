@@ -6634,7 +6634,7 @@
     {
       "id": 1746,
       "nombre": "METAL-COOLER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 285,
@@ -6809,7 +6809,7 @@
     {
       "id": 1770,
       "nombre": "RECOOME",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1645,
@@ -7754,7 +7754,7 @@
     {
       "id": 1662,
       "nombre": "BORA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 66,
@@ -7934,7 +7934,7 @@
     {
       "id": 1648,
       "nombre": "ANDROIDE-Nº15",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 964,
@@ -8139,7 +8139,7 @@
     {
       "id": 1780,
       "nombre": "SPOPOVICH",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1807,
@@ -8910,6 +8910,16 @@
       "nombre": "SKELETOR-SUPREMO",
       "cantidad": 1,
       "rareza": "Boss"
+    },
+    {
+      "id": 1814,
+      "nombre": "ZFA-FUERZAS-ESPECIALES",
+      "cantidad": 1
+    },
+    {
+      "id": 1264,
+      "nombre": "ARTHUR",
+      "cantidad": 1
     }
   ]
 }
