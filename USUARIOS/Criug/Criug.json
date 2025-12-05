@@ -1264,7 +1264,7 @@
     {
       "id": 515,
       "nombre": "Invasión-Saurians",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 440,
@@ -1379,7 +1379,7 @@
     {
       "id": 733,
       "nombre": "DB-121",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 276,
@@ -2209,7 +2209,7 @@
     {
       "id": 635,
       "nombre": "DB-023",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 184,
@@ -2359,7 +2359,7 @@
     {
       "id": 431,
       "nombre": "solid",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 471,
@@ -3329,7 +3329,7 @@
     {
       "id": 277,
       "nombre": "Baxter",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 419,
@@ -3769,7 +3769,7 @@
     {
       "id": 667,
       "nombre": "DB-055",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 870,
@@ -5839,7 +5839,7 @@
     {
       "id": 1213,
       "nombre": "4-STREET-OF-RAGE",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 1155,
@@ -7644,7 +7644,7 @@
     {
       "id": 1490,
       "nombre": "1A-FA22",
-      "cantidad": 5
+      "cantidad": 4
     },
     {
       "id": 1504,
@@ -7844,7 +7844,7 @@
     {
       "id": 1521,
       "nombre": "B1-MURASAKI",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1582,
@@ -8781,6 +8781,11 @@
     {
       "id": 1675,
       "nombre": "CAPITAN-GINYU",
+      "cantidad": 1
+    },
+    {
+      "id": 1762,
+      "nombre": "PAPOI",
       "cantidad": 1
     }
   ]
