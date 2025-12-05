@@ -209,7 +209,7 @@
     {
       "id": 752,
       "nombre": "Mu-de-Aries",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 905,
@@ -439,6 +439,52 @@
     {
       "id": 1478,
       "nombre": "1A-FA10",
+      "cantidad": 1
+    },
+    {
+      "id": 1836,
+      "nombre": "SKELETOR-SUPREMO",
+      "cantidad": 1,
+      "rareza": "Boss"
+    },
+    {
+      "id": 1165,
+      "nombre": "HAWKMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 446,
+      "nombre": "CUERVOS",
+      "cantidad": 1
+    },
+    {
+      "id": 404,
+      "nombre": "sefirot",
+      "cantidad": 1
+    },
+    {
+      "id": 695,
+      "nombre": "DB-083",
+      "cantidad": 1
+    },
+    {
+      "id": 645,
+      "nombre": "DB-033",
+      "cantidad": 1
+    },
+    {
+      "id": 589,
+      "nombre": "GENTILE-SALVATORE",
+      "cantidad": 1
+    },
+    {
+      "id": 1207,
+      "nombre": "4-CADILLACS-&-DINOSAURS",
+      "cantidad": 1
+    },
+    {
+      "id": 577,
+      "nombre": "ALAN-PASCAL",
       "cantidad": 1
     }
   ]

@@ -214,7 +214,7 @@
     {
       "id": 440,
       "nombre": "scrabs",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 369,
@@ -2814,7 +2814,7 @@
     {
       "id": 883,
       "nombre": "HULK",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 24,
@@ -3104,7 +3104,7 @@
     {
       "id": 221,
       "nombre": "Espada Atlantean",
-      "cantidad": 2
+      "cantidad": 1
     },
     {
       "id": 930,
@@ -6684,7 +6684,7 @@
     {
       "id": 1190,
       "nombre": "METEORO",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 268,
@@ -7794,6 +7794,12 @@
       "id": 1725,
       "nombre": "KAI-DEL-SUR",
       "cantidad": 1
+    },
+    {
+      "id": 1836,
+      "nombre": "SKELETOR-SUPREMO",
+      "cantidad": 1,
+      "rareza": "Boss"
     }
   ]
 }
