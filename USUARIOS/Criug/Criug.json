@@ -24,7 +24,7 @@
     {
       "id": 246,
       "nombre": "Jaga",
-      "cantidad": 11
+      "cantidad": 12
     },
     {
       "id": 330,
@@ -739,7 +739,7 @@
     {
       "id": 164,
       "nombre": "Black Cat",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 185,
@@ -999,7 +999,7 @@
     {
       "id": 6,
       "nombre": "El Patriarca",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 92,
@@ -2624,7 +2624,7 @@
     {
       "id": 379,
       "nombre": "lynx",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 336,
@@ -2994,7 +2994,7 @@
     {
       "id": 731,
       "nombre": "DB-119",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 825,
@@ -5964,7 +5964,7 @@
     {
       "id": 1267,
       "nombre": "DARKSTALKERS",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 1201,
@@ -6244,7 +6244,7 @@
     {
       "id": 1245,
       "nombre": "KNIGHT-RIDER",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1067,
@@ -8214,7 +8214,7 @@
     {
       "id": 1632,
       "nombre": "8A-CELL-LARVA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1623,
@@ -8786,6 +8786,11 @@
     {
       "id": 1762,
       "nombre": "PAPOI",
+      "cantidad": 1
+    },
+    {
+      "id": 1753,
+      "nombre": "MUSTARD",
       "cantidad": 1
     }
   ]
