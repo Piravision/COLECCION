@@ -529,7 +529,7 @@
         {
             "id": 986,
             "nombre": "15-BALOO",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 926,
@@ -889,6 +889,21 @@
         {
             "id": 1501,
             "nombre": "A2-LUNCH-BAD",
+            "cantidad": 1
+        },
+        {
+            "id": 220,
+            "nombre": "DRAGON QUEST",
+            "cantidad": 1
+        },
+        {
+            "id": 1383,
+            "nombre": "9-LEOMON",
+            "cantidad": 1
+        },
+        {
+            "id": 447,
+            "nombre": "hunk",
             "cantidad": 1
         }
     ]
