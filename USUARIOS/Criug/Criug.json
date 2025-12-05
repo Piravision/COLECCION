@@ -4534,7 +4534,7 @@
     {
       "id": 652,
       "nombre": "DB-040",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 996,
@@ -6209,7 +6209,7 @@
     {
       "id": 1083,
       "nombre": "YELLOWJACKET & WASP",
-      "cantidad": 9
+      "cantidad": 10
     },
     {
       "id": 1136,
@@ -8816,6 +8816,11 @@
     {
       "id": 1792,
       "nombre": "VEGETTO",
+      "cantidad": 1
+    },
+    {
+      "id": 1771,
+      "nombre": "REY-ENMA",
       "cantidad": 1
     }
   ]
