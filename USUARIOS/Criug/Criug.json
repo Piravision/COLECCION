@@ -649,7 +649,7 @@
     {
       "id": 527,
       "nombre": "Pícara",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 522,
@@ -1069,7 +1069,7 @@
     {
       "id": 542,
       "nombre": "DIE-HARD",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 369,
@@ -1669,7 +1669,7 @@
     {
       "id": 338,
       "nombre": "Shiryū de Dragón",
-      "cantidad": 12
+      "cantidad": 13
     },
     {
       "id": 324,
@@ -1964,7 +1964,7 @@
     {
       "id": 364,
       "nombre": "HulkHogan",
-      "cantidad": 14
+      "cantidad": 15
     },
     {
       "id": 674,
@@ -2774,7 +2774,7 @@
     {
       "id": 467,
       "nombre": "Cheryl",
-      "cantidad": 10
+      "cantidad": 11
     },
     {
       "id": 780,
@@ -3619,7 +3619,7 @@
     {
       "id": 959,
       "nombre": "3-DR.WATSON",
-      "cantidad": 10
+      "cantidad": 11
     },
     {
       "id": 972,
@@ -3669,7 +3669,7 @@
     {
       "id": 724,
       "nombre": "DB-112",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 907,
@@ -3749,7 +3749,7 @@
     {
       "id": 886,
       "nombre": "KARNAK",
-      "cantidad": 9
+      "cantidad": 10
     },
     {
       "id": 747,
@@ -3984,7 +3984,7 @@
     {
       "id": 868,
       "nombre": "ANT-MAN",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 953,
@@ -4919,7 +4919,7 @@
     {
       "id": 131,
       "nombre": "Scare Glow(",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 963,
@@ -6774,7 +6774,7 @@
     {
       "id": 1338,
       "nombre": "5B-PYOCOMON",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1369,
@@ -7129,12 +7129,12 @@
     {
       "id": 1411,
       "nombre": "CREEPSHOW",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1423,
       "nombre": "HALLOWEEN",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 1437,
@@ -7669,7 +7669,7 @@
     {
       "id": 1588,
       "nombre": "Z-CAPSULAS-HOI-POI",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1481,
@@ -7959,7 +7959,7 @@
     {
       "id": 1484,
       "nombre": "1A-FA16",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1489,
@@ -8419,7 +8419,7 @@
     {
       "id": 1794,
       "nombre": "VIDEL",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1832,
@@ -8883,6 +8883,16 @@
       "nombre": "Joker-Nicholson",
       "cantidad": 1,
       "rareza": "Boss"
+    },
+    {
+      "id": 1655,
+      "nombre": "AROUA",
+      "cantidad": 1
+    },
+    {
+      "id": 1760,
+      "nombre": "PAIKUHAN",
+      "cantidad": 1
     }
   ]
 }
