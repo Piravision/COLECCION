@@ -774,7 +774,7 @@
     {
       "id": 547,
       "nombre": "ROCKY",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 54,
@@ -1959,7 +1959,7 @@
     {
       "id": 645,
       "nombre": "DB-033",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 364,
@@ -2409,7 +2409,7 @@
     {
       "id": 812,
       "nombre": "KUNG-LAO",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 643,
@@ -2474,7 +2474,7 @@
     {
       "id": 483,
       "nombre": "Spider-Woman",
-      "cantidad": 10
+      "cantidad": 11
     },
     {
       "id": 797,
@@ -2519,7 +2519,7 @@
     {
       "id": 671,
       "nombre": "DB-059",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 466,
@@ -3194,7 +3194,7 @@
     {
       "id": 874,
       "nombre": "CAPTAIN-AMERICA",
-      "cantidad": 12
+      "cantidad": 13
     },
     {
       "id": 857,
@@ -3664,7 +3664,7 @@
     {
       "id": 783,
       "nombre": "BRUCE-WAYNE",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 724,
@@ -4274,7 +4274,7 @@
     {
       "id": 835,
       "nombre": "CHUN-LI",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 883,
@@ -4314,7 +4314,7 @@
     {
       "id": 982,
       "nombre": "14-FRAN-SINCLAIR",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 832,
@@ -4719,7 +4719,7 @@
     {
       "id": 1039,
       "nombre": "DAREDEVIL-2",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 1074,
@@ -5679,7 +5679,7 @@
     {
       "id": 1177,
       "nombre": "LIGHT-&-RYUK",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 1152,
@@ -5894,7 +5894,7 @@
     {
       "id": 1053,
       "nombre": "KANG",
-      "cantidad": 3
+      "cantidad": 4
     },
     {
       "id": 1153,
@@ -8755,7 +8755,7 @@
     {
       "id": 1672,
       "nombre": "BUU-FANTASMA-KAMIKAZE",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1738,
@@ -8866,7 +8866,7 @@
     {
       "id": 1777,
       "nombre": "SOLDADO-DE-TSUFUR",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1769,
@@ -8892,6 +8892,11 @@
     {
       "id": 1760,
       "nombre": "PAIKUHAN",
+      "cantidad": 1
+    },
+    {
+      "id": 1671,
+      "nombre": "BURTER",
       "cantidad": 1
     }
   ]
