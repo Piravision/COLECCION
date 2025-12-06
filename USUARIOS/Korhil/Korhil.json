@@ -1,661 +1,691 @@
 {
-    "usuario": "Korhil",
-    "cromos": [
-        {
-            "id": 1424,
-            "nombre": "HELLRAISER",
-            "cantidad": 1
-        },
-        {
-            "id": 1457,
-            "nombre": "TOMATES ASESINOS",
-            "cantidad": 1
-        },
-        {
-            "id": 1432,
-            "nombre": "LA NOVIA DE REANIMATOR",
-            "cantidad": 1
-        },
-        {
-            "id": 505,
-            "nombre": "Hwoarang",
-            "cantidad": 1
-        },
-        {
-            "id": 412,
-            "nombre": "big2",
-            "cantidad": 1
-        },
-        {
-            "id": 119,
-            "nombre": "orko",
-            "cantidad": 1
-        },
-        {
-            "id": 1059,
-            "nombre": "PUNISHER",
-            "cantidad": 1
-        },
-        {
-            "id": 1551,
-            "nombre": "F1-MUTENROSHI-JOVEN",
-            "cantidad": 1
-        },
-        {
-            "id": 502,
-            "nombre": "viktor",
-            "cantidad": 1
-        },
-        {
-            "id": 840,
-            "nombre": "FEI-LONG",
-            "cantidad": 1
-        },
-        {
-            "id": 341,
-            "nombre": "Crocodine Malvado",
-            "cantidad": 1
-        },
-        {
-            "id": 1182,
-            "nombre": "JAYCE-Y-LOS-GUERREROS-RODANTES",
-            "cantidad": 2
-        },
-        {
-            "id": 912,
-            "nombre": "SINIESTRO",
-            "cantidad": 1
-        },
-        {
-            "id": 388,
-            "nombre": "koala2",
-            "cantidad": 1
-        },
-        {
-            "id": 431,
-            "nombre": "solid",
-            "cantidad": 1
-        },
-        {
-            "id": 1512,
-            "nombre": "B1-CAPITAN-YELLOW",
-            "cantidad": 1
-        },
-        {
-            "id": 1050,
-            "nombre": "IRON-MAN-2",
-            "cantidad": 1
-        },
-        {
-            "id": 1279,
-            "nombre": "GRAN-HEROE-AMERICANO",
-            "cantidad": 1
-        },
-        {
-            "id": 1133,
-            "nombre": "AGALLAS",
-            "cantidad": 1
-        },
-        {
-            "id": 457,
-            "nombre": "hayato",
-            "cantidad": 1
-        },
-        {
-            "id": 1072,
-            "nombre": "VALKYRIE-2",
-            "cantidad": 1
-        },
-        {
-            "id": 173,
-            "nombre": "Punisher",
-            "cantidad": 1
-        },
-        {
-            "id": 257,
-            "nombre": "Mumm Ra",
-            "cantidad": 1
-        },
-        {
-            "id": 415,
-            "nombre": "emme",
-            "cantidad": 1
-        },
-        {
-            "id": 1568,
-            "nombre": "T-YAJIROBE",
-            "cantidad": 1
-        },
-        {
-            "id": 1544,
-            "nombre": "DR.-FLAPPE",
-            "cantidad": 1
-        },
-        {
-            "id": 1562,
-            "nombre": "T-JACKIE-CHUN",
-            "cantidad": 1
-        },
-        {
-            "id": 1096,
-            "nombre": "CZ-RAY-STANTZ",
-            "cantidad": 1
-        },
-        {
-            "id": 1039,
-            "nombre": "DAREDEVIL-2",
-            "cantidad": 1
-        },
-        {
-            "id": 564,
-            "nombre": "SLIMER",
-            "cantidad": 1
-        },
-        {
-            "id": 1676,
-            "nombre": "CARONI",
-            "cantidad": 1
-        },
-        {
-            "id": 954,
-            "nombre": "2-CHIP",
-            "cantidad": 1
-        },
-        {
-            "id": 941,
-            "nombre": "GREMLIN-JAIL",
-            "cantidad": 1
-        },
-        {
-            "id": 636,
-            "nombre": "DB-024",
-            "cantidad": 1
-        },
-        {
-            "id": 430,
-            "nombre": "sniper2",
-            "cantidad": 1
-        },
-        {
-            "id": 854,
-            "nombre": "RIC-FLAIR",
-            "cantidad": 1
-        },
-        {
-            "id": 748,
-            "nombre": "HAdes2",
-            "cantidad": 1
-        },
-        {
-            "id": 1065,
-            "nombre": "TH - LOKI-2",
-            "cantidad": 1
-        },
-        {
-            "id": 472,
-            "nombre": "grey",
-            "cantidad": 1
-        },
-        {
-            "id": 484,
-            "nombre": "Blowhard",
-            "cantidad": 1
-        },
-        {
-            "id": 1291,
-            "nombre": "SPARKSTER",
-            "cantidad": 1
-        },
-        {
-            "id": 752,
-            "nombre": "Mu-de-Aries",
-            "cantidad": 2
-        },
-        {
-            "id": 905,
-            "nombre": "DARKSEID",
-            "cantidad": 1
-        },
-        {
-            "id": 1607,
-            "nombre": "2I-GOHAN-MISTICO",
-            "cantidad": 1
-        },
-        {
-            "id": 444,
-            "nombre": "birki",
-            "cantidad": 1
-        },
-        {
-            "id": 147,
-            "nombre": "Carbine",
-            "cantidad": 1
-        },
-        {
-            "id": 1521,
-            "nombre": "B1-MURASAKI",
-            "cantidad": 1
-        },
-        {
-            "id": 1176,
-            "nombre": "IPPO",
-            "cantidad": 1
-        },
-        {
-            "id": 1802,
-            "nombre": "ZARBON",
-            "cantidad": 1
-        },
-        {
-            "id": 1290,
-            "nombre": "MORRIGAN",
-            "cantidad": 1
-        },
-        {
-            "id": 853,
-            "nombre": "Zangief2",
-            "cantidad": 1
-        },
-        {
-            "id": 482,
-            "nombre": "Escorpión",
-            "cantidad": 1
-        },
-        {
-            "id": 85,
-            "nombre": "Niko",
-            "cantidad": 1
-        },
-        {
-            "id": 937,
-            "nombre": "TRIPLE-H",
-            "cantidad": 1
-        },
-        {
-            "id": 942,
-            "nombre": "HANNIBAL-JAIL",
-            "cantidad": 1
-        },
-        {
-            "id": 1721,
-            "nombre": "JEWEL",
-            "cantidad": 1
-        },
-        {
-            "id": 1640,
-            "nombre": "9D-SUPER-BUU-FORMA-PICCOLO",
-            "cantidad": 1
-        },
-        {
-            "id": 1806,
-            "nombre": "ZFA-ANDROIDES",
-            "cantidad": 1
-        },
-        {
-            "id": 817,
-            "nombre": "RAIDEN",
-            "cantidad": 1
-        },
-        {
-            "id": 688,
-            "nombre": "DB-076",
-            "cantidad": 1
-        },
-        {
-            "id": 361,
-            "nombre": "uriko",
-            "cantidad": 1
-        },
-        {
-            "id": 835,
-            "nombre": "CHUN-LI",
-            "cantidad": 1
-        },
-        {
-            "id": 711,
-            "nombre": "DB-099",
-            "cantidad": 1
-        },
-        {
-            "id": 1779,
-            "nombre": "SPICE",
-            "cantidad": 1
-        },
-        {
-            "id": 1759,
-            "nombre": "ORLEN",
-            "cantidad": 1
-        },
-        {
-            "id": 1631,
-            "nombre": "7E-FREEZER-100%",
-            "cantidad": 1
-        },
-        {
-            "id": 1486,
-            "nombre": "1A-FA18",
-            "cantidad": 1
-        },
-        {
-            "id": 600,
-            "nombre": "NATUREZA",
-            "cantidad": 1
-        },
-        {
-            "id": 572,
-            "nombre": "Sgt.-SLAUGTHER",
-            "cantidad": 1
-        },
-        {
-            "id": 1813,
-            "nombre": "ZFA-FREEZER",
-            "cantidad": 1
-        },
-        {
-            "id": 802,
-            "nombre": "ROBIN",
-            "cantidad": 1
-        },
-        {
-            "id": 1046,
-            "nombre": "HERCULES",
-            "cantidad": 1
-        },
-        {
-            "id": 659,
-            "nombre": "DB-047",
-            "cantidad": 1
-        },
-        {
-            "id": 1110,
-            "nombre": "G-ZOLTAR",
-            "cantidad": 1
-        },
-        {
-            "id": 1773,
-            "nombre": "SAIBAIMAN",
-            "cantidad": 1
-        },
-        {
-            "id": 238,
-            "nombre": "Snake Mountain",
-            "cantidad": 1
-        },
-        {
-            "id": 908,
-            "nombre": "KARA-",
-            "cantidad": 1
-        },
-        {
-            "id": 754,
-            "nombre": "Pandora",
-            "cantidad": 1
-        },
-        {
-            "id": 389,
-            "nombre": "neo cortex",
-            "cantidad": 1
-        },
-        {
-            "id": 704,
-            "nombre": "DB-092",
-            "cantidad": 1
-        },
-        {
-            "id": 866,
-            "nombre": "SNAKE-JAIL",
-            "cantidad": 1
-        },
-        {
-            "id": 1755,
-            "nombre": "NAIL",
-            "cantidad": 1
-        },
-        {
-            "id": 423,
-            "nombre": "meryl2",
-            "cantidad": 1
-        },
-        {
-            "id": 282,
-            "nombre": "Krang",
-            "cantidad": 1
-        },
-        {
-            "id": 383,
-            "nombre": "viper",
-            "cantidad": 1
-        },
-        {
-            "id": 556,
-            "nombre": "LEIA-JAIL",
-            "cantidad": 1
-        },
-        {
-            "id": 215,
-            "nombre": "Castillo Grayskull",
-            "cantidad": 1
-        },
-        {
-            "id": 1478,
-            "nombre": "1A-FA10",
-            "cantidad": 1
-        },
-        {
-            "id": 1836,
-            "nombre": "SKELETOR-SUPREMO",
-            "cantidad": 1,
-            "rareza": "Boss"
-        },
-        {
-            "id": 1165,
-            "nombre": "HAWKMAN",
-            "cantidad": 1
-        },
-        {
-            "id": 446,
-            "nombre": "CUERVOS",
-            "cantidad": 1
-        },
-        {
-            "id": 404,
-            "nombre": "sefirot",
-            "cantidad": 1
-        },
-        {
-            "id": 695,
-            "nombre": "DB-083",
-            "cantidad": 1
-        },
-        {
-            "id": 645,
-            "nombre": "DB-033",
-            "cantidad": 1
-        },
-        {
-            "id": 589,
-            "nombre": "GENTILE-SALVATORE",
-            "cantidad": 1
-        },
-        {
-            "id": 1207,
-            "nombre": "4-CADILLACS-&-DINOSAURS",
-            "cantidad": 1
-        },
-        {
-            "id": 577,
-            "nombre": "ALAN-PASCAL",
-            "cantidad": 1
-        },
-        {
-            "id": 337,
-            "nombre": "Ikki de Fénix",
-            "cantidad": 1
-        },
-        {
-            "id": 1034,
-            "nombre": "CAPITAN BRITANIA-2",
-            "cantidad": 1
-        },
-        {
-            "id": 1650,
-            "nombre": "ANDROIDE-Nº17",
-            "cantidad": 1
-        },
-        {
-            "id": 288,
-            "nombre": "Splinter",
-            "cantidad": 1
-        },
-        {
-            "id": 355,
-            "nombre": "bayur",
-            "cantidad": 1
-        },
-        {
-            "id": 161,
-            "nombre": "Steelwill",
-            "cantidad": 1
-        },
-        {
-            "id": 991,
-            "nombre": "CONAN-EDOGAWA",
-            "cantidad": 1
-        },
-        {
-            "id": 28,
-            "nombre": "Presto",
-            "cantidad": 1
-        },
-        {
-            "id": 1037,
-            "nombre": "CAPITAN-AMERICA-2",
-            "cantidad": 1
-        },
-        {
-            "id": 507,
-            "nombre": "KING",
-            "cantidad": 1
-        },
-        {
-            "id": 175,
-            "nombre": "Buitre",
-            "cantidad": 1
-        },
-        {
-            "id": 1639,
-            "nombre": "9C-SUPER-BUU",
-            "cantidad": 1
-        },
-        {
-            "id": 783,
-            "nombre": "BRUCE-WAYNE",
-            "cantidad": 1
-        },
-        {
-            "id": 1049,
-            "nombre": "I-MEDUSA-2",
-            "cantidad": 1
-        },
-        {
-            "id": 1440,
-            "nombre": "NOCHE DE MIEDO",
-            "cantidad": 1
-        },
-        {
-            "id": 685,
-            "nombre": "DB-073",
-            "cantidad": 1
-        },
-        {
-            "id": 1619,
-            "nombre": "5A-SON-GOTEN",
-            "cantidad": 1
-        },
-        {
-            "id": 285,
-            "nombre": "Rocksteady",
-            "cantidad": 1
-        },
-        {
-            "id": 983,
-            "nombre": "14-ROBBIE-SINCLAIR",
-            "cantidad": 1
-        },
-        {
-            "id": 900,
-            "nombre": "THOR",
-            "cantidad": 1
-        },
-        {
-            "id": 715,
-            "nombre": "DB-103",
-            "cantidad": 1
-        },
-        {
-            "id": 618,
-            "nombre": "DB-006",
-            "cantidad": 1
-        },
-        {
-            "id": 1414,
-            "nombre": "EL REGRESO DE LOS MUERTOS",
-            "cantidad": 1
-        },
-        {
-            "id": 1086,
-            "nombre": "Z - AVENGERS",
-            "cantidad": 1
-        },
-        {
-            "id": 1141,
-            "nombre": "PATOAVENTURAS",
-            "cantidad": 1
-        },
-        {
-            "id": 810,
-            "nombre": "KANO",
-            "cantidad": 1
-        },
-        {
-            "id": 272,
-            "nombre": "Panda Khan",
-            "cantidad": 1
-        },
-        {
-            "id": 1487,
-            "nombre": "1A-FA19",
-            "cantidad": 1
-        },
-        {
-            "id": 932,
-            "nombre": "RAZOR-RAMON",
-            "cantidad": 1
-        },
-        {
-            "id": 497,
-            "nombre": "nanami",
-            "cantidad": 1
-        },
-        {
-            "id": 956,
-            "nombre": "2-GADGET",
-            "cantidad": 1
-        },
-        {
-            "id": 996,
-            "nombre": "I.KUROSAKI",
-            "cantidad": 1
-        },
-        {
-            "id": 65,
-            "nombre": "flazzard",
-            "cantidad": 1
-        },
-        {
-            "id": 1417,
-            "nombre": "ELVIRA",
-            "cantidad": 1
-        }
-    ]
+  "usuario": "Korhil",
+  "cromos": [
+    {
+      "id": 1424,
+      "nombre": "HELLRAISER",
+      "cantidad": 1
+    },
+    {
+      "id": 1457,
+      "nombre": "TOMATES ASESINOS",
+      "cantidad": 1
+    },
+    {
+      "id": 1432,
+      "nombre": "LA NOVIA DE REANIMATOR",
+      "cantidad": 1
+    },
+    {
+      "id": 505,
+      "nombre": "Hwoarang",
+      "cantidad": 1
+    },
+    {
+      "id": 412,
+      "nombre": "big2",
+      "cantidad": 1
+    },
+    {
+      "id": 119,
+      "nombre": "orko",
+      "cantidad": 1
+    },
+    {
+      "id": 1059,
+      "nombre": "PUNISHER",
+      "cantidad": 1
+    },
+    {
+      "id": 1551,
+      "nombre": "F1-MUTENROSHI-JOVEN",
+      "cantidad": 1
+    },
+    {
+      "id": 502,
+      "nombre": "viktor",
+      "cantidad": 1
+    },
+    {
+      "id": 840,
+      "nombre": "FEI-LONG",
+      "cantidad": 1
+    },
+    {
+      "id": 341,
+      "nombre": "Crocodine Malvado",
+      "cantidad": 1
+    },
+    {
+      "id": 1182,
+      "nombre": "JAYCE-Y-LOS-GUERREROS-RODANTES",
+      "cantidad": 2
+    },
+    {
+      "id": 912,
+      "nombre": "SINIESTRO",
+      "cantidad": 1
+    },
+    {
+      "id": 388,
+      "nombre": "koala2",
+      "cantidad": 1
+    },
+    {
+      "id": 431,
+      "nombre": "solid",
+      "cantidad": 1
+    },
+    {
+      "id": 1512,
+      "nombre": "B1-CAPITAN-YELLOW",
+      "cantidad": 1
+    },
+    {
+      "id": 1050,
+      "nombre": "IRON-MAN-2",
+      "cantidad": 1
+    },
+    {
+      "id": 1279,
+      "nombre": "GRAN-HEROE-AMERICANO",
+      "cantidad": 1
+    },
+    {
+      "id": 1133,
+      "nombre": "AGALLAS",
+      "cantidad": 1
+    },
+    {
+      "id": 457,
+      "nombre": "hayato",
+      "cantidad": 1
+    },
+    {
+      "id": 1072,
+      "nombre": "VALKYRIE-2",
+      "cantidad": 1
+    },
+    {
+      "id": 173,
+      "nombre": "Punisher",
+      "cantidad": 1
+    },
+    {
+      "id": 257,
+      "nombre": "Mumm Ra",
+      "cantidad": 1
+    },
+    {
+      "id": 415,
+      "nombre": "emme",
+      "cantidad": 1
+    },
+    {
+      "id": 1568,
+      "nombre": "T-YAJIROBE",
+      "cantidad": 1
+    },
+    {
+      "id": 1544,
+      "nombre": "DR.-FLAPPE",
+      "cantidad": 1
+    },
+    {
+      "id": 1562,
+      "nombre": "T-JACKIE-CHUN",
+      "cantidad": 1
+    },
+    {
+      "id": 1096,
+      "nombre": "CZ-RAY-STANTZ",
+      "cantidad": 1
+    },
+    {
+      "id": 1039,
+      "nombre": "DAREDEVIL-2",
+      "cantidad": 1
+    },
+    {
+      "id": 564,
+      "nombre": "SLIMER",
+      "cantidad": 1
+    },
+    {
+      "id": 1676,
+      "nombre": "CARONI",
+      "cantidad": 1
+    },
+    {
+      "id": 954,
+      "nombre": "2-CHIP",
+      "cantidad": 1
+    },
+    {
+      "id": 941,
+      "nombre": "GREMLIN-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 636,
+      "nombre": "DB-024",
+      "cantidad": 1
+    },
+    {
+      "id": 430,
+      "nombre": "sniper2",
+      "cantidad": 1
+    },
+    {
+      "id": 854,
+      "nombre": "RIC-FLAIR",
+      "cantidad": 1
+    },
+    {
+      "id": 748,
+      "nombre": "HAdes2",
+      "cantidad": 1
+    },
+    {
+      "id": 1065,
+      "nombre": "TH - LOKI-2",
+      "cantidad": 1
+    },
+    {
+      "id": 472,
+      "nombre": "grey",
+      "cantidad": 1
+    },
+    {
+      "id": 484,
+      "nombre": "Blowhard",
+      "cantidad": 1
+    },
+    {
+      "id": 1291,
+      "nombre": "SPARKSTER",
+      "cantidad": 1
+    },
+    {
+      "id": 752,
+      "nombre": "Mu-de-Aries",
+      "cantidad": 2
+    },
+    {
+      "id": 905,
+      "nombre": "DARKSEID",
+      "cantidad": 1
+    },
+    {
+      "id": 1607,
+      "nombre": "2I-GOHAN-MISTICO",
+      "cantidad": 1
+    },
+    {
+      "id": 444,
+      "nombre": "birki",
+      "cantidad": 1
+    },
+    {
+      "id": 147,
+      "nombre": "Carbine",
+      "cantidad": 1
+    },
+    {
+      "id": 1521,
+      "nombre": "B1-MURASAKI",
+      "cantidad": 1
+    },
+    {
+      "id": 1176,
+      "nombre": "IPPO",
+      "cantidad": 1
+    },
+    {
+      "id": 1802,
+      "nombre": "ZARBON",
+      "cantidad": 1
+    },
+    {
+      "id": 1290,
+      "nombre": "MORRIGAN",
+      "cantidad": 1
+    },
+    {
+      "id": 853,
+      "nombre": "Zangief2",
+      "cantidad": 1
+    },
+    {
+      "id": 482,
+      "nombre": "Escorpión",
+      "cantidad": 1
+    },
+    {
+      "id": 85,
+      "nombre": "Niko",
+      "cantidad": 1
+    },
+    {
+      "id": 937,
+      "nombre": "TRIPLE-H",
+      "cantidad": 1
+    },
+    {
+      "id": 942,
+      "nombre": "HANNIBAL-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1721,
+      "nombre": "JEWEL",
+      "cantidad": 1
+    },
+    {
+      "id": 1640,
+      "nombre": "9D-SUPER-BUU-FORMA-PICCOLO",
+      "cantidad": 1
+    },
+    {
+      "id": 1806,
+      "nombre": "ZFA-ANDROIDES",
+      "cantidad": 1
+    },
+    {
+      "id": 817,
+      "nombre": "RAIDEN",
+      "cantidad": 1
+    },
+    {
+      "id": 688,
+      "nombre": "DB-076",
+      "cantidad": 1
+    },
+    {
+      "id": 361,
+      "nombre": "uriko",
+      "cantidad": 1
+    },
+    {
+      "id": 835,
+      "nombre": "CHUN-LI",
+      "cantidad": 1
+    },
+    {
+      "id": 711,
+      "nombre": "DB-099",
+      "cantidad": 1
+    },
+    {
+      "id": 1779,
+      "nombre": "SPICE",
+      "cantidad": 1
+    },
+    {
+      "id": 1759,
+      "nombre": "ORLEN",
+      "cantidad": 1
+    },
+    {
+      "id": 1631,
+      "nombre": "7E-FREEZER-100%",
+      "cantidad": 1
+    },
+    {
+      "id": 1486,
+      "nombre": "1A-FA18",
+      "cantidad": 1
+    },
+    {
+      "id": 600,
+      "nombre": "NATUREZA",
+      "cantidad": 1
+    },
+    {
+      "id": 572,
+      "nombre": "Sgt.-SLAUGTHER",
+      "cantidad": 1
+    },
+    {
+      "id": 1813,
+      "nombre": "ZFA-FREEZER",
+      "cantidad": 1
+    },
+    {
+      "id": 802,
+      "nombre": "ROBIN",
+      "cantidad": 1
+    },
+    {
+      "id": 1046,
+      "nombre": "HERCULES",
+      "cantidad": 1
+    },
+    {
+      "id": 659,
+      "nombre": "DB-047",
+      "cantidad": 1
+    },
+    {
+      "id": 1110,
+      "nombre": "G-ZOLTAR",
+      "cantidad": 1
+    },
+    {
+      "id": 1773,
+      "nombre": "SAIBAIMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 238,
+      "nombre": "Snake Mountain",
+      "cantidad": 1
+    },
+    {
+      "id": 908,
+      "nombre": "KARA-",
+      "cantidad": 1
+    },
+    {
+      "id": 754,
+      "nombre": "Pandora",
+      "cantidad": 1
+    },
+    {
+      "id": 389,
+      "nombre": "neo cortex",
+      "cantidad": 1
+    },
+    {
+      "id": 704,
+      "nombre": "DB-092",
+      "cantidad": 1
+    },
+    {
+      "id": 866,
+      "nombre": "SNAKE-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 1755,
+      "nombre": "NAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 423,
+      "nombre": "meryl2",
+      "cantidad": 1
+    },
+    {
+      "id": 282,
+      "nombre": "Krang",
+      "cantidad": 1
+    },
+    {
+      "id": 383,
+      "nombre": "viper",
+      "cantidad": 1
+    },
+    {
+      "id": 556,
+      "nombre": "LEIA-JAIL",
+      "cantidad": 1
+    },
+    {
+      "id": 215,
+      "nombre": "Castillo Grayskull",
+      "cantidad": 1
+    },
+    {
+      "id": 1478,
+      "nombre": "1A-FA10",
+      "cantidad": 1
+    },
+    {
+      "id": 1836,
+      "nombre": "SKELETOR-SUPREMO",
+      "cantidad": 1,
+      "rareza": "Boss"
+    },
+    {
+      "id": 1165,
+      "nombre": "HAWKMAN",
+      "cantidad": 1
+    },
+    {
+      "id": 446,
+      "nombre": "CUERVOS",
+      "cantidad": 1
+    },
+    {
+      "id": 404,
+      "nombre": "sefirot",
+      "cantidad": 1
+    },
+    {
+      "id": 695,
+      "nombre": "DB-083",
+      "cantidad": 1
+    },
+    {
+      "id": 645,
+      "nombre": "DB-033",
+      "cantidad": 1
+    },
+    {
+      "id": 589,
+      "nombre": "GENTILE-SALVATORE",
+      "cantidad": 1
+    },
+    {
+      "id": 1207,
+      "nombre": "4-CADILLACS-&-DINOSAURS",
+      "cantidad": 1
+    },
+    {
+      "id": 577,
+      "nombre": "ALAN-PASCAL",
+      "cantidad": 1
+    },
+    {
+      "id": 337,
+      "nombre": "Ikki de Fénix",
+      "cantidad": 1
+    },
+    {
+      "id": 1034,
+      "nombre": "CAPITAN BRITANIA-2",
+      "cantidad": 1
+    },
+    {
+      "id": 1650,
+      "nombre": "ANDROIDE-Nº17",
+      "cantidad": 1
+    },
+    {
+      "id": 288,
+      "nombre": "Splinter",
+      "cantidad": 1
+    },
+    {
+      "id": 355,
+      "nombre": "bayur",
+      "cantidad": 1
+    },
+    {
+      "id": 161,
+      "nombre": "Steelwill",
+      "cantidad": 1
+    },
+    {
+      "id": 991,
+      "nombre": "CONAN-EDOGAWA",
+      "cantidad": 1
+    },
+    {
+      "id": 28,
+      "nombre": "Presto",
+      "cantidad": 1
+    },
+    {
+      "id": 1037,
+      "nombre": "CAPITAN-AMERICA-2",
+      "cantidad": 1
+    },
+    {
+      "id": 507,
+      "nombre": "KING",
+      "cantidad": 1
+    },
+    {
+      "id": 175,
+      "nombre": "Buitre",
+      "cantidad": 1
+    },
+    {
+      "id": 1639,
+      "nombre": "9C-SUPER-BUU",
+      "cantidad": 1
+    },
+    {
+      "id": 783,
+      "nombre": "BRUCE-WAYNE",
+      "cantidad": 1
+    },
+    {
+      "id": 1049,
+      "nombre": "I-MEDUSA-2",
+      "cantidad": 1
+    },
+    {
+      "id": 1440,
+      "nombre": "NOCHE DE MIEDO",
+      "cantidad": 1
+    },
+    {
+      "id": 685,
+      "nombre": "DB-073",
+      "cantidad": 1
+    },
+    {
+      "id": 1619,
+      "nombre": "5A-SON-GOTEN",
+      "cantidad": 1
+    },
+    {
+      "id": 285,
+      "nombre": "Rocksteady",
+      "cantidad": 1
+    },
+    {
+      "id": 983,
+      "nombre": "14-ROBBIE-SINCLAIR",
+      "cantidad": 1
+    },
+    {
+      "id": 900,
+      "nombre": "THOR",
+      "cantidad": 1
+    },
+    {
+      "id": 715,
+      "nombre": "DB-103",
+      "cantidad": 1
+    },
+    {
+      "id": 618,
+      "nombre": "DB-006",
+      "cantidad": 1
+    },
+    {
+      "id": 1414,
+      "nombre": "EL REGRESO DE LOS MUERTOS",
+      "cantidad": 1
+    },
+    {
+      "id": 1086,
+      "nombre": "Z - AVENGERS",
+      "cantidad": 1
+    },
+    {
+      "id": 1141,
+      "nombre": "PATOAVENTURAS",
+      "cantidad": 1
+    },
+    {
+      "id": 810,
+      "nombre": "KANO",
+      "cantidad": 1
+    },
+    {
+      "id": 272,
+      "nombre": "Panda Khan",
+      "cantidad": 1
+    },
+    {
+      "id": 1487,
+      "nombre": "1A-FA19",
+      "cantidad": 1
+    },
+    {
+      "id": 932,
+      "nombre": "RAZOR-RAMON",
+      "cantidad": 1
+    },
+    {
+      "id": 497,
+      "nombre": "nanami",
+      "cantidad": 1
+    },
+    {
+      "id": 956,
+      "nombre": "2-GADGET",
+      "cantidad": 1
+    },
+    {
+      "id": 996,
+      "nombre": "I.KUROSAKI",
+      "cantidad": 1
+    },
+    {
+      "id": 65,
+      "nombre": "flazzard",
+      "cantidad": 1
+    },
+    {
+      "id": 1417,
+      "nombre": "ELVIRA",
+      "cantidad": 1
+    },
+    {
+      "id": 140,
+      "nombre": "Mallory McMallard",
+      "cantidad": 1
+    },
+    {
+      "id": 324,
+      "nombre": "Wolverine",
+      "cantidad": 1
+    },
+    {
+      "id": 1005,
+      "nombre": "RANMA-1_2",
+      "cantidad": 1
+    },
+    {
+      "id": 376,
+      "nombre": "guile",
+      "cantidad": 1
+    },
+    {
+      "id": 1783,
+      "nombre": "SUPER-BROLY",
+      "cantidad": 1
+    },
+    {
+      "id": 1246,
+      "nombre": "LA-NINERA",
+      "cantidad": 1
+    }
+  ]
 }
