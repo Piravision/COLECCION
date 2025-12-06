@@ -1279,12 +1279,12 @@
     {
       "id": 87,
       "nombre": "Walter _Doc_ Hartford",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 799,
       "nombre": "POISON-IVY",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 1070,
@@ -2774,7 +2774,7 @@
     {
       "id": 936,
       "nombre": "THE-ROCK",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 514,
@@ -2794,7 +2794,7 @@
     {
       "id": 75,
       "nombre": "mac",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 636,
@@ -8768,7 +8768,7 @@
     {
       "id": 1799,
       "nombre": "YAMCHA",
-      "cantidad": 1
+      "cantidad": 2
     },
     {
       "id": 1633,
@@ -9039,6 +9039,11 @@
     {
       "id": 1614,
       "nombre": "4A-TRUNKS-NIÑO",
+      "cantidad": 1
+    },
+    {
+      "id": 1594,
+      "nombre": "1A-SON-GOKU",
       "cantidad": 1
     }
   ]
