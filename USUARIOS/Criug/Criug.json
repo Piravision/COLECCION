@@ -1389,7 +1389,7 @@
     {
       "id": 240,
       "nombre": "Terror Drome",
-      "cantidad": 12
+      "cantidad": 13
     },
     {
       "id": 354,
@@ -2994,7 +2994,7 @@
     {
       "id": 731,
       "nombre": "DB-119",
-      "cantidad": 7
+      "cantidad": 8
     },
     {
       "id": 825,
@@ -3169,7 +3169,7 @@
     {
       "id": 679,
       "nombre": "DB-067",
-      "cantidad": 10
+      "cantidad": 11
     },
     {
       "id": 809,
@@ -4214,7 +4214,7 @@
     {
       "id": 973,
       "nombre": "8-WILLY",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 999,
@@ -7044,7 +7044,7 @@
     {
       "id": 1415,
       "nombre": "EL RESPLANDOR",
-      "cantidad": 6
+      "cantidad": 7
     },
     {
       "id": 1459,
@@ -8861,6 +8861,11 @@
     {
       "id": 1622,
       "nombre": "6A-GOTENKS",
+      "cantidad": 1
+    },
+    {
+      "id": 1777,
+      "nombre": "SOLDADO-DE-TSUFUR",
       "cantidad": 1
     }
   ]
