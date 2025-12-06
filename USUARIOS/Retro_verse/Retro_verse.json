@@ -1564,7 +1564,7 @@
         {
             "id": 281,
             "nombre": "Granitor",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 97,
@@ -2234,7 +2234,7 @@
         {
             "id": 438,
             "nombre": "molluck",
-            "cantidad": 5
+            "cantidad": 4
         },
         {
             "id": 632,
@@ -8425,6 +8425,11 @@
         {
             "id": 1599,
             "nombre": "2A-GOHAN-NIÑO",
+            "cantidad": 1
+        },
+        {
+            "id": 1595,
+            "nombre": "1B-GOKU-KAIOKEN",
             "cantidad": 1
         }
     ]

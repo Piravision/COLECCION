@@ -2624,12 +2624,12 @@
         {
             "id": 1268,
             "nombre": "EZIO-AUDITORE",
-            "cantidad": 4
+            "cantidad": 3
         },
         {
             "id": 851,
             "nombre": "VEGA",
-            "cantidad": 3
+            "cantidad": 4
         },
         {
             "id": 1342,
@@ -3199,7 +3199,7 @@
         {
             "id": 464,
             "nombre": "yamada",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 458,
@@ -6704,7 +6704,7 @@
         {
             "id": 1595,
             "nombre": "1B-GOKU-KAIOKEN",
-            "cantidad": 2
+            "cantidad": 1
         },
         {
             "id": 1639,
@@ -7494,7 +7494,7 @@
         {
             "id": 540,
             "nombre": "CHUCK-NORRIS",
-            "cantidad": 1
+            "cantidad": 2
         },
         {
             "id": 323,
@@ -8979,6 +8979,11 @@
         {
             "id": 1636,
             "nombre": "8E-CELL-FORMA-PERFECTA",
+            "cantidad": 1
+        },
+        {
+            "id": 1675,
+            "nombre": "CAPITAN-GINYU",
             "cantidad": 1
         }
     ]
