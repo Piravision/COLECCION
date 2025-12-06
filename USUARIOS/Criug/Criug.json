@@ -1314,7 +1314,7 @@
     {
       "id": 245,
       "nombre": "Felino",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 414,
@@ -1709,7 +1709,7 @@
     {
       "id": 231,
       "nombre": "Manual de Avan",
-      "cantidad": 5
+      "cantidad": 6
     },
     {
       "id": 474,
@@ -3909,7 +3909,7 @@
     {
       "id": 789,
       "nombre": "ENIGMA",
-      "cantidad": 8
+      "cantidad": 9
     },
     {
       "id": 962,
@@ -6659,7 +6659,7 @@
     {
       "id": 1301,
       "nombre": "1A-TAI",
-      "cantidad": 4
+      "cantidad": 5
     },
     {
       "id": 1333,
@@ -7659,7 +7659,7 @@
     {
       "id": 1534,
       "nombre": "D2-TAMBOURINE",
-      "cantidad": 2
+      "cantidad": 3
     },
     {
       "id": 1559,
@@ -8831,6 +8831,11 @@
     {
       "id": 1652,
       "nombre": "ANDROIDE-Nº19",
+      "cantidad": 1
+    },
+    {
+      "id": 1697,
+      "nombre": "FROUG",
       "cantidad": 1
     }
   ]
